@@ -30,3 +30,11 @@ vendor
 *.tmp
 *.bak
 *.log
+
+# Large source binaries & scan artifacts — kept on disk, not tracked in git.
+# (Source PDFs, 300-DPI page renders, and zoom-crop scratch images.)
+french/*.pdf
+french/extracted/*/images/
+french/extracted/_tools/*.png
+*.png
+!site/assets/img/*.png
