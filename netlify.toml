@@ -1,0 +1,22 @@
+# Netlify configuration for the LingoTran Extraction Dashboard.
+# Static site — no build step. The publishable site lives in ./site.
+
+[build]
+  publish = "site"
+
+# Long-cache the versioned assets; HTML stays revalidated.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Friendly 404 -> home (optional; safe for this small doc site).
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 404
