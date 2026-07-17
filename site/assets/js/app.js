@@ -52,8 +52,9 @@
   /* ---- 2. Mobile drawer ------------------------------------------------ */
   function initDrawer() {
     var sb = $("#sidebar"), scrim = $("#scrim"), burger = $("#hamburger");
-    function close() { if (sb) sb.classList.remove("open"); if (scrim) scrim.classList.remove("show"); }
-    function open() { if (sb) sb.classList.add("open"); if (scrim) scrim.classList.add("show"); }
+    var root = document.documentElement;
+    function close() { if (sb) sb.classList.remove("open"); if (scrim) scrim.classList.remove("show"); root.classList.remove("nav-lock"); }
+    function open() { if (sb) sb.classList.add("open"); if (scrim) scrim.classList.add("show"); root.classList.add("nav-lock"); }
     if (burger) burger.addEventListener("click", function () {
       sb.classList.contains("open") ? close() : open();
     });
@@ -62,6 +63,7 @@
       if (e.target.closest(".nav-link") && window.innerWidth <= 960) close();
     });
     window.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
+    window.addEventListener("resize", function () { if (window.innerWidth > 960) close(); });
   }
 
   /* ---- 3. Build sidebar nav from sections ------------------------------ */
@@ -89,25 +91,42 @@
   function initScrollSpy() {
     var links = $all(".nav-link[data-target]");
     if (!links.length) return;
-    var map = {};
-    links.forEach(function (l) { map[l.getAttribute("data-target")] = l; });
+    var byId = {};
+    links.forEach(function (l) { byId[l.getAttribute("data-target")] = l; });
     var secs = $all(".section[data-nav]");
-    var visible = {};
-    function setActive(id) {
-      links.forEach(function (l) { l.classList.toggle("active", l.getAttribute("data-target") === id); });
+    if (!secs.length) return;
+    var tb = $(".topbar");
+    var sb = $("#sidebar");
+    var activeId = null, ticking = false;
+
+    function keepInView(link) {
+      if (!sb || window.innerWidth <= 960) return;
+      var r = link.getBoundingClientRect(), sr = sb.getBoundingClientRect();
+      if (r.top < sr.top) sb.scrollTop -= (sr.top - r.top) + 12;
+      else if (r.bottom > sr.bottom) sb.scrollTop += (r.bottom - sr.bottom) + 12;
     }
-    var io = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) { visible[e.target.id] = e.isIntersecting ? e.boundingClientRect.top : null; });
-      var best = null, bestTop = Infinity;
-      secs.forEach(function (s) {
-        if (visible[s.id] != null) {
-          var top = s.getBoundingClientRect().top;
-          if (top < bestTop) { bestTop = top; best = s.id; }
+    function update() {
+      ticking = false;
+      var threshold = (tb ? tb.offsetHeight : 60) + 28;
+      var doc = document.documentElement;
+      var atBottom = (window.innerHeight + window.scrollY) >= (doc.scrollHeight - 4);
+      var current = secs[0].id;
+      if (atBottom) {
+        current = secs[secs.length - 1].id;
+      } else {
+        for (var i = 0; i < secs.length; i++) {
+          if (secs[i].getBoundingClientRect().top <= threshold) current = secs[i].id;
         }
-      });
-      if (best) setActive(best);
-    }, { rootMargin: "-70px 0px -70% 0px", threshold: 0 });
-    secs.forEach(function (s) { io.observe(s); });
+      }
+      if (current === activeId) return;
+      activeId = current;
+      links.forEach(function (l) { l.classList.toggle("active", l.getAttribute("data-target") === current); });
+      if (byId[current]) keepInView(byId[current]);
+    }
+    function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    update();
   }
 
   /* ---- 5. Sidebar search ---------------------------------------------- */

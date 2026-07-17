@@ -76,7 +76,8 @@
 
 /* ---- 2. Base ------------------------------------------------------------ */
 *{box-sizing:border-box;}
-html{scroll-behavior:smooth;}
+html{scroll-behavior:smooth; scroll-padding-top:80px;}
+html.nav-lock{overflow:hidden;}
 body{
   margin:0; font-family:var(--sans); font-weight:500; font-size:16px; line-height:1.7;
   color:var(--body); background:var(--bg);
@@ -199,7 +200,7 @@ img{max-width:100%;}
 }
 
 /* ---- 5. Sections & typography ------------------------------------------ */
-.section{padding-top:var(--sp-7); scroll-margin-top:calc(var(--topbar-h) + 20px);}
+.section{padding-top:var(--sp-7);}
 .section:first-of-type{padding-top:var(--sp-2);}
 .eyebrow{font-weight:700; font-size:12px; letter-spacing:1.6px; text-transform:uppercase; color:var(--coral); display:block; margin:0 0 10px;}
 .section-title{font-weight:800; font-size:clamp(24px,3vw,34px); line-height:1.18; letter-spacing:-.5px; color:var(--text); margin:0 0 12px;}
@@ -266,7 +267,7 @@ hr.rule{border:0; border-top:1px solid var(--border); margin:var(--sp-6) 0 0;}
 /* ---- 8. Tables ---------------------------------------------------------- */
 .table-wrap{overflow-x:auto; border:1px solid var(--border); border-radius:var(--r-md); margin:16px 0; background:var(--surface);}
 table{width:100%; border-collapse:collapse; font-size:14px;}
-thead th{position:sticky; top:0; background:var(--surface-2); z-index:1;}
+thead th{background:var(--surface-2);}
 th,td{text-align:left; padding:11px 14px; border-bottom:1px solid var(--border-soft); vertical-align:top;}
 th{font-weight:800; color:var(--text); font-size:11.5px; letter-spacing:.5px; text-transform:uppercase;}
 tbody tr:last-child td{border-bottom:0;}
