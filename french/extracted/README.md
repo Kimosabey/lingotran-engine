@@ -1,7 +1,7 @@
 # French A1/A2 — Extracted content
 
 Lossless Markdown extraction of two scanned French practice books, for ingestion into the
-**lingotran** language-learning platform. **Goal: zero data loss** — every heading, instruction,
+**Lingotran** language-learning platform. **Goal: zero data loss** — every heading, instruction,
 table, exercise, blank, example, answer key, caption and page number is captured verbatim.
 
 ## Books

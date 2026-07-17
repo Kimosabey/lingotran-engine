@@ -1,5 +1,5 @@
 /* ==========================================================================
-   LingoTran Extraction Dashboard — single source of data
+   Lingotran Extraction Dashboard — single source of data
    Edit numbers here to refresh the whole site. Figures are sourced from
    french/extracted/manifest.tsv (authoritative) via MANIFEST.md, the two book
    READMEs, and _tools/transcribe.workflow.js (prompt text, verbatim).
@@ -9,12 +9,12 @@ window.LT = (function () {
 
   /* ---- Deployment ------------------------------------------------------ */
   // ▸ Paste your live Netlify URL here (replaces the placeholder in the topbar badge).
-  const NETLIFY_URL = "https://lingotran-engine.netlify.app";
-  const REPO_URL = "https://github.com/Kimosabey/lingotran-engine";
+  const NETLIFY_URL = "https://Lingotran-engine.netlify.app";
+  const REPO_URL = "https://github.com/Kimosabey/Lingotran-engine";
 
   /* ---- Engine ---------------------------------------------------------- */
   const engine = {
-    name: "LingoTran Engine",
+    name: "Lingotran Engine",
     kicker: "Extraction Knowledge Base",
     purpose: "A scalable workflow for extracting structured linguistic data from scanned " +
       "language-learning PDFs — turning textbook content into clean, faithful, structured " +
@@ -23,13 +23,13 @@ window.LT = (function () {
     method: "Claude-vision transcription of 300-DPI page scans (no text layer), verified by an " +
       "adversarial QA pass and repaired until faithful.",
     languages: [
-      { name: "French", flag: "🇫🇷", slug: "french", status: "active", href: "/french/", books: 2, spreads: 287 },
-      { name: "German", flag: "🇩🇪", slug: "german", status: "planned" },
-      { name: "Japanese", flag: "🇯🇵", slug: "japanese", status: "planned" },
-      { name: "Portuguese", flag: "🇵🇹", slug: "portuguese", status: "planned" },
-      { name: "Romanian", flag: "🇷🇴", slug: "romanian", status: "planned" },
-      { name: "Russian", flag: "🇷🇺", slug: "russian", status: "planned" },
-      { name: "Spanish", flag: "🇪🇸", slug: "spanish", status: "planned" }
+      { name: "French", code: "FR", slug: "french", status: "active", href: "french/", books: 2, spreads: 287 },
+      { name: "German", code: "DE", slug: "german", status: "planned" },
+      { name: "Japanese", code: "JA", slug: "japanese", status: "planned" },
+      { name: "Portuguese", code: "PT", slug: "portuguese", status: "planned" },
+      { name: "Romanian", code: "RO", slug: "romanian", status: "planned" },
+      { name: "Russian", code: "RU", slug: "russian", status: "planned" },
+      { name: "Spanish", code: "ES", slug: "spanish", status: "planned" }
     ]
   };
 
@@ -199,7 +199,7 @@ Return the final verdict.`
 
   /* ---- French corpus --------------------------------------------------- */
   const french = {
-    slug: "french", name: "French", flag: "🇫🇷", level: "A1 / A2 (CEFR)",
+    slug: "french", name: "French", code: "FR", level: "A1 / A2 (CEFR)",
     aggregate: { books: 2, spreads: 287, transcribed: 102, verified: 60, qaPass: 51, qaFail: 16 },
     books: {
 
@@ -254,7 +254,7 @@ Return the final verdict.`
         source: "Pratique Révision 2.pdf",
         author: "", publisher: "",
         blurb: "A combined vocabulary + grammar/conjugation revision workbook in 28 units (Vocabulaire 1–12, " +
-          "Grammaire/Conjugaison 13–28), with listening tasks (🔊 audio badges) and a Corrigés section near " +
+          "Grammaire/Conjugaison 13–28), with listening tasks (audio-track badges) and a Corrigés section near " +
           "the end. Extraction not yet started — images captured, transcription pending.",
         spreads: 181, transcribed: 0, verified: 0, pending: 181,
         qaTotal: 0, qaPass: 0, qaFail: 0,

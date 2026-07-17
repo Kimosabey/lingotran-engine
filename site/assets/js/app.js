@@ -1,5 +1,5 @@
 /* ==========================================================================
-   LingoTran Extraction Dashboard — behavior + data-driven rendering
+   Lingotran Extraction Dashboard — behavior + data-driven rendering
    Vanilla JS, no dependencies. Reads window.LT (see data.js).
    ========================================================================== */
 (function () {
@@ -49,65 +49,40 @@
     });
   }
 
-  /* ---- 2. Mobile drawer ------------------------------------------------ */
-  function initDrawer() {
-    var sb = $("#sidebar"), scrim = $("#scrim"), burger = $("#hamburger");
-    var root = document.documentElement;
-    function close() { if (sb) sb.classList.remove("open"); if (scrim) scrim.classList.remove("show"); root.classList.remove("nav-lock"); }
-    function open() { if (sb) sb.classList.add("open"); if (scrim) scrim.classList.add("show"); root.classList.add("nav-lock"); }
-    if (burger) burger.addEventListener("click", function () {
-      sb.classList.contains("open") ? close() : open();
-    });
-    if (scrim) scrim.addEventListener("click", close);
-    if (sb) sb.addEventListener("click", function (e) {
-      if (e.target.closest(".nav-link") && window.innerWidth <= 960) close();
-    });
-    window.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
-    window.addEventListener("resize", function () { if (window.innerWidth > 960) close(); });
-  }
-
-  /* ---- 3. Build sidebar nav from sections ------------------------------ */
-  function buildNav() {
-    var nav = $("#nav");
+  /* ---- 3. Build the app-bar section tabs from sections ----------------- */
+  function buildSubnav() {
+    var nav = $("#subnav");
     if (!nav) return;
-    var groups = {}, order = [];
+    var lastGroup = null;
     $all(".section[data-nav]").forEach(function (sec) {
-      var g = sec.getAttribute("data-nav-group") || "On this page";
-      if (!groups[g]) { groups[g] = []; order.push(g); }
-      groups[g].push({ id: sec.id, label: sec.getAttribute("data-nav") });
-    });
-    order.forEach(function (g) {
-      var box = el("div", { class: "nav-group" }, [el("p", { class: "nav-title", text: g })]);
-      groups[g].forEach(function (it) {
-        var a = el("a", { class: "nav-link", href: "#" + it.id, "data-target": it.id },
-          [el("span", { class: "dot" }), document.createTextNode(it.label)]);
-        box.appendChild(a);
-      });
-      nav.appendChild(box);
+      var g = sec.getAttribute("data-nav-group") || "";
+      if (lastGroup !== null && g !== lastGroup) nav.appendChild(el("span", { class: "divider", "aria-hidden": "true" }));
+      lastGroup = g;
+      nav.appendChild(el("a", { href: "#" + sec.id, "data-target": sec.id, title: g }, sec.getAttribute("data-nav")));
     });
   }
 
   /* ---- 4. Scroll-spy --------------------------------------------------- */
   function initScrollSpy() {
-    var links = $all(".nav-link[data-target]");
+    var links = $all("#subnav a[data-target]");
     if (!links.length) return;
     var byId = {};
     links.forEach(function (l) { byId[l.getAttribute("data-target")] = l; });
     var secs = $all(".section[data-nav]");
     if (!secs.length) return;
     var tb = $(".topbar");
-    var sb = $("#sidebar");
+    var snv = $("#subnav");
     var activeId = null, ticking = false;
 
     function keepInView(link) {
-      if (!sb || window.innerWidth <= 960) return;
-      var r = link.getBoundingClientRect(), sr = sb.getBoundingClientRect();
-      if (r.top < sr.top) sb.scrollTop -= (sr.top - r.top) + 12;
-      else if (r.bottom > sr.bottom) sb.scrollTop += (r.bottom - sr.bottom) + 12;
+      if (!snv) return;
+      var r = link.getBoundingClientRect(), nr = snv.getBoundingClientRect();
+      if (r.left < nr.left + 8) snv.scrollLeft -= (nr.left + 8 - r.left);
+      else if (r.right > nr.right - 8) snv.scrollLeft += (r.right - (nr.right - 8));
     }
     function update() {
       ticking = false;
-      var threshold = (tb ? tb.offsetHeight : 60) + 28;
+      var threshold = (tb ? tb.offsetHeight : 60) + (snv ? snv.offsetHeight : 0) + 20;
       var doc = document.documentElement;
       var atBottom = (window.innerHeight + window.scrollY) >= (doc.scrollHeight - 4);
       var current = secs[0].id;
@@ -129,28 +104,16 @@
     update();
   }
 
-  /* ---- 5. Sidebar search ---------------------------------------------- */
+  /* ---- 5. Filter the app-bar tabs via the search box ------------------- */
   function initSearch() {
     var input = $("#search-input");
     if (!input) return;
+    var tabs = $all("#subnav a");
     function run() {
       var q = input.value.trim().toLowerCase();
-      var anyGroup = false;
-      $all(".nav-group").forEach(function (grp) {
-        var anyLink = false;
-        $all(".nav-link", grp).forEach(function (l) {
-          var hit = !q || l.textContent.toLowerCase().indexOf(q) !== -1;
-          l.classList.toggle("hide", !hit);
-          if (hit) anyLink = true;
-        });
-        grp.classList.toggle("hide", !anyLink);
-        if (anyLink) anyGroup = true;
+      tabs.forEach(function (a) {
+        a.classList.toggle("hide", !!q && a.textContent.toLowerCase().indexOf(q) === -1);
       });
-      var nav = $("#nav"), empty = $("#nav-empty");
-      if (!anyGroup) {
-        if (!empty) { empty = el("p", { class: "nav-empty", id: "nav-empty" }); nav.appendChild(empty); }
-        empty.textContent = 'No sections match "' + input.value + '"';
-      } else if (empty) empty.remove();
     }
     input.addEventListener("input", run);
     window.addEventListener("keydown", function (e) {
@@ -161,7 +124,6 @@
 
   /* ---- 6. Topbar links from data -------------------------------------- */
   function initTopbar() {
-    var d = $("[data-deploy]"); if (d && LT.NETLIFY_URL) d.setAttribute("href", LT.NETLIFY_URL);
     $all("[data-repo]").forEach(function (r) { if (LT.REPO_URL) r.setAttribute("href", LT.REPO_URL); });
     var y = $("#year"); if (y) y.textContent = "2026";
   }
@@ -315,7 +277,7 @@
         var attrs = { class: "lang-card" + (active ? "" : " soon") };
         if (active) attrs.href = l.href;
         var card = el(active ? "a" : "div", attrs, [
-          el("div", { class: "flag", text: l.flag }),
+          el("div", { class: "lang-badge" + (active ? "" : " soon"), text: l.code }),
           el("h3", { text: l.name }),
           el("div", { class: "meta", text: active ? (l.books + " books · " + l.spreads + " spreads") : "Planned" }),
           el("div", { class: "foot" }, [
@@ -360,7 +322,7 @@
       Object.keys(books).forEach(function (slug) {
         var b = books[slug];
         var started = b.transcribed > 0;
-        var card = el("a", { class: "card lang-card", href: "/french/" + slug + "/" }, [
+        var card = el("a", { class: "card lang-card", href: slug + "/" }, [
           el("div", { class: "book-card" }, [
             el("div", { class: "toprow" }, [
               el("div", {}, [ el("h3", { text: b.title }), el("div", { class: "src", text: b.source }) ]),
@@ -422,10 +384,9 @@
   function boot() {
     initTopbar();
     runRenderers();
-    buildNav();
+    buildSubnav();
     initSearch();
     initScrollSpy();
-    initDrawer();
     initTheme();
   }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);

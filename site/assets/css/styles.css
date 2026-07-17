@@ -1,6 +1,6 @@
 /* ==========================================================================
-   LingoTran — Extraction Reference Dashboard
-   Design system lifted verbatim from design/lingotran-brand-guidelines.html
+   Lingotran — Extraction Reference Dashboard
+   Design system lifted verbatim from design/Lingotran-brand-guidelines.html
    (colors, type, components). Docs shell + dark mode authored on top of it.
    ========================================================================== */
 
@@ -76,8 +76,16 @@
 
 /* ---- 2. Base ------------------------------------------------------------ */
 *{box-sizing:border-box;}
-html{scroll-behavior:smooth; scroll-padding-top:80px;}
+html{scroll-behavior:smooth; scroll-padding-top:116px;}
 html.nav-lock{overflow:hidden;}
+/* Hide the page vertical scrollbar (scrolling still works via wheel/touch/keys). */
+html{scrollbar-width:none; -ms-overflow-style:none;}
+html::-webkit-scrollbar{width:0; height:0;}
+/* Inner scrollers (code blocks, wide tables, the drawer) keep a thin, subtle bar. */
+.table-wrap, pre, .sidebar{scrollbar-width:thin; scrollbar-color:var(--border) transparent;}
+.table-wrap::-webkit-scrollbar, pre::-webkit-scrollbar, .sidebar::-webkit-scrollbar{width:9px; height:9px;}
+.table-wrap::-webkit-scrollbar-thumb, pre::-webkit-scrollbar-thumb, .sidebar::-webkit-scrollbar-thumb{background:var(--border); border-radius:8px; border:2px solid transparent; background-clip:content-box;}
+.table-wrap::-webkit-scrollbar-track, pre::-webkit-scrollbar-track, .sidebar::-webkit-scrollbar-track{background:transparent;}
 body{
   margin:0; font-family:var(--sans); font-weight:500; font-size:16px; line-height:1.7;
   color:var(--body); background:var(--bg);
@@ -146,22 +154,33 @@ img{max-width:100%;}
   :root:not([data-theme="light"]) .icon-btn .sun{display:none;}
   :root:not([data-theme="light"]) .icon-btn .moon{display:block;}
 }
-.btn-deploy{
-  display:inline-flex; align-items:center; gap:8px; height:38px; padding:0 16px;
-  font-weight:700; font-size:13px; color:#fff; background:var(--brand-purple);
-  border-radius:10px; border:0; white-space:nowrap;
-}
-.btn-deploy:hover{text-decoration:none; filter:brightness(1.08);}
-.hamburger{display:none;}
+.hamburger{display:inline-flex;}
 
-.layout{display:grid; grid-template-columns:var(--sidebar-w) 1fr; align-items:start;}
+/* app-bar inline nav (top-level pages) */
+.appnav{display:flex; align-items:center; gap:2px; margin-left:6px;}
+.appnav a{padding:7px 12px; border-radius:9px; font-weight:700; font-size:14px; color:var(--body);}
+.appnav a:hover{background:var(--surface-2); color:var(--text); text-decoration:none;}
+.appnav a.active{background:var(--accent-soft); color:var(--accent);}
 
-.sidebar{
-  position:sticky; top:var(--topbar-h); height:calc(100vh - var(--topbar-h));
-  overflow-y:auto; overscroll-behavior:contain;
-  background:var(--sidebar-bg); border-right:1px solid var(--border);
-  padding:var(--sp-5) var(--sp-3) var(--sp-6);
+.layout{display:block;}
+
+/* app-bar section tabs — sticky horizontal strip under the top bar, no sidebar/drawer */
+.subnav{
+  position:sticky; top:var(--topbar-h); z-index:40;
+  display:flex; align-items:center; gap:2px;
+  height:46px; padding:0 var(--sp-5);
+  background:var(--surface); border-bottom:1px solid var(--border);
+  overflow-x:auto; overflow-y:hidden; scrollbar-width:none;
 }
+.subnav::-webkit-scrollbar{display:none;}
+.subnav a{
+  flex:none; padding:7px 13px; border-radius:9px; font-size:13.5px; font-weight:700;
+  color:var(--muted); white-space:nowrap; transition:background .12s,color .12s;
+}
+.subnav a:hover{background:var(--surface-2); color:var(--text); text-decoration:none;}
+.subnav a.active{color:var(--accent); background:var(--accent-soft);}
+.subnav a.hide{display:none;}
+.subnav .divider{flex:none; width:1px; height:20px; background:var(--border); margin:0 8px;}
 .nav-group{margin-bottom:var(--sp-5);}
 .nav-group > .nav-title{
   font-weight:800; font-size:11px; letter-spacing:.8px; text-transform:uppercase;
@@ -338,7 +357,8 @@ pre .str{color:#B7F0D8;}
 .lang-card{position:relative; display:block; background:var(--surface); border:1px solid var(--border); border-radius:var(--r-xl); padding:22px; box-shadow:var(--shadow-sm); transition:transform .14s,box-shadow .14s,border-color .14s; color:inherit;}
 .lang-card:hover{transform:translateY(-3px); box-shadow:var(--shadow-lg); text-decoration:none; border-color:var(--violet);}
 .lang-card.soon{opacity:.62;}
-.lang-card .flag{font-size:26px; line-height:1;}
+.lang-badge{display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:13px; font-weight:800; font-size:15px; letter-spacing:.5px; color:#fff; background:var(--grad-brand); box-shadow:var(--shadow-sm);}
+.lang-badge.soon{background:var(--surface-2); color:var(--muted); border:1px solid var(--border);}
 .lang-card h3{margin:12px 0 2px; font-weight:800; font-size:18px;}
 .lang-card .meta{font-size:13px; color:var(--muted);}
 .lang-card .foot{margin-top:14px; display:flex; align-items:center; justify-content:space-between; font-size:13px;}
@@ -360,25 +380,17 @@ pre .str{color:#B7F0D8;}
 .dl dt{font-weight:700; color:var(--text); font-family:var(--mono); font-size:13px;}
 .dl dd{margin:0; color:var(--body);}
 
-/* ---- 15. Responsive: sidebar -> drawer --------------------------------- */
+/* ---- 15. Responsive ---------------------------------------------------- */
 .scrim{position:fixed; inset:0; background:var(--scrim); z-index:40; opacity:0; visibility:hidden; transition:opacity .2s;}
+.scrim.show{opacity:1; visibility:visible;}
+@media (max-width:720px){ .appnav{display:none;} }
 @media (max-width:960px){
-  .layout{grid-template-columns:1fr;}
-  .hamburger{display:inline-flex;}
-  .sidebar{
-    position:fixed; top:var(--topbar-h); left:0; z-index:45; width:290px; max-width:86vw;
-    height:calc(100vh - var(--topbar-h)); transform:translateX(-102%); transition:transform .24s ease;
-    box-shadow:var(--shadow-lg);
-  }
-  .sidebar.open{transform:translateX(0);}
-  .scrim.show{opacity:1; visibility:visible;}
   .main{padding:var(--sp-5) var(--sp-4) var(--sp-8);}
-  .search{width:auto; flex:1;}
+  .search{flex:1;}
 }
 @media (max-width:560px){
   .topbar{padding:0 14px; gap:10px;}
   .topbar .brand .kicker{display:none;}
-  .btn-deploy span{display:none;}
   .pagehero{padding:28px 22px;}
 }
 @media (prefers-reduced-motion:reduce){ *{transition:none !important; scroll-behavior:auto !important;} }

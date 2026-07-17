@@ -1,4 +1,4 @@
-# Netlify configuration for the LingoTran Extraction Dashboard.
+# Netlify configuration for the Lingotran Extraction Dashboard.
 # Static site — no build step. The publishable site lives in ./site.
 
 [build]
