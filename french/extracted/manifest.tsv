@@ -1,0 +1,288 @@
+book	page	status	orientation	content_type	level	section	qa	notes
+conjugaison-a1-a2	001	verified	0	[cover]	A1+A2 (inferred)	cover	pass	
+conjugaison-a1-a2	002	verified	0	[intro]	A1+A2 (inferred)	avant-propos	pass	
+conjugaison-a1-a2	003	verified	0	[toc]	A1+A2 (inferred)	sommaire	pass	
+conjugaison-a1-a2	004	verified	0	[toc, explanation, exercise]	A1 (inferred)	01-present-indicatif-etre-avoir	pass	
+conjugaison-a1-a2	005	verified	270	[explanation, exercise]	A1+A2 (inferred)	01-le-present-de-lindicatif-etre	pass	
+conjugaison-a1-a2	006	verified	0	[exercise, explanation]	A1+A2 (inferred)	01-le-present-de-l-indicatif-etre-avoir	pass	
+conjugaison-a1-a2	007	verified	0	[exercise]	A1+A2 (inferred)	01-le-present-etre-et-avoir	pass	
+conjugaison-a1-a2	008	verified	0	[explanation, exercise]	A1+A2 (inferred)	etre-et-avoir	pass	
+conjugaison-a1-a2	009	verified	0	[exercise, explanation, bilan]	A1+A2 (inferred)	01-le-present-de-l-indicatif	pass	
+conjugaison-a1-a2	010	verified	0	[explanation, exercise]	A1+A2 (inferred)	02-present-indicatif-verbes-er-reguliers	pass	
+conjugaison-a1-a2	011	verified	270	[exercise, explanation]	A1+A2 (inferred)	02-le-present-de-lindicatif-verbes-en-er-reguliers	pass	
+conjugaison-a1-a2	012	verified	0	[explanation, exercise]	A1+A2 (inferred)	02-le-present-de-lindicatif-des-verbes-en-er	pass	
+conjugaison-a1-a2	013	verified	270	[explanation, exercise]	A1+A2 (inferred)	02-present-indicatif-verbes-er-particularites	pass	
+conjugaison-a1-a2	014	verified	270	[explanation, exercise]	A1+A2 (inferred)	02-present-indicatif-verbes-er-particularites	pass	
+conjugaison-a1-a2	015	verified	0	[exercise, explanation]	A1+A2 (inferred)	02-le-present-de-l-indicatif-des-verbes-en-er	pass	
+conjugaison-a1-a2	016	transcribed	0	[bilan, explanation, exercise]	A1+A2 (inferred)	03-le-present-de-l-indicatif-de-certains-verbes-irreguliers	fail	
+conjugaison-a1-a2	017	transcribed	0	[exercise]	A1+A2 (inferred)	les-verbes-faire-et-dire	pending	
+conjugaison-a1-a2	018	verified	270	[explanation, exercise]	A1+A2 (inferred)	pouvoir-vouloir	pass	
+conjugaison-a1-a2	019	verified	0	[exercise, explanation]	A2 (inferred)	les-verbes-pouvoir-et-vouloir	pass	
+conjugaison-a1-a2	020	verified	0	[exercise, explanation]	A1+A2 (inferred)	falloir-devoir-savoir	pass	
+conjugaison-a1-a2	021	verified	270	[exercise, explanation]	A1+A2 (inferred)	les-verbes-falloir-devoir-savoir	pass	
+conjugaison-a1-a2	022	verified	270	[exercise]	A2 (inferred)	les-verbes-falloir-devoir-savoir	pass	
+conjugaison-a1-a2	023	transcribed	270	[bilan, explanation, exercise]	A1+A2 (inferred)	le-present-indicatif-verbes-ir-comme-finir	fail	
+conjugaison-a1-a2	024	verified	270	[exercise, explanation]	A1+A2 (inferred)	les-verbes-en-ir-comme-finir	pass	
+conjugaison-a1-a2	025	verified	270	[explanation, exercise]	A1+A2 (inferred)	les-verbes-en-ir	pass	
+conjugaison-a1-a2	026	transcribed	0	[exercise, explanation]	A1+A2 (inferred)	04-le-present-de-l-indicatif-des-verbes-en-ir	fail	
+conjugaison-a1-a2	027	verified	0	[exercise, explanation]	A1+A2 (inferred)	04-le-present-de-lindicatif-les-verbes-en-ir-comme-venir	pass	
+conjugaison-a1-a2	028	verified	0	[exercise, explanation, bilan]	A1+A2 (inferred)	05-present-indicatif-verbes-re-oir	pass	
+conjugaison-a1-a2	029	verified	0	[exercise, explanation]	A1+A2 (inferred)	les-verbes-en-dre-comme-prendre	pass	
+conjugaison-a1-a2	030	transcribed	270	[exercise, explanation]	A1+A2 (inferred)	les-verbes-en-dre-comme-prendre	fail	
+conjugaison-a1-a2	031	verified	270	[explanation, exercise]	A1+A2 (inferred)	05-le-present-de-l-indicatif-verbes-en-tre-re-oir	pass	
+conjugaison-a1-a2	032	verified	0	[conjugation-table, exercise]	A2 (inferred)	05-le-present-de-lindicatif-des-verbes-en-re-et-en-oir	pass	
+conjugaison-a1-a2	033	verified	0	[explanation, conjugation-table, exercise]	A1+A2 (inferred)	les-verbes-en-oir	pass	
+conjugaison-a1-a2	034	transcribed	0	[bilan, exercise, explanation]	A1+A2 (inferred)	06-le-present-de-lindicatif-des-verbes-pronominaux	fail	
+conjugaison-a1-a2	035	verified	0	[exercise, explanation]	A1+A2 (inferred)	06-present-indicatif-verbes-pronominaux	pass	
+conjugaison-a1-a2	036	verified	0	[explanation, exercise]	A2 (inferred)	06-le-present-de-l-indicatif-verbes-en-er	pass	
+conjugaison-a1-a2	037	transcribed	0	[exercise, explanation, bilan]	A1+A2 (inferred)	06-le-present-de-lindicatif-des-verbes-pronominaux	fail	
+conjugaison-a1-a2	038	verified	0	[explanation, exercise]	A1+A2 (inferred)	07-imparfait-etre-et-avoir	pass	
+conjugaison-a1-a2	039	transcribed	0	[explanation, exercise]	A2 (inferred)	07-imparfait-indicatif-auxiliaires-verbes-er-irreguliers	fail	
+conjugaison-a1-a2	040	verified	270	[exercise, explanation, conjugation-table]	A2 (inferred)	07-imparfait-indicatif-auxiliaires-verbes-er	pass	
+conjugaison-a1-a2	041	verified	0	[exercise]	A2 (inferred)	07-imparfait-indicatif-auxiliaires-verbes-er-irreguliers	pass	
+conjugaison-a1-a2	042	transcribed	0	[explanation, exercise]	A2 (inferred)	07-imparfait-indicatif-auxiliaires-verbes-er-irreguliers	fail	
+conjugaison-a1-a2	043	transcribed	0	[exercise, explanation]	A2 (inferred)	07-imparfait-indicatif-verbes-irreguliers	fail	
+conjugaison-a1-a2	044	transcribed	0	[exercise, bilan]	A2 (inferred)	07-imparfait-indicatif-auxiliaires-verbes-er-irreguliers	fail	
+conjugaison-a1-a2	045	verified	0	[explanation, exercise]	A2 (inferred)	08-imparfait-de-lindicatif-verbes-en-ir	pass	
+conjugaison-a1-a2	046	verified	0	[exercise, explanation]	A1+A2 (inferred)	08-l-imparfait-de-l-indicatif	pass	
+conjugaison-a1-a2	047	transcribed	0	[explanation, exercise, conjugation-table]	A1+A2 (inferred)	08-limparfait-de-lindicatif	pending	
+conjugaison-a1-a2	048	verified	0	[exercise]	A2 (inferred)	08-limparfait-de-lindicatif-verbes-en-re-et-en-oir	pass	
+conjugaison-a1-a2	049	verified	0	[exercise]	A2 (inferred)	08-limparfait-de-lindicatif-les-verbes-pronominaux	pass	
+conjugaison-a1-a2	050	transcribed	0	[exercise, bilan]	A2 (inferred)	08-l-imparfait-de-l-indicatif	fail	
+conjugaison-a1-a2	051	verified	270	[explanation, exercise]	A1+A2 (inferred)	09-le-passe-compose-avec-avoir	pass	
+conjugaison-a1-a2	052	verified	0	[exercise]	A2 (inferred)	passe-compose	pass	
+conjugaison-a1-a2	053	verified	270	[explanation, exercise]	A1+A2 (inferred)	09-le-passe-compose-avec-avoir	pass	
+conjugaison-a1-a2	054	verified	0	[exercise]	A2 (inferred)	09-le-passe-compose	pass	
+conjugaison-a1-a2	055	verified	0	[explanation, conjugation-table, exercise]	A1+A2 (inferred)	09-le-passe-compose-avec-avoir	pass	
+conjugaison-a1-a2	056	transcribed	0	[exercise]	A2 (inferred)	09-le-passe-compose	fail	
+conjugaison-a1-a2	057	transcribed	0	[explanation, exercise]	A1+A2 (inferred)	passe-compose-verbes-ir-re-oir	fail	
+conjugaison-a1-a2	058	verified	0	[exercise, explanation, answer-key]	A2 (inferred)	le-passe-compose-avec-avoir	pass	
+conjugaison-a1-a2	059	verified	0	[exercise, explanation]	A2 (inferred)	09-le-passe-compose-avec-avoir	pass	
+conjugaison-a1-a2	060	transcribed	270	[exercise]	A2 (inferred)	09-le-passe-compose-avec-avoir	pending	
+conjugaison-a1-a2	061	verified	0	[explanation, exercise]	A2 (inferred)	09-le-passe-compose-avec-avoir	pass	
+conjugaison-a1-a2	062	transcribed	270	[bilan, explanation, exercise]	A1+A2 (inferred)	10-le-passe-compose-avec-etre	pending	
+conjugaison-a1-a2	063	verified	270	[exercise, explanation]	A1+A2 (inferred)	10-le-passe-compose-avec-etre	pass	
+conjugaison-a1-a2	064	transcribed	0	[explanation, exercise]	A2 (inferred)	passe-compose-avec-etre	fail	
+conjugaison-a1-a2	065	transcribed	0	[exercise, explanation]	A2 (inferred)	10-le-passe-compose	fail	
+conjugaison-a1-a2	066	verified	0	[explanation, exercise]	A1+A2 (inferred)	le-passe-compose-avec-etre-les-verbes-pronominaux	pass	
+conjugaison-a1-a2	067	verified	0	[explanation, exercise]	A2 (inferred)	10-le-passe-compose-avec-les-verbes-pronominaux	pass	
+conjugaison-a1-a2	068	transcribed	270	[exercise, explanation]	A1+A2 (inferred)	passe-compose-avec-etre-verbes-pronominaux	pending	
+conjugaison-a1-a2	069	verified	0	[exercise]	A2 (inferred)	10-le-passe-compose	pass	
+conjugaison-a1-a2	070	transcribed	0	[exercise, explanation]	A1+A2 (inferred)	10-le-passe-compose-avec-etre-ou-avoir	fail	
+conjugaison-a1-a2	071	verified	0	[exercise, explanation, answer-key]	A1+A2 (inferred)	passe-compose-avec-etre	pass	
+conjugaison-a1-a2	072	verified	0	[exercise, bilan]	A2 (inferred)	le-passe-compose-avec-etre	pass	
+conjugaison-a1-a2	073	transcribed	90	[explanation, exercise]	A2 (inferred)	11-passe-compose-en-relation-avec-dautres-temps-du-passe	pending	
+conjugaison-a1-a2	074	pending	unknown				pending	
+conjugaison-a1-a2	075	verified	0	[exercise]	A2 (inferred)	passe-compose-en-relation-avec-dautres-temps-du-passe	pass	
+conjugaison-a1-a2	076	verified	0	[bilan, explanation, exercise]	A1+A2 (inferred)	12-le-futur-de-l-indicatif	pass	
+conjugaison-a1-a2	077	verified	0	[exercise, explanation]	A2 (inferred)	le-futur-de-l-indicatif	pass	
+conjugaison-a1-a2	078	verified	0	[exercise]	A1+A2 (inferred)	12-le-futur-de-l-indicatif	pass	
+conjugaison-a1-a2	079	transcribed	0	[explanation, conjugation-table, exercise]	A2 (inferred)	12-le-futur-de-l-indicatif	pending	
+conjugaison-a1-a2	080	transcribed	270	[exercise, explanation]	A2 (inferred)	12-le-futur-de-l-indicatif	pending	
+conjugaison-a1-a2	081	verified	0	[explanation, exercise]	A1+A2 (inferred)	12-le-futur-de-l-indicatif	pass	
+conjugaison-a1-a2	082	transcribed	90	[exercise, explanation]	A1+A2 (inferred)	12-le-futur-de-lindicatif	pending	
+conjugaison-a1-a2	083	transcribed	0	[explanation, exercise]	A1+A2 (inferred)	12-le-futur-de-l-indicatif-les-verbes-pronominaux	pending	
+conjugaison-a1-a2	084	verified	0	[explanation, exercise]	A2 (inferred)	12-le-futur-de-l-indicatif	pass	
+conjugaison-a1-a2	085	transcribed	0	[exercise, bilan]	A2 (inferred)	12-le-futur-de-l-indicatif	pending	
+conjugaison-a1-a2	086	transcribed	0	[explanation, exercise]	A1+A2 (inferred)	13-l-imperatif	pending	
+conjugaison-a1-a2	087	transcribed	0	[exercise, explanation]	A1+A2 (inferred)	13-l-imperatif	pending	
+conjugaison-a1-a2	088	pending	0	[exercise, explanation]	A1+A2 (inferred)	13-l-imperatif	pending	
+conjugaison-a1-a2	089	pending	0	[explanation, exercise]	A2 (inferred)	13-l-imperatif	pending	
+conjugaison-a1-a2	090	transcribed	270	[exercise]	A2 (inferred)	13-l-imperatif	pending	
+conjugaison-a1-a2	091	verified	0	[bilan, exercise]	A2 (inferred)	bilan-13-imperatif	pass	
+conjugaison-a1-a2	092	verified	0	[intro]	A1+A2 (inferred)	colophon	pass	
+conjugaison-a1-a2	093	verified	0	[cover, answer-key]	A1+A2 (inferred)	corriges	pass	
+conjugaison-a1-a2	094	transcribed	270	[answer-key]	A1+A2 (inferred)	corriges-etre-avoir-present-verbes-er	pending	
+conjugaison-a1-a2	095	transcribed	270	[answer-key, bilan, exercise]	A1+A2 (inferred)	bilan-2-et-03-present-verbes-irreguliers	pending	
+conjugaison-a1-a2	096	transcribed	270	[answer-key, bilan]	A1+A2 (inferred)	corriges-present-indicatif-verbes-ir	pending	
+conjugaison-a1-a2	097	transcribed	0	[answer-key]	A1+A2 (inferred)	corriges-bilan-4-present-indicatif-re-oir	pending	
+conjugaison-a1-a2	098	transcribed	270	[answer-key]	A1+A2 (inferred)	corriges-pronominaux-imparfait	pending	
+conjugaison-a1-a2	099	pending	unknown				pending	
+conjugaison-a1-a2	100	transcribed	0	[answer-key]	A1+A2 (inferred)	corriges-imparfait-bilan8-passe-compose-avoir	pending	
+conjugaison-a1-a2	101	transcribed	270	[answer-key]	A2 (inferred)	corriges	pending	
+conjugaison-a1-a2	102	transcribed	270	[answer-key]	A1+A2 (inferred)	bilan-9-passe-compose-avec-etre	pending	
+conjugaison-a1-a2	103	transcribed	270	[answer-key, bilan]	A1+A2 (inferred)	corriges-le-passe-compose	pending	
+conjugaison-a1-a2	104	transcribed	270	[answer-key, bilan]	A1+A2 (inferred)	corriges-passe-compose-futur	pending	
+conjugaison-a1-a2	105	transcribed	0	[answer-key, bilan]	A1+A2 (inferred)	corriges-futur-imperatif	pending	
+conjugaison-a1-a2	106	transcribed	0	[answer-key]	A1+A2 (inferred)	corriges-bilan-13	pending	
+revision-2	001	pending	unknown				pending	
+revision-2	002	pending	unknown				pending	
+revision-2	003	pending	unknown				pending	
+revision-2	004	pending	unknown				pending	
+revision-2	005	pending	unknown				pending	
+revision-2	006	pending	unknown				pending	
+revision-2	007	pending	unknown				pending	
+revision-2	008	pending	unknown				pending	
+revision-2	009	pending	unknown				pending	
+revision-2	010	pending	unknown				pending	
+revision-2	011	pending	unknown				pending	
+revision-2	012	pending	unknown				pending	
+revision-2	013	pending	unknown				pending	
+revision-2	014	pending	unknown				pending	
+revision-2	015	pending	unknown				pending	
+revision-2	016	pending	unknown				pending	
+revision-2	017	pending	unknown				pending	
+revision-2	018	pending	unknown				pending	
+revision-2	019	pending	unknown				pending	
+revision-2	020	pending	unknown				pending	
+revision-2	021	pending	unknown				pending	
+revision-2	022	pending	unknown				pending	
+revision-2	023	pending	unknown				pending	
+revision-2	024	pending	unknown				pending	
+revision-2	025	pending	unknown				pending	
+revision-2	026	pending	unknown				pending	
+revision-2	027	pending	unknown				pending	
+revision-2	028	pending	unknown				pending	
+revision-2	029	pending	unknown				pending	
+revision-2	030	pending	unknown				pending	
+revision-2	031	pending	unknown				pending	
+revision-2	032	pending	unknown				pending	
+revision-2	033	pending	unknown				pending	
+revision-2	034	pending	unknown				pending	
+revision-2	035	pending	unknown				pending	
+revision-2	036	pending	unknown				pending	
+revision-2	037	pending	unknown				pending	
+revision-2	038	pending	unknown				pending	
+revision-2	039	pending	unknown				pending	
+revision-2	040	pending	unknown				pending	
+revision-2	041	pending	unknown				pending	
+revision-2	042	pending	unknown				pending	
+revision-2	043	pending	unknown				pending	
+revision-2	044	pending	unknown				pending	
+revision-2	045	pending	unknown				pending	
+revision-2	046	pending	unknown				pending	
+revision-2	047	pending	unknown				pending	
+revision-2	048	pending	unknown				pending	
+revision-2	049	pending	unknown				pending	
+revision-2	050	pending	unknown				pending	
+revision-2	051	pending	unknown				pending	
+revision-2	052	pending	unknown				pending	
+revision-2	053	pending	unknown				pending	
+revision-2	054	pending	unknown				pending	
+revision-2	055	pending	unknown				pending	
+revision-2	056	pending	unknown				pending	
+revision-2	057	pending	unknown				pending	
+revision-2	058	pending	unknown				pending	
+revision-2	059	pending	unknown				pending	
+revision-2	060	pending	unknown				pending	
+revision-2	061	pending	unknown				pending	
+revision-2	062	pending	unknown				pending	
+revision-2	063	pending	unknown				pending	
+revision-2	064	pending	unknown				pending	
+revision-2	065	pending	unknown				pending	
+revision-2	066	pending	unknown				pending	
+revision-2	067	pending	unknown				pending	
+revision-2	068	pending	unknown				pending	
+revision-2	069	pending	unknown				pending	
+revision-2	070	pending	unknown				pending	
+revision-2	071	pending	unknown				pending	
+revision-2	072	pending	unknown				pending	
+revision-2	073	pending	unknown				pending	
+revision-2	074	pending	unknown				pending	
+revision-2	075	pending	unknown				pending	
+revision-2	076	pending	unknown				pending	
+revision-2	077	pending	unknown				pending	
+revision-2	078	pending	unknown				pending	
+revision-2	079	pending	unknown				pending	
+revision-2	080	pending	unknown				pending	
+revision-2	081	pending	unknown				pending	
+revision-2	082	pending	unknown				pending	
+revision-2	083	pending	unknown				pending	
+revision-2	084	pending	unknown				pending	
+revision-2	085	pending	unknown				pending	
+revision-2	086	pending	unknown				pending	
+revision-2	087	pending	unknown				pending	
+revision-2	088	pending	unknown				pending	
+revision-2	089	pending	unknown				pending	
+revision-2	090	pending	unknown				pending	
+revision-2	091	pending	unknown				pending	
+revision-2	092	pending	unknown				pending	
+revision-2	093	pending	unknown				pending	
+revision-2	094	pending	unknown				pending	
+revision-2	095	pending	unknown				pending	
+revision-2	096	pending	unknown				pending	
+revision-2	097	pending	unknown				pending	
+revision-2	098	pending	unknown				pending	
+revision-2	099	pending	unknown				pending	
+revision-2	100	pending	unknown				pending	
+revision-2	101	pending	unknown				pending	
+revision-2	102	pending	unknown				pending	
+revision-2	103	pending	unknown				pending	
+revision-2	104	pending	unknown				pending	
+revision-2	105	pending	unknown				pending	
+revision-2	106	pending	unknown				pending	
+revision-2	107	pending	unknown				pending	
+revision-2	108	pending	unknown				pending	
+revision-2	109	pending	unknown				pending	
+revision-2	110	pending	unknown				pending	
+revision-2	111	pending	unknown				pending	
+revision-2	112	pending	unknown				pending	
+revision-2	113	pending	unknown				pending	
+revision-2	114	pending	unknown				pending	
+revision-2	115	pending	unknown				pending	
+revision-2	116	pending	unknown				pending	
+revision-2	117	pending	unknown				pending	
+revision-2	118	pending	unknown				pending	
+revision-2	119	pending	unknown				pending	
+revision-2	120	pending	unknown				pending	
+revision-2	121	pending	unknown				pending	
+revision-2	122	pending	unknown				pending	
+revision-2	123	pending	unknown				pending	
+revision-2	124	pending	unknown				pending	
+revision-2	125	pending	unknown				pending	
+revision-2	126	pending	unknown				pending	
+revision-2	127	pending	unknown				pending	
+revision-2	128	pending	unknown				pending	
+revision-2	129	pending	unknown				pending	
+revision-2	130	pending	unknown				pending	
+revision-2	131	pending	unknown				pending	
+revision-2	132	pending	unknown				pending	
+revision-2	133	pending	unknown				pending	
+revision-2	134	pending	unknown				pending	
+revision-2	135	pending	unknown				pending	
+revision-2	136	pending	unknown				pending	
+revision-2	137	pending	unknown				pending	
+revision-2	138	pending	unknown				pending	
+revision-2	139	pending	unknown				pending	
+revision-2	140	pending	unknown				pending	
+revision-2	141	pending	unknown				pending	
+revision-2	142	pending	unknown				pending	
+revision-2	143	pending	unknown				pending	
+revision-2	144	pending	unknown				pending	
+revision-2	145	pending	unknown				pending	
+revision-2	146	pending	unknown				pending	
+revision-2	147	pending	unknown				pending	
+revision-2	148	pending	unknown				pending	
+revision-2	149	pending	unknown				pending	
+revision-2	150	pending	unknown				pending	
+revision-2	151	pending	unknown				pending	
+revision-2	152	pending	unknown				pending	
+revision-2	153	pending	unknown				pending	
+revision-2	154	pending	unknown				pending	
+revision-2	155	pending	unknown				pending	
+revision-2	156	pending	unknown				pending	
+revision-2	157	pending	unknown				pending	
+revision-2	158	pending	unknown				pending	
+revision-2	159	pending	unknown				pending	
+revision-2	160	pending	unknown				pending	
+revision-2	161	pending	unknown				pending	
+revision-2	162	pending	unknown				pending	
+revision-2	163	pending	unknown				pending	
+revision-2	164	pending	unknown				pending	
+revision-2	165	pending	unknown				pending	
+revision-2	166	pending	unknown				pending	
+revision-2	167	pending	unknown				pending	
+revision-2	168	pending	unknown				pending	
+revision-2	169	pending	unknown				pending	
+revision-2	170	pending	unknown				pending	
+revision-2	171	pending	unknown				pending	
+revision-2	172	pending	unknown				pending	
+revision-2	173	pending	unknown				pending	
+revision-2	174	pending	unknown				pending	
+revision-2	175	pending	unknown				pending	
+revision-2	176	pending	unknown				pending	
+revision-2	177	pending	unknown				pending	
+revision-2	178	pending	unknown				pending	
+revision-2	179	pending	unknown				pending	
+revision-2	180	pending	unknown				pending	
+revision-2	181	pending	unknown				pending	
