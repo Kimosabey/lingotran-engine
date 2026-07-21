@@ -64,6 +64,110 @@ PDF set or another language** without rediscovering anything.
                            +   combined goethe-a1-*-all.csv sheets
 ```
 
+### Layer by layer
+
+Twelve layers. Each one takes a well-defined input, does exactly one job, and
+writes an artifact the next layer reads. Any layer can be re-run on its own.
+
+**Layer 0 — Source acquisition** · manual · *no tool*
+Download the official PDFs/audio from goethe.de into `german/pdf/…`.
+→ Raw binaries, **gitignored** (regenerable from the public source, and large).
+*Why separate:* keeps copyrighted-source handling explicit and out of git.
+
+**Layer 1 — Rasterisation** · `pdf_to_images.py` · **local**
+`source.pdf` → `<collection>/images/page-NNN.png` at 300 DPI via PyMuPDF.
+*Why:* the transcriber is a **vision** model — it needs pixels, not a text layer.
+300 DPI matches the French convention and keeps small print legible.
+Images are gitignored (deterministically regenerable).
+
+**Layer 2 — State seeding** · `manifest_media.py init` · **local**
+Globs the rendered images + `collections.json` → one row per page in
+`manifest-media.tsv` (`status: pending`).
+*Why:* this file is the **resume anchor**. Everything downstream reads/updates it,
+so an interrupted run never loses its place. Idempotent — won't clobber.
+
+**Layer 3 — Vision transcription** · `transcribe_pdf.workflow.js` ① · **LLM (per page, effort: high)**
+Reads `page-NNN.png` → writes `pages/page-NNN.md` (YAML frontmatter + verbatim body).
+Self-corrects orientation by shelling out to `rotate.py`; zooms unreadable regions
+with `zoom.py`; marks illegible text rather than dropping it; tags `content_type`
+and fixed `level: A1`.
+*Why per page:* each page is an independent vision task — parallelises cleanly and
+a failure is isolated to one page.
+
+**Layer 4 — Adversarial QA** · `transcribe_pdf.workflow.js` ② · **LLM (per page, effort: high)**
+A **separate** agent re-reads the image *and* the transcription, assuming an
+omission exists until every block is checked → `pages/_qa/page-NNN.json`
+(`{ok, missing_count, issues[]}`). **It may not edit the transcription.**
+*Why separate + read-only:* an author grading its own work rationalises; an
+independent adversarial reader with no write access actually finds omissions.
+
+**Layer 5 — Repair** · `transcribe_pdf.workflow.js` ③ · **LLM (conditional)**
+Runs **only** when QA failed. Reads the verdict, fixes each named issue, re-verifies
+the whole page, overwrites the verdict.
+*Result here:* triggered once in 302 pages (sd1-exam-training-3 p45) and passed.
+
+**Layer 6 — Verdict folding** · `manifest_media.py qa-apply` · **local**
+Folds `_qa/*.json` into each page's frontmatter (`status: verified|transcribed`,
+`qa: pass|fail`) + appends a `<!-- QA ISSUES -->` block on failure, then syncs the manifest.
+*Why:* one place converts judgements into state; the manifest stays authoritative.
+
+**Layer 7 — Unification** · `catalog.py` · **local**
+Concatenates every page into one `<collection>.md` (overview + page index + full body)
+and emits `<collection>-catalog.csv`.
+*Why this sits before enrichment:* layers 8–10 then read **one** file per collection
+instead of 47 — dramatically cheaper and gives the agent whole-document context.
+
+**Layer 8 — Classification** · `classify.workflow.js` · **LLM (per collection, effort: low)**
+Reads the unified `.md` → `pages/_class.json` with `activity_type`, `topic`,
+and a one-line English `summary` per page.
+*Why per collection + low effort:* it only needs document-level context, and
+labelling is far easier than transcribing.
+
+**Layer 9 — Question extraction** · `questions.workflow.js` · **LLM (per collection, effort: medium)**
+Parses every exam item **and cross-references the Lösungen pages** for the correct
+answer → `pages/_questions.json`.
+*Why per collection:* the questions and their answer key live in the *same* document —
+an agent must see both at once to match them.
+
+**Layer 10 — Vocabulary extraction** · `vocabulary.workflow.js` · **LLM (per ~5-page chunk, effort: medium)**
+Reads the Wortliste pages → `pages/_vocab/chunk-*.json` (word, article, plural,
+word_class, example, topic).
+*Why chunked:* a single agent asked for ~800 dense entries truncates its output.
+~5 pages per agent was the reliable size.
+
+**Layer 11 — Export generation** · `catalog.py` · `questions.py` · `vocabulary.py` · **local**
+Merge the enrichment sidecars with the page frontmatter → the unified `.md`
+(now with activity/topic + page index) and the three CSV families, plus the
+combined `goethe-a1-*-all.csv` sheets. Written UTF-8 **with BOM** for Excel.
+*Why local:* pure data reshaping — deterministic, free, and instantly re-runnable
+whenever a page or a sidecar changes.
+
+**Layer 12 — Dashboard** · `manifest_media.py dashboard` · **local**
+Regenerates `MANIFEST-MEDIA.md` (totals, per-collection progress, next pending pages).
+
+### At a glance
+
+| Layer | Artifact produced | Kind | Re-runnable alone |
+| --- | --- | --- | --- |
+| 0 Source | `german/pdf/*.pdf` | manual | yes |
+| 1 Rasterise | `images/page-NNN.png` | local | yes |
+| 2 Seed | `manifest-media.tsv` | local | yes (idempotent) |
+| 3 Transcribe | `pages/page-NNN.md` | **LLM** ×~300 | per page |
+| 4 QA | `pages/_qa/page-NNN.json` | **LLM** ×~300 | per page |
+| 5 Repair | corrected `.md` + verdict | **LLM** (rare) | per page |
+| 6 Fold | frontmatter + manifest state | local | yes |
+| 7 Unify | `<collection>.md` | local | yes |
+| 8 Classify | `pages/_class.json` | **LLM** ×7 | per collection |
+| 9 Questions | `pages/_questions.json` | **LLM** ×7 | per collection |
+| 10 Vocabulary | `pages/_vocab/chunk-*.json` | **LLM** ×12 | per chunk |
+| 11 Export | unified `.md` + all CSVs | local | yes |
+| 12 Dashboard | `MANIFEST-MEDIA.md` | local | yes |
+
+**Cost shape:** layers 3–5 are ~97% of the spend (one high-effort agent pair per
+page). Layers 8–10 together are a rounding error (26 agents). Layers 0–2, 6–7,
+11–12 are free. So iterating on *outputs* (sheets, docs, taxonomies) never
+re-incurs the transcription cost — a deliberate property of the split.
+
 ---
 
 ## 4. Stack (everything was already installed — zero new dependencies)
