@@ -137,7 +137,7 @@ def build_collection(c, combined_writer):
         return
 
     # per-PDF sheet
-    with open(os.path.join(ROOT, slug, '%s-catalog.csv' % slug), 'w', encoding='utf-8', newline='') as f:
+    with open(os.path.join(ROOT, slug, '%s-catalog.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=COLUMNS)
         w.writeheader()
         w.writerows(rows)
@@ -173,7 +173,7 @@ def main(argv):
         print('No matching collections. Use --all or a slug.')
         return
     combined_path = os.path.join(ROOT, 'goethe-a1-catalog-all.csv')
-    with open(combined_path, 'w', encoding='utf-8', newline='') as cf:
+    with open(combined_path, 'w', encoding='utf-8-sig', newline='') as cf:
         cw = csv.DictWriter(cf, fieldnames=COLUMNS)
         cw.writeheader()
         for c in targets:

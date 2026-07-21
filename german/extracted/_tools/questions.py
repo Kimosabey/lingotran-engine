@@ -64,7 +64,7 @@ def main(argv):
 
     combined = os.path.join(ROOT, 'goethe-a1-questions-all.csv')
     grand = 0
-    with open(combined, 'w', encoding='utf-8', newline='') as cf:
+    with open(combined, 'w', encoding='utf-8-sig', newline='') as cf:
         cw = csv.DictWriter(cf, fieldnames=COLUMNS)
         cw.writeheader()
         for c in targets:
@@ -74,7 +74,7 @@ def main(argv):
                 print('%-32s no _questions.json, skipped' % slug)
                 continue
             rows = [row_for(slug, it) for it in items]
-            with open(os.path.join(ROOT, slug, '%s-questions.csv' % slug), 'w', encoding='utf-8', newline='') as f:
+            with open(os.path.join(ROOT, slug, '%s-questions.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
                 w = csv.DictWriter(f, fieldnames=COLUMNS)
                 w.writeheader()
                 w.writerows(rows)
