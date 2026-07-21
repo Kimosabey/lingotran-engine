@@ -300,5 +300,44 @@ Return the final verdict.`
     }
   };
 
-  return { NETLIFY_URL, REPO_URL, engine, metrics, workflow, tools, conventions, french };
+  /* ---- German corpus ---------------------------------------------------- */
+  const german = {
+    slug: "german", name: "German", code: "DE", level: "A1 (CEFR)",
+    aggregate: { collections: 7, pages: 302, verified: 302, questions: 247, words: 1564 },
+    channels: [
+      {
+        key: "pdf", name: "PDF · Goethe-Zertifikat A1",
+        blurb: "Seven official, free Goethe-Institut practice PDFs (Start Deutsch 1 + Fit in Deutsch 1), " +
+          "vision-transcribed and adversarially QA-verified.",
+        pages: 302, verified: 302, note: "100% verified · 0 QA failures · 1 page auto-repaired"
+      },
+      {
+        key: "web", name: "Web · deutsch-pruefung.de",
+        blurb: "Public, robots-allowed pages extracted by the adapter-driven web module — " +
+          "32 study guides plus ~80 exam/section info pages.",
+        pages: 113, verified: 113, note: "public pages only · login-gated content excluded"
+      }
+    ],
+    exports: [
+      ["Unified document", "<collection>.md", "Overview + page index + full verbatim transcription"],
+      ["Page sheet", "<collection>-catalog.csv", "One row per page · section, activity, topic, summary"],
+      ["Question sheet", "<collection>-questions.csv", "One row per item · options + correct answer"],
+      ["Word sheet", "<collection>-vocabulary.csv", "One row per word · article, plural, example"]
+    ],
+    collections: {
+      "goethe-a1-sd1-exam-training-1": { title: "Start Deutsch 1 — Exam training 1", variant: "start-deutsch-1", pages: 47, verified: 47, questions: 61, words: 0 },
+      "goethe-a1-sd1-exam-training-2": { title: "Start Deutsch 1 — Exam training 2", variant: "start-deutsch-1", pages: 47, verified: 47, questions: 41, words: 0 },
+      "goethe-a1-sd1-exam-training-3": { title: "Start Deutsch 1 — Exam training 3", variant: "start-deutsch-1", pages: 47, verified: 47, questions: 66, words: 0 },
+      "goethe-a1-sd1-vocabulary-list": { title: "Start Deutsch 1 — Wortliste", variant: "start-deutsch-1", pages: 29, verified: 29, questions: 0, words: 808 },
+      "goethe-a1-fit1-exam-training-1": { title: "Fit in Deutsch 1 — Exam training 1", variant: "fit-in-deutsch-1", pages: 52, verified: 52, questions: 29, words: 0 },
+      "goethe-a1-fit1-exam-training-2": { title: "Fit in Deutsch 1 — Exam training 2", variant: "fit-in-deutsch-1", pages: 52, verified: 52, questions: 50, words: 0 },
+      "goethe-a1-fit1-vocabulary-list": { title: "Fit in Deutsch 1 — Wortliste", variant: "fit-in-deutsch-1", pages: 28, verified: 28, questions: 0, words: 756 }
+    },
+    itemTypes: [
+      { k: "Open-ended", v: 89 }, { k: "True/False", v: 69 }, { k: "Multiple choice", v: 63 },
+      { k: "Fill-in", v: 15 }, { k: "Matching", v: 11 }
+    ]
+  };
+
+  return { NETLIFY_URL, REPO_URL, engine, metrics, workflow, tools, conventions, french, german };
 })();

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Lingotran — Extraction Knowledge Base</title>
-<meta name="description" content="Central reference for the Lingotran extraction workflow — how scanned language-learning PDFs are turned into faithful, QA-verified structured data.">
+<meta name="description" content="Central reference for the Lingotran extraction workflow — how language-learning PDFs and authorized websites are turned into faithful, QA-verified structured data.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
@@ -20,7 +20,7 @@
     <img class="logo-dark" src="assets/img/logo-white.png" alt="Lingotran">
     <span class="kicker">Extraction Docs</span>
   </a>
-  <nav class="appnav"><a href="./" class="active">Home</a><a href="french/">French</a></nav>
+  <nav class="appnav"><a href="./" class="active">Home</a><a href="french/">French</a><a href="german/">German</a></nav>
   <span class="spacer"></span>
   <div class="search">
     <span class="ico"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></span>
@@ -46,49 +46,56 @@
       <div class="pagehero">
         <span class="eyebrow">Extraction Knowledge Base</span>
         <h1>Lingotran Engine</h1>
-        <p>How scanned language-learning PDFs become faithful, QA-verified structured data — the
-           workflow, the tools, the conventions, and everything extracted so far, in one place.</p>
+        <p>How language-learning PDFs and authorized websites become faithful, QA-verified structured
+           data — the workflow, the tools, the conventions, and everything extracted so far, in one place.</p>
         <div class="hero-tags">
           <span class="tag">Zero data loss</span>
           <span class="tag">Vision transcription</span>
           <span class="tag">Adversarial QA</span>
-          <span class="tag">2 books · 287 spreads</span>
+          <span class="tag">2 languages · 589 pages</span>
         </div>
       </div>
 
       <section class="section" id="overview" data-nav="Overview" data-nav-group="Getting started">
         <span class="eyebrow">Overview</span>
         <h2 class="section-title">What this engine does</h2>
-        <p class="lead">A scalable workflow for extracting structured linguistic data from scanned
-           language-learning PDFs — converting textbook content into clean, faithful material for study tools.</p>
+        <p class="lead">A scalable workflow for extracting structured linguistic data from language-learning
+           PDFs and authorized websites — converting textbook and exam content into clean, faithful material
+           for study tools.</p>
         <div class="prose card">
-          <p>The source PDFs are <strong>scanned images with no text layer</strong>, so content is
-             recovered by Claude-vision transcription of 300-DPI page renders. The guiding principle is
-             <span class="inline-purple">zero data loss</span>: every heading, instruction, table, exercise,
-             blank, example, answer key, caption and page number is captured verbatim, then independently
-             verified and repaired until faithful.</p>
-          <p>French is the first fully built-out corpus. The same pipeline is designed to extend to German,
+          <p>Sources differ, so each gets the right acquisition path. Scanned workbooks have
+             <strong>no text layer</strong>, so content is recovered by Claude-vision transcription of
+             300-DPI page renders; JavaScript-rendered websites are handled by an adapter-driven extractor.
+             The guiding principle is the same either way — <span class="inline-purple">zero data loss</span>:
+             every heading, instruction, table, exercise, blank, example, answer key, caption and page number
+             is captured verbatim, then independently verified and repaired until faithful.</p>
+          <p>French and German are both built out. The same pipeline is designed to extend to
              Japanese, Portuguese, Romanian, Russian and Spanish.</p>
         </div>
-        <div class="note"><b>Faithful, not interpreted.</b> The only non-verbatim addition is an inferred
-          CEFR level tag per exercise — always marked “(inferred)”.</div>
+        <div class="note"><b>Faithful, not interpreted.</b> Transcriptions are verbatim. The only added
+          labels are navigation aids kept outside the transcription — an inferred CEFR level tag per
+          exercise (always marked “(inferred)”), and the activity/topic tags in the German catalogs.</div>
       </section>
 
       <section class="section" id="metrics" data-nav="At a glance" data-nav-group="Getting started">
         <span class="eyebrow">At a glance</span>
         <h2 class="section-title">Extraction so far</h2>
-        <p class="lead">Live figures from <code class="code-inline">manifest.tsv</code>, the authoritative
-           per-page state file.</p>
+        <p class="lead">Live figures from the authoritative per-page state files —
+           <code class="code-inline">french/extracted/manifest.tsv</code> and
+           <code class="code-inline">german/extracted/manifest-media.tsv</code>.</p>
         <div data-render="metrics"></div>
         <p class="copy-hint" style="color:var(--muted);font-size:12.5px;margin-top:12px">
-          Refresh with <code class="code-inline">python _tools/manifest.py dashboard</code>.</p>
+          Refresh with <code class="code-inline">python _tools/manifest.py dashboard</code> (French) or
+          <code class="code-inline">python _tools/manifest_media.py dashboard</code> (German).</p>
       </section>
 
       <section class="section" id="workflow" data-nav="The workflow" data-nav-group="Pipeline">
         <span class="eyebrow">Pipeline</span>
         <h2 class="section-title">The extraction workflow</h2>
-        <p class="lead">One workflow — <code class="code-inline">transcribe-french-pages</code> — runs each
-           page through three stages. Every agent call runs at <code class="code-inline">effort: high</code>.</p>
+        <p class="lead">The core transcription workflow runs each page through three stages, every agent call
+           at <code class="code-inline">effort: high</code> — <code class="code-inline">transcribe-french-pages</code>
+           for French, <code class="code-inline">transcribe-german-pdf-pages</code> for German. German adds
+           cheap enrichment passes on top (classify · questions · vocabulary).</p>
         <div data-render="workflow"></div>
         <div class="note" style="margin-top:22px"><b>Resumable by design.</b> Each stage writes its result to
           disk (a Markdown page and a JSON verdict), so a multi-session job can stop and resume from
@@ -129,7 +136,7 @@
       <section class="section" id="languages" data-nav="Languages" data-nav-group="Corpus">
         <span class="eyebrow">Corpus</span>
         <h2 class="section-title">Languages</h2>
-        <p class="lead">French is active; the rest are planned targets for the same pipeline.</p>
+        <p class="lead">French and German are active; the rest are planned targets for the same pipeline.</p>
         <div data-render="languages"></div>
       </section>
 

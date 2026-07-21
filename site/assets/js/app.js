@@ -343,6 +343,77 @@
         grid.appendChild(card);
       });
       m.appendChild(grid);
+    },
+
+    "german-aggregate": function (m) {
+      var a = LT.german && LT.german.aggregate; if (!a) return;
+      var cells = [["Document sets", a.collections], ["Pages", a.pages], ["QA-verified", a.verified],
+        ["Questions", a.questions], ["Words", a.words]];
+      var band = el("div", { class: "stat-band" });
+      cells.forEach(function (c) {
+        band.appendChild(el("div", { class: "cell" }, [
+          el("div", { class: "num", text: c[1] }), el("div", { class: "lab", text: c[0] })]));
+      });
+      m.appendChild(band);
+    },
+
+    "german-channels": function (m) {
+      var chans = (LT.german && LT.german.channels) || [];
+      var grid = el("div", { class: "grid cols-2" });
+      chans.forEach(function (c) {
+        grid.appendChild(el("div", { class: "card" }, [
+          el("div", { class: "toprow" }, [
+            el("h3", { text: c.name }),
+            el("span", { class: "badge ok" }, [el("span", { class: "d" }), "verified"])
+          ]),
+          el("p", { class: "card-sub", style: "margin-top:12px", text: c.blurb }),
+          el("div", { class: "chips", style: "margin-top:6px" }, [
+            el("span", { class: "chip-tag", text: c.pages + " pages" }),
+            el("span", { class: "chip-tag", text: c.verified + " verified" })
+          ]),
+          el("div", { class: "meta", style: "margin-top:14px", text: c.note })
+        ]));
+      });
+      m.appendChild(grid);
+    },
+
+    "german-collections": function (m) {
+      var cols = (LT.german && LT.german.collections) || {};
+      var grid = el("div", { class: "grid cols-2" });
+      Object.keys(cols).forEach(function (slug) {
+        var b = cols[slug];
+        var chips = [
+          el("span", { class: "chip-tag", text: b.pages + " pages" }),
+          el("span", { class: "chip-tag", text: b.verified + " verified" })
+        ];
+        if (b.questions) chips.push(el("span", { class: "chip-tag", text: b.questions + " questions" }));
+        if (b.words) chips.push(el("span", { class: "chip-tag", text: b.words + " words" }));
+        grid.appendChild(el("div", { class: "card" }, [
+          el("div", { class: "toprow" }, [
+            el("div", {}, [el("h3", { text: b.title }), el("div", { class: "src", text: slug })]),
+            el("span", { class: "badge ok" }, [el("span", { class: "d" }), "verified"])
+          ]),
+          el("div", { class: "chips", style: "margin-top:12px" }, chips)
+        ]));
+      });
+      m.appendChild(grid);
+    },
+
+    "german-exports": function (m) {
+      var rows = (LT.german && LT.german.exports) || [];
+      var tbl = el("table", { class: "table" });
+      var thead = el("thead", {}, [el("tr", {}, [
+        el("th", { text: "Deliverable" }), el("th", { text: "File" }), el("th", { text: "What it holds" })])]);
+      var tb = el("tbody");
+      rows.forEach(function (r) {
+        tb.appendChild(el("tr", {}, [
+          el("td", { text: r[0] }),
+          el("td", {}, [el("code", { class: "code-inline", text: r[1] })]),
+          el("td", { text: r[2] })
+        ]));
+      });
+      tbl.appendChild(thead); tbl.appendChild(tb);
+      m.appendChild(el("div", { class: "table-wrap" }, [tbl]));
     }
   };
 
