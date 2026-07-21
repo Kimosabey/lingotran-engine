@@ -1,0 +1,1337 @@
+{
+  "source": "exam-training-1-listening.mp4",
+  "language": "de",
+  "duration": 1028.6,
+  "model": "small",
+  "low_confidence_segments": 0,
+  "segments": [
+    {
+      "start": 0.78,
+      "end": 2.78,
+      "text": "Staat Deutsch 1",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 3.78,
+      "end": 5.78,
+      "text": "Modellsatz hören",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 6.78,
+      "end": 8.78,
+      "text": "Dieser Test hat drei Teile.",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 9.78,
+      "end": 11.78,
+      "text": "Sie hören kurze Gespräche und Ansagen.",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 12.78,
+      "end": 15.78,
+      "text": "Zu jedem Text gibt es eine Aufgabe.",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 16.78,
+      "end": 20.78,
+      "text": "Lesen Sie zuerst die Aufgabe, hören Sie dann den Text dazu.",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 21.78,
+      "end": 23.78,
+      "text": "Kreuzen Sie die richtige Lösung an.",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 24.78,
+      "end": 27.78,
+      "text": "Schreiben Sie zum Schluss Ihre Lösungen auf den Antwortbogen.",
+      "avg_logprob": -0.151,
+      "no_speech_prob": 0.17,
+      "low_confidence": false
+    },
+    {
+      "start": 27.78,
+      "end": 36.63,
+      "text": "Teil 1",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 37.63,
+      "end": 38.63,
+      "text": "Was ist richtig?",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 39.63,
+      "end": 42.63,
+      "text": "Kreuzen Sie an A, B oder C.",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 43.63,
+      "end": 45.63,
+      "text": "Sie hören jeden Text zweimal.",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 46.63,
+      "end": 47.63,
+      "text": "Beispiel",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 51.1,
+      "end": 54.1,
+      "text": "Ach Verzeihung, wo finde ich ein Schneider vom Betriebsrat?",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 55.1,
+      "end": 57.1,
+      "text": "Schneider, warten Sie mal.",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 58.1,
+      "end": 62.1,
+      "text": "Ich glaube, der ist in Zimmer 254.",
+      "avg_logprob": -0.161,
+      "no_speech_prob": 0.022,
+      "low_confidence": false
+    },
+    {
+      "start": 63.1,
+      "end": 66.1,
+      "text": "Ja, stimmt, Zimmer 254, das ist im zweiten Stock.",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 67.1,
+      "end": 69.1,
+      "text": "Da können Sie den Aufzug hier nehmen.",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 70.1,
+      "end": 72.1,
+      "text": "Zweiter Stock, Zimmer 254.",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 73.1,
+      "end": 75.1,
+      "text": "Okay, vielen Dank.",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 83.1,
+      "end": 86.1,
+      "text": "Ach Verzeihung, wo finde ich ein Schneider vom Betriebsrat?",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 87.1,
+      "end": 89.1,
+      "text": "Schneider, warten Sie mal.",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 90.1,
+      "end": 92.1,
+      "text": "Ich glaube, der ist in Zimmer 254.",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 93.1,
+      "end": 97.45,
+      "text": "Ja, stimmt, Zimmer 254, das ist im zweiten Stock.",
+      "avg_logprob": -0.113,
+      "no_speech_prob": 0.308,
+      "low_confidence": false
+    },
+    {
+      "start": 97.45,
+      "end": 99.45,
+      "text": "Da können Sie den Aufzug hier nehmen.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 100.45,
+      "end": 103.45,
+      "text": "Zweiter Stock, Zimmer 254.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 104.45,
+      "end": 105.45,
+      "text": "Okay, vielen Dank.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 106.45,
+      "end": 126.62,
+      "text": "Nummer 1",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 128.93,
+      "end": 130.93,
+      "text": "Entschuldigung, was kostet dieser Pullover jetzt?",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 131.93,
+      "end": 132.93,
+      "text": "Da steht 30% billiger.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 133.93,
+      "end": 134.93,
+      "text": "Ein Moment, bitte.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 135.93,
+      "end": 136.93,
+      "text": "1995",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 137.93,
+      "end": 139.93,
+      "text": "1995?",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 140.93,
+      "end": 141.93,
+      "text": "Euro.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 142.93,
+      "end": 143.93,
+      "text": "Ja, Euro natürlich.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 144.93,
+      "end": 145.93,
+      "text": "Okay, den nehme ich.",
+      "avg_logprob": -0.12,
+      "no_speech_prob": 0.024,
+      "low_confidence": false
+    },
+    {
+      "start": 145.93,
+      "end": 152.85,
+      "text": "Nummer 2",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 153.85,
+      "end": 154.85,
+      "text": "Entschuldigung, was kostet dieser Pullover jetzt?",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 155.85,
+      "end": 156.85,
+      "text": "Da steht 30% billiger.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 157.85,
+      "end": 158.85,
+      "text": "Ein Moment, bitte.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 159.85,
+      "end": 160.85,
+      "text": "1995",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 161.85,
+      "end": 163.85,
+      "text": "1995?",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 164.85,
+      "end": 165.85,
+      "text": "Euro.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 166.85,
+      "end": 167.85,
+      "text": "Ja, Euro natürlich.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 168.85,
+      "end": 169.85,
+      "text": "Okay, den nehme ich.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 191.74,
+      "end": 192.74,
+      "text": "Nummer 2",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 196.27,
+      "end": 197.27,
+      "text": "Entschuldigen Sie, bitte.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 198.27,
+      "end": 199.27,
+      "text": "Ja, bitte.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 200.27,
+      "end": 201.27,
+      "text": "Haben Sie eine Uhr, wie spät ist das, bitte?",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 202.27,
+      "end": 204.27,
+      "text": "Ja, jetzt ist es gleich 5 Uhr.",
+      "avg_logprob": -0.127,
+      "no_speech_prob": 0.009,
+      "low_confidence": false
+    },
+    {
+      "start": 205.27,
+      "end": 206.27,
+      "text": "Was? Schon 5?",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 207.27,
+      "end": 213.36,
+      "text": "Vielen Dank, wiedersehen.",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 214.36,
+      "end": 215.36,
+      "text": "Nummer 3",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 216.36,
+      "end": 217.36,
+      "text": "Was wünschen Sie, bitte?",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 218.36,
+      "end": 220.36,
+      "text": "Ich hätte gern die Salatplatte und ein...",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 221.36,
+      "end": 223.36,
+      "text": "Entschuldigung, die Salatplatte ist leider aus.",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 224.36,
+      "end": 250.68,
+      "text": "Aber die Bratwurst kann ich Ihnen empfehlen.",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 251.68,
+      "end": 252.68,
+      "text": "Ganz frisch heute.",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 253.68,
+      "end": 254.68,
+      "text": "Nein, danke.",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 255.68,
+      "end": 256.68,
+      "text": "Ich esse kein Fleisch.",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 257.68,
+      "end": 258.68,
+      "text": "Gibt es etwas zu tun?",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 259.68,
+      "end": 261.68,
+      "text": "Nein, nein, nein, nein, nein.",
+      "avg_logprob": -0.191,
+      "no_speech_prob": 0.008,
+      "low_confidence": false
+    },
+    {
+      "start": 261.68,
+      "end": 262.68,
+      "text": "Danke.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 263.68,
+      "end": 264.68,
+      "text": "Ich esse kein Fleisch.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 265.68,
+      "end": 266.68,
+      "text": "Gibt es etwas ohne Fleisch?",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 267.68,
+      "end": 268.68,
+      "text": "Ja, nicht mehr viel.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 269.68,
+      "end": 270.68,
+      "text": "Fisch oder Pommes?",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 271.68,
+      "end": 272.68,
+      "text": "Fisch.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 273.68,
+      "end": 282.17,
+      "text": "Tja, dann wohl die Pommes.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 283.17,
+      "end": 284.17,
+      "text": "Was wünschen Sie, bitte?",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 285.17,
+      "end": 287.17,
+      "text": "Ich hätte gern die Salatplatte und ein...",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 288.17,
+      "end": 290.17,
+      "text": "Entschuldigung, die Salatplatte ist leider aus.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 291.17,
+      "end": 293.17,
+      "text": "Aber die Bratwurst kann ich Ihnen empfehlen.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 294.17,
+      "end": 295.17,
+      "text": "Ganz frisch heute.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 296.17,
+      "end": 297.17,
+      "text": "Nein, danke.",
+      "avg_logprob": -0.079,
+      "no_speech_prob": 0.126,
+      "low_confidence": false
+    },
+    {
+      "start": 297.17,
+      "end": 298.17,
+      "text": "Gibt es etwas ohne Fleisch?",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 299.17,
+      "end": 300.17,
+      "text": "Ja, nicht mehr viel.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 301.17,
+      "end": 302.17,
+      "text": "Fisch oder Pommes?",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 303.17,
+      "end": 304.17,
+      "text": "Fisch.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 305.17,
+      "end": 306.17,
+      "text": "Tja, dann wohl die Pommes.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 330.21,
+      "end": 333.03,
+      "text": "Nummer 4",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 334.03,
+      "end": 335.03,
+      "text": "Haben Sie Kinder, Frau Heger?",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 336.03,
+      "end": 337.03,
+      "text": "Ja, einen Sohn.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 338.03,
+      "end": 339.03,
+      "text": "Und wie alt ist er?",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 340.03,
+      "end": 341.03,
+      "text": "Neun Jahre, seit gestern.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 342.03,
+      "end": 349.59,
+      "text": "Ach, da geht er ja schon zur Schule.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 350.59,
+      "end": 351.59,
+      "text": "Ja klar, schon in die dritte Klasse.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 352.59,
+      "end": 353.59,
+      "text": "Haben Sie Kinder, Frau Heger?",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 354.59,
+      "end": 355.59,
+      "text": "Ja, einen Sohn.",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 356.59,
+      "end": 357.59,
+      "text": "Und wie alt ist er?",
+      "avg_logprob": -0.086,
+      "no_speech_prob": 0.11,
+      "low_confidence": false
+    },
+    {
+      "start": 381.9,
+      "end": 382.9,
+      "text": "Nummer 5",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 385.18,
+      "end": 388.18,
+      "text": "Entschuldigen Sie, wie komme ich denn hier in den zweiten Stock?",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 389.18,
+      "end": 390.18,
+      "text": "Die Rolltrappe da vorne ist kaputt.",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 391.18,
+      "end": 394.18,
+      "text": "Da gehen Sie hier rechts um die ecke und nehmen den Aufzug.",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 395.18,
+      "end": 396.18,
+      "text": "Um die ecke rechts.",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 403.7,
+      "end": 404.7,
+      "text": "Aha, danke.",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 405.7,
+      "end": 408.7,
+      "text": "Entschuldigen Sie, wie komme ich denn hier in den zweiten Stock?",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 409.7,
+      "end": 412.7,
+      "text": "Da gehen Sie hier rechts um die ecke und nehmen den Aufzug.",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 413.7,
+      "end": 437.46,
+      "text": "Um die ecke rechts.",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 438.46,
+      "end": 439.46,
+      "text": "Aha, danke.",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 440.46,
+      "end": 441.26,
+      "text": "Nummer 6",
+      "avg_logprob": -0.339,
+      "no_speech_prob": 0.057,
+      "low_confidence": false
+    },
+    {
+      "start": 441.46,
+      "end": 443.46,
+      "text": "So früh schon bei der Arbeit.",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 443.46,
+      "end": 448.46,
+      "text": "Ja, ich habe noch viel zu tun. Morgen fahre ich doch für drei Wochen weg.",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 448.46,
+      "end": 452.46,
+      "text": "Ach ja, das habe ich vergessen. Wohin fahren Sie denn?",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 452.46,
+      "end": 454.46,
+      "text": "Zu meinen Verwandten, nach Polen.",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 454.46,
+      "end": 456.46,
+      "text": "Na dann, schöne Zeit.",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 456.46,
+      "end": 467.5,
+      "text": "Guten Morgen Herr Albers. So früh schon bei der Arbeit.",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 467.5,
+      "end": 472.5,
+      "text": "Ja, ich habe noch viel zu tun. Morgen fahre ich doch für drei Wochen weg.",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 472.5,
+      "end": 476.5,
+      "text": "Ach ja, das habe ich vergessen. Wohin fahren Sie denn?",
+      "avg_logprob": -0.095,
+      "no_speech_prob": 0.451,
+      "low_confidence": false
+    },
+    {
+      "start": 476.5,
+      "end": 479.5,
+      "text": "Zu meinen Verwandten, nach Polen.",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.046,
+      "low_confidence": false
+    },
+    {
+      "start": 479.5,
+      "end": 481.5,
+      "text": "Na dann, schöne Zeit.",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.046,
+      "low_confidence": false
+    },
+    {
+      "start": 481.5,
+      "end": 510.98,
+      "text": "Teil 2. Kreuzen Sie an, richtig oder falsch.",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.046,
+      "low_confidence": false
+    },
+    {
+      "start": 510.98,
+      "end": 514.98,
+      "text": "Sie hören jeden Text einmal.",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.046,
+      "low_confidence": false
+    },
+    {
+      "start": 514.98,
+      "end": 517.98,
+      "text": "Beispiel",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.046,
+      "low_confidence": false
+    },
+    {
+      "start": 517.98,
+      "end": 521.98,
+      "text": "Frau Katrin Gundlach, angekommen aus Budapest,",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.046,
+      "low_confidence": false
+    },
+    {
+      "start": 521.98,
+      "end": 525.98,
+      "text": "wird zum Informationsschalter in der Ankunftshalle C gebeten.",
+      "avg_logprob": -0.125,
+      "no_speech_prob": 0.046,
+      "low_confidence": false
+    },
+    {
+      "start": 525.98,
+      "end": 530.98,
+      "text": "Frau Gundlach, bitte zum Informationsschalter in der Ankunftshalle C.",
+      "avg_logprob": -0.173,
+      "no_speech_prob": 0.23,
+      "low_confidence": false
+    },
+    {
+      "start": 530.98,
+      "end": 554.8,
+      "text": "Nummer 7",
+      "avg_logprob": -0.173,
+      "no_speech_prob": 0.23,
+      "low_confidence": false
+    },
+    {
+      "start": 555.8,
+      "end": 559.8,
+      "text": "Liebe Kunden, zu Weihnachten bewegen wir Ihnen super Preise an.",
+      "avg_logprob": -0.209,
+      "no_speech_prob": 0.144,
+      "low_confidence": false
+    },
+    {
+      "start": 559.8,
+      "end": 566.8,
+      "text": "Zum Beispiel, erstklassiker italienischer Weißwein für 12,78 Euro die Flasche",
+      "avg_logprob": -0.209,
+      "no_speech_prob": 0.144,
+      "low_confidence": false
+    },
+    {
+      "start": 566.8,
+      "end": 571.8,
+      "text": "oder exklusiver argentinischer Rotwein für 9,68 Euro.",
+      "avg_logprob": -0.209,
+      "no_speech_prob": 0.144,
+      "low_confidence": false
+    },
+    {
+      "start": 571.8,
+      "end": 599.3,
+      "text": "Besuchen Sie uns im dritten Stock. Vorbeweihnachten.",
+      "avg_logprob": -0.209,
+      "no_speech_prob": 0.144,
+      "low_confidence": false
+    },
+    {
+      "start": 599.3,
+      "end": 601.3,
+      "text": "Nummer 8",
+      "avg_logprob": -0.209,
+      "no_speech_prob": 0.144,
+      "low_confidence": false
+    },
+    {
+      "start": 601.3,
+      "end": 605.3,
+      "text": "Liebe Fahrgäste, wir sind kurz vor Würzburg.",
+      "avg_logprob": -0.209,
+      "no_speech_prob": 0.144,
+      "low_confidence": false
+    },
+    {
+      "start": 605.3,
+      "end": 607.3,
+      "text": "Sicherlich haben Sie schon Hunger.",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 607.3,
+      "end": 610.3,
+      "text": "An der nächsten Raststätte halten wir für eine Stunde.",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 610.3,
+      "end": 639.56,
+      "text": "Wir treffen uns wieder um halb eins am Bus, aber bitte pünktlich sein.",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 639.56,
+      "end": 648.25,
+      "text": "Nummer 9",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 648.25,
+      "end": 653.25,
+      "text": "Liebe Fahrgäste, bitte beachten Sie, das ist ein außerplanmäßiger Halt.",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 653.25,
+      "end": 656.25,
+      "text": "Bitte hier nicht aussteigen.",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 656.25,
+      "end": 682.34,
+      "text": "In ein paar Minuten erreichen wir den Bahnhof von Bad Godesberg.",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 682.34,
+      "end": 684.34,
+      "text": "Nummer 10",
+      "avg_logprob": -0.101,
+      "no_speech_prob": 0.006,
+      "low_confidence": false
+    },
+    {
+      "start": 684.34,
+      "end": 691.34,
+      "text": "Herr Stefan Janda, gebucht auf dem Flug LH 737 nach Warschau, wird zum Schalter F7 gebeten.",
+      "avg_logprob": -0.093,
+      "no_speech_prob": 0.016,
+      "low_confidence": false
+    },
+    {
+      "start": 691.34,
+      "end": 697.34,
+      "text": "Der Flug wird in ein paar Minuten geschlossen. Herr Janda, gebucht nach Warschau, bitte nach F7.",
+      "avg_logprob": -0.093,
+      "no_speech_prob": 0.016,
+      "low_confidence": false
+    },
+    {
+      "start": 697.34,
+      "end": 722.63,
+      "text": "Teil 3",
+      "avg_logprob": -0.093,
+      "no_speech_prob": 0.016,
+      "low_confidence": false
+    },
+    {
+      "start": 722.63,
+      "end": 724.63,
+      "text": "Was ist richtig?",
+      "avg_logprob": -0.093,
+      "no_speech_prob": 0.016,
+      "low_confidence": false
+    },
+    {
+      "start": 724.63,
+      "end": 732.63,
+      "text": "Kreuzen Sie an. A, B oder C. Sie hören jeden Text zweimal.",
+      "avg_logprob": -0.093,
+      "no_speech_prob": 0.016,
+      "low_confidence": false
+    },
+    {
+      "start": 732.63,
+      "end": 734.63,
+      "text": "Nummer 11",
+      "avg_logprob": -0.093,
+      "no_speech_prob": 0.016,
+      "low_confidence": false
+    },
+    {
+      "start": 734.63,
+      "end": 747.42,
+      "text": "Telefonansage-Dienst der Deutschen Telekom. Die Rufnummer des Teilnehmers hat sich geändert.",
+      "avg_logprob": -0.069,
+      "no_speech_prob": 0.026,
+      "low_confidence": false
+    },
+    {
+      "start": 747.42,
+      "end": 753.42,
+      "text": "Bitte rufen Sie die Telefonauskunft an unter 11 8 3 3.",
+      "avg_logprob": -0.069,
+      "no_speech_prob": 0.026,
+      "low_confidence": false
+    },
+    {
+      "start": 753.42,
+      "end": 773.94,
+      "text": "Telefonansage-Dienst der Deutschen Telekom. Die Rufnummer des Teilnehmers hat sich geändert.",
+      "avg_logprob": -0.069,
+      "no_speech_prob": 0.026,
+      "low_confidence": false
+    },
+    {
+      "start": 773.94,
+      "end": 779.94,
+      "text": "Bitte rufen Sie die Telefonauskunft an unter 11 8 3 3.",
+      "avg_logprob": -0.069,
+      "no_speech_prob": 0.026,
+      "low_confidence": false
+    },
+    {
+      "start": 779.94,
+      "end": 810.07,
+      "text": "Nummer 12",
+      "avg_logprob": -0.069,
+      "no_speech_prob": 0.026,
+      "low_confidence": false
+    },
+    {
+      "start": 810.07,
+      "end": 815.07,
+      "text": "Hallo Jan, hier ist Boris. Du, ich bin noch im Zug. Du holst mich doch vom Bahnhof ab.",
+      "avg_logprob": -0.108,
+      "no_speech_prob": 0.051,
+      "low_confidence": false
+    },
+    {
+      "start": 815.07,
+      "end": 822.81,
+      "text": "Ich warte an der Information auf dich.",
+      "avg_logprob": -0.108,
+      "no_speech_prob": 0.051,
+      "low_confidence": false
+    },
+    {
+      "start": 822.81,
+      "end": 827.81,
+      "text": "Hallo Jan, hier ist Boris. Du, ich bin noch im Zug. Du holst mich doch vom Bahnhof ab.",
+      "avg_logprob": -0.108,
+      "no_speech_prob": 0.051,
+      "low_confidence": false
+    },
+    {
+      "start": 827.81,
+      "end": 829.81,
+      "text": "Ich warte an der Information auf dich.",
+      "avg_logprob": -0.108,
+      "no_speech_prob": 0.051,
+      "low_confidence": false
+    },
+    {
+      "start": 829.81,
+      "end": 854.02,
+      "text": "Nummer 13",
+      "avg_logprob": -0.108,
+      "no_speech_prob": 0.051,
+      "low_confidence": false
+    },
+    {
+      "start": 854.02,
+      "end": 860.9,
+      "text": "Mensch Jan, du Penner. Hier nochmal, Boris. Ich bin jetzt am Bahnhof.",
+      "avg_logprob": -0.108,
+      "no_speech_prob": 0.051,
+      "low_confidence": false
+    },
+    {
+      "start": 860.9,
+      "end": 865.9,
+      "text": "Und du? Wo bist du denn? Ich warte schon über 20 Minuten auf dich.",
+      "avg_logprob": -0.108,
+      "no_speech_prob": 0.051,
+      "low_confidence": false
+    },
+    {
+      "start": 865.9,
+      "end": 876.12,
+      "text": "Also 10 Minuten Zeit hast du noch. Bis zwei. Da nehme ich ein Taxi.",
+      "avg_logprob": -0.09,
+      "no_speech_prob": 0.072,
+      "low_confidence": false
+    },
+    {
+      "start": 876.12,
+      "end": 880.12,
+      "text": "Mensch Jan, du Penner. Hier nochmal, Boris. Ich bin jetzt am Bahnhof.",
+      "avg_logprob": -0.09,
+      "no_speech_prob": 0.072,
+      "low_confidence": false
+    },
+    {
+      "start": 880.12,
+      "end": 885.12,
+      "text": "Und du? Wo bist du denn? Ich warte schon über 20 Minuten auf dich.",
+      "avg_logprob": -0.09,
+      "no_speech_prob": 0.072,
+      "low_confidence": false
+    },
+    {
+      "start": 885.12,
+      "end": 912.07,
+      "text": "Also 10 Minuten Zeit hast du noch. Bis zwei. Da nehme ich ein Taxi.",
+      "avg_logprob": -0.09,
+      "no_speech_prob": 0.072,
+      "low_confidence": false
+    },
+    {
+      "start": 912.07,
+      "end": 914.07,
+      "text": "Nummer 14",
+      "avg_logprob": -0.09,
+      "no_speech_prob": 0.072,
+      "low_confidence": false
+    },
+    {
+      "start": 914.07,
+      "end": 917.07,
+      "text": "Guten Tag hier Rogala.",
+      "avg_logprob": -0.09,
+      "no_speech_prob": 0.072,
+      "low_confidence": false
+    },
+    {
+      "start": 917.07,
+      "end": 921.07,
+      "text": "Wir können am Samstag leider nicht zu Ihnen kommen. Am Sonntag haben wir aber Zeit.",
+      "avg_logprob": -0.09,
+      "no_speech_prob": 0.072,
+      "low_confidence": false
+    },
+    {
+      "start": 921.07,
+      "end": 930.86,
+      "text": "Rufen Sie uns doch bitte zurück, ob Ihnen das passt. Danke.",
+      "avg_logprob": -0.072,
+      "no_speech_prob": 0.067,
+      "low_confidence": false
+    },
+    {
+      "start": 930.86,
+      "end": 934.86,
+      "text": "Guten Tag hier Rogala. Wir können am Samstag leider nicht zu Ihnen kommen.",
+      "avg_logprob": -0.072,
+      "no_speech_prob": 0.067,
+      "low_confidence": false
+    },
+    {
+      "start": 934.86,
+      "end": 939.86,
+      "text": "Am Sonntag haben wir aber Zeit. Rufen Sie uns doch bitte zurück, ob Ihnen das passt. Danke.",
+      "avg_logprob": -0.072,
+      "no_speech_prob": 0.067,
+      "low_confidence": false
+    },
+    {
+      "start": 939.86,
+      "end": 964.9,
+      "text": "Nummer 15",
+      "avg_logprob": -0.072,
+      "no_speech_prob": 0.067,
+      "low_confidence": false
+    },
+    {
+      "start": 964.9,
+      "end": 968.9,
+      "text": "Hallo Alex, Walter hier. Kannst du schnell mal rüberkommen?",
+      "avg_logprob": -0.072,
+      "no_speech_prob": 0.067,
+      "low_confidence": false
+    },
+    {
+      "start": 968.9,
+      "end": 972.9,
+      "text": "Mein Computer hat einen Fehler. Ich kann nichts drucken.",
+      "avg_logprob": -0.072,
+      "no_speech_prob": 0.067,
+      "low_confidence": false
+    },
+    {
+      "start": 972.9,
+      "end": 983.9,
+      "text": "Meldet dich doch bitte gleich, wenn du nach Hause kommst.",
+      "avg_logprob": -0.072,
+      "no_speech_prob": 0.067,
+      "low_confidence": false
+    },
+    {
+      "start": 983.9,
+      "end": 985.9,
+      "text": "Ende des Tests hören.",
+      "avg_logprob": -0.175,
+      "no_speech_prob": 0.33,
+      "low_confidence": false
+    },
+    {
+      "start": 985.9,
+      "end": 990.9,
+      "text": "Schreiben Sie jetzt Ihre Lösungen eins bis fünfzehn auf den Antwortbogen.",
+      "avg_logprob": -0.175,
+      "no_speech_prob": 0.33,
+      "low_confidence": false
+    }
+  ]
+}

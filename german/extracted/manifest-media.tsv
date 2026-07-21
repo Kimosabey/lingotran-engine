@@ -1,0 +1,308 @@
+collection	unit	source_type	status	orientation	content_type	level	section	qa	notes
+goethe-a1-sd1-exam-training-1	page-001	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-002	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-003	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-004	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-005	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-006	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-007	pdf	verified	0	[instructions]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-008	pdf	verified	0	[instructions, exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-009	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-010	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-011	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-012	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-013	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-014	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-015	pdf	verified	0	[intro, instructions]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-016	pdf	verified	0	[instructions, reading-text, exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-017	pdf	verified	0	[reading-text, exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-018	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-019	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-020	pdf	verified	0	[exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-021	pdf	verified	0	[instructions, reading-text, exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-022	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-023	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-024	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-1	page-025	pdf	verified	0	[writing-prompt]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-1	page-026	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-027	pdf	verified	0	[intro]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-028	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-029	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-030	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-031	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-032	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-033	pdf	verified	0	[listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-034	pdf	verified	0	[listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-035	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-036	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-1	page-037	pdf	verified	0	[answer-key]	A1	answer-key	pass	
+goethe-a1-sd1-exam-training-1	page-038	pdf	verified	0	[answer-key]	A1	answer-key	pass	
+goethe-a1-sd1-exam-training-1	page-039	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-040	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-041	pdf	verified	0	[speaking-prompt, instructions]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-042	pdf	verified	0	[instructions, answer-key]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-1	page-043	pdf	verified	0	[listening-sheet]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-044	pdf	verified	0	[writing-prompt, answer-key]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-1	page-045	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-046	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	page-047	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-sd1-exam-training-1	listening	audio	transcribed		listening-audio	A1		pending	
+goethe-a1-sd1-exam-training-2	page-001	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-002	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-003	pdf	verified	0	[cover, toc]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-004	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-005	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-006	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-007	pdf	verified	0	[intro, instructions]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-008	pdf	verified	0	[instructions, exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-009	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-010	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-011	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-012	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-013	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-014	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-015	pdf	verified	0	[intro, instructions]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-016	pdf	verified	0	[instructions, reading-text, exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-017	pdf	verified	0	[reading-text, exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-018	pdf	verified	0	[instructions, exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-019	pdf	verified	0	[exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-020	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-021	pdf	verified	0	[instructions, exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-022	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-023	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-2	page-024	pdf	verified	0	[instructions, writing-prompt]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-2	page-025	pdf	verified	0	[writing-prompt]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-2	page-026	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-027	pdf	verified	0	[instructions]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-028	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-029	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-030	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-031	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-032	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-033	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-034	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-035	pdf	verified	0	[listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-036	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-037	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-2	page-038	pdf	verified	0	[answer-key]	A1	answer-key	pass	
+goethe-a1-sd1-exam-training-2	page-039	pdf	verified	0	[answer-key, instructions]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-2	page-040	pdf	verified	0	[writing-prompt, answer-key]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-2	page-041	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-042	pdf	verified	0	[speaking-prompt, instructions]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-043	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-044	pdf	verified	0	[instructions, answer-key]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-2	page-045	pdf	verified	0	[answer-key]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	page-046	pdf	verified	0	[writing-prompt, answer-key]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-2	page-047	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-sd1-exam-training-2	listening	audio	transcribed		listening-audio	A1		pending	
+goethe-a1-sd1-exam-training-3	page-001	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-002	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-003	pdf	verified	0	[cover, toc]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-004	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-005	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-006	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-007	pdf	verified	0	[intro, instructions]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-008	pdf	verified	0	[instructions, exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-009	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-010	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-011	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-012	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-013	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-014	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-015	pdf	verified	0	[intro, instructions]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-016	pdf	verified	0	[exercise, reading-text, instructions]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-017	pdf	verified	0	[reading-text, exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-018	pdf	verified	0	[instructions, exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-019	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-020	pdf	verified	0	[exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-021	pdf	verified	0	[instructions, reading-text, exercise]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-022	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-023	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-sd1-exam-training-3	page-024	pdf	verified	0	[instructions, exercise, writing-prompt]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-3	page-025	pdf	verified	0	[writing-prompt]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-3	page-026	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-027	pdf	verified	0	[intro, instructions]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-028	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-029	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-030	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-031	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-032	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-033	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-034	pdf	verified	0	[listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-035	pdf	verified	0	[listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-036	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-037	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-sd1-exam-training-3	page-038	pdf	verified	0	[answer-key]	A1	answer-key	pass	
+goethe-a1-sd1-exam-training-3	page-039	pdf	verified	0	[instructions, answer-key]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-3	page-040	pdf	verified	0	[writing-prompt, answer-key]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-3	page-041	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-042	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-043	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-044	pdf	verified	0	[instructions]	A1	sprechen	pass	
+goethe-a1-sd1-exam-training-3	page-045	pdf	verified	0	[answer-key]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	page-046	pdf	verified	0	[writing-prompt, answer-key]	A1	schreiben	pass	
+goethe-a1-sd1-exam-training-3	page-047	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-sd1-exam-training-3	listening	audio	transcribed		listening-audio	A1		pending	
+goethe-a1-sd1-vocabulary-list	page-001	pdf	verified	0	[cover]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-002	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-sd1-vocabulary-list	page-003	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-vocabulary-list	page-004	pdf	verified	0	[intro, vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-005	pdf	verified	0	[intro]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-006	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-007	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-008	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-009	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-010	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-011	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-012	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-013	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-014	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-015	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-016	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-017	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-018	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-019	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-020	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-021	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-022	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-023	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-024	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-025	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-026	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-027	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-sd1-vocabulary-list	page-028	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-sd1-vocabulary-list	page-029	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-001	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-002	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-003	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-004	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-005	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-006	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-007	pdf	verified	0	[intro, instructions]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-008	pdf	verified	0	[instructions, exercise]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-009	pdf	verified	0	[instructions, exercise]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-010	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-011	pdf	verified	0	[exercise]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-012	pdf	verified	0	[instructions, exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-013	pdf	verified	0	[exercise, listening-sheet, instructions]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-014	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-015	pdf	verified	0	[intro, instructions]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-1	page-016	pdf	verified	0	[exercise, reading-text]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-1	page-017	pdf	verified	0	[instructions, exercise]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-1	page-018	pdf	verified	0	[reading-text, exercise]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-1	page-019	pdf	verified	0	[exercise]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-1	page-020	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-021	pdf	verified	0	[instructions]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-1	page-022	pdf	verified	0	[writing-prompt]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-1	page-023	pdf	verified	0	[intro, instructions]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-024	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-025	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-026	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-027	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-028	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-029	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-030	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-031	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-032	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-033	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-034	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-035	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-036	pdf	verified	0	[answer-key]	A1	answer-key	pass	
+goethe-a1-fit1-exam-training-1	page-037	pdf	verified	0	[instructions, answer-key]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-1	page-038	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-039	pdf	verified	0	[speaking-prompt, instructions]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-040	pdf	verified	0	[speaking-prompt, instructions]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-041	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-042	pdf	verified	0	[answer-key]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-043	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-044	pdf	verified	0	[listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-1	page-045	pdf	verified	0	[writing-prompt, answer-key]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-1	page-046	pdf	verified	0	[answer-key, listening-sheet]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-1	page-047	pdf	verified	0	[instructions]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-048	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-049	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-050	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-051	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	page-052	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-fit1-exam-training-1	listening	audio	pending		listening-audio	A1		pending	
+goethe-a1-fit1-exam-training-2	page-001	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-002	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-003	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-004	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-005	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-006	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-007	pdf	verified	0	[intro, instructions]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-008	pdf	verified	0	[instructions, exercise]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-009	pdf	verified	0	[instructions, exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-010	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-011	pdf	verified	0	[exercise, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-012	pdf	verified	0	[instructions, exercise]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-013	pdf	verified	0	[exercise, listening-sheet, instructions]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-014	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-015	pdf	verified	0	[intro, instructions]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-2	page-016	pdf	verified	0	[instructions, reading-text, exercise]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-2	page-017	pdf	verified	0	[exercise, instructions]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-2	page-018	pdf	verified	0	[reading-text, exercise]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-2	page-019	pdf	verified	0	[exercise]	A1	lesen	pass	
+goethe-a1-fit1-exam-training-2	page-020	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-021	pdf	verified	0	[instructions]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-2	page-022	pdf	verified	0	[writing-prompt]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-2	page-023	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-024	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-025	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-026	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-027	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-028	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-029	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-030	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-031	pdf	verified	0	[speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-032	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-033	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-034	pdf	verified	0	[listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-035	pdf	verified	0	[instructions, listening-sheet]	A1	hoeren	pass	
+goethe-a1-fit1-exam-training-2	page-036	pdf	verified	0	[answer-key]	A1	answer-key	pass	
+goethe-a1-fit1-exam-training-2	page-037	pdf	verified	0	[instructions]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-2	page-038	pdf	verified	0	[instructions]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-039	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-040	pdf	verified	0	[speaking-prompt, instructions]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-041	pdf	verified	0	[instructions, speaking-prompt]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-042	pdf	verified	0	[instructions]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-043	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-044	pdf	verified	0	[listening-sheet]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-045	pdf	verified	0	[writing-prompt, answer-key]	A1	schreiben	pass	
+goethe-a1-fit1-exam-training-2	page-046	pdf	verified	0	[answer-key]	A1	sprechen	pass	
+goethe-a1-fit1-exam-training-2	page-047	pdf	verified	0	[answer-key]	A1	answer-key	pass	
+goethe-a1-fit1-exam-training-2	page-048	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-049	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-050	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-051	pdf	verified	0	[]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	page-052	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-fit1-exam-training-2	listening	audio	pending		listening-audio	A1		pending	
+goethe-a1-fit1-vocabulary-list	page-001	pdf	verified	0	[cover]	A1	""	pass	
+goethe-a1-fit1-vocabulary-list	page-002	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-fit1-vocabulary-list	page-003	pdf	verified	0	[toc]	A1	""	pass	
+goethe-a1-fit1-vocabulary-list	page-004	pdf	verified	0	[intro]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-005	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-006	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-007	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-008	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-009	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-010	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-011	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-012	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-013	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-014	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-015	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-016	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-017	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-018	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-019	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-020	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-021	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-022	pdf	verified	0	[intro]	A1	""	pass	
+goethe-a1-fit1-vocabulary-list	page-023	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-024	pdf	verified	0	[vocabulary, intro]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-025	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-026	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-027	pdf	verified	0	[vocabulary]	A1	vocabulary	pass	
+goethe-a1-fit1-vocabulary-list	page-028	pdf	verified	0	[cover]	A1	""	pass	
