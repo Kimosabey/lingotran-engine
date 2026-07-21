@@ -38,3 +38,13 @@ french/extracted/*/images/
 french/extracted/_tools/*.png
 *.png
 !site/assets/img/*.png
+
+# German raw source materials (officially-published PDFs/audio) — structure
+# and READMEs are tracked, the binaries themselves are not.
+german/pdf/**/*.pdf
+german/audio/**/*.mp4
+
+# German media pipeline — rasterized page renders + zoom-crop scratch (like
+# french/extracted/*/images/). Transcribed .md/.json ARE tracked.
+german/extracted/*/images/
+german/extracted/_tools/_z_*.png

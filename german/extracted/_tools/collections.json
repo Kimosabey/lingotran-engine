@@ -1,0 +1,68 @@
+{
+  "_comment": "Declarative registry of PDF/audio source collections for the German media pipeline. Add a new collection = add an entry here (no code change). Paths are relative to the german/ folder. One PDF = one collection (French-book convention); audio (or null) is the paired listening track.",
+  "collections": [
+    {
+      "slug": "goethe-a1-sd1-exam-training-1",
+      "publisher": "goethe-institut",
+      "exam": "goethe",
+      "level": "A1",
+      "variant": "start-deutsch-1",
+      "pdf": "pdf/goethe-institut/a1-start-deutsch-1/exam-training-1.pdf",
+      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-1-listening.mp4"
+    },
+    {
+      "slug": "goethe-a1-sd1-exam-training-2",
+      "publisher": "goethe-institut",
+      "exam": "goethe",
+      "level": "A1",
+      "variant": "start-deutsch-1",
+      "pdf": "pdf/goethe-institut/a1-start-deutsch-1/exam-training-2.pdf",
+      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-2-listening.mp4"
+    },
+    {
+      "slug": "goethe-a1-sd1-exam-training-3",
+      "publisher": "goethe-institut",
+      "exam": "goethe",
+      "level": "A1",
+      "variant": "start-deutsch-1",
+      "pdf": "pdf/goethe-institut/a1-start-deutsch-1/exam-training-3.pdf",
+      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-3-listening.mp4"
+    },
+    {
+      "slug": "goethe-a1-sd1-vocabulary-list",
+      "publisher": "goethe-institut",
+      "exam": "goethe",
+      "level": "A1",
+      "variant": "start-deutsch-1",
+      "pdf": "pdf/goethe-institut/a1-start-deutsch-1/vocabulary-list.pdf",
+      "audio": null
+    },
+    {
+      "slug": "goethe-a1-fit1-exam-training-1",
+      "publisher": "goethe-institut",
+      "exam": "goethe",
+      "level": "A1",
+      "variant": "fit-in-deutsch-1",
+      "pdf": "pdf/goethe-institut/a1-fit-in-deutsch-1/exam-training-1.pdf",
+      "audio": "audio/goethe-institut/a1-fit-in-deutsch-1/exam-training-1-listening.mp4"
+    },
+    {
+      "slug": "goethe-a1-fit1-exam-training-2",
+      "publisher": "goethe-institut",
+      "exam": "goethe",
+      "level": "A1",
+      "variant": "fit-in-deutsch-1",
+      "pdf": "pdf/goethe-institut/a1-fit-in-deutsch-1/exam-training-2.pdf",
+      "audio": "audio/goethe-institut/a1-fit-in-deutsch-1/exam-training-2-listening.mp4"
+    },
+    {
+      "slug": "goethe-a1-fit1-vocabulary-list",
+      "publisher": "goethe-institut",
+      "exam": "goethe",
+      "level": "A1",
+      "variant": "fit-in-deutsch-1",
+      "pdf": "pdf/goethe-institut/a1-fit-in-deutsch-1/vocabulary-list.pdf",
+      "audio": null
+    }
+  ]
+}
