@@ -17,6 +17,7 @@ Two exam variants:
 | **Read a whole exam paper** end-to-end | `goethe-a1-*/…<name>.md` (unified doc) |
 | **Browse/filter all pages** (what's on each page) | `goethe-a1-catalog-all.csv` |
 | **Build quizzes / flashcards** (questions + answers) | `goethe-a1-questions-all.csv` |
+| **Build vocabulary drills** (words + article/plural/example) | `goethe-a1-vocabulary-all.csv` |
 | Work on **one PDF only** | that collection's folder — it has all three files |
 | Check extraction progress/state | `MANIFEST-MEDIA.md` (dashboard) · `manifest-media.tsv` (raw state) |
 
@@ -55,6 +56,12 @@ transcription** of every page in order.
 11 matching · 89 open-ended. **158 carry a keyed correct answer** (taken from the
 Lösungen pages); the 89 open-ended writing/speaking prompts have no official key.
 
+**4. `<collection>-vocabulary.csv` — the word sheet** (two Wortliste PDFs only)
+`collection, word, article, plural, word_class, example, topic, source_page`
+
+**1,564 words total** (Start Deutsch 1: 808 · Fit in Deutsch 1: 756), 753 nouns
+with their `der/die/das` + plural, and 1,356 carrying the printed example phrase.
+
 ---
 
 ## Vocabulary used for grouping
@@ -77,19 +84,23 @@ Lösungen pages); the 89 open-ended writing/speaking prompts have no official ke
 cd german/extracted
 python _tools/catalog.py --all      # rebuild unified .md + page sheets
 python _tools/questions.py --all    # rebuild question sheets
+python _tools/vocabulary.py --all   # rebuild word sheets
 python _tools/manifest_media.py dashboard
 ```
 
-Full pipeline and how to add another PDF source: see `_tools/collections.json`
-(add one entry — no code changes).
+Adding another PDF source: add one entry to `_tools/collections.json` — no code
+changes. **How the whole extraction was done** (pipeline, workflows, runbook,
+gotchas): see [`EXTRACTION-WORKFLOW.md`](./EXTRACTION-WORKFLOW.md).
 
 ---
 
-## Not included
+## Notes & limits
 
 - **Audio/listening transcripts** — out of scope for this pass (one sample exists
   under `goethe-a1-sd1-exam-training-1/audio/`).
-- **Itemized vocabulary** — the two `vocabulary-list` PDFs (57 pages) are fully
-  transcribed inside their unified `.md`, but their word entries are **not yet
-  broken out into a word-level sheet** (word / article / plural / example).
-  That's the natural next export if the team wants vocabulary drills.
+- **`topic` and `activity_type` are LLM-assigned** navigation aids, not official
+  Goethe metadata.
+- **Open-ended Schreiben/Sprechen items carry `(open-ended)`** — no official
+  answer key exists for them.
+- Six pages in the Wortlisten are *"INVENTARE"* (thematic/grammar inventories, not
+  headword lists) and correctly contribute no word rows.

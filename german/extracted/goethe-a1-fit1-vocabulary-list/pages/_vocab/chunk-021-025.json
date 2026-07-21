@@ -1,0 +1,25 @@
+{
+  "collection": "goethe-a1-fit1-vocabulary-list",
+  "chunk": "021-025",
+  "entries": [
+    {"word": "Wohnung", "article": "die", "plural": "-en", "word_class": "noun", "example": "Unsere Wohnung hat drei Zimmer.", "topic": "home", "source_page": "021"},
+    {"word": "Wohnzimmer", "article": "das", "plural": "-", "word_class": "noun", "example": "Ich mache die Hausaufgaben im Wohnzimmer.", "topic": "home", "source_page": "021"},
+    {"word": "wollen", "article": "", "plural": "", "word_class": "verb", "example": "Willst du meine Freunde kennenlernen?", "topic": "none", "source_page": "021"},
+    {"word": "Wort", "article": "das", "plural": "ö, -er", "word_class": "noun", "example": "Wie viele Wörter hat dein Brief?", "topic": "communication", "source_page": "021"},
+    {"word": "wunderbar", "article": "", "plural": "", "word_class": "adjective", "example": "Das Essen schmeckt wunderbar.", "topic": "food", "source_page": "021"},
+    {"word": "wünschen", "article": "", "plural": "", "word_class": "verb", "example": "Ich wünsche dir schöne Ferien.", "topic": "vacation", "source_page": "021"},
+    {"word": "Wurst", "article": "die", "plural": "ü, -e", "word_class": "noun", "example": "Ich möchte eine Curry-Wurst.", "topic": "food", "source_page": "021"},
+    {"word": "Zahn", "article": "der", "plural": "ä, -e", "word_class": "noun", "example": "Mein Zahn tut weh.", "topic": "health", "source_page": "021"},
+    {"word": "zeigen", "article": "", "plural": "", "word_class": "verb", "example": "Zeigst du mir deinen Computer?", "topic": "none", "source_page": "021"},
+    {"word": "Zeit", "article": "die", "plural": "-en", "word_class": "noun", "example": "Wann hast du Zeit für mich?", "topic": "time-dates", "source_page": "021"},
+    {"word": "Zeitung", "article": "die", "plural": "-en", "word_class": "noun", "example": "Meine Mutter liest am Morgen die Zeitung.", "topic": "communication", "source_page": "021"},
+    {"word": "Zimmer", "article": "das", "plural": "-", "word_class": "noun", "example": "Mein Zimmer ist sehr klein.", "topic": "home", "source_page": "021"},
+    {"word": "zu", "article": "", "plural": "", "word_class": "preposition", "example": "zu groß/zum Frühstück/zum Zahnarzt/zur Post/ zum Geburtstag", "topic": "none", "source_page": "021"},
+    {"word": "zuerst", "article": "", "plural": "", "word_class": "adverb", "example": "Sagen Sie bitte zuerst den Vornamen.", "topic": "personal-info", "source_page": "021"},
+    {"word": "Zug", "article": "der", "plural": "ü, -e", "word_class": "noun", "example": "Wir nehmen den Zug.", "topic": "travel", "source_page": "021"},
+    {"word": "zum Beispiel", "article": "", "plural": "", "word_class": "phrase", "example": "z. B.", "topic": "none", "source_page": "021"},
+    {"word": "zumachen", "article": "", "plural": "", "word_class": "verb", "example": "Mach die Tür zu!", "topic": "none", "source_page": "021"},
+    {"word": "zusammen", "article": "", "plural": "", "word_class": "adverb", "example": "Wir machen zusammen Hausaufgaben.", "topic": "school", "source_page": "021"},
+    {"word": "zu sein", "article": "", "plural": "", "word_class": "phrase", "example": "Die Bibliothek ist in den Ferien zu.", "topic": "city-places", "source_page": "021"}
+  ]
+}

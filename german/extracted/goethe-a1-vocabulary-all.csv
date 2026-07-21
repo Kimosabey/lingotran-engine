@@ -1,0 +1,1565 @@
+﻿collection,word,article,plural,word_class,example,topic,source_page
+goethe-a1-sd1-vocabulary-list,(ein)hundert,,,other,100 = (ein)hundert,none,006
+goethe-a1-sd1-vocabulary-list,(ein)tausend,,,other,1.000 = (ein)tausend,none,006
+goethe-a1-sd1-vocabulary-list,acht,,,other,8 = acht,none,006
+goethe-a1-sd1-vocabulary-list,achtzehn,,,other,18 = achtzehn,none,006
+goethe-a1-sd1-vocabulary-list,achtzig,,,other,80 = achtzig,none,006
+goethe-a1-sd1-vocabulary-list,"Berlin, 12. April 2002",,,phrase,"Berlin, 12. April 2002 = Berlin, zwölfter Vierter zweitausendzwei",time-dates,006
+goethe-a1-sd1-vocabulary-list,drei,,,other,3 = drei,none,006
+goethe-a1-sd1-vocabulary-list,dreizehn,,,other,13 = dreizehn,none,006
+goethe-a1-sd1-vocabulary-list,dreißig,,,other,30 = dreißig,none,006
+goethe-a1-sd1-vocabulary-list,dritte,,,other,dritte,none,006
+goethe-a1-sd1-vocabulary-list,eins,,,other,1 = eins,none,006
+goethe-a1-sd1-vocabulary-list,einundzwanzig,,,other,21 = einundzwanzig,none,006
+goethe-a1-sd1-vocabulary-list,elf,,,other,11 = elf,none,006
+goethe-a1-sd1-vocabulary-list,erste,das/der/die,,other,das/der/die erste,none,006
+goethe-a1-sd1-vocabulary-list,fünf,,,other,5 = fünf,none,006
+goethe-a1-sd1-vocabulary-list,fünfzehn,,,other,15 = fünfzehn,none,006
+goethe-a1-sd1-vocabulary-list,fünfzig,,,other,50 = fünfzig,none,006
+goethe-a1-sd1-vocabulary-list,halb,,,other,1/2 = ein halb; halb …,time-dates,006
+goethe-a1-sd1-vocabulary-list,heute ist der 1. März,,,phrase,heute ist der 1. März = heute ist der erste März/der erste Dritte,time-dates,006
+goethe-a1-sd1-vocabulary-list,hunderteins,,,other,101 = hunderteins,none,006
+goethe-a1-sd1-vocabulary-list,Milliarde,die,=en,noun,"1.000.000.000 = eine Milliarde, =en",none,006
+goethe-a1-sd1-vocabulary-list,Million,die,=en,noun,"1.000.000 = eine Million, =en",none,006
+goethe-a1-sd1-vocabulary-list,neun,,,other,9 = neun,none,006
+goethe-a1-sd1-vocabulary-list,neunzehn,,,other,19 = neunzehn,none,006
+goethe-a1-sd1-vocabulary-list,neunzehnhundertneunundneunzig,,,other,1999 = neunzehnhundertneunundneunzig,time-dates,006
+goethe-a1-sd1-vocabulary-list,neunzig,,,other,90 = neunzig,none,006
+goethe-a1-sd1-vocabulary-list,sechs,,,other,6 = sechs,none,006
+goethe-a1-sd1-vocabulary-list,sechzehn,,,other,16 = sechzehn,none,006
+goethe-a1-sd1-vocabulary-list,sechzig,,,other,60 = sechzig,none,006
+goethe-a1-sd1-vocabulary-list,sieben,,,other,7 = sieben,none,006
+goethe-a1-sd1-vocabulary-list,siebzehn,,,other,17 = siebzehn,none,006
+goethe-a1-sd1-vocabulary-list,siebzig,,,other,70 = siebzig,none,006
+goethe-a1-sd1-vocabulary-list,vier,,,other,4 = vier,none,006
+goethe-a1-sd1-vocabulary-list,vierte,,,other,vierte,none,006
+goethe-a1-sd1-vocabulary-list,Viertel,,,noun,1/4 = ein Viertel; Viertel …,time-dates,006
+goethe-a1-sd1-vocabulary-list,vierzehn,,,other,14 = vierzehn,none,006
+goethe-a1-sd1-vocabulary-list,vierzig,,,other,40 = vierzig,none,006
+goethe-a1-sd1-vocabulary-list,zehn,,,other,10 = zehn,none,006
+goethe-a1-sd1-vocabulary-list,zwanzig,,,other,20 = zwanzig,none,006
+goethe-a1-sd1-vocabulary-list,zwei,,,other,2 = zwei,none,006
+goethe-a1-sd1-vocabulary-list,zweihundert,,,other,200 = zweihundert,none,006
+goethe-a1-sd1-vocabulary-list,zweitausendvierzehn,,,other,2014 = zweitausendvierzehn,time-dates,006
+goethe-a1-sd1-vocabulary-list,zweite,,,other,zweite,none,006
+goethe-a1-sd1-vocabulary-list,zwölf,,,other,12 = zwölf,none,006
+goethe-a1-sd1-vocabulary-list,Abend,der,-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,April,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,August,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Dezember,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Dienstag,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Donnerstag,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,dreizehn Uhr siebzehn,,,phrase,13.17 Uhr = dreizehn Uhr siebzehn,time-dates,007
+goethe-a1-sd1-vocabulary-list,ein Uhr,,,phrase,b) ein Uhr,time-dates,007
+goethe-a1-sd1-vocabulary-list,Februar,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Freitag,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,fünf Minuten vor/nach eins (ein Uhr),,,phrase,fünf Minuten vor/nach eins (ein Uhr),time-dates,007
+goethe-a1-sd1-vocabulary-list,halb drei,,,phrase,halb drei,time-dates,007
+goethe-a1-sd1-vocabulary-list,Jahr,das,-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Januar,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Juli,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Juni,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Mai,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Minute,die,-n,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Mittag,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Mittwoch,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Montag,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Morgen,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,März,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Nachmittag,der,-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Nacht,die,¨-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,November,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,null Uhr drei,,,phrase,0.03 Uhr = null Uhr drei,time-dates,007
+goethe-a1-sd1-vocabulary-list,Oktober,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Samstag/Sonnabend,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Sekunde,die,-n,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,September,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,sieben Uhr fünfzehn,,,phrase,7.15 Uhr = sieben Uhr fünfzehn,time-dates,007
+goethe-a1-sd1-vocabulary-list,Sonntag,der,,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Stunde,die,-n,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Tag,der,-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Viertel vor/nach zwei (zwei Uhr),,,phrase,Viertel vor/nach zwei (zwei Uhr),time-dates,007
+goethe-a1-sd1-vocabulary-list,vierundzwanzig Uhr,,,phrase,24.00 Uhr = vierundzwanzig Uhr,time-dates,007
+goethe-a1-sd1-vocabulary-list,Vormittag,der,-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Woche,die,-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,Wochenende,das,,noun,am Wochenende,time-dates,007
+goethe-a1-sd1-vocabulary-list,Wochentag,der,-e,noun,,time-dates,007
+goethe-a1-sd1-vocabulary-list,blau,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,braun,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,Cent,,,noun,100 Cent,shopping,008
+goethe-a1-sd1-vocabulary-list,deutsch,,,adjective,"ein Deutscher, eine Deutsche, Deutsche, deutsch",personal-info,008
+goethe-a1-sd1-vocabulary-list,Deutsche,der/die,-n,noun,"ein Deutscher, eine Deutsche, Deutsche, deutsch",personal-info,008
+goethe-a1-sd1-vocabulary-list,Deutschland,,,noun,,personal-info,008
+goethe-a1-sd1-vocabulary-list,ein Meter fünfzehn,,,phrase,"ein Meter fünfzehn = 1,15 m",none,008
+goethe-a1-sd1-vocabulary-list,Euro,,,noun,1 Euro,shopping,008
+goethe-a1-sd1-vocabulary-list,Europa,,,noun,,personal-info,008
+goethe-a1-sd1-vocabulary-list,Europäer,,,noun,,personal-info,008
+goethe-a1-sd1-vocabulary-list,europäisch,,,adjective,,personal-info,008
+goethe-a1-sd1-vocabulary-list,"Finnland, Finne/Finnin, -nen, finnisch",,-nen,other,"Finnland, Finne/Finnin, -nen, finnisch",personal-info,008
+goethe-a1-sd1-vocabulary-list,Frühling/das Frühjahr,der,,noun,,time-dates,008
+goethe-a1-sd1-vocabulary-list,gelb,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,Grad,,,noun,ein Grad unter Null/minus ein Grad = – 1°,weather,008
+goethe-a1-sd1-vocabulary-list,Gramm,,,noun,ein Gramm = 1 g,food,008
+goethe-a1-sd1-vocabulary-list,grau,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,grün,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,Herbst,der,,noun,,time-dates,008
+goethe-a1-sd1-vocabulary-list,Kilo(gramm),,,noun,ein Kilo(gramm) = 1 kg,food,008
+goethe-a1-sd1-vocabulary-list,Kilometer,,,noun,zweihundert Kilometer = 200 km,none,008
+goethe-a1-sd1-vocabulary-list,Liter,,,noun,ein Liter = 1 l,food,008
+goethe-a1-sd1-vocabulary-list,Meter,,,noun,ein Meter = 1 m,none,008
+goethe-a1-sd1-vocabulary-list,"Mexiko, Mexikaner/Mexikanerin, -nen, mexikanisch",,-nen,other,"Mexiko, Mexikaner/Mexikanerin, -nen, mexikanisch",personal-info,008
+goethe-a1-sd1-vocabulary-list,Norden,der,,noun,,none,008
+goethe-a1-sd1-vocabulary-list,Osten,der,,noun,,none,008
+goethe-a1-sd1-vocabulary-list,Pfund,,,noun,ein Pfund = 500 g,food,008
+goethe-a1-sd1-vocabulary-list,Prozent,,,noun,ein Prozent = 1 %,none,008
+goethe-a1-sd1-vocabulary-list,Quadratmeter,,,noun,ein Quadratmeter = 1 m²,home,008
+goethe-a1-sd1-vocabulary-list,rot,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,schwarz,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,Sommer,der,,noun,,time-dates,008
+goethe-a1-sd1-vocabulary-list,Süden,der,,noun,,none,008
+goethe-a1-sd1-vocabulary-list,"Türkei, Türke/Türkin, -nen, türkisch",,-nen,other,"z. B. Türkei, Türke/Türkin, -nen, türkisch",personal-info,008
+goethe-a1-sd1-vocabulary-list,vier Grad über Null/plus vier Grad,,,phrase,vier Grad über Null/plus vier Grad = + 4°,weather,008
+goethe-a1-sd1-vocabulary-list,weiß,,,adjective,,none,008
+goethe-a1-sd1-vocabulary-list,Westen,der,,noun,,none,008
+goethe-a1-sd1-vocabulary-list,Winter,der,,noun,,time-dates,008
+goethe-a1-sd1-vocabulary-list,Zentimeter,,,noun,ein Zentimeter = 1 cm,none,008
+goethe-a1-sd1-vocabulary-list,(sich) anmelden,,,verb,Wo kann ich mich anmelden?,none,009
+goethe-a1-sd1-vocabulary-list,ab,,,preposition,Ab morgen muss ich arbeiten.,none,009
+goethe-a1-sd1-vocabulary-list,aber,,,other,"Ich bin oft im Büro, aber nur für wenige Stunden.",none,009
+goethe-a1-sd1-vocabulary-list,abfahren,,,verb,Wir fahren um zwölf Uhr ab.,travel,009
+goethe-a1-sd1-vocabulary-list,Abfahrt,die,,noun,Vor der Abfahrt rufe ich an.,travel,009
+goethe-a1-sd1-vocabulary-list,abgeben,,,verb,Ich muss meine Schlüssel abgeben.,none,009
+goethe-a1-sd1-vocabulary-list,abholen,,,verb,Wann kann ich den Schrank bei dir abholen?,daily-routine,009
+goethe-a1-sd1-vocabulary-list,Absender,der,,noun,Da ist ein Brief für dich ohne Absender.,communication,009
+goethe-a1-sd1-vocabulary-list,Achtung,,,other,Achtung! Das dürfen Sie nicht tun.,none,009
+goethe-a1-sd1-vocabulary-list,Adresse,die,-en,noun,Können Sie mir seine Adresse sagen?,personal-info,009
+goethe-a1-sd1-vocabulary-list,all-,,,other,Alles Gute!,none,009
+goethe-a1-sd1-vocabulary-list,allein,,,adverb,Er kommt allein.,none,009
+goethe-a1-sd1-vocabulary-list,also,,,adverb,"Also, es ist so: …",none,009
+goethe-a1-sd1-vocabulary-list,alt,,,adjective,Wie alt sind Sie?,personal-info,009
+goethe-a1-sd1-vocabulary-list,Alter,das,,noun,Alter: 26 Jahre.,personal-info,009
+goethe-a1-sd1-vocabulary-list,an,,,preposition,Fahren Sie an der nächsten Straße nach rechts.,none,009
+goethe-a1-sd1-vocabulary-list,anbieten,,,verb,Was darf ich dir anbieten?,none,009
+goethe-a1-sd1-vocabulary-list,ander-,,,other,"Willst du diese Jacke? – Nein, ich möchte die andere.",none,009
+goethe-a1-sd1-vocabulary-list,Anfang,der,,noun,Sie wohnt am Anfang der Straße.,none,009
+goethe-a1-sd1-vocabulary-list,anfangen,,,verb,Hier fängt die Bahnhofstraße an.,none,009
+goethe-a1-sd1-vocabulary-list,Angebot,das,-e,noun,Heute sind Sportschuhe im Angebot.,shopping,009
+goethe-a1-sd1-vocabulary-list,anklicken,,,verb,Da musst du dieses Wort anklicken.,communication,009
+goethe-a1-sd1-vocabulary-list,ankommen,,,verb,Wann kommt dieser Zug in Hamburg an?,travel,009
+goethe-a1-sd1-vocabulary-list,ankreuzen,,,verb,Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.,none,009
+goethe-a1-sd1-vocabulary-list,Ankunft,die,,noun,Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.,travel,009
+goethe-a1-sd1-vocabulary-list,anmachen,,,verb,Mach bitte das Licht an!,home,009
+goethe-a1-sd1-vocabulary-list,Anmeldung,die,,noun,Eine Anmeldung für diesen Kurs ist nicht mehr möglich.,school,009
+goethe-a1-sd1-vocabulary-list,Anrede,die,,noun,Schreiben Sie auch eine Anrede und einen Gruß.,communication,009
+goethe-a1-sd1-vocabulary-list,Anruf,der,-e,noun,Sie bekommt viele Anrufe auf ihrem Handy.,communication,009
+goethe-a1-sd1-vocabulary-list,Anrufbeantworter,der,,noun,Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter.,communication,009
+goethe-a1-sd1-vocabulary-list,anrufen,,,verb,Kann man Sie anrufen?,communication,009
+goethe-a1-sd1-vocabulary-list,(sich) anziehen,,,verb,Ich muss mich noch anziehen.,daily-routine,010
+goethe-a1-sd1-vocabulary-list,(sich) ausziehen,,,verb,"Zieh die Schuhe aus, bitte!",daily-routine,010
+goethe-a1-sd1-vocabulary-list,an sein,,,verb,Heute Nacht war das Licht an.,home,010
+goethe-a1-sd1-vocabulary-list,Ansage,die,-n,noun,Hören Sie die Ansagen.,communication,010
+goethe-a1-sd1-vocabulary-list,Anschluss,der,,noun,In Mannheim haben Sie Anschluss nach Saarbrücken.,travel,010
+goethe-a1-sd1-vocabulary-list,Antwort,die,-en,noun,Er gibt leider keine Antwort.,communication,010
+goethe-a1-sd1-vocabulary-list,antworten,,,verb,Er antwortet nicht.,communication,010
+goethe-a1-sd1-vocabulary-list,Anzeige,die,-n,noun,Ich habe Ihre Anzeige in der Zeitung gelesen.,communication,010
+goethe-a1-sd1-vocabulary-list,Apartment,das,-s,noun,Wir haben ein Apartment gemietet.,home,010
+goethe-a1-sd1-vocabulary-list,Apfel,der,-Ä,noun,Ein Pfund Äpfel bitte.,food,010
+goethe-a1-sd1-vocabulary-list,Appetit,der,,noun,Guten Appetit!,food,010
+goethe-a1-sd1-vocabulary-list,Arbeit,die,-en,noun,Mein Bruder sucht Arbeit.,profession,010
+goethe-a1-sd1-vocabulary-list,arbeiten,,,verb,Wo arbeiten Sie?,profession,010
+goethe-a1-sd1-vocabulary-list,arbeitslos,,,adjective,"Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",profession,010
+goethe-a1-sd1-vocabulary-list,Arbeitsplatz,der,"-ä, e",noun,An meinem Arbeitsplatz fehlt ein Drucker.,profession,010
+goethe-a1-sd1-vocabulary-list,Arm,der,-e,noun,Mein Arm tut weh.,health,010
+goethe-a1-sd1-vocabulary-list,Arzt,der,"-Ä, e",noun,Morgen habe ich einen Termin bei meiner Ärztin.,health,010
+goethe-a1-sd1-vocabulary-list,auch,,,adverb,Ich bin auch Spanier.,none,010
+goethe-a1-sd1-vocabulary-list,auf,,,preposition,Die Kinder spielen auf der Straße.,none,010
+goethe-a1-sd1-vocabulary-list,auf sein,,,verb,Du brauchst den Schlüssel nicht. Die Wohnung ist auf.,home,010
+goethe-a1-sd1-vocabulary-list,Aufgabe,die,-n,noun,Das ist eine schwere Aufgabe.,school,010
+goethe-a1-sd1-vocabulary-list,aufhören,,,verb,Der Kurs hört in einer Woche auf.,school,010
+goethe-a1-sd1-vocabulary-list,aufstehen,,,verb,Ich muss immer um vier Uhr aufstehen.,daily-routine,010
+goethe-a1-sd1-vocabulary-list,Aufzug,der,"-ü, e",noun,In diesem Haus gibt es keinen Aufzug.,home,010
+goethe-a1-sd1-vocabulary-list,Auge,das,-n,noun,Er hat blaue Augen.,health,010
+goethe-a1-sd1-vocabulary-list,aus,,,preposition,Er kommt aus Brasilien.,personal-info,010
+goethe-a1-sd1-vocabulary-list,aus sein,,,verb,Das Licht ist aus.,home,010
+goethe-a1-sd1-vocabulary-list,Ausflug,der,,noun,Morgen machen wir einen Ausflug nach Heidelberg.,vacation,010
+goethe-a1-sd1-vocabulary-list,ausfüllen,,,verb,Füllen Sie bitte dieses Formular aus.,none,010
+goethe-a1-sd1-vocabulary-list,Ausgang,der,,noun,Wo ist der Ausgang?,city-places,010
+goethe-a1-sd1-vocabulary-list,Auskunft,die,"-ü, e",noun,Können Sie mir eine Auskunft geben?,communication,010
+goethe-a1-sd1-vocabulary-list,Ausland,das,,noun,Fahren Sie ins Ausland?,travel,010
+goethe-a1-sd1-vocabulary-list,Ausländer,der,-,noun,SInd Sie Ausländerin?,personal-info,010
+goethe-a1-sd1-vocabulary-list,ausländisch,,,adjective,Leider habe ich nur ausländisches Geld.,none,010
+goethe-a1-sd1-vocabulary-list,ausmachen,,,verb,Mach bitte das Licht aus!,home,010
+goethe-a1-sd1-vocabulary-list,Aussage,die,-n,noun,Ist die Aussage richtig oder falsch?,none,010
+goethe-a1-sd1-vocabulary-list,aussehen,,,verb,Das sieht schön aus.,none,010
+goethe-a1-sd1-vocabulary-list,aussteigen,,,verb,Wo muss ich aussteigen?,travel,010
+goethe-a1-sd1-vocabulary-list,Ausweis,der,,noun,Hier ist mein Ausweis.,personal-info,010
+goethe-a1-sd1-vocabulary-list,Auto,das,-s,noun,Er kommt mit dem Auto.,travel,010
+goethe-a1-sd1-vocabulary-list,Autobahn,die,-en,noun,Wo geht's hier bitte zur Autobahn?,travel,010
+goethe-a1-sd1-vocabulary-list,Automat,der,,noun,Die Fahrkarten gibt es nur am Automaten.,travel,010
+goethe-a1-sd1-vocabulary-list,automatisch,,,adjective,Du musst nichts machen. Das geht automatisch.,none,010
+goethe-a1-sd1-vocabulary-list,Baby,das,-s,noun,Mein Kind ist noch ein Baby.,family,011
+goethe-a1-sd1-vocabulary-list,Bad,das,,noun,Wir haben kein großes Bad.,home,011
+goethe-a1-sd1-vocabulary-list,baden,,,verb,"Ich bade nicht so gern, ich dusche lieber.",daily-routine,011
+goethe-a1-sd1-vocabulary-list,Bahn,die,,noun,Wir fahren lieber mit der Bahn.,travel,011
+goethe-a1-sd1-vocabulary-list,Bahnhof,der,,noun,Komme ich hier zum Bahnhof?,travel,011
+goethe-a1-sd1-vocabulary-list,Bahnsteig,der,,noun,Auf welchem Bahnsteig fährt der Zug?,travel,011
+goethe-a1-sd1-vocabulary-list,bald,,,adverb,Ich komme bald.,time-dates,011
+goethe-a1-sd1-vocabulary-list,Balkon,der,,noun,Die Wohnung hat auch einen kleinen Balkon.,home,011
+goethe-a1-sd1-vocabulary-list,Banane,die,-n,noun,"Drei Bananen, bitte!",food,011
+goethe-a1-sd1-vocabulary-list,Bank,die,,noun,Die Bank schließt schon um vier Uhr.,city-places,011
+goethe-a1-sd1-vocabulary-list,bar,,,adjective,Muss ich bar zahlen oder geht's auch mit Karte?,shopping,011
+goethe-a1-sd1-vocabulary-list,Bauch,der,,noun,Seit gestern tut mir der Bauch weh.,health,011
+goethe-a1-sd1-vocabulary-list,Baum,der,"-ä, e",noun,"Vorsicht, fahr nicht an den Baum!",none,011
+goethe-a1-sd1-vocabulary-list,Beamte,der,-n,noun,Fragen Sie die Beamtin an Schalter acht!,profession,011
+goethe-a1-sd1-vocabulary-list,bedeuten,,,verb,Was bedeutet das Wort?,communication,011
+goethe-a1-sd1-vocabulary-list,beginnen,,,verb,Das Spiel beginnt um 15.30 Uhr.,time-dates,011
+goethe-a1-sd1-vocabulary-list,bei,,,preposition,Offenbach liegt bei Frankfurt.,none,011
+goethe-a1-sd1-vocabulary-list,beide,,,other,Beide Eltern arbeiten.,none,011
+goethe-a1-sd1-vocabulary-list,Bein,das,-e,noun,Mein rechtes Bein tut weh.,health,011
+goethe-a1-sd1-vocabulary-list,Beispiel,das,-e,noun,Kannst du mir ein Beispiel sagen?,communication,011
+goethe-a1-sd1-vocabulary-list,bekannt,,,adjective,Picasso ist sehr bekannt.,none,011
+goethe-a1-sd1-vocabulary-list,Bekannte,der/die,-n,noun,Ein Bekannter von mir heißt Klaus.,personal-info,011
+goethe-a1-sd1-vocabulary-list,bekommen,,,verb,Haben Sie meinen Brief bekommen?,communication,011
+goethe-a1-sd1-vocabulary-list,benutzen,,,verb,Die Aufzüge bitte nicht benutzen!,none,011
+goethe-a1-sd1-vocabulary-list,Beruf,der,-e,noun,Was sind Sie von Beruf?,profession,011
+goethe-a1-sd1-vocabulary-list,besetzt,,,adjective,Die Nummer ist immer besetzt.,communication,011
+goethe-a1-sd1-vocabulary-list,besichtigen,,,verb,Ich möchte gern den Dom besichtigen.,vacation,011
+goethe-a1-sd1-vocabulary-list,besser,,,adjective,Es geht mir schon besser.,health,011
+goethe-a1-sd1-vocabulary-list,best-,,,adjective,Am besten treffen wir uns morgen.,none,011
+goethe-a1-sd1-vocabulary-list,bestellen,,,verb,"Wir möchten bestellen, bitte.",restaurant,011
+goethe-a1-sd1-vocabulary-list,besuchen,,,verb,Darf ich dich besuchen?,hobby,011
+goethe-a1-sd1-vocabulary-list,Bett,das,-en,noun,Wir brauchen noch ein Kinderbett.,home,011
+goethe-a1-sd1-vocabulary-list,bezahlen,,,verb,Wo muss ich bezahlen?,shopping,011
+goethe-a1-sd1-vocabulary-list,Bier,das,,noun,Noch ein Bier bitte.,restaurant,011
+goethe-a1-sd1-vocabulary-list,Bild,das,-er,noun,Hast du ein Bild von deinem Sohn?,hobby,011
+goethe-a1-sd1-vocabulary-list,billig,,,adjective,Die Jacke kostet nur 10 Euro! Die ist aber billig!,shopping,011
+goethe-a1-sd1-vocabulary-list,Bäckerei,die,,noun,Ich geh mal schnell zur Bäckerei.,shopping,011
+goethe-a1-sd1-vocabulary-list,zum Beispiel/z. B.,,,phrase,"Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.",communication,011
+goethe-a1-sd1-vocabulary-list,Birne,die,-n,noun,"Ein Kilo Birnen, bitte!",food,012
+goethe-a1-sd1-vocabulary-list,bis,,,preposition,Ich fahre nur bis Stuttgart.,none,012
+goethe-a1-sd1-vocabulary-list,bisschen,,,other,"Ich spreche Englisch, Französisch und ein bisschen Deutsch.",none,012
+goethe-a1-sd1-vocabulary-list,bitte,,,other,"Eine Tasse Kaffee, bitte!",communication,012
+goethe-a1-sd1-vocabulary-list,Bitte,die,-n,noun,Ich habe noch eine Bitte.,communication,012
+goethe-a1-sd1-vocabulary-list,bitten,,,verb,Darf ich Sie um etwas bitten?,communication,012
+goethe-a1-sd1-vocabulary-list,bitter,,,adjective,Der Kaffee schmeckt bitter.,food,012
+goethe-a1-sd1-vocabulary-list,bleiben,,,verb,Ich bleibe heute zu Hause.,daily-routine,012
+goethe-a1-sd1-vocabulary-list,Bleistift,der,-e,noun,Hast du einen Bleistift?,school,012
+goethe-a1-sd1-vocabulary-list,Blick,der,,noun,Von diesem Hotel hat man einen guten Blick auf den Rhein.,vacation,012
+goethe-a1-sd1-vocabulary-list,Blume,die,-n,noun,Gefallen dir die Blumen?,none,012
+goethe-a1-sd1-vocabulary-list,Bogen,der,,noun,Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.,school,012
+goethe-a1-sd1-vocabulary-list,brauchen,,,verb,Brauchst du die Zeitung noch?,none,012
+goethe-a1-sd1-vocabulary-list,breit,,,adjective,Wie breit ist der Schrank?,home,012
+goethe-a1-sd1-vocabulary-list,Brief,der,-e,noun,Haben Sie einen Brief für mich?,communication,012
+goethe-a1-sd1-vocabulary-list,Briefmarke,die,-n,noun,Kaufst du bitte Briefmarken bei der Post.,communication,012
+goethe-a1-sd1-vocabulary-list,bringen,,,verb,Bringen Sie mir bitte noch einen Kaffee!,restaurant,012
+goethe-a1-sd1-vocabulary-list,Brot,das,-e,noun,Haben Sie auch Weißbrot?,food,012
+goethe-a1-sd1-vocabulary-list,Bruder,der,-ü,noun,Sein Bruder arbeitet auch hier.,family,012
+goethe-a1-sd1-vocabulary-list,Brötchen,das,–,noun,Möchtest du Brötchen zum Frühstück?,food,012
+goethe-a1-sd1-vocabulary-list,Buch,das,"-ü, er",noun,Gute Bücher sind oft sehr teuer.,hobby,012
+goethe-a1-sd1-vocabulary-list,Buchstabe,der,-n,noun,Diesen Buchstaben gibt es in meiner Sprache nicht.,school,012
+goethe-a1-sd1-vocabulary-list,buchstabieren,,,verb,Bitte buchstabieren Sie Ihren Namen.,personal-info,012
+goethe-a1-sd1-vocabulary-list,Bus,der,-se,noun,Wann kommt der nächste Bus?,travel,012
+goethe-a1-sd1-vocabulary-list,Butter,die,,noun,Für mich bitte ein Brötchen mit Butter und Käse.,food,012
+goethe-a1-sd1-vocabulary-list,böse,,,adjective,Sie ist böse auf mich.,none,012
+goethe-a1-sd1-vocabulary-list,Café,das,-s,noun,Sollen wir uns im Café treffen?,restaurant,012
+goethe-a1-sd1-vocabulary-list,CD,die,-s,noun,Bring bitte deine Lieblings-CD mit.,hobby,012
+goethe-a1-sd1-vocabulary-list,Chef,der,,noun,Wir haben eine neue Chefin.,profession,012
+goethe-a1-sd1-vocabulary-list,circa/ca.,,,adverb,Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.,travel,012
+goethe-a1-sd1-vocabulary-list,Computer,der,–,noun,Wann bekommst du deinen neuen Computer?,communication,012
+goethe-a1-sd1-vocabulary-list,da,,,adverb,Da hinten ist er ja.,none,012
+goethe-a1-sd1-vocabulary-list,Dame,die,-n,noun,Damen (an der Toilette),personal-info,012
+goethe-a1-sd1-vocabulary-list,(sich) duschen,,,verb,"Ich bade nicht so gern, ich dusche lieber.",daily-routine,013
+goethe-a1-sd1-vocabulary-list,daneben,,,adverb,Du kennst doch die Post. Daneben ist die Bank.,city-places,013
+goethe-a1-sd1-vocabulary-list,Dank,der,,noun,Vielen Dank!,communication,013
+goethe-a1-sd1-vocabulary-list,danke,,,other,"Soll ich Ihnen helfen? - Nein, danke!",communication,013
+goethe-a1-sd1-vocabulary-list,danken,,,verb,Ich danke Ihnen für die Einladung.,communication,013
+goethe-a1-sd1-vocabulary-list,dann,,,adverb,"Ich muss noch schnell zur Post, dann komme ich.",none,013
+goethe-a1-sd1-vocabulary-list,Datum,das,,noun,Bitte schreiben Sie noch das Datum auf das Formular.,time-dates,013
+goethe-a1-sd1-vocabulary-list,dauern,,,verb,Wie lange dauert der Film?,time-dates,013
+goethe-a1-sd1-vocabulary-list,dein-,,,other,Ist das dein Auto?,none,013
+goethe-a1-sd1-vocabulary-list,denn,,,other,"Ich kann nicht kommen, denn ich bin krank.",none,013
+goethe-a1-sd1-vocabulary-list,"der, die, das",,,other,Ich nehme das da.,none,013
+goethe-a1-sd1-vocabulary-list,dich,,,other,Die Blumen sind für dich.,none,013
+goethe-a1-sd1-vocabulary-list,dies-,,,other,Ich nehme lieber diesen Kuchen.,none,013
+goethe-a1-sd1-vocabulary-list,dir,,,other,Gefallen dir die Blumen?,none,013
+goethe-a1-sd1-vocabulary-list,Disco,die,,noun,Heute abend gehen wir in die Disco tanzen.,hobby,013
+goethe-a1-sd1-vocabulary-list,Doktor,der,,noun,Meine Tochter ist krank. Wir gehen zum Doktor.,health,013
+goethe-a1-sd1-vocabulary-list,Doppelzimmer,das,,noun,Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?,vacation,013
+goethe-a1-sd1-vocabulary-list,Dorf,das,"-ö, er",noun,Meine Familie lebt in einem Dorf.,city-places,013
+goethe-a1-sd1-vocabulary-list,"dort, -her, -hin",,,adverb,Deine Tasche kannst du dorthin stellen.,none,013
+goethe-a1-sd1-vocabulary-list,draußen,,,adverb,Wollen wir draußen sitzen?,none,013
+goethe-a1-sd1-vocabulary-list,drucken,,,verb,Bitte drucke das Formular für mich.,communication,013
+goethe-a1-sd1-vocabulary-list,Drucker,der,–,noun,Mein Drucker ist kaputt.,communication,013
+goethe-a1-sd1-vocabulary-list,drücken,,,verb,"Drück hier, dann geht der Computer an.",none,013
+goethe-a1-sd1-vocabulary-list,durch,,,preposition,Am besten gehen Sie durch die Breite Straße.,city-places,013
+goethe-a1-sd1-vocabulary-list,Durchsage,die,-n,noun,Ich habe die Durchsage nicht verstanden.,travel,013
+goethe-a1-sd1-vocabulary-list,Durst,der,,noun,Hast du etwas zu trinken? Ich habe großen Durst.,food,013
+goethe-a1-sd1-vocabulary-list,Dusche,die,,noun,Unsere Wohnung hat nur eine Dusche.,home,013
+goethe-a1-sd1-vocabulary-list,dürfen,,,verb,Sie dürfen hier nicht rauchen.,none,013
+goethe-a1-sd1-vocabulary-list,Ecke,die,-n,noun,An der nächsten Ecke links.,city-places,013
+goethe-a1-sd1-vocabulary-list,"Ehefrau, -en/ Ehemann",die/ der,"-en/ ä, er",noun,Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.,family,013
+goethe-a1-sd1-vocabulary-list,Ei,das,-er,noun,Möchtest du ein Ei zum Frühstück?,food,013
+goethe-a1-sd1-vocabulary-list,eilig,,,adjective,Hast du es eilig?,none,013
+goethe-a1-sd1-vocabulary-list,ein-,,,other,Ich nehme ein Bier. Willst du auch eins?,none,013
+goethe-a1-sd1-vocabulary-list,einfach,,,adjective,Die Prüfung ist ganz einfach.,school,013
+goethe-a1-sd1-vocabulary-list,Eingang,der,,noun,Der Eingang ist um die Ecke.,city-places,013
+goethe-a1-sd1-vocabulary-list,einkaufen,,,verb,Ich muss noch für morgen einkaufen.,shopping,013
+goethe-a1-sd1-vocabulary-list,einladen,,,verb,Darf ich Sie zu einem Kaffee einladen?,communication,013
+goethe-a1-sd1-vocabulary-list,Einladung,die,,noun,Danke für die Einladung!,communication,013
+goethe-a1-sd1-vocabulary-list,E-Mail,die,-s,noun,Ich habe Ihre E-Mail nicht bekommen.,communication,014
+goethe-a1-sd1-vocabulary-list,einmal,,,adverb,Diese Prüfung mache ich nicht noch einmal.,school,014
+goethe-a1-sd1-vocabulary-list,einsteigen,,,verb,"Schnell, steig ein, der Zug fährt gleich.",travel,014
+goethe-a1-sd1-vocabulary-list,Eintritt,der,,noun,Der Preis für den Eintritt ist 5 Euro.,hobby,014
+goethe-a1-sd1-vocabulary-list,Einzelzimmer,das,,noun,Haben Sie noch ein Einzelzimmer?,vacation,014
+goethe-a1-sd1-vocabulary-list,Eltern (pl.),die,,noun,Meine Eltern leben in Spanien.,family,014
+goethe-a1-sd1-vocabulary-list,empfehlen,,,verb,Welchen Wein können Sie mir empfehlen?,restaurant,014
+goethe-a1-sd1-vocabulary-list,Empfänger,der,–,noun,"Auf dem Brief steht dein Name, also bist du der Empfänger.",communication,014
+goethe-a1-sd1-vocabulary-list,Ende,das,,noun,Sie wohnt am Ende der Straße.,city-places,014
+goethe-a1-sd1-vocabulary-list,enden,,,verb,Die Straße endet hier.,city-places,014
+goethe-a1-sd1-vocabulary-list,entschuldigen,,,verb,Entschuldigen Sie bitte!,communication,014
+goethe-a1-sd1-vocabulary-list,Entschuldigung,die,,noun,Entschuldigung! – Bitte.,communication,014
+goethe-a1-sd1-vocabulary-list,er,,,other,Er heißt Ali.,none,014
+goethe-a1-sd1-vocabulary-list,Ergebnis,das,-se,noun,Das Ergebnis des Tests bekommen Sie in zwei Wochen.,school,014
+goethe-a1-sd1-vocabulary-list,erklären,,,verb,Kannst du mir das erklären?,communication,014
+goethe-a1-sd1-vocabulary-list,erlauben,,,verb,Rauchen ist hier nicht erlaubt.,none,014
+goethe-a1-sd1-vocabulary-list,Erwachsene,der,-n,noun,Dieser Film ist nur für Erwachsene.,personal-info,014
+goethe-a1-sd1-vocabulary-list,erzählen,,,verb,Wir müssen euch etwas erzählen!,communication,014
+goethe-a1-sd1-vocabulary-list,es,,,other,Es regnet.,none,014
+goethe-a1-sd1-vocabulary-list,essen,,,verb,Was gibt es zu essen?,food,014
+goethe-a1-sd1-vocabulary-list,Essen,das,,noun,Das Essen ist heute sehr gut.,food,014
+goethe-a1-sd1-vocabulary-list,euer,,,other,Euer Kurs beginnt heute.,school,014
+goethe-a1-sd1-vocabulary-list,fahren,,,verb,Ich fahre mit dem Auto zur Arbeit.,travel,014
+goethe-a1-sd1-vocabulary-list,Fahrer,der,,noun,Bitte nicht mit dem Fahrer sprechen!,travel,014
+goethe-a1-sd1-vocabulary-list,Fahrkarte,die,-n,noun,Hast du schon eine Fahrkarte?,travel,014
+goethe-a1-sd1-vocabulary-list,Fahrrad,das,"-ä, er",noun,Fährst du mit dem Fahrrad oder mit dem Auto?,travel,014
+goethe-a1-sd1-vocabulary-list,falsch,,,adjective,Das ist falsch.,none,014
+goethe-a1-sd1-vocabulary-list,Familie,die,-n,noun,Meine Familie lebt in Spanien.,family,014
+goethe-a1-sd1-vocabulary-list,Familienname,der,,noun,Meine Familiennamen sind García González.,personal-info,014
+goethe-a1-sd1-vocabulary-list,Familienstand,der,,noun,Bei „Familienstand“ musst du „ledig“ ankreuzen.,personal-info,014
+goethe-a1-sd1-vocabulary-list,Farbe,die,-n,noun,Die Farbe gefällt mir gut.,none,014
+goethe-a1-sd1-vocabulary-list,Fax,das,-e,noun,Schicken Sie uns einfach ein Fax!,communication,014
+goethe-a1-sd1-vocabulary-list,fehlen,,,verb,"Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",health,014
+goethe-a1-sd1-vocabulary-list,Fehler,der,–,noun,Diesen Fehler mache ich immer.,school,014
+goethe-a1-sd1-vocabulary-list,Feier-,,,other,"z. B. Feierabend, Feiertag",time-dates,014
+goethe-a1-sd1-vocabulary-list,feiern,,,verb,Wir feiern heute meinen Geburtstag.,hobby,014
+goethe-a1-sd1-vocabulary-list,fernsehen,,,verb,Wollen wir heute Abend mal fernsehen?,hobby,014
+goethe-a1-sd1-vocabulary-list,fertig,,,adjective,Bist du fertig?,none,014
+goethe-a1-sd1-vocabulary-list,Feuer,das,,noun,Haben Sie Feuer?,none,014
+goethe-a1-sd1-vocabulary-list,Fieber,das,,noun,Mein Mann hat noch immer Fieber.,health,014
+goethe-a1-sd1-vocabulary-list,Film,der,-e,noun,Ich möchte gern diesen Film sehen.,hobby,014
+goethe-a1-sd1-vocabulary-list,finden,,,verb,Wir müssen den Schlüssel finden.,none,014
+goethe-a1-sd1-vocabulary-list,Firma,die,,noun,Er arbeitet jetzt bei einer anderen Firma.,profession,014
+goethe-a1-sd1-vocabulary-list,Fisch,der,-e,noun,Ich esse gern Fisch. Fleisch mag ich nicht.,food,014
+goethe-a1-sd1-vocabulary-list,(sich) freuen,,,verb,Ich freue mich auf den Urlaub.,vacation,015
+goethe-a1-sd1-vocabulary-list,abfliegen,,,verb,Wann fliegst du ab?,travel,015
+goethe-a1-sd1-vocabulary-list,Abflug,der,,noun,Der Abflug ist um 11.20 Uhr.,travel,015
+goethe-a1-sd1-vocabulary-list,Flasche,die,-n,noun,"Eine Flasche Bier, bitte.",restaurant,015
+goethe-a1-sd1-vocabulary-list,Fleisch,das,,noun,Fleisch mag ich nicht.,food,015
+goethe-a1-sd1-vocabulary-list,fliegen,,,verb,Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.,travel,015
+goethe-a1-sd1-vocabulary-list,Flughafen,der,,noun,Kannst du mich zum Flughafen bringen?,travel,015
+goethe-a1-sd1-vocabulary-list,Flugzeug,das,,noun,Das Flugzeug aus Berlin kommt heute später an.,travel,015
+goethe-a1-sd1-vocabulary-list,Formular,das,-e,noun,Sie müssen dieses Formular ausfüllen.,personal-info,015
+goethe-a1-sd1-vocabulary-list,Foto,das,-s,noun,Darf ich ein Foto machen?,hobby,015
+goethe-a1-sd1-vocabulary-list,Frage,die,-n,noun,Ich habe eine Frage.,communication,015
+goethe-a1-sd1-vocabulary-list,fragen,,,verb,Er möchte Sie etwas fragen. Wann kommen Sie?,communication,015
+goethe-a1-sd1-vocabulary-list,Frau,die,-en,noun,Das ist Frau Becker.,personal-info,015
+goethe-a1-sd1-vocabulary-list,frei,,,adjective,Ist der Platz noch frei?,restaurant,015
+goethe-a1-sd1-vocabulary-list,Freizeit,die,,noun,In meiner Freizeit spiele ich oft Fußball.,hobby,015
+goethe-a1-sd1-vocabulary-list,fremd,,,adjective,Das weiß ich nicht; ich bin fremd hier.,none,015
+goethe-a1-sd1-vocabulary-list,Freund,der,-e,noun,Das ist ein Freund von mir.,personal-info,015
+goethe-a1-sd1-vocabulary-list,früher,,,adverb,Früher waren wir oft zusammen im Kino.,time-dates,015
+goethe-a1-sd1-vocabulary-list,Frühstück,das,,noun,Möchtest du ein Ei zum Frühstück?,food,015
+goethe-a1-sd1-vocabulary-list,frühstücken,,,verb,Am Sonntag frühstücke ich gern im Bett.,daily-routine,015
+goethe-a1-sd1-vocabulary-list,Fuß,der,"-ü, e",noun,Der linke Fuß tut mir weh.,health,015
+goethe-a1-sd1-vocabulary-list,Fußball,der,,noun,Spielt ihr gerne Fußball?,hobby,015
+goethe-a1-sd1-vocabulary-list,Führung,die,,noun,Die Führung durch das Haus beginnt in 3 Minuten.,vacation,015
+goethe-a1-sd1-vocabulary-list,für,,,preposition,Das ist für Sie.,none,015
+goethe-a1-sd1-vocabulary-list,Garten,der,,noun,Wir haben leider keinen Garten.,home,015
+goethe-a1-sd1-vocabulary-list,Gast,der,"-ä, e",noun,Am Wochenende haben wir mehrere Gäste.,home,015
+goethe-a1-sd1-vocabulary-list,geben,,,verb,Kannst du mir bitte deinen Kugelschreiber geben?,none,015
+goethe-a1-sd1-vocabulary-list,geboren,,,adjective,Ich bin in Zagreb geboren.,personal-info,015
+goethe-a1-sd1-vocabulary-list,Geburtsjahr,das,,noun,"Das Geburtsjahr Ihres Sohnes, bitte?",personal-info,015
+goethe-a1-sd1-vocabulary-list,Geburtsort,der,,noun,Bitte schreiben Sie Ihren Geburtsort auf das Formular.,personal-info,015
+goethe-a1-sd1-vocabulary-list,Geburtstag,der,,noun,Herzlichen Glückwunsch zum Geburtstag!,personal-info,015
+goethe-a1-sd1-vocabulary-list,gefallen,,,verb,Das gefällt mir.,none,015
+goethe-a1-sd1-vocabulary-list,gegen,,,preposition,Fahr nicht gegen den Baum!,none,015
+goethe-a1-sd1-vocabulary-list,gehen,,,verb,"Ich weiß nicht, wie das geht.",none,015
+goethe-a1-sd1-vocabulary-list,gehören,,,verb,Wem gehört das?,none,015
+goethe-a1-sd1-vocabulary-list,Geld,das,,noun,Hast du noch Geld?,shopping,015
+goethe-a1-sd1-vocabulary-list,Gemüse,das,,noun,Gemüse brauchen wir auch noch.,food,015
+goethe-a1-sd1-vocabulary-list,das Gepäck,das,,noun,Wollen Sie Ihr Gepäck mitnehmen?,travel,016
+goethe-a1-sd1-vocabulary-list,das Geschenk,das,-e,noun,Danke für das schöne Geschenk.,shopping,016
+goethe-a1-sd1-vocabulary-list,das Geschäft,das,-e,noun,Die Geschäfte schließen um 18.30 Uhr.,shopping,016
+goethe-a1-sd1-vocabulary-list,das Gespräch,das,-e,noun,Das Gespräch mit Frau Kunz ist um 14 Uhr.,communication,016
+goethe-a1-sd1-vocabulary-list,das Getränk,das,-e,noun,Mein Lieblingsgetränk ist Tomatensaft.,food,016
+goethe-a1-sd1-vocabulary-list,das Gewicht,das,,noun,"Bei „Gewicht"" schreibst du: 62 Kilo.",personal-info,016
+goethe-a1-sd1-vocabulary-list,das Glas,das,"-ä, er",noun,Bitte noch ein Glas Wein!,restaurant,016
+goethe-a1-sd1-vocabulary-list,das Gleis,das,-e,noun,Der ICE nach Berlin hält heute an Gleis 12.,travel,016
+goethe-a1-sd1-vocabulary-list,das Glück,das,,noun,Viel Glück!,communication,016
+goethe-a1-sd1-vocabulary-list,das Haar,das,-e,noun,Sie hat lange Haare.,personal-info,016
+goethe-a1-sd1-vocabulary-list,das Hähnchen,das,-,noun,Ein Hähnchen mit Pommes bitte!,food,016
+goethe-a1-sd1-vocabulary-list,der Glückwunsch,der,,noun,Herzlichen Glückwunsch zum Geburtstag.,communication,016
+goethe-a1-sd1-vocabulary-list,der Großvater,der,,noun,Mein Großvater ist schon 80.,family,016
+goethe-a1-sd1-vocabulary-list,der Gruß,der,"-ü, e",noun,Viele Grüße an Ihre Frau.,communication,016
+goethe-a1-sd1-vocabulary-list,die Geschwister (pl.),die,pl.,noun,Ich habe leider keine Geschwister.,family,016
+goethe-a1-sd1-vocabulary-list,die Großeltern (pl.),die,pl.,noun,Meine Großeltern leben in Japan.,family,016
+goethe-a1-sd1-vocabulary-list,die Großmutter,die,,noun,Meine Großmutter heißt Eva.,family,016
+goethe-a1-sd1-vocabulary-list,die Gruppe,die,-n,noun,Die erste Gruppe beginnt um 16 Uhr.,school,016
+goethe-a1-sd1-vocabulary-list,die Größe,die,,noun,Haben Sie das auch in Größe 40?,shopping,016
+goethe-a1-sd1-vocabulary-list,die Halbpension,die,,noun,Möchten Sie Vollpension oder Halbpension?,vacation,016
+goethe-a1-sd1-vocabulary-list,die Halle,die,,noun,Wir treffen uns in Halle B,city-places,016
+goethe-a1-sd1-vocabulary-list,gerade,,,adverb,Da kommt er ja gerade.,none,016
+goethe-a1-sd1-vocabulary-list,geradeaus,,,adverb,Gehen Sie immer geradeaus!,city-places,016
+goethe-a1-sd1-vocabulary-list,gern(e),,,adverb,Ich gehe gerne einkaufen.,shopping,016
+goethe-a1-sd1-vocabulary-list,gestern,,,adverb,Gestern war ich krank.,time-dates,016
+goethe-a1-sd1-vocabulary-list,gestorben,,,adjective,Meine Frau ist gestern gestorben.,family,016
+goethe-a1-sd1-vocabulary-list,gewinnen,,,verb,Wer gewinnt das Spiel?,hobby,016
+goethe-a1-sd1-vocabulary-list,glauben,,,verb,"Sie können mir glauben, es ist so.",communication,016
+goethe-a1-sd1-vocabulary-list,gleich,,,adjective,Das ist mir gleich.,none,016
+goethe-a1-sd1-vocabulary-list,glücklich,,,adjective,Meine Kinder sind glücklich verheiratet.,family,016
+goethe-a1-sd1-vocabulary-list,Grad (Celsius),,,noun,Heute haben wir dreißig Grad.,weather,016
+goethe-a1-sd1-vocabulary-list,gratulieren,,,verb,Ich gratuliere dir!,communication,016
+goethe-a1-sd1-vocabulary-list,grillen,,,verb,Heute grillen wir im Garten.,food,016
+goethe-a1-sd1-vocabulary-list,groß,,,adjective,Mein Bruder und ich sind gleich groß.,personal-info,016
+goethe-a1-sd1-vocabulary-list,gut,,,adjective,Das finde ich gut.,none,016
+goethe-a1-sd1-vocabulary-list,gültig,,,adjective,Der Pass ist nicht mehr gültig.,travel,016
+goethe-a1-sd1-vocabulary-list,günstig,,,adjective,Dort gibt es günstige Angebote.,shopping,016
+goethe-a1-sd1-vocabulary-list,haben,,,verb,Ich habe ein neues Auto.,none,016
+goethe-a1-sd1-vocabulary-list,hallo,,,other,Hallo Inge! Wie geht's?,communication,016
+goethe-a1-sd1-vocabulary-list,das Handy,das,-s,noun,In der Schule bitte die Handys ausmachen!,communication,017
+goethe-a1-sd1-vocabulary-list,das Haus,das,"-ä, er",noun,In welchem Haus wohnst du?,home,017
+goethe-a1-sd1-vocabulary-list,das Hobby,das,-s,noun,Meine Hobbys sind Wandern und Schwimmen.,hobby,017
+goethe-a1-sd1-vocabulary-list,das Hotel,das,-s,noun,Im Urlaub sind wir in einem Hotel am Meer.,vacation,017
+goethe-a1-sd1-vocabulary-list,das Internet,das,,noun,Das findest du im Internet.,communication,017
+goethe-a1-sd1-vocabulary-list,der Herd,der,,noun,In der neuen Küche fehlt noch der Herd.,home,017
+goethe-a1-sd1-vocabulary-list,der Herr,der,-en,noun,"Guten Tag, Herr Sommer!",communication,017
+goethe-a1-sd1-vocabulary-list,der Hund,der,-e,noun,Der Hund ist noch jung.,none,017
+goethe-a1-sd1-vocabulary-list,der Hunger,der,,noun,Ich habe Hunger! Wann ist das Essen fertig?,food,017
+goethe-a1-sd1-vocabulary-list,die Haltestelle,die,,noun,An der nächsten Haltestelle müssen Sie aussteigen.,travel,017
+goethe-a1-sd1-vocabulary-list,die Hand,die,"-ä, e",noun,Er gibt mir die Hand.,health,017
+goethe-a1-sd1-vocabulary-list,die Hausaufgabe,die,-n,noun,Kannst du mir bei den Hausaufgaben helfen?,school,017
+goethe-a1-sd1-vocabulary-list,"die Hausfrau, -en/ der Hausmann",die,-en,noun,"Die Hausfrau/der Hausmann wäscht, kocht und kauft ein.",profession,017
+goethe-a1-sd1-vocabulary-list,die Heimat,die,,noun,Ich komme aus der Schweiz. Das ist meine Heimat.,personal-info,017
+goethe-a1-sd1-vocabulary-list,die Hilfe,die,,noun,Hilfe! Bitte helfen Sie mir!,communication,017
+goethe-a1-sd1-vocabulary-list,die Hochzeit,die,,noun,Zur dieser Hochzeit kommen mehr als fünfzig Gäste.,family,017
+goethe-a1-sd1-vocabulary-list,die Information,die,-en,noun,"Wenn Sie Fragen haben, gehen Sie zur Information.",communication,017
+goethe-a1-sd1-vocabulary-list,halten,,,verb,Dieser Zug hält nicht in Rüdesheim.,travel,017
+goethe-a1-sd1-vocabulary-list,heiraten,,,verb,Meine Schwester heiratet einen Japaner.,family,017
+goethe-a1-sd1-vocabulary-list,heißen,,,verb,Ich heiße Charlotte Meier.,personal-info,017
+goethe-a1-sd1-vocabulary-list,helfen,,,verb,"Können Sie mir helfen, bitte?",communication,017
+goethe-a1-sd1-vocabulary-list,hell,,,adjective,Im Sommer ist es bis 21 Uhr hell.,weather,017
+goethe-a1-sd1-vocabulary-list,herzlich,,,adjective,Herzlichen Glückwunsch!,communication,017
+goethe-a1-sd1-vocabulary-list,heute,,,adverb,Heute ist ein schöner Tag.,time-dates,017
+goethe-a1-sd1-vocabulary-list,hier,,,adverb,"Hier ist 06131-553221, Pamela Linke.",none,017
+goethe-a1-sd1-vocabulary-list,hinten,,,adverb,Die Tür zum Aussteigen ist hinten.,travel,017
+goethe-a1-sd1-vocabulary-list,hoch,,,adjective,Der Mount Everest ist 8.880 Meter hoch.,none,017
+goethe-a1-sd1-vocabulary-list,holen,,,verb,Ich hole zwei Flaschen Wasser aus der Küche.,daily-routine,017
+goethe-a1-sd1-vocabulary-list,hören,,,verb,Hör mal! Was ist das?,none,017
+goethe-a1-sd1-vocabulary-list,ich,,,other,Ich heiße Veronika.,none,017
+goethe-a1-sd1-vocabulary-list,ihr/ihm/ihn,,,other,Gib ihr/ihm bitte das Buch.,none,017
+goethe-a1-sd1-vocabulary-list,immer,,,adverb,Frau Bast kommt immer zu spät.,none,017
+goethe-a1-sd1-vocabulary-list,in,,,preposition,Ich wohne in Wiesbaden.,none,017
+goethe-a1-sd1-vocabulary-list,international,,,adjective,"Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …",school,017
+goethe-a1-sd1-vocabulary-list,(Kredit)-Karte,die,-n,noun,Kann ich auch mit Karte (be-) zahlen?,shopping,018
+goethe-a1-sd1-vocabulary-list,das Kind,das,-er,noun,Wie viele Kinder haben Sie?,family,018
+goethe-a1-sd1-vocabulary-list,das Kino,das,-s,noun,Wir sehen heute Abend im Kino einen schönen Film.,hobby,018
+goethe-a1-sd1-vocabulary-list,das Konto,das,,noun,Das Geld überweisen wir am ersten März auf Ihr Konto.,personal-info,018
+goethe-a1-sd1-vocabulary-list,der Job,der,-s,noun,Jenny hat einen neuen Job bei der Post.,profession,018
+goethe-a1-sd1-vocabulary-list,der Jugendliche,der,-n,noun,Viele Jugendliche kaufen gern ein.,personal-info,018
+goethe-a1-sd1-vocabulary-list,der Junge,der,-n,noun,Ich habe zwei Kinder. Einen Jungen und ein Mädchen.,family,018
+goethe-a1-sd1-vocabulary-list,der Kaffee,der,,noun,Zum Frühstück trinke ich immer Kaffee.,food,018
+goethe-a1-sd1-vocabulary-list,der Kindergarten,der,,noun,Die kleine Laura geht schon in den Kindergarten.,school,018
+goethe-a1-sd1-vocabulary-list,der Kiosk,der,,noun,"Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.",shopping,018
+goethe-a1-sd1-vocabulary-list,der Koffer,der,–,noun,Ist das Ihr Koffer?,travel,018
+goethe-a1-sd1-vocabulary-list,der Kollege,der,-n,noun,Wie heißt die neue Kollegin?,profession,018
+goethe-a1-sd1-vocabulary-list,der Kopf,der,,noun,Mein Kopf tut weh!,health,018
+goethe-a1-sd1-vocabulary-list,der Kuchen,der,,noun,Ich nehme ein Stück Kuchen.,food,018
+goethe-a1-sd1-vocabulary-list,die Jacke,die,-n,noun,Zieh dir eine Jacke an. Es ist kalt.,shopping,018
+goethe-a1-sd1-vocabulary-list,die Karte,die,-n,noun,Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.,communication,018
+goethe-a1-sd1-vocabulary-list,die Kartoffel,die,-n,noun,Für Pommes frites braucht man Kartoffeln.,food,018
+goethe-a1-sd1-vocabulary-list,die Kasse,die,,noun,Zahlen Sie bitte an der Kasse.,shopping,018
+goethe-a1-sd1-vocabulary-list,die Klasse,die,,noun,In unserer Klasse sind fünfundzwanzig Schüler.,school,018
+goethe-a1-sd1-vocabulary-list,die Kleidung,die,,noun,"Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock.",shopping,018
+goethe-a1-sd1-vocabulary-list,die Küche,die,,noun,Der neue Herd kommt in die Küche.,home,018
+goethe-a1-sd1-vocabulary-list,ja,,,other,Sind Sie Herr Watanabe? – Ja.,none,018
+goethe-a1-sd1-vocabulary-list,jed-,,,other,Blumen kannst du in jedem Bahnhof kaufen.,none,018
+goethe-a1-sd1-vocabulary-list,jetzt,,,adverb,Jetzt machen wir eine Pause.,time-dates,018
+goethe-a1-sd1-vocabulary-list,jung,,,adjective,Claudia ist 21. – Was? Noch so jung?,personal-info,018
+goethe-a1-sd1-vocabulary-list,kaputt,,,adjective,Das Glas war teuer. Es geht sehr leicht kaputt.,none,018
+goethe-a1-sd1-vocabulary-list,kaufen,,,verb,Tim kauft sich ein neues Auto.,shopping,018
+goethe-a1-sd1-vocabulary-list,kein,,,other,Es gibt keine Eintrittskarten mehr.,none,018
+goethe-a1-sd1-vocabulary-list,kennen,,,verb,"Kennen Sie diese Frau? – Nein, leider nicht.",none,018
+goethe-a1-sd1-vocabulary-list,kennenlernen,,,verb,Wir sind neu hier. Wir möchten Sie kennenlernen.,communication,018
+goethe-a1-sd1-vocabulary-list,klar,,,adjective,Kommst du mit? – Klar!,communication,018
+goethe-a1-sd1-vocabulary-list,klein,,,adjective,Eltville ist eine kleine Stadt am Rhein.,city-places,018
+goethe-a1-sd1-vocabulary-list,kochen,,,verb,Herr Georgi kann gut kochen.,food,018
+goethe-a1-sd1-vocabulary-list,kommen,,,verb,Woher kommen Sie? – Aus Frankreich.,personal-info,018
+goethe-a1-sd1-vocabulary-list,kosten,,,verb,Wie viel kostet das? – 10 Euro.,shopping,018
+goethe-a1-sd1-vocabulary-list,krank,,,adjective,"Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.",health,018
+goethe-a1-sd1-vocabulary-list,kriegen,,,verb,Ich kriege 15 Euro in der Stunde für meine Arbeit.,profession,018
+goethe-a1-sd1-vocabulary-list,können,,,verb,Ich kann Deutsch und Russisch.,none,018
+goethe-a1-sd1-vocabulary-list,das Land,das,"-ä, er",noun,Italien ist ein schönes Land.,travel,019
+goethe-a1-sd1-vocabulary-list,das Leben,das,,noun,Das Leben in diesem Land ist teuer.,none,019
+goethe-a1-sd1-vocabulary-list,das Licht,das,,noun,Wo macht man hier das Licht an?,home,019
+goethe-a1-sd1-vocabulary-list,das Lied,das,-er,noun,Welches ist dein Lieblingslied?,hobby,019
+goethe-a1-sd1-vocabulary-list,das Lokal,das,,noun,In unserer Straße gibt es ein neues Lokal.,restaurant,019
+goethe-a1-sd1-vocabulary-list,der Kugelschreiber,der,,noun,Hast du einen Kugelschreiber für mich?,school,019
+goethe-a1-sd1-vocabulary-list,der Kunde,der,-n,noun,"Einen Moment, bitte. Ich habe eine Kundin.",shopping,019
+goethe-a1-sd1-vocabulary-list,der Kurs,der,-e,noun,Der Deutschkurs geht bis zum Sommer.,school,019
+goethe-a1-sd1-vocabulary-list,der Kühlschrank,der,,noun,"Haben wir noch Milch? – Ja, im Kühlschrank.",home,019
+goethe-a1-sd1-vocabulary-list,der Laden,der,-ä,noun,Im Buchladen können Sie Bücher kaufen.,shopping,019
+goethe-a1-sd1-vocabulary-list,der Lehrer,der,–,noun,Unsere Deutschlehrerin heißt Frau Müller.,school,019
+goethe-a1-sd1-vocabulary-list,der Lkw,der,-s,noun,Dieser Lastkraftwagen ist sehr groß.,travel,019
+goethe-a1-sd1-vocabulary-list,die Lebensmittel (pl.),die,pl.,noun,Lebensmittel bekommen Sie im Supermarkt.,shopping,019
+goethe-a1-sd1-vocabulary-list,die Leute (pl.),die,pl.,noun,In der Disko sind viele Leute.,none,019
+goethe-a1-sd1-vocabulary-list,die Lösung,die,-en,noun,Die Lösung ist ganz einfach.,school,019
+goethe-a1-sd1-vocabulary-list,kulturell,,,adjective,Ich bin kulturell interessiert. Ich gehe oft ins Museum.,hobby,019
+goethe-a1-sd1-vocabulary-list,kurz,,,adjective,Ricardo hat kurzes Haar.,personal-info,019
+goethe-a1-sd1-vocabulary-list,lachen,,,verb,Die Kinder lachen viel.,none,019
+goethe-a1-sd1-vocabulary-list,lang,,,adjective,Die Jeans ist zu lang.,shopping,019
+goethe-a1-sd1-vocabulary-list,lange,,,adverb,Wie lange fährt der Zug von Hamburg nach Berlin?,travel,019
+goethe-a1-sd1-vocabulary-list,langsam,,,adjective,Könnten Sie bitte etwas langsamer sprechen?,communication,019
+goethe-a1-sd1-vocabulary-list,laufen,,,verb,"Ich möchte nicht Auto fahren, ich möchte laufen.",daily-routine,019
+goethe-a1-sd1-vocabulary-list,laut,,,adjective,Nicht so laut! Das Baby schläft.,none,019
+goethe-a1-sd1-vocabulary-list,leben,,,verb,Sie lebt bei ihrer Schwester.,personal-info,019
+goethe-a1-sd1-vocabulary-list,ledig,,,adjective,Sind Sie verheiratet? – Nein. Ledig.,personal-info,019
+goethe-a1-sd1-vocabulary-list,legen,,,verb,Legen Sie das Buch auf den Tisch.,none,019
+goethe-a1-sd1-vocabulary-list,leicht,,,adjective,Der Koffer ist leicht.,none,019
+goethe-a1-sd1-vocabulary-list,leider,,,adverb,Leider kann ich nicht kommen. Ich muss zum Arzt.,communication,019
+goethe-a1-sd1-vocabulary-list,leise,,,adjective,Seid leise. Die anderen schlafen schon.,none,019
+goethe-a1-sd1-vocabulary-list,lernen,,,verb,Wie lange lernen Sie schon Deutsch?,school,019
+goethe-a1-sd1-vocabulary-list,lesen,,,verb,Ich lese ein Buch von García Márquez.,hobby,019
+goethe-a1-sd1-vocabulary-list,letzt-,,,adjective,Morgen ist der letzte Kurstag.,time-dates,019
+goethe-a1-sd1-vocabulary-list,lieb-,,,adjective,"Liebe Susanne, lieber Hans,",communication,019
+goethe-a1-sd1-vocabulary-list,lieben,,,verb,Ich liebe dich!,none,019
+goethe-a1-sd1-vocabulary-list,lieber,,,adverb,Sie fährt lieber mit der Bahn.,travel,019
+goethe-a1-sd1-vocabulary-list,Lieblings-,,,other,Mein Lieblingsfilm ist „Schwarze Augen“.,hobby,019
+goethe-a1-sd1-vocabulary-list,liegen,,,verb,Um neun Uhr liegt Judith noch im Bett.,daily-routine,019
+goethe-a1-sd1-vocabulary-list,links,,,adverb,Gehen Sie die nächste Straße links.,city-places,019
+goethe-a1-sd1-vocabulary-list,lustig,,,adjective,Frau Mertens ist lustig. Sie lacht immer.,personal-info,019
+goethe-a1-sd1-vocabulary-list,machen,,,verb,Was machst du heute Abend?,daily-routine,019
+goethe-a1-sd1-vocabulary-list,sich kümmern,,,verb,Jede Mutter kümmert sich um ihre kleinen Kinder.,family,019
+goethe-a1-sd1-vocabulary-list,das Meer,das,,noun,Wir machen Urlaub am Meer.,vacation,020
+goethe-a1-sd1-vocabulary-list,das Mädchen,das,–,noun,Familie Kurz bekommt ein Baby. – Junge oder Mädchen?,family,020
+goethe-a1-sd1-vocabulary-list,der Mann,der,"-ä, er",noun,Mein Mann arbeitet bei der Polizei.,family,020
+goethe-a1-sd1-vocabulary-list,der Mensch,der,-en,noun,Die Menschen sind hier anders als bei uns.,none,020
+goethe-a1-sd1-vocabulary-list,der Moment,der,,noun,Moment mal bitte!,communication,020
+goethe-a1-sd1-vocabulary-list,der Mund,der,,noun,Öffnen Sie den Mund.,health,020
+goethe-a1-sd1-vocabulary-list,der Name,der,-n,noun,Mein Name ist Thomas Schmidt.,personal-info,020
+goethe-a1-sd1-vocabulary-list,die Maschine,die,-n,noun,Die Waschmaschine ist günstig.,home,020
+goethe-a1-sd1-vocabulary-list,die Miete,die,,noun,Die Miete für diese Wohnung ist 600 Euro.,home,020
+goethe-a1-sd1-vocabulary-list,die Milch,die,,noun,Die Milch steht im Kühlschrank.,food,020
+goethe-a1-sd1-vocabulary-list,die Mitte,die,,noun,Der Lehrer steht in der Mitte des Klassenzimmers.,school,020
+goethe-a1-sd1-vocabulary-list,die Mutter,die,-ü,noun,Frau Berghäuser ist die Mutter von Michaela.,family,020
+goethe-a1-sd1-vocabulary-list,die Möbel (pl.),die,pl.,noun,Sind die Möbel neu?,home,020
+goethe-a1-sd1-vocabulary-list,man,,,other,Hier darf man nicht rauchen.,none,020
+goethe-a1-sd1-vocabulary-list,mehr,,,adverb,Dieses Auto kostet 1.000 Euro mehr als das andere.,none,020
+goethe-a1-sd1-vocabulary-list,mein,,,other,Mein Vater ist Arzt.,family,020
+goethe-a1-sd1-vocabulary-list,meist-,,,adjective,Die meisten Norddeutschen sind sehr groß.,none,020
+goethe-a1-sd1-vocabulary-list,mieten,,,verb,Ich möchte ein Auto mieten.,travel,020
+goethe-a1-sd1-vocabulary-list,mit,,,preposition,Trinken Sie den Kaffee mit Milch?,none,020
+goethe-a1-sd1-vocabulary-list,mitbringen,,,verb,Ich gehe einkaufen. Soll ich dir was mitbringen?,shopping,020
+goethe-a1-sd1-vocabulary-list,mitkommen,,,verb,Ich gehe ins Kino. Kommst du mit?,hobby,020
+goethe-a1-sd1-vocabulary-list,mitmachen,,,verb,Warum macht ihr nicht mit?,none,020
+goethe-a1-sd1-vocabulary-list,mitnehmen,,,verb,Nehmen wir meine Schwester ins Kino mit?,hobby,020
+goethe-a1-sd1-vocabulary-list,morgen,,,adverb,Morgen beginnt die Schule um 10 Uhr.,time-dates,020
+goethe-a1-sd1-vocabulary-list,männlich,,,adjective,Kreuzen Sie bitte an: „weiblich“ oder „männlich“.,personal-info,020
+goethe-a1-sd1-vocabulary-list,möchten,,,verb,Was möchten Sie trinken?,restaurant,020
+goethe-a1-sd1-vocabulary-list,mögen,,,verb,Magst du Kaffee oder Tee?,food,020
+goethe-a1-sd1-vocabulary-list,möglich,,,adjective,Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.,travel,020
+goethe-a1-sd1-vocabulary-list,müde,,,adjective,Ich bin müde. Ich gehe schlafen.,daily-routine,020
+goethe-a1-sd1-vocabulary-list,müssen,,,verb,Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.,profession,020
+goethe-a1-sd1-vocabulary-list,nach,,,preposition,Ich gehe jetzt nach Hause.,none,020
+goethe-a1-sd1-vocabulary-list,nehmen,,,verb,Heute gibt es Hähnchen. Das nehme ich.,restaurant,020
+goethe-a1-sd1-vocabulary-list,nein,,,other,"Fährst du auch nach München? – Nein, ich habe keine Zeit.",none,020
+goethe-a1-sd1-vocabulary-list,neu,,,adjective,Ich bin der neue Kollege.,none,020
+goethe-a1-sd1-vocabulary-list,nicht,,,other,Das stimmt nicht.,none,020
+goethe-a1-sd1-vocabulary-list,nichts,,,other,Das macht nichts.,none,020
+goethe-a1-sd1-vocabulary-list,nie,,,adverb,Er kommt nie pünktlich.,none,020
+goethe-a1-sd1-vocabulary-list,nächst-,,,adjective,Sehen wir uns nächste Woche?,time-dates,020
+goethe-a1-sd1-vocabulary-list,geöffnet,,,adjective,Der Laden ist samstags bis 16.00 Uhr geöffnet.,shopping,021
+goethe-a1-sd1-vocabulary-list,noch,,,adverb,Vielleicht kommt er noch. Wir warten noch fünf Minuten. Ich habe noch 20 Euro.,none,021
+goethe-a1-sd1-vocabulary-list,normal,,,adjective,75 kg. Sein Gewicht ist normal.,health,021
+goethe-a1-sd1-vocabulary-list,Nummer,die,-n,noun,Sie haben Zimmer Nummer zwölf. Welche Hausnummer haben Sie? Können Sie mir Ihre Nummer geben?,personal-info,021
+goethe-a1-sd1-vocabulary-list,nur,,,adverb,Ich möchte nur ein Glas Wasser.,restaurant,021
+goethe-a1-sd1-vocabulary-list,oben,,,adverb,Ich wohne oben.,home,021
+goethe-a1-sd1-vocabulary-list,Obst,das,,noun,Im Sommer ist das Obst billig.,food,021
+goethe-a1-sd1-vocabulary-list,oder,,,other,Wann können Sie kommen – heute oder morgen?,none,021
+goethe-a1-sd1-vocabulary-list,oft,,,adverb,Petra treffe ich oft.,none,021
+goethe-a1-sd1-vocabulary-list,ohne,,,preposition,Ohne Geld kann er nichts kaufen.,shopping,021
+goethe-a1-sd1-vocabulary-list,Oma,die,-s,noun,Meine Oma ist schon tot.,family,021
+goethe-a1-sd1-vocabulary-list,Opa,der,-s,noun,Mein Opa heißt Hans.,family,021
+goethe-a1-sd1-vocabulary-list,Ordnung,die,,noun,Das ist in Ordnung.,none,021
+goethe-a1-sd1-vocabulary-list,Ort,der,-e,noun,Der Ort liegt am Meer.,city-places,021
+goethe-a1-sd1-vocabulary-list,Papier,das,,noun,Hier sind Papier und Bleistift.,school,021
+goethe-a1-sd1-vocabulary-list,Papiere (pl.),die,,noun,Haben Sie Ihre Papiere dabei?,personal-info,021
+goethe-a1-sd1-vocabulary-list,Partner,der,-/,noun,,personal-info,021
+goethe-a1-sd1-vocabulary-list,Partnerin,die,-nen,noun,Sie ist meine Partnerin.,personal-info,021
+goethe-a1-sd1-vocabulary-list,Party,die,,noun,Heute Abend machen wir eine Party.,hobby,021
+goethe-a1-sd1-vocabulary-list,Pass,der,"-ä, e",noun,Im Hotel brauchst du deinen Pass.,travel,021
+goethe-a1-sd1-vocabulary-list,Pause,die,-n,noun,Von 12.00 bis 12.30 Uhr haben wir Mittagspause.,daily-routine,021
+goethe-a1-sd1-vocabulary-list,Plan,der,"-ä, e",noun,Ich kaufe mir einen Stadtplan.,travel,021
+goethe-a1-sd1-vocabulary-list,Platz,der,"-ä, e",noun,"Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5.",city-places,021
+goethe-a1-sd1-vocabulary-list,Polizei,die,,noun,Holen Sie die Polizei!,city-places,021
+goethe-a1-sd1-vocabulary-list,Pommes frites (pl.),die,,noun,Die Kinder essen Hähnchen mit Pommes frites.,food,021
+goethe-a1-sd1-vocabulary-list,Post,die,,noun,"Wo ist die Post, bitte? Ist Post da?",city-places,021
+goethe-a1-sd1-vocabulary-list,Postleitzahl,die,,noun,Wie ist Ihre Postleitzahl?,personal-info,021
+goethe-a1-sd1-vocabulary-list,Praktikum,das,,noun,Ich mache ein Praktikum bei Siemens.,profession,021
+goethe-a1-sd1-vocabulary-list,Praxis,die,,noun,Die Praxis ist ab acht Uhr geöffnet.,health,021
+goethe-a1-sd1-vocabulary-list,Preis,der,-e,noun,Die Preise sind hoch.,shopping,021
+goethe-a1-sd1-vocabulary-list,Problem,das,-e,noun,Mein Problem ist die Sprache.,none,021
+goethe-a1-sd1-vocabulary-list,Prospekt,der,-e,noun,Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.,travel,021
+goethe-a1-sd1-vocabulary-list,Prüfung,die,,noun,Die Prüfung ist am Montag um 8.00 Uhr.,school,021
+goethe-a1-sd1-vocabulary-list,pünktlich,,,adjective,Der Bus fährt pünktlich um acht Uhr. Herr Müller ist immer pünktlich.,time-dates,021
+goethe-a1-sd1-vocabulary-list,öffnen,,,verb,Ich öffne die Tür.,none,021
+goethe-a1-sd1-vocabulary-list,Öl,das,,noun,Den Salat machen wir ohne Öl.,food,021
+goethe-a1-sd1-vocabulary-list,geschlossen,,,adjective,Die Bank hat am Samstag geschlossen.,city-places,022
+goethe-a1-sd1-vocabulary-list,Rad fahren,,,phrase,Das Kind kann schon Rad fahren.,hobby,022
+goethe-a1-sd1-vocabulary-list,rauchen,,,verb,Ich rauche nicht.,health,022
+goethe-a1-sd1-vocabulary-list,Raum,der,"-ä, e",noun,Der Unterricht ist in Raum 332.,school,022
+goethe-a1-sd1-vocabulary-list,Rechnung,die,-en,noun,"Die Rechnung, bitte.",restaurant,022
+goethe-a1-sd1-vocabulary-list,rechts,,,adverb,Die Schillerstraße ist hier rechts.,city-places,022
+goethe-a1-sd1-vocabulary-list,Regen,der,,noun,Bei diesem Regen gehe ich nicht raus.,weather,022
+goethe-a1-sd1-vocabulary-list,regnen,,,verb,Heute regnet es.,weather,022
+goethe-a1-sd1-vocabulary-list,Reis,der,,noun,Ich esse gern Reis.,food,022
+goethe-a1-sd1-vocabulary-list,Reise,die,,noun,Wir machen eine Reise nach Österreich.,travel,022
+goethe-a1-sd1-vocabulary-list,Reisebüro,das,-s,noun,Mein Mann arbeitet im Reisebüro.,travel,022
+goethe-a1-sd1-vocabulary-list,Reiseführer,der,,noun,Ich kaufe mir einen Reiseführer von Berlin. Unser Reiseführer heißt Peter.,travel,022
+goethe-a1-sd1-vocabulary-list,reisen,,,verb,Ich reise gern.,travel,022
+goethe-a1-sd1-vocabulary-list,Reparatur,die,,noun,Die Reparatur ist sehr teuer.,none,022
+goethe-a1-sd1-vocabulary-list,reparieren,,,verb,Er hat das Fahrrad repariert.,none,022
+goethe-a1-sd1-vocabulary-list,Restaurant,das,-s,noun,Wir essen heute in einem Restaurant.,restaurant,022
+goethe-a1-sd1-vocabulary-list,Rezeption,die,,noun,Fragen Sie bitte im Hotel an der Rezeption.,travel,022
+goethe-a1-sd1-vocabulary-list,richtig,,,adjective,Habe ich das richtig verstanden? Das ist richtig.,none,022
+goethe-a1-sd1-vocabulary-list,riechen,,,verb,Dieser Wein riecht gut.,food,022
+goethe-a1-sd1-vocabulary-list,ruhig,,,adjective,Ich möchte ein ruhiges Zimmer.,travel,022
+goethe-a1-sd1-vocabulary-list,S-Bahn,die,,noun,Ich nehme lieber die S-Bahn.,travel,022
+goethe-a1-sd1-vocabulary-list,Saft,der,,noun,Möchtest du einen Apfelsaft?,food,022
+goethe-a1-sd1-vocabulary-list,sagen,,,verb,"Sag mal, wie geht es dir denn?",communication,022
+goethe-a1-sd1-vocabulary-list,Salat,der,,noun,Wie schmeckt dir der Salat?,food,022
+goethe-a1-sd1-vocabulary-list,Salz,das,,noun,"Herr Ober, kann ich bitte Salz haben?",restaurant,022
+goethe-a1-sd1-vocabulary-list,Satz,,"-ä, e",noun,Dieser Satz ist sehr einfach.,school,022
+goethe-a1-sd1-vocabulary-list,Schalter,der,,noun,Gehen Sie bitte zum Schalter drei!,city-places,022
+goethe-a1-sd1-vocabulary-list,scheinen,,,verb,Die Sonne scheint.,weather,022
+goethe-a1-sd1-vocabulary-list,schicken,,,verb,Bitte schicken Sie mir eine E-Mail.,communication,022
+goethe-a1-sd1-vocabulary-list,Schild,das,-er,noun,Haben Sie nicht das Schild gesehen?,city-places,022
+goethe-a1-sd1-vocabulary-list,Schinken,der,–,noun,Ich möchte gern ein Schinkenbrot.,food,022
+goethe-a1-sd1-vocabulary-list,schlafen,,,verb,Ich schlafe meistens acht Stunden.,daily-routine,022
+goethe-a1-sd1-vocabulary-list,schlecht,,,adjective,Mir ist schlecht! Sie sehen schlecht aus. Wir haben schlechtes Wetter.,health,022
+goethe-a1-sd1-vocabulary-list,schließen,,,verb,"Bitte, schließen Sie die Tür.",none,022
+goethe-a1-sd1-vocabulary-list,Schluss,der,,noun,Ich muss jetzt Schluss machen. Zum Schluss gibt er uns allen die Hand.,none,022
+goethe-a1-sd1-vocabulary-list,Schlüssel,der,–,noun,Ich gebe Ihnen noch den Zimmerschlüssel.,travel,022
+goethe-a1-sd1-vocabulary-list,schmecken,,,verb,Schmeckt das gut?,food,022
+goethe-a1-sd1-vocabulary-list,schnell,,,adjective,Er fährt schnell.,none,022
+goethe-a1-sd1-vocabulary-list,schon,,,adverb,Ist das Essen schon fertig?,none,022
+goethe-a1-sd1-vocabulary-list,Schrank,der,"-ä, e",noun,Die Gläser stehen im Schrank.,home,022
+goethe-a1-sd1-vocabulary-list,schreiben,,,verb,Er schreibt jeden Tag fünfzig E-Mails.,communication,022
+goethe-a1-sd1-vocabulary-list,schön,,,adjective,Schönen Urlaub! Das ist sehr schön.,vacation,022
+goethe-a1-sd1-vocabulary-list,an sein,,,phrase,Das Licht ist noch an.,home,023
+goethe-a1-sd1-vocabulary-list,auf sein,,,phrase,Das Fenster ist noch auf.,home,023
+goethe-a1-sd1-vocabulary-list,Schuh,der,-e,noun,Zieh die Schuhe aus!,shopping,023
+goethe-a1-sd1-vocabulary-list,Schule,die,,noun,Meine Tochter geht schon in die Schule. Die Schule ist gleich hier um die Ecke.,school,023
+goethe-a1-sd1-vocabulary-list,schwer,,,adjective,Ist Ihr Gepäck sehr schwer? Das ist eine schwere Arbeit.,none,023
+goethe-a1-sd1-vocabulary-list,Schwester,die,-n,noun,Meine Schwester kommt am Dienstag.,family,023
+goethe-a1-sd1-vocabulary-list,Schwimmbad,das,,noun,Kommst du mit ins Schwimmbad?,city-places,023
+goethe-a1-sd1-vocabulary-list,schwimmen,,,verb,Ich schwimme jeden Tag einen Kilometer.,hobby,023
+goethe-a1-sd1-vocabulary-list,Schüler,der,–,noun,In meinem Kurs sind acht Schülerinnen und fünf Schüler.,school,023
+goethe-a1-sd1-vocabulary-list,See,der,,noun,"Komm, wir fahren zum Starnberger See.",vacation,023
+goethe-a1-sd1-vocabulary-list,sehen,,,verb,Ich kann dich nicht sehen. Ich habe diesen Jungen schon einmal gesehen.,none,023
+goethe-a1-sd1-vocabulary-list,Sehenswürdigkeit,die,-en,noun,Welche Sehenswürdigkeiten gibt es in Frankfurt?,travel,023
+goethe-a1-sd1-vocabulary-list,sehr,,,adverb,Danke sehr! Das ist sehr schwer.,none,023
+goethe-a1-sd1-vocabulary-list,sein,,,verb,Herr Müller ist in seinem Zimmer. Mir ist kalt. Ich bin dreiundzwanzig.,none,023
+goethe-a1-sd1-vocabulary-list,seit,,,preposition,Ich wohne seit drei Jahren in Köln.,time-dates,023
+goethe-a1-sd1-vocabulary-list,selbstständig,,,adjective,Er ist selbstständig.,profession,023
+goethe-a1-sd1-vocabulary-list,sich,,,other,Sie müssen sich erst anmelden.,none,023
+goethe-a1-sd1-vocabulary-list,sie,,,other,Wie heißt sie?,none,023
+goethe-a1-sd1-vocabulary-list,sitzen,,,verb,Wo sitzen Sie?,none,023
+goethe-a1-sd1-vocabulary-list,so,,,adverb,"Sie müssen das so machen! Fahren Sie bitte nicht so schnell! Meine Frau ist so groß wie ich. So, das war's/wär's!",none,023
+goethe-a1-sd1-vocabulary-list,Sofa,das,,noun,Das Sofa ist neu.,home,023
+goethe-a1-sd1-vocabulary-list,sofort,,,adverb,Bitte antworten Sie sofort.,none,023
+goethe-a1-sd1-vocabulary-list,Sohn,der,"-ö, e",noun,"Das ist Hans, mein Sohn.",family,023
+goethe-a1-sd1-vocabulary-list,sollen,,,verb,Soll ich kommen? Was soll ich mitbringen?,none,023
+goethe-a1-sd1-vocabulary-list,Sonne,die,,noun,Die Sonne scheint.,weather,023
+goethe-a1-sd1-vocabulary-list,Speisekarte,die,,noun,"Bringen Sie mir die Speisekarte, bitte.",restaurant,023
+goethe-a1-sd1-vocabulary-list,spielen,,,verb,Die Kinder spielen draußen. Spielen Sie Karten?,hobby,023
+goethe-a1-sd1-vocabulary-list,Sport,der,,noun,Ich mache viel Sport.,hobby,023
+goethe-a1-sd1-vocabulary-list,Sprache,die,-n,noun,Welche Sprachen sprichst du?,communication,023
+goethe-a1-sd1-vocabulary-list,sprechen,,,verb,Kann ich (mit) Herrn Klein sprechen?,communication,023
+goethe-a1-sd1-vocabulary-list,spät,,,adjective,"Es ist schon spät, ich muss gehen.",time-dates,023
+goethe-a1-sd1-vocabulary-list,später,,,adverb,Das können wir später machen.,time-dates,023
+goethe-a1-sd1-vocabulary-list,Stadt,die,"-ä, e",noun,Heidelberg ist eine alte Stadt.,city-places,023
+goethe-a1-sd1-vocabulary-list,stehen,,,verb,"Ich glaube es nicht, aber es steht in der Zeitung. Der Bus steht schon an der Haltestelle.",none,023
+goethe-a1-sd1-vocabulary-list,Stelle,die,-n,noun,Ich habe eine neue Stelle.,profession,023
+goethe-a1-sd1-vocabulary-list,weg sein,,,phrase,Herr Meier ist schon weg.,none,023
+goethe-a1-sd1-vocabulary-list,zu sein,,,phrase,Die Tür ist zu.,home,023
+goethe-a1-sd1-vocabulary-list,(sich) treffen,,,verb,Ich treffe in der Stadt einen Kollegen. Wir treffen uns immer freitags.,daily-routine,024
+goethe-a1-sd1-vocabulary-list,stellen,,,verb,Stell die Tasche rechts in die Ecke!,none,024
+goethe-a1-sd1-vocabulary-list,Stock,der,,noun,Unsere Wohnung liegt im ersten Stock.,home,024
+goethe-a1-sd1-vocabulary-list,Straße,die,-n,noun,In welcher Straße wohnen Sie?,city-places,024
+goethe-a1-sd1-vocabulary-list,Straßenbahn,die,,noun,Wo fährt die Straßenbahn ab?,travel,024
+goethe-a1-sd1-vocabulary-list,Student,der,-en,noun,Ich bin Studentin.,school,024
+goethe-a1-sd1-vocabulary-list,studieren,,,verb,Ich studiere in Mainz.,school,024
+goethe-a1-sd1-vocabulary-list,Studium,das,,noun,Das Studium beginnt im Oktober.,school,024
+goethe-a1-sd1-vocabulary-list,Stunde,die,-n,noun,Ich bin in einer Stunde zurück.,time-dates,024
+goethe-a1-sd1-vocabulary-list,suchen,,,verb,Suchst du etwas?,none,024
+goethe-a1-sd1-vocabulary-list,tanzen,,,verb,Tanzen Sie gern?,hobby,024
+goethe-a1-sd1-vocabulary-list,Tasche,die,-n,noun,Ich habe die Schlüssel in der Tasche.,none,024
+goethe-a1-sd1-vocabulary-list,Taxi,das,-s,noun,Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.,travel,024
+goethe-a1-sd1-vocabulary-list,Tee,der,,noun,Ich trinke morgens immer Tee.,food,024
+goethe-a1-sd1-vocabulary-list,Teil,der,-e,noun,Lies bitte auch den zweiten Teil.,none,024
+goethe-a1-sd1-vocabulary-list,Telefon,das,,noun,Haben Sie Telefon?,communication,024
+goethe-a1-sd1-vocabulary-list,telefonieren,,,verb,Darf ich mal telefonieren?,communication,024
+goethe-a1-sd1-vocabulary-list,Termin,der,-e,noun,Am besten machen wir sofort einen Termin.,time-dates,024
+goethe-a1-sd1-vocabulary-list,Test,der,,noun,Der Test war einfach.,school,024
+goethe-a1-sd1-vocabulary-list,teuer,,,adjective,Das ist mir zu teuer.,shopping,024
+goethe-a1-sd1-vocabulary-list,Text,der,-e,noun,Lesen Sie bitte diesen Text.,school,024
+goethe-a1-sd1-vocabulary-list,Thema,das,,noun,Wir sprechen heute über das Thema „Essen und Trinken“.,communication,024
+goethe-a1-sd1-vocabulary-list,Ticket,das,-s,noun,Wie viel kostet das Ticket?,travel,024
+goethe-a1-sd1-vocabulary-list,Tisch,der,-e,noun,Die Fotos liegen auf dem Tisch.,home,024
+goethe-a1-sd1-vocabulary-list,Tochter,die,-ö,noun,Das ist meine Tochter Katharina.,family,024
+goethe-a1-sd1-vocabulary-list,Toilette,die,-en,noun,"Wo ist die Toilette, bitte?",city-places,024
+goethe-a1-sd1-vocabulary-list,Tomate,die,-n,noun,Die Tomate ist noch grün.,food,024
+goethe-a1-sd1-vocabulary-list,tot,,,adjective,Sein Vater ist schon lange tot.,family,024
+goethe-a1-sd1-vocabulary-list,Treppe,die,-n,noun,Die Toilette? Die Treppe hoch und dann links.,home,024
+goethe-a1-sd1-vocabulary-list,trinken,,,verb,Möchtest du etwas trinken?,food,024
+goethe-a1-sd1-vocabulary-list,tschüss,,,other,Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.,communication,024
+goethe-a1-sd1-vocabulary-list,tun,,,verb,Ich habe noch etwas zu tun. Was tut Ihr Mann?,none,024
+goethe-a1-sd1-vocabulary-list,Uhr,die,,noun,Es ist vier Uhr.,time-dates,024
+goethe-a1-sd1-vocabulary-list,um,,,preposition,Er kommt um sieben Uhr. Da kommt er gerade um die Ecke.,time-dates,024
+goethe-a1-sd1-vocabulary-list,umziehen,,,verb,Nächsten Monat ziehen wir um.,home,024
+goethe-a1-sd1-vocabulary-list,und,,,other,Peter und Helmut sind meine Söhne.,none,024
+goethe-a1-sd1-vocabulary-list,über,,,preposition,Gehen Sie hier über die Straße. Er wohnt im zweiten Stock über Familie Meier. Sind Sie über 18?,none,024
+goethe-a1-sd1-vocabulary-list,übernachten,,,verb,Du kannst bei mir übernachten.,travel,024
+goethe-a1-sd1-vocabulary-list,überweisen,,,verb,Sie können das Geld auch überweisen.,none,024
+goethe-a1-sd1-vocabulary-list,(sich) vorstellen,,,verb,Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?,personal-info,025
+goethe-a1-sd1-vocabulary-list,(sich) waschen,,,verb,Wo kann ich mir die Hände waschen? Ich muss morgen waschen.,daily-routine,025
+goethe-a1-sd1-vocabulary-list,unser-,,,other,Das ist unsere Lehrerin.,none,025
+goethe-a1-sd1-vocabulary-list,unten,,,adverb,Er wohnt ganz unten im Haus.,home,025
+goethe-a1-sd1-vocabulary-list,unter,,,preposition,Unter uns wohnt eine Familie mit drei Kindern.,home,025
+goethe-a1-sd1-vocabulary-list,Unterricht,der,,noun,Wir haben Unterricht von 8.00 bis 12.00 Uhr.,school,025
+goethe-a1-sd1-vocabulary-list,unterschreiben,,,verb,Wo muss ich unterschreiben?,none,025
+goethe-a1-sd1-vocabulary-list,Unterschrift,die,,noun,Hier fehlt noch Ihre Unterschrift.,personal-info,025
+goethe-a1-sd1-vocabulary-list,Urlaub,der,,noun,Ich nehme im September Urlaub.,vacation,025
+goethe-a1-sd1-vocabulary-list,Vater,der,-ä,noun,Mein Vater ist Arbeiter.,family,025
+goethe-a1-sd1-vocabulary-list,verboten,,,adjective,Hier ist Rauchen verboten.,none,025
+goethe-a1-sd1-vocabulary-list,verdienen,,,verb,Ich verdiene 1.500 Euro im Monat.,profession,025
+goethe-a1-sd1-vocabulary-list,Verein,der,,noun,Es gibt einen neuen Sportverein in der Stadt.,hobby,025
+goethe-a1-sd1-vocabulary-list,verheiratet,,,adjective,Ich bin verheiratet und habe drei Kinder.,personal-info,025
+goethe-a1-sd1-vocabulary-list,verkaufen,,,verb,Er verkauft sein altes Auto.,shopping,025
+goethe-a1-sd1-vocabulary-list,Verkäufer,der,–,noun,Meine Mutter ist Verkäuferin im Kaufhaus.,profession,025
+goethe-a1-sd1-vocabulary-list,vermieten,,,verb,Die Wohnung ist schon vermietet.,home,025
+goethe-a1-sd1-vocabulary-list,Vermieter,der,,noun,Unser Vermieter heißt Huber. Er wohnt auch hier.,home,025
+goethe-a1-sd1-vocabulary-list,verstehen,,,verb,Können Sie mich verstehen?,communication,025
+goethe-a1-sd1-vocabulary-list,Verwandte,der,-n,noun,Peter besucht seine Verwandten in Polen.,family,025
+goethe-a1-sd1-vocabulary-list,viel,,,adverb,Hier regnet es viel.,none,025
+goethe-a1-sd1-vocabulary-list,vielleicht,,,adverb,Ich komme vielleicht mit dem Bus.,none,025
+goethe-a1-sd1-vocabulary-list,von,,,preposition,Das Auto von Felix ist kaputt. Er kommt gerade von Köln/von zu Hause.,none,025
+goethe-a1-sd1-vocabulary-list,vor,,,preposition,Der Termin war vor einer Stunde. Das Auto steht vor der Tür.,none,025
+goethe-a1-sd1-vocabulary-list,Vorname,der,-n,noun,"Ich heiße Müller, mein Vorname ist Eva.",personal-info,025
+goethe-a1-sd1-vocabulary-list,Vorsicht,die,,noun,Vorsicht! Da kommt ein Auto.,none,025
+goethe-a1-sd1-vocabulary-list,Vorwahl,die,,noun,Wie ist die Vorwahl von München?,communication,025
+goethe-a1-sd1-vocabulary-list,wandern,,,verb,Wir wandern um den Chiemsee.,hobby,025
+goethe-a1-sd1-vocabulary-list,wann,,,adverb,Wann bist du fertig? Wann kann ich Sie anrufen? Wann sind Sie geboren?,time-dates,025
+goethe-a1-sd1-vocabulary-list,warten,,,verb,Können Sie ein paar Minuten warten? Auf wen warten Sie?,none,025
+goethe-a1-sd1-vocabulary-list,warum,,,adverb,Warum kommt er nicht?,none,025
+goethe-a1-sd1-vocabulary-list,was,,,other,Was ist das? Was möchten Sie?,none,025
+goethe-a1-sd1-vocabulary-list,was für ein,,,phrase,Was für eine Farbe möchten Sie?,none,025
+goethe-a1-sd1-vocabulary-list,Wasser,das,,noun,"Ein Glas Wasser, bitte.",food,025
+goethe-a1-sd1-vocabulary-list,weh tun,,,phrase,Ich muss zum Arzt. Mein Bein tut weh.,health,025
+goethe-a1-sd1-vocabulary-list,weiblich,,,adjective,Kreuzen Sie bitte an: „weiblich“ oder „männlich“.,personal-info,025
+goethe-a1-sd1-vocabulary-list,Wein,der,,noun,"Nein danke, ich möchte keinen Wein.",food,025
+goethe-a1-sd1-vocabulary-list,weit,,,adjective,Zum Bahnhof ist es nicht weit.,city-places,025
+goethe-a1-sd1-vocabulary-list,weiter,,,adverb,Der Bus fährt nicht weiter.,travel,026
+goethe-a1-sd1-vocabulary-list,welch-,,,other,Welches Buch möchtest du?,none,026
+goethe-a1-sd1-vocabulary-list,Welt,die,,noun,Es gibt viele Probleme auf der Welt.,none,026
+goethe-a1-sd1-vocabulary-list,wenig,,,adjective,Ich habe leider nur wenig verstanden. / Er verdient wenig.,none,026
+goethe-a1-sd1-vocabulary-list,wer,,,other,Wer ist das?,personal-info,026
+goethe-a1-sd1-vocabulary-list,werden,,,verb,Mein Sohn will Arzt werden.,profession,026
+goethe-a1-sd1-vocabulary-list,Wetter,das,,noun,Wir hatten schlechtes Wetter.,weather,026
+goethe-a1-sd1-vocabulary-list,wichtig,,,adjective,Dieses Formular ist sehr wichtig.,none,026
+goethe-a1-sd1-vocabulary-list,wie,,,other,Wie heißt du? / Er schreibt wie ein Kind. / Meine Frau ist so groß wie ich. / Wie soll ich das machen? / Wie groß ist die Wohnung? / Wie bitte? / Wie lange bist du schon hier?,personal-info,026
+goethe-a1-sd1-vocabulary-list,wie viel,,,phrase,Wie viel Milch nehmen Sie?,shopping,026
+goethe-a1-sd1-vocabulary-list,wiederholen,,,verb,Können Sie das bitte wiederholen?,communication,026
+goethe-a1-sd1-vocabulary-list,Wiederhören,das,,noun,Wir müssen jetzt Schluss machen. / Also auf Wiederhören!,communication,026
+goethe-a1-sd1-vocabulary-list,Wiedersehen,das,,noun,Auf Wiedersehen!,communication,026
+goethe-a1-sd1-vocabulary-list,willkommen,,,adjective,Herzlich willkommen!,communication,026
+goethe-a1-sd1-vocabulary-list,Wind,der,,noun,Der Wind kommt aus Osten.,weather,026
+goethe-a1-sd1-vocabulary-list,wir,,,other,Wir lernen Deutsch.,none,026
+goethe-a1-sd1-vocabulary-list,wissen,,,verb,"Weißt du, wie er heißt?",none,026
+goethe-a1-sd1-vocabulary-list,wo,,,adverb,Wo waren Sie im Urlaub? / Wo ist die Post? / Wo sind Sie geboren?,city-places,026
+goethe-a1-sd1-vocabulary-list,woher,,,adverb,Woher kommen Sie?,personal-info,026
+goethe-a1-sd1-vocabulary-list,wohin,,,adverb,Wohin fährt dieser Bus? / Wohin wollen Sie am Wochenende?,travel,026
+goethe-a1-sd1-vocabulary-list,wohnen,,,verb,Ich wohne in München.,home,026
+goethe-a1-sd1-vocabulary-list,Wohnung,die,-en,noun,Seit wann haben Sie diese Wohnung?,home,026
+goethe-a1-sd1-vocabulary-list,wollen,,,verb,Wollen Sie einen Kaffee trinken?,restaurant,026
+goethe-a1-sd1-vocabulary-list,Wort,das,"-ö, er/-e",noun,Ich kenne das Wort nicht.,communication,026
+goethe-a1-sd1-vocabulary-list,wunderbar,,,adjective,Das Essen schmeckt wunderbar.,food,026
+goethe-a1-sd1-vocabulary-list,zahlen,,,verb,"Zahlen, bitte!",restaurant,026
+goethe-a1-sd1-vocabulary-list,Zeit,die,,noun,Ich habe heute keine Zeit.,time-dates,026
+goethe-a1-sd1-vocabulary-list,Zeitung,die,-en,noun,Ich lese gern Zeitung.,hobby,026
+goethe-a1-sd1-vocabulary-list,Zigarette,die,-n,noun,Wie teuer sind die Zigaretten?,shopping,026
+goethe-a1-sd1-vocabulary-list,Zimmer,das,–,noun,"Das Zimmer ist groß. / Öffne im Schlafzimmer das Fenster, bitte! / Die Wohnung hat drei Zimmer. / Ich habe ein Zimmer bestellt.",home,026
+goethe-a1-sd1-vocabulary-list,Zoll,der,,noun,Wir müssen noch durch den Zoll.,travel,026
+goethe-a1-sd1-vocabulary-list,zu,,,preposition,Der Bus fährt zum Bahnhof. / Ich gehe zu Fuß. / Ich bin zu Hause.,travel,026
+goethe-a1-sd1-vocabulary-list,zurzeit,,,adverb,Zurzeit habe ich sehr viel zu tun.,time-dates,026
+goethe-a1-sd1-vocabulary-list,zufrieden,,,adjective,Ich bin mit der Wohnung zufrieden.,home,027
+goethe-a1-sd1-vocabulary-list,Zug,der,"-ü, e",noun,Ich fahre gern mit dem Zug.,travel,027
+goethe-a1-sd1-vocabulary-list,zurück,,,adverb,Einmal Frankfurt und zurück. / Wann kommst du zurück?,travel,027
+goethe-a1-sd1-vocabulary-list,zusammen,,,adverb,Sollen wir zusammen essen gehen? / Das macht zusammen 2 Euro 80.,restaurant,027
+goethe-a1-sd1-vocabulary-list,zwischen,,,preposition,Heidelberg liegt zwischen Frankfurt und Stuttgart. / Zwischen 8 und 10 Uhr bin ich zu Hause.,city-places,027
+goethe-a1-fit1-vocabulary-list,(Schüler-)Band,die,s,noun,,hobby,006
+goethe-a1-fit1-vocabulary-list,Angestellte,der,-n,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Angestellte,die,-n,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,ankreuzen,,,verb,,school,006
+goethe-a1-fit1-vocabulary-list,Antwortbogen,der,-,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Architekt,der,-en,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Architektin,die,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Arzt,der,Ärzte,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Aufgabe,die,n,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Baby,das,-s,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Beispiel,das,-e,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Blog,der,-s,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,Bruder,der,ü-,noun,,family,006
+goethe-a1-fit1-vocabulary-list,CD,die,-s,noun,,hobby,006
+goethe-a1-fit1-vocabulary-list,CD-Player,der,-,noun,,hobby,006
+goethe-a1-fit1-vocabulary-list,Chat(room),der,-s,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,chatten,,,verb,,communication,006
+goethe-a1-fit1-vocabulary-list,Cola,die/das,-s,noun,,food,006
+goethe-a1-fit1-vocabulary-list,Comic,der/das,-s,noun,,hobby,006
+goethe-a1-fit1-vocabulary-list,Computer,der,-,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,cool,,,adjective,,none,006
+goethe-a1-fit1-vocabulary-list,DVD,die,-s,noun,,hobby,006
+goethe-a1-fit1-vocabulary-list,Eltern,,(Pl.),noun,,family,006
+goethe-a1-fit1-vocabulary-list,erlaubt,,,adjective,,school,006
+goethe-a1-fit1-vocabulary-list,falsch,,,adjective,,school,006
+goethe-a1-fit1-vocabulary-list,Fax,das,-e,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,faxen,,,verb,,communication,006
+goethe-a1-fit1-vocabulary-list,formulieren,,,verb,,school,006
+goethe-a1-fit1-vocabulary-list,Geschwister,,(Pl.),noun,,family,006
+goethe-a1-fit1-vocabulary-list,Gespräch,das,-e,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,googeln,,,verb,,communication,006
+goethe-a1-fit1-vocabulary-list,Großeltern,,(Pl.),noun,,family,006
+goethe-a1-fit1-vocabulary-list,Großmutter,die,ü-,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Großvater,der,ä-,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Hausfrau,die,-en,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Hausmann,der,-männer,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Homepage,die,-s,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,Ingenieur,der,-e,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Ingenieurin,,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Internet,das,,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,Kauffrau,die,-en,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Kaufmann,der,-männer,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Kind,das,-er,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Kreuz,das,-e,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Künstler,der,-,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Künstlerin,die,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Laptop,der,-s,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,Lehrer,der,-,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Lehrerin,die,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Link,der,-s,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,Lösung,die,-en,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Mail,die,-s,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,Mailbox,die,-en,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,mailen,,,verb,,communication,006
+goethe-a1-fit1-vocabulary-list,markieren,,,verb,,school,006
+goethe-a1-fit1-vocabulary-list,Mutter,die,ü-,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Onkel,der,-,noun,,family,006
+goethe-a1-fit1-vocabulary-list,online,,,adverb,,communication,006
+goethe-a1-fit1-vocabulary-list,Partner,der,-,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Partnerin,die,-nen,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Poster,das,-,noun,,home,006
+goethe-a1-fit1-vocabulary-list,Prüfungsteil,der,-e,noun,,school,006
+goethe-a1-fit1-vocabulary-list,richtig,,,adjective,,school,006
+goethe-a1-fit1-vocabulary-list,Schauspieler,der,-,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Schauspielerin,die,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Schwester,die,-n,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Sekretär,der,-e,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Sekretärin,die,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Smartphone,das,-s,noun,,communication,006
+goethe-a1-fit1-vocabulary-list,surfen,,,verb,,communication,006
+goethe-a1-fit1-vocabulary-list,Tante,die,-n,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Techniker,der,-,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Technikerin,die,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,Teil,der,-e,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Test,der,-s,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Text,der,-e,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Vater,der,ä-,noun,,family,006
+goethe-a1-fit1-vocabulary-list,Wörterbuch,das,-ücher,noun,,school,006
+goethe-a1-fit1-vocabulary-list,Ärztin,die,-nen,noun,,profession,006
+goethe-a1-fit1-vocabulary-list,(ein)hundert,,,other,100 = (ein)hundert,none,007
+goethe-a1-fit1-vocabulary-list,(ein)tausend,,,other,1000 = (ein)tausend,none,007
+goethe-a1-fit1-vocabulary-list,1 Euro = 100 Cent,,,phrase,1 Euro = 100 Cent,shopping,007
+goethe-a1-fit1-vocabulary-list,acht,,,other,8 = acht,none,007
+goethe-a1-fit1-vocabulary-list,achtzehn,,,other,18 = achtzehn,none,007
+goethe-a1-fit1-vocabulary-list,achtzig,,,other,80 = achtzig,none,007
+goethe-a1-fit1-vocabulary-list,auf Deutsch,,,phrase,,personal-info,007
+goethe-a1-fit1-vocabulary-list,blau,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,blond,,,adjective,,personal-info,007
+goethe-a1-fit1-vocabulary-list,braun,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,Chemie,,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,der/die Deutsche,der/die,-n,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,der/die Engländer (-in),der/die,,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,der/die Europäer (-in),der/die,,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,der/die Italiener (-in),der/die,,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,deutsch,,,adjective,,personal-info,007
+goethe-a1-fit1-vocabulary-list,Deutschland,,,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,drei,,,other,3 = drei,none,007
+goethe-a1-fit1-vocabulary-list,dreizehn,,,other,13 = dreizehn,none,007
+goethe-a1-fit1-vocabulary-list,dreißig,,,other,30 = dreißig,none,007
+goethe-a1-fit1-vocabulary-list,ein Gramm,,,phrase,1 g = ein Gramm,none,007
+goethe-a1-fit1-vocabulary-list,ein Kilo(gramm),,,phrase,1 kg = ein Kilo(gramm),none,007
+goethe-a1-fit1-vocabulary-list,ein Liter,,,phrase,1 L = ein Liter,none,007
+goethe-a1-fit1-vocabulary-list,ein Meter,,,phrase,1 m = ein Meter,none,007
+goethe-a1-fit1-vocabulary-list,ein Meter fünfzig,,,phrase,"1,50 m = ein Meter fünfzig",none,007
+goethe-a1-fit1-vocabulary-list,eins,,,other,1 = eins,none,007
+goethe-a1-fit1-vocabulary-list,einundzwanzig,,,other,21 = einundzwanzig,none,007
+goethe-a1-fit1-vocabulary-list,elf,,,other,11 = elf,none,007
+goethe-a1-fit1-vocabulary-list,England,,,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,englisch,,,adjective,,personal-info,007
+goethe-a1-fit1-vocabulary-list,Europa,,,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,europäisch,,,adjective,,personal-info,007
+goethe-a1-fit1-vocabulary-list,fünf,,,other,5 = fünf,none,007
+goethe-a1-fit1-vocabulary-list,fünfzehn,,,other,15 = fünfzehn,none,007
+goethe-a1-fit1-vocabulary-list,fünfzig,,,other,50 = fünfzig,none,007
+goethe-a1-fit1-vocabulary-list,gelb,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,Geografie,,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,Geschichte,,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,Goethe-Institut,das,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,grau,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,Grundschule/Hauptschule,die,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,grün,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,Gymnasium,das,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,hunderteins,,,other,101 = hunderteins,none,007
+goethe-a1-fit1-vocabulary-list,Italien,,,noun,,personal-info,007
+goethe-a1-fit1-vocabulary-list,italienisch,,,adjective,,personal-info,007
+goethe-a1-fit1-vocabulary-list,Kunst(erziehung),,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,Mathematik,,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,neun,,,other,9 = neun,none,007
+goethe-a1-fit1-vocabulary-list,neunzehn,,,other,19 = neunzehn,none,007
+goethe-a1-fit1-vocabulary-list,neunzig,,,other,90 = neunzig,none,007
+goethe-a1-fit1-vocabulary-list,Norden,der,,noun,,none,007
+goethe-a1-fit1-vocabulary-list,Osten,der,,noun,,none,007
+goethe-a1-fit1-vocabulary-list,Physik,,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,rot,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,schwarz,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,sechs,,,other,6 = sechs,none,007
+goethe-a1-fit1-vocabulary-list,sechzehn,,,other,16 = sechzehn,none,007
+goethe-a1-fit1-vocabulary-list,sechzig,,,other,60 = sechzig,none,007
+goethe-a1-fit1-vocabulary-list,sieben,,,other,7 = sieben,none,007
+goethe-a1-fit1-vocabulary-list,siebzehn,,,other,17 = siebzehn,none,007
+goethe-a1-fit1-vocabulary-list,siebzig,,,other,70 = siebzig,none,007
+goethe-a1-fit1-vocabulary-list,Sozialkunde,,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,Sport,,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,Sprachenschule,die,,noun,,school,007
+goethe-a1-fit1-vocabulary-list,Süden,der,,noun,,none,007
+goethe-a1-fit1-vocabulary-list,vier,,,other,4 = vier,none,007
+goethe-a1-fit1-vocabulary-list,vierzehn,,,other,14 = vierzehn,none,007
+goethe-a1-fit1-vocabulary-list,vierzig,,,other,40 = vierzig,none,007
+goethe-a1-fit1-vocabulary-list,weiß,,,adjective,,none,007
+goethe-a1-fit1-vocabulary-list,Westen,der,,noun,,none,007
+goethe-a1-fit1-vocabulary-list,zehn,,,other,10 = zehn,none,007
+goethe-a1-fit1-vocabulary-list,zwanzig,,,other,20 = zwanzig,none,007
+goethe-a1-fit1-vocabulary-list,zwei,,,other,2 = zwei,none,007
+goethe-a1-fit1-vocabulary-list,zwei Kilometer,,,phrase,2 km = zwei Kilometer,none,007
+goethe-a1-fit1-vocabulary-list,zweihundert,,,other,200 = zweihundert,none,007
+goethe-a1-fit1-vocabulary-list,zweitausendeins,,,other,2001 = zweitausendeins,none,007
+goethe-a1-fit1-vocabulary-list,zwölf,,,other,12 = zwölf,none,007
+goethe-a1-fit1-vocabulary-list,Abend,der,e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,April,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,August,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Dezember,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Dienstag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Donnerstag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,drei Uhr fünfzehn,,,phrase,3:15 Uhr = drei Uhr fünfzehn,time-dates,008
+goethe-a1-fit1-vocabulary-list,ein Uhr,,,phrase,13:00 Uhr = ein Uhr,time-dates,008
+goethe-a1-fit1-vocabulary-list,Februar,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Freitag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Frühling,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,fünfzehn Uhr dreißig,,,phrase,15:30 Uhr = fünfzehn Uhr dreißig,time-dates,008
+goethe-a1-fit1-vocabulary-list,halb zwölf,,,phrase,11:30 Uhr = halb zwölf,time-dates,008
+goethe-a1-fit1-vocabulary-list,Herbst,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Jahr,das,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Januar,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Juli,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Juni,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Karneval,,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Mai,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Minute,die,-n,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Mittag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Mittwoch,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Montag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Morgen,der,-,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,März,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Nachmittag,der,e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Nacht,die,"ä, -",noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,November,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Oktober,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Ostern,,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Samstag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,September,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,sieben Uhr drei,,,phrase,7:03 Uhr = sieben Uhr drei,time-dates,008
+goethe-a1-fit1-vocabulary-list,Sommer,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Sonntag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Stunde,die,-n,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Tag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,vierundzwanzig Uhr,,,phrase,24:00 Uhr = vierundzwanzig Uhr,time-dates,008
+goethe-a1-fit1-vocabulary-list,Vormittag,der,-e,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Weihnachten,,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Winter,der,,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Woche,die,-n,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,Wochenende,das,-n,noun,,time-dates,008
+goethe-a1-fit1-vocabulary-list,ab,,,preposition,Ab morgen haben wir Ferien.,time-dates,009
+goethe-a1-fit1-vocabulary-list,aber,,,other,"Der Film ist traurig, aber sehr schön.",none,009
+goethe-a1-fit1-vocabulary-list,abfahren,,,verb,Der Zug fährt gleich ab.,travel,009
+goethe-a1-fit1-vocabulary-list,abgeben,,,verb,Kann ich das Buch hier abgeben?,school,009
+goethe-a1-fit1-vocabulary-list,abholen,,,verb,Ich hole dich am Bahnhof ab.,travel,009
+goethe-a1-fit1-vocabulary-list,Achtung,die,(Sg.),noun,Achtung! Jetzt fängt es an.,communication,009
+goethe-a1-fit1-vocabulary-list,Adresse,die,-n,noun,Ich weiß die Adresse nicht.,personal-info,009
+goethe-a1-fit1-vocabulary-list,Ahnung,die,-en,noun,Ich habe keine Ahnung!,communication,009
+goethe-a1-fit1-vocabulary-list,alle,,,other,Sind alle da? Hast du alles?,none,009
+goethe-a1-fit1-vocabulary-list,allein,,,adverb,Er arbeitet gern allein.,none,009
+goethe-a1-fit1-vocabulary-list,also,,,adverb,"Wir haben viel Platz, du kannst also bei uns schlafen.",none,009
+goethe-a1-fit1-vocabulary-list,alt,,,adjective,Wie alt bist du? Unser Haus ist sehr alt.,personal-info,009
+goethe-a1-fit1-vocabulary-list,Alter,das,(Sg.),noun,Alter: 15 Jahre,personal-info,009
+goethe-a1-fit1-vocabulary-list,an,,,preposition,Am Sonntag/am Abend/am Anfang/am Meer/ am Fenster/an den See/am Marktplatz,none,009
+goethe-a1-fit1-vocabulary-list,ander-,,,other,"Gefällt dir die Jacke? / Nein, die andere finde ich schöner.",shopping,009
+goethe-a1-fit1-vocabulary-list,Anfang,der,"ä, -e",noun,Am Anfang ist das Buch langweilig.,none,009
+goethe-a1-fit1-vocabulary-list,anfangen,,,verb,Fangt bitte mit Übung 12 an. / Fängst du an?,school,009
+goethe-a1-fit1-vocabulary-list,Angst,die,"ä, -e",noun,Er hat Angst.,none,009
+goethe-a1-fit1-vocabulary-list,ankommen,,,verb,Wann kommt ihr in Berlin an?,travel,009
+goethe-a1-fit1-vocabulary-list,Anruf,der,e,noun,Ich warte dann auf deinen Anruf - okay?,communication,009
+goethe-a1-fit1-vocabulary-list,Anrufbeantworter,der,,noun,Sind Nachrichten auf dem Anrufbeantworter?,communication,009
+goethe-a1-fit1-vocabulary-list,anrufen,,,verb,Ich rufe dich morgen an.,communication,009
+goethe-a1-fit1-vocabulary-list,Antwort,die,-en,noun,Weißt du die Antwort?,communication,009
+goethe-a1-fit1-vocabulary-list,antworten,,,verb,Warum antwortest du nicht?,communication,009
+goethe-a1-fit1-vocabulary-list,Anzeige,die,-n,noun,Lies bitte die Anzeige in der Zeitung!,communication,009
+goethe-a1-fit1-vocabulary-list,Apfel,der,"Ä, -",noun,Schmeckt dir der Apfel?,food,009
+goethe-a1-fit1-vocabulary-list,Apotheke,die,-n,noun,Aspirin? Das bekommen Sie in der Apotheke.,health,009
+goethe-a1-fit1-vocabulary-list,Appetit,der,(Sg.),noun,Guten Appetit!,food,009
+goethe-a1-fit1-vocabulary-list,Arbeit,die,-en,noun,War die Physikarbeit schwer?,school,009
+goethe-a1-fit1-vocabulary-list,arbeiten,,,verb,Mein Vater arbeitet bei einer Autofirma.,profession,009
+goethe-a1-fit1-vocabulary-list,arbeitslos,,,adjective,Meine Mutter ist arbeitslos.,profession,009
+goethe-a1-fit1-vocabulary-list,Arm,der,-e,noun,Mein Arm tut weh.,health,009
+goethe-a1-fit1-vocabulary-list,Artikel,der,-,noun,Der Artikel in der Zeitung ist sehr interessant.,communication,009
+goethe-a1-fit1-vocabulary-list,Arzt,der,"Ä, -e",noun,Er war beim Arzt.,health,009
+goethe-a1-fit1-vocabulary-list,auch,,,adverb,Ich möchte auch mitspielen.,none,009
+goethe-a1-fit1-vocabulary-list,auf,,,preposition,Die Zeitung ist auf dem Tisch./ Auf dem Foto bin ich mit meiner Schwester./ Wie heißt das auf Deutsch?,none,009
+goethe-a1-fit1-vocabulary-list,auf sein,,,phrase,Das Fenster ist auf.,home,009
+goethe-a1-fit1-vocabulary-list,aufmachen,,,verb,Kannst du bitte das Fenster aufmachen?,home,009
+goethe-a1-fit1-vocabulary-list,aufpassen,,,verb,"Könnt ihr bitte aufpassen? Ich zeige euch, wie es geht.",school,009
+goethe-a1-fit1-vocabulary-list,aufräumen,,,verb,Räum bitte dein Zimmer auf.,home,009
+goethe-a1-fit1-vocabulary-list,aufstehen,,,verb,Um acht Uhr stehen wir auf.,daily-routine,009
+goethe-a1-fit1-vocabulary-list,Auge,das,-n,noun,Seine Augen sind grün.,personal-info,009
+goethe-a1-fit1-vocabulary-list,aus,,,preposition,Wann kommt ihr aus der Schule?/ Ich komme aus Deutschland.,personal-info,009
+goethe-a1-fit1-vocabulary-list,Ärztin,die,-nen,noun,Die Ärztin arbeitet im Krankenhaus.,health,009
+goethe-a1-fit1-vocabulary-list,aus sein,,,phrase,Um ein Uhr ist die Schule aus.,school,010
+goethe-a1-fit1-vocabulary-list,Ausflug,der,"ü, -e",noun,Wir machen mit der Schule einen Ausflug.,vacation,010
+goethe-a1-fit1-vocabulary-list,Ausland,das,(Sg.),noun,Mein Vater war lange im Ausland.,travel,010
+goethe-a1-fit1-vocabulary-list,aussehen,,,verb,Das Buch sieht sehr interessant aus. Du siehst heute hübsch aus.,personal-info,010
+goethe-a1-fit1-vocabulary-list,aussteigen,,,verb,Du musst am Marktplatz aussteigen.,travel,010
+goethe-a1-fit1-vocabulary-list,Auto,das,-s,noun,Wir kommen mit dem  Auto.,travel,010
+goethe-a1-fit1-vocabulary-list,Automat,der,-en,noun,Die Fahrkarte  bekommst du am Automaten.,travel,010
+goethe-a1-fit1-vocabulary-list,Baby,das,-s,noun,Meine Schwester ist noch ein Baby.,family,010
+goethe-a1-fit1-vocabulary-list,Bad,das,"ä, -er",noun,Wo ist das Bad?,home,010
+goethe-a1-fit1-vocabulary-list,Bahnhof,der,"ö, -e",noun,Wir gehen zum Bahnhof.,travel,010
+goethe-a1-fit1-vocabulary-list,Bahnsteig,der,-e,noun,Der Zug kommt auf Bahnsteig zehn an.,travel,010
+goethe-a1-fit1-vocabulary-list,bald,,,adverb,Bis bald!,time-dates,010
+goethe-a1-fit1-vocabulary-list,Ball,der,"ä, -e",noun,Wir spielen mit dem Ball.,hobby,010
+goethe-a1-fit1-vocabulary-list,Banane,die,-n,noun,Kann ich eine Banane haben? Ich habe Hunger.,food,010
+goethe-a1-fit1-vocabulary-list,Band,die,-s,noun,Die Schülerband spielt heute um 9.,hobby,010
+goethe-a1-fit1-vocabulary-list,Basketball,der,"ä, -e",noun,Meine Hobbys sind Basketball und Musik.,hobby,010
+goethe-a1-fit1-vocabulary-list,basteln,,,verb,Basteln ist mein Hobby.,hobby,010
+goethe-a1-fit1-vocabulary-list,Bauch,der,"ä, -e",noun,Mein Bauch tut weh.,health,010
+goethe-a1-fit1-vocabulary-list,Baum,der,"ä, -e",noun,Die Bäume sind schon grün.,none,010
+goethe-a1-fit1-vocabulary-list,bedeuten,,,verb,Was bedeutet das?,communication,010
+goethe-a1-fit1-vocabulary-list,bei,,,preposition,Er wohnt bei seinen Freunden./ Sie arbeitet bei Herrn Müller.,none,010
+goethe-a1-fit1-vocabulary-list,beide,,,other,"Meine Schwester und ich, wir beide sind immer zusammen.",family,010
+goethe-a1-fit1-vocabulary-list,bekommen,,,verb,Was bekommst du zum Geburtstag?,none,010
+goethe-a1-fit1-vocabulary-list,Beruf,der,-e,noun,Was ist deine Mutter von Beruf?,profession,010
+goethe-a1-fit1-vocabulary-list,besetzt,,,adjective,Der Platz ist besetzt.,none,010
+goethe-a1-fit1-vocabulary-list,besonders,,,adverb,Das finde ich besonders interessant.,none,010
+goethe-a1-fit1-vocabulary-list,besser,,,adjective,Hoffentlich geht es dir bald besser.,health,010
+goethe-a1-fit1-vocabulary-list,beste,"der, die, das",,adjective,"der beste Schüler, die beste Freundin, das beste Buch",none,010
+goethe-a1-fit1-vocabulary-list,besuchen,,,verb,Im Sommer besuche ich dich.,none,010
+goethe-a1-fit1-vocabulary-list,Bett,das,-en,noun,Wann gehst du ins Bett?,home,010
+goethe-a1-fit1-vocabulary-list,bezahlen,,,verb,Wo muss ich bezahlen?,shopping,010
+goethe-a1-fit1-vocabulary-list,Bibliothek,die,-en,noun,In der Bibliothek gibt es dreißigtausend Bücher.,city-places,010
+goethe-a1-fit1-vocabulary-list,billig,,,adjective,Die Brötchen sind hier billig und gut.,shopping,010
+goethe-a1-fit1-vocabulary-list,bis,,,preposition,Wir haben bis ein Uhr Unterricht./ Wir fahren nur bis Mannheim.,none,010
+goethe-a1-fit1-vocabulary-list,bisschen,,,other,Ich helfe dir ein bisschen.,none,010
+goethe-a1-fit1-vocabulary-list,bitte,,,other,Können Sie mir bitte helfen? Bitte komm schnell!,communication,010
+goethe-a1-fit1-vocabulary-list,bleiben,,,verb,Wir bleiben zu Hause.,home,010
+goethe-a1-fit1-vocabulary-list,Bleistift,der,-e,noun,Hier ist dein Bleistift.,school,010
+goethe-a1-fit1-vocabulary-list,Blume,die,-n,noun,Hier sind Blumen für dich.,none,010
+goethe-a1-fit1-vocabulary-list,Bluse,die,-n,noun,Ich möchte eine rote Bluse.,shopping,010
+goethe-a1-fit1-vocabulary-list,blöd,,,adjective,Ich finde dich blöd!,none,010
+goethe-a1-fit1-vocabulary-list,brauchen,,,verb,Ich brauche einen Taschenrechner.,school,010
+goethe-a1-fit1-vocabulary-list,Brief,der,-e,noun,Sie bekommt immer viele Briefe.,communication,010
+goethe-a1-fit1-vocabulary-list,bringen,,,verb,Ich bringe dir die Bücher morgen.,none,010
+goethe-a1-fit1-vocabulary-list,Brot,das,-e,noun,Wir müssen auch Brot kaufen./ Bitte ein Wurstbrot.,food,011
+goethe-a1-fit1-vocabulary-list,Brötchen,das,-,noun,Ich esse lieber Brötchen.,food,011
+goethe-a1-fit1-vocabulary-list,Buch,das,"ü, er",noun,Die Bücher sind schon im Rucksack.,school,011
+goethe-a1-fit1-vocabulary-list,Bus,der,-se,noun,Sie fährt mit dem Bus.,travel,011
+goethe-a1-fit1-vocabulary-list,CD,die,-s,noun,Wir können ihm eine CD schenken.,hobby,011
+goethe-a1-fit1-vocabulary-list,Comic,der,-s,noun,Liest du gern Comics?,hobby,011
+goethe-a1-fit1-vocabulary-list,Computer,der,-,noun,Mein Computer ist schon alt.,communication,011
+goethe-a1-fit1-vocabulary-list,da,,,adverb,Die Zeitung ist da auf dem Tisch./Ist Erika auch da?,none,011
+goethe-a1-fit1-vocabulary-list,Dank,der,(Sg.),noun,Vielen Dank!,communication,011
+goethe-a1-fit1-vocabulary-list,danken,,,verb,"Die CD ist wunderbar, ich danke dir.",communication,011
+goethe-a1-fit1-vocabulary-list,dann,,,adverb,"Gib mir deine Adresse, dann schreibe ich dir!",none,011
+goethe-a1-fit1-vocabulary-list,"dein, -e",,,other,Hier ist dein Platz. (vergl. Grammatik),none,011
+goethe-a1-fit1-vocabulary-list,denken,,,verb,"Ich denke, die Hausaufgaben sind sehr einfach.",none,011
+goethe-a1-fit1-vocabulary-list,"der, die, das",,,other,Möchtest du das da? (vergl. Grammatik),none,011
+goethe-a1-fit1-vocabulary-list,deshalb,,,adverb,"Ich muss lernen, deshalb bleibe ich zu Hause.",none,011
+goethe-a1-fit1-vocabulary-list,dick,,,adjective,Ich bin leider sehr dick.,personal-info,011
+goethe-a1-fit1-vocabulary-list,Disco,die,"-s (-thek, -en)",noun,Sie geht gern in die Diskothek.,hobby,011
+goethe-a1-fit1-vocabulary-list,doch,,,other,"Magst du das nicht? – Doch, es schmeckt gut.",none,011
+goethe-a1-fit1-vocabulary-list,dort,,,adverb,Du gehst in die Stadt? Und was machst du dort?,none,011
+goethe-a1-fit1-vocabulary-list,du,,,other,Wie heißt du? (vergl. Grammatik),none,011
+goethe-a1-fit1-vocabulary-list,dumm,,,adjective,Das finde ich dumm.,none,011
+goethe-a1-fit1-vocabulary-list,durch,,,preposition,Wir fahren durch die Stadt.,none,011
+goethe-a1-fit1-vocabulary-list,Durst,der,(Sg.),noun,Hast du Durst?,food,011
+goethe-a1-fit1-vocabulary-list,duschen,,,verb,"Erst dusche ich, dann gehe ich zum Frühstück.",daily-routine,011
+goethe-a1-fit1-vocabulary-list,Ei,das,-er,noun,Möchtest du ein Ei zum Frühstück?,food,011
+goethe-a1-fit1-vocabulary-list,"ein, e",,,other,Haben Sie ein Buch von Michael Ende? (vergl. Grammatik),none,011
+goethe-a1-fit1-vocabulary-list,einfach,,,adjective,Du kannst ihn einfach fragen./ Die Übung ist ganz einfach.,none,011
+goethe-a1-fit1-vocabulary-list,einkaufen,,,verb,Wer kauft bei euch ein?,shopping,011
+goethe-a1-fit1-vocabulary-list,einladen,,,verb,Ich lade dich ein.,communication,011
+goethe-a1-fit1-vocabulary-list,Einladung,die,-en,noun,Das ist eine Einladung zur Geburtstagsparty.,communication,011
+goethe-a1-fit1-vocabulary-list,einmal,,,adverb,Kannst du mir das noch einmal erklären?,none,011
+goethe-a1-fit1-vocabulary-list,Eins,die,(Sg.),noun,In Englisch habe ich eine Eins.,school,011
+goethe-a1-fit1-vocabulary-list,einsteigen,,,verb,Bitte steigen Sie ein!,travel,011
+goethe-a1-fit1-vocabulary-list,einverstanden sein,,,phrase,Bist du einverstanden?,communication,011
+goethe-a1-fit1-vocabulary-list,Eis,das,(Sg.),noun,Ich möchte ein großes Eis.,food,011
+goethe-a1-fit1-vocabulary-list,Eltern,die,(Pl.),noun,Meine Eltern leben in Spanien.,family,011
+goethe-a1-fit1-vocabulary-list,Ende,das,(Sg),noun,Das Ende war sehr traurig.,none,011
+goethe-a1-fit1-vocabulary-list,endlich,,,adverb,Wann antwortest du endlich?,none,011
+goethe-a1-fit1-vocabulary-list,entschuldigen,,,verb,"Bitte, entschuldigen Sie!",communication,011
+goethe-a1-fit1-vocabulary-list,Entschuldigung,die,-en,noun,"Oh, Entschuldigung!",communication,011
+goethe-a1-fit1-vocabulary-list,er,,,other,Was macht er jetzt? (vergl. Grammatik),none,011
+goethe-a1-fit1-vocabulary-list,erklären,,,verb,Können Sie das bitte erklären?,communication,012
+goethe-a1-fit1-vocabulary-list,Erwachsene,der/die,-n,noun,Dieser Film ist nur für Erwachsene.,personal-info,012
+goethe-a1-fit1-vocabulary-list,erzählen,,,verb,Kannst du die Geschichte erzählen?,communication,012
+goethe-a1-fit1-vocabulary-list,es,,,other,Heute ist es sehr warm./Hier gibt es auch ein altes Schloss./Wie geht es dir/Ihnen? (vergl. Grammatik),none,012
+goethe-a1-fit1-vocabulary-list,essen,,,verb,Was wollt ihr essen?,food,012
+goethe-a1-fit1-vocabulary-list,Essen,das,-,noun,Wie war das Essen in Deutschland?,food,012
+goethe-a1-fit1-vocabulary-list,etwas,,,other,Ich bringe dir etwas.,none,012
+goethe-a1-fit1-vocabulary-list,euer,,,other,Ist das euer Hund? (vergl. Grammatik),none,012
+goethe-a1-fit1-vocabulary-list,Fach,das,"ä, -er",noun,Chemie ist mein Lieblingsfach.,school,012
+goethe-a1-fit1-vocabulary-list,fahren,,,verb,Wohin fahrt ihr?,travel,012
+goethe-a1-fit1-vocabulary-list,Fahrkarte,die,-n,noun,Sie brauchen eine Fahrkarte.,travel,012
+goethe-a1-fit1-vocabulary-list,Fahrplan,der,"ä, -e",noun,Da ist der Fahrplan!,travel,012
+goethe-a1-fit1-vocabulary-list,Fahrrad,das,"ä, -er",noun,Wir kommen mit dem Fahrrad.,travel,012
+goethe-a1-fit1-vocabulary-list,Familie,die,-n,noun,Er hat eine große Familie.,family,012
+goethe-a1-fit1-vocabulary-list,Familienname,der,-n,noun,Mein Familienname ist Schmidt.,personal-info,012
+goethe-a1-fit1-vocabulary-list,Fehler,der,-,noun,Ich hatte vier Fehler in der Englischarbeit.,school,012
+goethe-a1-fit1-vocabulary-list,Fenster,das,-,noun,Ich möchte einen Platz am Fenster.,home,012
+goethe-a1-fit1-vocabulary-list,Ferien,die,(Pl.),noun,Was macht ihr in den Ferien?,vacation,012
+goethe-a1-fit1-vocabulary-list,fernsehen,,,verb,Siehst du viel fern?,hobby,012
+goethe-a1-fit1-vocabulary-list,Fernsehen,das,(Sg.),noun,Was gibt es heute im Fernsehen?,hobby,012
+goethe-a1-fit1-vocabulary-list,fertig sein,,,phrase,Ich bin schon fertig.,none,012
+goethe-a1-fit1-vocabulary-list,Film,der,-e,noun,Wie war der Film?,hobby,012
+goethe-a1-fit1-vocabulary-list,finden,,,verb,Ich kann die Zeitung nicht finden./Ich finde deinen Pullover schön.,none,012
+goethe-a1-fit1-vocabulary-list,Fisch,der,-e,noun,Ich mag keinen Fisch.,food,012
+goethe-a1-fit1-vocabulary-list,Flasche,die,-n,noun,Bitte eine Flasche Mineralwasser.,food,012
+goethe-a1-fit1-vocabulary-list,Fleisch,das,(Sg.),noun,Ich esse kein Fleisch.,food,012
+goethe-a1-fit1-vocabulary-list,fliegen,,,verb,Wir fliegen nach Athen.,travel,012
+goethe-a1-fit1-vocabulary-list,Flughafen,der,"ä, -",noun,Wir müssen um sieben Uhr am Flughafen sein.,travel,012
+goethe-a1-fit1-vocabulary-list,Flugzeug,das,-e,noun,Im Flugzeug hatte meine Mutter Angst.,travel,012
+goethe-a1-fit1-vocabulary-list,Fluss,der,"ü, -e",noun,Der Rhein ist ein großer Fluss.,none,012
+goethe-a1-fit1-vocabulary-list,Foto,das,-s,noun,Auf dem Foto bin ich mit meinem Hund.,hobby,012
+goethe-a1-fit1-vocabulary-list,Fotoapparat,der,-e,noun,Sie hat einen teuren Fotoapparat.,hobby,012
+goethe-a1-fit1-vocabulary-list,Frage,die,-n,noun,Wiederholen Sie bitte die Frage.,communication,012
+goethe-a1-fit1-vocabulary-list,fragen,,,verb,Ich möchte etwas fragen.,communication,012
+goethe-a1-fit1-vocabulary-list,Frau,die,-en,noun,Siehst du die Frau dort? Das ist Frau Bergner.,personal-info,012
+goethe-a1-fit1-vocabulary-list,frei,,,adjective,Ist der Platz frei?,none,012
+goethe-a1-fit1-vocabulary-list,Freund,der,-e,noun,Mein bester Freund heißt Ivan.,personal-info,012
+goethe-a1-fit1-vocabulary-list,Freundin,die,-nen,noun,Ich habe viele Freundinnen.,personal-info,012
+goethe-a1-fit1-vocabulary-list,freundlich,,,adjective,Der Schuldirektor war sehr freundlich.,none,012
+goethe-a1-fit1-vocabulary-list,froh,,,adjective,Frohe Weihnachten!,none,012
+goethe-a1-fit1-vocabulary-list,früh,,,adverb,Wir stehen immer früh auf.,daily-routine,012
+goethe-a1-fit1-vocabulary-list,Frühstück,das,(Sg.),noun,Zum Frühstück trinke ich Milch.,food,012
+goethe-a1-fit1-vocabulary-list,frühstücken,,,verb,Wir frühstücken nicht zusammen.,food,012
+goethe-a1-fit1-vocabulary-list,Fuß,der,"ü, -e",noun,Mein Fuß tut weh./Wir gehen zu Fuß.,health,012
+goethe-a1-fit1-vocabulary-list,Fußball,der,"ä, -e",noun,Am Nachmittag spielen wir Fußball.,hobby,012
+goethe-a1-fit1-vocabulary-list,für,,,preposition,Ich kaufe einen Comic für meine Schwester.,none,012
+goethe-a1-fit1-vocabulary-list,Garten,der,"ä, -",noun,Wir suchen ein Haus mit Garten.,home,013
+goethe-a1-fit1-vocabulary-list,geben,,,verb,Geben Sie mir bitte zwei Fahrkarten./ Was gibt es heute im Fernsehen?/ Gibt es hier auch ein Theater?,none,013
+goethe-a1-fit1-vocabulary-list,geboren,,,adjective,Wo bist du geboren?,personal-info,013
+goethe-a1-fit1-vocabulary-list,Geburtstag,der,-e,noun,Heute ist mein Geburtstag.,personal-info,013
+goethe-a1-fit1-vocabulary-list,gefallen,,,verb,Das gefällt mir nicht.,none,013
+goethe-a1-fit1-vocabulary-list,gehen,,,verb,Wohin wollt ihr gehen?/Wie geht es dir?,none,013
+goethe-a1-fit1-vocabulary-list,Geld,das,(Sg.),noun,Ich habe nicht genug Geld.,shopping,013
+goethe-a1-fit1-vocabulary-list,Gemüse,das,(Sg.),noun,Ich esse sehr gern Gemüse.,food,013
+goethe-a1-fit1-vocabulary-list,gemütlich,,,adjective,Mein Zimmer ist gemütlich.,home,013
+goethe-a1-fit1-vocabulary-list,genug,,,adverb,Das ist genug.,none,013
+goethe-a1-fit1-vocabulary-list,Gepäck,das,(Sg.),noun,Das ist nicht mein Gepäck.,travel,013
+goethe-a1-fit1-vocabulary-list,gerade,,,adverb,Was machst du gerade?,none,013
+goethe-a1-fit1-vocabulary-list,geradeaus,,,adverb,"Gehen Sie hier geradeaus, dann sehen Sie das Rathaus.",city-places,013
+goethe-a1-fit1-vocabulary-list,gern,,,adverb,Wir sehen gern Krimis.,none,013
+goethe-a1-fit1-vocabulary-list,Geschenk,das,-e,noun,Hier ist ein Geschenk für dich.,shopping,013
+goethe-a1-fit1-vocabulary-list,Geschichte,die,-n,noun,Kennst du die Geschichte?/In Geschichte hat er eine Eins.,school,013
+goethe-a1-fit1-vocabulary-list,geschlossen sein,,,phrase,Die Apotheke ist heute geschlossen.,city-places,013
+goethe-a1-fit1-vocabulary-list,Geschäft,das,-e,noun,Meine Mutter wartet vor dem Geschäft.,shopping,013
+goethe-a1-fit1-vocabulary-list,gestern,,,adverb,Gestern war Sonntag.,time-dates,013
+goethe-a1-fit1-vocabulary-list,gewinnen,,,verb,Man kann eine Reise gewinnen.,none,013
+goethe-a1-fit1-vocabulary-list,Glas,das,"ä, -er",noun,Bitte ein Glas Cola.,restaurant,013
+goethe-a1-fit1-vocabulary-list,glauben,,,verb,"Ich glaube, Karin spricht sehr gut Englisch.",none,013
+goethe-a1-fit1-vocabulary-list,gleich,,,adverb,Er kommt gleich./Das ist mir gleich.,none,013
+goethe-a1-fit1-vocabulary-list,Gleis,das,-e,noun,Der Zug kommt auf Gleis vier an.,travel,013
+goethe-a1-fit1-vocabulary-list,Glück,das,(Sg.),noun,Viel Glück!/Hoffentlich hast du Glück.,none,013
+goethe-a1-fit1-vocabulary-list,glücklich,,,adjective,Ich war in Deutschland sehr glücklich.,none,013
+goethe-a1-fit1-vocabulary-list,Glückwunsch,der,"ü, -e",noun,Herzlichen Glückwunsch!,communication,013
+goethe-a1-fit1-vocabulary-list,groß,,,adjective,Unser Haus ist groß.,none,013
+goethe-a1-fit1-vocabulary-list,Großeltern,die,(Pl.),noun,Meine Großeltern wohnen nicht bei uns.,family,013
+goethe-a1-fit1-vocabulary-list,Gruß,der,"ü, -e",noun,Viele Grüße von Angelika.,communication,013
+goethe-a1-fit1-vocabulary-list,gut,,,adjective,Das Essen ist hier immer sehr gut./Ich finde deine Idee nicht so gut.,none,013
+goethe-a1-fit1-vocabulary-list,Haar,das,-e,noun,Sie hat lange Haare.,personal-info,013
+goethe-a1-fit1-vocabulary-list,haben,,,verb,Wir haben einen Hund und zwei Katzen.,none,013
+goethe-a1-fit1-vocabulary-list,hallo,,,other,Hallo! Bist du Michael Schmidt?,communication,013
+goethe-a1-fit1-vocabulary-list,Hals,der,"ä, -e",noun,Mein Hals tut so weh!,health,013
+goethe-a1-fit1-vocabulary-list,halten,,,verb,Alle Busse halten hier.,travel,013
+goethe-a1-fit1-vocabulary-list,Haltestelle,die,-n,noun,Da ist die Haltestelle.,travel,013
+goethe-a1-fit1-vocabulary-list,Handy,das,-s,noun,Du kannst mit dem Handy telefonieren.,communication,013
+goethe-a1-fit1-vocabulary-list,Haus,das,"ä, -er",noun,Ich bin zu Haus./Ich gehe nach Haus./ Da ist unser Haus.,home,013
+goethe-a1-fit1-vocabulary-list,Hausaufgabe,die,-n,noun,Wir machen zusammen Hausaufgaben.,school,013
+goethe-a1-fit1-vocabulary-list,Heft,das,-e,noun,Schreibt die Übung ins Heft.,school,013
+goethe-a1-fit1-vocabulary-list,heiraten,,,verb,Nächste Woche heiratet meine Schwester.,family,014
+goethe-a1-fit1-vocabulary-list,heißen,,,verb,Wie heißt du?,personal-info,014
+goethe-a1-fit1-vocabulary-list,helfen,,,verb,Hilf mir bitte!,none,014
+goethe-a1-fit1-vocabulary-list,Herr,der,-en,noun,Sind Sie Herr Braunmüller?,personal-info,014
+goethe-a1-fit1-vocabulary-list,herzlich,,,adjective,Herzliche Grüße von Michael.,communication,014
+goethe-a1-fit1-vocabulary-list,heute,,,adverb,Heute kommt meine Freundin aus Italien.,time-dates,014
+goethe-a1-fit1-vocabulary-list,hier,,,adverb,Wir wohnen hier.,none,014
+goethe-a1-fit1-vocabulary-list,Hobby,das,-s,noun,Meine Hobbys sind Lesen und Tanzen.,hobby,014
+goethe-a1-fit1-vocabulary-list,Hochzeit,die,-en,noun,Die Hochzeit war sehr langweilig.,family,014
+goethe-a1-fit1-vocabulary-list,hoffen,,,verb,"Ich hoffe, du antwortest bald.",none,014
+goethe-a1-fit1-vocabulary-list,hoffentlich,,,adverb,Hoffentlich kommt er mit.,none,014
+goethe-a1-fit1-vocabulary-list,Hund,der,-e,noun,Hast du einen Hund?,none,014
+goethe-a1-fit1-vocabulary-list,Hunger,der,(Sg.),noun,Wir haben Hunger.,food,014
+goethe-a1-fit1-vocabulary-list,hören,,,verb,Hörst du gern Musik?,hobby,014
+goethe-a1-fit1-vocabulary-list,hübsch,,,adjective,Ich finde sie wirklich hübsch.,personal-info,014
+goethe-a1-fit1-vocabulary-list,ich,,,other,Ich wohne in Berlin. (vergl. Grammatik),none,014
+goethe-a1-fit1-vocabulary-list,Idee,die,-n,noun,Das ist eine tolle Idee.,none,014
+goethe-a1-fit1-vocabulary-list,"Ihr, -e",,,other,Ist das Ihr Hund/Ihre Katze?,none,014
+goethe-a1-fit1-vocabulary-list,immer,,,adverb,Mathe ist immer so langweilig.,none,014
+goethe-a1-fit1-vocabulary-list,in,,,preposition,In Spanien/in der Stadt/ins Schwimmbad/ in den Wald/in den Ferien/im Sommer,none,014
+goethe-a1-fit1-vocabulary-list,Information,die,-en,noun,Hier kann man Informationen bekommen.,communication,014
+goethe-a1-fit1-vocabulary-list,Insel,die,-n,noun,Rügen ist eine Insel.,travel,014
+goethe-a1-fit1-vocabulary-list,interessant,,,adjective,Das Buch ist interessant.,none,014
+goethe-a1-fit1-vocabulary-list,Internet,das,(Sg.),noun,Wir suchen die Informationen im Internet.,communication,014
+goethe-a1-fit1-vocabulary-list,ja,,,other,"Kommst du mit? - Ja, gern.",none,014
+goethe-a1-fit1-vocabulary-list,Jacke,die,-n,noun,"Du brauchst eine Jacke, es ist kalt.",shopping,014
+goethe-a1-fit1-vocabulary-list,Jeans,die,(Pl.),noun,Sie trägt heute Jeans und ein Hemd.,shopping,014
+goethe-a1-fit1-vocabulary-list,"jeder,-e, -s",,,other,Wir fahren jeden Sommer nach München.,none,014
+goethe-a1-fit1-vocabulary-list,jetzt,,,adverb,Das ist jetzt nicht mehr wichtig.,time-dates,014
+goethe-a1-fit1-vocabulary-list,Jugendliche,der/die,-n,noun,Ist das ein Film für Jugendliche?,personal-info,014
+goethe-a1-fit1-vocabulary-list,jung,,,adjective,Meine Eltern sind noch jung.,personal-info,014
+goethe-a1-fit1-vocabulary-list,Junge,der,-n,noun,Der Junge ist neu in unserer Klasse.,personal-info,014
+goethe-a1-fit1-vocabulary-list,Kaffee,der,(Sg.),noun,Möchtest du eine Tasse Kaffee?,food,014
+goethe-a1-fit1-vocabulary-list,Kakao,der,(Sg.),noun,Ich trinke lieber Kakao.,food,014
+goethe-a1-fit1-vocabulary-list,kalt,,,adjective,Heute ist es sehr kalt./Mir ist kalt.,weather,014
+goethe-a1-fit1-vocabulary-list,Kamera,die,-s,noun,Ich zeige dir meine neue Digitalkamera.,hobby,014
+goethe-a1-fit1-vocabulary-list,kaputt,,,adjective,Das Radio ist kaputt.,none,014
+goethe-a1-fit1-vocabulary-list,Karte,die,-n,noun,Wir können unsren Freunden eine Karte schicken.,communication,014
+goethe-a1-fit1-vocabulary-list,Kartoffel,die,-n,noun,Ich möchte keine Kartoffeln.,food,014
+goethe-a1-fit1-vocabulary-list,Katze,die,-n,noun,"Das ist Timmy, meine Katze.",none,014
+goethe-a1-fit1-vocabulary-list,kaufen,,,verb,Ich möchte einen CD-Player kaufen.,shopping,014
+goethe-a1-fit1-vocabulary-list,"kein, -e",,,other,Ich habe keine Lust.,none,014
+goethe-a1-fit1-vocabulary-list,Käse,der,(Sg.),noun,Bitte ein Brötchen mit Käse.,food,014
+goethe-a1-fit1-vocabulary-list,kennen,,,verb,Kennst du Manuela?,none,015
+goethe-a1-fit1-vocabulary-list,kennenlernen,,,verb,Möchtest du meine Freunde kennenlernen?,communication,015
+goethe-a1-fit1-vocabulary-list,Kind,das,-er,noun,Die Kinder sind noch in der Schule.,family,015
+goethe-a1-fit1-vocabulary-list,Kino,das,-s,noun,Geht ihr ins Kino?,city-places,015
+goethe-a1-fit1-vocabulary-list,Kiosk,der,-e,noun,Am Kiosk bekommt man Zeitungen und Eis.,city-places,015
+goethe-a1-fit1-vocabulary-list,klar,,,adjective,Können wir das mitnehmen? Na klar!,none,015
+goethe-a1-fit1-vocabulary-list,Klasse,die,-n,noun,In unserer Klasse sind 25 Teilnehmende.,school,015
+goethe-a1-fit1-vocabulary-list,Klassenarbeit,die,-en,noun,"Ich muss lernen, morgen schreiben wir eine Klassenarbeit.",school,015
+goethe-a1-fit1-vocabulary-list,Klavier,das,-e,noun,Spielst du auch Klavier?,hobby,015
+goethe-a1-fit1-vocabulary-list,Kleid,das,-er,noun,Das Kleid ist sehr teuer.,shopping,015
+goethe-a1-fit1-vocabulary-list,klein,,,adjective,Mein Zimmer ist klein.,home,015
+goethe-a1-fit1-vocabulary-list,kochen,,,verb,Mein Vater kocht für uns.,food,015
+goethe-a1-fit1-vocabulary-list,kommen,,,verb,Ich komme aus Polen./Warum willst du nicht mitkommen?,personal-info,015
+goethe-a1-fit1-vocabulary-list,Kopf,der,"ö, -e",noun,Mein Kopf tut weh.,health,015
+goethe-a1-fit1-vocabulary-list,kosten,,,verb,Das kostet 20 Euro.,shopping,015
+goethe-a1-fit1-vocabulary-list,krank,,,adjective,Ich war gestern krank.,health,015
+goethe-a1-fit1-vocabulary-list,Krankenhaus,das,"ä, -er",noun,Meine Freundin ist im Krankenhaus.,health,015
+goethe-a1-fit1-vocabulary-list,Kuchen,der,-,noun,Ich mag keinen Kuchen.,food,015
+goethe-a1-fit1-vocabulary-list,Kugelschreiber,der,-,noun,Wo ist mein Kugelschreiber?,school,015
+goethe-a1-fit1-vocabulary-list,Kurs,der,-e,noun,In den Ferien mache ich einen Englischkurs.,school,015
+goethe-a1-fit1-vocabulary-list,kurz,,,adjective,Seine Haare sind kurz.,personal-info,015
+goethe-a1-fit1-vocabulary-list,können,,,verb,Er kann gut kochen.,none,015
+goethe-a1-fit1-vocabulary-list,Küche,die,-n,noun,Wir frühstücken in der Küche.,home,015
+goethe-a1-fit1-vocabulary-list,Kühlschrank,der,"ä, -e",noun,Im Kühlschrank ist Limonade.,home,015
+goethe-a1-fit1-vocabulary-list,lachen,,,verb,Lisa lacht immer viel.,none,015
+goethe-a1-fit1-vocabulary-list,Lampe,die,-n,noun,Die Lampe ist kaputt.,home,015
+goethe-a1-fit1-vocabulary-list,Land,das,"ä, -er",noun,Österreich ist ein kleines Land.,travel,015
+goethe-a1-fit1-vocabulary-list,lang,,,adjective,Das Kleid ist zu kurz.,none,015
+goethe-a1-fit1-vocabulary-list,lange,,,adverb,Wartest du schon lange?/Ich bin schon lange hier.,time-dates,015
+goethe-a1-fit1-vocabulary-list,langsam,,,adjective,"Sprich langsam, ich verstehe dich nicht.",none,015
+goethe-a1-fit1-vocabulary-list,langweilig,,,adjective,Physik ist langweilig.,none,015
+goethe-a1-fit1-vocabulary-list,lassen,,,verb,Ihr könnt die Bücher zu Hause lassen.,none,015
+goethe-a1-fit1-vocabulary-list,laufen,,,verb,Wir laufen schnell nach Hause.,none,015
+goethe-a1-fit1-vocabulary-list,leben,,,verb,Er lebt in Berlin.,personal-info,015
+goethe-a1-fit1-vocabulary-list,leicht,,,adjective,Die Hausaufgaben sind leicht.,school,015
+goethe-a1-fit1-vocabulary-list,leid,,,other,Es tut mir leid.,communication,015
+goethe-a1-fit1-vocabulary-list,leider,,,adverb,Ich kann leider nicht kommen.,none,015
+goethe-a1-fit1-vocabulary-list,lernen,,,verb,"Ich komme nicht mit, ich muss noch Vokabeln lernen./Karin lernt Tennis spielen.",school,015
+goethe-a1-fit1-vocabulary-list,lesen,,,verb,Ich lese viel.,hobby,015
+goethe-a1-fit1-vocabulary-list,Leute,die,(Pl.),noun,In unserem Haus wohnen viele Leute.,none,015
+goethe-a1-fit1-vocabulary-list,lieb,,,adjective,Lieber Franz!/Meine Lehrerin ist sehr lieb.,communication,015
+goethe-a1-fit1-vocabulary-list,lieben,,,verb,Ich liebe meinen Hund Toby.,none,015
+goethe-a1-fit1-vocabulary-list,lieber,,,adverb,Ich möchte lieber ein Eis.,none,015
+goethe-a1-fit1-vocabulary-list,Lieblings-,,,other,Mein Lieblingsfach ist Sozialkunde.,none,015
+goethe-a1-fit1-vocabulary-list,links,,,adverb,"Gehen Sie hier geradeaus, dann sehen Sie links den Bahnhof.",city-places,016
+goethe-a1-fit1-vocabulary-list,Lust,die,(Sg.),noun,Ich habe keine Lust.,none,016
+goethe-a1-fit1-vocabulary-list,lustig,,,adjective,Jan ist nett und lustig.,personal-info,016
+goethe-a1-fit1-vocabulary-list,machen,,,verb,"Am Samstag machen wir einen Ausflug./ Das macht nichts./Das macht 4,00 Euro.",none,016
+goethe-a1-fit1-vocabulary-list,Mail,die,-s,noun,Danke für deine Mail.,communication,016
+goethe-a1-fit1-vocabulary-list,Mal,das,-e,noun,Ich war zwei Mal in England./Bis zum nächsten Mal!,time-dates,016
+goethe-a1-fit1-vocabulary-list,man,,,other,Hier kann man auch Eis essen.,none,016
+goethe-a1-fit1-vocabulary-list,manchmal,,,adverb,Ich bin manchmal sehr traurig.,time-dates,016
+goethe-a1-fit1-vocabulary-list,Mann,der,"ä, -er",noun,Ein Mann geht mit seinem Hund spazieren.,personal-info,016
+goethe-a1-fit1-vocabulary-list,Mantel,der,"ä, -",noun,Er trägt einen Mantel.,shopping,016
+goethe-a1-fit1-vocabulary-list,Markt,der,"ä, -e",noun,Heute ist hier Markt.,shopping,016
+goethe-a1-fit1-vocabulary-list,Marktplatz,der,"ä, -e",noun,Der Bus fährt zum Marktplatz.,city-places,016
+goethe-a1-fit1-vocabulary-list,Marmelade,die,-n,noun,Ich esse Brot mit Marmelade.,food,016
+goethe-a1-fit1-vocabulary-list,mehr,,,adverb,Ich habe kein Geld mehr./Du musst mir noch mehr erzählen.,none,016
+goethe-a1-fit1-vocabulary-list,"mein, -e",,,other,Meine Freundin heißt Gaby. (vergl. Grammatik),none,016
+goethe-a1-fit1-vocabulary-list,Milch,die,(Sg.),noun,Ich mag keine Milch.,food,016
+goethe-a1-fit1-vocabulary-list,mindestens,,,adverb,Schreibe mindestens 30 Wörter./ Das kostet mindestens 10 Euro.,none,016
+goethe-a1-fit1-vocabulary-list,Mineralwasser,das,"ä, -",noun,Haben Sie auch Mineralwasser?,restaurant,016
+goethe-a1-fit1-vocabulary-list,mit,,,preposition,Ich spiele mit Andrea./Er fährt mit dem Bus.,none,016
+goethe-a1-fit1-vocabulary-list,mitbringen,,,verb,Was bringst du mit?,none,016
+goethe-a1-fit1-vocabulary-list,mitkommen,,,verb,Kommst du auch mit?,none,016
+goethe-a1-fit1-vocabulary-list,mitmachen,,,verb,"Komm, mach mit!",none,016
+goethe-a1-fit1-vocabulary-list,mitnehmen,,,verb,Was nehmen wir zu der Party mit?,hobby,016
+goethe-a1-fit1-vocabulary-list,morgen,,,adverb,Wir gehen morgen ins Schwimmbad.,time-dates,016
+goethe-a1-fit1-vocabulary-list,Musik,die,(Sg.),noun,Ich höre gern Disco-Musik.,hobby,016
+goethe-a1-fit1-vocabulary-list,Mädchen,das,-,noun,Die Mädchen spielen auch Fußball.,personal-info,016
+goethe-a1-fit1-vocabulary-list,mögen,,,verb,Ich mag gern Spaghetti und Fleisch.,food,016
+goethe-a1-fit1-vocabulary-list,möglich,,,adjective,"Ich kann nicht kommen, es ist leider nicht möglich.",none,016
+goethe-a1-fit1-vocabulary-list,müde,,,adjective,Bist du sehr müde?,health,016
+goethe-a1-fit1-vocabulary-list,müssen,,,verb,Mein Zimmer muss ich allein aufräumen.,home,016
+goethe-a1-fit1-vocabulary-list,nach,,,preposition,Sie fährt mit dem Bus nach Berlin.,travel,016
+goethe-a1-fit1-vocabulary-list,Nachricht,die,-en,noun,Du hörst die Nachricht noch einmal./ Das ist eine gute Nachricht.,communication,016
+goethe-a1-fit1-vocabulary-list,Name,der,-n,noun,Mein Name ist Peter Niemöller.,personal-info,016
+goethe-a1-fit1-vocabulary-list,nehmen,,,verb,Nehmen Sie den Bus zum Marktplatz.,travel,016
+goethe-a1-fit1-vocabulary-list,nein,,,other,"Kommst du mit? - Nein, leider nicht.",none,016
+goethe-a1-fit1-vocabulary-list,nett,,,adjective,"Ich finde, sie ist nett und lustig.",personal-info,016
+goethe-a1-fit1-vocabulary-list,neu,,,adjective,Ist der Computer neu?,none,016
+goethe-a1-fit1-vocabulary-list,nicht,,,adverb,Ich kann dich nicht verstehen.,none,016
+goethe-a1-fit1-vocabulary-list,nichts,,,other,Ich möchte nichts essen./Das macht nichts.,none,016
+goethe-a1-fit1-vocabulary-list,nie,,,adverb,Ich war noch nie in Frankreich.,none,016
+goethe-a1-fit1-vocabulary-list,nächste,"der, die, das",,adjective,Nächsten Monat bekommen wir Zeugnisse.,time-dates,016
+goethe-a1-fit1-vocabulary-list,niemand,,,other,Kann mir niemand helfen?,none,017
+goethe-a1-fit1-vocabulary-list,noch,,,adverb,Ich muss noch Hausaufgaben machen.,school,017
+goethe-a1-fit1-vocabulary-list,normal,,,adjective,Eine ganz normale Situation.,none,017
+goethe-a1-fit1-vocabulary-list,Note,die,-n,noun,Hast du gute Noten in Englisch?,school,017
+goethe-a1-fit1-vocabulary-list,Nummer,die,-n,noun,"Bitte, sag mir deine Telefonnummer./ Welche Hausnummer hast du?",personal-info,017
+goethe-a1-fit1-vocabulary-list,nur,,,adverb,Ich möchte nur ein Glas Wasser.,none,017
+goethe-a1-fit1-vocabulary-list,Obst,das,(Sg.),noun,Wir essen immer viel Obst.,food,017
+goethe-a1-fit1-vocabulary-list,oder,,,other,Trinkst du Tee oder Kaffee?,none,017
+goethe-a1-fit1-vocabulary-list,offen,,,adjective,Jetzt ist die Tür offen.,home,017
+goethe-a1-fit1-vocabulary-list,oft,,,adverb,Wir gehen oft im Park spazieren.,time-dates,017
+goethe-a1-fit1-vocabulary-list,ohne,,,preposition,Ein Sonntag ohne meine Freunde ist langweilig.,none,017
+goethe-a1-fit1-vocabulary-list,Ohrring,der,-e,noun,Sie trägt einen kleinen Ohrring.,shopping,017
+goethe-a1-fit1-vocabulary-list,Ordnung,die,-en,noun,Das ist in Ordnung./Kannst du hier Ordnung machen?,home,017
+goethe-a1-fit1-vocabulary-list,Paket,das,-e,noun,Ist das Paket für mich?,communication,017
+goethe-a1-fit1-vocabulary-list,Park,der,-s,noun,Wir gehen in den Park. .,city-places,017
+goethe-a1-fit1-vocabulary-list,passieren,,,verb,Was passiert hier?,none,017
+goethe-a1-fit1-vocabulary-list,Pause,die,-n,noun,Jetzt machen wir eine Pause.,school,017
+goethe-a1-fit1-vocabulary-list,Pferd,das,-e,noun,Das Pferd ist schon alt.,hobby,017
+goethe-a1-fit1-vocabulary-list,Pizza,die,-en,noun,Heute gibt es bei uns Pizza mit Tomaten und Käse.,food,017
+goethe-a1-fit1-vocabulary-list,Platz,der,"ä, -e",noun,Das ist mein Platz./In meiner Wohnung ist wenig Platz./Ist der Platz noch frei?,home,017
+goethe-a1-fit1-vocabulary-list,Post,die,(Sg.),noun,"Ich gehe zur Post, kommst du mit?",city-places,017
+goethe-a1-fit1-vocabulary-list,Poster,das,-,noun,In meinem Zimmer sind viele Poster.,home,017
+goethe-a1-fit1-vocabulary-list,Postkarte,die,-n,noun,Wir schreiben ihm eine Postkarte.,communication,017
+goethe-a1-fit1-vocabulary-list,Problem,das,-e,noun,Hast du Probleme?,none,017
+goethe-a1-fit1-vocabulary-list,Pullover,der,-,noun,"Du brauchst keinen Pullover, es ist warm.",shopping,017
+goethe-a1-fit1-vocabulary-list,pünktlich,,,adjective,Kommt bitte pünktlich!,time-dates,017
+goethe-a1-fit1-vocabulary-list,Quatsch,der,(Sg.),noun,"Ich finde, das ist Quatsch!",none,017
+goethe-a1-fit1-vocabulary-list,Quiz,das,(Sg.),noun,Das ist ein Quiz für Kinder.,hobby,017
+goethe-a1-fit1-vocabulary-list,Rad (s Fahrrad),das,"ä, -er",noun,Ich fahre mit dem Rad in die Schule.,travel,017
+goethe-a1-fit1-vocabulary-list,Radiergummi,der,-s,noun,Gibst du mir deinen Radiergummi?,school,017
+goethe-a1-fit1-vocabulary-list,Radio,das,-s,noun,Ich habe ein neues Radio.,hobby,017
+goethe-a1-fit1-vocabulary-list,raten,,,verb,"Das ist ein Spiel, man muss die Städte raten.",hobby,017
+goethe-a1-fit1-vocabulary-list,recht haben,,,phrase,Du hast recht.,none,017
+goethe-a1-fit1-vocabulary-list,rechts,,,adverb,Hier rechts ist unsere Schule.,city-places,017
+goethe-a1-fit1-vocabulary-list,Regen,der,(Sg.),noun,Ich mag den Regen nicht.,weather,017
+goethe-a1-fit1-vocabulary-list,regnen,,,verb,Es regnet oft bei uns.,weather,017
+goethe-a1-fit1-vocabulary-list,Reise,die,-n,noun,Wir machen eine Reise.,travel,017
+goethe-a1-fit1-vocabulary-list,reiten,,,verb,Reiten ist mein Hobby.,hobby,017
+goethe-a1-fit1-vocabulary-list,Rätsel,das,-,noun,Ich finde das Rätsel zu schwer.,hobby,017
+goethe-a1-fit1-vocabulary-list,reparieren,,,verb,Mein Vater kann das Fahrrad reparieren.,none,018
+goethe-a1-fit1-vocabulary-list,Restaurant,das,s,noun,Wir essen heute im Restaurant.,restaurant,018
+goethe-a1-fit1-vocabulary-list,richtig,,,adjective,Die Antwort ist nicht richtig.,school,018
+goethe-a1-fit1-vocabulary-list,Ring,der,-e,noun,Sie trägt viele Ringe.,shopping,018
+goethe-a1-fit1-vocabulary-list,Rucksack,der,"ä, -e",noun,Der Rucksack für die Schule ist fertig.,school,018
+goethe-a1-fit1-vocabulary-list,ruhig,,,adjective,Seid jetzt bitte ruhig!,none,018
+goethe-a1-fit1-vocabulary-list,Sache,die,-n,noun,Wo sind meine Schulsachen?/Das ist eine tolle Sache.,school,018
+goethe-a1-fit1-vocabulary-list,Saft,der,"ä, -e",noun,Möchtest du Wasser oder Saft?,food,018
+goethe-a1-fit1-vocabulary-list,sagen,,,verb,"Eva sagt, sie kommt heute nicht.",communication,018
+goethe-a1-fit1-vocabulary-list,Salat,der,-e,noun,Am Abend gibt es immer Salat.,food,018
+goethe-a1-fit1-vocabulary-list,schade,,,adjective,Du kannst nicht kommen? Das ist schade!,none,018
+goethe-a1-fit1-vocabulary-list,schenken,,,verb,Ich möchte Anna einen Pullover schenken.,shopping,018
+goethe-a1-fit1-vocabulary-list,Schiff,das,-e,noun,Sie fahren mit dem Schiff.,travel,018
+goethe-a1-fit1-vocabulary-list,schlafen,,,verb,Wo kann ich schlafen?,daily-routine,018
+goethe-a1-fit1-vocabulary-list,schlecht,,,adjective,Mir ist so schlecht./Das Essen hier ist nicht schlecht.,health,018
+goethe-a1-fit1-vocabulary-list,schmecken,,,verb,Wie schmeckt der Hamburger?,food,018
+goethe-a1-fit1-vocabulary-list,Schmerz,der,-en,noun,Ich habe Bauchschmerzen.,health,018
+goethe-a1-fit1-vocabulary-list,schnell,,,adjective,Mach schnell!,none,018
+goethe-a1-fit1-vocabulary-list,Schokolade,die,(Sg.),noun,Ich esse keine Schokolade.,food,018
+goethe-a1-fit1-vocabulary-list,schon,,,adverb,Ich habe schon sechs Computerspiele.,none,018
+goethe-a1-fit1-vocabulary-list,schreiben,,,verb,Erika schreibt mir jeden Tag.,communication,018
+goethe-a1-fit1-vocabulary-list,schwer,,,adjective,Ich finde die Hausaufgaben sehr schwer.,school,018
+goethe-a1-fit1-vocabulary-list,Schwimmbad,das,"ä, -er",noun,Im Sommer gehen wir oft ins Schwimmbad.,city-places,018
+goethe-a1-fit1-vocabulary-list,schwimmen,,,verb,Ich kann gut schwimmen.,hobby,018
+goethe-a1-fit1-vocabulary-list,schön,,,adjective,Mein Zimmer ist sehr schön und gemütlich.,home,018
+goethe-a1-fit1-vocabulary-list,See,der,-n,noun,Der See ist sehr groß./Wir wohnen am See./Wir fahren zum Ammersee.,vacation,018
+goethe-a1-fit1-vocabulary-list,sehen,,,verb,Siehst du das große Haus? Da wohne ich.,none,018
+goethe-a1-fit1-vocabulary-list,sehr,,,adverb,Ich liebe ihn sehr./Das ist sehr wichtig.,none,018
+goethe-a1-fit1-vocabulary-list,sein,,,verb,Ich bin 13 Jahre alt./Das ist mein Bruder./Er ist Student./ Die Kinder sind im Garten.,personal-info,018
+goethe-a1-fit1-vocabulary-list,"sein, -e",,,other,Er mag seinen Bruder sehr gern. (vergl. Grammatik),none,018
+goethe-a1-fit1-vocabulary-list,Seite,die,-n,noun,Das steht auf Seite 3.,school,018
+goethe-a1-fit1-vocabulary-list,sicher,,,adjective,Du bist sicher gut in der Schule.,none,018
+goethe-a1-fit1-vocabulary-list,sie,,,other,"Das ist Frau Meyer, sie wohnt hier.",none,018
+goethe-a1-fit1-vocabulary-list,so,,,adverb,Ich mache das nicht so./Das schmeckt so gut./Sie ist so alt wie ich.,none,018
+goethe-a1-fit1-vocabulary-list,sofort,,,adverb,"Warte, ich komme sofort!",time-dates,018
+goethe-a1-fit1-vocabulary-list,spazieren gehen,,,verb,Wollen wir spazieren gehen?,hobby,018
+goethe-a1-fit1-vocabulary-list,Spaß,der,(Sg.),noun,Wir haben immer viel Spaß zusammen./Viel Spaß!,hobby,018
+goethe-a1-fit1-vocabulary-list,Spiel,das,-e,noun,Ich kenne ein neues Spiel.,hobby,018
+goethe-a1-fit1-vocabulary-list,spielen,,,verb,Willst du mit uns spielen?,hobby,018
+goethe-a1-fit1-vocabulary-list,Spielplatz,der,"ä, -e",noun,Sie ist mit Ben auf dem Spielplatz.,city-places,018
+goethe-a1-fit1-vocabulary-list,spät,,,adjective,"Mach schnell, es ist spät!/Ich komme zu spät./Wie spät ist es?",time-dates,018
+goethe-a1-fit1-vocabulary-list,später,,,adverb,Ich mache die Hausaufgaben später.,time-dates,018
+goethe-a1-fit1-vocabulary-list,Sport,der,(Sg.),noun,Sport ist mein Hobby.,hobby,019
+goethe-a1-fit1-vocabulary-list,Sprache,die,-n,noun,Er spricht fünf Sprachen.,communication,019
+goethe-a1-fit1-vocabulary-list,sprechen,,,verb,Sie spricht mit dem Lehrer.,communication,019
+goethe-a1-fit1-vocabulary-list,Stadt,die,"ä, -e",noun,Unsere Stadt ist nicht so groß.,city-places,019
+goethe-a1-fit1-vocabulary-list,Strand,der,"ä, -e",noun,Wir spielen am Strand.,vacation,019
+goethe-a1-fit1-vocabulary-list,Straße,die,-n,noun,Wir wohnen in der Goethe-Straße.,city-places,019
+goethe-a1-fit1-vocabulary-list,Stück,das,-e,noun,Willst du noch ein Stück Kuchen?,food,019
+goethe-a1-fit1-vocabulary-list,suchen,,,verb,Ich suche meinen Kugelschreiber.,none,019
+goethe-a1-fit1-vocabulary-list,Supermarkt,der,"ä, -e",noun,Wir kaufen immer im Supermarkt ein.,shopping,019
+goethe-a1-fit1-vocabulary-list,Suppe,die,-n,noun,Ich kann auch Suppe kochen.,food,019
+goethe-a1-fit1-vocabulary-list,sympathisch,,,adjective,Ich finde ihn sehr sympathisch.,personal-info,019
+goethe-a1-fit1-vocabulary-list,süß,,,adjective,Der Kaffee ist zu süß./Der neue Tennislehrer ist wirklich süß!,food,019
+goethe-a1-fit1-vocabulary-list,Süßigkeiten,die,(Pl.),noun,Am liebsten esse ich Süßigkeiten.,food,019
+goethe-a1-fit1-vocabulary-list,T-Shirt,das,-s,noun,Wie gefällt dir mein neues T-Shirt?,shopping,019
+goethe-a1-fit1-vocabulary-list,tanzen,,,verb,Leider kann er nicht gut tanzen.,hobby,019
+goethe-a1-fit1-vocabulary-list,Tasche,die,-n,noun,Die Tasche ist sehr schwer.,shopping,019
+goethe-a1-fit1-vocabulary-list,Taschengeld,das,(Sg.),noun,Wie viel Taschengeld bekommst du?,shopping,019
+goethe-a1-fit1-vocabulary-list,Tasse,die,-n,noun,Ich möchte eine Tasse Kakao.,restaurant,019
+goethe-a1-fit1-vocabulary-list,Tee,der,-s,noun,Am Abend trinken wir Tee.,food,019
+goethe-a1-fit1-vocabulary-list,telefonieren,,,verb,Ich telefoniere oft mit meiner Freundin in Frankfurt.,communication,019
+goethe-a1-fit1-vocabulary-list,Tennis spielen,,,phrase,Er spielt gut Tennis.,hobby,019
+goethe-a1-fit1-vocabulary-list,teuer,,,adjective,"Mein neues Kleid war sehr teuer, aber es ist wunderbar.",shopping,019
+goethe-a1-fit1-vocabulary-list,Theater,das,-,noun,Am Sonntag waren wir im Theater.,city-places,019
+goethe-a1-fit1-vocabulary-list,Thema,das,Themen,noun,Wie heißt das Thema des Buchs?,school,019
+goethe-a1-fit1-vocabulary-list,Tier,das,-e,noun,Ich möchte ein Tier haben: eine Katze oder einen Hund.,hobby,019
+goethe-a1-fit1-vocabulary-list,Tisch,der,-e,noun,Am Fenster ist ein Tisch.,home,019
+goethe-a1-fit1-vocabulary-list,Toilette,die,-n,noun,Wo ist die Toilette?,home,019
+goethe-a1-fit1-vocabulary-list,toll,,,adjective,In den Ferien war es toll.,vacation,019
+goethe-a1-fit1-vocabulary-list,tragen,,,verb,Er trägt Jeans,shopping,019
+goethe-a1-fit1-vocabulary-list,traurig,,,adjective,Ich bin oft traurig.,personal-info,019
+goethe-a1-fit1-vocabulary-list,treffen,,,verb,Am Nachmittag treffe ich meine Freunde.,hobby,019
+goethe-a1-fit1-vocabulary-list,trinken,,,verb,Wir trinken gern Saft.,food,019
+goethe-a1-fit1-vocabulary-list,tschüss!,,,other,Also bis bald - tschüss!,communication,019
+goethe-a1-fit1-vocabulary-list,Tür,die,-en,noun,Die Tür ist auf.,home,019
+goethe-a1-fit1-vocabulary-list,U-Bahn,die,-en,noun,Wir nehmen die U-Bahn.,travel,019
+goethe-a1-fit1-vocabulary-list,Uhr,die,-en,noun,Hast du keine Uhr?/Wie viel Uhr ist es?,time-dates,019
+goethe-a1-fit1-vocabulary-list,um,,,preposition,Um 7.30 Uhr kommt der Zug.,time-dates,019
+goethe-a1-fit1-vocabulary-list,und,,,other,Karl und Susanne kommen auch.,none,019
+goethe-a1-fit1-vocabulary-list,und so weiter,,,phrase,usw.,none,019
+goethe-a1-fit1-vocabulary-list,"unser, -e",,,other,Das ist unser neues Auto. (vergl. Grammatik),none,019
+goethe-a1-fit1-vocabulary-list,Unterricht,der,(Sg.),noun,Der Unterricht macht mir Spaß.,school,019
+goethe-a1-fit1-vocabulary-list,üben,,,verb,Ich muss jeden Tag Klavier üben.,hobby,019
+goethe-a1-fit1-vocabulary-list,über,,,preposition,Jetzt gehen wir über die Straße.,city-places,019
+goethe-a1-fit1-vocabulary-list,überall,,,adverb,In der Altstadt gibt es überall kleine Cafés.,city-places,019
+goethe-a1-fit1-vocabulary-list,verdienen,,,verb,In den Ferien möchte ich ein bisschen Geld verdienen.,profession,020
+goethe-a1-fit1-vocabulary-list,vergessen,,,verb,Ich vergesse oft die Vokabeln.,school,020
+goethe-a1-fit1-vocabulary-list,verrückt,,,adjective,Ich finde die Idee verrückt. Sie trägt so verrückte Kleider.,none,020
+goethe-a1-fit1-vocabulary-list,verstehen,,,verb,Ich verstehe dich nicht.,communication,020
+goethe-a1-fit1-vocabulary-list,"viel, -e",,,other,Hast du viele Freunde?,none,020
+goethe-a1-fit1-vocabulary-list,vielleicht,,,adverb,Kannst du mir vielleicht helfen?/Vielleicht kommt er.,none,020
+goethe-a1-fit1-vocabulary-list,von,,,preposition,Der Computer ist ein Geschenk von meinem Onkel./Sie arbeitet von sieben bis neun./Er kommt von der Arbeit.,none,020
+goethe-a1-fit1-vocabulary-list,vor,,,preposition,Ich treffe Peter vor dem Kino./Vor dem Frühstück.,none,020
+goethe-a1-fit1-vocabulary-list,Vorname,der,-n,noun,Wie ist dein Vorname?,personal-info,020
+goethe-a1-fit1-vocabulary-list,vorstellen (sich),,,verb,Stell dich bitte vor!,personal-info,020
+goethe-a1-fit1-vocabulary-list,wahr,,,adjective,"Das ist sicher nicht wahr./Das schmeckt gut, nicht wahr?",none,020
+goethe-a1-fit1-vocabulary-list,Wald,der,"ä, -er",noun,In Thüringen gibt es sehr viel Wald.,vacation,020
+goethe-a1-fit1-vocabulary-list,wandern,,,verb,Am Wochenende wandern wir zum Tüngelsee.,hobby,020
+goethe-a1-fit1-vocabulary-list,wann,,,adverb,Wann hast du Geburtstag?,time-dates,020
+goethe-a1-fit1-vocabulary-list,warm,,,adjective,Gestern war es hier schon sehr warm.,weather,020
+goethe-a1-fit1-vocabulary-list,warten,,,verb,Wartest du schon lange?,none,020
+goethe-a1-fit1-vocabulary-list,warum,,,adverb,Warum antwortest du nicht?,none,020
+goethe-a1-fit1-vocabulary-list,was,,,other,Was kann man hier kaufen?,none,020
+goethe-a1-fit1-vocabulary-list,waschen,,,verb,Ich will meine Haare waschen.,daily-routine,020
+goethe-a1-fit1-vocabulary-list,Wasser,das,(Sg.),noun,Das Wasser ist so kalt./Gib mir bitte ein Glas Wasser.,food,020
+goethe-a1-fit1-vocabulary-list,wecken,,,verb,Meine Mutter weckt mich um 7.30 Uhr.,daily-routine,020
+goethe-a1-fit1-vocabulary-list,weh tun,,,verb,Mein Kopf tut so weh.,health,020
+goethe-a1-fit1-vocabulary-list,weit,,,adjective,"Wir fahren zum See, das ist nicht weit.",travel,020
+goethe-a1-fit1-vocabulary-list,weiter,,,adverb,Lies bitte weiter.,school,020
+goethe-a1-fit1-vocabulary-list,"welch- , -er, -e, -s",,,other,Welche CD möchtest du?,none,020
+goethe-a1-fit1-vocabulary-list,"wenig, e",,,other,Ich habe heute wenig Zeit.,none,020
+goethe-a1-fit1-vocabulary-list,wer,,,other,Wer ist die elegante Frau?,none,020
+goethe-a1-fit1-vocabulary-list,werden,,,verb,Ich möchte Architekt werden.,profession,020
+goethe-a1-fit1-vocabulary-list,wichtig,,,adjective,"Ich glaube, die Frage ist wichtig.",none,020
+goethe-a1-fit1-vocabulary-list,wie,,,adverb,Wie heißt du?/Wie groß ist Berlin?/Wie alt ist er?/Das ist wie im Kino!,none,020
+goethe-a1-fit1-vocabulary-list,wie viel,,,phrase,Wie viel kostet das?,shopping,020
+goethe-a1-fit1-vocabulary-list,wieder,,,adverb,Ich möchte wieder nach Deutschland fahren.,travel,020
+goethe-a1-fit1-vocabulary-list,wiederholen,,,verb,Können Sie das bitte wiederholen?,communication,020
+goethe-a1-fit1-vocabulary-list,Wiedersehen,das,-,noun,Auf Wiedersehen.,communication,020
+goethe-a1-fit1-vocabulary-list,willkommen,,,other,Willkommen bei uns!,communication,020
+goethe-a1-fit1-vocabulary-list,wir,,,other,Wir haben eine neue Lehrerin. (vergl. Grammatik),none,020
+goethe-a1-fit1-vocabulary-list,wirklich,,,adverb,Willst du das wirklich kaufen?,none,020
+goethe-a1-fit1-vocabulary-list,wissen,,,verb,Ich weiß es nicht.,none,020
+goethe-a1-fit1-vocabulary-list,wo,,,adverb,Wo wohnt ihr?,none,020
+goethe-a1-fit1-vocabulary-list,woher,,,adverb,Woher kommt der Zug?,travel,020
+goethe-a1-fit1-vocabulary-list,wohin,,,adverb,Wohin fährt der Bus?,travel,020
+goethe-a1-fit1-vocabulary-list,wohnen,,,verb,Wo wohnst du?,home,020
+goethe-a1-fit1-vocabulary-list,Wohnung,die,-en,noun,Unsere Wohnung hat drei Zimmer.,home,021
+goethe-a1-fit1-vocabulary-list,Wohnzimmer,das,-,noun,Ich mache die Hausaufgaben im Wohnzimmer.,home,021
+goethe-a1-fit1-vocabulary-list,wollen,,,verb,Willst du meine Freunde kennenlernen?,none,021
+goethe-a1-fit1-vocabulary-list,Wort,das,"ö, -er",noun,Wie viele Wörter hat dein Brief?,communication,021
+goethe-a1-fit1-vocabulary-list,wunderbar,,,adjective,Das Essen schmeckt wunderbar.,food,021
+goethe-a1-fit1-vocabulary-list,Wurst,die,"ü, -e",noun,Ich möchte eine Curry-Wurst.,food,021
+goethe-a1-fit1-vocabulary-list,wünschen,,,verb,Ich wünsche dir schöne Ferien.,vacation,021
+goethe-a1-fit1-vocabulary-list,Zahn,der,"ä, -e",noun,Mein Zahn tut weh.,health,021
+goethe-a1-fit1-vocabulary-list,zeigen,,,verb,Zeigst du mir deinen Computer?,none,021
+goethe-a1-fit1-vocabulary-list,Zeit,die,-en,noun,Wann hast du Zeit für mich?,time-dates,021
+goethe-a1-fit1-vocabulary-list,Zeitung,die,-en,noun,Meine Mutter liest am Morgen die Zeitung.,communication,021
+goethe-a1-fit1-vocabulary-list,Zimmer,das,-,noun,Mein Zimmer ist sehr klein.,home,021
+goethe-a1-fit1-vocabulary-list,zu,,,preposition,zu groß/zum Frühstück/zum Zahnarzt/zur Post/ zum Geburtstag,none,021
+goethe-a1-fit1-vocabulary-list,zu sein,,,phrase,Die Bibliothek ist in den Ferien zu.,city-places,021
+goethe-a1-fit1-vocabulary-list,zuerst,,,adverb,Sagen Sie bitte zuerst den Vornamen.,personal-info,021
+goethe-a1-fit1-vocabulary-list,Zug,der,"ü, -e",noun,Wir nehmen den Zug.,travel,021
+goethe-a1-fit1-vocabulary-list,zum Beispiel,,,phrase,z. B.,none,021
+goethe-a1-fit1-vocabulary-list,zumachen,,,verb,Mach die Tür zu!,none,021
+goethe-a1-fit1-vocabulary-list,zusammen,,,adverb,Wir machen zusammen Hausaufgaben.,school,021
+goethe-a1-fit1-vocabulary-list,aber,,,other,"Das ist schön, aber leider zu teuer.",none,026
+goethe-a1-fit1-vocabulary-list,an + Dativ,,,preposition,"am Morgen, am Dienstag",time-dates,026
+goethe-a1-fit1-vocabulary-list,an + Dativ / Akkusativ,,,preposition,"Ferien am Meer, an den See fahren",vacation,026
+goethe-a1-fit1-vocabulary-list,auf + Dativ,,,preposition,"auf dem Marktplatz, auf dem Tisch",city-places,026
+goethe-a1-fit1-vocabulary-list,aus + Dativ,,,preposition,"aus Deutschland, aus der Schule",personal-info,026
+goethe-a1-fit1-vocabulary-list,bei + Dativ,,,preposition,"bei Familie Bayer, bei Siemens",personal-info,026
+goethe-a1-fit1-vocabulary-list,bis + Akkusativ,,,preposition,"bis bald, bis morgen",time-dates,026
+goethe-a1-fit1-vocabulary-list,dann,,,adverb,"Ich muss noch telefonieren, dann gehen wir.",none,026
+goethe-a1-fit1-vocabulary-list,deshalb,,,adverb,"Ich muss lernen, deshalb komme ich nicht mit.",none,026
+goethe-a1-fit1-vocabulary-list,für + Akkusativ,,,preposition,"für meinen Freund, für dich",none,026
+goethe-a1-fit1-vocabulary-list,in + Dativ,,,preposition,"im Sommer, in den Ferien, im Mai",time-dates,026
+goethe-a1-fit1-vocabulary-list,in + Dativ / Akkusativ,,,preposition,"im Park spielen, in die Stadt gehen",city-places,026
+goethe-a1-fit1-vocabulary-list,kein,,,other,Ich habe keine Ahnung.,none,026
+goethe-a1-fit1-vocabulary-list,mit + Dativ,,,preposition,mit dem Auto,travel,026
+goethe-a1-fit1-vocabulary-list,nach + Dativ,,,preposition,nach dem Essen,time-dates,026
+goethe-a1-fit1-vocabulary-list,nicht,,,other,Ich verstehe dich nicht.,none,026
+goethe-a1-fit1-vocabulary-list,oder,,,other,Möchtest du Tee oder Kaffee?,none,026
+goethe-a1-fit1-vocabulary-list,ohne + Akkusativ,,,preposition,"ohne Hilfe, ohne dich",none,026
+goethe-a1-fit1-vocabulary-list,um + Akkusativ,,,preposition,"um halb sieben, um 18.30 Uhr",time-dates,026
+goethe-a1-fit1-vocabulary-list,und,,,other,Ich möchte eine Cola und Brot.,none,026
+goethe-a1-fit1-vocabulary-list,von … bis,,,preposition,von fünf bis sechs Uhr,time-dates,026
+goethe-a1-fit1-vocabulary-list,von … nach + Dativ,,,preposition,von Hamburg nach Berlin,travel,026
+goethe-a1-fit1-vocabulary-list,vor + Dativ,,,preposition,vor dem Konzert,time-dates,026
+goethe-a1-fit1-vocabulary-list,zu + Akkusativ,,,preposition,"zur Schule, zu meinem Freund gehen",city-places,026
+goethe-a1-fit1-vocabulary-list,zu + Dativ,,,preposition,er kommt zum Frühstück,time-dates,026
