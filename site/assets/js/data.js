@@ -17,14 +17,19 @@ window.LT = (function () {
     name: "Lingotran Engine",
     kicker: "Extraction Knowledge Base",
     purpose: "A scalable workflow for extracting structured linguistic data from scanned " +
-      "language-learning PDFs — turning textbook content into clean, faithful, structured " +
-      "material for study tools.",
+      "language-learning PDFs and authorized websites — turning textbook and exam content " +
+      "into clean, faithful, structured material for study tools.",
     goal: "Zero data loss",
     method: "Claude-vision transcription of 300-DPI page scans (no text layer), verified by an " +
-      "adversarial QA pass and repaired until faithful.",
+      "adversarial QA pass and repaired until faithful — plus an adapter-driven extractor " +
+      "for authorized websites.",
     languages: [
       { name: "French", code: "FR", slug: "french", status: "active", href: "french/", books: 2, spreads: 287 },
-      { name: "German", code: "DE", slug: "german", status: "planned" },
+      {
+        name: "German", code: "DE", slug: "german", status: "active",
+        href: REPO_URL + "/tree/main/german/extracted",
+        meta: "7 PDFs · 302 pages · 113 web pages"
+      },
       { name: "Japanese", code: "JA", slug: "japanese", status: "planned" },
       { name: "Portuguese", code: "PT", slug: "portuguese", status: "planned" },
       { name: "Romanian", code: "RO", slug: "romanian", status: "planned" },
@@ -35,10 +40,10 @@ window.LT = (function () {
 
   /* ---- Global metrics (hub) — from manifest.tsv / MANIFEST.md ---------- */
   const metrics = [
-    { num: "2",   lab: "Document sets",   sub: "French A1/A2 workbooks" },
-    { num: "287", lab: "Page spreads",    sub: "300-DPI two-page scans" },
-    { num: "102", lab: "Transcribed",     sub: "36% of all spreads", cls: "" },
-    { num: "60",  lab: "QA-verified",     sub: "21% zero-loss verified", cls: "green" }
+    { num: "9",   lab: "Document sets",   sub: "2 French workbooks · 7 German exam PDFs" },
+    { num: "589", lab: "Pages",           sub: "287 FR spreads · 302 DE pages" },
+    { num: "404", lab: "Transcribed",     sub: "69% of all pages", cls: "" },
+    { num: "362", lab: "QA-verified",     sub: "61% zero-loss verified", cls: "green" }
   ];
 
   /* ---- The extraction workflow ---------------------------------------- */

@@ -279,7 +279,7 @@
         var card = el(active ? "a" : "div", attrs, [
           el("div", { class: "lang-badge" + (active ? "" : " soon"), text: l.code }),
           el("h3", { text: l.name }),
-          el("div", { class: "meta", text: active ? (l.books + " books · " + l.spreads + " spreads") : "Planned" }),
+          el("div", { class: "meta", text: active ? (l.meta || (l.books + " books · " + l.spreads + " spreads")) : "Planned" }),
           el("div", { class: "foot" }, [
             active ? el("span", { class: "badge ok" }, [el("span", { class: "d" }), "active"])
                    : el("span", { class: "badge idle" }, [el("span", { class: "d" }), "planned"]),
