@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/c1/schreiben",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/c1/schreiben",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--c1--schreiben",
+    "sourceType": "web",
+    "title": "TELC German C1 Schreiben (Writing) Practice Overview",
+    "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German C1 schreiben (writing) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "C1",
+    "section": "schreiben",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German C1 schreiben (writing) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German C1 Schreiben (Writing) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German C1 schreiben (writing) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/c1/schreiben",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=c1&section=schreiben",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German C1 Schreiben (Writing) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German C1 Schreiben (Writing) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German C1 schreiben (writing) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=c1&section=schreiben",
+      "sentry-trace": "8f807d94b7fec9a58deee76b1dad244f-af264755ead7bbf2-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=8f807d94b7fec9a58deee76b1dad244f,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.4781718152425811,sentry-sample_rate=0.2"
+    },
+    "wordCount": 79,
+    "fetchedAt": "2026-07-21T08:29:41.078Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The official telc Deutsch C1 Schriftlicher Ausdruck takes 70 minutes and has 48 points. You write one coherent text, usually an Erörterung, Stellungnahme, or similar argumentative task."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Schriftlicher Ausdruck: Text schreiben"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Write one extended C1-level text in response to the prompt"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Develop an Erörterung, Stellungnahme, or similar structured response"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 3,
+      "text": "Teil 1 - Schriftlicher Ausdruck: Text schreiben"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Goal: Schriftlicher Ausdruck: Text schreiben"
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/c1",
+        "text": "C1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/c1/schreiben/teil1",
+        "text": "Teil 1 - Schriftlicher Ausdruck: Text schreibenGoal: Schriftlicher Ausdruck: Text schreiben● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 4,
+      "paragraphs": 5,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 4,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

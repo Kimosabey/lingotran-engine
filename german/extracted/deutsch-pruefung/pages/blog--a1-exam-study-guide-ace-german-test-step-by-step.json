@@ -1,0 +1,886 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--a1-exam-study-guide-ace-german-test-step-by-step",
+    "sourceType": "web",
+    "title": "A1 exam study guide: ace your German test step by step",
+    "description": "Prepare for your A1 German exam with a proven 90-day study plan. Learn listening, reading, writing, and speaking strategies to pass with confidence.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Prepare for your A1 German exam with a proven 90-day study plan. Learn listening, reading, writing, and speaking strategies to pass with confidence.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Exam Guides",
+      "article:published_time": "2026-04-06T07:00:33.464Z",
+      "article:tag": "A1 language practice",
+      "og:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775459109533_image.jpeg",
+      "og:title": "A1 exam study guide: ace your German test step by step",
+      "og:description": "Prepare for your A1 German exam with a proven 90-day study plan. Learn listening, reading, writing, and speaking strategies to pass with confidence.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "A1 exam study guide: ace your German test step by step",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "A1 exam study guide: ace your German test step by step",
+      "twitter:description": "Prepare for your A1 German exam with a proven 90-day study plan. Learn listening, reading, writing, and speaking strategies to pass with confidence.",
+      "twitter:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775459109533_image.jpeg",
+      "sentry-trace": "6eeedc63a4d57596f93d7a6697be4d94-5e4b85b10113a5d5-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=6eeedc63a4d57596f93d7a6697be4d94,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2Fblog%2F%5Bslug%5D,sentry-sampled=true,sentry-sample_rand=0.131923116406526,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1998,
+    "fetchedAt": "2026-07-21T08:28:22.603Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "quote",
+      "order": 0,
+      "text": "TL;DR: A phased 90-day study plan improves chances of passing the A1 German exam. Focus on listening and reading by practicing with varied audio and texts emphasizing keywords. Mock tests and mistake analysis are crucial for identifying weak areas and building exam confidence."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Starting your A1 German exam prep without a clear plan is one of the most common mistakes beginners make. You end up studying randomly, losing track of what you know, and feeling overwhelmed as the test date approaches. The good news? A phased study approach can dramatically increase your chances of passing. This guide gives you a practical, step-by-step roadmap covering how to structure your study time, master listening and reading, handle writing and speaking tasks, and use mock tests to sharpen your performance before exam day."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "id": "n4",
+      "type": "list",
+      "order": 3,
+      "ordered": false,
+      "items": [
+        {
+          "text": "How to structure your A1 German exam study plan"
+        },
+        {
+          "text": "Essential listening and reading strategies for A1 success"
+        },
+        {
+          "text": "Simple writing and speaking techniques for high marks"
+        },
+        {
+          "text": "Mock tests, common mistakes, and how to avoid them"
+        },
+        {
+          "text": "Our perspective: The real secret to mastering the A1 exam"
+        },
+        {
+          "text": "Build your success with the ultimate A1 prep resources"
+        },
+        {
+          "text": "Frequently asked questions"
+        }
+      ]
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 2,
+      "text": "Key Takeaways"
+    },
+    {
+      "id": "n6",
+      "type": "table",
+      "order": 5,
+      "headers": [
+        [
+          "Point",
+          "Details"
+        ]
+      ],
+      "rows": [
+        [
+          "90-day plan works",
+          "A phased three-month plan is proven to boost A1 exam pass rates for beginners."
+        ],
+        [
+          "Mock tests matter",
+          "Practicing with realistic mock exams is essential for spotting mistakes and building test-day confidence."
+        ],
+        [
+          "Avoid common errors",
+          "Watch out for word order, modal verbs, and tricky vocabulary to maximize your score."
+        ],
+        [
+          "Consistent routine wins",
+          "Daily targeted study, especially using listening and speaking resources, leads to best results."
+        ]
+      ]
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 2,
+      "text": "How to structure your A1 German exam study plan"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "A solid structure is the foundation of any successful exam prep. Without it, you waste time on things you already know and ignore the areas where you actually need help. The most effective approach is a 90-day phased plan, and phased study plans that break preparation into vocabulary and grammar, focused skills, and intensive mock testing are proven to raise A1 pass rates significantly."
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Here is how to divide your 90 days:"
+    },
+    {
+      "id": "n10",
+      "type": "list",
+      "order": 9,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Days 1 to 30: Vocabulary and grammar foundation. Focus on core A1 vocabulary (around 700 words), basic sentence structures, verb conjugation, and articles. Use flashcards, simple dialogues, and beginner exercises daily."
+        },
+        {
+          "text": "Days 31 to 60: Focused skill building. Shift attention to the four exam sections: Lesen (reading), Hören (listening), Schreiben (writing), and Sprechen (speaking). Practice each section at least twice per week."
+        },
+        {
+          "text": "Days 61 to 90: Mock tests and targeted review. Take full-length practice exams, review every mistake, and revisit weak areas. This is where your preparation becomes exam-ready."
+        }
+      ]
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "A sample daily schedule might look like this:"
+    },
+    {
+      "id": "n12",
+      "type": "table",
+      "order": 11,
+      "headers": [
+        [
+          "Time block",
+          "Activity"
+        ]
+      ],
+      "rows": [
+        [
+          "20 minutes",
+          "Vocabulary review (flashcards or app)"
+        ],
+        [
+          "20 minutes",
+          "Grammar exercise or worksheet"
+        ],
+        [
+          "20 minutes",
+          "Listening or reading practice"
+        ],
+        [
+          "10 minutes",
+          "Speaking or writing drill"
+        ]
+      ]
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Weekly, rotate your focus so you touch all four skills. Schedule one longer session on weekends for a mini mock test or timed reading exercise. Consistency matters more than intensity. Studying 70 minutes every day beats a five-hour session once a week."
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Pro Tip: Set specific calendar reminders for each skill block. Treat them like appointments you cannot cancel. This simple habit keeps you accountable and prevents last-minute cramming."
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "For a more detailed breakdown, the Goethe A1 study plan on Deutsch-Pruefung.de walks you through every phase with clear milestones."
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 2,
+      "text": "Essential listening and reading strategies for A1 success"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "With your study calendar in place, let’s focus on specific strategies for high-yield sections like listening and reading. These two sections trip up many beginners, not because the content is too hard, but because learners don’t practice the right way."
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "For listening (Hören): Audio clips in the A1 exam are typically played once or twice. You won’t get a third chance. The key is to train your ear before exam day by exposing yourself to different speakers, accents, and speeds. As the A1 listening practice tips on our platform explain, focusing on keywords rather than trying to understand every word is the most effective strategy."
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Here are practical listening habits to build:"
+    },
+    {
+      "id": "n20",
+      "type": "list",
+      "order": 19,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Listen to short German audio clips daily, even just 5 to 10 minutes."
+        },
+        {
+          "text": "Before each clip, read the question so you know what to listen for."
+        },
+        {
+          "text": "Focus on numbers, names, places, and time expressions since these appear often."
+        },
+        {
+          "text": "After listening, check your answers and note which words you missed."
+        },
+        {
+          "text": "Practice with varied speakers to prepare for different accents."
+        }
+      ]
+    },
+    {
+      "id": "n21",
+      "type": "quote",
+      "order": 20,
+      "text": "“Active listening means targeting keywords and anticipating what kind of information the question asks for. Don’t try to translate everything. Train yourself to catch the signal words.” This approach, highlighted in our listening strategies guide, separates prepared candidates from those who guess."
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "For reading (Lesen): The A1 reading section uses short texts like signs, notices, emails, and simple messages. You don’t need to understand every word. Instead, scan for the main idea and look for context clues."
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Common traps include overthinking a sentence when a simpler interpretation is correct, and ignoring keywords that signal the answer. For instance, words like nicht (not) or nur (only) completely change a sentence’s meaning. Train yourself to spot them."
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "A good reading practice routine: read a short German text, guess the meaning from context, then check with a dictionary. Reflect on what clues helped you, and repeat. This builds the instinct you need on exam day."
+    },
+    {
+      "id": "n25",
+      "type": "heading",
+      "order": 24,
+      "level": 2,
+      "text": "Simple writing and speaking techniques for high marks"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Beyond comprehension, many struggle most with producing German. Let’s demystify the writing and speaking challenges so you can approach both sections with confidence."
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Writing (Schreiben): The A1 writing task usually involves filling out a form or writing a short message of 30 to 40 words. As outlined in our writing practice tips, simple sentences and form filling are the core skills you need to master."
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Follow these steps for clean, accurate A1 writing:"
+    },
+    {
+      "id": "n29",
+      "type": "list",
+      "order": 28,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Read the prompt carefully. Identify exactly what information you need to include."
+        },
+        {
+          "text": "Use model sentence structures. Stick to Subject + Verb + Object. For example: Ich heiße Anna. Ich komme aus Berlin."
+        },
+        {
+          "text": "Fill forms accurately. Practice with sample forms: name, address, date of birth, phone number."
+        },
+        {
+          "text": "Avoid complex sentences. Subordinate clauses change word order and are easy to get wrong at A1 level."
+        },
+        {
+          "text": "Check for modal verb usage. Words like können and möchten follow specific patterns. Review them before the exam."
+        }
+      ]
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Speaking (Sprechen): The speaking section involves a group interaction or role-play. You might introduce yourself, ask for information, or respond to a simple scenario."
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "Watch out for false friends. For example, Gift in German means poison, not a present. These small errors can confuse your examiner. Prepare a short self-introduction and practice asking polite clarification questions like Können Sie das bitte wiederholen? (Can you please repeat that?)."
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 31,
+      "text": "Pro Tip: Record yourself speaking for 2 minutes on a simple topic like your daily routine. Play it back and listen for hesitation, word order errors, or mispronunciation. A study partner can also give you real-time feedback that textbooks cannot."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 32,
+      "level": 2,
+      "text": "Mock tests, common mistakes, and how to avoid them"
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Once you’re producing German, it’s time to test your readiness and perfect exam skills using mocks and mistake analysis. This phase is where most learners see the biggest jump in confidence and performance."
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 34,
+      "text": "Mock tests and targeted review are directly linked to higher pass rates, and remember: the A1 pass threshold is 60%, meaning you need to get at least six out of ten points across all sections. Knowing this helps you prioritize where to focus your energy."
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 35,
+      "text": "Why mock tests work: They simulate real exam pressure, force you to manage time, and expose weak spots you didn’t know you had. Passive review like re-reading notes or skimming vocabulary lists gives you a false sense of readiness. Active testing reveals the truth."
+    },
+    {
+      "id": "n37",
+      "type": "table",
+      "order": 36,
+      "headers": [
+        [
+          "Study method",
+          "Benefit",
+          "Limitation"
+        ]
+      ],
+      "rows": [
+        [
+          "Mock tests (active)",
+          "Reveals real gaps, builds exam stamina",
+          "Requires more effort and focus"
+        ],
+        [
+          "Re-reading notes (passive)",
+          "Feels productive, low effort",
+          "Doesn’t show what you actually know"
+        ],
+        [
+          "Flashcard review (active)",
+          "Reinforces vocabulary quickly",
+          "Doesn’t simulate exam conditions"
+        ],
+        [
+          "Timed writing drills (active)",
+          "Builds speed and accuracy",
+          "Limited to one skill at a time"
+        ]
+      ]
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 37,
+      "text": "After each mock test, go through every wrong answer. Ask yourself: was it a vocabulary gap, a grammar error, or a misread question? This analysis turns mistakes into a targeted study list."
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 38,
+      "text": "The most common exam mistakes at A1 level include:"
+    },
+    {
+      "id": "n40",
+      "type": "list",
+      "order": 39,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Wrong word order: German sentence structure differs from English. Verb placement changes in questions and subordinate clauses."
+        },
+        {
+          "text": "Modal verb errors: Forgetting that the main verb goes to the end when using können, müssen, or wollen."
+        },
+        {
+          "text": "False friends: Words that look like English but mean something different."
+        },
+        {
+          "text": "Missing articles: Forgetting der, die, or das before nouns."
+        },
+        {
+          "text": "Skipping the question: Writing or speaking off-topic because the prompt wasn’t read carefully."
+        }
+      ]
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 40,
+      "text": "Use A1 mock test resources to practice under realistic conditions and track your progress over time."
+    },
+    {
+      "id": "n42",
+      "type": "heading",
+      "order": 41,
+      "level": 2,
+      "text": "Our perspective: The real secret to mastering the A1 exam"
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 42,
+      "text": "Here is something most study guides won’t tell you: the learners who pass the A1 exam are not always the ones who study the most hours. They are the ones who study the most honestly."
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "What does that mean? It means reviewing your mistakes without excuses. It means taking a mock test and sitting with a score you don’t like, then figuring out exactly why you got those questions wrong. It means adjusting your routine when something isn’t working instead of pushing through out of habit."
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Quality beats quantity every time. Thirty focused minutes of mistake analysis will do more for your score than two hours of passive re-reading. German grammar rewards consistency and correction, not cramming. The learners who treat every error as useful data, not as a failure, are the ones who walk into exam day feeling genuinely ready. That mindset shift is the real difference maker."
+    },
+    {
+      "id": "n46",
+      "type": "heading",
+      "order": 45,
+      "level": 2,
+      "text": "Build your success with the ultimate A1 prep resources"
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Now that you have a practical plan and expert advice, here’s where you can put your strategy into action. Deutsch-Pruefung.de brings everything you need into one place."
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Start with the complete A1 prep guide to get a full overview of exam structure, section breakdowns, and targeted exercises. When you’re ready to test yourself under real conditions, use our full-length A1 mock tests to measure your progress and identify the gaps that need attention. For audio exercises, writing evaluation, grammar lessons, and more, explore all exam resources on the platform. Start today so your results are ready before your test date."
+    },
+    {
+      "id": "n49",
+      "type": "heading",
+      "order": 48,
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "n50",
+      "type": "heading",
+      "order": 49,
+      "level": 3,
+      "text": "How long does it take to prepare for the A1 German exam?"
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Most beginners can reach A1 exam readiness in about 3 months by following a structured daily plan that covers all four exam skills progressively."
+    },
+    {
+      "id": "n52",
+      "type": "heading",
+      "order": 51,
+      "level": 3,
+      "text": "What is the passing score for the A1 exam?"
+    },
+    {
+      "id": "n53",
+      "type": "paragraph",
+      "order": 52,
+      "text": "You need at least 60% to pass the A1 German exam, which means consistent performance across reading, listening, writing, and speaking sections."
+    },
+    {
+      "id": "n54",
+      "type": "heading",
+      "order": 53,
+      "level": 3,
+      "text": "Which common mistakes cause the most lost points on the A1 test?"
+    },
+    {
+      "id": "n55",
+      "type": "paragraph",
+      "order": 54,
+      "text": "Word order errors, modal verb mistakes, and confusing false friends are the most frequent issues that cost candidates points on the A1 exam."
+    },
+    {
+      "id": "n56",
+      "type": "heading",
+      "order": 55,
+      "level": 3,
+      "text": "Are mock tests really necessary for A1 exam prep?"
+    },
+    {
+      "id": "n57",
+      "type": "paragraph",
+      "order": 56,
+      "text": "Yes. Mock tests are essential because they replicate real exam pressure and show you exactly where your preparation needs more work before the actual test day."
+    },
+    {
+      "id": "n58",
+      "type": "heading",
+      "order": 57,
+      "level": 2,
+      "text": "Recommended"
+    },
+    {
+      "id": "n59",
+      "type": "list",
+      "order": 58,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Goethe A1 German Exam Guide 2026: Complete Preparation Strategy"
+        },
+        {
+          "text": "TELC B1 German Exam Guide 2026: Complete Preparation Strategy"
+        },
+        {
+          "text": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy"
+        },
+        {
+          "text": "Goethe A1 German Exam - Complete Preparation Guide"
+        }
+      ]
+    },
+    {
+      "id": "n60",
+      "type": "heading",
+      "order": 59,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n61",
+      "type": "heading",
+      "order": 60,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n62",
+      "type": "paragraph",
+      "order": 61,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n63",
+      "type": "heading",
+      "order": 62,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n64",
+      "type": "paragraph",
+      "order": 63,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n65",
+      "type": "heading",
+      "order": 64,
+      "level": 3,
+      "text": "What is a language certificate: German exams A1 to B2"
+    },
+    {
+      "id": "n66",
+      "type": "paragraph",
+      "order": 65,
+      "text": "What is a language certificate: German exams A1 to B2 ! Woman filling out language certificate form at cluttered kitchen table If you've started exploring German language exam..."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775459109533_image.jpeg",
+        "alt": "Young woman studying German with flashcards at kitchen table"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775459071754_Man-practicing-German-speaking-in-living-room.jpeg",
+        "alt": "Man practicing German speaking in living room"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291046269_deutsch-pruefung.jpg",
+        "alt": "https://deutsch-pruefung.de"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/blog/goethe-a1-ultimate-guide",
+        "text": "phased study approach",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step#how-to-structure-your-a1-german-exam-study-plan",
+        "text": "How to structure your A1 German exam study plan",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step#essential-listening-and-reading-strategies-for-a1-success",
+        "text": "Essential listening and reading strategies for A1 success",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step#simple-writing-and-speaking-techniques-for-high-marks",
+        "text": "Simple writing and speaking techniques for high marks",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step#mock-tests%2C-common-mistakes%2C-and-how-to-avoid-them",
+        "text": "Mock tests, common mistakes, and how to avoid them",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step#our-perspective%3A-the-real-secret-to-mastering-the-a1-exam",
+        "text": "Our perspective: The real secret to mastering the A1 exam",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step#build-your-success-with-the-ultimate-a1-prep-resources",
+        "text": "Build your success with the ultimate A1 prep resources",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step#frequently-asked-questions",
+        "text": "Frequently asked questions",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk13",
+        "type": "link",
+        "order": 9,
+        "href": "http://deutsch-pruefung.de/",
+        "text": "Deutsch-Pruefung.de",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk14",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren",
+        "text": "A1 listening practice tips",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk15",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-listening-guide",
+        "text": "listening strategies",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk16",
+        "type": "link",
+        "order": 12,
+        "href": "https://deutsch-pruefung.de/goethe/a1/schreiben",
+        "text": "writing practice tips",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk17",
+        "type": "link",
+        "order": 13,
+        "href": "https://deutsch-pruefung.de/mock-test",
+        "text": "A1 mock test resources",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk18",
+        "type": "link",
+        "order": 14,
+        "href": "http://deutsch-pruefung.de/",
+        "text": "Deutsch-Pruefung.de",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk19",
+        "type": "link",
+        "order": 15,
+        "href": "https://deutsch-pruefung.de/goethe/a1",
+        "text": "complete A1 prep guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk20",
+        "type": "link",
+        "order": 16,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "all exam resources",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk21",
+        "type": "link",
+        "order": 17,
+        "href": "https://deutsch-pruefung.de/blog/goethe-a1-ultimate-guide",
+        "text": "Goethe A1 German Exam Guide 2026: Complete Preparation Strategy",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk22",
+        "type": "link",
+        "order": 18,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-ultimate-guide",
+        "text": "TELC B1 German Exam Guide 2026: Complete Preparation Strategy",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk23",
+        "type": "link",
+        "order": 19,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+        "text": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk24",
+        "type": "link",
+        "order": 20,
+        "href": "https://deutsch-pruefung.de/goethe/a1",
+        "text": "Goethe A1 German Exam - Complete Preparation Guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk25",
+        "type": "link",
+        "order": 21,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk26",
+        "type": "link",
+        "order": 22,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk27",
+        "type": "link",
+        "order": 23,
+        "href": "https://deutsch-pruefung.de/blog/what-is-language-certificate-german-exams-a1-b2",
+        "text": "Exam GuidesWhat is a language certificate: German exams A1 to B2What is a language certificate: German exams A1 to B2 ! Woman filling out language certificate form at cluttered kitchen table If you've started exploring German language exam...12 min readMar 23",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 18,
+      "paragraphs": 37,
+      "lists": 6,
+      "tables": 3,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 24,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

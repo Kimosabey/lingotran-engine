@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/dtz/hoeren",
+    "canonicalUrl": "https://deutsch-pruefung.de/dtz/hoeren",
+    "site": "deutsch-pruefung.de",
+    "slug": "dtz--hoeren",
+    "sourceType": "web",
+    "title": "DTZ Hören (Listening) Practice | Deutsch-Test für Zuwanderer",
+    "description": "Practice DTZ Hören (Listening) section with exam-style questions. 4 parts covering telephone announcements, media information, conversations, and opinion matching.",
+    "lang": "en",
+    "exam": "dtz",
+    "level": "unknown",
+    "section": "hoeren",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Practice DTZ Hören (Listening) section with exam-style questions. 4 parts covering telephone announcements, media information, conversations, and opinion matching.",
+      "author": "German Exam Practice",
+      "og:title": "DTZ Hören (Listening) Practice | Deutsch-Test für Zuwanderer",
+      "og:description": "Practice DTZ Hören (Listening) section with exam-style questions. 4 parts covering telephone announcements, media information, conversations, and opinion matching.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "a79cc8067cba3d74a7d6f2f93cefafcf-c5ca5e676157ab12-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=a79cc8067cba3d74a7d6f2f93cefafcf,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.44794343858208263,sentry-sample_rate=0.2"
+    },
+    "wordCount": 197,
+    "fetchedAt": "2026-07-21T08:27:29.730Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The DTZ Hören (Listening) section takes 25 minutes and tests your ability to understand spoken German in everyday situations. You will hear telephone announcements, media information, conversations, and different opinions on topics."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Ansagen am Telefon, öffentliche Durchsagen verstehen"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Listen to telephone announcements and public messages"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Understand key information from everyday audio"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Kurze Informationen in den Medien verstehen"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Listen to short information from media (radio, etc.)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Identify main points and specific details"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Alltägliche Gespräche verstehen"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Listen to everyday conversations between people"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Understand context, opinions, and details"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 4,
+      "text": "Teil 4: Unterschiedliche Meinungen zu einem Thema verstehen"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "• Listen to different people expressing opinions"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "• Match statements to the correct speakers"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Select a Teil to begin"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "Teil 1 - Ansagen am Telefon, öffentliche Durchsagen verstehen"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Goal: Ansagen am Telefon, öffentliche Durchsagen verstehen"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 3,
+      "text": "Teil 2 - Kurze Informationen in den Medien verstehen"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Goal: Kurze Informationen in den Medien verstehen"
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 3,
+      "text": "Teil 3 - Alltägliche Gespräche verstehen"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Goal: Alltägliche Gespräche verstehen"
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 22,
+      "level": 3,
+      "text": "Teil 4 - Unterschiedliche Meinungen zu einem Thema verstehen"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Goal: Unterschiedliche Meinungen zu einem Thema verstehen"
+    },
+    {
+      "id": "n25",
+      "type": "heading",
+      "order": 24,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Answers to popular questions about DTZ Hören (Listening) practice"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/dtz/hoeren/teil1",
+        "text": "Teil 1 - Ansagen am Telefon, öffentliche Durchsagen verstehenGoal: Ansagen am Telefon, öffentliche Durchsagen verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart4 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/dtz/hoeren/teil2",
+        "text": "Teil 2 - Kurze Informationen in den Medien verstehenGoal: Kurze Informationen in den Medien verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart5 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/dtz/hoeren/teil3",
+        "text": "Teil 3 - Alltägliche Gespräche verstehenGoal: Alltägliche Gespräche verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart8 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/dtz/hoeren/teil4",
+        "text": "Teil 4 - Unterschiedliche Meinungen zu einem Thema verstehenGoal: Unterschiedliche Meinungen zu einem Thema verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart3 questions to practiseCompletion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 10,
+      "paragraphs": 15,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/a1/schreiben",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/a1/schreiben",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--a1--schreiben",
+    "sourceType": "web",
+    "title": "TELC German A1 Schreiben (Writing) Practice Overview",
+    "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A1 schreiben (writing) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "A1",
+    "section": "schreiben",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A1 schreiben (writing) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German A1 Schreiben (Writing) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A1 schreiben (writing) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/a1/schreiben",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20A1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=a1&section=schreiben",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German A1 Schreiben (Writing) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German A1 Schreiben (Writing) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A1 schreiben (writing) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20A1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=a1&section=schreiben",
+      "sentry-trace": "bf0f45bd306f9b2e9549cc34de6c34f6-799215dc1839fbcc-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=bf0f45bd306f9b2e9549cc34de6c34f6,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.37925185738182554,sentry-sample_rate=0.2"
+    },
+    "wordCount": 107,
+    "fetchedAt": "2026-07-21T08:29:10.876Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "This section tests your ability to schreiben (write) in German for everyday situations. The Schreiben (writing) section takes 15 minutes and has two distinct tasks."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Form-Filling Exercise"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Complete a form using given personal details and scenario prompts"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Transfer information accurately from text to form fields ✏️"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Short Informal Message"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Write a brief informal/formal message (letter, note, or email) ✉️"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Use simple German sentences and basic vocabulary 📝"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 3,
+      "text": "Teil 1 - Form-Filling Exercise"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Goal: Form-Filling Exercise"
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 3,
+      "text": "Teil 2 - Short Informal Message"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Goal: Short Informal Message"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/a1",
+        "text": "A1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/a1/schreiben/teil1",
+        "text": "Teil 1 - Form-Filling ExerciseGoal: Form-Filling Exercise● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/a1/schreiben/teil2",
+        "text": "Teil 2 - Short Informal MessageGoal: Short Informal Message● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 6,
+      "paragraphs": 8,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 5,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

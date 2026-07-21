@@ -1,0 +1,494 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/goethe",
+    "canonicalUrl": "https://deutsch-pruefung.de/goethe",
+    "site": "deutsch-pruefung.de",
+    "slug": "goethe",
+    "sourceType": "web",
+    "title": "Goethe German Exam Preparation - Practice Tests & Study Materials",
+    "description": "Comprehensive Goethe German exam preparation with practice tests, study materials, and expert guidance for A1, A2, B1, and B2 levels. Master Hören, Lesen, Schreiben, and Sprechen skills.",
+    "lang": "en",
+    "exam": "goethe",
+    "level": "unknown",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Comprehensive Goethe German exam preparation with practice tests, study materials, and expert guidance for A1, A2, B1, and B2 levels. Master Hören, Lesen, Schreiben, and Sprechen skills.",
+      "author": "German Exam Practice",
+      "og:title": "Goethe German Exam Preparation - Practice Tests & Study Materials",
+      "og:description": "Comprehensive Goethe German exam preparation with practice tests, study materials, and expert guidance for A1, A2, B1, and B2 levels. Master Hören, Lesen, Schreiben, and Sprechen skills.",
+      "og:url": "https://deutsch-pruefung.de/goethe",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20German%20Exam&subtitle=Practice%20Tests%20%26%20Study%20Materials&type=goethe",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Goethe German Exam Practice",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "Goethe German Exam Preparation - Practice Tests & Study Materials",
+      "twitter:description": "Comprehensive Goethe German exam preparation with practice tests, study materials, and expert guidance for A1, A2, B1, and B2 levels. Master Hören, Lesen, Schreiben, and Sprechen skills.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20German%20Exam&subtitle=Practice%20Tests%20%26%20Study%20Materials&type=goethe",
+      "sentry-trace": "a9a4bb4b847440fd23d96e1c64824186-5f12ef0d536bdb29-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=a9a4bb4b847440fd23d96e1c64824186,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.47008040503030424,sentry-sample_rate=0.2"
+    },
+    "wordCount": 443,
+    "fetchedAt": "2026-07-21T08:29:44.096Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "image",
+      "order": 0,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fa1.webp&w=256&q=75",
+      "alt": "A1 level illustration"
+    },
+    {
+      "id": "n2",
+      "type": "heading",
+      "order": 1,
+      "level": 3,
+      "text": "Beginner"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "Basic phrases and everyday expressions"
+    },
+    {
+      "id": "n4",
+      "type": "image",
+      "order": 3,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fa2.webp&w=256&q=75",
+      "alt": "A2 level illustration"
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 3,
+      "text": "Elementary"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "Simple everyday situations and reading"
+    },
+    {
+      "id": "n7",
+      "type": "image",
+      "order": 6,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fb1.webp&w=256&q=75",
+      "alt": "B1 level illustration"
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 3,
+      "text": "Intermediate"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Familiar topics and writing tasks"
+    },
+    {
+      "id": "n10",
+      "type": "image",
+      "order": 9,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fb2.webp&w=256&q=75",
+      "alt": "B2 level illustration"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 3,
+      "text": "Upper Int."
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Complex topics and abstract ideas"
+    },
+    {
+      "id": "n13",
+      "type": "image",
+      "order": 12,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fb2.webp&w=256&q=75",
+      "alt": "C1 level illustration"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Advanced"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Nuanced arguments and demanding texts"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "Common European Framework of Reference (CEFR)"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 4,
+      "text": "Basic User"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Independent User"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 4,
+      "text": "Proficient User"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Exam guide"
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 2,
+      "text": "Goethe German Exam Preparation Guide"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Goethe-Zertifikat exams follow CEFR levels and test practical German through listening, reading, writing, and speaking. Use this guide to choose the right level for your visa, work, citizenship, university, or learning goal."
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 22,
+      "level": 3,
+      "text": "Official exam facts"
+    },
+    {
+      "id": "n24",
+      "type": "list",
+      "order": 23,
+      "ordered": false,
+      "items": [
+        {
+          "text": "A1 and A2 are adult German exams with listening, reading, writing, and speaking sections."
+        },
+        {
+          "text": "B1 and B2 are modular exams: listening, reading, writing, and speaking can be taken individually or in combination."
+        },
+        {
+          "text": "Goethe-Institut describes these exams as official, internationally recognized certificates conducted and assessed uniformly worldwide."
+        }
+      ]
+    },
+    {
+      "id": "n25",
+      "type": "heading",
+      "order": 24,
+      "level": 3,
+      "text": "Which exam fits your goal?"
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 4,
+      "text": "Spouse visa and family reunification"
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "A1 is the usual starting point for basic German proof. Goethe-Institut lists Goethe-Zertifikat A1: Start Deutsch 1 as proof for spouse reunification visa contexts."
+    },
+    {
+      "id": "n28",
+      "type": "heading",
+      "order": 27,
+      "level": 4,
+      "text": "Settlement permit and citizenship"
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "B1 is the important level for independent everyday German. Goethe-Institut lists Goethe-Zertifikat B1 as proof for settlement permit or naturalization."
+    },
+    {
+      "id": "n30",
+      "type": "heading",
+      "order": 29,
+      "level": 4,
+      "text": "Work, training, and medical preparation"
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "B1 helps with daily work and life. B2 is stronger for job applications, Ausbildung preparation, and advanced professional communication."
+    },
+    {
+      "id": "n32",
+      "type": "heading",
+      "order": 31,
+      "level": 4,
+      "text": "University study in Germany"
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 32,
+      "text": "Some universities accept Goethe B2, but many German-taught programs require C1/C2, DSH, TestDaF, telc Deutsch C1 Hochschule, or another listed certificate."
+    },
+    {
+      "id": "n34",
+      "type": "heading",
+      "order": 33,
+      "level": 3,
+      "text": "Which level should you practise?"
+    },
+    {
+      "id": "n35",
+      "type": "heading",
+      "order": 34,
+      "level": 4,
+      "text": "A1 - Beginner communication"
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 35,
+      "text": "Basic phrases, personal information, simple forms, signs, short notes, and slow everyday conversations."
+    },
+    {
+      "id": "n37",
+      "type": "heading",
+      "order": 36,
+      "level": 4,
+      "text": "A2 - Everyday situations"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 37,
+      "text": "Routine exchanges, short articles and emails, public information, everyday messages, and simple planning tasks."
+    },
+    {
+      "id": "n39",
+      "type": "heading",
+      "order": 38,
+      "level": 4,
+      "text": "B1 - Independent basics"
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 39,
+      "text": "Work, school, travel, leisure, opinions, short presentations, personal/formal writing, and practical German for authorities."
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 40,
+      "level": 4,
+      "text": "B2 - Upper-intermediate use"
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Complex texts, interviews, lectures, formal messages, written arguments, presentations, and discussions."
+    },
+    {
+      "id": "n43",
+      "type": "heading",
+      "order": 42,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Prepare for A1 if the requirement is basic German for spouse reunification. Always confirm the exact accepted certificate with the German embassy or consulate before booking."
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "B1 is the standard preparation target when an authority asks for independent German language skills for naturalization or settlement permit."
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Sometimes, but not always. Some programs accept Goethe B2, while many require C1/C2 or university-specific proofs such as DSH, TestDaF, or telc Deutsch C1 Hochschule."
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "No. Deutsch Pruefung is independent. The practice is designed to be realistic and close to exam format, with explanations, AI writing feedback, and speaking roleplay."
+    },
+    {
+      "id": "n49",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Last reviewed: May 2026. Requirements can change by country, authority, exam center, university, and course. Always verify the accepted certificate before booking an official exam."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fa1.webp&w=256&q=75",
+        "alt": "A1 level illustration"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fa2.webp&w=256&q=75",
+        "alt": "A2 level illustration"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fb1.webp&w=256&q=75",
+        "alt": "B1 level illustration"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fb2.webp&w=256&q=75",
+        "alt": "B2 level illustration"
+      },
+      {
+        "id": "img5",
+        "type": "image",
+        "order": 4,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-select-assets%2Fb2.webp&w=256&q=75",
+        "alt": "C1 level illustration"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe/a1",
+        "text": "A1 - Beginner communicationBasic phrases, personal information, simple forms, signs, short notes, and slow everyday conversations.Practise Goethe A1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/goethe/a2",
+        "text": "A2 - Everyday situationsRoutine exchanges, short articles and emails, public information, everyday messages, and simple planning tasks.Practise Goethe A2",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/b1",
+        "text": "B1 - Independent basicsWork, school, travel, leisure, opinions, short presentations, personal/formal writing, and practical German for authorities.Practise Goethe B1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/goethe/b2",
+        "text": "B2 - Upper-intermediate useComplex texts, interviews, lectures, formal messages, written arguments, presentations, and discussions.Practise Goethe B2",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 22,
+      "paragraphs": 21,
+      "lists": 1,
+      "tables": 0,
+      "images": 5,
+      "figures": 0,
+      "media": 0,
+      "links": 5,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

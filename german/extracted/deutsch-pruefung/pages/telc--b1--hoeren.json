@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/b1/hoeren",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/b1/hoeren",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--b1--hoeren",
+    "sourceType": "web",
+    "title": "TELC German B1 Hören (Listening) Practice Overview",
+    "description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German B1 hören (listening) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "B1",
+    "section": "hoeren",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German B1 hören (listening) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German B1 Hören (Listening) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German B1 hören (listening) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/b1/hoeren",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20B1%20H%C3%B6ren%20(Listening)&subtitle=Practice%20Overview&type=telc&level=b1&section=hoeren",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German B1 Hören (Listening) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German B1 Hören (Listening) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German B1 hören (listening) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20B1%20H%C3%B6ren%20(Listening)&subtitle=Practice%20Overview&type=telc&level=b1&section=hoeren",
+      "sentry-trace": "4e16e74345bb9488b4d9cd7ef1c1d201-a02c29484f8a5800-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=4e16e74345bb9488b4d9cd7ef1c1d201,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.46104028221180937,sentry-sample_rate=0.2"
+    },
+    "wordCount": 124,
+    "fetchedAt": "2026-07-21T08:29:22.963Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The TELC B1 Hörverstehen (Listening) module takes 30 minutes and consists of three parts. You will hear various workplace and everyday texts."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Globalverstehen (Global Understanding)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Listen to workplace conversations and situations"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Understand the main ideas and context"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Detailverstehen (Detailed Understanding)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Listen to longer workplace dialogues or announcements"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Identify specific details and information"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Selektives Verstehen (Selective Understanding)"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Listen to professional conversations or presentations"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Extract specific information selectively"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 3,
+      "text": "Teil 1 - Globalverstehen (Global Understanding)"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Goal: Globalverstehen (Global Understanding)"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 3,
+      "text": "Teil 2 - Detailverstehen (Detailed Understanding)"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Goal: Detailverstehen (Detailed Understanding)"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "Teil 3 - Selektives Verstehen (Selective Understanding)"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Goal: Selektives Verstehen (Selective Understanding)"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/b1",
+        "text": "B1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/b1/hoeren/teil1",
+        "text": "Teil 1 - Globalverstehen (Global Understanding)Goal: Globalverstehen (Global Understanding)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/b1/hoeren/teil2",
+        "text": "Teil 2 - Detailverstehen (Detailed Understanding)Goal: Detailverstehen (Detailed Understanding)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/b1/hoeren/teil3",
+        "text": "Teil 3 - Selektives Verstehen (Selective Understanding)Goal: Selektives Verstehen (Selective Understanding)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 8,
+      "paragraphs": 11,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

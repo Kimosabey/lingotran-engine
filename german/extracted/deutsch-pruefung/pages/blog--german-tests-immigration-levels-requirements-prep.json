@@ -1,0 +1,937 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--german-tests-immigration-levels-requirements-prep",
+    "sourceType": "web",
+    "title": "German tests for immigration: levels, requirements, prep",
+    "description": "Find out which German language exam you need for residency or citizenship, what each level requires, and how to prepare effectively for your immigration application.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Find out which German language exam you need for residency or citizenship, what each level requires, and how to prepare effectively for your immigration application.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Study Tips",
+      "article:published_time": "2026-04-03T11:32:18.320Z",
+      "article:tag": "immigration language test Germany",
+      "og:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216171794_Man-studying-German-for-immigration-at-home.jpeg",
+      "og:title": "German tests for immigration: levels, requirements, prep",
+      "og:description": "Find out which German language exam you need for residency or citizenship, what each level requires, and how to prepare effectively for your immigration application.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "German tests for immigration: levels, requirements, prep",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "German tests for immigration: levels, requirements, prep",
+      "twitter:description": "Find out which German language exam you need for residency or citizenship, what each level requires, and how to prepare effectively for your immigration application.",
+      "twitter:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216171794_Man-studying-German-for-immigration-at-home.jpeg",
+      "sentry-trace": "5093b5320c3d0ec0346c2ed18565297a-f50baf323cc3ab1b-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=5093b5320c3d0ec0346c2ed18565297a,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.49364612220739845,sentry-sample_rate=0.2"
+    },
+    "wordCount": 2053,
+    "fetchedAt": "2026-07-21T08:28:27.118Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "quote",
+      "order": 0,
+      "text": "TL;DR: B1 level is the standard requirement for permanent residency and citizenship in Germany. Three main exams—DTZ, TELC, and Goethe—are recognized for immigration purposes. Effective preparation involves official materials, timed practice, and consistent exposure to real German interactions."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Not every immigrant applying for residency in Germany needs the same language exam. Requirements shift depending on your visa type, residency path, and integration status. Some applicants need only A1; others must reach B1 or higher before their application moves forward. Getting this wrong can delay your residency by months. This guide walks you through every level, every major exam format, and the exact preparation steps that give you the best shot at passing on your first attempt. Whether you’re applying for a standard residence permit, permanent residency, or citizenship, you’ll leave with a clear action plan."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "id": "n4",
+      "type": "list",
+      "order": 3,
+      "ordered": false,
+      "items": [
+        {
+          "text": "German language test levels explained: A1, A2, B1, and B2"
+        },
+        {
+          "text": "Exam types for German immigration: DTZ, TELC, and Goethe"
+        },
+        {
+          "text": "Choosing the right German test for your residency or citizenship application"
+        },
+        {
+          "text": "Effective preparation strategies for German immigration exams"
+        },
+        {
+          "text": "The hidden pitfalls and practical realities of German language exams for immigration"
+        },
+        {
+          "text": "Next steps: Boost your German exam readiness with expert resources"
+        },
+        {
+          "text": "Frequently asked questions"
+        }
+      ]
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 2,
+      "text": "Key Takeaways"
+    },
+    {
+      "id": "n6",
+      "type": "table",
+      "order": 5,
+      "headers": [
+        [
+          "Point",
+          "Details"
+        ]
+      ],
+      "rows": [
+        [
+          "B1 is the standard",
+          "Most residency and citizenship routes require passing B1 German, except for skilled workers with special eligibility."
+        ],
+        [
+          "Multiple exam formats",
+          "DTZ, TELC, and Goethe exams are all accepted for immigration, each with distinct formats and strengths."
+        ],
+        [
+          "Match exam to visa type",
+          "Choosing the exam based on your immigration pathway boosts approval chances and avoids wasted prep."
+        ],
+        [
+          "Preparation matters most",
+          "Smart study plans, mock testing, and official materials dramatically increase your odds of passing."
+        ],
+        [
+          "Avoid common mistakes",
+          "Many applicants fail due to last-minute prep, ignoring speaking practice, or misunderstanding level requirements."
+        ]
+      ]
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 2,
+      "text": "German language test levels explained: A1, A2, B1, and B2"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "The German language exam system follows the CEFR (Common European Framework of Reference for Languages), a standardized scale used across Europe to measure language ability. For immigration purposes, you’ll encounter four levels: A1, A2, B1, and B2."
+    },
+    {
+      "id": "n9",
+      "type": "list",
+      "order": 8,
+      "ordered": false,
+      "items": [
+        {
+          "text": "A1 (Beginner): Basic phrases, simple introductions, and everyday vocabulary. Required for some family reunification visa applications."
+        },
+        {
+          "text": "A2 (Elementary): Routine communication, simple descriptions, and familiar topics. Relevant for some early integration milestones."
+        },
+        {
+          "text": "B1 (Intermediate): Independent communication in everyday situations, work, and social contexts. This is the most commonly required level for immigration purposes."
+        },
+        {
+          "text": "B2 (Upper Intermediate): Fluent interaction on a wide range of topics. Required for some professional licenses and advanced naturalization paths."
+        }
+      ]
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Here’s a quick overview of who typically needs which level:"
+    },
+    {
+      "id": "n11",
+      "type": "table",
+      "order": 10,
+      "headers": [
+        [
+          "Immigration path",
+          "Required level"
+        ]
+      ],
+      "rows": [
+        [
+          "Spouse/family reunification visa",
+          "A1"
+        ],
+        [
+          "Integration course completion",
+          "B1"
+        ],
+        [
+          "Permanent residency (Niederlassungserlaubnis)",
+          "B1"
+        ],
+        [
+          "Citizenship/naturalization",
+          "B1"
+        ],
+        [
+          "Skilled worker (Blue Card, accelerated path)",
+          "A1 or A2"
+        ],
+        [
+          "Some professional licenses",
+          "B2"
+        ]
+      ]
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "For most applicants, B1 is the critical threshold. As language requirements for permanent residency confirm, B1 is standard for permanent residency and citizenship. That means the majority of your preparation should target this level unless your specific path requires otherwise."
+    },
+    {
+      "id": "n13",
+      "type": "quote",
+      "order": 12,
+      "text": "Official policy note: To obtain a Niederlassungserlaubnis (permanent residence permit) or apply for German citizenship, you must demonstrate B1-level German proficiency through a recognized exam. Exceptions exist for certain skilled worker categories."
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Understanding which level applies to you is the first step. Once you know your target, you can explore the exam levels comparison to decide which test format fits best. If you’re aiming for the integration course route, DTZ test practice and Goethe exam resources are both worth reviewing early."
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 2,
+      "text": "Exam types for German immigration: DTZ, TELC, and Goethe"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Now that you understand the language levels, let’s unpack the specific test options recognized by German authorities. Three main exam providers dominate the immigration landscape: DTZ, TELC, and Goethe-Institut."
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "DTZ (Deutsch-Test für Zuwanderer) is specifically designed for immigrants completing the official integration course in Germany. It covers B1 and A2 levels and is widely accepted for residence permit applications. The test includes reading (Lesen), writing (Schreiben), listening (Hören), and speaking (Sprechen)."
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "TELC (The European Language Certificates) offers exams at multiple levels, including A1 through B2. TELC exams are broadly accepted for immigration, naturalization, and professional purposes. The format is similar to DTZ but available at more testing centers and on more dates."
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Goethe-Institut exams are internationally recognized and available worldwide, making them ideal for applicants still outside Germany. Goethe exams exist at every CEFR level and are accepted for most immigration and residency processes."
+    },
+    {
+      "id": "n20",
+      "type": "table",
+      "order": 19,
+      "headers": [
+        [
+          "Exam",
+          "Levels covered",
+          "Accepted for immigration",
+          "Available outside Germany"
+        ]
+      ],
+      "rows": [
+        [
+          "DTZ",
+          "A2, B1",
+          "Yes (integration course)",
+          "No"
+        ],
+        [
+          "TELC",
+          "A1 to B2",
+          "Yes (residency, citizenship)",
+          "Limited"
+        ],
+        [
+          "Goethe",
+          "A1 to C2",
+          "Yes (all major paths)",
+          "Yes"
+        ]
+      ]
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "All three exams share a similar structure: four skills tested (reading, writing, listening, speaking), with results graded as pass or fail at the relevant CEFR level. Testing windows vary. Goethe exams run year-round at global centers. TELC and DTZ are offered at authorized centers across Germany, usually several times per year."
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "📊 Statistic callout: As language requirements for residency note, B1 is standard for permanent residency, citizenship/naturalization, and integration course completion, making it the single most tested level among immigrants in Germany."
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "For targeted preparation, explore TELC exam preparation, Goethe exam preparation, and the DTZ test overview to understand each format’s structure before you register."
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 2,
+      "text": "Choosing the right German test for your residency or citizenship application"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "With exam formats clear, let’s focus on how to select the right test for your specific residency or citizenship path. The wrong choice doesn’t just waste money. It can invalidate your application if the exam isn’t recognized for your visa category."
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Follow these steps to identify your exam:"
+    },
+    {
+      "id": "n27",
+      "type": "list",
+      "order": 26,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Identify your immigration goal. Are you applying for permanent residency, citizenship, a family reunification visa, or completing an integration course? Each has a distinct language requirement."
+        },
+        {
+          "text": "Check your current visa category. Skilled workers and EU Blue Card holders may qualify for accelerated permanent residency. For these applicants, A1/A2 for accelerated residency may apply rather than the standard B1 requirement."
+        },
+        {
+          "text": "Confirm which exams your local immigration office (Ausländerbehörde) accepts. Not every office accepts all three providers equally. Always verify before registering."
+        },
+        {
+          "text": "Consider your location. If you’re still abroad, Goethe-Institut is your most practical option. Inside Germany, DTZ and TELC offer more scheduling flexibility."
+        },
+        {
+          "text": "Match the exam to your current level. Take a placement test or diagnostic quiz before committing to a registration date."
+        }
+      ]
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Here’s a quick decision summary:"
+    },
+    {
+      "id": "n29",
+      "type": "list",
+      "order": 28,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Integration course completion: DTZ (B1) is the standard choice."
+        },
+        {
+          "text": "Permanent residency or citizenship: TELC B1 or Goethe B1 are both widely accepted."
+        },
+        {
+          "text": "Family reunification visa (spouse): Goethe A1 is typically required before entry."
+        },
+        {
+          "text": "Skilled worker/Blue Card accelerated path: Confirm with your Ausländerbehörde, as A1 or A2 may suffice."
+        }
+      ]
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Review the exam comparison tips to weigh your options side by side. If you’re targeting TELC specifically, the TELC B1 exam guide breaks down exactly what to expect on test day."
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "Pro Tip: Never register for an exam without first downloading the official sample papers from the provider’s website. Exam formats differ in subtle but important ways, and surprises on test day are costly."
+    },
+    {
+      "id": "n32",
+      "type": "heading",
+      "order": 31,
+      "level": 2,
+      "text": "Effective preparation strategies for German immigration exams"
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 32,
+      "text": "Having chosen your target exam, let’s build a winning preparation strategy for success. The biggest mistake most applicants make is treating German exam prep like casual language learning. Immigration exams test specific skills in a specific format. Your preparation needs to match that format exactly."
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Step-by-step preparation process:"
+    },
+    {
+      "id": "n35",
+      "type": "list",
+      "order": 34,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Assess your starting level. Before anything else, take a free placement test. Knowing your current level tells you how much time you realistically need."
+        },
+        {
+          "text": "Get official materials. Use sample papers and official question banks from your chosen provider. Outdated or unofficial materials can mislead you on format and difficulty."
+        },
+        {
+          "text": "Focus on all four skills equally. Many learners neglect Sprechen (speaking) because it feels uncomfortable. But speaking is graded separately and failing it means failing the exam overall."
+        },
+        {
+          "text": "Practice under timed conditions. Simulate real exam conditions at least four weeks before your test date. Timing pressure changes how you perform."
+        },
+        {
+          "text": "Review and adjust weekly. Don’t just practice. Analyze your errors, identify patterns, and adjust your study focus accordingly."
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 35,
+      "text": "Common mistakes to avoid:"
+    },
+    {
+      "id": "n37",
+      "type": "list",
+      "order": 36,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Using grammar textbooks as your primary resource (they don’t reflect exam format)"
+        },
+        {
+          "text": "Skipping Hören (listening) practice because it feels harder to study"
+        },
+        {
+          "text": "Registering too close to your visa deadline, leaving no time to retake if needed"
+        }
+      ]
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 37,
+      "text": "For integration course completion at B1, structured practice with real exam questions is far more effective than general study. Use the Goethe B1 guide for level-specific strategies, the TELC B1 speaking guide to tackle the hardest section, and mock test practice to simulate full exam conditions."
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 38,
+      "text": "Pro Tip: If you have less than eight weeks to prepare, prioritize Lesen (reading) and Hören (listening) first. These sections are the most predictable in format and offer the fastest score gains with targeted practice."
+    },
+    {
+      "id": "n40",
+      "type": "heading",
+      "order": 39,
+      "level": 2,
+      "text": "The hidden pitfalls and practical realities of German language exams for immigration"
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 40,
+      "text": "To round out this guide, let’s share the practical lessons and pitfalls often overlooked by official resources."
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Here’s something most prep guides won’t tell you: exam nerves derail more applicants than grammar gaps do. We’ve seen learners who scored consistently at B1 in practice fail their speaking section because anxiety made them freeze. Grammar drills matter, but mental preparation matters just as much."
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 42,
+      "text": "Another overlooked reality is that passing the exam is not the same as being ready for integration. Some applicants study so narrowly for the test format that they struggle to hold a real conversation after passing. The exam is a milestone, not the destination."
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "The applicants who succeed consistently share one habit: they use German outside of study sessions. Podcasts, TV shows, conversations with neighbors. Real exposure fills the gaps that practice papers can’t."
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Finally, don’t underestimate the emotional weight of this process. Your residency depends on this exam. That pressure is real, and it’s okay to acknowledge it. Build rest days into your study plan. Burnout before exam day is a genuine risk."
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "For a deeper look at what actually works, the TELC B1 ultimate guide covers both the practical and psychological sides of exam preparation."
+    },
+    {
+      "id": "n47",
+      "type": "heading",
+      "order": 46,
+      "level": 2,
+      "text": "Next steps: Boost your German exam readiness with expert resources"
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Ready to act on what you’ve learned? The right resources make a measurable difference between a first-attempt pass and a costly retake."
+    },
+    {
+      "id": "n49",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Deutsch-Pruefung.de offers purpose-built preparation tools for every exam and level covered in this guide. You’ll find structured Goethe practice materials and TELC practice materials that mirror real exam formats, plus full-length mock tests that simulate actual test-day conditions. The platform includes AI-powered writing feedback, audio exercises for Hören practice, and official question bank access. Whether you have eight weeks or eight months, you can build a study plan that fits your timeline and targets your weakest areas directly."
+    },
+    {
+      "id": "n50",
+      "type": "heading",
+      "order": 49,
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "n51",
+      "type": "heading",
+      "order": 50,
+      "level": 3,
+      "text": "What German language level is required for permanent residency?"
+    },
+    {
+      "id": "n52",
+      "type": "paragraph",
+      "order": 51,
+      "text": "B1 is standard for permanent residency (Niederlassungserlaubnis), citizenship/naturalization, and integration course completion. Most applicants should target B1 unless their specific visa category allows a lower level."
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 52,
+      "level": 3,
+      "text": "Is there an exception for skilled workers or Blue Card holders?"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 53,
+      "text": "Yes. Skilled workers and Blue Card holders may qualify for accelerated permanent residency with A1 or A2 level, depending on their employment category and individual circumstances."
+    },
+    {
+      "id": "n55",
+      "type": "heading",
+      "order": 54,
+      "level": 3,
+      "text": "Which German exams are officially accepted for immigration?"
+    },
+    {
+      "id": "n56",
+      "type": "paragraph",
+      "order": 55,
+      "text": "DTZ, TELC, and Goethe exams are officially accepted for various immigration and residency processes in Germany. Always confirm acceptance with your local Ausländerbehörde before registering."
+    },
+    {
+      "id": "n57",
+      "type": "heading",
+      "order": 56,
+      "level": 3,
+      "text": "How can I prepare effectively for the German immigration exam?"
+    },
+    {
+      "id": "n58",
+      "type": "paragraph",
+      "order": 57,
+      "text": "Use targeted practice materials that match your exam’s exact format, complete simulated mock tests under timed conditions, and follow a structured weekly study plan that covers all four language skills equally."
+    },
+    {
+      "id": "n59",
+      "type": "heading",
+      "order": 58,
+      "level": 2,
+      "text": "Recommended"
+    },
+    {
+      "id": "n60",
+      "type": "list",
+      "order": 59,
+      "ordered": false,
+      "items": [
+        {
+          "text": "DTZ - Deutsch-Test für Zuwanderer (A2-B1) Practice | Deutsch Prüfung"
+        },
+        {
+          "text": "Goethe German Exam Preparation - Practice Tests & Study Materials"
+        },
+        {
+          "text": "TELC German Exam Preparation - Practice Tests & Study Materials"
+        },
+        {
+          "text": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips"
+        }
+      ]
+    },
+    {
+      "id": "n61",
+      "type": "heading",
+      "order": 60,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n62",
+      "type": "heading",
+      "order": 61,
+      "level": 3,
+      "text": "German grammar tests: key differences and prep tips"
+    },
+    {
+      "id": "n63",
+      "type": "paragraph",
+      "order": 62,
+      "text": "German grammar tests: key differences and prep tips ! Student studies German grammar at kitchen table > TL;DR: > > - Different German exams assess grammar through separate s..."
+    },
+    {
+      "id": "n64",
+      "type": "heading",
+      "order": 63,
+      "level": 3,
+      "text": "What is the German integration course? Full guide for newcomers"
+    },
+    {
+      "id": "n65",
+      "type": "paragraph",
+      "order": 64,
+      "text": "What is the German integration course? Full guide for newcomers !"
+    },
+    {
+      "id": "n66",
+      "type": "heading",
+      "order": 65,
+      "level": 3,
+      "text": "Certifying German skills: unlock study, work & immigration"
+    },
+    {
+      "id": "n67",
+      "type": "paragraph",
+      "order": 66,
+      "text": "Certifying German skills: unlock study, work & immigration ! Young woman checks German exam certificate at home Many learners assume that speaking German fluently is enough to..."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216171794_Man-studying-German-for-immigration-at-home.jpeg",
+        "alt": "Man studying German for immigration at home"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216104588_Infographic-comparing-main-German-exams-and-features.jpeg",
+        "alt": "Infographic comparing main German exams and features"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216154877_Woman-practicing-German-exam-questions-at-her-desk.jpeg",
+        "alt": "Woman practicing German exam questions at her desk"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291046269_deutsch-pruefung.jpg",
+        "alt": "https://deutsch-pruefung.de"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep#german-language-test-levels-explained%3A-a1%2C-a2%2C-b1%2C-and-b2",
+        "text": "German language test levels explained: A1, A2, B1, and B2",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep#exam-types-for-german-immigration%3A-dtz%2C-telc%2C-and-goethe",
+        "text": "Exam types for German immigration: DTZ, TELC, and Goethe",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep#choosing-the-right-german-test-for-your-residency-or-citizenship-application",
+        "text": "Choosing the right German test for your residency or citizenship application",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep#effective-preparation-strategies-for-german-immigration-exams",
+        "text": "Effective preparation strategies for German immigration exams",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep#the-hidden-pitfalls-and-practical-realities-of-german-language-exams-for-immigration",
+        "text": "The hidden pitfalls and practical realities of German language exams for immigration",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep#next-steps%3A-boost-your-german-exam-readiness-with-expert-resources",
+        "text": "Next steps: Boost your German exam readiness with expert resources",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep#frequently-asked-questions",
+        "text": "Frequently asked questions",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk13",
+        "type": "link",
+        "order": 8,
+        "href": "https://www.thelocal.de/20260311/what-are-the-language-requirements-for-permanent-residency-in-germany",
+        "text": "language requirements for permanent residency",
+        "kind": "external"
+      },
+      {
+        "id": "lnk14",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+        "text": "exam levels comparison",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk15",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ test practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk16",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe exam resources",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk17",
+        "type": "link",
+        "order": 12,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC exam preparation",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk18",
+        "type": "link",
+        "order": 13,
+        "href": "https://deutsch-pruefung.de/telc/b1",
+        "text": "TELC B1 exam guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk19",
+        "type": "link",
+        "order": 14,
+        "href": "https://deutsch-pruefung.de/goethe/b1",
+        "text": "Goethe B1 guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk20",
+        "type": "link",
+        "order": 15,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-speaking-guide",
+        "text": "TELC B1 speaking guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk21",
+        "type": "link",
+        "order": 16,
+        "href": "https://deutsch-pruefung.de/mock-test",
+        "text": "mock test practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk22",
+        "type": "link",
+        "order": 17,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-ultimate-guide",
+        "text": "TELC B1 ultimate guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk23",
+        "type": "link",
+        "order": 18,
+        "href": "http://deutsch-pruefung.de/",
+        "text": "Deutsch-Pruefung.de",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk24",
+        "type": "link",
+        "order": 19,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ - Deutsch-Test für Zuwanderer (A2-B1) Practice | Deutsch Prüfung",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk25",
+        "type": "link",
+        "order": 20,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe German Exam Preparation - Practice Tests & Study Materials",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk26",
+        "type": "link",
+        "order": 21,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC German Exam Preparation - Practice Tests & Study Materials",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk27",
+        "type": "link",
+        "order": 22,
+        "href": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+        "text": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk28",
+        "type": "link",
+        "order": 23,
+        "href": "https://deutsch-pruefung.de/blog/german-grammar-tests-key-differences-prep-tips",
+        "text": "Study TipsGerman grammar tests: key differences and prep tipsGerman grammar tests: key differences and prep tips ! Student studies German grammar at kitchen table > TL;DR: > > - Different German exams assess grammar through separate s...12 min readApr 5",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk29",
+        "type": "link",
+        "order": 24,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers",
+        "text": "Study TipsWhat is the German integration course? Full guide for newcomersWhat is the German integration course? Full guide for newcomers !11 min readApr 4",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk30",
+        "type": "link",
+        "order": 25,
+        "href": "https://deutsch-pruefung.de/blog/certifying-german-language-skills-study-work-immigration",
+        "text": "Study TipsCertifying German skills: unlock study, work & immigrationCertifying German skills: unlock study, work & immigration ! Young woman checks German exam certificate at home Many learners assume that speaking German fluently is enough to...11 min readApr 2",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 18,
+      "paragraphs": 37,
+      "lists": 7,
+      "tables": 3,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 26,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

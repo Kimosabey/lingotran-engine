@@ -1,0 +1,486 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/goethe/b1",
+    "canonicalUrl": "https://deutsch-pruefung.de/goethe/b1",
+    "site": "deutsch-pruefung.de",
+    "slug": "goethe--b1",
+    "sourceType": "web",
+    "title": "Goethe B1 German Exam - Complete Preparation Guide",
+    "description": "Master Goethe B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+    "lang": "en",
+    "exam": "goethe",
+    "level": "B1",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master Goethe B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+      "author": "German Exam Practice",
+      "og:title": "Goethe B1 German Exam - Complete Preparation Guide",
+      "og:description": "Master Goethe B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+      "og:url": "https://deutsch-pruefung.de/goethe/b1",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20German%20B1&subtitle=Certificate%20Preparation&type=goethe&level=b1",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Goethe German B1 Exam Practice",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "Goethe B1 German Exam - Complete Preparation Guide",
+      "twitter:description": "Master Goethe B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20German%20B1&subtitle=Certificate%20Preparation&type=goethe&level=b1",
+      "sentry-trace": "9867815d2ceb2e2d3b16c71f676878e1-94a1b0d2a2717201-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=9867815d2ceb2e2d3b16c71f676878e1,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2F%5Bprovider%5D%2F%5Blevel%5D,sentry-sampled=true,sentry-sample_rand=0.1836853565047336,sentry-sample_rate=0.2"
+    },
+    "wordCount": 319,
+    "fetchedAt": "2026-07-21T08:30:00.861Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "Goethe German B1 Practice"
+    },
+    {
+      "id": "n2",
+      "type": "heading",
+      "order": 1,
+      "level": 2,
+      "text": "Choose Your Practice Section"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "Select the exam section for GOETHE B1 practice"
+    },
+    {
+      "id": "n4",
+      "type": "image",
+      "order": 3,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+      "alt": "Hören (Listening) illustration"
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 3,
+      "text": "Hören (Listening)"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "Work, school, and leisure topics with clear speech"
+    },
+    {
+      "id": "n7",
+      "type": "image",
+      "order": 6,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+      "alt": "Lesen (Reading) illustration"
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 3,
+      "text": "Lesen (Reading)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Factual texts and personal correspondence"
+    },
+    {
+      "id": "n10",
+      "type": "image",
+      "order": 9,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+      "alt": "Schreiben (Writing) illustration"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 3,
+      "text": "Schreiben (Writing)"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Personal letters and simple reports"
+    },
+    {
+      "id": "n13",
+      "type": "image",
+      "order": 12,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+      "alt": "Sprechen (Speaking) illustration"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Sprechen (Speaking)"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Familiar topics and personal opinions"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "GOETHE B1 Exam Structure"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 4,
+      "text": "Receptive Skills"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Productive Skills"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Official exam context"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 2,
+      "text": "What the Goethe B1 Exam Checks"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Goethe-Zertifikat B1 confirms independent German skills at CEFR B1 for young people and adults."
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 3,
+      "text": "Exam format and timing"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "The exam has listening, reading, writing, and speaking modules. The four modules can be taken individually or in combination."
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 4,
+      "text": "Listening"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "40 minutes"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Announcements, short lectures, informal conversations, and radio discussions."
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 4,
+      "text": "Reading"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "65 minutes"
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "Blog posts, emails, newspaper articles, advertisements, and written instructions."
+    },
+    {
+      "id": "n30",
+      "type": "heading",
+      "order": 29,
+      "level": 4,
+      "text": "Writing"
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "60 minutes"
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 31,
+      "text": "Personal and formal emails or letters plus a written forum opinion."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 32,
+      "level": 4,
+      "text": "Speaking"
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 33,
+      "text": "15 minutes"
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 34,
+      "text": "Planning with a partner, responding to questions, giving opinions, making suggestions, and presenting a current topic."
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 35,
+      "level": 3,
+      "text": "Best for"
+    },
+    {
+      "id": "n37",
+      "type": "heading",
+      "order": 36,
+      "level": 4,
+      "text": "Independent everyday German"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 37,
+      "text": "Useful for work, school, travel, leisure, opinions, and simple explanations."
+    },
+    {
+      "id": "n39",
+      "type": "heading",
+      "order": 38,
+      "level": 4,
+      "text": "Settlement and citizenship preparation"
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 39,
+      "text": "Relevant for routes where an authority asks for B1 German. Check local certificate rules before booking."
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 40,
+      "level": 3,
+      "text": "How to use your practice time"
+    },
+    {
+      "id": "n42",
+      "type": "list",
+      "order": 41,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Familiar topics from work, school, travel, leisure, and personal interests."
+        },
+        {
+          "text": "Giving reasons and short explanations for opinions and plans."
+        },
+        {
+          "text": "Writing feedback for structure, register, clarity, and task completion."
+        }
+      ]
+    },
+    {
+      "id": "n43",
+      "type": "heading",
+      "order": 42,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "B1 is the common target when an authority asks for independent German language skills for naturalization or settlement permit."
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Yes. Goethe-Institut describes B1 as modular, so listening, reading, writing, and speaking can be taken individually or together."
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Many learners struggle with writing structure, speaking fluency, and giving clear reasons for opinions."
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Last reviewed: May 2026. This page is independent exam preparation. For official registration, fees, dates, and accepted certificate rules, check the exam provider and the institution or authority requesting your certificate."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+        "alt": "Hören (Listening) illustration"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+        "alt": "Lesen (Reading) illustration"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+        "alt": "Schreiben (Writing) illustration"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+        "alt": "Sprechen (Speaking) illustration"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/goethe/b1/hoeren",
+        "text": "Hören practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/b1/lesen",
+        "text": "Lesen practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/goethe/b1/schreiben",
+        "text": "Schreiben practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/goethe/b1/sprechen",
+        "text": "Sprechen practice",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 20,
+      "paragraphs": 23,
+      "lists": 1,
+      "tables": 0,
+      "images": 4,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

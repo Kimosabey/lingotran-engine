@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/mock-test",
+    "canonicalUrl": "https://deutsch-pruefung.de/mock-test",
+    "site": "deutsch-pruefung.de",
+    "slug": "mock-test",
+    "sourceType": "web",
+    "title": "Deutsch Prüfung Mock Test - Full-Length Goethe Practice Exams | A1-B2",
+    "description": "Take realistic German mock tests with official Goethe exam structure and timing. Full-length practice exams for A1, A2, B1, and B2 levels with instant scoring and detailed feedback.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "mock-test-info"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Take realistic German mock tests with official Goethe exam structure and timing. Full-length practice exams for A1, A2, B1, and B2 levels with instant scoring and detailed feedback.",
+      "author": "Deutsch Prüfung Platform",
+      "creator": "Deutsch Prüfung Platform",
+      "publisher": "Deutsch Prüfung Platform",
+      "robots": "index, follow",
+      "og:title": "German Mock Test - Full-Length Goethe Practice Exams",
+      "og:description": "Experience realistic German exams with our comprehensive mock tests. Official Goethe structure, authentic timing, and instant feedback for A1-B2 levels.",
+      "og:url": "https://deutsch-pruefung.de/mock-test",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=German%20Mock%20Test&subtitle=Full-Length%20Goethe%20Practice%20Exams&type=mock-test",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "German Mock Test - Full-Length Practice Exams",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "German Mock Test - Full-Length Goethe Practice Exams",
+      "twitter:description": "Take realistic German mock tests with official timing and structure. Perfect preparation for Goethe certificates A1-B2.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=German%20Mock%20Test&subtitle=Full-Length%20Goethe%20Practice%20Exams&type=mock-test",
+      "sentry-trace": "77d25d6ab0712b4ae4ef88465960dc1b-a07ccf0962b6dbce-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=77d25d6ab0712b4ae4ef88465960dc1b,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.8139988695860461,sentry-sample_rate=0.2"
+    },
+    "wordCount": 104,
+    "fetchedAt": "2026-07-21T08:27:26.475Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "Mock Test"
+    },
+    {
+      "id": "n2",
+      "type": "heading",
+      "order": 1,
+      "level": 2,
+      "text": "Full-Length Practice Exams"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "Experience authentic Goethe and TELC exam conditions with comprehensive mock tests, realistic timing, and instant feedback to perfect your preparation."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 3,
+      "text": "Select Your Level"
+    },
+    {
+      "id": "n5",
+      "type": "image",
+      "order": 4,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa1-bg.webp&w=3840&q=75",
+      "alt": "A1 mock test visual"
+    },
+    {
+      "id": "n6",
+      "type": "image",
+      "order": 5,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa1-character.webp&w=256&q=75",
+      "alt": "A1 level character"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Beginner Start"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "20 Mock Tests Available"
+    },
+    {
+      "id": "n9",
+      "type": "image",
+      "order": 8,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa2-bg.webp&w=3840&q=75",
+      "alt": "A2 mock test visual"
+    },
+    {
+      "id": "n10",
+      "type": "image",
+      "order": 9,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa2-character.webp&w=256&q=75",
+      "alt": "A2 level character"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 4,
+      "text": "Elementary Way"
+    },
+    {
+      "id": "n13",
+      "type": "image",
+      "order": 11,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb1-bg.webp&w=3840&q=75",
+      "alt": "B1 mock test visual"
+    },
+    {
+      "id": "n14",
+      "type": "image",
+      "order": 12,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb1-character.webp&w=256&q=75",
+      "alt": "B1 level character"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 13,
+      "level": 4,
+      "text": "Intermediate Step"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 14,
+      "text": "14 Mock Tests Available"
+    },
+    {
+      "id": "n17",
+      "type": "image",
+      "order": 15,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb2-bg.webp&w=3840&q=75",
+      "alt": "B2 mock test visual"
+    },
+    {
+      "id": "n18",
+      "type": "image",
+      "order": 16,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb2-character.webp&w=256&q=75",
+      "alt": "B2 level character"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Upper Intermediate"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 18,
+      "text": "11 Mock Tests Available"
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 19,
+      "level": 2,
+      "text": "Mock Test Features"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Everything you need for authentic exam preparation"
+    },
+    {
+      "id": "n23",
+      "type": "image",
+      "order": 21,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Ffeature-timing.webp&w=3840&q=75",
+      "alt": "Authentic Timing"
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 22,
+      "level": 3,
+      "text": "Authentic Timing"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Experience real exam pressure with official time limits. Automatic section transitions keep you on pace."
+    },
+    {
+      "id": "n26",
+      "type": "image",
+      "order": 24,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Ffeature-structure.webp&w=3840&q=75",
+      "alt": "Official Structure"
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 25,
+      "level": 3,
+      "text": "Official Structure"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Follow exact Goethe exam format. Correct number of questions, parts, and sequences for realistic preparation."
+    },
+    {
+      "id": "n29",
+      "type": "image",
+      "order": 27,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Ffeature-feedback.webp&w=3840&q=75",
+      "alt": "Instant Feedback"
+    },
+    {
+      "id": "n30",
+      "type": "heading",
+      "order": 28,
+      "level": 3,
+      "text": "Instant Feedback"
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Get detailed results with section-by-section breakdown, accuracy scores, and recommendations."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa1-bg.webp&w=3840&q=75",
+        "alt": "A1 mock test visual"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa1-character.webp&w=256&q=75",
+        "alt": "A1 level character"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa2-bg.webp&w=3840&q=75",
+        "alt": "A2 mock test visual"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fa2-character.webp&w=256&q=75",
+        "alt": "A2 level character"
+      },
+      {
+        "id": "img5",
+        "type": "image",
+        "order": 4,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb1-bg.webp&w=3840&q=75",
+        "alt": "B1 mock test visual"
+      },
+      {
+        "id": "img6",
+        "type": "image",
+        "order": 5,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb1-character.webp&w=256&q=75",
+        "alt": "B1 level character"
+      },
+      {
+        "id": "img7",
+        "type": "image",
+        "order": 6,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb2-bg.webp&w=3840&q=75",
+        "alt": "B2 mock test visual"
+      },
+      {
+        "id": "img8",
+        "type": "image",
+        "order": 7,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Fb2-character.webp&w=256&q=75",
+        "alt": "B2 level character"
+      },
+      {
+        "id": "img9",
+        "type": "image",
+        "order": 8,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Ffeature-timing.webp&w=3840&q=75",
+        "alt": "Authentic Timing"
+      },
+      {
+        "id": "img10",
+        "type": "image",
+        "order": 9,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Ffeature-structure.webp&w=3840&q=75",
+        "alt": "Official Structure"
+      },
+      {
+        "id": "img11",
+        "type": "image",
+        "order": 10,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fmock-test-assets%2Ffeature-feedback.webp&w=3840&q=75",
+        "alt": "Instant Feedback"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 11,
+      "paragraphs": 8,
+      "lists": 0,
+      "tables": 0,
+      "images": 11,
+      "figures": 0,
+      "media": 0,
+      "links": 1,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 1,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

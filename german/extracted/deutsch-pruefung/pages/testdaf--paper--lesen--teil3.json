@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/testdaf/paper/lesen/teil3",
+    "canonicalUrl": "https://deutsch-pruefung.de/testdaf/paper/lesen/teil3",
+    "site": "deutsch-pruefung.de",
+    "slug": "testdaf--paper--lesen--teil3",
+    "sourceType": "web",
+    "title": "Paper-Based TestDaF Lesen Teil 3 Practice | Deutsch Prüfung",
+    "description": "Practice paper-based TestDaF Lesen (Reading) Teil 3 with exam-style questions. Prepare for the TestDaF B2-C1 academic German exam.",
+    "lang": "en",
+    "exam": "testdaf",
+    "level": "unknown",
+    "section": "lesen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Practice paper-based TestDaF Lesen (Reading) Teil 3 with exam-style questions. Prepare for the TestDaF B2-C1 academic German exam.",
+      "author": "German Exam Practice",
+      "og:title": "Paper-Based TestDaF Lesen Teil 3 Practice | Deutsch Prüfung",
+      "og:description": "Practice paper-based TestDaF Lesen (Reading) Teil 3 with exam-style questions. Prepare for the TestDaF B2-C1 academic German exam.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "46c6728be13ed5b95d062ff56a0103ac-787d36f37b0a5111-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=46c6728be13ed5b95d062ff56a0103ac,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.5438553971419873,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1,
+    "fetchedAt": "2026-07-21T08:28:09.273Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "paragraph",
+      "order": 0,
+      "text": "Loading..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/testdaf/paper",
+        "text": "Paper",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/lesen",
+        "text": "Lesen (Reading)",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 0,
+      "paragraphs": 1,
+      "lists": 0,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 4,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

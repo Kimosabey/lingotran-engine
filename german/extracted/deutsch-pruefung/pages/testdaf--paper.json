@@ -1,0 +1,572 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/testdaf/paper",
+    "canonicalUrl": "https://deutsch-pruefung.de/testdaf/paper",
+    "site": "deutsch-pruefung.de",
+    "slug": "testdaf--paper",
+    "sourceType": "web",
+    "title": "Paper-Based TestDaF Format, Tips & Practice | Deutsch Prüfung",
+    "description": "Officially based guide to the paper-based TestDaF format: reading, listening, writing, speaking, timing, scoring, test-day rules, and practice links.",
+    "lang": "en",
+    "exam": "testdaf",
+    "level": "unknown",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Officially based guide to the paper-based TestDaF format: reading, listening, writing, speaking, timing, scoring, test-day rules, and practice links.",
+      "author": "German Exam Practice",
+      "og:title": "Paper-Based TestDaF Format, Tips & Practice",
+      "og:description": "Detailed paper-based TestDaF guide using official format, timing, scoring, and test-day information.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "f8bdafde46b79114321781189ee519d4-23cdd9e13405afe4-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=f8bdafde46b79114321781189ee519d4,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.5793243910817756,sentry-sample_rate=0.2"
+    },
+    "wordCount": 516,
+    "fetchedAt": "2026-07-21T08:27:56.774Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "Paper-Based TestDaF Format, Tips and Practice"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "The paper-based TestDaF has four separately assessed parts: Leseverstehen, Hörverstehen, Schriftlicher Ausdruck, and Mündlicher Ausdruck. The pure exam time is 3 hours and 15 minutes, with breaks between the parts. Tasks always relate to university and academic communication."
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "Pure exam time"
+    },
+    {
+      "id": "n4",
+      "type": "paragraph",
+      "order": 3,
+      "text": "3h 15min"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "Result model"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "4 separate TDN results"
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "Task material"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Printed task booklets"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Speaking"
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Recorded on computer"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 2,
+      "text": "Leseverstehen"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Reading"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "3 reading texts, 30 items"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "60 minutes"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 2,
+      "text": "Hörverstehen"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Listening"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "3 audio texts, 25 items"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "40 minutes"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 2,
+      "text": "Schriftlicher Ausdruck"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Writing"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "1 handwritten task"
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 21,
+      "level": 2,
+      "text": "Mündlicher Ausdruck"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 22,
+      "text": "7 computer-recorded tasks"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 23,
+      "text": "35 minutes"
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 24,
+      "level": 2,
+      "text": "Official Paper-Based TestDaF Order"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 25,
+      "text": "The official paper-based sequence is fixed: reading first, then listening, then handwritten writing, then computer-recorded speaking. This makes preparation easier because your practice plan can follow the same rhythm every time."
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 26,
+      "text": "3 reading texts, 30 items · 60 minutes"
+    },
+    {
+      "id": "n31",
+      "type": "list",
+      "order": 27,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Text 1: short texts with 10 matching items."
+        },
+        {
+          "text": "Text 2: journalistic text with 10 multiple-choice items."
+        },
+        {
+          "text": "Text 3: specialist-journal style text with 10 Ja / Nein / Text sagt dazu nichts items."
+        }
+      ]
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 28,
+      "text": "3 audio texts, 25 items · 40 minutes"
+    },
+    {
+      "id": "n34",
+      "type": "list",
+      "order": 29,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Text 1: dialogue with 8 short answers."
+        },
+        {
+          "text": "Text 2: interview with 10 richtig/falsch items."
+        },
+        {
+          "text": "Text 3: lecture or interview with 7 short answers."
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 30,
+      "text": "1 handwritten task · 60 minutes"
+    },
+    {
+      "id": "n37",
+      "type": "list",
+      "order": 31,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Write one structured text."
+        },
+        {
+          "text": "Include a graph or chart description."
+        },
+        {
+          "text": "Develop an argumentation section connected to the task."
+        }
+      ]
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 32,
+      "text": "7 computer-recorded tasks · 35 minutes"
+    },
+    {
+      "id": "n40",
+      "type": "list",
+      "order": 33,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Speak in typical university situations."
+        },
+        {
+          "text": "Hear tasks through headphones and answer into a microphone."
+        },
+        {
+          "text": "There is no live examiner conversation in the paper-based TestDaF speaking part."
+        }
+      ]
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 34,
+      "level": 2,
+      "text": "Scoring Facts"
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 35,
+      "text": "The four parts are evaluated separately. Reading and listening answer sheets are scanned; short listening answers are checked by trained raters. Writing and speaking are assessed by trained TestDaF raters using official criteria."
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 36,
+      "text": "The exact minimum can shift by test set because TestDaF adjusts raw-score thresholds statistically for reading and listening."
+    },
+    {
+      "id": "n44",
+      "type": "heading",
+      "order": 37,
+      "level": 2,
+      "text": "Tips Based on Official Criteria"
+    },
+    {
+      "id": "n46",
+      "type": "list",
+      "order": 38,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Use the fixed task order to your advantage: matching first, then multiple choice, then statement checking."
+        },
+        {
+          "text": "Separate what the text actually says from what sounds plausible. This matters especially for Text sagt dazu nichts."
+        },
+        {
+          "text": "Leave enough time to transfer answers cleanly because only the answer sheet is assessed."
+        }
+      ]
+    },
+    {
+      "id": "n48",
+      "type": "list",
+      "order": 39,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Expect Texts 1 and 2 once, and Text 3 twice; plan your notes around that official listening rhythm."
+        },
+        {
+          "text": "For short answers, write compact information while listening, then transfer carefully at the end."
+        },
+        {
+          "text": "Listen for the speaker purpose, key reasons, examples, and main claims, not isolated vocabulary only."
+        }
+      ]
+    },
+    {
+      "id": "n50",
+      "type": "list",
+      "order": 40,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Build a visible structure: introduction, graph description, transition, argumentation, and conclusion."
+        },
+        {
+          "text": "Describe the important graph information accurately before evaluating or arguing."
+        },
+        {
+          "text": "Use varied connectors and sentence structures because official assessment considers coherence, vocabulary, syntax, and comprehensibility."
+        }
+      ]
+    },
+    {
+      "id": "n52",
+      "type": "list",
+      "order": 41,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Read the situation closely: your role, partner, topic, formality, and exact action decide the answer."
+        },
+        {
+          "text": "Use preparation time to create a tiny structure, not a full script."
+        },
+        {
+          "text": "Aim for clear, fluent, task-focused speech because official assessment considers overall effect, task fulfilment, and language resources."
+        }
+      ]
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 42,
+      "level": 2,
+      "text": "Test-Day Rules to Remember"
+    },
+    {
+      "id": "n54",
+      "type": "heading",
+      "order": 43,
+      "level": 2,
+      "text": "Continue Practicing"
+    },
+    {
+      "id": "n55",
+      "type": "heading",
+      "order": 44,
+      "level": 2,
+      "text": "Official Sources Used"
+    },
+    {
+      "id": "n56",
+      "type": "paragraph",
+      "order": 45,
+      "text": "This guide is based on official TestDaF information for the paper-based exam structure, evaluation, and examination procedure."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/lesen",
+        "text": "Start Paper Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "Compare TestDaF Formats",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/lesen",
+        "text": "Practice Reading",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/hoeren",
+        "text": "Practice Listening",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/schreiben",
+        "text": "Practice Writing",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF overviewCompare paper-based and digital TestDaF practice.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/lesen",
+        "text": "Paper TestDaF LesenPractice all three official reading task formats.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/hoeren",
+        "text": "Paper TestDaF HörenTrain the three official listening text types.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/schreiben",
+        "text": "Paper TestDaF SchreibenWrite graph-description and argumentation responses.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/testdaf/digital",
+        "text": "Digital TestDaFUse this if your test center offers the computer format.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk13",
+        "type": "link",
+        "order": 12,
+        "href": "https://www.testdaf.de/de/teilnehmende/der-papierbasierte-testdaf/aufbau-des-papierbasierten-testdaf/",
+        "text": "Official paper-based TestDaF structure",
+        "kind": "external"
+      },
+      {
+        "id": "lnk14",
+        "type": "link",
+        "order": 13,
+        "href": "https://www.testdaf.de/de/teilnehmende/der-papierbasierte-testdaf/auswertung-des-papierbasierten-testdaf/",
+        "text": "Official paper-based TestDaF evaluation",
+        "kind": "external"
+      },
+      {
+        "id": "lnk15",
+        "type": "link",
+        "order": 14,
+        "href": "https://www.testdaf.de/de/teilnehmende/mein-testdaf/faq/faq-durchfuehrung/",
+        "text": "Official TestDaF exam-day FAQ",
+        "kind": "external"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 11,
+      "paragraphs": 27,
+      "lists": 8,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 15,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 10,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

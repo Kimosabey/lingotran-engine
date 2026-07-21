@@ -1,0 +1,1070 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/telc-b2-reading-guide",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/telc-b2-reading-guide",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--telc-b2-reading-guide",
+    "sourceType": "web",
+    "title": "TELC B2 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy",
+    "description": "Master the TELC B2 Reading section with our comprehensive guide covering all 5 task types, time management strategies, grammar tips for Sprachbausteine, and expert advice.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master the TELC B2 Reading section with our comprehensive guide covering all 5 task types, time management strategies, grammar tips for Sprachbausteine, and expert advice.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Lesen (Reading) Skills",
+      "article:published_time": "2025-12-23",
+      "article:tag": "B2 Level",
+      "og:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2-reading.jpg",
+      "og:title": "TELC B2 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy",
+      "og:description": "Master the TELC B2 Reading section with our comprehensive guide covering all 5 task types, time management strategies, grammar tips for Sprachbausteine, and expert advice.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Mastering the TELC B2 Leseverstehen und Sprachbausteine: Complete Guide with Pro Tips",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TELC B2 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy",
+      "twitter:description": "Master the TELC B2 Reading section with our comprehensive guide covering all 5 task types, time management strategies, grammar tips for Sprachbausteine, and expert advice.",
+      "twitter:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2-reading.jpg",
+      "sentry-trace": "6f08a39f6ddd33743d10027fe1387363-18681bcfb8d75a25-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=6f08a39f6ddd33743d10027fe1387363,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.5173514300717805,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1507,
+    "fetchedAt": "2026-07-21T08:28:52.791Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "paragraph",
+      "order": 0,
+      "text": "The Leseverstehen und Sprachbausteine section is the longest part of the TELC B2 exam, testing both your reading comprehension and your command of German grammar and vocabulary. With 90 minutes to complete 40 questions across 5 different task types, strategic time management and the right reading techniques are essential for success."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "This comprehensive guide breaks down each Teil with official exam insights, proven strategies, and practical tips to help you maximize your score. Whether you struggle with matching headlines, detailed comprehension, or the dreaded Sprachbausteine, you will find targeted advice to improve your performance."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Section Overview: Your 90-Minute Challenge"
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 3,
+      "text": "Complete Task Breakdown"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "Based on official TELC examination guidelines"
+    },
+    {
+      "id": "n6",
+      "type": "heading",
+      "order": 5,
+      "level": 4,
+      "text": "Globalverstehen"
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "Task: Match 5 texts to 10 headlines (5 headlines unused)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Reading Style: Global reading - grasp main ideas quickly"
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 4,
+      "text": "Detailverstehen"
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Task: Multiple choice (3 options) on a longer text"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Reading Style: Detailed reading - understand specific information"
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 4,
+      "text": "Selektives Lesen"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Task: Match 10 situations to 12 advertisements"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Reading Style: Selective reading - scan for specific details"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 4,
+      "text": "Grammar Focus"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Task: Gap-fill with 3 options (a, b, c) per gap"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "Reading Style: Grammar knowledge - conjugations, prepositions, etc."
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Vocabulary Focus"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Task: Gap-fill from word bank (15 words, 5 unused)"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Reading Style: Vocabulary in context - connectors, collocations"
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 2,
+      "text": "Leseverstehen Teil 1: Globalverstehen"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 3,
+      "text": "What You Will See"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "You receive 5 short newspaper-style texts and must match each to the correct headline from a list of 10 options. Five headlines will NOT be used. The texts are typically about travel, culture, social topics, or current affairs."
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Example from official TELC materials: A text about the Waldeck-Frankenberg region in Hessen describing its spas (Kurorte), lakes (Edersee), and natural beauty would match the headline \"Bäder, Seen und Natur - im hessischen Paradies\" rather than \"Zu Gast bei den Fürsten\" (which is a distractor mentioning the castle)."
+    },
+    {
+      "id": "n25",
+      "type": "heading",
+      "order": 24,
+      "level": 4,
+      "text": "Winning Strategy"
+    },
+    {
+      "id": "n26",
+      "type": "list",
+      "order": 25,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Read ALL headlines first to know what topics to expect"
+        },
+        {
+          "text": "Read each text quickly for the MAIN IDEA only"
+        },
+        {
+          "text": "Match based on overall theme, not single keywords"
+        },
+        {
+          "text": "Cross off used headlines as you go"
+        },
+        {
+          "text": "Double-check unused headlines at the end"
+        }
+      ]
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 4,
+      "text": "Common Traps"
+    },
+    {
+      "id": "n28",
+      "type": "list",
+      "order": 27,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Headlines with similar vocabulary but different meaning"
+        },
+        {
+          "text": "• Distractors that match a detail but not the main idea"
+        },
+        {
+          "text": "• Spending too much time on one text"
+        },
+        {
+          "text": "• Not reading the text completely before deciding"
+        }
+      ]
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 4,
+      "text": "💡 Pro Tip: The Lesestil"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Use global reading (globales Lesen) - read relatively quickly without focusing on every word. Your goal is to understand the main content (Hauptinhalt), not every detail. If you encounter unknown words, skip them and focus on the overall message."
+    },
+    {
+      "id": "n31",
+      "type": "heading",
+      "order": 30,
+      "level": 2,
+      "text": "Leseverstehen Teil 2: Detailverstehen"
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 31,
+      "text": "You read a longer popular-science or journalistic text and answer 5 multiple-choice questions with 3 options each (a, b, c). Only ONE option is correct. The questions test your understanding of specific details, opinions, and arguments in the text."
+    },
+    {
+      "id": "n34",
+      "type": "heading",
+      "order": 32,
+      "level": 4,
+      "text": "⚠️ Important"
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Pay attention to EVERY part of each answer option. Even one false detail within a sentence makes the entire option incorrect. Watch especially for negations (nicht, kein, nie) that can be hidden in the text."
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 34,
+      "level": 3,
+      "text": "Parallel Reading Strategy"
+    },
+    {
+      "id": "n37",
+      "type": "paragraph",
+      "order": 35,
+      "text": "The questions follow the order of information in the text. Use this to your advantage:"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 36,
+      "text": "Understand what information you need to find"
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 37,
+      "text": "The answer to Q6 will be in the first part of the text"
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 38,
+      "text": "Continue reading from where you left off"
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 39,
+      "text": "This saves time - you don't need to read the text twice"
+    },
+    {
+      "id": "n42",
+      "type": "heading",
+      "order": 40,
+      "level": 4,
+      "text": "💡 Pro Tip: Don't Use Your Own Knowledge"
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Answer based ONLY on what the text says, not on what you know about the topic. The text may present an unexpected viewpoint. Even if an answer seems factually correct, it's wrong if the text doesn't support it."
+    },
+    {
+      "id": "n44",
+      "type": "heading",
+      "order": 42,
+      "level": 2,
+      "text": "Leseverstehen Teil 3: Selektives Lesen"
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 43,
+      "text": "You receive 10 short situation descriptions and 12 advertisements (Anzeigen). Match each situation to the most suitable advertisement. Two advertisements will NOT be used. Each advertisement can only be used once."
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Example: \"Ein Bekannter möchte Schweden per Schiff kennenlernen\" → Match to the Göta-Kanal ship cruise advertisement, not to a general Sweden travel guide."
+    },
+    {
+      "id": "n48",
+      "type": "heading",
+      "order": 45,
+      "level": 3,
+      "text": "Step-by-Step Approach"
+    },
+    {
+      "id": "n49",
+      "type": "heading",
+      "order": 46,
+      "level": 4,
+      "text": "Read the situation carefully"
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Underline the KEY requirements (who, what, where, special needs)"
+    },
+    {
+      "id": "n51",
+      "type": "heading",
+      "order": 48,
+      "level": 4,
+      "text": "Scan advertisements for matches"
+    },
+    {
+      "id": "n52",
+      "type": "paragraph",
+      "order": 49,
+      "text": "Look for advertisements that match ALL requirements, not just some"
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 50,
+      "level": 4,
+      "text": "Verify your choice"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 51,
+      "text": "Read the advertisement completely to ensure it fits"
+    },
+    {
+      "id": "n55",
+      "type": "heading",
+      "order": 52,
+      "level": 4,
+      "text": "Cross off used advertisements"
+    },
+    {
+      "id": "n56",
+      "type": "paragraph",
+      "order": 53,
+      "text": "This helps you narrow down options for remaining situations"
+    },
+    {
+      "id": "n57",
+      "type": "heading",
+      "order": 54,
+      "level": 4,
+      "text": "💡 Pro Tip: Watch for \"x\" Option"
+    },
+    {
+      "id": "n58",
+      "type": "paragraph",
+      "order": 55,
+      "text": "Some situations may have NO matching advertisement - in this case, mark \"x\" (keine passende Anzeige). Don't force a match if none of the advertisements truly fit all the requirements."
+    },
+    {
+      "id": "n59",
+      "type": "heading",
+      "order": 56,
+      "level": 2,
+      "text": "Sprachbausteine Teil 1: Grammar Focus"
+    },
+    {
+      "id": "n61",
+      "type": "paragraph",
+      "order": 57,
+      "text": "A gap-fill text (usually an email or letter) with 10 gaps. For each gap, you choose from 3 options (a, b, c). This part tests your grammar knowledge: verb forms, prepositions, conjunctions, articles, pronouns, and more."
+    },
+    {
+      "id": "n62",
+      "type": "heading",
+      "order": 58,
+      "level": 4,
+      "text": "Grammar Topics Tested"
+    },
+    {
+      "id": "n63",
+      "type": "list",
+      "order": 59,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Verb conjugations and tenses"
+        },
+        {
+          "text": "• Prepositions with Akkusativ/Dativ"
+        },
+        {
+          "text": "• Conjunctions (weil, obwohl, damit...)"
+        },
+        {
+          "text": "• Relative pronouns (der, die, das...)"
+        }
+      ]
+    },
+    {
+      "id": "n64",
+      "type": "list",
+      "order": 60,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Articles and declensions"
+        },
+        {
+          "text": "• Pronominaladverbien (darauf, dafür...)"
+        },
+        {
+          "text": "• Particles and modal words"
+        },
+        {
+          "text": "• Konjunktiv II forms"
+        }
+      ]
+    },
+    {
+      "id": "n65",
+      "type": "heading",
+      "order": 61,
+      "level": 3,
+      "text": "Two Approaches"
+    },
+    {
+      "id": "n66",
+      "type": "heading",
+      "order": 62,
+      "level": 4,
+      "text": "🎯 Trust Your Sprachgefühl"
+    },
+    {
+      "id": "n67",
+      "type": "paragraph",
+      "order": 63,
+      "text": "At B2 level, you have developed language intuition. Try reading the sentence with each option - which one \"sounds right\"?"
+    },
+    {
+      "id": "n68",
+      "type": "paragraph",
+      "order": 64,
+      "text": "Best for: When you immediately feel one option is correct"
+    },
+    {
+      "id": "n69",
+      "type": "heading",
+      "order": 65,
+      "level": 4,
+      "text": "📚 Apply Grammar Rules"
+    },
+    {
+      "id": "n70",
+      "type": "paragraph",
+      "order": 66,
+      "text": "Analyze the options systematically: check gender, case, number, tense, and sentence structure."
+    },
+    {
+      "id": "n71",
+      "type": "paragraph",
+      "order": 67,
+      "text": "Best for: When you're unsure and need to eliminate options"
+    },
+    {
+      "id": "n72",
+      "type": "heading",
+      "order": 68,
+      "level": 4,
+      "text": "💡 Pro Tip from Official TELC Guide"
+    },
+    {
+      "id": "n73",
+      "type": "paragraph",
+      "order": 69,
+      "text": "\"Es kann sinnvoll sein, die Lösungsvorschläge gar nicht zu lesen, sondern selbst zu versuchen, die richtige Lösung zu finden.\" - Sometimes it helps to cover the options and think of the answer yourself first, then check if your answer matches one of the options."
+    },
+    {
+      "id": "n74",
+      "type": "heading",
+      "order": 70,
+      "level": 2,
+      "text": "Sprachbausteine Teil 2: Vocabulary Focus"
+    },
+    {
+      "id": "n76",
+      "type": "paragraph",
+      "order": 71,
+      "text": "A magazine-style text with 10 gaps. You choose words from a word bank of 15 options. Five words will NOT be used. This part tests your vocabulary knowledge and understanding of text coherence."
+    },
+    {
+      "id": "n77",
+      "type": "heading",
+      "order": 72,
+      "level": 4,
+      "text": "⚠️ Key Difference from Teil 1"
+    },
+    {
+      "id": "n78",
+      "type": "paragraph",
+      "order": 73,
+      "text": "This part does NOT test grammar (conjugation, declension). The words in the bank are already in their correct form. You need to choose based on meaning and context, not grammar rules."
+    },
+    {
+      "id": "n79",
+      "type": "heading",
+      "order": 74,
+      "level": 3,
+      "text": "Word Types You Will See"
+    },
+    {
+      "id": "n80",
+      "type": "heading",
+      "order": 75,
+      "level": 4,
+      "text": "Linking Words & Connectors"
+    },
+    {
+      "id": "n81",
+      "type": "list",
+      "order": 76,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• jedoch, allerdings, trotzdem"
+        },
+        {
+          "text": "• deshalb, daher, deswegen"
+        },
+        {
+          "text": "• außerdem, zusätzlich, darüber hinaus"
+        },
+        {
+          "text": "• einerseits... andererseits"
+        }
+      ]
+    },
+    {
+      "id": "n82",
+      "type": "heading",
+      "order": 77,
+      "level": 4,
+      "text": "Text Coherence Markers"
+    },
+    {
+      "id": "n83",
+      "type": "list",
+      "order": 78,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• zunächst, dann, schließlich"
+        },
+        {
+          "text": "• ebenso, genauso, ebenfalls"
+        },
+        {
+          "text": "• insbesondere, vor allem"
+        },
+        {
+          "text": "• im Gegensatz dazu, hingegen"
+        }
+      ]
+    },
+    {
+      "id": "n84",
+      "type": "heading",
+      "order": 79,
+      "level": 3,
+      "text": "Recommended Strategy"
+    },
+    {
+      "id": "n85",
+      "type": "paragraph",
+      "order": 80,
+      "text": "Get a sense of the topic and overall structure"
+    },
+    {
+      "id": "n86",
+      "type": "paragraph",
+      "order": 81,
+      "text": "Some words will obviously fit certain gaps"
+    },
+    {
+      "id": "n87",
+      "type": "paragraph",
+      "order": 82,
+      "text": "This narrows down options for difficult gaps"
+    },
+    {
+      "id": "n88",
+      "type": "paragraph",
+      "order": 83,
+      "text": "Even if guessing, fill every gap - no penalty for wrong answers"
+    },
+    {
+      "id": "n89",
+      "type": "heading",
+      "order": 84,
+      "level": 4,
+      "text": "💡 Pro Tip: Context is King"
+    },
+    {
+      "id": "n90",
+      "type": "paragraph",
+      "order": 85,
+      "text": "Read the sentences BEFORE and AFTER each gap. The correct word often creates a logical connection between ideas. Ask yourself: Is this a contrast (aber, jedoch)? A consequence (deshalb, daher)? An addition (außerdem, auch)?"
+    },
+    {
+      "id": "n91",
+      "type": "heading",
+      "order": 86,
+      "level": 2,
+      "text": "Time Management: Your 90-Minute Plan"
+    },
+    {
+      "id": "n92",
+      "type": "heading",
+      "order": 87,
+      "level": 3,
+      "text": "Recommended Time Allocation"
+    },
+    {
+      "id": "n93",
+      "type": "paragraph",
+      "order": 88,
+      "text": "Based on official TELC preparation guidelines"
+    },
+    {
+      "id": "n94",
+      "type": "paragraph",
+      "order": 89,
+      "text": "Don't overthink - trust your first impression"
+    },
+    {
+      "id": "n95",
+      "type": "paragraph",
+      "order": 90,
+      "text": "Use parallel reading strategy"
+    },
+    {
+      "id": "n96",
+      "type": "paragraph",
+      "order": 91,
+      "text": "Scan, don't read every word"
+    },
+    {
+      "id": "n97",
+      "type": "paragraph",
+      "order": 92,
+      "text": "Trust your Sprachgefühl"
+    },
+    {
+      "id": "n98",
+      "type": "paragraph",
+      "order": 93,
+      "text": "Read context before and after gaps"
+    },
+    {
+      "id": "n99",
+      "type": "paragraph",
+      "order": 94,
+      "text": "Double-check all answers are marked"
+    },
+    {
+      "id": "n100",
+      "type": "paragraph",
+      "order": 95,
+      "text": "⏰ Important: You MUST transfer your answers to the answer sheet within the 90 minutes. Plan for this! Answers not on the answer sheet will not be scored."
+    },
+    {
+      "id": "n101",
+      "type": "heading",
+      "order": 96,
+      "level": 2,
+      "text": "Common Mistakes to Avoid"
+    },
+    {
+      "id": "n102",
+      "type": "heading",
+      "order": 97,
+      "level": 3,
+      "text": "Leseverstehen 1"
+    },
+    {
+      "id": "n103",
+      "type": "list",
+      "order": 98,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Matching based on single keywords instead of main idea"
+        },
+        {
+          "text": "✗Not reading all headlines before starting"
+        },
+        {
+          "text": "✗Spending too long on one difficult text"
+        },
+        {
+          "text": "✗Forgetting to cross off used headlines"
+        }
+      ]
+    },
+    {
+      "id": "n104",
+      "type": "heading",
+      "order": 99,
+      "level": 3,
+      "text": "Leseverstehen 2"
+    },
+    {
+      "id": "n105",
+      "type": "list",
+      "order": 100,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Using your own knowledge instead of text information"
+        },
+        {
+          "text": "✗Not checking ALL parts of each answer option"
+        },
+        {
+          "text": "✗Missing hidden negations in the text"
+        },
+        {
+          "text": "✗Reading the entire text before looking at questions"
+        }
+      ]
+    },
+    {
+      "id": "n106",
+      "type": "heading",
+      "order": 101,
+      "level": 3,
+      "text": "Leseverstehen 3"
+    },
+    {
+      "id": "n107",
+      "type": "list",
+      "order": 102,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Matching based on partial requirements only"
+        },
+        {
+          "text": "✗Not reading advertisements completely"
+        },
+        {
+          "text": "✗Forgetting the \"x\" option exists"
+        },
+        {
+          "text": "✗Using the same advertisement twice"
+        }
+      ]
+    },
+    {
+      "id": "n108",
+      "type": "heading",
+      "order": 103,
+      "level": 3,
+      "text": "Sprachbausteine"
+    },
+    {
+      "id": "n109",
+      "type": "list",
+      "order": 104,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Leaving gaps empty when unsure"
+        },
+        {
+          "text": "✗Not reading the full sentence around the gap"
+        },
+        {
+          "text": "✗Ignoring context in Teil 2"
+        },
+        {
+          "text": "✗Forgetting to transfer answers to answer sheet"
+        }
+      ]
+    },
+    {
+      "id": "n110",
+      "type": "heading",
+      "order": 105,
+      "level": 2,
+      "text": "Ready to Practice?"
+    },
+    {
+      "id": "n111",
+      "type": "paragraph",
+      "order": 106,
+      "text": "Put these strategies into action with our comprehensive TELC B2 Reading practice materials. Practice all three Leseverstehen parts with authentic exam-style questions."
+    },
+    {
+      "id": "n112",
+      "type": "heading",
+      "order": 107,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n113",
+      "type": "heading",
+      "order": 108,
+      "level": 2,
+      "text": "Final Exam Day Tips"
+    },
+    {
+      "id": "n114",
+      "type": "heading",
+      "order": 109,
+      "level": 3,
+      "text": "Before You Start"
+    },
+    {
+      "id": "n115",
+      "type": "list",
+      "order": 110,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Skim all tasks to plan your approach"
+        },
+        {
+          "text": "Decide your task order (you can choose!)"
+        },
+        {
+          "text": "Check your watch and plan time checkpoints"
+        }
+      ]
+    },
+    {
+      "id": "n116",
+      "type": "heading",
+      "order": 111,
+      "level": 3,
+      "text": "During the Exam"
+    },
+    {
+      "id": "n117",
+      "type": "list",
+      "order": 112,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Don't get stuck - move on and return later"
+        },
+        {
+          "text": "Answer ALL questions (no penalty for guessing)"
+        },
+        {
+          "text": "Save 10 minutes for answer sheet transfer"
+        }
+      ]
+    },
+    {
+      "id": "n118",
+      "type": "heading",
+      "order": 113,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n119",
+      "type": "heading",
+      "order": 114,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n120",
+      "type": "paragraph",
+      "order": 115,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n121",
+      "type": "heading",
+      "order": 116,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n122",
+      "type": "paragraph",
+      "order": 117,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n123",
+      "type": "heading",
+      "order": 118,
+      "level": 3,
+      "text": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n124",
+      "type": "paragraph",
+      "order": 119,
+      "text": "How to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc/b2/lesen",
+        "text": "Practice Reading Now",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+        "text": "Full TELC B2 Guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+        "text": "Speaking SkillsHow to pass the TELC German test: Proven strategiesHow to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an...10 min readMar 29",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 52,
+      "paragraphs": 56,
+      "lists": 12,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 4,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

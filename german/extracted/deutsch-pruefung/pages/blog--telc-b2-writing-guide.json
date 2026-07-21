@@ -1,0 +1,1450 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/telc-b2-writing-guide",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/telc-b2-writing-guide",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--telc-b2-writing-guide",
+    "sourceType": "web",
+    "title": "TELC B2 Schreiben (Writing) Guide 2026: Complete Strategy & Model Answers",
+    "description": "Master the TELC B2 Schriftlicher Ausdruck (Writing) exam with our comprehensive guide covering both task types, model answers, useful phrases, and expert tips for formal letter writing.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master the TELC B2 Schriftlicher Ausdruck (Writing) exam with our comprehensive guide covering both task types, model answers, useful phrases, and expert tips for formal letter writing.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Schreiben (Writing) Skills",
+      "article:published_time": "2026-01-08",
+      "article:tag": "B2 Level",
+      "og:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2-writing.jpg",
+      "og:title": "TELC B2 Schreiben (Writing) Guide 2026: Complete Strategy & Model Answers",
+      "og:description": "Master the TELC B2 Schriftlicher Ausdruck (Writing) exam with our comprehensive guide covering both task types, model answers, useful phrases, and expert tips for formal letter writing.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Mastering the TELC B2 Schreiben (Writing) Section: Your Complete Guide",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TELC B2 Schreiben (Writing) Guide 2026: Complete Strategy & Model Answers",
+      "twitter:description": "Master the TELC B2 Schriftlicher Ausdruck (Writing) exam with our comprehensive guide covering both task types, model answers, useful phrases, and expert tips for formal letter writing.",
+      "twitter:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2-writing.jpg",
+      "sentry-trace": "dd83a1ddbfe2dacd4d0fb65eb420668d-37f28b1404d913f2-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=dd83a1ddbfe2dacd4d0fb65eb420668d,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2Fblog%2F%5Bslug%5D,sentry-sampled=true,sentry-sample_rand=0.012511608242402827,sentry-sample_rate=0.2"
+    },
+    "wordCount": 2413,
+    "fetchedAt": "2026-07-21T08:28:46.774Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "paragraph",
+      "order": 0,
+      "text": "The TELC B2 Schriftlicher Ausdruck (Writing) section tests your ability to write formal German correspondence at an upper-intermediate level. In just 30 minutes, you must produce a well-structured, grammatically accurate letter of at least 150 words."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "This comprehensive guide breaks down both task types (Information Request and Complaint Letter), provides real exam examples with model answers, and shares proven strategies to help you write confidently and score high on exam day."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "TELC B2 Writing: Exam Overview"
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 3,
+      "text": "What Makes B2 Writing Different?"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "At B2 level, you're expected to write formal correspondence that is clear, well-organized, and grammatically sophisticated. You should use complex sentence structures (Nebensätze, Passiv, Konjunktiv II), appropriate formal register, and demonstrate a broad vocabulary range. Simple sentences and basic vocabulary won't cut it at this level."
+    },
+    {
+      "id": "n6",
+      "type": "heading",
+      "order": 5,
+      "level": 4,
+      "text": "✅ B2 Level Expectations"
+    },
+    {
+      "id": "n7",
+      "type": "list",
+      "order": 6,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Complex sentence structures"
+        },
+        {
+          "text": "• Formal register throughout"
+        },
+        {
+          "text": "• Clear paragraph organization"
+        },
+        {
+          "text": "• Varied vocabulary"
+        },
+        {
+          "text": "• Proper letter format"
+        }
+      ]
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 4,
+      "text": "❌ What to Avoid"
+    },
+    {
+      "id": "n9",
+      "type": "list",
+      "order": 8,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Informal language (du, Hi, Tschüss)"
+        },
+        {
+          "text": "• Only simple sentences"
+        },
+        {
+          "text": "• Missing subject line or greeting"
+        },
+        {
+          "text": "• Ignoring required points"
+        },
+        {
+          "text": "• No paragraph structure"
+        }
+      ]
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 3,
+      "text": "The Two Task Options"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Choose ONE task and complete it within 30 minutes"
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 4,
+      "text": "Aufgabe A: Bitte um Informationen"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Write a formal letter requesting information about a service, product, insurance, course, or opportunity. You'll respond to an advertisement and ask specific questions."
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 4,
+      "text": "Aufgabe B: Beschwerde"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Write a formal complaint letter about a disappointing experience (hotel, course, camp, service). Describe what went wrong and request compensation or resolution."
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 2,
+      "text": "How You're Evaluated: The 3 Criteria"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "Your writing is assessed according to the Common European Framework of Reference (CEFR) on three key criteria. Understanding these helps you focus your preparation effectively."
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 3,
+      "text": "Aufgabenbewältigung"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Task Completion"
+    },
+    {
+      "id": "n20",
+      "type": "list",
+      "order": 19,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Address all required points"
+        },
+        {
+          "text": "Stay on topic throughout"
+        },
+        {
+          "text": "Meet the word count (150+)"
+        }
+      ]
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 3,
+      "text": "Kommunikative Gestaltung"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Communicative Design"
+    },
+    {
+      "id": "n23",
+      "type": "list",
+      "order": 22,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Clear paragraph structure"
+        },
+        {
+          "text": "Logical flow of ideas"
+        },
+        {
+          "text": "Appropriate formal register"
+        }
+      ]
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 3,
+      "text": "Formale Richtigkeit"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Formal Accuracy"
+    },
+    {
+      "id": "n26",
+      "type": "list",
+      "order": 25,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Correct grammar and cases"
+        },
+        {
+          "text": "Proper spelling and punctuation"
+        },
+        {
+          "text": "Complex sentence structures"
+        }
+      ]
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 4,
+      "text": "Pro Tip: Balance Complexity and Accuracy"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "At B2 level, examiners expect complex structures. However, it's better to use moderately complex sentences correctly than to attempt very complex constructions with errors. Show your range, but prioritize clarity and accuracy."
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 2,
+      "text": "Aufgabe A: Bitte um Informationen (Information Request)"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "You read an advertisement and write a formal letter requesting more information. You'll describe your situation, explain your needs, and ask specific questions about the service or product."
+    },
+    {
+      "id": "n31",
+      "type": "heading",
+      "order": 30,
+      "level": 3,
+      "text": "📋 Sample Task: Unfallversicherung (Accident Insurance)"
+    },
+    {
+      "id": "n32",
+      "type": "heading",
+      "order": 31,
+      "level": 4,
+      "text": "Advertisement:"
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 32,
+      "text": "Secura Versicherungen AG - Unfallversicherung für aktive Menschen"
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Alle 4 Sekunden passiert in Deutschland ein Unfall – davon 71% in der Freizeit und im Haushalt. Mit einer privaten Unfallversicherung sind Sie auch in Ihrer Freizeit abgesichert. Weltweit und rund um die Uhr!"
+    },
+    {
+      "id": "n35",
+      "type": "list",
+      "order": 34,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Unfallrente in vereinbarter Höhe"
+        },
+        {
+          "text": "Kostenübernahme bei Spezialbehandlungen (auch im Ausland)"
+        },
+        {
+          "text": "Individuelle Beitragshöhe je nach Beruf/Hobbys"
+        },
+        {
+          "text": "Rabatt-Möglichkeiten – besonders für Familien"
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 35,
+      "level": 4,
+      "text": "Your Situation:"
+    },
+    {
+      "id": "n37",
+      "type": "paragraph",
+      "order": 36,
+      "text": "Sie möchten eine Unfallversicherung abschließen und haben noch Fragen. Sie treiben risikoreichen Sport und reisen auch gerne alleine."
+    },
+    {
+      "id": "n38",
+      "type": "heading",
+      "order": 37,
+      "level": 4,
+      "text": "Points to Address (choose 3 or 2+1 own):"
+    },
+    {
+      "id": "n39",
+      "type": "list",
+      "order": 38,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Legen Sie dar, welchen Sport Sie treiben und wie gefährlich das ist."
+        },
+        {
+          "text": "• Beschreiben Sie Ihre Pläne für zukünftige Reisen und welche Risiken damit verbunden sind."
+        },
+        {
+          "text": "• Erläutern Sie, welche Leistungen Sie sich wünschen."
+        },
+        {
+          "text": "• Stellen Sie weitere Fragen zu den Leistungen."
+        }
+      ]
+    },
+    {
+      "id": "n40",
+      "type": "heading",
+      "order": 39,
+      "level": 3,
+      "text": "📝 Model Answer: Information Request"
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 40,
+      "text": "Betreff: Anfrage zur Unfallversicherung für ExtremsportlerSehr geehrte Damen und Herren, mit großem Interesse habe ich Ihre Anzeige zur Unfallversicherung in der Zeitung gelesen. Da ich einen sehr aktiven Lebensstil führe, möchte ich mich gerne über Ihre Versicherungsleistungen informieren. Ich bin ein begeisterter Extremsportler und betreibe seit mehreren Jahren regelmäßig Felsklettern in den Alpen, Mountainbiking auf anspruchsvollen Trails und im Winter Skifahren abseits der markierten Pisten. Diese Sportarten sind mit einem deutlich erhöhten Verletzungsrisiko verbunden, weshalb ich eine umfassende Absicherung benötige. Außerdem plane ich in den nächsten Jahren mehrere Reisen in abgelegene Regionen. Konkret möchte ich eine Trekkingtour durch den Himalaya unternehmen und später nach Patagonien reisen. Dabei werde ich oft alleine und fernab von medizinischer Versorgung unterwegs sein. Besonders wichtig sind mir folgende Leistungen: eine angemessene Unfallrente bei dauerhafter Invalidität, die vollständige Übernahme von Bergungskosten sowie die Kostenübernahme für medizinische Behandlungen im Ausland. Könnten Sie mir bitte ein individuelles Angebot zusenden? Mich würde außerdem interessieren, wie sich meine Hobbys auf die Beitragshöhe auswirken. Mit freundlichen Grüßen [Ihr Name]"
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Why this works:"
+    },
+    {
+      "id": "n43",
+      "type": "list",
+      "order": 42,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Clear subject line (Betreff) stating the purpose"
+        },
+        {
+          "text": "• Proper formal greeting and closing"
+        },
+        {
+          "text": "• Addresses all required points with specific details"
+        },
+        {
+          "text": "• Uses complex sentence structures (Nebensätze with \"weil\", \"weshalb\")"
+        },
+        {
+          "text": "• Professional tone throughout"
+        },
+        {
+          "text": "• Approximately 200 words"
+        }
+      ]
+    },
+    {
+      "id": "n44",
+      "type": "heading",
+      "order": 43,
+      "level": 4,
+      "text": "🗣️ Useful Phrases for Information Requests"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Opening your letter:"
+    },
+    {
+      "id": "n46",
+      "type": "list",
+      "order": 45,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Mit großem Interesse habe ich Ihre Anzeige gelesen.\""
+        },
+        {
+          "text": "• \"Ich möchte mich über ... informieren.\""
+        },
+        {
+          "text": "• \"Ich wende mich an Sie, weil ...\""
+        }
+      ]
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Asking questions:"
+    },
+    {
+      "id": "n48",
+      "type": "list",
+      "order": 47,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Könnten Sie mir bitte mitteilen, ob ...\""
+        },
+        {
+          "text": "• \"Mich würde interessieren, wie ...\""
+        },
+        {
+          "text": "• \"Ich hätte noch einige Fragen zu ...\""
+        }
+      ]
+    },
+    {
+      "id": "n49",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Describing your situation:"
+    },
+    {
+      "id": "n50",
+      "type": "list",
+      "order": 49,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Da ich ... bin/habe, benötige ich ...\""
+        },
+        {
+          "text": "• \"Aufgrund meiner Situation ...\""
+        },
+        {
+          "text": "• \"Besonders wichtig ist mir ...\""
+        }
+      ]
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Closing your letter:"
+    },
+    {
+      "id": "n52",
+      "type": "list",
+      "order": 51,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Über eine baldige Antwort würde ich mich freuen.\""
+        },
+        {
+          "text": "• \"Ich freue mich auf Ihre Rückmeldung.\""
+        },
+        {
+          "text": "• \"Für weitere Fragen stehe ich gerne zur Verfügung.\""
+        }
+      ]
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 52,
+      "level": 2,
+      "text": "Aufgabe B: Beschwerde (Complaint Letter)"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 53,
+      "text": "You read an advertisement for a service you supposedly used, then write a formal complaint letter. You'll describe what was promised vs. what you experienced, express your dissatisfaction, and request compensation."
+    },
+    {
+      "id": "n55",
+      "type": "heading",
+      "order": 54,
+      "level": 3,
+      "text": "📋 Sample Task: Jugendcamp Silberstrand"
+    },
+    {
+      "id": "n57",
+      "type": "paragraph",
+      "order": 55,
+      "text": "Jugendcamp Silberstrand - Der Urlaubsspaß für junge Leute"
+    },
+    {
+      "id": "n58",
+      "type": "paragraph",
+      "order": 56,
+      "text": "Urlaubsspaß mit internationalem Flair für junge Leute (17–25 Jahre) an einem der herrlichsten deutschen Ostseestrände: komfortable Wohnstudios für jeweils zwei Gäste."
+    },
+    {
+      "id": "n59",
+      "type": "list",
+      "order": 57,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Beachball, Fußball, Volleyball, Surfen, Segeltouren"
+        },
+        {
+          "text": "Tolle Strandpartys mit Livemusik und internationalen Stars"
+        },
+        {
+          "text": "380 Euro pro Woche, alles inklusive"
+        }
+      ]
+    },
+    {
+      "id": "n61",
+      "type": "paragraph",
+      "order": 58,
+      "text": "Sie haben im Jugendcamp Silberstrand zwei Wochen Urlaub gemacht. Leider waren Sie überhaupt nicht zufrieden."
+    },
+    {
+      "id": "n63",
+      "type": "list",
+      "order": 59,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Erklären Sie, was Sie nun vom Veranstalter erwarten."
+        },
+        {
+          "text": "• Beschreiben Sie Ihre Erwartungen nach der Lektüre der Werbeanzeige."
+        },
+        {
+          "text": "• Legen Sie dar, was Sie im Camp erlebt haben."
+        },
+        {
+          "text": "• Beschreiben Sie, was Sie tun, falls Sie keine Antwort bekommen."
+        }
+      ]
+    },
+    {
+      "id": "n64",
+      "type": "heading",
+      "order": 60,
+      "level": 3,
+      "text": "📝 Model Answer: Complaint Letter"
+    },
+    {
+      "id": "n65",
+      "type": "paragraph",
+      "order": 61,
+      "text": "Betreff: Beschwerde über meinen Aufenthalt im Jugendcamp SilberstrandSehr geehrte Damen und Herren, ich habe vom 15. bis 29. Juli zwei Wochen in Ihrem Jugendcamp verbracht und muss Ihnen leider mitteilen, dass ich mit meinem Aufenthalt äußerst unzufrieden war. Nach der Lektüre Ihrer Werbeanzeige hatte ich komfortable Wohnstudios, ein vielfältiges Sportangebot mit Surfen und Segeltouren sowie tolle Abendveranstaltungen mit Livemusik und internationalen Stars erwartet. Ich freute mich auf einen unvergesslichen Urlaub mit viel Spaß und Action. Die tatsächliche Situation vor Ort war jedoch völlig anders. Das Wohnstudio befand sich in einem schlechten Zustand: Die Dusche funktionierte nicht richtig, und es gab Schimmel an den Wänden. Das versprochene Sportangebot war stark eingeschränkt – Surfen und Segeltouren wurden gar nicht angeboten. Die Strandpartys fanden nur zweimal statt, und von internationalen Stars war keine Spur. Angesichts dieser erheblichen Mängel erwarte ich von Ihnen eine Rückerstattung von mindestens 50 Prozent des gezahlten Betrags. Sollte ich innerhalb von zwei Wochen keine zufriedenstellende Antwort erhalten, werde ich mich an die Verbraucherzentrale wenden. Mit freundlichen Grüßen [Ihr Name]"
+    },
+    {
+      "id": "n67",
+      "type": "list",
+      "order": 62,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Clear subject line indicating a complaint"
+        },
+        {
+          "text": "• States dates and duration of stay"
+        },
+        {
+          "text": "• Contrasts expectations (from ad) with reality"
+        },
+        {
+          "text": "• Provides specific examples of problems"
+        },
+        {
+          "text": "• Makes a clear demand (50% refund)"
+        },
+        {
+          "text": "• Includes consequence if no response (Verbraucherzentrale)"
+        },
+        {
+          "text": "• Professional but firm tone"
+        }
+      ]
+    },
+    {
+      "id": "n68",
+      "type": "heading",
+      "order": 63,
+      "level": 4,
+      "text": "🗣️ Useful Phrases for Complaint Letters"
+    },
+    {
+      "id": "n69",
+      "type": "paragraph",
+      "order": 64,
+      "text": "Expressing dissatisfaction:"
+    },
+    {
+      "id": "n70",
+      "type": "list",
+      "order": 65,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Leider muss ich Ihnen mitteilen, dass ...\""
+        },
+        {
+          "text": "• \"Ich war mit ... äußerst unzufrieden.\""
+        },
+        {
+          "text": "• \"Die Realität entsprach nicht Ihren Versprechungen.\""
+        }
+      ]
+    },
+    {
+      "id": "n71",
+      "type": "paragraph",
+      "order": 66,
+      "text": "Describing expectations:"
+    },
+    {
+      "id": "n72",
+      "type": "list",
+      "order": 67,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Nach der Lektüre Ihrer Anzeige hatte ich ... erwartet.\""
+        },
+        {
+          "text": "• \"Laut Ihrer Werbung sollte ...\""
+        },
+        {
+          "text": "• \"Sie hatten ... versprochen.\""
+        }
+      ]
+    },
+    {
+      "id": "n73",
+      "type": "paragraph",
+      "order": 68,
+      "text": "Describing problems:"
+    },
+    {
+      "id": "n74",
+      "type": "list",
+      "order": 69,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Die tatsächliche Situation war völlig anders.\""
+        },
+        {
+          "text": "• \"Stattdessen musste ich feststellen, dass ...\""
+        },
+        {
+          "text": "• \"Besonders enttäuschend war ...\""
+        }
+      ]
+    },
+    {
+      "id": "n75",
+      "type": "paragraph",
+      "order": 70,
+      "text": "Making demands:"
+    },
+    {
+      "id": "n76",
+      "type": "list",
+      "order": 71,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Angesichts dieser Mängel erwarte ich ...\""
+        },
+        {
+          "text": "• \"Ich fordere eine Rückerstattung von ...\""
+        },
+        {
+          "text": "• \"Sollte ich keine Antwort erhalten, werde ich ...\""
+        }
+      ]
+    },
+    {
+      "id": "n77",
+      "type": "heading",
+      "order": 72,
+      "level": 2,
+      "text": "Perfect Letter Structure"
+    },
+    {
+      "id": "n78",
+      "type": "heading",
+      "order": 73,
+      "level": 3,
+      "text": "📋 Essential Letter Components"
+    },
+    {
+      "id": "n79",
+      "type": "paragraph",
+      "order": 74,
+      "text": "1. Betreff (Subject Line)"
+    },
+    {
+      "id": "n80",
+      "type": "paragraph",
+      "order": 75,
+      "text": "One clear line stating your purpose. Examples: \"Anfrage zur Unfallversicherung\" or \"Beschwerde über meinen Aufenthalt\""
+    },
+    {
+      "id": "n81",
+      "type": "paragraph",
+      "order": 76,
+      "text": "2. Anrede (Greeting)"
+    },
+    {
+      "id": "n82",
+      "type": "paragraph",
+      "order": 77,
+      "text": "Always use \"Sehr geehrte Damen und Herren,\" (with comma!) unless you have a specific name."
+    },
+    {
+      "id": "n83",
+      "type": "paragraph",
+      "order": 78,
+      "text": "3. Einleitung (Introduction)"
+    },
+    {
+      "id": "n84",
+      "type": "paragraph",
+      "order": 79,
+      "text": "State why you're writing and reference the advertisement or your experience."
+    },
+    {
+      "id": "n85",
+      "type": "paragraph",
+      "order": 80,
+      "text": "4. Hauptteil (Body)"
+    },
+    {
+      "id": "n86",
+      "type": "paragraph",
+      "order": 81,
+      "text": "Address the required points in separate paragraphs. Be specific and provide details."
+    },
+    {
+      "id": "n87",
+      "type": "paragraph",
+      "order": 82,
+      "text": "5. Schluss (Closing)"
+    },
+    {
+      "id": "n88",
+      "type": "paragraph",
+      "order": 83,
+      "text": "Summarize your request or demand, and express expectation for a response."
+    },
+    {
+      "id": "n89",
+      "type": "paragraph",
+      "order": 84,
+      "text": "6. Grußformel (Closing Formula)"
+    },
+    {
+      "id": "n90",
+      "type": "paragraph",
+      "order": 85,
+      "text": "Always use \"Mit freundlichen Grüßen\" followed by your name on a new line."
+    },
+    {
+      "id": "n91",
+      "type": "heading",
+      "order": 86,
+      "level": 4,
+      "text": "Important: No Address Block Needed!"
+    },
+    {
+      "id": "n92",
+      "type": "paragraph",
+      "order": 87,
+      "text": "In the TELC B2 exam, you do NOT need to write your address, the recipient's address, or the date. Start directly with the Betreff (subject line). This saves valuable time!"
+    },
+    {
+      "id": "n93",
+      "type": "heading",
+      "order": 88,
+      "level": 2,
+      "text": "Time Management Strategy"
+    },
+    {
+      "id": "n94",
+      "type": "heading",
+      "order": 89,
+      "level": 3,
+      "text": "⏱️ 30-Minute Breakdown"
+    },
+    {
+      "id": "n95",
+      "type": "paragraph",
+      "order": 90,
+      "text": "Read Both Tasks"
+    },
+    {
+      "id": "n96",
+      "type": "paragraph",
+      "order": 91,
+      "text": "Quickly scan both options and decide which one suits you better."
+    },
+    {
+      "id": "n97",
+      "type": "paragraph",
+      "order": 92,
+      "text": "Plan Your Letter"
+    },
+    {
+      "id": "n98",
+      "type": "paragraph",
+      "order": 93,
+      "text": "Note which 3 points you'll address and jot down key ideas for each."
+    },
+    {
+      "id": "n99",
+      "type": "paragraph",
+      "order": 94,
+      "text": "Write Your Letter"
+    },
+    {
+      "id": "n100",
+      "type": "paragraph",
+      "order": 95,
+      "text": "Write steadily, focusing on addressing all points with sufficient detail."
+    },
+    {
+      "id": "n101",
+      "type": "paragraph",
+      "order": 96,
+      "text": "Proofread"
+    },
+    {
+      "id": "n102",
+      "type": "paragraph",
+      "order": 97,
+      "text": "Check for grammar errors, missing words, and proper formatting."
+    },
+    {
+      "id": "n103",
+      "type": "heading",
+      "order": 98,
+      "level": 4,
+      "text": "✅ Time-Saving Tips"
+    },
+    {
+      "id": "n104",
+      "type": "list",
+      "order": 99,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Memorize standard phrases beforehand"
+        },
+        {
+          "text": "Don't overthink your choice—decide quickly"
+        },
+        {
+          "text": "Write directly on the answer sheet"
+        },
+        {
+          "text": "Skip the address block (not required)"
+        }
+      ]
+    },
+    {
+      "id": "n105",
+      "type": "heading",
+      "order": 100,
+      "level": 4,
+      "text": "❌ Time Wasters to Avoid"
+    },
+    {
+      "id": "n106",
+      "type": "list",
+      "order": 101,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Writing a rough draft first"
+        },
+        {
+          "text": "Spending too long on one paragraph"
+        },
+        {
+          "text": "Counting words repeatedly"
+        },
+        {
+          "text": "Rewriting entire sentences"
+        }
+      ]
+    },
+    {
+      "id": "n107",
+      "type": "heading",
+      "order": 102,
+      "level": 2,
+      "text": "Common Mistakes to Avoid"
+    },
+    {
+      "id": "n108",
+      "type": "heading",
+      "order": 103,
+      "level": 3,
+      "text": "Content Mistakes"
+    },
+    {
+      "id": "n109",
+      "type": "list",
+      "order": 104,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Not addressing all points: Make sure you cover 3 points (or 2+1 own)"
+        },
+        {
+          "text": "✗Too brief on each point: Each point needs 2-3 sentences minimum"
+        },
+        {
+          "text": "✗Going off-topic: Stay focused on the task requirements"
+        },
+        {
+          "text": "✗Missing the subject line: Always include a Betreff"
+        }
+      ]
+    },
+    {
+      "id": "n110",
+      "type": "heading",
+      "order": 105,
+      "level": 3,
+      "text": "Language Mistakes"
+    },
+    {
+      "id": "n111",
+      "type": "list",
+      "order": 106,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Using \"du\" instead of \"Sie\": Always use formal register"
+        },
+        {
+          "text": "✗Only simple sentences: Use Nebensätze and complex structures"
+        },
+        {
+          "text": "✗Wrong verb position: Remember V2 in main clauses, verb-final in subordinate"
+        },
+        {
+          "text": "✗Case errors: Pay attention to Akkusativ/Dativ after prepositions"
+        }
+      ]
+    },
+    {
+      "id": "n112",
+      "type": "heading",
+      "order": 107,
+      "level": 2,
+      "text": "Essential Grammar for B2 Writing"
+    },
+    {
+      "id": "n113",
+      "type": "heading",
+      "order": 108,
+      "level": 3,
+      "text": "Key Structures to Use"
+    },
+    {
+      "id": "n114",
+      "type": "heading",
+      "order": 109,
+      "level": 4,
+      "text": "Subordinate Clauses (Nebensätze)"
+    },
+    {
+      "id": "n115",
+      "type": "paragraph",
+      "order": 110,
+      "text": "Use conjunctions like: weil, da, obwohl, dass, wenn, falls, damit"
+    },
+    {
+      "id": "n116",
+      "type": "paragraph",
+      "order": 111,
+      "text": "\"Ich schreibe Ihnen, weil ich mit meinem Aufenthalt unzufrieden war.\""
+    },
+    {
+      "id": "n117",
+      "type": "heading",
+      "order": 112,
+      "level": 4,
+      "text": "Konjunktiv II (Polite Requests)"
+    },
+    {
+      "id": "n118",
+      "type": "paragraph",
+      "order": 113,
+      "text": "Use würde + infinitive or modal verbs: könnte, würde, möchte"
+    },
+    {
+      "id": "n119",
+      "type": "paragraph",
+      "order": 114,
+      "text": "\"Könnten Sie mir bitte weitere Informationen zusenden?\""
+    },
+    {
+      "id": "n120",
+      "type": "heading",
+      "order": 115,
+      "level": 4,
+      "text": "Passive Voice (Passiv)"
+    },
+    {
+      "id": "n121",
+      "type": "paragraph",
+      "order": 116,
+      "text": "Use werden + Partizip II for formal descriptions"
+    },
+    {
+      "id": "n122",
+      "type": "paragraph",
+      "order": 117,
+      "text": "\"Das versprochene Sportangebot wurde nicht angeboten.\""
+    },
+    {
+      "id": "n123",
+      "type": "heading",
+      "order": 118,
+      "level": 4,
+      "text": "Relative Clauses (Relativsätze)"
+    },
+    {
+      "id": "n124",
+      "type": "paragraph",
+      "order": 119,
+      "text": "Use der/die/das to add detail to nouns"
+    },
+    {
+      "id": "n125",
+      "type": "paragraph",
+      "order": 120,
+      "text": "\"Die Unterkunft, die Sie in der Anzeige beschrieben haben, war völlig anders.\""
+    },
+    {
+      "id": "n126",
+      "type": "heading",
+      "order": 121,
+      "level": 2,
+      "text": "How to Practice Effectively"
+    },
+    {
+      "id": "n127",
+      "type": "heading",
+      "order": 122,
+      "level": 3,
+      "text": "📝 Practice Routine"
+    },
+    {
+      "id": "n128",
+      "type": "list",
+      "order": 123,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Write one letter per day under timed conditions (30 min)"
+        },
+        {
+          "text": "Alternate between Aufgabe A and Aufgabe B"
+        },
+        {
+          "text": "Use a checklist to self-evaluate your letters"
+        },
+        {
+          "text": "Memorize useful phrases and sentence starters"
+        },
+        {
+          "text": "Practice with different scenarios (insurance, courses, hotels, camps)"
+        }
+      ]
+    },
+    {
+      "id": "n129",
+      "type": "heading",
+      "order": 124,
+      "level": 3,
+      "text": "✅ Self-Evaluation Checklist"
+    },
+    {
+      "id": "n130",
+      "type": "list",
+      "order": 125,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Did I include a subject line (Betreff)?"
+        },
+        {
+          "text": "Did I address all 3 required points?"
+        },
+        {
+          "text": "Did I use formal language throughout?"
+        },
+        {
+          "text": "Did I use complex sentence structures?"
+        },
+        {
+          "text": "Did I write at least 150 words?"
+        },
+        {
+          "text": "Did I proofread for errors?"
+        }
+      ]
+    },
+    {
+      "id": "n131",
+      "type": "heading",
+      "order": 126,
+      "level": 4,
+      "text": "Pro Tip: Build Your Phrase Bank"
+    },
+    {
+      "id": "n132",
+      "type": "paragraph",
+      "order": 127,
+      "text": "Create a personal collection of useful phrases for openings, transitions, requests, complaints, and closings. Practice using them until they become automatic. On exam day, you'll write faster and more confidently."
+    },
+    {
+      "id": "n133",
+      "type": "heading",
+      "order": 128,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n134",
+      "type": "heading",
+      "order": 129,
+      "level": 3,
+      "text": "How long is the TELC B2 Writing exam?"
+    },
+    {
+      "id": "n135",
+      "type": "paragraph",
+      "order": 130,
+      "text": "The TELC B2 Schriftlicher Ausdruck (Writing) section gives you exactly 30 minutes to complete one writing task. You choose between two options: Aufgabe A (Request for Information) or Aufgabe B (Complaint Letter). Time management is crucial—plan about 5 minutes for reading and planning, 20 minutes for writing, and 5 minutes for checking."
+    },
+    {
+      "id": "n136",
+      "type": "heading",
+      "order": 131,
+      "level": 3,
+      "text": "How many words do I need to write?"
+    },
+    {
+      "id": "n137",
+      "type": "paragraph",
+      "order": 132,
+      "text": "You must write at least 150 words. There is no strict maximum, but aim for 150-200 words. Writing significantly less than 150 words will result in point deductions. Quality matters more than quantity—focus on addressing all required points clearly and correctly."
+    },
+    {
+      "id": "n138",
+      "type": "heading",
+      "order": 133,
+      "level": 3,
+      "text": "What are the two task options in TELC B2 Writing?"
+    },
+    {
+      "id": "n139",
+      "type": "paragraph",
+      "order": 134,
+      "text": "Aufgabe A is a \"Bitte um Informationen\" (Request for Information) where you write a formal letter asking for details about a service, product, or opportunity. Aufgabe B is a \"Beschwerde\" (Complaint Letter) where you express dissatisfaction about a disappointing experience and request compensation or resolution."
+    },
+    {
+      "id": "n140",
+      "type": "heading",
+      "order": 135,
+      "level": 3,
+      "text": "How many points do I need to address in my letter?"
+    },
+    {
+      "id": "n141",
+      "type": "paragraph",
+      "order": 136,
+      "text": "You must address either: a) three of the four given points, OR b) two of the given points plus one additional aspect of your own choice. Make sure each point is clearly addressed with sufficient detail—don't just mention them briefly."
+    },
+    {
+      "id": "n142",
+      "type": "heading",
+      "order": 137,
+      "level": 3,
+      "text": "What format should my letter follow?"
+    },
+    {
+      "id": "n143",
+      "type": "paragraph",
+      "order": 138,
+      "text": "Your letter needs: a subject line (Betreff), appropriate greeting (Sehr geehrte Damen und Herren), clear introduction stating your purpose, body paragraphs covering the required points, and a formal closing (Mit freundlichen Grüßen). Use formal \"Sie\" throughout and maintain a professional tone."
+    },
+    {
+      "id": "n144",
+      "type": "heading",
+      "order": 139,
+      "level": 3,
+      "text": "How is the TELC B2 Writing section scored?"
+    },
+    {
+      "id": "n145",
+      "type": "paragraph",
+      "order": 140,
+      "text": "You can earn up to 45 points in the Writing section. Your text is evaluated on three criteria: I. Aufgabenbewältigung (Task Completion) - did you address all required points? II. Kommunikative Gestaltung (Communicative Design) - is your text well-structured and coherent? III. Formale Richtigkeit (Formal Accuracy) - grammar, spelling, and punctuation."
+    },
+    {
+      "id": "n146",
+      "type": "heading",
+      "order": 141,
+      "level": 3,
+      "text": "Should I choose Aufgabe A or Aufgabe B?"
+    },
+    {
+      "id": "n147",
+      "type": "paragraph",
+      "order": 142,
+      "text": "Choose based on your strengths. Aufgabe A (Information Request) is often easier if you're good at asking questions and describing your needs. Aufgabe B (Complaint) works well if you can express dissatisfaction professionally and make clear demands. Read both options quickly and decide within 1-2 minutes."
+    },
+    {
+      "id": "n148",
+      "type": "heading",
+      "order": 143,
+      "level": 3,
+      "text": "What are common mistakes to avoid in TELC B2 Writing?"
+    },
+    {
+      "id": "n149",
+      "type": "paragraph",
+      "order": 144,
+      "text": "Common mistakes include: not addressing all required points, using informal language (du instead of Sie), forgetting the subject line or proper greeting, poor paragraph structure, running out of time, and not proofreading. Also avoid overly complex sentences that lead to grammatical errors."
+    },
+    {
+      "id": "n150",
+      "type": "heading",
+      "order": 145,
+      "level": 2,
+      "text": "Ready to Practice TELC B2 Writing?"
+    },
+    {
+      "id": "n151",
+      "type": "paragraph",
+      "order": 146,
+      "text": "Put these strategies into action with our authentic TELC B2 Schriftlicher Ausdruck practice tasks. Write formal letters with real exam-style prompts."
+    },
+    {
+      "id": "n152",
+      "type": "heading",
+      "order": 147,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n153",
+      "type": "heading",
+      "order": 148,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n154",
+      "type": "paragraph",
+      "order": 149,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n155",
+      "type": "heading",
+      "order": 150,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n156",
+      "type": "paragraph",
+      "order": 151,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n157",
+      "type": "heading",
+      "order": 152,
+      "level": 3,
+      "text": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n158",
+      "type": "paragraph",
+      "order": 153,
+      "text": "How to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc/b2/schreiben",
+        "text": "Start Practicing Now →",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+        "text": "Speaking SkillsHow to pass the TELC German test: Proven strategiesHow to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an...10 min readMar 29",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 57,
+      "paragraphs": 72,
+      "lists": 25,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 5,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 4,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/c1/sprechen",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/c1/sprechen",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--c1--sprechen",
+    "sourceType": "web",
+    "title": "TELC German C1 Sprechen (Speaking) Practice Overview",
+    "description": "Overview of parts with tips and links to start speaking practice. Prepare for TELC German C1 sprechen (speaking) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "C1",
+    "section": "sprechen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start speaking practice. Prepare for TELC German C1 sprechen (speaking) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German C1 Sprechen (Speaking) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start speaking practice. Prepare for TELC German C1 sprechen (speaking) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/c1/sprechen",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20Sprechen%20(Speaking)&subtitle=Practice%20Overview&type=telc&level=c1&section=sprechen",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German C1 Sprechen (Speaking) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German C1 Sprechen (Speaking) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start speaking practice. Prepare for TELC German C1 sprechen (speaking) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20Sprechen%20(Speaking)&subtitle=Practice%20Overview&type=telc&level=c1&section=sprechen",
+      "sentry-trace": "b10a00ab7f8cdc42b05f96fdc7f0ce10-0b289af9efa411f2-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=b10a00ab7f8cdc42b05f96fdc7f0ce10,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.4581407322108719,sentry-sample_rate=0.2"
+    },
+    "wordCount": 75,
+    "fetchedAt": "2026-07-21T08:29:42.565Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 2,
+      "text": "TELC C1 Speaking - Coming Soon! 🚀"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "We're currently working on creating high-quality practice questions for TELC C1 Speaking. In the meantime, we recommend practicing with our comprehensive TELC A1 materials to build a strong foundation."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 3,
+      "text": "📚Available Practice Materials"
+    },
+    {
+      "id": "n4",
+      "type": "paragraph",
+      "order": 3,
+      "text": "Start your journey with these comprehensive A1 practice sections:"
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 3,
+      "text": "🔄Also Available: Goethe A1"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "Both TELC and Goethe follow the same CEFR standards. Practice with Goethe A1 materials to strengthen your German skills!"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 3,
+      "text": "📖Helpful Guides & Tips"
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/c1",
+        "text": "C1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/a1/hoeren",
+        "text": "TELC A1 ListeningPractice now →",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/a1/lesen",
+        "text": "TELC A1 ReadingPractice now →",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/a1/schreiben",
+        "text": "TELC A1 WritingPractice now →",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/telc/a1/sprechen",
+        "text": "TELC A1 SpeakingPractice now →",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/goethe/a1/sprechen",
+        "text": "Explore Goethe A1 Speaking",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/blog/goethe-a1-ultimate-guide",
+        "text": "Complete Goethe A1 Exam GuideEverything you need to know about the exam format and strategies",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+        "text": "TELC vs Goethe: Which Exam Should You Take?Compare formats, acceptance, and preparation strategies",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-speaking-guide",
+        "text": "Master the A1 Speaking SectionPhrase banks, tips, and practice strategies",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 4,
+      "paragraphs": 3,
+      "lists": 0,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 11,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

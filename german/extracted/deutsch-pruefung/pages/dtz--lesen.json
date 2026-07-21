@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/dtz/lesen",
+    "canonicalUrl": "https://deutsch-pruefung.de/dtz/lesen",
+    "site": "deutsch-pruefung.de",
+    "slug": "dtz--lesen",
+    "sourceType": "web",
+    "title": "DTZ Lesen (Reading) Practice | Deutsch-Test für Zuwanderer",
+    "description": "Practice DTZ Lesen (Reading) section with exam-style questions. 5 parts covering catalogs, advertisements, press texts, brochures, and letter gap-fill.",
+    "lang": "en",
+    "exam": "dtz",
+    "level": "unknown",
+    "section": "lesen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Practice DTZ Lesen (Reading) section with exam-style questions. 5 parts covering catalogs, advertisements, press texts, brochures, and letter gap-fill.",
+      "author": "German Exam Practice",
+      "og:title": "DTZ Lesen (Reading) Practice | Deutsch-Test für Zuwanderer",
+      "og:description": "Practice DTZ Lesen (Reading) section with exam-style questions. 5 parts covering catalogs, advertisements, press texts, brochures, and letter gap-fill.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "3b1da3bd9f3984846f7c1596e7f5d42f-03a8cbd6e6701c61-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=3b1da3bd9f3984846f7c1596e7f5d42f,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.48033260670233435,sentry-sample_rate=0.2"
+    },
+    "wordCount": 219,
+    "fetchedAt": "2026-07-21T08:27:31.023Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The DTZ Lesen (Reading) section takes 45 minutes and tests your ability to understand written German texts from everyday life. You will read catalogs, advertisements, newspaper articles, brochures, and letters."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Kataloge, Register, Verzeichnisse verstehen"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Read catalogs, registers, and directories"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Find specific information in structured texts"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Allgemeine und spezifische Informationen in Anzeigen verstehen"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Read advertisements and notices"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Match situations to appropriate advertisements"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Informationen und Meinungen in Pressetexten verstehen"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Read newspaper articles and formal communications"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Understand information, opinions, and arguments"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 4,
+      "text": "Teil 4: Informationsbroschüren verstehen"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "• Read information brochures and guides"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "• Extract key information and understand instructions"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 4,
+      "text": "Teil 5: Wörter in einem Brief ergänzen"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "• Complete gaps in a letter with appropriate words"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "• Understand text coherence and vocabulary in context"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Select a Teil to begin"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 3,
+      "text": "Teil 1 - Kataloge, Register, Verzeichnisse verstehen"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Goal: Kataloge, Register, Verzeichnisse verstehen"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 3,
+      "text": "Teil 2 - Allgemeine und spezifische Informationen in Anzeigen verstehen"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Goal: Allgemeine und spezifische Informationen in Anzeigen verstehen"
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 3,
+      "text": "Teil 3 - Informationen und Meinungen in Pressetexten verstehen"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Goal: Informationen und Meinungen in Pressetexten verstehen"
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 3,
+      "text": "Teil 4 - Informationsbroschüren verstehen"
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Goal: Informationsbroschüren verstehen"
+    },
+    {
+      "id": "n28",
+      "type": "heading",
+      "order": 27,
+      "level": 3,
+      "text": "Teil 5 - Wörter in einem Brief ergänzen"
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "Goal: Wörter in einem Brief ergänzen"
+    },
+    {
+      "id": "n30",
+      "type": "heading",
+      "order": 29,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "Answers to popular questions about DTZ Lesen (Reading) practice"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/dtz/lesen/teil1",
+        "text": "Teil 1 - Kataloge, Register, Verzeichnisse verstehenGoal: Kataloge, Register, Verzeichnisse verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart5 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/dtz/lesen/teil2",
+        "text": "Teil 2 - Allgemeine und spezifische Informationen in Anzeigen verstehenGoal: Allgemeine und spezifische Informationen in Anzeigen verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart5 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/dtz/lesen/teil3",
+        "text": "Teil 3 - Informationen und Meinungen in Pressetexten verstehenGoal: Informationen und Meinungen in Pressetexten verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart6 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/dtz/lesen/teil4",
+        "text": "Teil 4 - Informationsbroschüren verstehenGoal: Informationsbroschüren verstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart3 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/dtz/lesen/teil5",
+        "text": "Teil 5 - Wörter in einem Brief ergänzenGoal: Wörter in einem Brief ergänzen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart6 questions to practiseCompletion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 12,
+      "paragraphs": 18,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 7,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

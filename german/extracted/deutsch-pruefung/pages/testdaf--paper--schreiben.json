@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/testdaf/paper/schreiben",
+    "canonicalUrl": "https://deutsch-pruefung.de/testdaf/paper/schreiben",
+    "site": "deutsch-pruefung.de",
+    "slug": "testdaf--paper--schreiben",
+    "sourceType": "web",
+    "title": "Paper-Based TestDaF Schreiben (Writing) Prep | Deutsch Prüfung",
+    "description": "Prepare for the paper-based TestDaF Writing (Schriftlicher Ausdruck) section with exam-style practice for the B2-C1 academic German exam.",
+    "lang": "en",
+    "exam": "testdaf",
+    "level": "unknown",
+    "section": "schreiben",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Prepare for the paper-based TestDaF Writing (Schriftlicher Ausdruck) section with exam-style practice for the B2-C1 academic German exam.",
+      "author": "German Exam Practice",
+      "og:title": "Paper-Based TestDaF Schreiben (Writing) Prep | Deutsch Prüfung",
+      "og:description": "Prepare for the paper-based TestDaF Writing (Schriftlicher Ausdruck) section with exam-style practice for the B2-C1 academic German exam.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "5dbfd089e240b4148353be7979c9b231-acb849b3b5969bb7-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=5dbfd089e240b4148353be7979c9b231,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.7964561216049153,sentry-sample_rate=0.2"
+    },
+    "wordCount": 495,
+    "fetchedAt": "2026-07-21T08:28:10.705Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The paper-based TestDaF Schriftlicher Ausdruck has one official writing task. You write a handwritten, connected, clearly structured text on an academic or study-related topic. The task combines graph description, use of source information, and reasoned argumentation."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Work phase: Grafikbeschreibung"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "- Extract the most important graph information and describe it accurately."
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "- Identify trends, compare groups, and summarise the data in your own words."
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "- The official model-test guidance recommends spending no more than about 20 minutes here."
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 4,
+      "text": "Work phase: Argumentation"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "- Discuss the topic clearly and justify your position with reasons."
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "- Use transitions so the reader can follow the move from data description to discussion."
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "- Include the situation in your home country when the task asks for it."
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Official evaluation focus"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "TestDaF raters look at reader effect, clear structure, successful completion of the required writing actions, accurate graph/source use, and language quality. Verständlichkeit matters more than isolated perfection."
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Teil 1 - Schriftlicher Ausdruck"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "One connected academic text with graph description, source use, and reasoned argumentation."
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "What this Teil trains"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "Write only one final text on the Schreibbogen."
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Describe and compare the important graph information, not every number."
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Discuss the topic clearly and justify your position."
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Include the required reference to your home country when the task asks for it."
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "The paper-based TestDaF Schriftlicher Ausdruck has one task and takes 60 minutes, plus about 5 minutes for instructions in the official model test. You write one connected, clearly structured handwritten text with graph description and argumentation. It is not split into several Teile."
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "You write about one specified topic. The official format asks you to use source material, describe and summarise graph information, make comparisons, discuss the issue, and justify your own position. Some tasks also ask you to refer to the situation in your home country."
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "The official model-test instructions recommend using no more than about 20 minutes for the graph description and no more than about 40 minutes for the argumentation. That is a guideline, not a separate exam part: your final answer should read as one coherent text."
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "In the paper-based TestDaF, only the text on the Schreibbogen is assessed. You may use the Konzeptpapier for notes or drafting, but notes and drafts are not graded. Write with a black or blue ballpoint pen and leave enough time to make the final text readable."
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Trained TestDaF raters assess the text using official criteria. They look at the reader effect, whether the train of thought is clear, whether the text is well structured with transitions, whether the required writing actions are fulfilled, whether graph/source information is accurate, and how appropriate the vocabulary, grammar, and style are."
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Do not write two disconnected mini-texts. Build one clear text: introduce the topic, describe the important graph information accurately, move into the discussion with a transition, justify your position, include the required home-country reference if asked, and finish with a short conclusion."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/testdaf/paper",
+        "text": "Paper",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/schreiben/teil1",
+        "text": "Teil 1 - Schriftlicher AusdruckOne connected academic text with graph description, source use, and reasoned argumentation.- 0 Reviewed- 0% AccuracyStartGraph description|Argumentation|60 Min.Loading writing prompts...0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 6,
+      "paragraphs": 21,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 4,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

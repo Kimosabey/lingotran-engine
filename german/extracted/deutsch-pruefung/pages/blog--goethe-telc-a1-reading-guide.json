@@ -1,0 +1,985 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/goethe-telc-a1-reading-guide",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/goethe-telc-a1-reading-guide",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--goethe-telc-a1-reading-guide",
+    "sourceType": "web",
+    "title": "Goethe & TELC A1 Lesen (Reading) Guide: Strategies, Examples & Tips",
+    "description": "Master the Goethe and TELC A1 Lesen (reading) section with proven strategies for emails, website matching, and signs. Includes practice examples and common traps to avoid.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master the Goethe and TELC A1 Lesen (reading) section with proven strategies for emails, website matching, and signs. Includes practice examples and common traps to avoid.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Lesen (Reading) Skills",
+      "article:published_time": "2025-12-17",
+      "article:tag": "German Exam Tips",
+      "og:image": "https://deutsch-pruefung.de/blog/images/blog-image-lesen.jpg",
+      "og:title": "Goethe & TELC A1 Lesen (Reading) Guide: Strategies, Examples & Tips",
+      "og:description": "Master the Goethe and TELC A1 Lesen (reading) section with proven strategies for emails, website matching, and signs. Includes practice examples and common traps to avoid.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Mastering the Goethe/TELC A1 Lesen (Reading) Section: Your Complete Guide",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Goethe & TELC A1 Lesen (Reading) Guide: Strategies, Examples & Tips",
+      "twitter:description": "Master the Goethe and TELC A1 Lesen (reading) section with proven strategies for emails, website matching, and signs. Includes practice examples and common traps to avoid.",
+      "twitter:image": "https://deutsch-pruefung.de/blog/images/blog-image-lesen.jpg",
+      "sentry-trace": "ea481dfbb7786d50a2646bfed90d2598-e29356f9f560ec2f-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=ea481dfbb7786d50a2646bfed90d2598,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.40183938933388563,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1237,
+    "fetchedAt": "2026-07-21T08:28:57.366Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 2,
+      "text": "Mastering the Goethe & TELC A1 Reading Section"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "The Lesen (Reading) section tests your ability to understand everyday German texts—emails, short messages, signs, and website snippets. With 25 minutes to answer questions across three parts, success comes from knowing what to look for and avoiding common traps. This guide breaks down each task type with real examples and proven strategies."
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "25 minutes total"
+    },
+    {
+      "id": "n4",
+      "type": "paragraph",
+      "order": 3,
+      "text": "Three parts with different text types."
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "15 questions"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "Teil 1: 5, Teil 2: 5, Teil 3: 5 questions."
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "Richtig/Falsch format"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Most answers are True/False decisions."
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 2,
+      "text": "Structure at a Glance"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 3,
+      "text": "Teil 1 · Personal Messages"
+    },
+    {
+      "id": "n11",
+      "type": "list",
+      "order": 10,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Emails, letters, SMS"
+        },
+        {
+          "text": "Richtig/Falsch questions"
+        },
+        {
+          "text": "Focus on specific details"
+        },
+        {
+          "text": "~8 minutes"
+        }
+      ]
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 3,
+      "text": "Teil 2 · Website Matching"
+    },
+    {
+      "id": "n13",
+      "type": "list",
+      "order": 12,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Two website snippets per question"
+        },
+        {
+          "text": "Match situation to correct website"
+        },
+        {
+          "text": "Practical information focus"
+        },
+        {
+          "text": "~8 minutes"
+        }
+      ]
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Teil 3 · Signs & Notices"
+    },
+    {
+      "id": "n15",
+      "type": "list",
+      "order": 14,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Short public signs"
+        },
+        {
+          "text": "Opening hours, rules, announcements"
+        },
+        {
+          "text": "Richtig/Falsch format"
+        },
+        {
+          "text": "~9 minutes"
+        }
+      ]
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 2,
+      "text": "Teil 1: Understanding Personal Messages"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "In Teil 1, you read short personal texts like emails, letters, or SMS messages. Each text is followed by 2-3 statements. You must decide if each statement is Richtig (True) or Falsch (False) based on the information in the text."
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Key Strategy"
+    },
+    {
+      "id": "n19",
+      "type": "list",
+      "order": 18,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Read the question first — know what information you're looking for"
+        },
+        {
+          "text": "Scan the text for keywords related to the question"
+        },
+        {
+          "text": "Compare carefully — the statement may use different words than the text"
+        },
+        {
+          "text": "Watch for traps — negations, time expressions, and similar-sounding words"
+        }
+      ]
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 3,
+      "text": "Practice Examples"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Text:"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Hallo Li, Danke für deine Mail. Dein Zug kommt hier in Hannover um 12.36 Uhr an. Ich bin ab 12.15 Uhr im Hauptbahnhof und warte auf dich vor der Auskunft. Deine Karin"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Statement:"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Lis Zug kommt nach halb eins an."
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Why? Halb eins ist 12:30 Uhr; 12:36 Uhr ist also nach halb eins. (Half one means 12:30; 12:36 is therefore after half one.)"
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Liebe Carmen, am kommenden Sonntag habe ich Geburtstag. Ich möchte gerne mit dir feiern und lade dich herzlich zu meiner Party am Samstagabend ein. Es werden viele Leute da sein, die du auch kennst. Bis zum Wochenende Ralf"
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Ralf hatte am letzten Wochenende Geburtstag."
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Why? Im Text steht: \"am kommenden Sonntag habe ich Geburtstag\" — nicht am letzten Wochenende. (The text says: \"next Sunday is my birthday\" — not last weekend.)"
+    },
+    {
+      "id": "n31",
+      "type": "heading",
+      "order": 28,
+      "level": 2,
+      "text": "Teil 2: Matching Situations to Websites"
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Teil 2 presents practical situations and two website options. You must choose which website (a or b) best matches the given situation. Focus on the purpose of each website and what services it offers."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 30,
+      "level": 4,
+      "text": "Quick Tips for Teil 2"
+    },
+    {
+      "id": "n34",
+      "type": "list",
+      "order": 31,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Identify the need: What does the person want? (buy, learn, find info, book)"
+        },
+        {
+          "text": "Scan for keywords: Look for action words like \"kaufen\", \"buchen\", \"Informationen\""
+        },
+        {
+          "text": "Don't be fooled by similar topics: A hotel named \"Schiff\" is not a boat cruise!"
+        },
+        {
+          "text": "Check the services offered: \"Preise\" and \"Buchung\" suggest you can buy something"
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 32,
+      "text": "Sie möchten mit dem Schiff auf dem Rhein fahren. Wo bekommen Sie Informationen?"
+    },
+    {
+      "id": "n37",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Option A:"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 34,
+      "text": "www.schiff-ruedesheim.de Hotel – Pension – Schiff Einzel- und Doppelzimmer mit Dusche/WC Restaurant mit Rhein-Terrasse"
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 35,
+      "text": "Option B:"
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 36,
+      "text": "www.bingen-ruedesheimer.de Bingen-Rüdesheimer Rheinschiffe Täglich von Rüdesheim nach Koblenz alle Abfahrtszeiten und Preise"
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 37,
+      "text": "Sie möchten Deutsch in Deutschland lernen. Wo finden Sie Informationen?"
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 38,
+      "text": "www.sprachenfuchs.de Sprachinstitut Fuchs Dresden, Prager Str. 4 – Deutsch – Englisch – Französisch"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 39,
+      "text": "www.eviva.com Eviva-Idiomas Sprachkurse für Deutsche Spanisch auf Mallorca, Englisch auf Malta"
+    },
+    {
+      "id": "n46",
+      "type": "heading",
+      "order": 40,
+      "level": 2,
+      "text": "Teil 3: Reading Signs and Notices"
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Teil 3 tests your ability to understand short public texts: signs at train stations, notices in shops, announcements in schools, or information boards. Each sign comes with a location context and a Richtig/Falsch question."
+    },
+    {
+      "id": "n48",
+      "type": "heading",
+      "order": 42,
+      "level": 4,
+      "text": "Common Sign Locations"
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 43,
+      "text": "In der 10-Uhr-Pause bekommen Sie an der Rezeption ein Frühstückspaket: Belegte Brötchen und Getränke für 2 Euro."
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 44,
+      "text": "In der Sprachschule können Sie etwas zu essen kaufen."
+    },
+    {
+      "id": "n52",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Der Aushang beschreibt ein Frühstückspaket mit belegten Brötchen und Getränken für 2 Euro. (The notice describes a breakfast package with filled rolls and drinks for 2 Euro.)"
+    },
+    {
+      "id": "n53",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Öffnungszeiten: montags–freitags 8.00–12.00 und 13.00–18.00 samstags 8.00–12.00"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Es ist Samstagnachmittag. Sie können auf der Post Briefmarken kaufen."
+    },
+    {
+      "id": "n55",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Am Samstagnachmittag (nach 12:00) ist die Post geschlossen; samstags ist nur 8.00–12.00 geöffnet. (On Saturday afternoon (after 12:00) the post office is closed; on Saturdays it is only open 8:00–12:00.)"
+    },
+    {
+      "id": "n56",
+      "type": "paragraph",
+      "order": 49,
+      "text": "Auf dem gesamten Bahnhof ist das Rauchen verboten."
+    },
+    {
+      "id": "n57",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Sie können hier Zigaretten rauchen."
+    },
+    {
+      "id": "n58",
+      "type": "paragraph",
+      "order": 51,
+      "text": "Der Aushang sagt: Auf dem gesamten Bahnhof ist Rauchen verboten. (The sign says: Smoking is prohibited throughout the entire train station.)"
+    },
+    {
+      "id": "n59",
+      "type": "heading",
+      "order": 52,
+      "level": 2,
+      "text": "Common Traps to Avoid"
+    },
+    {
+      "id": "n60",
+      "type": "heading",
+      "order": 53,
+      "level": 3,
+      "text": "Time confusion"
+    },
+    {
+      "id": "n61",
+      "type": "paragraph",
+      "order": 54,
+      "text": "\"halb eins\" = 12:30, not 1:30"
+    },
+    {
+      "id": "n62",
+      "type": "paragraph",
+      "order": 55,
+      "text": "Tip: German \"halb\" means half TO the hour, not half past."
+    },
+    {
+      "id": "n63",
+      "type": "heading",
+      "order": 56,
+      "level": 3,
+      "text": "Negation words"
+    },
+    {
+      "id": "n64",
+      "type": "paragraph",
+      "order": 57,
+      "text": "\"nicht\", \"kein\", \"nur\", \"außer\""
+    },
+    {
+      "id": "n65",
+      "type": "paragraph",
+      "order": 58,
+      "text": "Tip: These words flip the meaning. Read carefully!"
+    },
+    {
+      "id": "n66",
+      "type": "heading",
+      "order": 59,
+      "level": 3,
+      "text": "Similar-sounding words"
+    },
+    {
+      "id": "n67",
+      "type": "paragraph",
+      "order": 60,
+      "text": "\"Küchentisch\" vs \"Kuchen\""
+    },
+    {
+      "id": "n68",
+      "type": "paragraph",
+      "order": 61,
+      "text": "Tip: Don't assume based on partial word recognition."
+    },
+    {
+      "id": "n69",
+      "type": "heading",
+      "order": 62,
+      "level": 3,
+      "text": "Future vs Past"
+    },
+    {
+      "id": "n70",
+      "type": "paragraph",
+      "order": 63,
+      "text": "\"am kommenden\" vs \"am letzten\""
+    },
+    {
+      "id": "n71",
+      "type": "paragraph",
+      "order": 64,
+      "text": "Tip: Check if events are upcoming or already happened."
+    },
+    {
+      "id": "n72",
+      "type": "heading",
+      "order": 65,
+      "level": 2,
+      "text": "Essential Vocabulary for Lesen"
+    },
+    {
+      "id": "n73",
+      "type": "heading",
+      "order": 66,
+      "level": 3,
+      "text": "Time expressions"
+    },
+    {
+      "id": "n74",
+      "type": "list",
+      "order": 67,
+      "ordered": false,
+      "items": [
+        {
+          "text": "halb (half to the hour)"
+        },
+        {
+          "text": "Viertel vor/nach (quarter to/past)"
+        },
+        {
+          "text": "morgens/abends (in the morning/evening)"
+        },
+        {
+          "text": "am Wochenende (on the weekend)"
+        },
+        {
+          "text": "nächste Woche (next week)"
+        },
+        {
+          "text": "ab sofort (from now on)"
+        }
+      ]
+    },
+    {
+      "id": "n75",
+      "type": "heading",
+      "order": 68,
+      "level": 3,
+      "text": "Location words"
+    },
+    {
+      "id": "n76",
+      "type": "list",
+      "order": 69,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Bahnhof (train station)"
+        },
+        {
+          "text": "Haltestelle (bus/tram stop)"
+        },
+        {
+          "text": "Eingang (entrance)"
+        },
+        {
+          "text": "Rezeption (reception)"
+        },
+        {
+          "text": "im ersten Stock (on the first floor)"
+        },
+        {
+          "text": "neben/vor/hinter (next to/in front of/behind)"
+        }
+      ]
+    },
+    {
+      "id": "n77",
+      "type": "heading",
+      "order": 70,
+      "level": 3,
+      "text": "Action verbs"
+    },
+    {
+      "id": "n78",
+      "type": "list",
+      "order": 71,
+      "ordered": false,
+      "items": [
+        {
+          "text": "öffnen/schließen (to open/close)"
+        },
+        {
+          "text": "kaufen/verkaufen (to buy/sell)"
+        },
+        {
+          "text": "mieten (to rent)"
+        },
+        {
+          "text": "reservieren (to reserve)"
+        },
+        {
+          "text": "anmelden (to register)"
+        },
+        {
+          "text": "abholen (to pick up)"
+        }
+      ]
+    },
+    {
+      "id": "n79",
+      "type": "heading",
+      "order": 72,
+      "level": 2,
+      "text": "Time Management Strategy"
+    },
+    {
+      "id": "n80",
+      "type": "paragraph",
+      "order": 73,
+      "text": "~8 min"
+    },
+    {
+      "id": "n81",
+      "type": "paragraph",
+      "order": 74,
+      "text": "Teil 1: Personal Messages"
+    },
+    {
+      "id": "n82",
+      "type": "paragraph",
+      "order": 75,
+      "text": "Read carefully, check details"
+    },
+    {
+      "id": "n84",
+      "type": "paragraph",
+      "order": 76,
+      "text": "Teil 2: Website Matching"
+    },
+    {
+      "id": "n85",
+      "type": "paragraph",
+      "order": 77,
+      "text": "Quick scanning, keyword focus"
+    },
+    {
+      "id": "n86",
+      "type": "paragraph",
+      "order": 78,
+      "text": "~9 min"
+    },
+    {
+      "id": "n87",
+      "type": "paragraph",
+      "order": 79,
+      "text": "Teil 3: Signs & Notices"
+    },
+    {
+      "id": "n88",
+      "type": "paragraph",
+      "order": 80,
+      "text": "Short texts, precise answers"
+    },
+    {
+      "id": "n89",
+      "type": "paragraph",
+      "order": 81,
+      "text": "Pro tip: If you're stuck on a question, mark it and move on. Come back with fresh eyes if time permits. Never leave any answer blank—you have a 50% chance with Richtig/Falsch!"
+    },
+    {
+      "id": "n90",
+      "type": "heading",
+      "order": 82,
+      "level": 2,
+      "text": "Exam-Day Checklist"
+    },
+    {
+      "id": "n91",
+      "type": "list",
+      "order": 83,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Read the question BEFORE reading the text"
+        },
+        {
+          "text": "Underline keywords in both question and text"
+        },
+        {
+          "text": "Watch for negation words: nicht, kein, nur, außer"
+        },
+        {
+          "text": "Double-check time expressions (halb, Viertel, ab, bis)"
+        },
+        {
+          "text": "Don't assume—only use information from the text"
+        },
+        {
+          "text": "Answer every question, even if unsure"
+        },
+        {
+          "text": "Review your answers if time permits"
+        }
+      ]
+    },
+    {
+      "id": "n92",
+      "type": "heading",
+      "order": 84,
+      "level": 2,
+      "text": "Goethe vs TELC: Key Differences"
+    },
+    {
+      "id": "n93",
+      "type": "table",
+      "order": 85,
+      "headers": [
+        [
+          "Aspect",
+          "Goethe A1",
+          "TELC A1"
+        ]
+      ],
+      "rows": [
+        [
+          "Duration",
+          "25 minutes",
+          "25 minutes"
+        ],
+        [
+          "Number of parts",
+          "3 parts",
+          "3 parts"
+        ],
+        [
+          "Text types",
+          "Emails, websites, signs",
+          "Similar, slightly more formal"
+        ],
+        [
+          "Question format",
+          "Richtig/Falsch + matching",
+          "Richtig/Falsch + matching"
+        ],
+        [
+          "Passing score",
+          "60% overall",
+          "60% overall"
+        ]
+      ]
+    },
+    {
+      "id": "n94",
+      "type": "paragraph",
+      "order": 86,
+      "text": "Both exams test the same skills at A1 level. The main difference is in text style—TELC texts may feel slightly more formal. Practice with both to be fully prepared!"
+    },
+    {
+      "id": "n95",
+      "type": "heading",
+      "order": 87,
+      "level": 2,
+      "text": "Ready to Practice Your Reading Skills?"
+    },
+    {
+      "id": "n96",
+      "type": "paragraph",
+      "order": 88,
+      "text": "Put these strategies into action with our comprehensive practice questions. Each question includes detailed explanations to help you understand the reasoning behind correct answers."
+    },
+    {
+      "id": "n97",
+      "type": "heading",
+      "order": 89,
+      "level": 2,
+      "text": "You've Got This!"
+    },
+    {
+      "id": "n98",
+      "type": "paragraph",
+      "order": 90,
+      "text": "The Lesen section rewards careful reading and attention to detail. By understanding the three task types, learning common vocabulary, and avoiding typical traps, you're setting yourself up for success. Practice regularly with authentic texts, time yourself, and remember: every question you answer correctly brings you closer to your A1 certificate. Viel Erfolg!"
+    },
+    {
+      "id": "n99",
+      "type": "heading",
+      "order": 91,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n100",
+      "type": "heading",
+      "order": 92,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n101",
+      "type": "paragraph",
+      "order": 93,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n102",
+      "type": "heading",
+      "order": 94,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n103",
+      "type": "paragraph",
+      "order": 95,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n104",
+      "type": "heading",
+      "order": 96,
+      "level": 3,
+      "text": "A1 exam study guide: ace your German test step by step"
+    },
+    {
+      "id": "n105",
+      "type": "paragraph",
+      "order": 97,
+      "text": "A1 exam study guide: ace your German test step by step ! Young woman studying German with flashcards at kitchen table > TL;DR: > > - A phased 90-day study plan improves chan..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe/a1/lesen/teil1",
+        "text": "Start Goethe A1 Lesen Teil 1 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/a1/lesen/teil1",
+        "text": "Start TELC A1 Lesen Teil 1 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/a1/lesen/teil2",
+        "text": "Start Goethe A1 Lesen Teil 2 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/a1/lesen/teil2",
+        "text": "Start TELC A1 Lesen Teil 2 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/goethe/a1/lesen/teil3",
+        "text": "Start Goethe A1 Lesen Teil 3 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/telc/a1/lesen/teil3",
+        "text": "Start TELC A1 Lesen Teil 3 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/goethe/a1/lesen",
+        "text": "Start Goethe A1 Lesen Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/telc/a1/lesen",
+        "text": "Start TELC A1 Lesen Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step",
+        "text": "Exam GuidesA1 exam study guide: ace your German test step by stepA1 exam study guide: ace your German test step by step ! Young woman studying German with flashcards at kitchen table > TL;DR: > > - A phased 90-day study plan improves chan...11 min readApr 6",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 30,
+      "paragraphs": 58,
+      "lists": 9,
+      "tables": 1,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 12,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 7,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

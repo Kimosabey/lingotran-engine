@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/testdaf/paper/hoeren",
+    "canonicalUrl": "https://deutsch-pruefung.de/testdaf/paper/hoeren",
+    "site": "deutsch-pruefung.de",
+    "slug": "testdaf--paper--hoeren",
+    "sourceType": "web",
+    "title": "Paper-Based TestDaF Hören (Listening) Prep | Deutsch Prüfung",
+    "description": "Prepare for the paper-based TestDaF Listening (Hörverstehen) section with exam-style practice for the B2-C1 academic German exam.",
+    "lang": "en",
+    "exam": "testdaf",
+    "level": "unknown",
+    "section": "hoeren",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Prepare for the paper-based TestDaF Listening (Hörverstehen) section with exam-style practice for the B2-C1 academic German exam.",
+      "author": "German Exam Practice",
+      "og:title": "Paper-Based TestDaF Hören (Listening) Prep | Deutsch Prüfung",
+      "og:description": "Prepare for the paper-based TestDaF Listening (Hörverstehen) section with exam-style practice for the B2-C1 academic German exam.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "c07c92d647231c82c6ccf48321329b41-6d19ea5ec61368da-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=c07c92d647231c82c6ccf48321329b41,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.5207524759136173,sentry-sample_rate=0.2"
+    },
+    "wordCount": 499,
+    "fetchedAt": "2026-07-21T08:27:58.329Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The official paper-based TestDaF Hörverstehen section has three audio texts with 25 scored items. Hörtext 1 and Hörtext 2 are heard once; Hörtext 3 is heard twice. After Hörtext 3, you get a dedicated 10-minute period to transfer your answers to the official Antwortbogen."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Hörtext 1 (University Dialogue)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Listen to a realistic university-context dialogue between two speakers."
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Answer 8 short wh-questions while listening; the dialogue is played once."
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "• Write concise Stichwörter, and watch for corrections, old plans, and near-details."
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 4,
+      "text": "Teil 2: Hörtext 2 (Interview or Group Discussion)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Follow a longer interview or discussion with linked information and speaker positions."
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "• Mark 10 statements as richtig or falsch while the audio is played once."
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Track who says what, and watch for exact contradictions in near-passages."
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 4,
+      "text": "Teil 3: Hörtext 3 (Scientific Talk or Interview)"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "• Follow a scientific lecture excerpt or an interview with a researcher."
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "• Listen for key reasons, examples, consequences, and short-answer evidence."
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "• Hörtext 3 is heard twice in the paper-based exam, then answers are transferred."
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Listening cue"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "In Hören, write or choose only what the audio actually supports. Teil 1 and Teil 3 reward precise Stichwörter; Teil 2 rewards careful distinction between a heard near-detail and the exact statement."
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 3,
+      "text": "Teil 1 - Hörtext 1 (University Dialogue)"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Goal: Short Answers (Items 1-8)"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 3,
+      "text": "Teil 2 - Hörtext 2 (Interview or Group Discussion)"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Goal: Richtig/Falsch (Items 9-18)"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 3,
+      "text": "Teil 3 - Hörtext 3 (Scientific Talk or Interview)"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Goal: Short Answers (Items 19-25)"
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "The paper-based TestDaF Hörverstehen section has 3 audio texts with 25 items total and takes about 40 minutes including the final 10-minute transfer period. Hörtext 1 is a dialogue with 8 short-answer items, Hörtext 2 has 10 richtig/falsch statements, and Hörtext 3 has 7 short-answer items."
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Hörtext 1 is a realistic university-life dialogue with two speakers. You hear it once and answer 8 short wh-questions. The answers are written as brief keywords or phrases, not long sentences. The official task tells you: \"Notieren Sie Stichwörter.\""
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Write the exact information asked for: a reason, document, date, place, task, example, or two required points. Do not write everything you hear. If the prompt says \"Sie müssen zwei Punkte nennen\", one correct point is not enough."
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "Common traps are old plan versus final plan, assumption versus correction, reason versus consequence, and examples that are not the answer. Listen for phrases such as \"nicht\", \"sondern\", \"erst\", \"doch\", \"das hatte ich falsch verstanden\", or \"nicht verwechseln\"."
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "No. In the paper-based TestDaF, Hörtext 1 and Hörtext 2 are played once. Hörtext 3 is played twice. The official Hinweise describe Hörtext 3 as a scientific lecture or an interview with a researcher, so short notes are especially important."
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "You can receive one point for each correctly solved listening item, so Hörverstehen has a maximum of 25 points. Short-answer tasks are checked by trained raters before the final score is assigned to a TestDaF level."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/testdaf/paper",
+        "text": "Paper",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/hoeren/teil1",
+        "text": "Teil 1 - Hörtext 1 (University Dialogue)Goal: Short Answers (Items 1-8)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/hoeren/teil2",
+        "text": "Teil 2 - Hörtext 2 (Interview or Group Discussion)Goal: Richtig/Falsch (Items 9-18)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/hoeren/teil3",
+        "text": "Teil 3 - Hörtext 3 (Scientific Talk or Interview)Goal: Short Answers (Items 19-25)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 8,
+      "paragraphs": 22,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

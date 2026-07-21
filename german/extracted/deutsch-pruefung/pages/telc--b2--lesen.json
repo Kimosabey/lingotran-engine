@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/b2/lesen",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/b2/lesen",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--b2--lesen",
+    "sourceType": "web",
+    "title": "TELC German B2 Lesen (Reading) Practice Overview",
+    "description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German B2 lesen (reading) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "B2",
+    "section": "lesen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German B2 lesen (reading) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German B2 Lesen (Reading) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German B2 lesen (reading) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/b2/lesen",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20B2%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=telc&level=b2&section=lesen",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German B2 Lesen (Reading) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German B2 Lesen (Reading) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German B2 lesen (reading) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20B2%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=telc&level=b2&section=lesen",
+      "sentry-trace": "bfa2e4e3b9e421919a774938b1554f25-00c12a9dce9efc7c-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=bfa2e4e3b9e421919a774938b1554f25,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.5526721060049973,sentry-sample_rate=0.2"
+    },
+    "wordCount": 171,
+    "fetchedAt": "2026-07-21T08:29:31.999Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The TELC B2 Leseverstehen (Reading) & Sprachbausteine module takes 90 minutes. It includes reading comprehension and grammar/vocabulary tasks."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Globalverstehen (Headlines)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Match headlines to short texts"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Skim reading for main ideas"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Detailverstehen (Detailed Reading)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Read a longer text (article, report)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Answer multiple choice questions"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Selektives Verstehen (Ads)"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Match situational descriptions to advertisements"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Scan for specific information"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 4,
+      "text": "Teil 4: Sprachbausteine Teil 1 (Grammar)"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "• Gap-fill text with multiple choice options"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "• Focus on grammar and structure"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 4,
+      "text": "Teil 5: Sprachbausteine Teil 2 (Vocabulary)"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "• Gap-fill text using a word bank"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "• Focus on vocabulary and context"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 3,
+      "text": "Teil 1 - Globalverstehen (Headlines)"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Goal: Globalverstehen (Headlines)"
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 3,
+      "text": "Teil 2 - Detailverstehen (Detailed Reading)"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Goal: Detailverstehen (Detailed Reading)"
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 22,
+      "level": 3,
+      "text": "Teil 3 - Selektives Verstehen (Ads)"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Goal: Selektives Verstehen (Ads)"
+    },
+    {
+      "id": "n25",
+      "type": "heading",
+      "order": 24,
+      "level": 3,
+      "text": "Teil 4 - Sprachbausteine Teil 1 (Grammar)"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Goal: Sprachbausteine Teil 1 (Grammar)"
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 3,
+      "text": "Teil 5 - Sprachbausteine Teil 2 (Vocabulary)"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Goal: Sprachbausteine Teil 2 (Vocabulary)"
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/b2",
+        "text": "B2",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/b2/lesen/teil1",
+        "text": "Teil 1 - Globalverstehen (Headlines)Goal: Globalverstehen (Headlines)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/b2/lesen/teil2",
+        "text": "Teil 2 - Detailverstehen (Detailed Reading)Goal: Detailverstehen (Detailed Reading)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/b2/lesen/teil3",
+        "text": "Teil 3 - Selektives Verstehen (Ads)Goal: Selektives Verstehen (Ads)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/telc/b2/lesen/teil4",
+        "text": "Teil 4 - Sprachbausteine Teil 1 (Grammar)Goal: Sprachbausteine Teil 1 (Grammar)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/telc/b2/lesen/teil5",
+        "text": "Teil 5 - Sprachbausteine Teil 2 (Vocabulary)Goal: Sprachbausteine Teil 2 (Vocabulary)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 12,
+      "paragraphs": 17,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 8,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

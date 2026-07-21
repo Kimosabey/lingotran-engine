@@ -1,0 +1,961 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--german-language-levels-explained-ace-a1-b2-exams",
+    "sourceType": "web",
+    "title": "German language levels explained: ace A1-B2 exams confidently",
+    "description": "Learn what A1 to B2 German levels really mean, how Goethe, TELC, and DTZ exams are scored, and which strategies will help you pass your certification confidently.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Learn what A1 to B2 German levels really mean, how Goethe, TELC, and DTZ exams are scored, and which strategies will help you pass your certification confidently.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Exam Guides",
+      "article:published_time": "2026-04-10T09:28:44.917Z",
+      "article:tag": "what are German language levels",
+      "og:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775813609224_image.jpeg",
+      "og:title": "German language levels explained: ace A1-B2 exams confidently",
+      "og:description": "Learn what A1 to B2 German levels really mean, how Goethe, TELC, and DTZ exams are scored, and which strategies will help you pass your certification confidently.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "German language levels explained: ace A1-B2 exams confidently",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "German language levels explained: ace A1-B2 exams confidently",
+      "twitter:description": "Learn what A1 to B2 German levels really mean, how Goethe, TELC, and DTZ exams are scored, and which strategies will help you pass your certification confidently.",
+      "twitter:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775813609224_image.jpeg",
+      "sentry-trace": "c5aeda9d4c4bf582a83dbc4392a1daed-c3d5203748d89cab-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=c5aeda9d4c4bf582a83dbc4392a1daed,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.6535992165122264,sentry-sample_rate=0.2"
+    },
+    "wordCount": 2075,
+    "fetchedAt": "2026-07-21T08:28:16.615Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "quote",
+      "order": 0,
+      "text": "TL;DR: Exam formats and scoring vary, requiring targeted preparation for each certification. Official practice tests and understanding exam-specific rules boost chances of success. Passing depends on more than classroom ability; familiarity with test structure and scoring is essential."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Many learners assume that finishing a B1 textbook or scoring well in class automatically means they are ready to pass a German certification exam. That assumption leads to real surprises on test day. The CEFR framework (Common European Framework of Reference for Languages) defines levels from A1 through B2, but each official exam, whether Goethe, TELC, or DTZ, tests those levels in its own specific way, with its own timing, scoring rules, and passing thresholds. Understanding the difference between your general language ability and your certified exam readiness is the first step toward a confident result. This guide walks you through both."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "id": "n4",
+      "type": "list",
+      "order": 3,
+      "ordered": false,
+      "items": [
+        {
+          "text": "What do the German language skills levels really mean?"
+        },
+        {
+          "text": "How are the main German exams structured? (Goethe, TELC, DTZ)"
+        },
+        {
+          "text": "Understanding the scoring: How is your German level certified?"
+        },
+        {
+          "text": "Strategies to prepare for the exam and maximize your certified skill level"
+        },
+        {
+          "text": "What most guides miss about language exams: A personal take"
+        },
+        {
+          "text": "Take the next step: Prepare smarter for your German exam"
+        },
+        {
+          "text": "Frequently asked questions"
+        }
+      ]
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 2,
+      "text": "Key Takeaways"
+    },
+    {
+      "id": "n6",
+      "type": "table",
+      "order": 5,
+      "headers": [
+        [
+          "Point",
+          "Details"
+        ]
+      ],
+      "rows": [
+        [
+          "Know your certification level",
+          "Understand what skills each German language level covers to target your preparation efficiently."
+        ],
+        [
+          "Match test to your needs",
+          "Compare exam formats to choose the right test for your learning style and background."
+        ],
+        [
+          "Focus your practice",
+          "Use detailed mock exams and skill-based strategies to maximize your certified score."
+        ],
+        [
+          "Score requirements matter",
+          "Passing thresholds and scoring schemes are different—knowing them avoids surprises on exam day."
+        ]
+      ]
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 2,
+      "text": "What do the German language skills levels really mean?"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "The CEFR organizes language ability into six levels, but for most German certification purposes, you will focus on A1 through B2. These are split into two broad categories: basic user (A1 and A2) and independent user (B1 and B2). Each level describes what you can actually do with the language, not just what grammar rules you have studied."
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Here is a quick breakdown of what each level looks like in practice:"
+    },
+    {
+      "id": "n10",
+      "type": "list",
+      "order": 9,
+      "ordered": false,
+      "items": [
+        {
+          "text": "🟢 A1: You can introduce yourself, answer simple questions about personal details, and understand very slow, clear speech."
+        },
+        {
+          "text": "🟡 A2: You can handle routine tasks like shopping, asking for directions, and writing short personal messages."
+        },
+        {
+          "text": "🔵 B1: You can discuss familiar topics, describe experiences, and understand the main points of standard speech on everyday subjects."
+        },
+        {
+          "text": "🟣 B2: You can follow complex arguments, write detailed texts, and interact fluently with native speakers on a wide range of topics."
+        }
+      ]
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "These descriptions sound clear, but here is where confusion creeps in. Your classroom level, your self-assessed level, and your certified exam level are three different things. A teacher might place you at B1 based on participation, but a formal exam measures specific skills under timed, standardized conditions."
+    },
+    {
+      "id": "n12",
+      "type": "table",
+      "order": 11,
+      "headers": [
+        [
+          "CEFR Level",
+          "Category",
+          "Key ability",
+          "Typical real-life scenario"
+        ]
+      ],
+      "rows": [
+        [
+          "A1",
+          "Basic user",
+          "Introduce yourself",
+          "Filling out a simple form"
+        ],
+        [
+          "A2",
+          "Basic user",
+          "Handle routine exchanges",
+          "Buying a train ticket"
+        ],
+        [
+          "B1",
+          "Independent user",
+          "Discuss familiar topics",
+          "Talking with a colleague"
+        ],
+        [
+          "B2",
+          "Independent user",
+          "Argue and explain complex ideas",
+          "Reading a German newspaper"
+        ]
+      ]
+    },
+    {
+      "id": "n13",
+      "type": "quote",
+      "order": 12,
+      "text": "Note on DTZ: The DTZ covers scaled A2/B1 and is especially designed for immigrants, meaning your final certified level depends on how many points you score, not just which level you attempted."
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "This distinction matters because it shapes your entire study approach. Comparing exam formats side by side, as covered in this German exam comparison, helps you see exactly which skills each test prioritizes."
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 2,
+      "text": "How are the main German exams structured? (Goethe, TELC, DTZ)"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Understanding what each level means helps, but how are these assessed in the main German exams? Each test has a distinct structure, and knowing that structure before you sit down to study saves you significant time."
+    },
+    {
+      "id": "n17",
+      "type": "table",
+      "order": 16,
+      "headers": [
+        [
+          "Exam",
+          "Skills tested",
+          "Written time",
+          "Oral section",
+          "Pass threshold",
+          "Retake policy"
+        ]
+      ],
+      "rows": [
+        [
+          "Goethe B1/B2",
+          "Reading, Listening, Writing, Speaking",
+          "~190 min",
+          "~15 min",
+          "60% per module",
+          "Modular retakes allowed"
+        ],
+        [
+          "TELC B2",
+          "Reading, Listening, Writing, Speaking",
+          "155 min",
+          "~15 min",
+          "60% overall",
+          "Full retake required"
+        ],
+        [
+          "DTZ",
+          "Reading, Listening, Writing, Speaking",
+          "100 min",
+          "15 min (pairs)",
+          "60/100 points",
+          "Full retake required"
+        ]
+      ]
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Here is the typical component sequence for each exam:"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Goethe B2:"
+    },
+    {
+      "id": "n20",
+      "type": "list",
+      "order": 19,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Lesen (Reading)"
+        },
+        {
+          "text": "Hören (Listening)"
+        },
+        {
+          "text": "Schreiben (Writing)"
+        },
+        {
+          "text": "Sprechen (Speaking, separate session)"
+        }
+      ]
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "TELC B2: The TELC B2 exam structure follows a similar four-skill format. The written portion runs 155 minutes total, covering reading comprehension, language elements, listening, and writing tasks. The oral section is conducted separately."
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "DTZ: The DTZ exam combines listening, reading, writing, and a pair-based oral section. The oral component is unique because you complete it with another candidate, which changes how you should practice speaking."
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "One standout feature worth noting: Goethe allows modular retakes. If you pass writing and reading but struggle with speaking, you can retake only the speaking module. TELC and DTZ do not offer this flexibility, so you must pass all sections in one sitting. For a detailed side-by-side view, check this guide on comparing TELC and Goethe exams."
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 2,
+      "text": "Understanding the scoring: How is your German level certified?"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Now that you know the structure, let’s dig into how your performance is actually measured and certified. Scoring rules vary by exam, and missing this detail is one of the most common reasons learners feel blindsided by their results."
+    },
+    {
+      "id": "n26",
+      "type": "table",
+      "order": 25,
+      "headers": [
+        [
+          "Exam",
+          "Total points",
+          "Pass cutoff",
+          "Certified level"
+        ]
+      ],
+      "rows": [
+        [
+          "Goethe B2",
+          "100 per module",
+          "60% per module",
+          "B2 (or retake failed module)"
+        ],
+        [
+          "TELC B2",
+          "100 overall",
+          "60% written + oral pass",
+          "B2"
+        ],
+        [
+          "DTZ",
+          "100 total",
+          "60 points",
+          "A2 or B1 based on score"
+        ]
+      ]
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "For TELC B2, the pass threshold is 60% across both written and oral sections. You cannot compensate a weak oral result with a strong written score. Both parts must meet the minimum standard independently."
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "For DTZ, the scoring works differently. The DTZ certifies A2 or B1 based on how many of the 100 available points you earn. Scoring between 45 and 59 points certifies A2, while 60 points or more certifies B1. This scaled approach is unique and actually reduces the pressure of a binary pass/fail outcome."
+    },
+    {
+      "id": "n29",
+      "type": "quote",
+      "order": 28,
+      "text": "Goethe modular retakes: Because Goethe allows you to retake individual modules, a candidate who passes three out of four components only needs to revisit the one weak area. This makes targeted preparation a genuinely practical strategy."
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Pro Tip: Before your exam date, take at least two full mock tests under real timing conditions. This tells you exactly which sections are pulling your score down, so you can focus your final study weeks where they count most. You can also review TELC B2 writing scoring in detail to understand how written responses are evaluated."
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "If you narrowly miss the cutoff, do not panic. Most exam centers allow retakes within a few months, and a targeted review of your weak components often leads to a noticeably better result the second time."
+    },
+    {
+      "id": "n32",
+      "type": "heading",
+      "order": 31,
+      "level": 2,
+      "text": "Strategies to prepare for the exam and maximize your certified skill level"
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 32,
+      "text": "With a clear understanding of the scoring, you can now gear your preparation for the best possible outcome. General language study is helpful, but exam-specific preparation is what actually moves your score."
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Step-by-step preparation approach:"
+    },
+    {
+      "id": "n35",
+      "type": "list",
+      "order": 34,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Identify your target exam and level. Choose between Goethe, TELC, or DTZ based on your purpose (immigration, career, or academic)."
+        },
+        {
+          "text": "Take a diagnostic mock test. This gives you a baseline score and shows which skill areas need the most attention."
+        },
+        {
+          "text": "Study the exam format in detail. Know the timing, question types, and scoring rules before you practice."
+        },
+        {
+          "text": "Work through official sample tests. These reflect the real exam more accurately than generic textbook exercises."
+        },
+        {
+          "text": "Practice each skill component separately. Spend focused sessions on Lesen, Hören, Schreiben, and Sprechen."
+        },
+        {
+          "text": "Simulate full exam conditions. At least twice before your test date, complete the entire exam within the official time limits."
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 35,
+      "text": "Pro Tip: Most learners lose points not because they lack knowledge, but because they are unfamiliar with the question format. Spending 30 minutes studying how a specific question type is structured can save you more points than hours of general grammar review."
+    },
+    {
+      "id": "n37",
+      "type": "paragraph",
+      "order": 36,
+      "text": "Recommended study resources:"
+    },
+    {
+      "id": "n38",
+      "type": "list",
+      "order": 37,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Official sample tests from Goethe Institut, TELC, or Bamf (for DTZ)"
+        },
+        {
+          "text": "Full-length mock exams with answer keys"
+        },
+        {
+          "text": "Grammar reference guides focused on B1 and B2 structures"
+        },
+        {
+          "text": "Audio exercises for Hören practice at your target level"
+        },
+        {
+          "text": "Speaking practice with a partner or tutor for DTZ pair tasks"
+        }
+      ]
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 38,
+      "text": "For TELC B2 reading tips, targeted exercises help you manage the dense texts in the Lesen section efficiently. For the oral component, reviewing TELC B1 speaking strategies builds the confidence you need for pair-based tasks."
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 39,
+      "text": "The Goethe modular retake option makes targeted preparation especially practical. If you know your writing is strong, you can invest more time in speaking without worrying about losing ground elsewhere. The TELC B2 written section runs 155 minutes, so time management practice is not optional. It is essential."
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 40,
+      "level": 2,
+      "text": "What most guides miss about language exams: A personal take"
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Here is something worth saying plainly: finishing a B1 course does not mean you are ready to pass a B1 exam. These are genuinely different things, and most preparation guides gloss over that gap."
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 42,
+      "text": "Each exam has its own logic. DTZ scales your result between A2 and B1 depending on your score, which is actually fairer than a hard pass/fail. Goethe lets you retake modules, which rewards consistent strong performance in some areas. TELC has strict timing and a firm 60% threshold across both written and oral sections. None of these quirks show up in a general language textbook."
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "We also see learners underestimate the psychological side of test day. Knowing the material is not the same as performing under timed, formal conditions. Anxiety, unfamiliar question formats, and poor time management account for a surprising share of failed attempts."
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "The real lesson is this: choosing the right exam for your situation matters as much as your language level. Match the exam to your goals, then prepare specifically for that exam’s format and scoring rules."
+    },
+    {
+      "id": "n46",
+      "type": "heading",
+      "order": 45,
+      "level": 2,
+      "text": "Take the next step: Prepare smarter for your German exam"
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Ready to boost your score with proven strategies and the right resources?"
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "At Deutsch-Pruefung.de, you get access to full-length mock tests, official-style practice questions, and detailed preparation guides built specifically for TELC exam prep, Goethe exam prep, and DTZ practice materials. Every resource is aligned to the real exam format, so your practice time translates directly into better results. Whether you are targeting A1, B1, or B2, our structured plans and AI-powered writing feedback help you close the gap between where you are now and where you need to be. Start with a free trial and see the difference targeted preparation makes."
+    },
+    {
+      "id": "n49",
+      "type": "heading",
+      "order": 48,
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "n50",
+      "type": "heading",
+      "order": 49,
+      "level": 3,
+      "text": "What is the difference between A2, B1, and B2 German levels?"
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 50,
+      "text": "A2 is a basic user level covering routine exchanges, B1 is an independent user level for everyday communication, and B2 handles complex topics and detailed discussions. The DTZ certifies A2 or B1 depending on how many points you score."
+    },
+    {
+      "id": "n52",
+      "type": "heading",
+      "order": 51,
+      "level": 3,
+      "text": "Can I retake just one section of the Goethe or TELC exams?"
+    },
+    {
+      "id": "n53",
+      "type": "paragraph",
+      "order": 52,
+      "text": "Goethe modular retakes are available for candidates who pass some modules but not all, while TELC requires a full retake if you do not meet the overall passing threshold."
+    },
+    {
+      "id": "n54",
+      "type": "heading",
+      "order": 53,
+      "level": 3,
+      "text": "How many points do I need to pass the TELC B2 exam?"
+    },
+    {
+      "id": "n55",
+      "type": "paragraph",
+      "order": 54,
+      "text": "You need at least 60% to pass the TELC B2 exam, and both the written and oral sections must independently meet this minimum."
+    },
+    {
+      "id": "n56",
+      "type": "heading",
+      "order": 55,
+      "level": 3,
+      "text": "Is the DTZ exam only for immigrants?"
+    },
+    {
+      "id": "n57",
+      "type": "paragraph",
+      "order": 56,
+      "text": "DTZ is primarily designed for immigrants but certifies general A2 or B1 German proficiency. The DTZ scaled A2/B1 design means anyone can take it and receive a recognized certification based on their score."
+    },
+    {
+      "id": "n58",
+      "type": "heading",
+      "order": 57,
+      "level": 3,
+      "text": "How are the DTZ test sections timed?"
+    },
+    {
+      "id": "n59",
+      "type": "paragraph",
+      "order": 58,
+      "text": "The DTZ written test lasts 100 minutes, and the oral section runs 15 minutes and is completed in pairs with another candidate."
+    },
+    {
+      "id": "n60",
+      "type": "heading",
+      "order": 59,
+      "level": 2,
+      "text": "Recommended"
+    },
+    {
+      "id": "n61",
+      "type": "list",
+      "order": 60,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Master German language questions with practical examples"
+        },
+        {
+          "text": "German tests for immigration: levels, requirements, prep"
+        },
+        {
+          "text": "Goethe German Exam Preparation - Practice Tests & Study Materials"
+        },
+        {
+          "text": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips"
+        }
+      ]
+    },
+    {
+      "id": "n62",
+      "type": "heading",
+      "order": 61,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n63",
+      "type": "heading",
+      "order": 62,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n64",
+      "type": "paragraph",
+      "order": 63,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n65",
+      "type": "heading",
+      "order": 64,
+      "level": 3,
+      "text": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n66",
+      "type": "paragraph",
+      "order": 65,
+      "text": "How to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an..."
+    },
+    {
+      "id": "n67",
+      "type": "heading",
+      "order": 66,
+      "level": 3,
+      "text": "What is a language certificate: German exams A1 to B2"
+    },
+    {
+      "id": "n68",
+      "type": "paragraph",
+      "order": 67,
+      "text": "What is a language certificate: German exams A1 to B2 ! Woman filling out language certificate form at cluttered kitchen table If you've started exploring German language exam..."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775813609224_image.jpeg",
+        "alt": "Woman studying German at kitchen table"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775813581125_Student-taking-German-exam-practice-at-desk.jpeg",
+        "alt": "Student taking German exam practice at desk"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775813626153_Infographic-overview-of-German-exam-levels.jpeg",
+        "alt": "Infographic overview of German exam levels"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291046269_deutsch-pruefung.jpg",
+        "alt": "https://deutsch-pruefung.de"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams#what-do-the-german-language-skills-levels-really-mean?",
+        "text": "What do the German language skills levels really mean?",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams#how-are-the-main-german-exams-structured?-(goethe%2C-telc%2C-dtz)",
+        "text": "How are the main German exams structured? (Goethe, TELC, DTZ)",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams#understanding-the-scoring%3A-how-is-your-german-level-certified?",
+        "text": "Understanding the scoring: How is your German level certified?",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams#strategies-to-prepare-for-the-exam-and-maximize-your-certified-skill-level",
+        "text": "Strategies to prepare for the exam and maximize your certified skill level",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams#what-most-guides-miss-about-language-exams%3A-a-personal-take",
+        "text": "What most guides miss about language exams: A personal take",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams#take-the-next-step%3A-prepare-smarter-for-your-german-exam",
+        "text": "Take the next step: Prepare smarter for your German exam",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams#frequently-asked-questions",
+        "text": "Frequently asked questions",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk13",
+        "type": "link",
+        "order": 8,
+        "href": "https://www.spickprofi.de/en/blogs/blog/dtz-pruefung-b1",
+        "text": "DTZ covers scaled A2/B1",
+        "kind": "external"
+      },
+      {
+        "id": "lnk14",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+        "text": "German exam comparison",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk15",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+        "text": "TELC B2 exam structure",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk16",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-writing-guide",
+        "text": "TELC B2 writing scoring",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk17",
+        "type": "link",
+        "order": 12,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-reading-guide",
+        "text": "TELC B2 reading tips",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk18",
+        "type": "link",
+        "order": 13,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-speaking-guide",
+        "text": "TELC B1 speaking strategies",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk19",
+        "type": "link",
+        "order": 14,
+        "href": "http://deutsch-pruefung.de/",
+        "text": "Deutsch-Pruefung.de",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk20",
+        "type": "link",
+        "order": 15,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC exam prep",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk21",
+        "type": "link",
+        "order": 16,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe exam prep",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk22",
+        "type": "link",
+        "order": 17,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ practice materials",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk23",
+        "type": "link",
+        "order": 18,
+        "href": "https://deutsch-pruefung.de/blog/master-german-language-questions-with-practical-examples",
+        "text": "Master German language questions with practical examples",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk24",
+        "type": "link",
+        "order": 19,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep",
+        "text": "German tests for immigration: levels, requirements, prep",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk25",
+        "type": "link",
+        "order": 20,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe German Exam Preparation - Practice Tests & Study Materials",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk26",
+        "type": "link",
+        "order": 21,
+        "href": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+        "text": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk27",
+        "type": "link",
+        "order": 22,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk28",
+        "type": "link",
+        "order": 23,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+        "text": "Speaking SkillsHow to pass the TELC German test: Proven strategiesHow to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an...10 min readMar 29",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk29",
+        "type": "link",
+        "order": 24,
+        "href": "https://deutsch-pruefung.de/blog/what-is-language-certificate-german-exams-a1-b2",
+        "text": "Exam GuidesWhat is a language certificate: German exams A1 to B2What is a language certificate: German exams A1 to B2 ! Woman filling out language certificate form at cluttered kitchen table If you've started exploring German language exam...12 min readMar 23",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 19,
+      "paragraphs": 36,
+      "lists": 6,
+      "tables": 4,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 25,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

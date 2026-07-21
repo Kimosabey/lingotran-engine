@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/a2/lesen",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/a2/lesen",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--a2--lesen",
+    "sourceType": "web",
+    "title": "TELC German A2 Lesen (Reading) Practice Overview",
+    "description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German A2 lesen (reading) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "A2",
+    "section": "lesen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German A2 lesen (reading) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German A2 Lesen (Reading) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German A2 lesen (reading) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/a2/lesen",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20A2%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=telc&level=a2&section=lesen",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German A2 Lesen (Reading) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German A2 Lesen (Reading) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German A2 lesen (reading) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20A2%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=telc&level=a2&section=lesen",
+      "sentry-trace": "bf1386e77e32fa15678f360a671c65af-074c5ec9cb921ed3-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=bf1386e77e32fa15678f360a671c65af,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.9879525883464313,sentry-sample_rate=0.2"
+    },
+    "wordCount": 167,
+    "fetchedAt": "2026-07-21T08:29:16.914Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The official telc Deutsch A2 Lesen subtest is completed inside the shared 50-minute Lesen und Schreiben block. It has 15 items across three Teile and focuses on practical written texts from everyday life."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Aufgaben und Information (Tasks and Information)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Read the situations and one information text"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Choose the correct answer: a, b, or c"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Text und Aussagen (Text and Statements)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Read one longer text"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Decide whether each statement is richtig (+) or falsch (-)"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Anzeigen und Situationen (Advertisements and Situations)"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Read several advertisements and short situations"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Match the correct advertisement to each situation"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 3,
+      "text": "Teil 1 - Aufgaben und Information (Tasks and Information)"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Goal: Aufgaben und Information (Tasks and Information)"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 3,
+      "text": "Teil 2 - Text und Aussagen (Text and Statements)"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Goal: Text und Aussagen (Text and Statements)"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "Teil 3 - Anzeigen und Situationen (Advertisements and Situations)"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Goal: Anzeigen und Situationen (Advertisements and Situations)"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/a2",
+        "text": "A2",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/a2/lesen/teil1",
+        "text": "Teil 1 - Aufgaben und Information (Tasks and Information)Goal: Aufgaben und Information (Tasks and Information)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/a2/lesen/teil2",
+        "text": "Teil 2 - Text und Aussagen (Text and Statements)Goal: Text und Aussagen (Text and Statements)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/a2/lesen/teil3",
+        "text": "Teil 3 - Anzeigen und Situationen (Advertisements and Situations)Goal: Anzeigen und Situationen (Advertisements and Situations)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 8,
+      "paragraphs": 11,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/testdaf",
+    "canonicalUrl": "https://deutsch-pruefung.de/testdaf",
+    "site": "deutsch-pruefung.de",
+    "slug": "testdaf",
+    "sourceType": "web",
+    "title": "TestDaF Practice | Deutsch Prüfung",
+    "description": "Prepare for the TestDaF academic German exam with section-based practice for reading, listening, writing, and speaking.",
+    "lang": "en",
+    "exam": "testdaf",
+    "level": "unknown",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Prepare for the TestDaF academic German exam with section-based practice for reading, listening, writing, and speaking.",
+      "author": "German Exam Practice",
+      "og:title": "TestDaF Practice",
+      "og:description": "Section-based TestDaF practice for the academic German exam. Reading, listening, writing, and speaking practice coming soon.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "6d314fe7b8131caa37700fc4f87dbeee-1ee10c6580570c99-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=6d314fe7b8131caa37700fc4f87dbeee,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2Ftestdaf,sentry-sampled=true,sentry-sample_rand=0.12606584247270747,sentry-sample_rate=0.2"
+    },
+    "wordCount": 343,
+    "fetchedAt": "2026-07-21T08:27:55.220Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "TestDaF Practice"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Select a section to prepare for the academic German exam used for university admission."
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "Printed task booklets for reading, listening, and writing, with speaking responses recorded on a computer."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 2,
+      "text": "Choose Your Practice Section"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "Paper-based TestDaF section practice is now available"
+    },
+    {
+      "id": "n6",
+      "type": "image",
+      "order": 5,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+      "alt": "Lesen (Reading) illustration"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 3,
+      "text": "Lesen (Reading)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Practice short university-life texts, journalistic texts, and academic-language reading passages."
+    },
+    {
+      "id": "n9",
+      "type": "image",
+      "order": 8,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+      "alt": "Hören (Listening) illustration"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 3,
+      "text": "Hören (Listening)"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Train listening comprehension with dialogues, interviews, lectures, main ideas, and important details."
+    },
+    {
+      "id": "n12",
+      "type": "image",
+      "order": 11,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+      "alt": "Schreiben (Writing) illustration"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 3,
+      "text": "Schreiben (Writing)"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Practice one clearly structured handwritten academic text using diagram description and argumentation."
+    },
+    {
+      "id": "n15",
+      "type": "image",
+      "order": 14,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+      "alt": "Sprechen (Speaking) illustration"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "Sprechen (Speaking)"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "Prepare recorded speaking responses for common university situations, advice, opinions, and discussion."
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 3,
+      "text": "Paper-Based TestDaF Structure (B2-C1)"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 4,
+      "text": "Exam Parts - about 3h 15min"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Paper-based TestDaF is always built in the same order: reading, listening, writing, then speaking."
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 4,
+      "text": "Results and Certificate"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 4,
+      "text": "TestDaF Levels"
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 22,
+      "level": 3,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Both versions test reading, listening, writing, and speaking for academic German. The digital version uses more task types in reading and listening, has two writing tasks, and is completed on a computer. The paper-based version uses printed task booklets and has one writing task, while speaking is still recorded on a computer."
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "The TestDaF (Test Deutsch als Fremdsprache) is a standardized German language exam for people who want to study at a German university. It focuses on academic and university-life communication in reading, listening, writing, and speaking."
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "The exam has four separately assessed parts: Lesen, Hören, Schreiben, and Sprechen. The official pure exam time is about 3 hours and 15 minutes, with breaks between exam parts. Exact task and item counts depend on whether you take the digital or paper-based version."
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Each exam part receives its own TestDaF level: TDN 3, TDN 4, or TDN 5. There is no single overall score, so universities can set requirements for each individual skill."
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Many German universities ask for TDN 4 in all four parts, but requirements vary by university and study program. Always check the admission rules for your specific program."
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "The official TestDaF certificate is valid indefinitely. Some universities may still ask for a recent language certificate, so it is worth checking directly with the institution."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+        "alt": "Lesen (Reading) illustration"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+        "alt": "Hören (Listening) illustration"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+        "alt": "Schreiben (Writing) illustration"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+        "alt": "Sprechen (Speaking) illustration"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 11,
+      "paragraphs": 14,
+      "lists": 0,
+      "tables": 0,
+      "images": 4,
+      "figures": 0,
+      "media": 0,
+      "links": 1,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

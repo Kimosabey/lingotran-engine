@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/c1/hoeren",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/c1/hoeren",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--c1--hoeren",
+    "sourceType": "web",
+    "title": "TELC German C1 Hören (Listening) Practice Overview",
+    "description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German C1 hören (listening) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "C1",
+    "section": "hoeren",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German C1 hören (listening) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German C1 Hören (Listening) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German C1 hören (listening) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/c1/hoeren",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20H%C3%B6ren%20(Listening)&subtitle=Practice%20Overview&type=telc&level=c1&section=hoeren",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German C1 Hören (Listening) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German C1 Hören (Listening) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start listening practice. Prepare for TELC German C1 hören (listening) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20H%C3%B6ren%20(Listening)&subtitle=Practice%20Overview&type=telc&level=c1&section=hoeren",
+      "sentry-trace": "3e58902fcc004120faee2c11d6465dc1-4bb6f3eb623ccb01-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=3e58902fcc004120faee2c11d6465dc1,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.779299726317336,sentry-sample_rate=0.2"
+    },
+    "wordCount": 146,
+    "fetchedAt": "2026-07-21T08:29:38.047Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The official telc Deutsch C1 Hörverstehen section takes about 40 minutes and has 48 points. It consists of Globalverstehen (global understanding), Detailverstehen (detailed understanding), and Informationstransfer (information transfer) tasks."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Globalverstehen (Global Understanding)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Listen for the overall message, speaker stance, or central idea"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Solve 8 Zuordnungsaufgaben"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Detailverstehen (Detailed Understanding)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Listen to a longer spoken text such as a radio interview or discussion"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Choose the best answer from three options for each item"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Informationstransfer (Information Transfer)"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Listen to one lecture, presentation, or seminar-style talk"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Complete missing information in a handout or notes"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 3,
+      "text": "Teil 1 - Globalverstehen (Global Understanding)"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Goal: Globalverstehen (Global Understanding)"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 3,
+      "text": "Teil 2 - Detailverstehen (Detailed Understanding)"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Goal: Detailverstehen (Detailed Understanding)"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "Teil 3 - Informationstransfer (Information Transfer)"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Goal: Informationstransfer (Information Transfer)"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/c1",
+        "text": "C1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/c1/hoeren/teil1",
+        "text": "Teil 1 - Globalverstehen (Global Understanding)Goal: Globalverstehen (Global Understanding)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/c1/hoeren/teil2",
+        "text": "Teil 2 - Detailverstehen (Detailed Understanding)Goal: Detailverstehen (Detailed Understanding)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/c1/hoeren/teil3",
+        "text": "Teil 3 - Informationstransfer (Information Transfer)Goal: Informationstransfer (Information Transfer)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 8,
+      "paragraphs": 11,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

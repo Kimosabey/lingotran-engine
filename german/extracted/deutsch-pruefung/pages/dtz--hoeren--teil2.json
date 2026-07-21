@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/dtz/hoeren/teil2",
+    "canonicalUrl": "https://deutsch-pruefung.de/dtz/hoeren/teil2",
+    "site": "deutsch-pruefung.de",
+    "slug": "dtz--hoeren--teil2",
+    "sourceType": "web",
+    "title": "DTZ Hören Teil 2 Practice | Deutsch-Test für Zuwanderer",
+    "description": "Practice DTZ Hören (Listening) Teil 2 with exam-style questions. Prepare for the Deutsch-Test für Zuwanderer (A2-B1).",
+    "lang": "en",
+    "exam": "dtz",
+    "level": "unknown",
+    "section": "hoeren",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Practice DTZ Hören (Listening) Teil 2 with exam-style questions. Prepare for the Deutsch-Test für Zuwanderer (A2-B1).",
+      "author": "German Exam Practice",
+      "og:title": "DTZ Hören Teil 2 Practice | Deutsch-Test für Zuwanderer",
+      "og:description": "Practice DTZ Hören (Listening) Teil 2 with exam-style questions. Prepare for the Deutsch-Test für Zuwanderer (A2-B1).",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "13f18895955adebaf01bb2ed1c67d2f2-82bfbd8fdbf65d22-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=13f18895955adebaf01bb2ed1c67d2f2,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.8211297086847391,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1,
+    "fetchedAt": "2026-07-21T08:27:37.220Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "paragraph",
+      "order": 0,
+      "text": "Loading..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/dtz/hoeren",
+        "text": "Hören (Listening)",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 0,
+      "paragraphs": 1,
+      "lists": 0,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 3,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

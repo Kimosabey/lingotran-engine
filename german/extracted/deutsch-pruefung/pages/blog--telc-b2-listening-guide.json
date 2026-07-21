@@ -1,0 +1,1229 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/telc-b2-listening-guide",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/telc-b2-listening-guide",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--telc-b2-listening-guide",
+    "sourceType": "web",
+    "title": "TELC B2 Hörverstehen (Listening) Guide 2026: Complete Strategy & Pro Tips",
+    "description": "Master the TELC B2 Hörverstehen (Listening) exam with our comprehensive guide covering all 3 parts, richtig/falsch strategies, and expert tips for news reports, interviews, and announcements.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master the TELC B2 Hörverstehen (Listening) exam with our comprehensive guide covering all 3 parts, richtig/falsch strategies, and expert tips for news reports, interviews, and announcements.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Hören (Listening) Skills",
+      "article:published_time": "2026-01-03",
+      "article:tag": "B2 Level",
+      "og:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2-listening.jpg",
+      "og:title": "TELC B2 Hörverstehen (Listening) Guide 2026: Complete Strategy & Pro Tips",
+      "og:description": "Master the TELC B2 Hörverstehen (Listening) exam with our comprehensive guide covering all 3 parts, richtig/falsch strategies, and expert tips for news reports, interviews, and announcements.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Mastering the TELC B2 Hörverstehen (Listening) Section: Your Complete Guide",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TELC B2 Hörverstehen (Listening) Guide 2026: Complete Strategy & Pro Tips",
+      "twitter:description": "Master the TELC B2 Hörverstehen (Listening) exam with our comprehensive guide covering all 3 parts, richtig/falsch strategies, and expert tips for news reports, interviews, and announcements.",
+      "twitter:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2-listening.jpg",
+      "sentry-trace": "8faacf2c27a29f6dbb35f626c06d4cb9-074669b01ed73443-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=8faacf2c27a29f6dbb35f626c06d4cb9,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.7081904178838883,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1963,
+    "fetchedAt": "2026-07-21T08:28:48.249Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "paragraph",
+      "order": 0,
+      "text": "The Hörverstehen (Listening Comprehension) section of the TELC B2 exam tests your ability to understand spoken German in real-world contexts - from news broadcasts and radio interviews to public announcements. At B2 level, you are expected to understand spoken texts about personal, professional, and social topics, including longer speeches and presentations where viewpoints and attitudes are expressed."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "The biggest challenge? Each audio is played only once. This guide breaks down all three parts with official exam insights, proven listening strategies, and practical tips to help you maximize your score in approximately 20 minutes."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Section Overview: Your 20-Minute Challenge"
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 3,
+      "text": "Complete Task Breakdown"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "Based on official TELC examination guidelines"
+    },
+    {
+      "id": "n6",
+      "type": "heading",
+      "order": 5,
+      "level": 4,
+      "text": "Globalverstehen"
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "Task: Listen to 5 short news reports, answer richtig/falsch"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Listening Style: Global listening - understand main ideas and overall message"
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 4,
+      "text": "Detailverstehen"
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Task: Listen to a radio interview, answer richtig/falsch"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Listening Style: Detailed listening - catch specific details and opinions"
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 4,
+      "text": "Selektives Verstehen"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Task: Listen to 5 short announcements, answer richtig/falsch"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Listening Style: Selective listening - identify specific information"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 3,
+      "text": "Critical Exam Rules"
+    },
+    {
+      "id": "n16",
+      "type": "list",
+      "order": 15,
+      "ordered": false,
+      "items": [
+        {
+          "text": "•Audio plays ONCE: You hear each text only one time. No replays, no exceptions."
+        },
+        {
+          "text": "•CD cannot be stopped: The recording runs continuously until \"Ende des Testteils Hörverstehen.\""
+        },
+        {
+          "text": "•Mark answers immediately: Use (+) for richtig and (−) for falsch on your answer sheet."
+        },
+        {
+          "text": "•All statements are in your exam booklet: You can read along while listening."
+        }
+      ]
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 2,
+      "text": "Hörverstehen Teil 1: Globalverstehen"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 3,
+      "text": "What You Will Hear"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "You will hear a Nachrichtensendung (news broadcast) with 5-6 short reports covering topics like current affairs, politics, economy, culture, and sports. You receive 5 written statements and must decide if each is richtig (true) or falsch (false) based on what you hear."
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Important: One news report may have NO matching statement. You must first determine if a statement matches any report, then decide if it is true or false."
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 3,
+      "text": "Example Topics from Official Materials"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 4,
+      "text": "News Report Topics"
+    },
+    {
+      "id": "n23",
+      "type": "list",
+      "order": 22,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Rental law changes (Mietverträge)"
+        },
+        {
+          "text": "• Housing shortages in East Germany"
+        },
+        {
+          "text": "• Natural disasters (Waldbrände, Tornados)"
+        },
+        {
+          "text": "• Economic developments"
+        },
+        {
+          "text": "• University funding decisions"
+        },
+        {
+          "text": "• Film festivals and cultural events"
+        }
+      ]
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 4,
+      "text": "Statement Traps to Watch"
+    },
+    {
+      "id": "n25",
+      "type": "list",
+      "order": 24,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"hat eingeführt\" vs \"will einführen\" (past vs future)"
+        },
+        {
+          "text": "• \"nur Sachschaden\" when people were injured"
+        },
+        {
+          "text": "• \"gewonnen\" vs \"zugelassen\" (won vs admitted)"
+        },
+        {
+          "text": "• Negations: \"nicht\", \"kein\", \"nie\""
+        },
+        {
+          "text": "• Quantities and numbers reversed"
+        }
+      ]
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 4,
+      "text": "Winning Strategy"
+    },
+    {
+      "id": "n27",
+      "type": "list",
+      "order": 26,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Use the 30-second preview to read ALL statements"
+        },
+        {
+          "text": "Underline key words in each statement"
+        },
+        {
+          "text": "Listen for the MAIN MESSAGE, not every word"
+        },
+        {
+          "text": "Mark your answer during the pause between reports"
+        },
+        {
+          "text": "If unsure, mark your best guess and move on"
+        }
+      ]
+    },
+    {
+      "id": "n28",
+      "type": "heading",
+      "order": 27,
+      "level": 4,
+      "text": "Common Mistakes"
+    },
+    {
+      "id": "n29",
+      "type": "list",
+      "order": 28,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Expecting to hear the EXACT words from the statement"
+        },
+        {
+          "text": "• Missing the answer while thinking about the previous question"
+        },
+        {
+          "text": "• Confusing tenses (past, present, future)"
+        },
+        {
+          "text": "• Not recognizing paraphrased information"
+        }
+      ]
+    },
+    {
+      "id": "n30",
+      "type": "heading",
+      "order": 29,
+      "level": 4,
+      "text": "💡 Pro Tip: The Hörstil for Teil 1"
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "Use global listening (globales Hören) - focus on understanding the overall message and main tendency. Don't worry if you miss individual words. If you don't understand something, don't dwell on it - mark a solution anyway and concentrate on the next task. The statements are often expressed with different words or spread across multiple sentences in the audio."
+    },
+    {
+      "id": "n32",
+      "type": "heading",
+      "order": 31,
+      "level": 2,
+      "text": "Hörverstehen Teil 2: Detailverstehen"
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 32,
+      "text": "You will hear a longer text - typically a radio interview where two people discuss a topic. Common formats include interviews with professionals (athletes, chefs, authors, social workers) about their daily lives, experiences, or expertise."
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 33,
+      "text": "You receive 10 statements and must decide if each is richtig or falsch. The statements follow the order of the audio content, which helps you track where you are in the interview."
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 34,
+      "level": 3,
+      "text": "Example Interview Topics"
+    },
+    {
+      "id": "n37",
+      "type": "heading",
+      "order": 35,
+      "level": 4,
+      "text": "From Official TELC Materials"
+    },
+    {
+      "id": "n38",
+      "type": "list",
+      "order": 36,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Weather reporter on the Zugspitze"
+        },
+        {
+          "text": "• Author Mirjam Pressler about her life"
+        },
+        {
+          "text": "• Tour cook Ole Hoppenstedt"
+        },
+        {
+          "text": "• Social worker helping street children"
+        },
+        {
+          "text": "• Professional discussing their career"
+        }
+      ]
+    },
+    {
+      "id": "n39",
+      "type": "heading",
+      "order": 37,
+      "level": 4,
+      "text": "What to Listen For"
+    },
+    {
+      "id": "n40",
+      "type": "list",
+      "order": 38,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Personal experiences and opinions"
+        },
+        {
+          "text": "• Specific details (numbers, dates, places)"
+        },
+        {
+          "text": "• Attitudes and feelings expressed"
+        },
+        {
+          "text": "• Contradictions to the statements"
+        },
+        {
+          "text": "• Subtle differences in meaning"
+        }
+      ]
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 39,
+      "level": 3,
+      "text": "The 1-Minute Preview Strategy"
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 40,
+      "text": "You have approximately 1 minute to read through all 10 statements before the audio begins. Use this time wisely:"
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Get an overview of what topics will be discussed"
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 42,
+      "text": "Underline names, numbers, and specific details you need to verify"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 43,
+      "text": "Watch for negations, quantities, and time expressions"
+    },
+    {
+      "id": "n47",
+      "type": "list",
+      "order": 44,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Statements follow the audio order - use this!"
+        },
+        {
+          "text": "Focus on ONE statement at a time"
+        },
+        {
+          "text": "Listen for paraphrased information"
+        },
+        {
+          "text": "Mark immediately when you hear the answer"
+        },
+        {
+          "text": "Don't let concentration slip - 10 questions is a lot!"
+        }
+      ]
+    },
+    {
+      "id": "n49",
+      "type": "list",
+      "order": 45,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Losing track of which statement you're on"
+        },
+        {
+          "text": "• Missing answers in interview sections that don't match statements"
+        },
+        {
+          "text": "• Confusing what the interviewer says vs the interviewee"
+        },
+        {
+          "text": "• Not recognizing when information is expressed differently"
+        }
+      ]
+    },
+    {
+      "id": "n50",
+      "type": "heading",
+      "order": 46,
+      "level": 4,
+      "text": "💡 Pro Tip: The Hörstil for Teil 2"
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Focus on individual words and word groups. The marked key words help you recognize important passages and make quick decisions. Remember: the order of statements matches the order of content in the audio. If you're waiting for statement 5 and hear something about statement 7, you may have missed 5 and 6 - mark your best guesses and move on!"
+    },
+    {
+      "id": "n52",
+      "type": "heading",
+      "order": 48,
+      "level": 2,
+      "text": "Hörverstehen Teil 3: Selektives Verstehen"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 49,
+      "text": "You will hear 5 short Durchsagen (announcements) - the kind you might hear on the radio, at train stations, airports, or on answering machines. Topics include traffic reports, weather forecasts, event announcements, service hotlines, and public information."
+    },
+    {
+      "id": "n55",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Each announcement has ONE corresponding statement. The statements follow the order of the announcements. You must identify the specific information mentioned and decide if the statement accurately reflects it."
+    },
+    {
+      "id": "n56",
+      "type": "heading",
+      "order": 51,
+      "level": 3,
+      "text": "Types of Announcements"
+    },
+    {
+      "id": "n57",
+      "type": "heading",
+      "order": 52,
+      "level": 4,
+      "text": "🚗 Traffic Reports"
+    },
+    {
+      "id": "n58",
+      "type": "list",
+      "order": 53,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Highway closures (A7, A5, etc.)"
+        },
+        {
+          "text": "• Accidents and delays"
+        },
+        {
+          "text": "• Construction zones"
+        },
+        {
+          "text": "• Direction-specific info"
+        }
+      ]
+    },
+    {
+      "id": "n59",
+      "type": "heading",
+      "order": 54,
+      "level": 4,
+      "text": "📅 Event Announcements"
+    },
+    {
+      "id": "n60",
+      "type": "list",
+      "order": 55,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Concerts and festivals"
+        },
+        {
+          "text": "• Museum exhibitions"
+        },
+        {
+          "text": "• Markets and fairs"
+        },
+        {
+          "text": "• Sports events"
+        }
+      ]
+    },
+    {
+      "id": "n61",
+      "type": "heading",
+      "order": 56,
+      "level": 4,
+      "text": "📞 Service Hotlines"
+    },
+    {
+      "id": "n62",
+      "type": "list",
+      "order": 57,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Phone numbers"
+        },
+        {
+          "text": "• Opening hours"
+        },
+        {
+          "text": "• Service options"
+        },
+        {
+          "text": "• Menu selections"
+        }
+      ]
+    },
+    {
+      "id": "n63",
+      "type": "heading",
+      "order": 58,
+      "level": 3,
+      "text": "Critical Details to Catch"
+    },
+    {
+      "id": "n64",
+      "type": "heading",
+      "order": 59,
+      "level": 4,
+      "text": "Numbers & Times"
+    },
+    {
+      "id": "n65",
+      "type": "list",
+      "order": 60,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Phone numbers (0613 vs 613)"
+        },
+        {
+          "text": "• Prices (bis zu 100€ vs ab 200€)"
+        },
+        {
+          "text": "• Times (17:00 vs evening)"
+        },
+        {
+          "text": "• Dates (8. und 9. Juli)"
+        }
+      ]
+    },
+    {
+      "id": "n66",
+      "type": "heading",
+      "order": 61,
+      "level": 4,
+      "text": "Directions & Locations"
+    },
+    {
+      "id": "n67",
+      "type": "list",
+      "order": 62,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Highway directions (Richtung Hannover vs Richtung Ulm)"
+        },
+        {
+          "text": "• Starting points vs ticket sales"
+        },
+        {
+          "text": "• Specific locations mentioned"
+        },
+        {
+          "text": "• \"zwischen X und Y\" details"
+        }
+      ]
+    },
+    {
+      "id": "n69",
+      "type": "list",
+      "order": 63,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Read the statement BEFORE the announcement plays"
+        },
+        {
+          "text": "Underline names, numbers, and specific details"
+        },
+        {
+          "text": "Listen for the EXACT information in the statement"
+        },
+        {
+          "text": "Watch for subtle differences (direction, time, price)"
+        },
+        {
+          "text": "Mark immediately - don't second-guess"
+        }
+      ]
+    },
+    {
+      "id": "n70",
+      "type": "heading",
+      "order": 64,
+      "level": 4,
+      "text": "Common Traps"
+    },
+    {
+      "id": "n71",
+      "type": "list",
+      "order": 65,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Wrong direction on highways (Richtung X vs Y)"
+        },
+        {
+          "text": "• \"eröffnet\" vs \"klingt aus\" (opens vs ends)"
+        },
+        {
+          "text": "• Missing the leading zero in phone numbers"
+        },
+        {
+          "text": "• Confusing ticket sales location with event start"
+        }
+      ]
+    },
+    {
+      "id": "n72",
+      "type": "heading",
+      "order": 66,
+      "level": 4,
+      "text": "💡 Pro Tip: The Hörstil for Teil 3"
+    },
+    {
+      "id": "n73",
+      "type": "paragraph",
+      "order": 67,
+      "text": "You must identify the exact spot in the announcement where something related to the statement is said. The statements usually contain two names or numbers that you can underline while reading and then listen for specifically. As soon as you hear something related - even if expressed differently - you must decide if the statement correctly reflects the information."
+    },
+    {
+      "id": "n74",
+      "type": "heading",
+      "order": 68,
+      "level": 2,
+      "text": "Preparing for Regional Accents"
+    },
+    {
+      "id": "n75",
+      "type": "heading",
+      "order": 69,
+      "level": 3,
+      "text": "Official TELC Warning"
+    },
+    {
+      "id": "n76",
+      "type": "paragraph",
+      "order": 70,
+      "text": "\"Sie müssen damit rechnen, dass auch mal mit regional gefärbter Aussprache gesprochen wird. Die entscheidenden Wörter sind zwar meist gut verständlich, aber der Gesamtzusammenhang kann schwer zu erfassen sein, wenn man mehrere Wörter im Satz nicht gut versteht.\""
+    },
+    {
+      "id": "n77",
+      "type": "paragraph",
+      "order": 71,
+      "text": "Translation: You should expect some speakers with regional accents. While key words are usually understandable, the overall context can be difficult if you don't understand several words in a sentence."
+    },
+    {
+      "id": "n78",
+      "type": "heading",
+      "order": 72,
+      "level": 3,
+      "text": "How to Prepare"
+    },
+    {
+      "id": "n79",
+      "type": "heading",
+      "order": 73,
+      "level": 4,
+      "text": "Listen to Regional Media"
+    },
+    {
+      "id": "n80",
+      "type": "list",
+      "order": 74,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Bavarian: BR (Bayerischer Rundfunk) radio programs"
+        },
+        {
+          "text": "• Austrian: ORF news and radio"
+        },
+        {
+          "text": "• Swiss: SRF (Schweizer Radio und Fernsehen)"
+        },
+        {
+          "text": "• Northern German: NDR radio programs"
+        }
+      ]
+    },
+    {
+      "id": "n81",
+      "type": "heading",
+      "order": 75,
+      "level": 4,
+      "text": "Focus On"
+    },
+    {
+      "id": "n82",
+      "type": "list",
+      "order": 76,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Understanding the main message despite accent"
+        },
+        {
+          "text": "• Recognizing key words even with different pronunciation"
+        },
+        {
+          "text": "• Not panicking when you hear unfamiliar sounds"
+        },
+        {
+          "text": "• Using context to fill in gaps"
+        }
+      ]
+    },
+    {
+      "id": "n83",
+      "type": "heading",
+      "order": 77,
+      "level": 2,
+      "text": "Effective Practice Strategies"
+    },
+    {
+      "id": "n84",
+      "type": "heading",
+      "order": 78,
+      "level": 3,
+      "text": "Daily Listening Practice"
+    },
+    {
+      "id": "n85",
+      "type": "list",
+      "order": 79,
+      "ordered": false,
+      "items": [
+        {
+          "text": "•Deutsche Welle: News in slow German, then normal speed"
+        },
+        {
+          "text": "•Podcasts: German news podcasts (Tagesschau, heute)"
+        },
+        {
+          "text": "•Radio: Live German radio streams"
+        },
+        {
+          "text": "•YouTube: German interviews and documentaries"
+        }
+      ]
+    },
+    {
+      "id": "n86",
+      "type": "heading",
+      "order": 80,
+      "level": 3,
+      "text": "Exam-Style Practice"
+    },
+    {
+      "id": "n87",
+      "type": "list",
+      "order": 81,
+      "ordered": false,
+      "items": [
+        {
+          "text": "•No replays: Train yourself to listen only once"
+        },
+        {
+          "text": "•Time pressure: Practice with real time limits"
+        },
+        {
+          "text": "•Note-taking: Practice marking answers quickly"
+        },
+        {
+          "text": "•Richtig/Falsch: Practice this specific format"
+        }
+      ]
+    },
+    {
+      "id": "n88",
+      "type": "heading",
+      "order": 82,
+      "level": 4,
+      "text": "🎯 The \"No Replay\" Rule"
+    },
+    {
+      "id": "n89",
+      "type": "paragraph",
+      "order": 83,
+      "text": "The most important practice habit: never replay audio during practice. This trains your brain to concentrate fully and make quick decisions. If you miss something, mark your best guess and move on - just like in the real exam. This builds the mental discipline you need for exam day."
+    },
+    {
+      "id": "n90",
+      "type": "heading",
+      "order": 84,
+      "level": 2,
+      "text": "Exam Day Tips"
+    },
+    {
+      "id": "n91",
+      "type": "heading",
+      "order": 85,
+      "level": 3,
+      "text": "Before the Audio Starts"
+    },
+    {
+      "id": "n92",
+      "type": "list",
+      "order": 86,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✓ Read ALL statements during preview time"
+        },
+        {
+          "text": "✓ Underline key words and numbers"
+        },
+        {
+          "text": "✓ Note potential traps (negations, quantities)"
+        },
+        {
+          "text": "✓ Have your pencil ready to mark answers"
+        },
+        {
+          "text": "✓ Take a deep breath and focus"
+        }
+      ]
+    },
+    {
+      "id": "n93",
+      "type": "heading",
+      "order": 87,
+      "level": 3,
+      "text": "During the Audio"
+    },
+    {
+      "id": "n94",
+      "type": "list",
+      "order": 88,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✓ Mark answers immediately when you hear them"
+        },
+        {
+          "text": "✓ Use (+) for richtig, (−) for falsch"
+        },
+        {
+          "text": "✓ Don't dwell on missed questions"
+        },
+        {
+          "text": "✓ Stay focused on the current statement"
+        },
+        {
+          "text": "✓ Trust your first instinct"
+        }
+      ]
+    },
+    {
+      "id": "n95",
+      "type": "heading",
+      "order": 89,
+      "level": 3,
+      "text": "The Golden Rules"
+    },
+    {
+      "id": "n96",
+      "type": "heading",
+      "order": 90,
+      "level": 4,
+      "text": "Never Leave Blanks"
+    },
+    {
+      "id": "n97",
+      "type": "paragraph",
+      "order": 91,
+      "text": "50% chance when guessing"
+    },
+    {
+      "id": "n98",
+      "type": "heading",
+      "order": 92,
+      "level": 4,
+      "text": "Mark Immediately"
+    },
+    {
+      "id": "n99",
+      "type": "paragraph",
+      "order": 93,
+      "text": "Don't wait until the end"
+    },
+    {
+      "id": "n100",
+      "type": "heading",
+      "order": 94,
+      "level": 4,
+      "text": "Stay Calm"
+    },
+    {
+      "id": "n101",
+      "type": "paragraph",
+      "order": 95,
+      "text": "Missing one won't ruin your score"
+    },
+    {
+      "id": "n102",
+      "type": "heading",
+      "order": 96,
+      "level": 2,
+      "text": "Ready to Practice TELC B2 Listening?"
+    },
+    {
+      "id": "n103",
+      "type": "paragraph",
+      "order": 97,
+      "text": "Put these strategies into action with our authentic TELC B2 Hörverstehen practice questions. Experience real exam-style audio with richtig/falsch questions."
+    },
+    {
+      "id": "n104",
+      "type": "heading",
+      "order": 98,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n105",
+      "type": "heading",
+      "order": 99,
+      "level": 3,
+      "text": "How long is the TELC B2 Hörverstehen (Listening) section?"
+    },
+    {
+      "id": "n106",
+      "type": "paragraph",
+      "order": 100,
+      "text": "The TELC B2 Hörverstehen section takes approximately 20 minutes. It consists of three parts with 20 questions total: Teil 1 (Globalverstehen) with 5 richtig/falsch questions, Teil 2 (Detailverstehen) with 10 richtig/falsch questions, and Teil 3 (Selektives Verstehen) with 5 richtig/falsch questions."
+    },
+    {
+      "id": "n107",
+      "type": "heading",
+      "order": 101,
+      "level": 3,
+      "text": "How many times is each audio played in TELC B2 Listening?"
+    },
+    {
+      "id": "n108",
+      "type": "paragraph",
+      "order": 102,
+      "text": "Each audio text is played only ONCE. This is a key challenge of the B2 listening exam - you must make quick decisions without the opportunity to replay. The CD cannot be stopped until you hear \"Ende des Testteils Hörverstehen.\" Practice concentrated listening without replaying to prepare effectively."
+    },
+    {
+      "id": "n109",
+      "type": "heading",
+      "order": 103,
+      "level": 3,
+      "text": "What types of audio content appear in TELC B2 Listening?"
+    },
+    {
+      "id": "n110",
+      "type": "paragraph",
+      "order": 104,
+      "text": "Teil 1 features short news reports (Nachrichtensendung) covering topics like politics, economy, culture, and sports. Teil 2 presents longer radio interviews or conversations between two people. Teil 3 includes short announcements (Durchsagen) like those heard on radio, at train stations, airports, or on answering machines."
+    },
+    {
+      "id": "n111",
+      "type": "heading",
+      "order": 105,
+      "level": 3,
+      "text": "What is the scoring for TELC B2 Hörverstehen?"
+    },
+    {
+      "id": "n112",
+      "type": "paragraph",
+      "order": 106,
+      "text": "Teil 1 (Globalverstehen): 5 points per correct answer = 25 points total. Teil 2 (Detailverstehen): 2.5 points per correct answer = 25 points total. Teil 3 (Selektives Verstehen): 5 points per correct answer = 25 points total. Maximum: 75 points for the entire listening section."
+    },
+    {
+      "id": "n113",
+      "type": "heading",
+      "order": 107,
+      "level": 3,
+      "text": "Should I expect regional German accents in the exam?"
+    },
+    {
+      "id": "n114",
+      "type": "paragraph",
+      "order": 108,
+      "text": "Yes! The official TELC guidelines warn that you may encounter regional accents (regional gefärbte Aussprache). While the key words are usually understandable, the overall context can be harder to grasp. Prepare by listening to Bavarian radio programs, Austrian news, or Swiss German content."
+    },
+    {
+      "id": "n115",
+      "type": "heading",
+      "order": 109,
+      "level": 3,
+      "text": "What should I do if I miss an answer?"
+    },
+    {
+      "id": "n116",
+      "type": "paragraph",
+      "order": 110,
+      "text": "Never leave an answer blank! Mark your best guess immediately and move on. Since all questions are richtig/falsch format, you have a 50% chance even when guessing. Dwelling on a missed question will cause you to miss the next one. Stay focused on what is coming next."
+    },
+    {
+      "id": "n117",
+      "type": "heading",
+      "order": 111,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n118",
+      "type": "heading",
+      "order": 112,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n119",
+      "type": "paragraph",
+      "order": 113,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n120",
+      "type": "heading",
+      "order": 114,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n121",
+      "type": "paragraph",
+      "order": 115,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n122",
+      "type": "heading",
+      "order": 116,
+      "level": 3,
+      "text": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n123",
+      "type": "paragraph",
+      "order": 117,
+      "text": "How to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc/b2/hoeren",
+        "text": "Start Practicing Now →",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+        "text": "Speaking SkillsHow to pass the TELC German test: Proven strategiesHow to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an...10 min readMar 29",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 58,
+      "paragraphs": 38,
+      "lists": 22,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 5,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 5,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

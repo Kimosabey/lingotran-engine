@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--telc-vs-goethe-exam-guide",
+    "sourceType": "web",
+    "title": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips",
+    "description": "Learn the difference between TELC and Goethe-Zertifikat. Compare A1–B2 exam formats, acceptance, difficulty, and get sample questions plus Prüfungstraining tips to pass your German exam.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Learn the difference between TELC and Goethe-Zertifikat. Compare A1–B2 exam formats, acceptance, difficulty, and get sample questions plus Prüfungstraining tips to pass your German exam.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Exam Guides",
+      "article:published_time": "2025-02-25",
+      "article:tag": "B2 German exam",
+      "og:image": "https://deutsch-pruefung.de/blog/images/blog-image3.jpg",
+      "og:title": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips",
+      "og:description": "Learn the difference between TELC and Goethe-Zertifikat. Compare A1–B2 exam formats, acceptance, difficulty, and get sample questions plus Prüfungstraining tips to pass your German exam.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC vs. Goethe-Zertifikat: Which German Exam Should You Take? (A1–B2 Guide)",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips",
+      "twitter:description": "Learn the difference between TELC and Goethe-Zertifikat. Compare A1–B2 exam formats, acceptance, difficulty, and get sample questions plus Prüfungstraining tips to pass your German exam.",
+      "twitter:image": "https://deutsch-pruefung.de/blog/images/blog-image3.jpg",
+      "sentry-trace": "4b2322e4eaec7f2fbaf71e36d87c6910-0f40845d3661fd39-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=4b2322e4eaec7f2fbaf71e36d87c6910,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.9852817797512572,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1101,
+    "fetchedAt": "2026-07-21T08:28:58.803Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 2,
+      "text": "🧭 Quick answer (TL;DR)"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "TELC and Goethe-Zertifikat both align with CEFR standards and assess the same four skills — Lesen, Hören, Schreiben, and Sprechen. Goethe runs A1–C2 worldwide, while TELC offers general and specialist formats (including TELC Deutsch C1 Hochschule for university access)."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 3,
+      "text": "Planning university study?"
+    },
+    {
+      "id": "n4",
+      "type": "paragraph",
+      "order": 3,
+      "text": "Prefer TELC C1 Hochschule or Goethe C1. Always double check the exact certificate requested by your university or Studienkolleg."
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 3,
+      "text": "Visas & employment"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "For work, family reunion, or integration, book whichever exam offers a convenient date at the required level (A1/B1/B2) in your city."
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 3,
+      "text": "Preparation tip"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Build a realistic Prüfungstraining routine: timed mock exams with audio, transcripts, and speaking partners beat passive study every time."
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 2,
+      "text": "🏢 What are Goethe-Zertifikat and TELC?"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 3,
+      "text": "🇩🇪 Goethe-Zertifikat"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Delivered by the Goethe-Institut with centres on every continent. Exams cover A1 through C2 and are widely recognised for visas, professional licensing, and study programs."
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 3,
+      "text": "🌐 TELC – The European Language Certificates"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Offers general and specialist exams from A1 to C2, including TELC Deutsch C1 Hochschuleaimed at university admission requirements."
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 2,
+      "text": "📈 Levels A1–B2 at a glance"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 3,
+      "text": "A1 · A2"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Everyday basics — introductions, short notes, simple leisure or travel chats."
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "B1"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Independent day-to-day German — complaints, informal letters, sharing experiences."
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 3,
+      "text": "B2"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Upper-intermediate — understand main ideas in complex texts and join professional discussions."
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 2,
+      "text": "🧾 A1 exam format — what to expect"
+    },
+    {
+      "id": "n22",
+      "type": "table",
+      "order": 21,
+      "headers": [
+        [
+          "Skill",
+          "What happens",
+          "Your focus"
+        ]
+      ],
+      "rows": [
+        [
+          "Lesen (Reading)",
+          "6–7 short texts — notices, emails, timetables. Choose the matching statement or picture.",
+          "Underline key info (dates, locations, verbs) before checking the options."
+        ],
+        [
+          "Hören (Listening)",
+          "Dialogues + announcements. Often two listens, except TELC phone tasks (one listen).",
+          "Preview answer choices so you know what information to catch the first time."
+        ],
+        [
+          "Schreiben (Writing)",
+          "Fill a short form and write a 30–50 word message (invitation, note, email).",
+          "Memorise greeting + ending templates; tick off every point in the prompt."
+        ],
+        [
+          "Sprechen (Speaking)",
+          "Introduce yourself, ask/answer simple questions, role-play a situational card.",
+          "Practise question words aloud (Wer? Was? Wann?). Keep answers short but complete."
+        ]
+      ]
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Download the official model tests from both providers to hear authentic audio, view transcripts, and see examiner solutions. Combine them with the targeted hubs below for extra drills:"
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 3,
+      "text": "Goethe A1 practice hubs"
+    },
+    {
+      "id": "n25",
+      "type": "list",
+      "order": 24,
+      "ordered": false,
+      "items": [
+        {
+          "text": "🎧 Goethe A1 Hören (Listening)"
+        },
+        {
+          "text": "📖 Goethe A1 Lesen (Reading)"
+        },
+        {
+          "text": "✍️ Goethe A1 Schreiben (Writing)"
+        },
+        {
+          "text": "🗣️ Goethe A1 Sprechen (Speaking)"
+        }
+      ]
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 3,
+      "text": "TELC A1 practice hubs"
+    },
+    {
+      "id": "n27",
+      "type": "list",
+      "order": 26,
+      "ordered": false,
+      "items": [
+        {
+          "text": "🎧 TELC A1 Hören (Listening)"
+        },
+        {
+          "text": "📖 TELC A1 Lesen (Reading)"
+        },
+        {
+          "text": "✍️ TELC A1 Schreiben (Writing)"
+        },
+        {
+          "text": "🗣️ TELC A1 Sprechen (Speaking)"
+        }
+      ]
+    },
+    {
+      "id": "n28",
+      "type": "heading",
+      "order": 27,
+      "level": 2,
+      "text": "🌍 Where are the certificates accepted?"
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 3,
+      "text": "Goethe-Zertifikat ✅"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Recognised worldwide for visa applications, professional recognition, and numerous academic programs. Check the latest policy of your embassy or employer."
+    },
+    {
+      "id": "n31",
+      "type": "heading",
+      "order": 30,
+      "level": 3,
+      "text": "TELC C1 Hochschule 🎓"
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 31,
+      "text": "Tailored to university admission. Many Hochschulen list it explicitly. Still, confirm acceptance with the admissions team before booking."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 32,
+      "level": 2,
+      "text": "💻 Test delivery & logistics"
+    },
+    {
+      "id": "n34",
+      "type": "heading",
+      "order": 33,
+      "level": 3,
+      "text": "Goethe-Institut"
+    },
+    {
+      "id": "n35",
+      "type": "list",
+      "order": 34,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Paper-based and digital formats (digital = laptops supplied on site)."
+        },
+        {
+          "text": "• Speaking remains face-to-face with one or two examiners."
+        },
+        {
+          "text": "• Results typically arrive within 2–4 weeks."
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 35,
+      "level": 3,
+      "text": "TELC"
+    },
+    {
+      "id": "n37",
+      "type": "list",
+      "order": 36,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Predominantly paper-based; some levels available computer-based."
+        },
+        {
+          "text": "• Speaking often completed with another candidate in a pair setting."
+        },
+        {
+          "text": "• Result processing can take 4–6 weeks depending on the centre."
+        }
+      ]
+    },
+    {
+      "id": "n38",
+      "type": "heading",
+      "order": 37,
+      "level": 2,
+      "text": "⚖️ TELC vs Goethe — A1 to B2 comparison"
+    },
+    {
+      "id": "n39",
+      "type": "table",
+      "order": 38,
+      "headers": [
+        [
+          "Feature",
+          "Goethe-Zertifikat (A1–B2)",
+          "TELC (A1–B2)"
+        ]
+      ],
+      "rows": [
+        [
+          "Skills tested",
+          "Lesen · Hören · Schreiben · Sprechen",
+          "Lesen · Hören · Schreiben · Sprechen"
+        ],
+        [
+          "Levels available",
+          "A1, A2, B1, B2 (+ C1, C2 worldwide)",
+          "A1, A2, B1, B2 (+ C1, C2 formats incl. Hochschule)"
+        ],
+        [
+          "University pathway",
+          "Goethe C1 is widely accepted (check each institution).",
+          "TELC Deutsch C1 Hochschule is explicitly designed for admissions."
+        ],
+        [
+          "Delivery",
+          "Paper + digital (centre dependent).",
+          "Paper + limited computer-based options."
+        ],
+        [
+          "Official practice",
+          "Model tests with audio, transcripts, and answer keys.",
+          "Mock exams (“Modellsätze”) with audio and solutions."
+        ]
+      ]
+    },
+    {
+      "id": "n40",
+      "type": "heading",
+      "order": 39,
+      "level": 2,
+      "text": "🤔 Which exam feels easier?"
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 40,
+      "text": "There is no universal “easier” exam. Both providers align with the same CEFR descriptors. Candidates who practise the exact task types (matching, note-taking, role-plays), manage exam timing, and speak confidently during the partner tasks tend to score higher — regardless of provider."
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Tip: record yourself talking through the speaking prompts and compare your answers with native examples. This builds fluency and reduces exam-day anxiety."
+    },
+    {
+      "id": "n43",
+      "type": "heading",
+      "order": 42,
+      "level": 2,
+      "text": "📅 Prüfungstraining in 4 steps"
+    },
+    {
+      "id": "n44",
+      "type": "list",
+      "order": 43,
+      "ordered": true,
+      "items": [
+        {
+          "text": "1. Learn the format. Download the official PDFs and highlight timing + instructions for your level."
+        },
+        {
+          "text": "2. Run a baseline mock. Sit a full exam without pausing. Score yourself honestly to spot weak skills."
+        },
+        {
+          "text": "3. Drill by skill. Rotate through Lesen, Hören, Schreiben, Sprechen drills using our practice hubs + official materials."
+        },
+        {
+          "text": "4. Simulate weekly. Schedule full mock exams until you consistently exceed the pass mark (60%+)."
+        }
+      ]
+    },
+    {
+      "id": "n45",
+      "type": "heading",
+      "order": 44,
+      "level": 3,
+      "text": "Ready to drill each skill?"
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Goethe A1 Hören"
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Short dialogues + announcements with answer feedback."
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Goethe B1 Schreiben"
+    },
+    {
+      "id": "n49",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Letter templates, tone builders, and Redemittel banks."
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 49,
+      "text": "TELC A2 Lesen"
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Skim-and-scan drills that mirror Auswahlaufgaben."
+    },
+    {
+      "id": "n52",
+      "type": "paragraph",
+      "order": 51,
+      "text": "TELC B2 Sprechen"
+    },
+    {
+      "id": "n53",
+      "type": "paragraph",
+      "order": 52,
+      "text": "Role-play prompts and response stems for Teil 1–3."
+    },
+    {
+      "id": "n54",
+      "type": "heading",
+      "order": 53,
+      "level": 2,
+      "text": "💶 Costs, booking, and results"
+    },
+    {
+      "id": "n55",
+      "type": "paragraph",
+      "order": 54,
+      "text": "Exam fees vary by country and centre. Choose the provider that offers dates you can attend, is officially recognised by your institution, and delivers results in the timeframe you need. Popular centres fill quickly — book 6–8 weeks in advance when possible."
+    },
+    {
+      "id": "n56",
+      "type": "heading",
+      "order": 55,
+      "level": 2,
+      "text": "❓ FAQ"
+    },
+    {
+      "id": "n57",
+      "type": "paragraph",
+      "order": 56,
+      "text": "For general goals such as visas, work, or learning German, both certificates are accepted. Choose the test centre, schedule, and task types that feel most comfortable. For university entry, confirm whether TELC C1 Hochschule or Goethe C1 is on your faculty’s accepted list."
+    },
+    {
+      "id": "n58",
+      "type": "paragraph",
+      "order": 57,
+      "text": "Both providers currently require you to sit the exam in person at an authorised centre. Some locations run “digital” formats on site (laptop-based Reading/Listening/Writing), but they remain supervised, in-centre exams."
+    },
+    {
+      "id": "n59",
+      "type": "paragraph",
+      "order": 58,
+      "text": "Certificates themselves do not usually expire. However, employers, embassies, or universities may request a certificate issued within a certain time frame (often the last two years). Always follow the policy of the institution you are applying to."
+    },
+    {
+      "id": "n60",
+      "type": "heading",
+      "order": 59,
+      "level": 2,
+      "text": "✅ Final recommendations"
+    },
+    {
+      "id": "n61",
+      "type": "list",
+      "order": 60,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Define your goal (visa, work, university) and align the certificate choice with that goal."
+        },
+        {
+          "text": "• Use official mock exams alongside our module drills for realistic Prüfungstraining."
+        },
+        {
+          "text": "• Start early, practise with audio + speaking partners, and track your mock scores weekly."
+        }
+      ]
+    },
+    {
+      "id": "n62",
+      "type": "paragraph",
+      "order": 61,
+      "text": "Not affiliated with Goethe-Institut or telc gGmbH. Exam names are used for identification only."
+    },
+    {
+      "id": "n63",
+      "type": "heading",
+      "order": 62,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n64",
+      "type": "heading",
+      "order": 63,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n65",
+      "type": "paragraph",
+      "order": 64,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n66",
+      "type": "heading",
+      "order": 65,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n67",
+      "type": "paragraph",
+      "order": 66,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n68",
+      "type": "heading",
+      "order": 67,
+      "level": 3,
+      "text": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n69",
+      "type": "paragraph",
+      "order": 68,
+      "text": "How to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren",
+        "text": "🎧 Goethe A1 Hören (Listening)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/goethe/a1/lesen",
+        "text": "📖 Goethe A1 Lesen (Reading)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/a1/schreiben",
+        "text": "✍️ Goethe A1 Schreiben (Writing)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/goethe/a1/sprechen",
+        "text": "🗣️ Goethe A1 Sprechen (Speaking)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/a1/hoeren",
+        "text": "🎧 TELC A1 Hören (Listening)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/telc/a1/lesen",
+        "text": "📖 TELC A1 Lesen (Reading)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/telc/a1/schreiben",
+        "text": "✍️ TELC A1 Schreiben (Writing)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/telc/a1/sprechen",
+        "text": "🗣️ TELC A1 Sprechen (Speaking)",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren",
+        "text": "🎧Goethe A1 HörenShort dialogues + announcements with answer feedback.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/goethe/b1/schreiben",
+        "text": "✍️Goethe B1 SchreibenLetter templates, tone builders, and Redemittel banks.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/telc/a2/lesen",
+        "text": "📚TELC A2 LesenSkim-and-scan drills that mirror Auswahlaufgaben.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk13",
+        "type": "link",
+        "order": 12,
+        "href": "https://deutsch-pruefung.de/telc/b2/sprechen",
+        "text": "🗣️TELC B2 SprechenRole-play prompts and response stems for Teil 1–3.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk14",
+        "type": "link",
+        "order": 13,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk15",
+        "type": "link",
+        "order": 14,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk16",
+        "type": "link",
+        "order": 15,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+        "text": "Speaking SkillsHow to pass the TELC German test: Proven strategiesHow to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an...10 min readMar 29",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 31,
+      "paragraphs": 30,
+      "lists": 6,
+      "tables": 2,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 16,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

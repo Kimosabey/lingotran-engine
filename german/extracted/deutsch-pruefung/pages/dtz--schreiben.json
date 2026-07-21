@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/dtz/schreiben",
+    "canonicalUrl": "https://deutsch-pruefung.de/dtz/schreiben",
+    "site": "deutsch-pruefung.de",
+    "slug": "dtz--schreiben",
+    "sourceType": "web",
+    "title": "DTZ Schreiben (Writing) Practice | Deutsch-Test für Zuwanderer",
+    "description": "Practice DTZ Schreiben (Writing) section. Write semi-formal and formal messages for everyday communication situations.",
+    "lang": "en",
+    "exam": "dtz",
+    "level": "unknown",
+    "section": "schreiben",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Practice DTZ Schreiben (Writing) section. Write semi-formal and formal messages for everyday communication situations.",
+      "author": "German Exam Practice",
+      "og:title": "DTZ Schreiben (Writing) Practice | Deutsch-Test für Zuwanderer",
+      "og:description": "Practice DTZ Schreiben (Writing) section. Write semi-formal and formal messages for everyday communication situations.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "98d1e00625addef9431aa9fcb2de4da8-5a76dfecc1871488-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=98d1e00625addef9431aa9fcb2de4da8,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2Fdtz%2F%5Bsection%5D,sentry-sampled=true,sentry-sample_rand=0.07678149751779517,sentry-sample_rate=0.2"
+    },
+    "wordCount": 89,
+    "fetchedAt": "2026-07-21T08:27:32.637Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The DTZ Schreiben (Writing) section takes 30 minutes and tests your ability to write semi-formal and formal messages in German. You choose one of two tasks and write a message addressing specific points."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Halbformelle und formelle Mitteilungen verfassen"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Choose one of two writing tasks (Aufgabe A or B)"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Write a semi-formal or formal message"
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "Select a Teil to begin"
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 3,
+      "text": "Halbformelle und formelle Mitteilungen verfassen"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Goal: Halbformelle und formelle Mitteilungen verfassen"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Answers to popular questions about DTZ Schreiben (Writing) practice"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/dtz/schreiben/teil1",
+        "text": "Halbformelle und formelle Mitteilungen verfassenGoal: Halbformelle und formelle Mitteilungen verfassen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart1 questions to practiseCompletion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 4,
+      "paragraphs": 6,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 3,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

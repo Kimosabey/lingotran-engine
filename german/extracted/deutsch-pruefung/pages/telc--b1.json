@@ -1,0 +1,486 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/b1",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/b1",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--b1",
+    "sourceType": "web",
+    "title": "TELC B1 German Exam - Complete Preparation Guide",
+    "description": "Master TELC B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "B1",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master TELC B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+      "author": "German Exam Practice",
+      "og:title": "TELC B1 German Exam - Complete Preparation Guide",
+      "og:description": "Master TELC B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+      "og:url": "https://deutsch-pruefung.de/telc/b1",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20German%20B1&subtitle=Certificate%20Preparation&type=telc&level=b1",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German B1 Exam Practice",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC B1 German Exam - Complete Preparation Guide",
+      "twitter:description": "Master TELC B1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for B1 level proficiency certification.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20German%20B1&subtitle=Certificate%20Preparation&type=telc&level=b1",
+      "sentry-trace": "946d400d2d8b5fc9c2176cf7f4929fff-cfe7792a5d385bee-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=946d400d2d8b5fc9c2176cf7f4929fff,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.22079115560763718,sentry-sample_rate=0.2"
+    },
+    "wordCount": 304,
+    "fetchedAt": "2026-07-21T08:29:21.433Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "TELC German B1 Practice"
+    },
+    {
+      "id": "n2",
+      "type": "heading",
+      "order": 1,
+      "level": 2,
+      "text": "Choose Your Practice Section"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "Select the exam section for TELC B1 practice"
+    },
+    {
+      "id": "n4",
+      "type": "image",
+      "order": 3,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+      "alt": "Hören (Listening) illustration"
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 3,
+      "text": "Hören (Listening)"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "Work, school, and leisure topics with clear speech"
+    },
+    {
+      "id": "n7",
+      "type": "image",
+      "order": 6,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+      "alt": "Lesen (Reading) illustration"
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 3,
+      "text": "Lesen (Reading)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Factual texts and personal correspondence"
+    },
+    {
+      "id": "n10",
+      "type": "image",
+      "order": 9,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+      "alt": "Schreiben (Writing) illustration"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 3,
+      "text": "Schreiben (Writing)"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Personal letters and simple reports"
+    },
+    {
+      "id": "n13",
+      "type": "image",
+      "order": 12,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+      "alt": "Sprechen (Speaking) illustration"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Sprechen (Speaking)"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Familiar topics and personal opinions"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "TELC B1 Exam Structure"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 4,
+      "text": "Receptive Skills"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Productive Skills"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Official exam context"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 2,
+      "text": "What the TELC B1 Exam Checks"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Zertifikat Deutsch / telc Deutsch B1 tests everyday German for personal and professional communication at CEFR B1."
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 3,
+      "text": "Exam format and timing"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "The telc B1 qualification consists of a written examination and an oral examination."
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 4,
+      "text": "Reading and language elements"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "90 minutes"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Reading has three parts and language elements has two parts, with no break."
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 4,
+      "text": "Listening"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Approx. 30 minutes"
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "Three listening parts in the written examination."
+    },
+    {
+      "id": "n30",
+      "type": "heading",
+      "order": 29,
+      "level": 4,
+      "text": "Writing"
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "30 minutes"
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 31,
+      "text": "One writing task in the written examination."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 32,
+      "level": 4,
+      "text": "Speaking"
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Approx. 15 minutes"
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 34,
+      "text": "Three speaking parts, pair examination, with 20 minutes of preparation time."
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 35,
+      "level": 3,
+      "text": "Best for"
+    },
+    {
+      "id": "n37",
+      "type": "heading",
+      "order": 36,
+      "level": 4,
+      "text": "Independent everyday German"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 37,
+      "text": "Useful for personal and professional situations, including receptive and productive tasks."
+    },
+    {
+      "id": "n39",
+      "type": "heading",
+      "order": 38,
+      "level": 4,
+      "text": "Residence and citizenship preparation"
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 39,
+      "text": "Relevant when an authority asks for B1 German. Confirm the accepted certificate version before booking."
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 40,
+      "level": 3,
+      "text": "How to use your practice time"
+    },
+    {
+      "id": "n42",
+      "type": "list",
+      "order": 41,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Receptive skills plus productive writing and speaking responses."
+        },
+        {
+          "text": "Personal and professional topic vocabulary."
+        },
+        {
+          "text": "Writing feedback for task completion, organization, and language accuracy."
+        }
+      ]
+    },
+    {
+      "id": "n43",
+      "type": "heading",
+      "order": 42,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "B1 is commonly requested for independent German skills in naturalization contexts. Check with the authority processing your application."
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Reading, language elements, listening, writing, and an oral pair exam with preparation time."
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Balance reading/listening accuracy with clear writing, examples in speaking, and everyday personal or work-related topics."
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Last reviewed: May 2026. This page is independent exam preparation. For official registration, fees, dates, and accepted certificate rules, check the exam provider and the institution or authority requesting your certificate."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+        "alt": "Hören (Listening) illustration"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+        "alt": "Lesen (Reading) illustration"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+        "alt": "Schreiben (Writing) illustration"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+        "alt": "Sprechen (Speaking) illustration"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/b1/hoeren",
+        "text": "Hören practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/b1/lesen",
+        "text": "Lesen practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/b1/schreiben",
+        "text": "Schreiben practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/b1/sprechen",
+        "text": "Sprechen practice",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 20,
+      "paragraphs": 23,
+      "lists": 1,
+      "tables": 0,
+      "images": 4,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

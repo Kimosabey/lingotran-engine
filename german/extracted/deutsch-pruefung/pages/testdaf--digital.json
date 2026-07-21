@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/testdaf/digital",
+    "site": "deutsch-pruefung.de",
+    "slug": "testdaf--digital",
+    "sourceType": "web",
+    "title": "Digital TestDaF Practice Sets | Deutsch Prüfung",
+    "description": "Choose a Digital TestDaF practice set. Set 1 is available for Lesen, with more sets coming soon.",
+    "lang": "en",
+    "exam": "testdaf",
+    "level": "unknown",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Choose a Digital TestDaF practice set. Set 1 is available for Lesen, with more sets coming soon.",
+      "author": "German Exam Practice",
+      "og:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "og:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "og:site_name": "Deutsch Prüfung",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Deutsch Prüfung - German Exam Preparation Platform",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "c922fa5abf76b033881cd5fc8fd8e371-8bf278df6fa12c0c-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=c922fa5abf76b033881cd5fc8fd8e371,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.7868387469397278,sentry-sample_rate=0.2"
+    },
+    "wordCount": 64,
+    "fetchedAt": "2026-07-21T08:28:13.555Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 2,
+      "text": "Digital TestDaF Set 1"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Start with the first Lesen practice set covering all seven digital task types."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Digital TestDaF Set 2"
+    },
+    {
+      "id": "n4",
+      "type": "paragraph",
+      "order": 3,
+      "text": "A full Digital TestDaF practice set will be added here soon."
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 2,
+      "text": "Digital TestDaF Set 3"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 5,
+      "level": 2,
+      "text": "Digital TestDaF Set 4"
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 6,
+      "level": 2,
+      "text": "Digital TestDaF Set 5"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 7,
+      "level": 2,
+      "text": "Digital TestDaF Set 6"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 8,
+      "level": 2,
+      "text": "Digital TestDaF Set 7"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 9,
+      "level": 2,
+      "text": "Digital TestDaF Set 8"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 10,
+      "level": 2,
+      "text": "Digital TestDaF Set 9"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 11,
+      "level": 2,
+      "text": "Digital TestDaF Set 10"
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/testdaf/digital/lesen",
+        "text": "Lesen availableDigital TestDaF Set 1Start with the first Lesen practice set covering all seven digital task types.7 Lesen tasksStart Set 1",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 10,
+      "paragraphs": 2,
+      "lists": 0,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 4,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 8,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

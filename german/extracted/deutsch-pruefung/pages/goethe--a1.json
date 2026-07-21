@@ -1,0 +1,480 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/goethe/a1",
+    "canonicalUrl": "https://deutsch-pruefung.de/goethe/a1",
+    "site": "deutsch-pruefung.de",
+    "slug": "goethe--a1",
+    "sourceType": "web",
+    "title": "Goethe A1 German Exam - Complete Preparation Guide",
+    "description": "Master Goethe A1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for A1 level proficiency certification.",
+    "lang": "en",
+    "exam": "goethe",
+    "level": "A1",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master Goethe A1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for A1 level proficiency certification.",
+      "author": "German Exam Practice",
+      "og:title": "Goethe A1 German Exam - Complete Preparation Guide",
+      "og:description": "Master Goethe A1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for A1 level proficiency certification.",
+      "og:url": "https://deutsch-pruefung.de/goethe/a1",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20German%20A1&subtitle=Certificate%20Preparation&type=goethe&level=a1",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Goethe German A1 Exam Practice",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "Goethe A1 German Exam - Complete Preparation Guide",
+      "twitter:description": "Master Goethe A1 German exam with comprehensive preparation materials, practice tests, and expert strategies. Perfect for A1 level proficiency certification.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20German%20A1&subtitle=Certificate%20Preparation&type=goethe&level=a1",
+      "sentry-trace": "9ea646a1e09abe2b5d6780466f2d95a5-a5a458b66b9321f4-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=9ea646a1e09abe2b5d6780466f2d95a5,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.8443486590062366,sentry-sample_rate=0.2"
+    },
+    "wordCount": 309,
+    "fetchedAt": "2026-07-21T08:29:45.748Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "Goethe German A1 Practice"
+    },
+    {
+      "id": "n2",
+      "type": "heading",
+      "order": 1,
+      "level": 2,
+      "text": "Choose Your Practice Section"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "Select the exam section for GOETHE A1 practice"
+    },
+    {
+      "id": "n4",
+      "type": "image",
+      "order": 3,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+      "alt": "Hören (Listening) illustration"
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 3,
+      "text": "Hören (Listening)"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "Basic everyday conversations and simple announcements"
+    },
+    {
+      "id": "n7",
+      "type": "image",
+      "order": 6,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+      "alt": "Lesen (Reading) illustration"
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 3,
+      "text": "Lesen (Reading)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "Emails, websites, signs, and everyday notices"
+    },
+    {
+      "id": "n10",
+      "type": "image",
+      "order": 9,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+      "alt": "Schreiben (Writing) illustration"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 3,
+      "text": "Schreiben (Writing)"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Filling out a form and Schreiben (writing) a short letter"
+    },
+    {
+      "id": "n13",
+      "type": "image",
+      "order": 12,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+      "alt": "Sprechen (Speaking) illustration"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Sprechen (Speaking)"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Simple introductions and basic conversations"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "GOETHE A1 Exam Structure"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 4,
+      "text": "Receptive Skills"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Productive Skills"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Official exam context"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 2,
+      "text": "What the Goethe A1 Exam Checks"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Goethe-Zertifikat A1: Start Deutsch 1 confirms basic German skills at CEFR A1 for adults."
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 3,
+      "text": "Exam format and timing"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "The exam has listening, reading, writing, and speaking sections. The speaking section is an oral group examination."
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 4,
+      "text": "Listening"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "20 minutes"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Short everyday conversations, telephone messages, and public announcements."
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 4,
+      "text": "Reading"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "25 minutes"
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "Short notes, advertisements, information signs, and notices."
+    },
+    {
+      "id": "n30",
+      "type": "heading",
+      "order": 29,
+      "level": 4,
+      "text": "Writing"
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 30,
+      "text": "Simple forms and a short personal text about an everyday situation."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 31,
+      "level": 4,
+      "text": "Speaking"
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 32,
+      "text": "15 minutes"
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Self-introduction, everyday questions and answers, and simple requests."
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 34,
+      "level": 3,
+      "text": "Best for"
+    },
+    {
+      "id": "n37",
+      "type": "heading",
+      "order": 35,
+      "level": 4,
+      "text": "Basic German proof"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 36,
+      "text": "Useful when you need to show beginner German for simple everyday communication."
+    },
+    {
+      "id": "n39",
+      "type": "heading",
+      "order": 37,
+      "level": 4,
+      "text": "Family reunification preparation"
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 38,
+      "text": "Relevant when a spouse visa route asks for A1-level German proof. Confirm accepted certificates with the German mission."
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 39,
+      "level": 3,
+      "text": "How to use your practice time"
+    },
+    {
+      "id": "n42",
+      "type": "list",
+      "order": 40,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Personal information, family, shopping, work, school, and housing vocabulary."
+        },
+        {
+          "text": "Forms, signs, short notes, slow listening, and simple public announcements."
+        },
+        {
+          "text": "Speaking prompts for introductions, basic questions, answers, and requests."
+        }
+      ]
+    },
+    {
+      "id": "n43",
+      "type": "heading",
+      "order": 41,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 42,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 43,
+      "text": "A1 is commonly linked to basic German proof for spouse reunification, but the embassy or consulate decides acceptance and exemptions."
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Yes. You should practise listening, reading, writing, and speaking instead of preparing vocabulary only."
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Start with personal details, numbers, dates, simple forms, everyday notices, and short spoken answers."
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Last reviewed: May 2026. This page is independent exam preparation. For official registration, fees, dates, and accepted certificate rules, check the exam provider and the institution or authority requesting your certificate."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+        "alt": "Hören (Listening) illustration"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+        "alt": "Lesen (Reading) illustration"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+        "alt": "Schreiben (Writing) illustration"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+        "alt": "Sprechen (Speaking) illustration"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren",
+        "text": "Hören practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/a1/lesen",
+        "text": "Lesen practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/goethe/a1/schreiben",
+        "text": "Schreiben practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/goethe/a1/sprechen",
+        "text": "Sprechen practice",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 20,
+      "paragraphs": 22,
+      "lists": 1,
+      "tables": 0,
+      "images": 4,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 1,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

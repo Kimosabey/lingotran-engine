@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/dtz/sprechen",
+    "canonicalUrl": "https://deutsch-pruefung.de/dtz/sprechen",
+    "site": "deutsch-pruefung.de",
+    "slug": "dtz--sprechen",
+    "sourceType": "web",
+    "title": "DTZ Sprechen (Speaking) Practice | Deutsch-Test für Zuwanderer",
+    "description": "Practice DTZ Sprechen (Speaking) section. 3 parts covering self-introduction, talking about experiences, and collaborative planning.",
+    "lang": "en",
+    "exam": "dtz",
+    "level": "unknown",
+    "section": "sprechen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Practice DTZ Sprechen (Speaking) section. 3 parts covering self-introduction, talking about experiences, and collaborative planning.",
+      "author": "German Exam Practice",
+      "og:title": "DTZ Sprechen (Speaking) Practice | Deutsch-Test für Zuwanderer",
+      "og:description": "Practice DTZ Sprechen (Speaking) section. 3 parts covering self-introduction, talking about experiences, and collaborative planning.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "42675a8d50f9f101dea6a798147ddf34-96f2d5ce926b7cfd-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=42675a8d50f9f101dea6a798147ddf34,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.6961381998498921,sentry-sample_rate=0.2"
+    },
+    "wordCount": 164,
+    "fetchedAt": "2026-07-21T08:27:34.074Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The DTZ Sprechen (Speaking) section takes approximately 16 minutes and is conducted as a pair examination. You will introduce yourself, talk about experiences, and plan something together with your partner."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Über sich sprechen + Teil 1B: Auf Nachfragen reagieren"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Introduce yourself using keywords (Stichworten)"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Answer follow-up questions from the examiner"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Über Erfahrungen sprechen + Teil 2B: Auf Nachfragen reagieren"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Talk about experiences using a picture prompt (Bildimpuls)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Describe personal experiences related to the topic"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Gemeinsam etwas planen"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Plan something together with your partner"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Discuss key points (Leitpunkten) and make suggestions"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Select a Teil to begin"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Teil 1 - Über sich sprechen"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Goal: Über sich sprechen + Teil 1B: Auf Nachfragen reagieren"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "Teil 2 - Über Erfahrungen sprechen"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "Goal: Über Erfahrungen sprechen + Teil 2B: Auf Nachfragen reagieren"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 3,
+      "text": "Teil 3 - Gemeinsam etwas planen"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Goal: Gemeinsam etwas planen"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Answers to popular questions about DTZ Sprechen (Speaking) practice"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/dtz/sprechen/teil1",
+        "text": "Teil 1 - Über sich sprechenGoal: Über sich sprechen + Teil 1B: Auf Nachfragen reagieren● 0 Correct● 0 Wrong⚡ 0% AccuracyStart2 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/dtz/sprechen/teil2",
+        "text": "Teil 2 - Über Erfahrungen sprechenGoal: Über Erfahrungen sprechen + Teil 2B: Auf Nachfragen reagieren● 0 Correct● 0 Wrong⚡ 0% AccuracyStart2 questions to practiseCompletion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/dtz/sprechen/teil3",
+        "text": "Teil 3 - Gemeinsam etwas planenGoal: Gemeinsam etwas planen● 0 Correct● 0 Wrong⚡ 0% AccuracyStart1 questions to practiseCompletion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 8,
+      "paragraphs": 12,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 5,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

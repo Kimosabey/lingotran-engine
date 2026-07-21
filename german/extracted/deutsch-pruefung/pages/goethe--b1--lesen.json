@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/goethe/b1/lesen",
+    "canonicalUrl": "https://deutsch-pruefung.de/goethe/b1/lesen",
+    "site": "deutsch-pruefung.de",
+    "slug": "goethe--b1--lesen",
+    "sourceType": "web",
+    "title": "Goethe German B1 Lesen (Reading) Practice Overview",
+    "description": "Overview of parts with tips and links to start reading practice. Prepare for Goethe German B1 lesen (reading) section.",
+    "lang": "en",
+    "exam": "goethe",
+    "level": "B1",
+    "section": "lesen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start reading practice. Prepare for Goethe German B1 lesen (reading) section.",
+      "author": "German Exam Practice",
+      "og:title": "Goethe German B1 Lesen (Reading) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start reading practice. Prepare for Goethe German B1 lesen (reading) section.",
+      "og:url": "https://deutsch-pruefung.de/goethe/b1/lesen",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20B1%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=goethe&level=b1&section=lesen",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Goethe German B1 Lesen (Reading) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "Goethe German B1 Lesen (Reading) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start reading practice. Prepare for Goethe German B1 lesen (reading) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20B1%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=goethe&level=b1&section=lesen",
+      "sentry-trace": "aa8a55cfbe44d3430d0826336b5f6bb0-f8123b89b5109576-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=aa8a55cfbe44d3430d0826336b5f6bb0,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2F%5Bprovider%5D%2F%5Blevel%5D%2F%5Bsection%5D,sentry-sampled=true,sentry-sample_rand=0.08211629992533398,sentry-sample_rate=0.2"
+    },
+    "wordCount": 238,
+    "fetchedAt": "2026-07-21T08:30:04.015Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The Goethe B1 Reading module has five parts. You will read several texts and complete tasks related to them."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Reading Correspondence"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Goal: understand personal or professional correspondence (emails, letters, forum posts)"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Task: judge six statements as true or false based on the text"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Understanding Information & Arguments"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Goal: analyse an informational article and grasp the author’s line of argumentation"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Task: choose the correct answer from three options for each prompt"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Reading for Orientation"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Goal: orient yourself quickly in notices, adverts, or short descriptions"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Task: match seven short profiles or situations to the best-fitting text; one option will remain unused"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 4,
+      "text": "Teil 4: Opinions & Arguments"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "• Goal: understand viewpoints and supporting arguments in reader comments or opinion snippets"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "• Task: decide for each statement whether it agrees with the text (Yes/No)"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 4,
+      "text": "Teil 5: Understanding Written Instructions"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "• Goal: extract rules or instructions from formal texts such as house regulations or guidelines"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "• Task: pick the correct statement from three options for each prompt"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 3,
+      "text": "Teil 1 - Reading Correspondence"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Goal: Reading Correspondence"
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 3,
+      "text": "Teil 2 - Understanding Information & Arguments"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Goal: Understanding Information & Arguments"
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 22,
+      "level": 3,
+      "text": "Teil 3 - Reading for Orientation"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Goal: Reading for Orientation"
+    },
+    {
+      "id": "n25",
+      "type": "heading",
+      "order": 24,
+      "level": 3,
+      "text": "Teil 4 - Opinions & Arguments"
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Goal: Opinions & Arguments"
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 3,
+      "text": "Teil 5 - Understanding Written Instructions"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Goal: Understanding Written Instructions"
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/goethe/b1",
+        "text": "B1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/b1/lesen/teil1",
+        "text": "Teil 1 - Reading CorrespondenceGoal: Reading Correspondence● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/goethe/b1/lesen/teil2",
+        "text": "Teil 2 - Understanding Information & ArgumentsGoal: Understanding Information & Arguments● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/goethe/b1/lesen/teil3",
+        "text": "Teil 3 - Reading for OrientationGoal: Reading for Orientation● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/goethe/b1/lesen/teil4",
+        "text": "Teil 4 - Opinions & ArgumentsGoal: Opinions & Arguments● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/goethe/b1/lesen/teil5",
+        "text": "Teil 5 - Understanding Written InstructionsGoal: Understanding Written Instructions● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 12,
+      "paragraphs": 17,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 8,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

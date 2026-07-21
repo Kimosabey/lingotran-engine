@@ -1,0 +1,980 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--how-to-pass-telc-german-test-proven-strategies",
+    "sourceType": "web",
+    "title": "How to pass the TELC German test: Proven strategies",
+    "description": "Learn proven strategies to pass the TELC German test. Discover study plans, section tips, and resources to achieve certification on your first attempt.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Learn proven strategies to pass the TELC German test. Discover study plans, section tips, and resources to achieve certification on your first attempt.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Speaking Skills",
+      "article:published_time": "2026-03-29T08:04:57.314Z",
+      "article:tag": "what is telc b2",
+      "og:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774771673451_Woman-studying-TELC-German-at-kitchen-table.jpeg",
+      "og:title": "How to pass the TELC German test: Proven strategies",
+      "og:description": "Learn proven strategies to pass the TELC German test. Discover study plans, section tips, and resources to achieve certification on your first attempt.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "How to pass the TELC German test: Proven strategies",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "How to pass the TELC German test: Proven strategies",
+      "twitter:description": "Learn proven strategies to pass the TELC German test. Discover study plans, section tips, and resources to achieve certification on your first attempt.",
+      "twitter:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774771673451_Woman-studying-TELC-German-at-kitchen-table.jpeg",
+      "sentry-trace": "286d4ead0f4de5b10f5cc45083b51707-8134929effb728e7-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=286d4ead0f4de5b10f5cc45083b51707,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2Fblog%2F%5Bslug%5D,sentry-sampled=true,sentry-sample_rand=0.08816893141858051,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1805,
+    "fetchedAt": "2026-07-21T08:28:34.681Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "paragraph",
+      "order": 0,
+      "text": "The TELC German certification opens doors to visas, university admissions, and career opportunities across German-speaking countries. Yet many test-takers struggle with the same obstacles: running out of time during reading, losing focus during listening, and never tracking their mistakes between practice sessions. This guide walks you through every stage of preparation, from understanding the exam format to executing section-specific strategies, so you can walk into test day with a clear plan and genuine confidence."
+    },
+    {
+      "id": "n2",
+      "type": "heading",
+      "order": 1,
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "id": "n3",
+      "type": "list",
+      "order": 2,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Understand the TELC German test format and requirements"
+        },
+        {
+          "text": "Create your personalized study plan for TELC success"
+        },
+        {
+          "text": "Strategies for mastering each TELC section"
+        },
+        {
+          "text": "Avoiding common mistakes and verifying your readiness"
+        },
+        {
+          "text": "Upgrade your TELC prep with targeted resources"
+        },
+        {
+          "text": "Frequently asked questions"
+        }
+      ]
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 2,
+      "text": "Key Takeaways"
+    },
+    {
+      "id": "n5",
+      "type": "table",
+      "order": 4,
+      "headers": [
+        [
+          "Point",
+          "Details"
+        ]
+      ],
+      "rows": [
+        [
+          "Know the exam format",
+          "Understanding the structure of the TELC German test is crucial for efficient preparation."
+        ],
+        [
+          "Build a tailored study plan",
+          "A 4–8 week plan with timed mocks and mistake logs dramatically boosts your odds of passing."
+        ],
+        [
+          "Practice listening for stamina",
+          "Daily listening without replays prepares you for the unique challenge of TELC’s single-play format."
+        ],
+        [
+          "Track mistakes to improve",
+          "Mistake logs identify weaknesses and drive targeted improvement across all sections."
+        ],
+        [
+          "Use mock exams to verify readiness",
+          "Full-length, timed mock tests are the best way to confirm your preparedness before test day."
+        ]
+      ]
+    },
+    {
+      "id": "n6",
+      "type": "heading",
+      "order": 5,
+      "level": 2,
+      "text": "Understand the TELC German test format and requirements"
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "To succeed, you first need to know exactly what to expect from the TELC exam and how to prepare for it. TELC (The European Language Certificates) offers proficiency levels from A1 through B2, each targeting a different stage of German fluency. A1 and A2 cover basic communication, B1 targets independent everyday use, and B2 is required for many university programs and skilled worker visas."
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Every TELC level tests four core skills:"
+    },
+    {
+      "id": "n9",
+      "type": "list",
+      "order": 8,
+      "ordered": false,
+      "items": [
+        {
+          "text": "📖 Lesen (Reading): Multiple-choice and matching tasks based on real-world texts"
+        },
+        {
+          "text": "🎧 Hören (Listening): Audio-based tasks with dialogues, announcements, and interviews"
+        },
+        {
+          "text": "✍️ Schreiben (Writing): Formal or informal written responses to prompts"
+        },
+        {
+          "text": "🗣️ Sprechen (Speaking): Role-play and discussion tasks with a partner or examiner"
+        }
+      ]
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Here is a quick comparison of what each level demands:"
+    },
+    {
+      "id": "n11",
+      "type": "table",
+      "order": 10,
+      "headers": [
+        [
+          "Level",
+          "Target use",
+          "Typical exam duration",
+          "Key challenge"
+        ]
+      ],
+      "rows": [
+        [
+          "A1",
+          "Basic greetings, forms",
+          "~60 minutes",
+          "Vocabulary range"
+        ],
+        [
+          "A2",
+          "Simple daily tasks",
+          "~75 minutes",
+          "Grammar accuracy"
+        ],
+        [
+          "B1",
+          "Independent communication",
+          "~90 minutes",
+          "Listening stamina"
+        ],
+        [
+          "B2",
+          "Academic and professional",
+          "~110 minutes",
+          "Complex reading"
+        ]
+      ]
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "One detail that surprises many candidates: as noted in the TELC B2 exam format guide, the listening section at B1 and above includes recordings that play only once. Specifically, Listening part 1 plays once only, so you must practice without replays from day one. You can also explore A1 listening strategies if you are starting at a lower level."
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "For materials, you will need: official TELC practice booklets, a notebook for your mistake log, audio files or a platform with realistic listening exercises, and a timer for simulated exam conditions."
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 2,
+      "text": "Create your personalized study plan for TELC success"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Once you know the exam’s structure, building your own practical study plan is the next crucial step. The good news is that a focused, structured approach works. Students pass on the first try with 4 to 8 week plans that emphasize timed mock exams and consistent mistake logs, with daily 10-minute listening sessions building real stamina over time."
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Here is how a realistic weekly breakdown looks:"
+    },
+    {
+      "id": "n17",
+      "type": "table",
+      "order": 16,
+      "headers": [
+        [
+          "Day",
+          "Focus area",
+          "Time"
+        ]
+      ],
+      "rows": [
+        [
+          "Monday",
+          "Grammar review and exercises",
+          "45 min"
+        ],
+        [
+          "Tuesday",
+          "Listening practice (no replays)",
+          "30 min"
+        ],
+        [
+          "Wednesday",
+          "Reading tasks with timer",
+          "45 min"
+        ],
+        [
+          "Thursday",
+          "Writing practice with template",
+          "40 min"
+        ],
+        [
+          "Friday",
+          "Full mock test section",
+          "60 min"
+        ],
+        [
+          "Saturday",
+          "Speaking practice with partner",
+          "30 min"
+        ],
+        [
+          "Sunday",
+          "Mistake log review and weak area drill",
+          "30 min"
+        ]
+      ]
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Follow these steps to set up your study plan:"
+    },
+    {
+      "id": "n19",
+      "type": "list",
+      "order": 18,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Set your exam date and count backward to determine how many weeks you have."
+        },
+        {
+          "text": "Assess your current level with a diagnostic mock test to identify weak sections."
+        },
+        {
+          "text": "Allocate more time to weak areas while maintaining practice in stronger ones."
+        },
+        {
+          "text": "Schedule timed mock tests every 10 to 14 days to track real progress."
+        },
+        {
+          "text": "Open a mistake log and record every error with the correct answer and a brief explanation."
+        },
+        {
+          "text": "Review your log weekly to spot recurring patterns before they cost you points on test day."
+        }
+      ]
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "For deeper guidance on structuring your sessions, the TELC B1 exam strategy guide offers level-specific advice. You can also access full TELC practice tests to benchmark your progress at any stage."
+    },
+    {
+      "id": "n21",
+      "type": "quote",
+      "order": 20,
+      "text": "Pro Tip: Keep your mistake log in a simple notebook or spreadsheet. After each practice session, write down the question type, your wrong answer, the correct answer, and why you got it wrong. Reviewing this log weekly is one of the highest-impact habits you can build."
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 2,
+      "text": "Strategies for mastering each TELC section"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Armed with a plan, you will need focused strategies for each section to maximize your score."
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 3,
+      "text": "📖 Reading (Lesen)"
+    },
+    {
+      "id": "n25",
+      "type": "list",
+      "order": 24,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Skim the text first for the main idea before reading questions."
+        },
+        {
+          "text": "Underline key words in each question, then scan the text for matching language."
+        },
+        {
+          "text": "Do not spend more than 2 minutes on any single question. Move on and return if time allows."
+        },
+        {
+          "text": "Practice with real-world German texts: news articles, official notices, and short stories."
+        }
+      ]
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 3,
+      "text": "🎧 Listening (Hören)"
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "This section demands the most specific preparation. Because Listening part 1 plays once only, you cannot rely on a second chance to catch missed details. Train yourself to listen actively on the first play by predicting content from the question before the audio starts."
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Daily 10-minute listening sessions build the stamina you need to stay focused through the full section. Use B1 listening practice exercises that mirror real exam audio, and check out B2 listening strategies if you are targeting the higher level. The B2 listening overview also breaks down exactly what to expect in each task type."
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 3,
+      "text": "✍️ Writing (Schreiben)"
+    },
+    {
+      "id": "n30",
+      "type": "list",
+      "order": 29,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Learn two or three flexible templates: one for formal letters, one for informal messages, and one for opinion essays."
+        },
+        {
+          "text": "Always include an introduction, two or three supporting points, and a clear conclusion."
+        },
+        {
+          "text": "Practice common prompts: complaints, requests, event invitations, and opinion responses."
+        },
+        {
+          "text": "Leave 5 minutes at the end to proofread for grammar and spelling errors."
+        }
+      ]
+    },
+    {
+      "id": "n31",
+      "type": "heading",
+      "order": 30,
+      "level": 3,
+      "text": "🗣️ Speaking (Sprechen)"
+    },
+    {
+      "id": "n32",
+      "type": "list",
+      "order": 31,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Practice out loud every day, even for just 5 minutes. Thinking in German is not enough."
+        },
+        {
+          "text": "Record yourself and listen back to catch pronunciation and grammar mistakes."
+        },
+        {
+          "text": "Use connectors like außerdem, jedoch, and deshalb to sound more fluent and organized."
+        },
+        {
+          "text": "Practice with a language partner or tutor at least once a week."
+        }
+      ]
+    },
+    {
+      "id": "n33",
+      "type": "quote",
+      "order": 32,
+      "text": "Pro Tip: On the day before your exam, simulate full exam conditions. Sit at a desk, set a timer, and complete a full mock test without pausing or checking your phone. This reduces anxiety and trains your brain to perform under real pressure."
+    },
+    {
+      "id": "n34",
+      "type": "heading",
+      "order": 33,
+      "level": 2,
+      "text": "Avoiding common mistakes and verifying your readiness"
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 34,
+      "text": "With strategies in place, avoiding typical errors and tracking your progress is essential for confidence on test day."
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 35,
+      "text": "Here are the most common mistakes TELC candidates make:"
+    },
+    {
+      "id": "n37",
+      "type": "list",
+      "order": 36,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Ignoring the mistake log: Many students practice but never analyze their errors. Without a log, you repeat the same mistakes."
+        },
+        {
+          "text": "Skipping timed practice: Doing exercises without a timer gives a false sense of readiness. Exam conditions feel very different."
+        },
+        {
+          "text": "Neglecting listening stamina: Listening to German only occasionally is not enough. Consistency matters far more than volume."
+        },
+        {
+          "text": "Focusing only on grammar: Grammar is important, but vocabulary range and reading speed are equally tested."
+        },
+        {
+          "text": "Leaving writing templates to chance: Walking in without a practiced structure wastes time and increases errors under pressure."
+        }
+      ]
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 37,
+      "text": "To verify your readiness, use this checklist before your exam date:"
+    },
+    {
+      "id": "n39",
+      "type": "list",
+      "order": 38,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✅ Completed at least two full timed mock tests"
+        },
+        {
+          "text": "✅ Reviewed your mistake log and addressed recurring errors"
+        },
+        {
+          "text": "✅ Practiced listening without replays consistently for at least 3 weeks"
+        },
+        {
+          "text": "✅ Written at least 5 full writing responses using your templates"
+        },
+        {
+          "text": "✅ Completed at least 3 speaking practice sessions with a partner or tutor"
+        }
+      ]
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 39,
+      "text": "The data backs this up: students who pass on the first try consistently use timed mock exams and mistake logs as their core preparation tools. These two habits alone separate candidates who pass from those who need a second attempt. For reading-specific preparation, the B2 reading guide offers targeted techniques for tackling complex texts at the higher level."
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 40,
+      "level": 2,
+      "text": "Upgrade your TELC prep with targeted resources"
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 41,
+      "text": "You now have a clear roadmap: understand the format, build a structured plan, apply section-specific strategies, and verify your readiness before test day. The next step is putting that plan into action with the right tools."
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 42,
+      "text": "At Deutsch-Pruefung.de, you will find everything you need in one place. Access a full library of TELC practice resources covering every level from A1 to B2, including audio exercises, reading tasks, and writing prompts that mirror real exam conditions. Run mock test exams under timed conditions to build stamina and measure your true readiness. Strengthen your foundations with the German grammar guide to close gaps before they cost you points. Whether you are just starting or fine-tuning your final preparation, the platform offers free trial access and flexible plans to fit your schedule."
+    },
+    {
+      "id": "n44",
+      "type": "heading",
+      "order": 43,
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "n45",
+      "type": "heading",
+      "order": 44,
+      "level": 3,
+      "text": "What is the minimum passing score for the TELC German test?"
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "The minimum passing score varies by level but is typically around 60% overall. Check the official requirements for your specific level before your exam date."
+    },
+    {
+      "id": "n47",
+      "type": "heading",
+      "order": 46,
+      "level": 3,
+      "text": "How long should I prepare for the TELC German exam?"
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Most students succeed with 4 to 8 weeks of structured, daily study combined with regular timed mock tests and consistent mistake log reviews."
+    },
+    {
+      "id": "n49",
+      "type": "heading",
+      "order": 48,
+      "level": 3,
+      "text": "Can I replay audio during the TELC listening section?"
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 49,
+      "text": "No. For most levels, especially part 1, audio plays only once, so you must train yourself to capture key information on the first listen during all your practice sessions."
+    },
+    {
+      "id": "n51",
+      "type": "heading",
+      "order": 50,
+      "level": 3,
+      "text": "What resources can help improve my TELC exam performance?"
+    },
+    {
+      "id": "n52",
+      "type": "paragraph",
+      "order": 51,
+      "text": "Practice tests, mistake logs, and daily listening routines are the three most effective tools for building exam readiness and reducing test-day anxiety."
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 52,
+      "level": 3,
+      "text": "Is the TELC exam accepted for German visa and immigration purposes?"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 53,
+      "text": "Yes, TELC German certificates at B1 and above are widely accepted for German residency, citizenship, and skilled worker visa applications, though specific requirements depend on the authority reviewing your application."
+    },
+    {
+      "id": "n55",
+      "type": "heading",
+      "order": 54,
+      "level": 2,
+      "text": "Recommended"
+    },
+    {
+      "id": "n56",
+      "type": "list",
+      "order": 55,
+      "ordered": false,
+      "items": [
+        {
+          "text": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy"
+        },
+        {
+          "text": "TELC B1 German Exam Guide 2026: Complete Preparation Strategy"
+        },
+        {
+          "text": "TELC B2 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy"
+        },
+        {
+          "text": "TELC B2 Sprechen (Speaking) Guide 2026: Complete Strategy & Sample Dialogues"
+        },
+        {
+          "text": "Duits Oefenen: Effectieve Methoden voor Talenthusiast - Bogaers Taleninstituut Tilburg"
+        }
+      ]
+    },
+    {
+      "id": "n57",
+      "type": "heading",
+      "order": 56,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n58",
+      "type": "heading",
+      "order": 57,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n59",
+      "type": "paragraph",
+      "order": 58,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n60",
+      "type": "heading",
+      "order": 59,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n61",
+      "type": "paragraph",
+      "order": 60,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n62",
+      "type": "heading",
+      "order": 61,
+      "level": 3,
+      "text": "What is a language certificate: German exams A1 to B2"
+    },
+    {
+      "id": "n63",
+      "type": "paragraph",
+      "order": 62,
+      "text": "What is a language certificate: German exams A1 to B2 ! Woman filling out language certificate form at cluttered kitchen table If you've started exploring German language exam..."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774771673451_Woman-studying-TELC-German-at-kitchen-table.jpeg",
+        "alt": "Woman studying TELC German at kitchen table"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774771688225_Infographic-on-TELC-German-exam-format.jpeg",
+        "alt": "Infographic on TELC German exam format"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774771681846_Man-practicing-TELC-listening-on-park-bench.jpeg",
+        "alt": "Man practicing TELC listening on park bench"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291046269_deutsch-pruefung.jpg",
+        "alt": "https://deutsch-pruefung.de"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies#understand-the-telc-german-test-format-and-requirements",
+        "text": "Understand the TELC German test format and requirements",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies#create-your-personalized-study-plan-for-telc-success",
+        "text": "Create your personalized study plan for TELC success",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies#strategies-for-mastering-each-telc-section",
+        "text": "Strategies for mastering each TELC section",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies#avoiding-common-mistakes-and-verifying-your-readiness",
+        "text": "Avoiding common mistakes and verifying your readiness",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies#upgrade-your-telc-prep-with-targeted-resources",
+        "text": "Upgrade your TELC prep with targeted resources",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies#frequently-asked-questions",
+        "text": "Frequently asked questions",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+        "text": "TELC B2 exam format",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk13",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-ultimate-guide",
+        "text": "Listening part 1 plays once only",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk14",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-listening-guide",
+        "text": "A1 listening strategies",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk15",
+        "type": "link",
+        "order": 10,
+        "href": "https://medium.com/@dayemdev/how-to-pass-telc-deutsch-b1-on-the-first-try-2026-guide-1eb7d3000d8b",
+        "text": "Students pass on the first try",
+        "kind": "external"
+      },
+      {
+        "id": "lnk16",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC practice tests",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk17",
+        "type": "link",
+        "order": 12,
+        "href": "https://deutsch-pruefung.de/telc/b1/hoeren",
+        "text": "B1 listening practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk18",
+        "type": "link",
+        "order": 13,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-listening-guide",
+        "text": "B2 listening strategies",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk19",
+        "type": "link",
+        "order": 14,
+        "href": "https://deutsch-pruefung.de/telc/b2/hoeren",
+        "text": "B2 listening overview",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk20",
+        "type": "link",
+        "order": 15,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-reading-guide",
+        "text": "B2 reading guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk21",
+        "type": "link",
+        "order": 16,
+        "href": "http://deutsch-pruefung.de/",
+        "text": "Deutsch-Pruefung.de",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk22",
+        "type": "link",
+        "order": 17,
+        "href": "https://deutsch-pruefung.de/mock-test",
+        "text": "mock test exams",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk23",
+        "type": "link",
+        "order": 18,
+        "href": "https://deutsch-pruefung.de/grammar",
+        "text": "German grammar guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk24",
+        "type": "link",
+        "order": 19,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+        "text": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk25",
+        "type": "link",
+        "order": 20,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-ultimate-guide",
+        "text": "TELC B1 German Exam Guide 2026: Complete Preparation Strategy",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk26",
+        "type": "link",
+        "order": 21,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-reading-guide",
+        "text": "TELC B2 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk27",
+        "type": "link",
+        "order": 22,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-speaking-guide",
+        "text": "TELC B2 Sprechen (Speaking) Guide 2026: Complete Strategy & Sample Dialogues",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk28",
+        "type": "link",
+        "order": 23,
+        "href": "https://bogaerstalen.nl/duits-oefenen",
+        "text": "Duits Oefenen: Effectieve Methoden voor Talenthusiast - Bogaers Taleninstituut Tilburg",
+        "kind": "external"
+      },
+      {
+        "id": "lnk29",
+        "type": "link",
+        "order": 24,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk30",
+        "type": "link",
+        "order": 25,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk31",
+        "type": "link",
+        "order": 26,
+        "href": "https://deutsch-pruefung.de/blog/what-is-language-certificate-german-exams-a1-b2",
+        "text": "Exam GuidesWhat is a language certificate: German exams A1 to B2What is a language certificate: German exams A1 to B2 ! Woman filling out language certificate form at cluttered kitchen table If you've started exploring German language exam...12 min readMar 23",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 22,
+      "paragraphs": 27,
+      "lists": 9,
+      "tables": 3,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 27,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

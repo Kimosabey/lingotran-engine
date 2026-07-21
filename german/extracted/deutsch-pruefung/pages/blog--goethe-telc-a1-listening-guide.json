@@ -1,0 +1,1201 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/goethe-telc-a1-listening-guide",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/goethe-telc-a1-listening-guide",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--goethe-telc-a1-listening-guide",
+    "sourceType": "web",
+    "title": "Goethe & TELC A1 Hören (Listening) Guide: Strategies, Examples & Tips",
+    "description": "Master the Goethe and TELC A1 Hören (listening) section with proven strategies for dialogues, announcements, and voicemails. Includes practice examples and common traps to avoid.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master the Goethe and TELC A1 Hören (listening) section with proven strategies for dialogues, announcements, and voicemails. Includes practice examples and common traps to avoid.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Hören (Listening) Skills",
+      "article:published_time": "2025-12-19",
+      "article:tag": "German Exam Tips",
+      "og:image": "https://deutsch-pruefung.de/blog/images/blog-image-hoeren.jpg",
+      "og:title": "Goethe & TELC A1 Hören (Listening) Guide: Strategies, Examples & Tips",
+      "og:description": "Master the Goethe and TELC A1 Hören (listening) section with proven strategies for dialogues, announcements, and voicemails. Includes practice examples and common traps to avoid.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Mastering the Goethe/TELC A1 Hören (Listening) Section: Your Complete Guide",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Goethe & TELC A1 Hören (Listening) Guide: Strategies, Examples & Tips",
+      "twitter:description": "Master the Goethe and TELC A1 Hören (listening) section with proven strategies for dialogues, announcements, and voicemails. Includes practice examples and common traps to avoid.",
+      "twitter:image": "https://deutsch-pruefung.de/blog/images/blog-image-hoeren.jpg",
+      "sentry-trace": "3f71545df9957fd9d9bfcc3eb77f112e-3ba764b32a6f9fb8-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=3f71545df9957fd9d9bfcc3eb77f112e,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.9158082626281847,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1568,
+    "fetchedAt": "2026-07-21T08:28:55.854Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 2,
+      "text": "Mastering the Goethe & TELC A1 Listening Section"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "The Hören (Listening) section tests your ability to understand everyday German in real-life situations—short conversations, public announcements, and voicemail messages. With about 20 minutes to answer 15 questions across three parts, success comes from knowing what to listen for and staying calm when the audio plays. This guide breaks down each task type with real examples and proven strategies."
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "~20 minutes total"
+    },
+    {
+      "id": "n4",
+      "type": "paragraph",
+      "order": 3,
+      "text": "Teil 1 & 3: twice · Teil 2: once."
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "15 questions"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "Teil 1: 6, Teil 2: 4, Teil 3: 5 questions."
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "Multiple formats"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Multiple choice + Richtig/Falsch."
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 2,
+      "text": "Structure at a Glance"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 3,
+      "text": "Teil 1 · Short Dialogues"
+    },
+    {
+      "id": "n11",
+      "type": "list",
+      "order": 10,
+      "ordered": false,
+      "items": [
+        {
+          "text": "6 short conversations"
+        },
+        {
+          "text": "Multiple choice (3 options)"
+        },
+        {
+          "text": "Audio plays TWICE"
+        },
+        {
+          "text": "~7 minutes"
+        }
+      ]
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 3,
+      "text": "Teil 2 · Public Announcements"
+    },
+    {
+      "id": "n13",
+      "type": "list",
+      "order": 12,
+      "ordered": false,
+      "items": [
+        {
+          "text": "4 announcements"
+        },
+        {
+          "text": "Richtig/Falsch format"
+        },
+        {
+          "text": "⚠️ Audio plays ONCE only!"
+        },
+        {
+          "text": "~6 minutes"
+        }
+      ]
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "Teil 3 · Voicemail Messages"
+    },
+    {
+      "id": "n15",
+      "type": "list",
+      "order": 14,
+      "ordered": false,
+      "items": [
+        {
+          "text": "5 phone messages"
+        },
+        {
+          "text": "Multiple choice (3 options)"
+        },
+        {
+          "text": "Audio plays TWICE"
+        },
+        {
+          "text": "~7 minutes"
+        }
+      ]
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 2,
+      "text": "Teil 1: Understanding Short Dialogues"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "In Teil 1, you hear 6 short conversations between two people. Each dialogue is followed by a question with three answer options. You need to select the correct answer based on what you heard. Topics include shopping, asking for directions, ordering food, and everyday situations."
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Key Strategy"
+    },
+    {
+      "id": "n19",
+      "type": "list",
+      "order": 18,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Read the question and options first — know what information you need"
+        },
+        {
+          "text": "Listen for keywords that match the answer options"
+        },
+        {
+          "text": "Watch for distractors — wrong options are often mentioned but not the answer"
+        },
+        {
+          "text": "Use the second listen to confirm your choice"
+        }
+      ]
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 3,
+      "text": "Practice Examples"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Context:"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Sie hören ein Gespräch im Geschäft über einen Pullover."
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Question:"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "Was kostet der Pullover?"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Why? Die Verkäuferin sagt: \"neunzehnfünfundneunzig\" und bestätigt \"19,95 Euro\". Listen for the exact price mentioned."
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Sie hören ein Gespräch über die Uhrzeit."
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Wie spät ist es?"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Why? Die Passantin antwortet: \"Ja – jetzt ist es gleich 5 Uhr.\" \"Gleich\" means \"almost\" or \"nearly\"."
+    },
+    {
+      "id": "n31",
+      "type": "heading",
+      "order": 28,
+      "level": 2,
+      "text": "Teil 2: Understanding Public Announcements"
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Teil 2 presents 4 public announcements you might hear in real life—at train stations, airports, shopping centers, or on public transport. For each announcement, you must decide if a statement is Richtig (True) or Falsch (False)."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 30,
+      "level": 4,
+      "text": "Quick Tips for Teil 2"
+    },
+    {
+      "id": "n34",
+      "type": "list",
+      "order": 31,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Read the statement carefully: Know exactly what claim you need to verify"
+        },
+        {
+          "text": "Listen for specific details: Gate numbers, times, floor numbers, instructions"
+        },
+        {
+          "text": "Watch for negations: \"nicht\", \"kein\", \"nur\" can flip the meaning"
+        },
+        {
+          "text": "Don't assume: Only mark Richtig if the audio explicitly confirms the statement"
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 32,
+      "text": "Die Fahrgäste sollen im Zug bleiben."
+    },
+    {
+      "id": "n37",
+      "type": "paragraph",
+      "order": 33,
+      "text": "Die Durchsage sagt: \"Bitte steigen Sie nicht aus; wir fahren gleich weiter.\" The passengers should stay on the train."
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 34,
+      "text": "Fluggäste nach Rom sollen zu Ausgang A7 kommen."
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 35,
+      "text": "Die Ansage nennt Ausgang B 18, nicht A7. Always listen carefully for specific gate numbers and locations."
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 36,
+      "text": "Die Urlauber sollen um vier Uhr am Bus sein."
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 37,
+      "text": "Die Ansage nennt 14 Uhr (zwei Uhr nachmittags), nicht vier Uhr. Watch out for 24-hour vs 12-hour time confusion."
+    },
+    {
+      "id": "n42",
+      "type": "heading",
+      "order": 38,
+      "level": 4,
+      "text": "Common Announcement Locations"
+    },
+    {
+      "id": "n43",
+      "type": "heading",
+      "order": 39,
+      "level": 2,
+      "text": "Teil 3: Understanding Voicemail Messages"
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 40,
+      "text": "Teil 3 tests your ability to understand 5 voicemail or answering machine messages. Each message is followed by a question with three answer options. Messages typically involve appointments, meeting arrangements, requests, or information about plans."
+    },
+    {
+      "id": "n45",
+      "type": "heading",
+      "order": 41,
+      "level": 4,
+      "text": "Common Message Types"
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 42,
+      "text": "Message:"
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 43,
+      "text": "Sie hören eine Nachricht vom Autohaus Mayer."
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Wann soll Frau Krause anrufen?"
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Why? Das Autohaus sagt: \"Bitte rufen Sie uns nach 13 Uhr wieder zurück. Heute sind wir bis 18 Uhr hier.\""
+    },
+    {
+      "id": "n53",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Sie hören eine Nachricht von Nina an Irene."
+    },
+    {
+      "id": "n55",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Was möchte Nina heute Abend machen?"
+    },
+    {
+      "id": "n56",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Why? Nina sagt: \"Ich möchte heute Abend nicht zu Hause bleiben. Im Metropolis gibt es einen guten Film.\""
+    },
+    {
+      "id": "n57",
+      "type": "heading",
+      "order": 49,
+      "level": 2,
+      "text": "Common Traps to Avoid"
+    },
+    {
+      "id": "n58",
+      "type": "heading",
+      "order": 50,
+      "level": 3,
+      "text": "Number confusion"
+    },
+    {
+      "id": "n59",
+      "type": "paragraph",
+      "order": 51,
+      "text": "\"dreizehn\" (13) vs \"dreißig\" (30)"
+    },
+    {
+      "id": "n60",
+      "type": "paragraph",
+      "order": 52,
+      "text": "Tip: German numbers ending in \"-zehn\" are teens (13-19), while \"-zig\" are tens (20-90)."
+    },
+    {
+      "id": "n61",
+      "type": "heading",
+      "order": 53,
+      "level": 3,
+      "text": "Time expressions"
+    },
+    {
+      "id": "n62",
+      "type": "paragraph",
+      "order": 54,
+      "text": "\"halb drei\" = 2:30, not 3:30"
+    },
+    {
+      "id": "n63",
+      "type": "paragraph",
+      "order": 55,
+      "text": "Tip: German \"halb\" means half TO the next hour. \"Halb drei\" is 2:30."
+    },
+    {
+      "id": "n64",
+      "type": "heading",
+      "order": 56,
+      "level": 3,
+      "text": "Negation words"
+    },
+    {
+      "id": "n65",
+      "type": "paragraph",
+      "order": 57,
+      "text": "\"nicht\", \"kein\", \"nur\", \"außer\""
+    },
+    {
+      "id": "n66",
+      "type": "paragraph",
+      "order": 58,
+      "text": "Tip: These words flip the meaning. A \"nicht\" can change a Richtig to Falsch!"
+    },
+    {
+      "id": "n67",
+      "type": "heading",
+      "order": 59,
+      "level": 3,
+      "text": "Similar-sounding words"
+    },
+    {
+      "id": "n68",
+      "type": "paragraph",
+      "order": 60,
+      "text": "\"Zug\" (train) vs \"Flug\" (flight)"
+    },
+    {
+      "id": "n69",
+      "type": "paragraph",
+      "order": 61,
+      "text": "Tip: Context matters! Listen for surrounding words to confirm what you heard."
+    },
+    {
+      "id": "n70",
+      "type": "heading",
+      "order": 62,
+      "level": 2,
+      "text": "German Numbers: A Quick Reference"
+    },
+    {
+      "id": "n71",
+      "type": "paragraph",
+      "order": 63,
+      "text": "Numbers are crucial in the listening section. Here's a quick guide to avoid confusion:"
+    },
+    {
+      "id": "n72",
+      "type": "heading",
+      "order": 64,
+      "level": 4,
+      "text": "Teens vs Tens"
+    },
+    {
+      "id": "n73",
+      "type": "heading",
+      "order": 65,
+      "level": 4,
+      "text": "Two-Digit Numbers"
+    },
+    {
+      "id": "n74",
+      "type": "paragraph",
+      "order": 66,
+      "text": "German says the ones digit first:"
+    },
+    {
+      "id": "n75",
+      "type": "paragraph",
+      "order": 67,
+      "text": "Pro tip: When you hear a price like \"neunzehnfünfundneunzig\", it means 19.95€. The first number is euros, the second is cents!"
+    },
+    {
+      "id": "n76",
+      "type": "heading",
+      "order": 68,
+      "level": 2,
+      "text": "Essential Vocabulary for Hören"
+    },
+    {
+      "id": "n77",
+      "type": "heading",
+      "order": 69,
+      "level": 3,
+      "text": "Numbers & Prices"
+    },
+    {
+      "id": "n78",
+      "type": "list",
+      "order": 70,
+      "ordered": false,
+      "items": [
+        {
+          "text": "dreißig (30)"
+        },
+        {
+          "text": "fünfzig (50)"
+        },
+        {
+          "text": "neunzig (90)"
+        },
+        {
+          "text": "hundert (100)"
+        },
+        {
+          "text": "Euro / Cent"
+        },
+        {
+          "text": "kostet / macht (costs)"
+        }
+      ]
+    },
+    {
+      "id": "n79",
+      "type": "heading",
+      "order": 71,
+      "level": 3,
+      "text": "Time Expressions"
+    },
+    {
+      "id": "n80",
+      "type": "list",
+      "order": 72,
+      "ordered": false,
+      "items": [
+        {
+          "text": "halb (half to the hour)"
+        },
+        {
+          "text": "Viertel vor/nach (quarter to/past)"
+        },
+        {
+          "text": "gleich (almost/soon)"
+        },
+        {
+          "text": "um ... Uhr (at ... o'clock)"
+        },
+        {
+          "text": "morgen/heute/gestern"
+        },
+        {
+          "text": "am Montag/Dienstag..."
+        }
+      ]
+    },
+    {
+      "id": "n81",
+      "type": "heading",
+      "order": 73,
+      "level": 3,
+      "text": "Location & Direction"
+    },
+    {
+      "id": "n82",
+      "type": "list",
+      "order": 74,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Bahnhof (train station)"
+        },
+        {
+          "text": "Flughafen (airport)"
+        },
+        {
+          "text": "Ausgang (exit/gate)"
+        },
+        {
+          "text": "Stock/Etage (floor)"
+        },
+        {
+          "text": "links/rechts (left/right)"
+        },
+        {
+          "text": "geradeaus (straight ahead)"
+        }
+      ]
+    },
+    {
+      "id": "n83",
+      "type": "heading",
+      "order": 75,
+      "level": 2,
+      "text": "Expert Listening Strategies"
+    },
+    {
+      "id": "n84",
+      "type": "heading",
+      "order": 76,
+      "level": 3,
+      "text": "Before the Audio"
+    },
+    {
+      "id": "n85",
+      "type": "list",
+      "order": 77,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Read all questions and options before the audio starts"
+        },
+        {
+          "text": "Underline key words in the questions (numbers, times, places)"
+        },
+        {
+          "text": "Predict what type of information you need to listen for"
+        },
+        {
+          "text": "Note if it's Richtig/Falsch or multiple choice"
+        }
+      ]
+    },
+    {
+      "id": "n86",
+      "type": "heading",
+      "order": 78,
+      "level": 3,
+      "text": "During the Audio"
+    },
+    {
+      "id": "n87",
+      "type": "list",
+      "order": 79,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Focus on the specific information asked in the question"
+        },
+        {
+          "text": "Don't panic if you miss something—Teil 1 & 3 play twice (Teil 2 only once!)"
+        },
+        {
+          "text": "Write down numbers and times immediately when you hear them"
+        },
+        {
+          "text": "Listen for negation words that change the meaning"
+        }
+      ]
+    },
+    {
+      "id": "n88",
+      "type": "heading",
+      "order": 80,
+      "level": 3,
+      "text": "After First Listen"
+    },
+    {
+      "id": "n89",
+      "type": "list",
+      "order": 81,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Mark answers you're confident about"
+        },
+        {
+          "text": "For Teil 1 & 3: note questions to focus on in second listen"
+        },
+        {
+          "text": "For Teil 2: trust your answer (no second chance!)"
+        },
+        {
+          "text": "Don't change answers unless you're certain"
+        }
+      ]
+    },
+    {
+      "id": "n90",
+      "type": "heading",
+      "order": 82,
+      "level": 2,
+      "text": "Time Management Strategy"
+    },
+    {
+      "id": "n91",
+      "type": "paragraph",
+      "order": 83,
+      "text": "~7 min"
+    },
+    {
+      "id": "n92",
+      "type": "paragraph",
+      "order": 84,
+      "text": "Teil 1: Short Dialogues"
+    },
+    {
+      "id": "n93",
+      "type": "paragraph",
+      "order": 85,
+      "text": "6 questions, multiple choice"
+    },
+    {
+      "id": "n94",
+      "type": "paragraph",
+      "order": 86,
+      "text": "~6 min"
+    },
+    {
+      "id": "n95",
+      "type": "paragraph",
+      "order": 87,
+      "text": "Teil 2: Announcements"
+    },
+    {
+      "id": "n96",
+      "type": "paragraph",
+      "order": 88,
+      "text": "4 questions, Richtig/Falsch"
+    },
+    {
+      "id": "n98",
+      "type": "paragraph",
+      "order": 89,
+      "text": "Teil 3: Voicemails"
+    },
+    {
+      "id": "n99",
+      "type": "paragraph",
+      "order": 90,
+      "text": "5 questions, multiple choice"
+    },
+    {
+      "id": "n100",
+      "type": "paragraph",
+      "order": 91,
+      "text": "Pro tip: Teil 1 and Teil 3 audio plays twice—use the first listen to get the general idea and the second to confirm. However, Teil 2 (announcements) plays only ONCE, so focus extra hard on that section! Never leave any answer blank."
+    },
+    {
+      "id": "n101",
+      "type": "heading",
+      "order": 92,
+      "level": 2,
+      "text": "Exam-Day Checklist"
+    },
+    {
+      "id": "n102",
+      "type": "list",
+      "order": 93,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Read all questions and options BEFORE the audio starts"
+        },
+        {
+          "text": "Underline key words in questions (numbers, times, places, names)"
+        },
+        {
+          "text": "Listen for the specific information asked—don't get distracted"
+        },
+        {
+          "text": "Write down numbers and times immediately when you hear them"
+        },
+        {
+          "text": "Watch for negation words: nicht, kein, nur, außer"
+        },
+        {
+          "text": "For Teil 1 & 3, use the second listen to confirm (Teil 2 plays only once!)"
+        },
+        {
+          "text": "Answer every question, even if unsure—never leave blanks"
+        },
+        {
+          "text": "Trust your first instinct unless you're certain it's wrong"
+        }
+      ]
+    },
+    {
+      "id": "n103",
+      "type": "heading",
+      "order": 94,
+      "level": 2,
+      "text": "Goethe vs TELC: Key Differences"
+    },
+    {
+      "id": "n104",
+      "type": "table",
+      "order": 95,
+      "headers": [
+        [
+          "Aspect",
+          "Goethe A1",
+          "TELC A1"
+        ]
+      ],
+      "rows": [
+        [
+          "Duration",
+          "~20 minutes",
+          "~20 minutes"
+        ],
+        [
+          "Number of parts",
+          "3 parts",
+          "3 parts"
+        ],
+        [
+          "Audio plays",
+          "Teil 1 & 3: twice · Teil 2: once",
+          "Teil 1 & 3: twice · Teil 2: once"
+        ],
+        [
+          "Question format",
+          "Multiple choice + Richtig/Falsch",
+          "Multiple choice + Richtig/Falsch"
+        ],
+        [
+          "Speaking speed",
+          "Natural, clear",
+          "Natural, clear"
+        ],
+        [
+          "Passing score",
+          "60% overall",
+          "60% overall"
+        ]
+      ]
+    },
+    {
+      "id": "n105",
+      "type": "paragraph",
+      "order": 96,
+      "text": "Both exams test the same listening skills at A1 level. The format and difficulty are very similar. Practice with both to be fully prepared!"
+    },
+    {
+      "id": "n106",
+      "type": "heading",
+      "order": 97,
+      "level": 2,
+      "text": "How to Practice Effectively"
+    },
+    {
+      "id": "n107",
+      "type": "heading",
+      "order": 98,
+      "level": 3,
+      "text": "Daily Practice Routine"
+    },
+    {
+      "id": "n108",
+      "type": "list",
+      "order": 99,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Listen to German podcasts for beginners (10-15 min/day)"
+        },
+        {
+          "text": "Practice with sample exam audio (available on Goethe Institut website)"
+        },
+        {
+          "text": "Watch German videos with subtitles, then without"
+        },
+        {
+          "text": "Practice number dictation—have someone read numbers aloud"
+        }
+      ]
+    },
+    {
+      "id": "n109",
+      "type": "heading",
+      "order": 100,
+      "level": 3,
+      "text": "Recommended Resources"
+    },
+    {
+      "id": "n110",
+      "type": "list",
+      "order": 101,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Goethe Institut official practice materials"
+        },
+        {
+          "text": "Deutsche Welle \"Langsam gesprochene Nachrichten\""
+        },
+        {
+          "text": "Easy German YouTube channel"
+        },
+        {
+          "text": "Our practice questions with audio explanations"
+        }
+      ]
+    },
+    {
+      "id": "n111",
+      "type": "heading",
+      "order": 102,
+      "level": 2,
+      "text": "Ready to Practice Your Listening Skills?"
+    },
+    {
+      "id": "n112",
+      "type": "paragraph",
+      "order": 103,
+      "text": "Put these strategies into action with our comprehensive practice questions. Each question includes audio and detailed explanations to help you understand the reasoning behind correct answers."
+    },
+    {
+      "id": "n113",
+      "type": "heading",
+      "order": 104,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n114",
+      "type": "paragraph",
+      "order": 105,
+      "text": "It depends on the section! Teil 1 (short dialogues) and Teil 3 (voicemails) play TWICE, giving you two chances to catch the answer. However, Teil 2 (public announcements) plays only ONCE—so pay extra attention during that section!"
+    },
+    {
+      "id": "n115",
+      "type": "paragraph",
+      "order": 106,
+      "text": "For Teil 1 and Teil 3, don't panic—the audio plays twice! Focus on the missed information during the second listen. For Teil 2 (announcements), which plays only once, make your best guess based on what you did hear. Never leave an answer blank."
+    },
+    {
+      "id": "n116",
+      "type": "paragraph",
+      "order": 107,
+      "text": "Practice daily with number dictation exercises. Remember that German says the ones digit first (25 = fünfundzwanzig = \"five-and-twenty\"). Also practice distinguishing between teens (-zehn) and tens (-zig)."
+    },
+    {
+      "id": "n117",
+      "type": "paragraph",
+      "order": 108,
+      "text": "They're very similar in format and difficulty. Both have three parts testing dialogues, announcements, and voicemails. The skills tested are identical, so practicing for one prepares you for both."
+    },
+    {
+      "id": "n118",
+      "type": "paragraph",
+      "order": 109,
+      "text": "Combine regular exposure to German audio (podcasts, videos) with targeted exam practice. Focus on understanding numbers, times, and common phrases. Practice with official sample exams from Goethe Institut and TELC."
+    },
+    {
+      "id": "n119",
+      "type": "heading",
+      "order": 110,
+      "level": 2,
+      "text": "You're Ready to Ace the Listening Section"
+    },
+    {
+      "id": "n120",
+      "type": "paragraph",
+      "order": 111,
+      "text": "The Hören section rewards preparation and calm focus. By understanding the three task types, practicing with real exam-style audio, and mastering German numbers and time expressions, you'll walk into your Goethe or TELC A1 exam confident and ready. Remember: Teil 1 and Teil 3 play twice (use both listens strategically!), but Teil 2 plays only once—so stay focused. Good luck—Viel Erfolg!"
+    },
+    {
+      "id": "n121",
+      "type": "heading",
+      "order": 112,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n122",
+      "type": "heading",
+      "order": 113,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n123",
+      "type": "paragraph",
+      "order": 114,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n124",
+      "type": "heading",
+      "order": 115,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n125",
+      "type": "paragraph",
+      "order": 116,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n126",
+      "type": "heading",
+      "order": 117,
+      "level": 3,
+      "text": "A1 exam study guide: ace your German test step by step"
+    },
+    {
+      "id": "n127",
+      "type": "paragraph",
+      "order": 118,
+      "text": "A1 exam study guide: ace your German test step by step ! Young woman studying German with flashcards at kitchen table > TL;DR: > > - A phased 90-day study plan improves chan..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren/teil1",
+        "text": "Start Goethe A1 Hören Teil 1 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/a1/hoeren/teil1",
+        "text": "Start TELC A1 Hören Teil 1 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren/teil2",
+        "text": "Start Goethe A1 Hören Teil 2 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/a1/hoeren/teil2",
+        "text": "Start TELC A1 Hören Teil 2 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren/teil3",
+        "text": "Start Goethe A1 Hören Teil 3 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/telc/a1/hoeren/teil3",
+        "text": "Start TELC A1 Hören Teil 3 Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/goethe/a1/hoeren",
+        "text": "Start Goethe A1 Hören Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/telc/a1/hoeren",
+        "text": "Start TELC A1 Hören Practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step",
+        "text": "Exam GuidesA1 exam study guide: ace your German test step by stepA1 exam study guide: ace your German test step by step ! Young woman studying German with flashcards at kitchen table > TL;DR: > > - A phased 90-day study plan improves chan...11 min readApr 6",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 42,
+      "paragraphs": 62,
+      "lists": 14,
+      "tables": 1,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 12,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 8,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

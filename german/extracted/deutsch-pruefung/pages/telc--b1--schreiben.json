@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/b1/schreiben",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/b1/schreiben",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--b1--schreiben",
+    "sourceType": "web",
+    "title": "TELC German B1 Schreiben (Writing) Practice Overview",
+    "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German B1 schreiben (writing) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "B1",
+    "section": "schreiben",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German B1 schreiben (writing) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German B1 Schreiben (Writing) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German B1 schreiben (writing) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/b1/schreiben",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20B1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=b1&section=schreiben",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German B1 Schreiben (Writing) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German B1 Schreiben (Writing) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German B1 schreiben (writing) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20B1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=b1&section=schreiben",
+      "sentry-trace": "5703bf4174bc570454b36eeeb2d74125-56746bdba1b27f4f-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=5703bf4174bc570454b36eeeb2d74125,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.8858450672758156,sentry-sample_rate=0.2"
+    },
+    "wordCount": 72,
+    "fetchedAt": "2026-07-21T08:29:25.947Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The TELC B1 Schriftlicher Ausdruck (Writing) module takes 30 minutes. You will write one informal or semi-formal letter following 4 main points."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Brief schreiben (Letter Writing)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Write an informal or semi-formal letter"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Follow 4 Leitpunkten (4 guiding points) provided in the task"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 3,
+      "text": "Teil 1 - Brief schreiben (Letter Writing)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "Goal: Brief schreiben (Letter Writing)"
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/b1",
+        "text": "B1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/b1/schreiben/teil1",
+        "text": "Teil 1 - Brief schreiben (Letter Writing)Goal: Brief schreiben (Letter Writing)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 4,
+      "paragraphs": 5,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 4,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

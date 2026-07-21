@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/c1/lesen",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/c1/lesen",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--c1--lesen",
+    "sourceType": "web",
+    "title": "TELC German C1 Lesen (Reading) Practice Overview",
+    "description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German C1 lesen (reading) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "C1",
+    "section": "lesen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German C1 lesen (reading) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German C1 Lesen (Reading) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German C1 lesen (reading) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/c1/lesen",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=telc&level=c1&section=lesen",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German C1 Lesen (Reading) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German C1 Lesen (Reading) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start reading practice. Prepare for TELC German C1 lesen (reading) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20C1%20Lesen%20(Reading)&subtitle=Practice%20Overview&type=telc&level=c1&section=lesen",
+      "sentry-trace": "3d99403c1dd3929493ff6367c43e9894-4983199e6a0beae9-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=3d99403c1dd3929493ff6367c43e9894,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.27578378531339354,sentry-sample_rate=0.2"
+    },
+    "wordCount": 182,
+    "fetchedAt": "2026-07-21T08:29:39.586Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The official telc Deutsch C1 block combines Leseverstehen and Sprachbausteine in 90 minutes. Leseverstehen has 48 points across Textrekonstruktion, Selektives Verstehen, Detailverstehen, and Globalverstehen; Sprachbausteine adds 22 grammar-and-lexis points."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Textrekonstruktion (Text Reconstruction)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Read a magazine-style text with missing parts"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Solve 6 Zuordnungsaufgaben by reconstructing text logic"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Selektives Verstehen (Selective Reading)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Read an article divided into sections"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Find where specific information, function, or stance appears"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Detailverstehen und Globalverstehen"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Read one longer factual or magazine-style article"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Answer 11 items as richtig, falsch, or nicht im Text"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 4,
+      "text": "Teil 4: Sprachbausteine Teil 1: Grammatik und Lexik"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "• Complete 22 gaps in one compact C1 text"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "• Choose the correct option from a-d for each gap"
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "Teil 1 - Textrekonstruktion (Text Reconstruction)"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "Goal: Textrekonstruktion (Text Reconstruction)"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 3,
+      "text": "Teil 2 - Selektives Verstehen (Selective Reading)"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Goal: Selektives Verstehen (Selective Reading)"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 3,
+      "text": "Teil 3 - Detailverstehen und Globalverstehen"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Goal: Detailverstehen und Globalverstehen"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 3,
+      "text": "Sprachbausteine Teil 1: Grammatik und Lexik"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Goal: Sprachbausteine Teil 1: Grammatik und Lexik"
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/c1",
+        "text": "C1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/c1/lesen/teil1",
+        "text": "Teil 1 - Textrekonstruktion (Text Reconstruction)Goal: Textrekonstruktion (Text Reconstruction)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/c1/lesen/teil2",
+        "text": "Teil 2 - Selektives Verstehen (Selective Reading)Goal: Selektives Verstehen (Selective Reading)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/telc/c1/lesen/teil3",
+        "text": "Teil 3 - Detailverstehen und GlobalverstehenGoal: Detailverstehen und Globalverstehen● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/telc/c1/lesen/teil4",
+        "text": "Sprachbausteine Teil 1: Grammatik und LexikGoal: Sprachbausteine Teil 1: Grammatik und Lexik● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 10,
+      "paragraphs": 14,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 7,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

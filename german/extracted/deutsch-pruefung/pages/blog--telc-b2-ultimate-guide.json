@@ -1,0 +1,1360 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--telc-b2-ultimate-guide",
+    "sourceType": "web",
+    "title": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy",
+    "description": "Master the TELC B2 exam with our comprehensive guide covering format, preparation strategies, Sprachbausteine tips, and expert advice. Includes practice materials and study plan.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Master the TELC B2 exam with our comprehensive guide covering format, preparation strategies, Sprachbausteine tips, and expert advice. Includes practice materials and study plan.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Exam Guides",
+      "article:published_time": "2025-12-22",
+      "article:tag": "B2 Level",
+      "og:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2.jpg",
+      "og:title": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy",
+      "og:description": "Master the TELC B2 exam with our comprehensive guide covering format, preparation strategies, Sprachbausteine tips, and expert advice. Includes practice materials and study plan.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Acing the TELC B2 German Exam: Your Ultimate Guide to Format, Preparation, and Pro Tips",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy",
+      "twitter:description": "Master the TELC B2 exam with our comprehensive guide covering format, preparation strategies, Sprachbausteine tips, and expert advice. Includes practice materials and study plan.",
+      "twitter:image": "https://deutsch-pruefung.de/blog/images/blog-image-telc-b2.jpg",
+      "sentry-trace": "9815be5bc5f071bfaa521fef37cf40b0-3790df57820ecc21-1",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=9815be5bc5f071bfaa521fef37cf40b0,sentry-org_id=4510640522919936,sentry-transaction=GET%20%2Fblog%2F%5Bslug%5D,sentry-sampled=true,sentry-sample_rand=0.15944632389511737,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1635,
+    "fetchedAt": "2026-07-21T08:28:54.374Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "paragraph",
+      "order": 0,
+      "text": "The TELC Deutsch B2 certificate represents a significant milestone in your German language journey. At the B2 level, you demonstrate the ability to understand complex texts, engage in detailed discussions, and communicate fluently in professional and academic contexts."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Whether you need this certification for university admission, career advancement, or permanent residency in Germany, this comprehensive guide will walk you through every aspect of the exam—from format and scoring to proven preparation strategies and insider tips from successful test-takers."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "What is the TELC B2 Exam?"
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 3,
+      "text": "TELC Deutsch B2 Explained"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "TELC (The European Language Certificates) Deutsch B2 is an internationally recognized German proficiency exam that certifies upper-intermediate language skills according to the Common European Framework of Reference (CEFR). At B2 level, you can understand the main ideas of complex texts, interact with native speakers with fluency, and produce clear, detailed text on a wide range of subjects."
+    },
+    {
+      "id": "n6",
+      "type": "heading",
+      "order": 5,
+      "level": 4,
+      "text": "✅ Accepted For"
+    },
+    {
+      "id": "n7",
+      "type": "list",
+      "order": 6,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• University admission in Germany"
+        },
+        {
+          "text": "• Professional licensing (healthcare, teaching)"
+        },
+        {
+          "text": "• Permanent residency applications"
+        },
+        {
+          "text": "• Employment in German companies"
+        }
+      ]
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 4,
+      "text": "📋 Exam Formats"
+    },
+    {
+      "id": "n9",
+      "type": "list",
+      "order": 8,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Digital format"
+        },
+        {
+          "text": "• Hybrid format"
+        },
+        {
+          "text": "• Paper-based format"
+        },
+        {
+          "text": "• Partial examination option"
+        }
+      ]
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 2,
+      "text": "The Exam Format: Your Strategic Blueprint"
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 3,
+      "text": "Complete Exam Structure"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Based on official TELC examination guidelines"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 4,
+      "text": "Leseverstehen (Reading)"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Teil 1: Match headlines to texts (5 items).Teil 2: Multiple choice on longer text (5 items).Teil 3: Match situations to advertisements (10 items)."
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 4,
+      "text": "Sprachbausteine (Language Elements)"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Teil 1: Gap-fill with multiple choice (10 items, grammar focus).Teil 2: Gap-fill from word bank (10 items, vocabulary focus)."
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 4,
+      "text": "Hörverstehen (Listening)"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Teil 1: Global understanding (5 items).Teil 2: Detailed understanding (10 items).Teil 3: Information comprehension (5 items).All True/False format."
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 4,
+      "text": "Schreiben (Writing)"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Write a semi-formal letter (150+ words).Choose between: Aufgabe A (Request for Information) or Aufgabe B (Complaint Letter)."
+    },
+    {
+      "id": "n21",
+      "type": "heading",
+      "order": 20,
+      "level": 4,
+      "text": "Sprechen (Speaking)"
+    },
+    {
+      "id": "n22",
+      "type": "paragraph",
+      "order": 21,
+      "text": "Teil 1: Present a personal experience (1.5 min).Teil 2: Discussion on a topic.Teil 3: Plan an activity together.20-minute preparation time."
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 22,
+      "level": 2,
+      "text": "Leseverstehen & Sprachbausteine: Reading Mastery"
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 3,
+      "text": "Teil 1Globalverstehen (Headlines Matching)"
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "You read 5 short newspaper-style texts and match them to the correct headlines from a list of 10 options. This tests your ability to quickly grasp the main idea of each text."
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 4,
+      "text": "💡 Pro Tips"
+    },
+    {
+      "id": "n27",
+      "type": "list",
+      "order": 26,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Skim each text for the main theme before looking at headlines"
+        },
+        {
+          "text": "• Look for keywords that connect text to headline"
+        },
+        {
+          "text": "• Eliminate obviously wrong options first"
+        },
+        {
+          "text": "• Watch out for distractors with similar vocabulary"
+        }
+      ]
+    },
+    {
+      "id": "n28",
+      "type": "heading",
+      "order": 27,
+      "level": 3,
+      "text": "Teil 2Detailverstehen (Multiple Choice)"
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "Read a longer text (article, report, or essay) and answer 5 multiple-choice questions with 3 options each. You need to understand specific details, opinions, and arguments."
+    },
+    {
+      "id": "n31",
+      "type": "list",
+      "order": 29,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Read questions first, then scan the text for relevant sections"
+        },
+        {
+          "text": "• Pay attention to signal words like \"jedoch\", \"allerdings\", \"obwohl\""
+        },
+        {
+          "text": "• The correct answer often paraphrases the text, not quotes it directly"
+        },
+        {
+          "text": "• Be careful with options that are partially true"
+        }
+      ]
+    },
+    {
+      "id": "n32",
+      "type": "heading",
+      "order": 30,
+      "level": 3,
+      "text": "Teil 3Selektives Verstehen (Advertisement Matching)"
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 31,
+      "text": "Match 10 situational descriptions to 12 advertisements. Two advertisements will not be used. This tests your ability to scan for specific information quickly."
+    },
+    {
+      "id": "n35",
+      "type": "list",
+      "order": 32,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Underline key requirements in each situation"
+        },
+        {
+          "text": "• Scan advertisements for matching criteria"
+        },
+        {
+          "text": "• Check ALL requirements match, not just some"
+        },
+        {
+          "text": "• Cross off used advertisements as you go"
+        }
+      ]
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 33,
+      "level": 3,
+      "text": "🔤 Sprachbausteine (Language Elements)"
+    },
+    {
+      "id": "n37",
+      "type": "heading",
+      "order": 34,
+      "level": 4,
+      "text": "Teil 1: Grammar Focus"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 35,
+      "text": "10 gaps with 3 options each (a, b, c)"
+    },
+    {
+      "id": "n39",
+      "type": "list",
+      "order": 36,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Verb conjugations and tenses"
+        },
+        {
+          "text": "• Prepositions with correct cases"
+        },
+        {
+          "text": "• Conjunctions and sentence structure"
+        },
+        {
+          "text": "• Relative pronouns"
+        }
+      ]
+    },
+    {
+      "id": "n40",
+      "type": "heading",
+      "order": 37,
+      "level": 4,
+      "text": "Teil 2: Vocabulary Focus"
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 38,
+      "text": "10 gaps from a word bank of 15 options"
+    },
+    {
+      "id": "n42",
+      "type": "list",
+      "order": 39,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Linking words and connectors"
+        },
+        {
+          "text": "• Context-appropriate vocabulary"
+        },
+        {
+          "text": "• Collocations and fixed expressions"
+        },
+        {
+          "text": "• Text coherence markers"
+        }
+      ]
+    },
+    {
+      "id": "n43",
+      "type": "heading",
+      "order": 40,
+      "level": 2,
+      "text": "Hörverstehen: Listening Comprehension"
+    },
+    {
+      "id": "n44",
+      "type": "heading",
+      "order": 41,
+      "level": 4,
+      "text": "Important: Audio Plays Once!"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 42,
+      "text": "In the TELC B2 listening section, audio recordings are typically played only once. This makes concentrated listening and effective note-taking essential skills."
+    },
+    {
+      "id": "n46",
+      "type": "heading",
+      "order": 43,
+      "level": 3,
+      "text": "Teil 1Globalverstehen (5 questions)"
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 44,
+      "text": "Listen to a news report or detailed information and decide if statements are true (richtig) or false (falsch). Focus on understanding the main message and overall context."
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Example audio types: News reports, informational broadcasts, announcements about current events or general interest topics."
+    },
+    {
+      "id": "n49",
+      "type": "heading",
+      "order": 46,
+      "level": 3,
+      "text": "Teil 2Detailverstehen (10 questions)"
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 47,
+      "text": "Listen to a radio interview or conversation and catch specific details, opinions, and arguments. This is the longest and most challenging listening section."
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Example audio types: Radio interviews, discussions between experts, conversations about social or professional topics."
+    },
+    {
+      "id": "n52",
+      "type": "heading",
+      "order": 49,
+      "level": 3,
+      "text": "Teil 3Informationen verstehen (5 questions)"
+    },
+    {
+      "id": "n53",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Listen to a short presentation or announcement and identify specific information. Focus on facts, figures, and concrete details."
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 51,
+      "text": "Example audio types: Presentations, public announcements, informational messages."
+    },
+    {
+      "id": "n55",
+      "type": "heading",
+      "order": 52,
+      "level": 4,
+      "text": "🎧 Listening Preparation Strategies"
+    },
+    {
+      "id": "n56",
+      "type": "list",
+      "order": 53,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Practice with German podcasts and radio (DW, Deutschlandfunk)"
+        },
+        {
+          "text": "Read statements before audio plays"
+        },
+        {
+          "text": "Underline keywords in each statement"
+        }
+      ]
+    },
+    {
+      "id": "n57",
+      "type": "list",
+      "order": 54,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Take brief notes using symbols"
+        },
+        {
+          "text": "Listen for negations and qualifiers"
+        },
+        {
+          "text": "Don't change answers unless certain"
+        }
+      ]
+    },
+    {
+      "id": "n58",
+      "type": "heading",
+      "order": 55,
+      "level": 2,
+      "text": "Schreiben: Writing a Semi-Formal Letter"
+    },
+    {
+      "id": "n59",
+      "type": "paragraph",
+      "order": 56,
+      "text": "You choose between two task types: Aufgabe A (Request for Information) or Aufgabe B (Complaint Letter). Both require addressing specific points in a semi-formal register."
+    },
+    {
+      "id": "n60",
+      "type": "heading",
+      "order": 57,
+      "level": 3,
+      "text": "📝 Aufgabe A: Bitte um Informationen"
+    },
+    {
+      "id": "n61",
+      "type": "paragraph",
+      "order": 58,
+      "text": "Write a formal letter requesting information about a service, product, or opportunity."
+    },
+    {
+      "id": "n62",
+      "type": "paragraph",
+      "order": 59,
+      "text": "Typical scenarios:"
+    },
+    {
+      "id": "n63",
+      "type": "list",
+      "order": 60,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Insurance inquiries"
+        },
+        {
+          "text": "• Course registration questions"
+        },
+        {
+          "text": "• Service information requests"
+        }
+      ]
+    },
+    {
+      "id": "n64",
+      "type": "heading",
+      "order": 61,
+      "level": 3,
+      "text": "📝 Aufgabe B: Beschwerde"
+    },
+    {
+      "id": "n65",
+      "type": "paragraph",
+      "order": 62,
+      "text": "Write a complaint letter about a disappointing experience or service."
+    },
+    {
+      "id": "n67",
+      "type": "list",
+      "order": 63,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Holiday/travel complaints"
+        },
+        {
+          "text": "• Product defects"
+        },
+        {
+          "text": "• Service failures"
+        }
+      ]
+    },
+    {
+      "id": "n68",
+      "type": "heading",
+      "order": 64,
+      "level": 3,
+      "text": "📋 Required Letter Structure"
+    },
+    {
+      "id": "n69",
+      "type": "paragraph",
+      "order": 65,
+      "text": "Clear, concise topic description"
+    },
+    {
+      "id": "n70",
+      "type": "paragraph",
+      "order": 66,
+      "text": "\"Sehr geehrte Damen und Herren,\""
+    },
+    {
+      "id": "n71",
+      "type": "paragraph",
+      "order": 67,
+      "text": "State your purpose clearly"
+    },
+    {
+      "id": "n72",
+      "type": "paragraph",
+      "order": 68,
+      "text": "Address 3 required points (or 2 + 1 of your choice)"
+    },
+    {
+      "id": "n73",
+      "type": "paragraph",
+      "order": 69,
+      "text": "\"Mit freundlichen Grüßen\" + your name"
+    },
+    {
+      "id": "n74",
+      "type": "heading",
+      "order": 70,
+      "level": 4,
+      "text": "✍️ Useful Phrases for B2 Writing"
+    },
+    {
+      "id": "n75",
+      "type": "paragraph",
+      "order": 71,
+      "text": "For Requests:"
+    },
+    {
+      "id": "n76",
+      "type": "list",
+      "order": 72,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Ich möchte Sie bitten, mir ... zu senden.\""
+        },
+        {
+          "text": "• \"Könnten Sie mir bitte mitteilen, ob...\""
+        },
+        {
+          "text": "• \"Ich wäre Ihnen dankbar, wenn...\""
+        }
+      ]
+    },
+    {
+      "id": "n77",
+      "type": "paragraph",
+      "order": 73,
+      "text": "For Complaints:"
+    },
+    {
+      "id": "n78",
+      "type": "list",
+      "order": 74,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Leider muss ich Ihnen mitteilen, dass...\""
+        },
+        {
+          "text": "• \"Ich war äußerst enttäuscht von...\""
+        },
+        {
+          "text": "• \"Ich erwarte eine angemessene Entschädigung.\""
+        }
+      ]
+    },
+    {
+      "id": "n79",
+      "type": "heading",
+      "order": 75,
+      "level": 2,
+      "text": "Sprechen: The Oral Examination"
+    },
+    {
+      "id": "n80",
+      "type": "heading",
+      "order": 76,
+      "level": 4,
+      "text": "Pair Examination Format"
+    },
+    {
+      "id": "n81",
+      "type": "paragraph",
+      "order": 77,
+      "text": "The speaking exam is conducted with a partner. You have 20 minutes preparation time before the ~15-minute examination. Use this time wisely to plan your presentation and anticipate discussion topics."
+    },
+    {
+      "id": "n82",
+      "type": "heading",
+      "order": 78,
+      "level": 3,
+      "text": "Teil 1Über Erfahrungen sprechen (~1.5 minutes)"
+    },
+    {
+      "id": "n83",
+      "type": "paragraph",
+      "order": 79,
+      "text": "Choose one topic from seven options and present a personal experience. After your presentation, your partner asks you questions."
+    },
+    {
+      "id": "n84",
+      "type": "paragraph",
+      "order": 80,
+      "text": "Topic Options:"
+    },
+    {
+      "id": "n86",
+      "type": "list",
+      "order": 81,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Prepare 2-3 topics in advance with key vocabulary"
+        },
+        {
+          "text": "• Structure: Introduction → Details → Your opinion"
+        },
+        {
+          "text": "• Don't memorize scripts—examiners can tell"
+        },
+        {
+          "text": "• Listen carefully to your partner's questions"
+        }
+      ]
+    },
+    {
+      "id": "n87",
+      "type": "heading",
+      "order": 82,
+      "level": 3,
+      "text": "Teil 2Diskussion (Discussion)"
+    },
+    {
+      "id": "n88",
+      "type": "paragraph",
+      "order": 83,
+      "text": "Discuss a controversial topic with your partner. State your opinion, defend it with arguments, and respond to your partner's viewpoints."
+    },
+    {
+      "id": "n89",
+      "type": "paragraph",
+      "order": 84,
+      "text": "Common Discussion Topics:"
+    },
+    {
+      "id": "n90",
+      "type": "list",
+      "order": 85,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Technology in education"
+        },
+        {
+          "text": "• Work-life balance"
+        },
+        {
+          "text": "• Environmental issues"
+        },
+        {
+          "text": "• Social media impact"
+        },
+        {
+          "text": "• Remote work vs. office"
+        },
+        {
+          "text": "• City vs. countryside living"
+        }
+      ]
+    },
+    {
+      "id": "n91",
+      "type": "heading",
+      "order": 86,
+      "level": 4,
+      "text": "💡 Discussion Phrases"
+    },
+    {
+      "id": "n92",
+      "type": "list",
+      "order": 87,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Meiner Meinung nach...\" (In my opinion...)"
+        },
+        {
+          "text": "• \"Ich stimme Ihnen zu, aber...\" (I agree with you, but...)"
+        },
+        {
+          "text": "• \"Das sehe ich anders, weil...\" (I see it differently because...)"
+        },
+        {
+          "text": "• \"Ein wichtiger Aspekt ist...\" (An important aspect is...)"
+        }
+      ]
+    },
+    {
+      "id": "n93",
+      "type": "heading",
+      "order": 88,
+      "level": 3,
+      "text": "Teil 3Gemeinsam etwas planen (Planning Together)"
+    },
+    {
+      "id": "n94",
+      "type": "paragraph",
+      "order": 89,
+      "text": "Plan an activity or event together with your partner. Make suggestions, respond to ideas, negotiate, and reach a final decision."
+    },
+    {
+      "id": "n95",
+      "type": "paragraph",
+      "order": 90,
+      "text": "Example Planning Tasks:"
+    },
+    {
+      "id": "n96",
+      "type": "list",
+      "order": 91,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• Organizing a farewell party for a colleague"
+        },
+        {
+          "text": "• Planning a company outing or team event"
+        },
+        {
+          "text": "• Arranging a group trip or excursion"
+        },
+        {
+          "text": "• Preparing a presentation together"
+        }
+      ]
+    },
+    {
+      "id": "n97",
+      "type": "heading",
+      "order": 92,
+      "level": 4,
+      "text": "💡 Planning Phrases"
+    },
+    {
+      "id": "n98",
+      "type": "list",
+      "order": 93,
+      "ordered": false,
+      "items": [
+        {
+          "text": "• \"Ich schlage vor, dass wir...\" (I suggest that we...)"
+        },
+        {
+          "text": "• \"Wie wäre es, wenn wir...\" (How about if we...)"
+        },
+        {
+          "text": "• \"Das ist eine gute Idee, aber...\" (That's a good idea, but...)"
+        },
+        {
+          "text": "• \"Einverstanden! Dann machen wir das so.\" (Agreed! Let's do it that way.)"
+        }
+      ]
+    },
+    {
+      "id": "n99",
+      "type": "heading",
+      "order": 94,
+      "level": 2,
+      "text": "Your 8-Week Preparation Strategy"
+    },
+    {
+      "id": "n100",
+      "type": "heading",
+      "order": 95,
+      "level": 3,
+      "text": "Structured Study Plan"
+    },
+    {
+      "id": "n101",
+      "type": "paragraph",
+      "order": 96,
+      "text": "Recommended for candidates with solid B1 foundation"
+    },
+    {
+      "id": "n102",
+      "type": "heading",
+      "order": 97,
+      "level": 4,
+      "text": "Foundation & Assessment"
+    },
+    {
+      "id": "n103",
+      "type": "list",
+      "order": 98,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Take a diagnostic mock test to identify weak areas"
+        },
+        {
+          "text": "Review B2 grammar: Konjunktiv II, Passiv, Relativsätze"
+        },
+        {
+          "text": "Build vocabulary with topic-based word lists"
+        },
+        {
+          "text": "Start daily German news reading (15-20 min)"
+        }
+      ]
+    },
+    {
+      "id": "n104",
+      "type": "heading",
+      "order": 99,
+      "level": 4,
+      "text": "Reading & Language Elements"
+    },
+    {
+      "id": "n105",
+      "type": "list",
+      "order": 100,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Practice headline matching with timed exercises"
+        },
+        {
+          "text": "Work through Sprachbausteine exercises daily"
+        },
+        {
+          "text": "Read German articles and summarize main points"
+        },
+        {
+          "text": "Focus on connectors and linking words"
+        }
+      ]
+    },
+    {
+      "id": "n106",
+      "type": "heading",
+      "order": 101,
+      "level": 4,
+      "text": "Listening & Writing"
+    },
+    {
+      "id": "n107",
+      "type": "list",
+      "order": 102,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Daily listening practice (podcasts, news, interviews)"
+        },
+        {
+          "text": "Practice True/False listening exercises"
+        },
+        {
+          "text": "Write 2-3 formal letters per week"
+        },
+        {
+          "text": "Get feedback on writing from teacher or language partner"
+        }
+      ]
+    },
+    {
+      "id": "n108",
+      "type": "heading",
+      "order": 103,
+      "level": 4,
+      "text": "Speaking & Full Practice"
+    },
+    {
+      "id": "n109",
+      "type": "list",
+      "order": 104,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Practice speaking with a partner or tutor"
+        },
+        {
+          "text": "Prepare presentations for all 7 speaking topics"
+        },
+        {
+          "text": "Take 2-3 full mock exams under timed conditions"
+        },
+        {
+          "text": "Review mistakes and strengthen weak areas"
+        }
+      ]
+    },
+    {
+      "id": "n110",
+      "type": "heading",
+      "order": 105,
+      "level": 2,
+      "text": "Common Mistakes to Avoid"
+    },
+    {
+      "id": "n111",
+      "type": "heading",
+      "order": 106,
+      "level": 3,
+      "text": "Reading Section"
+    },
+    {
+      "id": "n112",
+      "type": "list",
+      "order": 107,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Spending too much time on one text"
+        },
+        {
+          "text": "✗Not reading questions before the text"
+        },
+        {
+          "text": "✗Choosing answers based on single keywords"
+        },
+        {
+          "text": "✗Ignoring context in Sprachbausteine"
+        }
+      ]
+    },
+    {
+      "id": "n113",
+      "type": "heading",
+      "order": 108,
+      "level": 3,
+      "text": "Listening Section"
+    },
+    {
+      "id": "n114",
+      "type": "list",
+      "order": 109,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Panicking when missing information"
+        },
+        {
+          "text": "✗Not reading statements before audio"
+        },
+        {
+          "text": "✗Changing answers without good reason"
+        },
+        {
+          "text": "✗Focusing on unknown words instead of context"
+        }
+      ]
+    },
+    {
+      "id": "n115",
+      "type": "heading",
+      "order": 110,
+      "level": 3,
+      "text": "Writing Section"
+    },
+    {
+      "id": "n116",
+      "type": "list",
+      "order": 111,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Not addressing all required points"
+        },
+        {
+          "text": "✗Using informal language (du instead of Sie)"
+        },
+        {
+          "text": "✗Forgetting proper letter structure"
+        },
+        {
+          "text": "✗Writing too little (under 150 words)"
+        }
+      ]
+    },
+    {
+      "id": "n117",
+      "type": "heading",
+      "order": 112,
+      "level": 3,
+      "text": "Speaking Section"
+    },
+    {
+      "id": "n118",
+      "type": "list",
+      "order": 113,
+      "ordered": false,
+      "items": [
+        {
+          "text": "✗Memorizing and reciting prepared speeches"
+        },
+        {
+          "text": "✗Not engaging with your partner"
+        },
+        {
+          "text": "✗Speaking too fast or too quietly"
+        },
+        {
+          "text": "✗Not using the full preparation time"
+        }
+      ]
+    },
+    {
+      "id": "n119",
+      "type": "heading",
+      "order": 114,
+      "level": 2,
+      "text": "Ready to Practice?"
+    },
+    {
+      "id": "n120",
+      "type": "paragraph",
+      "order": 115,
+      "text": "Put your knowledge into action with our comprehensive TELC B2 practice materials. Practice all four sections with authentic exam-style questions and get instant feedback."
+    },
+    {
+      "id": "n121",
+      "type": "heading",
+      "order": 116,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n122",
+      "type": "heading",
+      "order": 117,
+      "level": 2,
+      "text": "Final Exam Day Tips"
+    },
+    {
+      "id": "n123",
+      "type": "heading",
+      "order": 118,
+      "level": 3,
+      "text": "Before the Exam"
+    },
+    {
+      "id": "n124",
+      "type": "list",
+      "order": 119,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Get a good night's sleep"
+        },
+        {
+          "text": "Arrive 15-20 minutes early"
+        },
+        {
+          "text": "Bring valid ID and confirmation"
+        },
+        {
+          "text": "Have water and a light snack"
+        }
+      ]
+    },
+    {
+      "id": "n125",
+      "type": "heading",
+      "order": 120,
+      "level": 3,
+      "text": "During the Exam"
+    },
+    {
+      "id": "n126",
+      "type": "list",
+      "order": 121,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Manage your time carefully"
+        },
+        {
+          "text": "Answer all questions (no penalty for guessing)"
+        },
+        {
+          "text": "Stay calm if you miss something"
+        },
+        {
+          "text": "Use all preparation time for speaking"
+        }
+      ]
+    },
+    {
+      "id": "n127",
+      "type": "heading",
+      "order": 122,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n128",
+      "type": "heading",
+      "order": 123,
+      "level": 3,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n129",
+      "type": "paragraph",
+      "order": 124,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n130",
+      "type": "heading",
+      "order": 125,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n131",
+      "type": "paragraph",
+      "order": 126,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n132",
+      "type": "heading",
+      "order": 127,
+      "level": 3,
+      "text": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n133",
+      "type": "paragraph",
+      "order": 128,
+      "text": "How to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an..."
+    }
+  ],
+  "assets": {
+    "images": [],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk1",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc/b2/hoeren",
+        "text": "Practice Listening",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/b2/lesen",
+        "text": "Practice Reading",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/b2/schreiben",
+        "text": "Practice Writing",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/b2/sprechen",
+        "text": "Practice Speaking",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Exam GuidesGerman language levels explained: ace A1-B2 exams confidentlyGerman language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa...11 min readApr 10",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Exam GuidesWhat is B2 level German? Skills, uses, and exam insightsWhat is B2 level German? Skills, uses, and exam insights !12 min readApr 8",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+        "text": "Speaking SkillsHow to pass the TELC German test: Proven strategiesHow to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an...10 min readMar 29",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 57,
+      "paragraphs": 44,
+      "lists": 28,
+      "tables": 0,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 8,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 4,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

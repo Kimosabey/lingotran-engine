@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/testdaf/paper/lesen",
+    "canonicalUrl": "https://deutsch-pruefung.de/testdaf/paper/lesen",
+    "site": "deutsch-pruefung.de",
+    "slug": "testdaf--paper--lesen",
+    "sourceType": "web",
+    "title": "Paper-Based TestDaF Lesen (Reading) Prep | Deutsch Prüfung",
+    "description": "Prepare for the paper-based TestDaF Reading (Leseverstehen) section. Master Lesetext 1, 2, and 3 using expert textbook strategies, timings, and crawlable B2-C1 FAQs.",
+    "lang": "en",
+    "exam": "testdaf",
+    "level": "unknown",
+    "section": "lesen",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Prepare for the paper-based TestDaF Reading (Leseverstehen) section. Master Lesetext 1, 2, and 3 using expert textbook strategies, timings, and crawlable B2-C1 FAQs.",
+      "author": "German Exam Practice",
+      "og:title": "Paper-Based TestDaF Lesen (Reading) Prep | Deutsch Prüfung",
+      "og:description": "Prepare for the paper-based TestDaF Reading (Leseverstehen) section. Master Lesetext 1, 2, and 3 using expert textbook strategies, timings, and crawlable B2-C1 FAQs.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "95920a5d7d94e7c95bc517670f34b052-b7bcc6f00c95badb-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=95920a5d7d94e7c95bc517670f34b052,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.6599553804905489,sentry-sample_rate=0.2"
+    },
+    "wordCount": 637,
+    "fetchedAt": "2026-07-21T08:28:04.354Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The official paper-based TestDaF Leseverstehen section tests your reading comprehension of college-level German texts. You are allocated 60 minutes to complete 30 questions spanning three academic parts, followed by a dedicated 10-minute period specifically to transfer all answers onto the official Antwortbogen."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Lesetext 1 (University Life)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Match student interest scenarios (items 1–10) with short informational texts (A–H) like job listings or course ads."
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Read items first, underlining keywords to understand specific needs."
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "• Exactly 3 items have no matching text. For these, write the letter \"I\"."
+    },
+    {
+      "id": "n8",
+      "type": "heading",
+      "order": 7,
+      "level": 4,
+      "text": "Teil 2: Lesetext 2 (Journalistic Text)"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Read a journalistic or socio-political article exploring current scientific, ecological, or societal topics."
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "• Answer 10 detailed multiple-choice questions paragraph by paragraph chronologically."
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• Eliminate options that are too general, too specific, or contradict the text."
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 4,
+      "text": "Teil 3: Lesetext 3 (Academic Journal)"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "• Analyze a complex academic or scientific text (700–850 words) with dense sentence structures and advanced vocabulary."
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "• Decide whether 10 statements are true, false, or not mentioned (Ja / Nein / Sagt dazu nichts)."
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "• Distinguish clearly between \"Nein\" (contradicted) and \"Sagt dazu nichts\" (not mentioned)."
+    },
+    {
+      "id": "n16",
+      "type": "heading",
+      "order": 15,
+      "level": 3,
+      "text": "Teil 1 - Lesetext 1 (University Life)"
+    },
+    {
+      "id": "n17",
+      "type": "paragraph",
+      "order": 16,
+      "text": "Goal: Lesetext 1 (University Life)"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 3,
+      "text": "Teil 2 - Lesetext 2 (Journalistic Text)"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Goal: Lesetext 2 (Journalistic Text)"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 3,
+      "text": "Teil 3 - Lesetext 3 (Academic Journal)"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Goal: Lesetext 3 (Academic Journal)"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "The paper-based TestDaF Leseverstehen section takes 60 minutes and consists of three parts with 30 items total. Lesetext 1 has 10 matching items (ca. 10 minutes), Lesetext 2 has 10 three-option multiple-choice items (ca. 20 minutes), and Lesetext 3 has 10 items of true/false/not-mentioned (Ja / Nein / Text sagt dazu nichts) (ca. 20 minutes). You also receive an additional 10 minutes at the end to transfer your answers to the answer sheet."
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Lesetext 1 consists of 8 short texts (A–H) representing typical university-life advertisements or course offers. You must match them to 10 situational statements or interests (items 1–10). For each item, you write the letter of the matching text. Importantly, three of the items have no matching text, and for those you must write the letter \"I\". Items 01 and 02 are already solved as examples, and you cannot reuse their matching text."
+    },
+    {
+      "id": "n26",
+      "type": "paragraph",
+      "order": 25,
+      "text": "Lesetext 2 features a journalistic or socio-political text of 450–550 words (typically from a newspaper or magazine). It is followed by 10 multiple-choice questions (items 11–20), each with three options (A, B, C). The questions proceed chronologically through the text, making it easier to locate the relevant paragraphs."
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Lesetext 3 is an academic or scientific text of 550–650 words (from a scientific journal or higher education publication). It is followed by 10 statements (items 21–30). For each statement, you must decide whether the statement is true (Ja), false (Nein), or not mentioned in the text (Text sagt dazu nichts). This task requires deep comprehension and distinguishing between negative evidence and missing information."
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "Your raw score (out of 30 correct answers) is converted into one of the official TestDaF levels: TDN 3 (B2.1/B2.2), TDN 4 (C1.1), or TDN 5 (C1.2). Generally, 15–19 correct answers map to TDN 3, 20–24 to TDN 4, and 25–30 to TDN 5, though exact conversion scales may shift slightly per test based on difficulty."
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "For Lesetext 1, start by reading the items first, underline key requirements, and eliminate matched texts immediately. For Lesetext 2, read the first question before reading the paragraphs, find the matching passage, and compare the options carefully. For Lesetext 3, focus on distinguishing \"Nein\" (which means the text directly contradicts the statement) from \"Text sagt dazu nichts\" (where the text discusses the topic but does not verify or falsify that specific detail). Always use the margins of your paper booklet to write notes, and underline keywords (\"Schlüsselwörter markieren\")."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/testdaf",
+        "text": "TestDaF",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/testdaf/paper",
+        "text": "Paper",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/lesen/teil1",
+        "text": "Teil 1 - Lesetext 1 (University Life)Goal: Lesetext 1 (University Life)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/lesen/teil2",
+        "text": "Teil 2 - Lesetext 2 (Journalistic Text)Goal: Lesetext 2 (Journalistic Text)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/testdaf/paper/lesen/teil3",
+        "text": "Teil 3 - Lesetext 3 (Academic Journal)Goal: Lesetext 3 (Academic Journal)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 8,
+      "paragraphs": 20,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

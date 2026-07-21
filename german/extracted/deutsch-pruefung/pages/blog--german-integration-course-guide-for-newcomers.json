@@ -1,0 +1,996 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog--german-integration-course-guide-for-newcomers",
+    "sourceType": "web",
+    "title": "What is the German integration course? Full guide for newcomers",
+    "description": "Learn what the German integration course covers, who must attend, pass rates, and how to succeed. Your complete guide to B1 and beyond.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "blog-article"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Learn what the German integration course covers, who must attend, pass rates, and how to succeed. Your complete guide to B1 and beyond.",
+      "author": "Deutsch Prüfung Team",
+      "article:author": "Deutsch Prüfung Team",
+      "article:section": "Study Tips",
+      "article:published_time": "2026-04-04T07:04:47.605Z",
+      "article:tag": "overview of German integration",
+      "og:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775286506226_Adult-students-in-German-integration-class.jpeg",
+      "og:title": "What is the German integration course? Full guide for newcomers",
+      "og:description": "Learn what the German integration course covers, who must attend, pass rates, and how to succeed. Your complete guide to B1 and beyond.",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "What is the German integration course? Full guide for newcomers",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "What is the German integration course? Full guide for newcomers",
+      "twitter:description": "Learn what the German integration course covers, who must attend, pass rates, and how to succeed. Your complete guide to B1 and beyond.",
+      "twitter:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775286506226_Adult-students-in-German-integration-class.jpeg",
+      "sentry-trace": "17074b3e2d8cf342a150d73756f04fb4-13b5d1e59b8977af-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=17074b3e2d8cf342a150d73756f04fb4,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.6676161723590324,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1984,
+    "fetchedAt": "2026-07-21T08:28:25.654Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "quote",
+      "order": 0,
+      "text": "TL;DR: The German integration course combines language learning, civic knowledge, and legal orientation to prepare newcomers. Only about 56% of participants reach B1 level, highlighting the importance of strategic preparation. Successful completion supports residency, employment, and citizenship applications in Germany."
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Most newcomers assume the German integration course is simply a language class. It is not. It is a government-backed program that combines German language training, civic knowledge, and legal orientation, all designed to prepare you for real life in Germany. In 2024, over half a million people received an entitlement or obligation to participate, yet only around 56% reached the B1 language target. That gap tells a story. Understanding what the course actually involves, who must attend, and how to prepare strategically can make the difference between struggling through and genuinely thriving."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Table of Contents"
+    },
+    {
+      "id": "n4",
+      "type": "list",
+      "order": 3,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Understanding the German integration course: A foundation for newcomers"
+        },
+        {
+          "text": "Requirements and eligibility: Who needs to take the integration course?"
+        },
+        {
+          "text": "Course structure and outcomes: What to expect and how to succeed"
+        },
+        {
+          "text": "Life after the integration course: Next steps for career and citizenship"
+        },
+        {
+          "text": "Our perspective: The real keys to thriving in Germany’s integration system"
+        },
+        {
+          "text": "Ready to start your integration journey?"
+        },
+        {
+          "text": "Frequently asked questions"
+        }
+      ]
+    },
+    {
+      "id": "n5",
+      "type": "heading",
+      "order": 4,
+      "level": 2,
+      "text": "Key Takeaways"
+    },
+    {
+      "id": "n6",
+      "type": "table",
+      "order": 5,
+      "headers": [
+        [
+          "Point",
+          "Details"
+        ]
+      ],
+      "rows": [
+        [
+          "Integration course is comprehensive",
+          "It combines German language learning with cultural and legal orientation for newcomers."
+        ],
+        [
+          "Eligibility varies",
+          "Requirements depend on residence status, but voluntary participation often leads to better outcomes."
+        ],
+        [
+          "Success is achievable",
+          "Over half reach the B1 target, with further support available for work and long-term residency."
+        ],
+        [
+          "Opens future opportunities",
+          "Graduates can access advanced vocational courses and boost their chances for employment and citizenship."
+        ]
+      ]
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 2,
+      "text": "Understanding the German integration course: A foundation for newcomers"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "The integration course is not just another language class you sign up for at a community center. It is a structured, government-funded program administered through the Federal Office for Migration and Refugees (BAMF). Its goal is to give non-native residents the tools they need to participate fully in German society, not just speak the language."
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "The integration course covers German language skills up to B1 level and civic orientation covering laws, history, and social values. These two components work together. You learn to communicate in everyday situations while also understanding how German institutions, rights, and responsibilities function."
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Who is required to attend?"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Participation can be mandatory or voluntary, depending on your situation:"
+    },
+    {
+      "id": "n12",
+      "type": "list",
+      "order": 11,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Mandatory participants: Newly arrived non-EU immigrants with a residence permit for work, family reunification, or humanitarian reasons are typically required to attend."
+        },
+        {
+          "text": "Voluntary participants: EU citizens, long-term residents, and those who already have sufficient German skills may attend voluntarily if spaces are available."
+        },
+        {
+          "text": "Welfare recipients: If you receive social benefits and your German is assessed as insufficient, authorities can require you to attend."
+        }
+      ]
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Integration course vs. general German language class"
+    },
+    {
+      "id": "n14",
+      "type": "table",
+      "order": 13,
+      "headers": [
+        [
+          "Feature",
+          "Integration course",
+          "General German class"
+        ]
+      ],
+      "rows": [
+        [
+          "Government funded",
+          "Yes (BAMF)",
+          "Usually no"
+        ],
+        [
+          "Civic orientation included",
+          "Yes (100 hours)",
+          "No"
+        ],
+        [
+          "Leads to official exam (DTZ)",
+          "Yes",
+          "Varies"
+        ],
+        [
+          "Mandatory for some residents",
+          "Yes",
+          "No"
+        ],
+        [
+          "Target level",
+          "B1",
+          "Varies"
+        ]
+      ]
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "The official language course info from the Federal Employment Agency outlines which programs qualify and how to register. If you are preparing for the final exam, exploring TELC exam preparation and DTZ exam practice resources early gives you a real advantage."
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Core skills and modules you will cover:"
+    },
+    {
+      "id": "n17",
+      "type": "list",
+      "order": 16,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Everyday spoken and written German (Sprechen, Lesen, Schreiben, Hören)"
+        },
+        {
+          "text": "German history, political system, and constitutional values"
+        },
+        {
+          "text": "Rights and responsibilities as a resident"
+        },
+        {
+          "text": "Practical life skills: healthcare, education, employment"
+        }
+      ]
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 2,
+      "text": "Requirements and eligibility: Who needs to take the integration course?"
+    },
+    {
+      "id": "n19",
+      "type": "paragraph",
+      "order": 18,
+      "text": "Knowing whether you are required or simply eligible to attend shapes how you approach the whole experience. The rules are clear once you break them down."
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Entitlement or obligation is tied to your residency permit, social benefit status, or assessed integration needs. Voluntary participants, interestingly, tend to perform better on average because motivation plays a significant role in outcomes."
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "Steps to determine your participation status:"
+    },
+    {
+      "id": "n22",
+      "type": "list",
+      "order": 21,
+      "ordered": true,
+      "items": [
+        {
+          "text": "Check your residence permit type. Work, family, or humanitarian permits often carry a mandatory participation clause."
+        },
+        {
+          "text": "Assess your current German level. If you already test at B1 or above, you may be exempt."
+        },
+        {
+          "text": "Review your benefit status. Receiving Bürgergeld (citizen’s income) or Sozialhilfe (social assistance) with insufficient German often triggers an obligation."
+        },
+        {
+          "text": "Contact your local Ausländerbehörde (foreigners’ authority). They will confirm your status and issue a referral if needed."
+        },
+        {
+          "text": "Apply through BAMF. You can also apply directly if you believe you are entitled but have not been formally referred."
+        }
+      ]
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "Special cases to know:"
+    },
+    {
+      "id": "n24",
+      "type": "list",
+      "order": 23,
+      "ordered": false,
+      "items": [
+        {
+          "text": "EU citizens are not obligated but may attend voluntarily."
+        },
+        {
+          "text": "Spouses joining partners in Germany are typically required to attend unless they already demonstrate B1 proficiency."
+        },
+        {
+          "text": "Refugees and asylum seekers with a recognized status are often prioritized for course placement."
+        },
+        {
+          "text": "Long-term residents who arrived before certain legal thresholds may be exempt depending on their permit history."
+        }
+      ]
+    },
+    {
+      "id": "n25",
+      "type": "paragraph",
+      "order": 24,
+      "text": "Pro Tip: If you are attending voluntarily, use that freedom to your advantage. Voluntary participants often choose courses that fit their schedule and learning style better, which DTZ test data consistently shows leads to stronger outcomes. Treat the course as an investment, not an obligation."
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 2,
+      "text": "Course structure and outcomes: What to expect and how to succeed"
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "Once you know you are eligible, the next question is: what does showing up actually look like, and how hard is it to pass?"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "The standard integration course runs for 700 hours total: 600 hours of language instruction and 100 hours of orientation (Orientierungskurs). Some participants qualify for extended courses of up to 900 hours if they need extra support, such as those with limited formal education or literacy challenges."
+    },
+    {
+      "id": "n29",
+      "type": "paragraph",
+      "order": 28,
+      "text": "Typical weekly structure:"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "Most courses run four to five days per week, with sessions lasting three to four hours per day. You will practice all four language skills: Lesen (reading), Hören (listening), Schreiben (writing), and Sprechen (speaking). The orientation module covers German law, democracy, history, and everyday civic life."
+    },
+    {
+      "id": "n31",
+      "type": "paragraph",
+      "order": 30,
+      "text": "Pass rate data from 2024:"
+    },
+    {
+      "id": "n32",
+      "type": "table",
+      "order": 31,
+      "headers": [
+        [
+          "Outcome",
+          "Percentage of participants"
+        ]
+      ],
+      "rows": [
+        [
+          "Reached B1 (pass)",
+          "56%"
+        ],
+        [
+          "Reached A2",
+          "32%"
+        ],
+        [
+          "Below A2",
+          "11.6%"
+        ]
+      ]
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 32,
+      "text": "In 2024, around 320,000 people took the DTZ exam. Only 56% reached B1, while 32% finished at A2 and 11.6% did not reach A2. These numbers matter because they show that passing is achievable but not automatic."
+    },
+    {
+      "id": "n34",
+      "type": "quote",
+      "order": 33,
+      "text": "“Reaching B1 requires consistent practice across all four language skills, not just classroom attendance. Passive learning alone rarely gets you there.”"
+    },
+    {
+      "id": "n35",
+      "type": "paragraph",
+      "order": 34,
+      "text": "Factors that affect your outcome:"
+    },
+    {
+      "id": "n36",
+      "type": "list",
+      "order": 35,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Prior education level and literacy in your first language"
+        },
+        {
+          "text": "Whether you are attending voluntarily or under obligation"
+        },
+        {
+          "text": "Health, family responsibilities, and work commitments"
+        },
+        {
+          "text": "Access to structured practice outside class hours"
+        }
+      ]
+    },
+    {
+      "id": "n37",
+      "type": "paragraph",
+      "order": 36,
+      "text": "Pro Tip: Do not wait until the final weeks to practice exam-style questions. Start DTZ reading practice early and review B2 exam strategies if you are aiming beyond B1. Familiarity with the exam format reduces test anxiety significantly."
+    },
+    {
+      "id": "n38",
+      "type": "heading",
+      "order": 37,
+      "level": 2,
+      "text": "Life after the integration course: Next steps for career and citizenship"
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 38,
+      "text": "Passing the integration course opens real doors. It is not just a certificate to file away."
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 39,
+      "text": "With a B1 certificate from the DTZ (Deutsch-Test für Zuwanderer), you gain documented proof of language competency that supports applications for permanent residency (Niederlassungserlaubnis) and is often required for naturalization. Employers in Germany increasingly look for this certification as a baseline for hiring non-native speakers."
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 40,
+      "text": "What your certificate can unlock:"
+    },
+    {
+      "id": "n42",
+      "type": "list",
+      "order": 41,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Stronger applications for permanent residency permits"
+        },
+        {
+          "text": "Eligibility for vocational training programs (Ausbildung)"
+        },
+        {
+          "text": "Entry into employment sectors that require basic German communication"
+        },
+        {
+          "text": "Civic participation, including community organizations and local advisory boards"
+        }
+      ]
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 42,
+      "text": "For those who want to go further, vocational language courses (BSK) extend from B2 to C2 and are free for eligible jobseekers. These courses are specifically designed for professional integration and are a logical next step after B1."
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "Further German exams worth considering:"
+    },
+    {
+      "id": "n45",
+      "type": "list",
+      "order": 44,
+      "ordered": false,
+      "items": [
+        {
+          "text": "TELC B2 / C1: Recognized for professional and academic settings"
+        },
+        {
+          "text": "Goethe-Zertifikat B2/C1: Widely accepted for university admissions"
+        },
+        {
+          "text": "TestDaF: Required for many German university programs"
+        },
+        {
+          "text": "DSH: University-specific German proficiency test"
+        }
+      ]
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "If you are planning to pursue higher-level certification, starting Goethe B2 preparation while your B1 skills are still fresh gives you a strong foundation to build on."
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Civic engagement also becomes more accessible after the course. Many municipalities actively encourage integration course graduates to join neighborhood councils, volunteer programs, and community events. Your language skills are the key that makes participation feel natural rather than stressful."
+    },
+    {
+      "id": "n48",
+      "type": "heading",
+      "order": 47,
+      "level": 2,
+      "text": "Our perspective: The real keys to thriving in Germany’s integration system"
+    },
+    {
+      "id": "n49",
+      "type": "paragraph",
+      "order": 48,
+      "text": "Here is something official brochures rarely say directly: not everyone is equally positioned to hit B1, and that is okay."
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 49,
+      "text": "Success often correlates with prior education and voluntary participation, while crisis-driven or ad-hoc courses consistently underperform structured programs. The system was designed with a certain learner profile in mind, and if your background differs, you may need a different strategy."
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Our honest advice: if B1 feels out of reach right now, set A2 as your first real goal. Reaching A2 builds confidence, proves progress to authorities, and gives you a platform to push higher. Chasing B1 from day one when you are still building basic literacy can feel defeating and lead to dropout."
+    },
+    {
+      "id": "n52",
+      "type": "paragraph",
+      "order": 51,
+      "text": "Also, course quality varies. A stable, well-structured course with consistent instructors makes a measurable difference. If your current course feels disorganized, ask BAMF about switching. You have that right. Pair classroom learning with structured online practice, and treat every exam as a rehearsal, not a final judgment."
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 52,
+      "level": 2,
+      "text": "Ready to start your integration journey?"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 53,
+      "text": "The integration course is your first major milestone in Germany, and preparation makes all the difference between just attending and actually succeeding."
+    },
+    {
+      "id": "n55",
+      "type": "paragraph",
+      "order": 54,
+      "text": "At Deutsch-Pruefung.de, we offer targeted resources designed specifically for integration course learners. Practice real DTZ exam questions on our DTZ practice platform, strengthen your foundation with German grammar resources, and prepare for your next level with TELC exam prep materials. Whether you are aiming for B1 or planning to go further, our mock tests, audio exercises, and AI-powered writing feedback give you the structured support that passive study simply cannot match."
+    },
+    {
+      "id": "n56",
+      "type": "heading",
+      "order": 55,
+      "level": 2,
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "n57",
+      "type": "heading",
+      "order": 56,
+      "level": 3,
+      "text": "What is the difference between the integration course and a general German course?"
+    },
+    {
+      "id": "n58",
+      "type": "paragraph",
+      "order": 57,
+      "text": "The integration course covers B1 language skills plus civic orientation and is often legally required for residency, while general German classes focus only on language without official certification or civic content."
+    },
+    {
+      "id": "n59",
+      "type": "heading",
+      "order": 58,
+      "level": 3,
+      "text": "What happens if I do not reach B1 level after the integration course?"
+    },
+    {
+      "id": "n60",
+      "type": "paragraph",
+      "order": 59,
+      "text": "You will receive proof of participation, and 32% finish at A2 while 11.6% score below A2, so repeating sections or accessing additional support resources is a recognized and common path forward."
+    },
+    {
+      "id": "n61",
+      "type": "heading",
+      "order": 60,
+      "level": 3,
+      "text": "Who is exempt from taking the integration course?"
+    },
+    {
+      "id": "n62",
+      "type": "paragraph",
+      "order": 61,
+      "text": "Some long-term residents, EU citizens, and those with strong existing German skills may be exempt, as entitlement or obligation depends on your specific residency permit, benefit status, and assessed language level."
+    },
+    {
+      "id": "n63",
+      "type": "heading",
+      "order": 62,
+      "level": 3,
+      "text": "Can I take job-related German courses after finishing the integration course?"
+    },
+    {
+      "id": "n64",
+      "type": "paragraph",
+      "order": 63,
+      "text": "Yes, vocational language courses (BSK) from B2 to C2 are available free of charge for eligible jobseekers, building directly on your integration course foundation."
+    },
+    {
+      "id": "n65",
+      "type": "heading",
+      "order": 64,
+      "level": 3,
+      "text": "Does passing the integration course help with visa or citizenship applications?"
+    },
+    {
+      "id": "n66",
+      "type": "paragraph",
+      "order": 65,
+      "text": "Yes, completion strengthens residency and citizenship eligibility, and a B1 certificate is often a formal requirement for permanent residency and naturalization applications in Germany."
+    },
+    {
+      "id": "n67",
+      "type": "heading",
+      "order": 66,
+      "level": 2,
+      "text": "Recommended"
+    },
+    {
+      "id": "n68",
+      "type": "list",
+      "order": 67,
+      "ordered": false,
+      "items": [
+        {
+          "text": "DTZ - Deutsch-Test für Zuwanderer (A2-B1) Practice | Deutsch Prüfung"
+        },
+        {
+          "text": "Deutsch Prüfung - TELC & Goethe Certificate Preparation"
+        },
+        {
+          "text": "German Exam Prep Blog | Expert Tips, Study Guides & Success Stories"
+        },
+        {
+          "text": "Goethe & TELC A1 Sprechen (Speaking) Guide: Sample Dialogues, Tips, and Vocabulary"
+        },
+        {
+          "text": "Duits Online Leren: Complete Gids voor 2026 - Bogaers Taleninstituut Tilburg"
+        }
+      ]
+    },
+    {
+      "id": "n69",
+      "type": "heading",
+      "order": 68,
+      "level": 2,
+      "text": "Related Articles"
+    },
+    {
+      "id": "n70",
+      "type": "heading",
+      "order": 69,
+      "level": 3,
+      "text": "German grammar tests: key differences and prep tips"
+    },
+    {
+      "id": "n71",
+      "type": "paragraph",
+      "order": 70,
+      "text": "German grammar tests: key differences and prep tips ! Student studies German grammar at kitchen table > TL;DR: > > - Different German exams assess grammar through separate s..."
+    },
+    {
+      "id": "n72",
+      "type": "heading",
+      "order": 71,
+      "level": 3,
+      "text": "German tests for immigration: levels, requirements, prep"
+    },
+    {
+      "id": "n73",
+      "type": "paragraph",
+      "order": 72,
+      "text": "German tests for immigration: levels, requirements, prep ! Man studying German for immigration at home > TL;DR: > > - B1 level is the standard requirement for permanent resi..."
+    },
+    {
+      "id": "n74",
+      "type": "heading",
+      "order": 73,
+      "level": 3,
+      "text": "Certifying German skills: unlock study, work & immigration"
+    },
+    {
+      "id": "n75",
+      "type": "paragraph",
+      "order": 74,
+      "text": "Certifying German skills: unlock study, work & immigration ! Young woman checks German exam certificate at home Many learners assume that speaking German fluently is enough to..."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775286506226_Adult-students-in-German-integration-class.jpeg",
+        "alt": "Adult students in German integration class"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775286454960_German-integration-course-overview-infographic.jpeg",
+        "alt": "German integration course overview infographic"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775286477877_Student-studying-German-at-kitchen-table.jpeg",
+        "alt": "Student studying German at kitchen table"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291046269_deutsch-pruefung.jpg",
+        "alt": "https://deutsch-pruefung.de"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "Back to Blog",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://mediendienst-integration.de/bildung/sprache/erfolgsquote-bei-integrationskursen/",
+        "text": "over half a million people",
+        "kind": "external"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers#understanding-the-german-integration-course%3A-a-foundation-for-newcomers",
+        "text": "Understanding the German integration course: A foundation for newcomers",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers#requirements-and-eligibility%3A-who-needs-to-take-the-integration-course?",
+        "text": "Requirements and eligibility: Who needs to take the integration course?",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers#course-structure-and-outcomes%3A-what-to-expect-and-how-to-succeed",
+        "text": "Course structure and outcomes: What to expect and how to succeed",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk10",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers#life-after-the-integration-course%3A-next-steps-for-career-and-citizenship",
+        "text": "Life after the integration course: Next steps for career and citizenship",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk11",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers#our-perspective%3A-the-real-keys-to-thriving-in-germany's-integration-system",
+        "text": "Our perspective: The real keys to thriving in Germany’s integration system",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk12",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers#ready-to-start-your-integration-journey?",
+        "text": "Ready to start your integration journey?",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk13",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers#frequently-asked-questions",
+        "text": "Frequently asked questions",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk14",
+        "type": "link",
+        "order": 9,
+        "href": "https://www.arbeitsagentur.de/int/en/for-people-from-abroad/language-courses",
+        "text": "official language course info",
+        "kind": "external"
+      },
+      {
+        "id": "lnk15",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC exam preparation",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk16",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ exam practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk17",
+        "type": "link",
+        "order": 12,
+        "href": "https://deutsch-pruefung.de/dtz/lesen/teil1",
+        "text": "DTZ reading practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk18",
+        "type": "link",
+        "order": 13,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-reading-guide",
+        "text": "B2 exam strategies",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk19",
+        "type": "link",
+        "order": 14,
+        "href": "https://deutsch-pruefung.de/goethe/b2",
+        "text": "Goethe B2 preparation",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk20",
+        "type": "link",
+        "order": 15,
+        "href": "http://deutsch-pruefung.de/",
+        "text": "Deutsch-Pruefung.de",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk21",
+        "type": "link",
+        "order": 16,
+        "href": "https://deutsch-pruefung.de/grammar",
+        "text": "German grammar resources",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk22",
+        "type": "link",
+        "order": 17,
+        "href": "https://deutsch-pruefung.de/dtz",
+        "text": "DTZ - Deutsch-Test für Zuwanderer (A2-B1) Practice | Deutsch Prüfung",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk23",
+        "type": "link",
+        "order": 18,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Deutsch Prüfung - TELC & Goethe Certificate Preparation",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk24",
+        "type": "link",
+        "order": 19,
+        "href": "https://deutsch-pruefung.de/blog",
+        "text": "German Exam Prep Blog | Expert Tips, Study Guides & Success Stories",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk25",
+        "type": "link",
+        "order": 20,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-speaking-guide",
+        "text": "Goethe & TELC A1 Sprechen (Speaking) Guide: Sample Dialogues, Tips, and Vocabulary",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk26",
+        "type": "link",
+        "order": 21,
+        "href": "https://bogaerstalen.nl/duits-online-leren",
+        "text": "Duits Online Leren: Complete Gids voor 2026 - Bogaers Taleninstituut Tilburg",
+        "kind": "external"
+      },
+      {
+        "id": "lnk27",
+        "type": "link",
+        "order": 22,
+        "href": "https://deutsch-pruefung.de/blog/german-grammar-tests-key-differences-prep-tips",
+        "text": "Study TipsGerman grammar tests: key differences and prep tipsGerman grammar tests: key differences and prep tips ! Student studies German grammar at kitchen table > TL;DR: > > - Different German exams assess grammar through separate s...12 min readApr 5",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk28",
+        "type": "link",
+        "order": 23,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep",
+        "text": "Study TipsGerman tests for immigration: levels, requirements, prepGerman tests for immigration: levels, requirements, prep ! Man studying German for immigration at home > TL;DR: > > - B1 level is the standard requirement for permanent resi...11 min readApr 3",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk29",
+        "type": "link",
+        "order": 24,
+        "href": "https://deutsch-pruefung.de/blog/certifying-german-language-skills-study-work-immigration",
+        "text": "Study TipsCertifying German skills: unlock study, work & immigrationCertifying German skills: unlock study, work & immigration ! Young woman checks German exam certificate at home Many learners assume that speaking German fluently is enough to...11 min readApr 2",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 19,
+      "paragraphs": 42,
+      "lists": 9,
+      "tables": 3,
+      "images": 0,
+      "figures": 0,
+      "media": 0,
+      "links": 25,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

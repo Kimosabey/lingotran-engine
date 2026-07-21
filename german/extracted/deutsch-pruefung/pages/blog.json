@@ -1,0 +1,1530 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/blog",
+    "canonicalUrl": "https://deutsch-pruefung.de/blog",
+    "site": "deutsch-pruefung.de",
+    "slug": "blog",
+    "sourceType": "web",
+    "title": "German Exam Prep Blog | Expert Tips, Study Guides & Success Stories",
+    "description": "Comprehensive blog covering German language exam preparation, including TELC and Goethe exam guides, study tips, practice strategies, and success stories from real test-takers.",
+    "lang": "en",
+    "exam": "unknown",
+    "level": "unknown",
+    "contentType": [
+      "landing"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Comprehensive blog covering German language exam preparation, including TELC and Goethe exam guides, study tips, practice strategies, and success stories from real test-takers.",
+      "author": "German Exam Prep Team",
+      "og:title": "German Exam Prep Blog - Expert Study Guides & Tips",
+      "og:description": "Master your German language exams with our comprehensive guides, proven strategies, and expert tips for TELC and Goethe certifications.",
+      "og:locale": "en_US",
+      "og:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216171794_Man-studying-German-for-immigration-at-home.jpeg",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "German Exam Prep blog article image",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "German Exam Prep Blog - Expert Study Guides & Tips",
+      "twitter:description": "Master your German language exams with our comprehensive guides, proven strategies, and expert tips for TELC and Goethe certifications.",
+      "twitter:image": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216171794_Man-studying-German-for-immigration-at-home.jpeg",
+      "sentry-trace": "52bcc03ea48992cbd6f8fe41847921ec-de0b00d29397efa2-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=52bcc03ea48992cbd6f8fe41847921ec,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.31938946398887524,sentry-sample_rate=0.2"
+    },
+    "wordCount": 1396,
+    "fetchedAt": "2026-07-21T08:27:25.346Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "Insights to help you conquer Goethe & TELC exams"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Practical walkthroughs, strategy notes, and vocabulary packs crafted by teachers and exam mentors. Start with the latest guidance or dive into the section you need the most."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "What you'll find here"
+    },
+    {
+      "id": "n4",
+      "type": "list",
+      "order": 3,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Breakdowns of every exam part with realistic sample answers and scoring insights."
+        },
+        {
+          "text": "Study flows that balance listening, reading, writing, and speaking practice efficiently."
+        },
+        {
+          "text": "Ready-to-use templates, vocabulary banks, and polite request phrases for exam day."
+        }
+      ]
+    },
+    {
+      "id": "n5",
+      "type": "image",
+      "order": 4,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775813609224_image.jpeg",
+      "alt": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n6",
+      "type": "heading",
+      "order": 5,
+      "level": 2,
+      "text": "German language levels explained: ace A1-B2 exams confidently"
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "German language levels explained: ace A1-B2 exams confidently ! Woman studying German at kitchen table > TL;DR: > > - Exam formats and scoring vary, requiring targeted prepa..."
+    },
+    {
+      "id": "n8",
+      "type": "image",
+      "order": 7,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775729086694_Student-reviewing-German-exam-materials-at-kitchen-table.jpeg",
+      "alt": "What CEFR levels mean in German exams: guide for students"
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 2,
+      "text": "What CEFR levels mean in German exams: guide for students"
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "What CEFR levels mean in German exams: guide for students ! Student reviewing German exam materials at kitchen table > TL;DR: > > - CEFR levels define specific language skil..."
+    },
+    {
+      "id": "n11",
+      "type": "heading",
+      "order": 10,
+      "level": 2,
+      "text": "All guides"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "Browse every strategy guide we have published so far. Each walkthrough includes section breakdowns, scoring insights, and printable checklists for Goethe and TELC preparation."
+    },
+    {
+      "id": "n13",
+      "type": "image",
+      "order": 12,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775650327126_Student-studying-German-with-textbook-at-table.jpeg",
+      "alt": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 3,
+      "text": "What is B2 level German? Skills, uses, and exam insights"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "What is B2 level German? Skills, uses, and exam insights !"
+    },
+    {
+      "id": "n16",
+      "type": "image",
+      "order": 15,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775547069440_image.jpeg",
+      "alt": "Goethe exam explained: skills, levels & success strategies"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "Goethe exam explained: skills, levels & success strategies"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Goethe exam explained: skills, levels & success strategies ! Woman studying Goethe exam materials at desk > TL;DR: > > - The Goethe exam is a rigorous, internationally recog..."
+    },
+    {
+      "id": "n19",
+      "type": "image",
+      "order": 18,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775459109533_image.jpeg",
+      "alt": "A1 exam study guide: ace your German test step by step"
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 3,
+      "text": "A1 exam study guide: ace your German test step by step"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "A1 exam study guide: ace your German test step by step ! Young woman studying German with flashcards at kitchen table > TL;DR: > > - A phased 90-day study plan improves chan..."
+    },
+    {
+      "id": "n22",
+      "type": "image",
+      "order": 21,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775375631051_Student-studies-German-grammar-at-kitchen-table.jpeg",
+      "alt": "German grammar tests: key differences and prep tips"
+    },
+    {
+      "id": "n23",
+      "type": "heading",
+      "order": 22,
+      "level": 3,
+      "text": "German grammar tests: key differences and prep tips"
+    },
+    {
+      "id": "n24",
+      "type": "paragraph",
+      "order": 23,
+      "text": "German grammar tests: key differences and prep tips ! Student studies German grammar at kitchen table > TL;DR: > > - Different German exams assess grammar through separate s..."
+    },
+    {
+      "id": "n25",
+      "type": "image",
+      "order": 24,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775286506226_Adult-students-in-German-integration-class.jpeg",
+      "alt": "What is the German integration course? Full guide for newcomers"
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 3,
+      "text": "What is the German integration course? Full guide for newcomers"
+    },
+    {
+      "id": "n27",
+      "type": "paragraph",
+      "order": 26,
+      "text": "What is the German integration course? Full guide for newcomers !"
+    },
+    {
+      "id": "n28",
+      "type": "image",
+      "order": 27,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216171794_Man-studying-German-for-immigration-at-home.jpeg",
+      "alt": "German tests for immigration: levels, requirements, prep"
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 3,
+      "text": "German tests for immigration: levels, requirements, prep"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "German tests for immigration: levels, requirements, prep ! Man studying German for immigration at home > TL;DR: > > - B1 level is the standard requirement for permanent resi..."
+    },
+    {
+      "id": "n31",
+      "type": "image",
+      "order": 30,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775117001733_Young-woman-checks-German-exam-certificate-at-home.jpeg",
+      "alt": "Certifying German skills: unlock study, work & immigration"
+    },
+    {
+      "id": "n32",
+      "type": "heading",
+      "order": 31,
+      "level": 3,
+      "text": "Certifying German skills: unlock study, work & immigration"
+    },
+    {
+      "id": "n33",
+      "type": "paragraph",
+      "order": 32,
+      "text": "Certifying German skills: unlock study, work & immigration ! Young woman checks German exam certificate at home Many learners assume that speaking German fluently is enough to..."
+    },
+    {
+      "id": "n34",
+      "type": "image",
+      "order": 33,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775040010496_Student-practicing-German-speaking-in-cafe.jpeg",
+      "alt": "How to improve German speaking for exam success"
+    },
+    {
+      "id": "n35",
+      "type": "heading",
+      "order": 34,
+      "level": 3,
+      "text": "How to improve German speaking for exam success"
+    },
+    {
+      "id": "n36",
+      "type": "paragraph",
+      "order": 35,
+      "text": "How to improve German speaking for exam success ! Student practicing German speaking in café You've studied the grammar rules."
+    },
+    {
+      "id": "n37",
+      "type": "image",
+      "order": 36,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774952358750_Student-preparing-for-German-exam-at-desk.jpeg",
+      "alt": "German mock tests: ace your GOETHE & TELC exams in 2026"
+    },
+    {
+      "id": "n38",
+      "type": "heading",
+      "order": 37,
+      "level": 3,
+      "text": "German mock tests: ace your GOETHE & TELC exams in 2026"
+    },
+    {
+      "id": "n39",
+      "type": "paragraph",
+      "order": 38,
+      "text": "German mock tests: ace your GOETHE & TELC exams in 2026 ! Student preparing for German exam at desk Choosing the right German mock test can feel like standing in front of a wa..."
+    },
+    {
+      "id": "n40",
+      "type": "image",
+      "order": 39,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774855626973_Student-practicing-German-certificate-exam-at-desk.jpeg",
+      "alt": "Academic German certificates: Guide to language credentials"
+    },
+    {
+      "id": "n41",
+      "type": "heading",
+      "order": 40,
+      "level": 3,
+      "text": "Academic German certificates: Guide to language credentials"
+    },
+    {
+      "id": "n42",
+      "type": "paragraph",
+      "order": 41,
+      "text": "Academic German certificates: Guide to language credentials ! Student practicing German certificate exam at desk Most people assume there's only one certificate that gets you..."
+    },
+    {
+      "id": "n43",
+      "type": "image",
+      "order": 42,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774771673451_Woman-studying-TELC-German-at-kitchen-table.jpeg",
+      "alt": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n44",
+      "type": "heading",
+      "order": 43,
+      "level": 3,
+      "text": "How to pass the TELC German test: Proven strategies"
+    },
+    {
+      "id": "n45",
+      "type": "paragraph",
+      "order": 44,
+      "text": "How to pass the TELC German test: Proven strategies ! Woman studying TELC German at kitchen table The TELC German certification opens doors to visas, university admissions, an..."
+    },
+    {
+      "id": "n46",
+      "type": "image",
+      "order": 45,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774681176603_Woman-studying-DTZ-exam-with-notes-at-kitchen-table.jpeg",
+      "alt": "How to pass the DTZ exam: Proven strategies and guide"
+    },
+    {
+      "id": "n47",
+      "type": "heading",
+      "order": 46,
+      "level": 3,
+      "text": "How to pass the DTZ exam: Proven strategies and guide"
+    },
+    {
+      "id": "n48",
+      "type": "paragraph",
+      "order": 47,
+      "text": "How to pass the DTZ exam: Proven strategies and guide ! Woman studying DTZ exam with notes at kitchen table Passing the DTZ exam is one of the most important milestones for im..."
+    },
+    {
+      "id": "n49",
+      "type": "image",
+      "order": 48,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774453745041_Woman-studying-German-exam-questions-at-table.jpeg",
+      "alt": "Master German language questions with practical examples"
+    },
+    {
+      "id": "n50",
+      "type": "heading",
+      "order": 49,
+      "level": 3,
+      "text": "Master German language questions with practical examples"
+    },
+    {
+      "id": "n51",
+      "type": "paragraph",
+      "order": 50,
+      "text": "Master German language questions with practical examples ! Woman studying German exam questions at table Choosing the right German language questions for your exam preparation..."
+    },
+    {
+      "id": "n52",
+      "type": "image",
+      "order": 51,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291186755_Student-actively-studying-German-vocabulary-at-desk.jpeg",
+      "alt": "How to build German vocabulary for exam success"
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 52,
+      "level": 3,
+      "text": "How to build German vocabulary for exam success"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 53,
+      "text": "How to build German vocabulary for exam success ! Student actively studying German vocabulary at desk Mastering German vocabulary can feel overwhelming when you're preparing f..."
+    },
+    {
+      "id": "n55",
+      "type": "image",
+      "order": 54,
+      "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291298391_Woman-filling-out-language-certificate-form-at-cluttered-kitchen-table.jpeg",
+      "alt": "What is a language certificate: German exams A1 to B2"
+    },
+    {
+      "id": "n56",
+      "type": "heading",
+      "order": 55,
+      "level": 3,
+      "text": "What is a language certificate: German exams A1 to B2"
+    },
+    {
+      "id": "n57",
+      "type": "paragraph",
+      "order": 56,
+      "text": "What is a language certificate: German exams A1 to B2 ! Woman filling out language certificate form at cluttered kitchen table If you've started exploring German language exam..."
+    },
+    {
+      "id": "n58",
+      "type": "image",
+      "order": 57,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1-writing.jpg&w=3840&q=75",
+      "alt": "TELC B1 Schreiben (Writing) Guide 2026: Complete Strategy & Model Answers"
+    },
+    {
+      "id": "n59",
+      "type": "heading",
+      "order": 58,
+      "level": 3,
+      "text": "Mastering the TELC B1 Schreiben (Writing) Section: Your Complete Guide"
+    },
+    {
+      "id": "n60",
+      "type": "paragraph",
+      "order": 59,
+      "text": "A comprehensive guide to conquering the TELC B1 Schriftlicher Ausdruck (Writing) exam with detailed breakdown of the formal/semi-formal letter task, model answers, useful phrases (Redemittel), and proven strategies for exam success."
+    },
+    {
+      "id": "n61",
+      "type": "image",
+      "order": 60,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1-reading.jpg&w=3840&q=75",
+      "alt": "TELC B1 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy"
+    },
+    {
+      "id": "n62",
+      "type": "heading",
+      "order": 61,
+      "level": 3,
+      "text": "Mastering the TELC B1 Leseverstehen und Sprachbausteine: Complete Guide with Pro Tips"
+    },
+    {
+      "id": "n63",
+      "type": "paragraph",
+      "order": 62,
+      "text": "A comprehensive guide to conquering the TELC B1 Reading section with detailed breakdowns of all 5 task types (Leseverstehen 1-3, Sprachbausteine 1-2), proven strategies, time management tips, and common mistakes to avoid."
+    },
+    {
+      "id": "n64",
+      "type": "image",
+      "order": 63,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1.jpg&w=3840&q=75",
+      "alt": "TELC B1 German Exam Guide 2026: Complete Preparation Strategy"
+    },
+    {
+      "id": "n65",
+      "type": "heading",
+      "order": 64,
+      "level": 3,
+      "text": "Acing the TELC B1 German Exam: Your Ultimate Guide to Format, Preparation, and Pro Tips"
+    },
+    {
+      "id": "n66",
+      "type": "paragraph",
+      "order": 65,
+      "text": "A comprehensive guide to conquering the TELC B1 (Zertifikat Deutsch) exam with detailed breakdowns of each section (Lesen, Hören, Schreiben, Sprechen), proven study strategies, and insider tips from successful test-takers."
+    },
+    {
+      "id": "n67",
+      "type": "image",
+      "order": 66,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-writing.jpg&w=3840&q=75",
+      "alt": "TELC B2 Schreiben (Writing) Guide 2026: Complete Strategy & Model Answers"
+    },
+    {
+      "id": "n68",
+      "type": "heading",
+      "order": 67,
+      "level": 3,
+      "text": "Mastering the TELC B2 Schreiben (Writing) Section: Your Complete Guide"
+    },
+    {
+      "id": "n69",
+      "type": "paragraph",
+      "order": 68,
+      "text": "A comprehensive guide to conquering the TELC B2 Schriftlicher Ausdruck (Writing) exam with detailed breakdowns of both task types (Information Request and Complaint Letter), model answers, useful phrases, and proven strategies for exam success."
+    },
+    {
+      "id": "n70",
+      "type": "image",
+      "order": 69,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-listening.jpg&w=3840&q=75",
+      "alt": "TELC B2 Hörverstehen (Listening) Guide 2026: Complete Strategy & Pro Tips"
+    },
+    {
+      "id": "n71",
+      "type": "heading",
+      "order": 70,
+      "level": 3,
+      "text": "Mastering the TELC B2 Hörverstehen (Listening) Section: Your Complete Guide"
+    },
+    {
+      "id": "n72",
+      "type": "paragraph",
+      "order": 71,
+      "text": "A comprehensive guide to conquering the TELC B2 Hörverstehen (Listening) exam with detailed breakdowns of all 3 parts (Globalverstehen, Detailverstehen, Selektives Verstehen), proven strategies, and expert tips for understanding news reports, interviews, and announcements."
+    },
+    {
+      "id": "n73",
+      "type": "image",
+      "order": 72,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1-speaking.jpg&w=3840&q=75",
+      "alt": "TELC B1 Mündliche Prüfung (Speaking) Guide 2026: Complete Strategy & Sample Dialogues"
+    },
+    {
+      "id": "n74",
+      "type": "heading",
+      "order": 73,
+      "level": 3,
+      "text": "Mastering the TELC B1 Mündliche Prüfung (Speaking) Section: Your Complete Guide"
+    },
+    {
+      "id": "n75",
+      "type": "paragraph",
+      "order": 74,
+      "text": "A comprehensive guide to conquering the TELC B1 Mündliche Prüfung (Speaking) exam with detailed breakdowns of all 3 tasks (Kontaktaufnahme, Gespräch über ein Thema, Gemeinsam planen), sample dialogues, Redemittel, and proven strategies."
+    },
+    {
+      "id": "n76",
+      "type": "image",
+      "order": 75,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-speaking.jpg&w=3840&q=75",
+      "alt": "TELC B2 Sprechen (Speaking) Guide 2026: Complete Strategy & Sample Dialogues"
+    },
+    {
+      "id": "n77",
+      "type": "heading",
+      "order": 76,
+      "level": 3,
+      "text": "Mastering the TELC B2 Sprechen (Speaking): Complete Guide with Pro Tips"
+    },
+    {
+      "id": "n78",
+      "type": "paragraph",
+      "order": 77,
+      "text": "A comprehensive guide to conquering the TELC B2 Speaking exam with detailed breakdowns of all 3 tasks (Erfahrungen, Diskussion, Planung), sample dialogues, evaluation criteria, and proven strategies from successful test-takers."
+    },
+    {
+      "id": "n79",
+      "type": "image",
+      "order": 78,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-reading.jpg&w=3840&q=75",
+      "alt": "TELC B2 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy"
+    },
+    {
+      "id": "n80",
+      "type": "heading",
+      "order": 79,
+      "level": 3,
+      "text": "Mastering the TELC B2 Leseverstehen und Sprachbausteine: Complete Guide with Pro Tips"
+    },
+    {
+      "id": "n81",
+      "type": "paragraph",
+      "order": 80,
+      "text": "A comprehensive guide to conquering the TELC B2 Reading section with detailed breakdowns of all 5 task types (Leseverstehen 1-3, Sprachbausteine 1-2), proven strategies, time management tips, and common mistakes to avoid."
+    },
+    {
+      "id": "n82",
+      "type": "image",
+      "order": 81,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2.jpg&w=3840&q=75",
+      "alt": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy"
+    },
+    {
+      "id": "n83",
+      "type": "heading",
+      "order": 82,
+      "level": 3,
+      "text": "Acing the TELC B2 German Exam: Your Ultimate Guide to Format, Preparation, and Pro Tips"
+    },
+    {
+      "id": "n84",
+      "type": "paragraph",
+      "order": 83,
+      "text": "A comprehensive guide to conquering the TELC B2 exam with detailed breakdowns of each section (Leseverstehen, Hörverstehen, Schreiben, Sprechen), proven study strategies, and insider tips."
+    },
+    {
+      "id": "n85",
+      "type": "image",
+      "order": 84,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-hoeren.jpg&w=3840&q=75",
+      "alt": "Goethe & TELC A1 Hören (Listening) Guide: Strategies, Examples & Tips"
+    },
+    {
+      "id": "n86",
+      "type": "heading",
+      "order": 85,
+      "level": 3,
+      "text": "Mastering the Goethe/TELC A1 Hören (Listening) Section: Your Complete Guide"
+    },
+    {
+      "id": "n87",
+      "type": "paragraph",
+      "order": 86,
+      "text": "Learn to ace the A1 listening section with strategies for short dialogues, public announcements, and voicemail messages. Includes practice examples, common traps to avoid, and time management tips."
+    },
+    {
+      "id": "n88",
+      "type": "image",
+      "order": 87,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-lesen.jpg&w=3840&q=75",
+      "alt": "Goethe & TELC A1 Lesen (Reading) Guide: Strategies, Examples & Tips"
+    },
+    {
+      "id": "n89",
+      "type": "heading",
+      "order": 88,
+      "level": 3,
+      "text": "Mastering the Goethe/TELC A1 Lesen (Reading) Section: Your Complete Guide"
+    },
+    {
+      "id": "n90",
+      "type": "paragraph",
+      "order": 89,
+      "text": "Learn to ace the A1 reading section with strategies for emails, website matching, and sign comprehension. Includes practice examples, common traps to avoid, and time management tips."
+    },
+    {
+      "id": "n91",
+      "type": "image",
+      "order": 90,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image3.jpg&w=3840&q=75",
+      "alt": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips"
+    },
+    {
+      "id": "n92",
+      "type": "heading",
+      "order": 91,
+      "level": 3,
+      "text": "TELC vs. Goethe-Zertifikat: Which German Exam Should You Take? (A1–B2 Guide)"
+    },
+    {
+      "id": "n93",
+      "type": "paragraph",
+      "order": 92,
+      "text": "Compare TELC and Goethe-Zertifikat exams from A1 through B2. Understand formats, acceptance, difficulty, sample questions, and Prüfungstraining tips before you book your German exam."
+    },
+    {
+      "id": "n94",
+      "type": "image",
+      "order": 93,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-speaking.jpg&w=3840&q=75",
+      "alt": "Goethe & TELC A1 Sprechen (Speaking) Guide: Sample Dialogues, Tips, and Vocabulary"
+    },
+    {
+      "id": "n95",
+      "type": "heading",
+      "order": 94,
+      "level": 3,
+      "text": "Mastering the Goethe/TELC A1 Sprechen (Speaking) Section: Your Complete Guide"
+    },
+    {
+      "id": "n96",
+      "type": "paragraph",
+      "order": 95,
+      "text": "Learn the three speaking tasks in detail, with sample introductions, card-based dialogues, vocabulary banks, and polite request templates for Goethe & TELC A1."
+    },
+    {
+      "id": "n97",
+      "type": "image",
+      "order": 96,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image2.jpg&w=3840&q=75",
+      "alt": "Goethe & TELC A1 Schreiben (Writing) Guide: Templates, Tips, and Strategy"
+    },
+    {
+      "id": "n98",
+      "type": "heading",
+      "order": 97,
+      "level": 3,
+      "text": "Mastering the Goethe/TELC A1 Schreiben (Writing) Section: Your Complete Guide"
+    },
+    {
+      "id": "n99",
+      "type": "paragraph",
+      "order": 98,
+      "text": "Step-by-step strategies, templates, and exam-day checklists to help you write confident formal and informal letters for Goethe and TELC A1."
+    },
+    {
+      "id": "n100",
+      "type": "image",
+      "order": 99,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image1.jpg&w=3840&q=75",
+      "alt": "Goethe A1 German Exam Guide 2026: Complete Preparation Strategy"
+    },
+    {
+      "id": "n101",
+      "type": "heading",
+      "order": 100,
+      "level": 3,
+      "text": "Acing the Goethe A1 German Exam: Your Ultimate Guide to Format, Preparation, and Pro Tips"
+    },
+    {
+      "id": "n102",
+      "type": "paragraph",
+      "order": 101,
+      "text": "A comprehensive guide to conquering the Goethe A1 exam with detailed breakdowns of each section, proven study strategies, and insider tips from successful test-takers."
+    },
+    {
+      "id": "n103",
+      "type": "heading",
+      "order": 102,
+      "level": 2,
+      "text": "Browse by focus area"
+    },
+    {
+      "id": "n104",
+      "type": "paragraph",
+      "order": 103,
+      "text": "Pick the exam skill you want to sharpen and explore guides curated for that goal."
+    },
+    {
+      "id": "n105",
+      "type": "heading",
+      "order": 104,
+      "level": 3,
+      "text": "Exam Guides"
+    },
+    {
+      "id": "n106",
+      "type": "paragraph",
+      "order": 105,
+      "text": "Deep dives into exam formats, scoring, and preparation timelines."
+    },
+    {
+      "id": "n107",
+      "type": "heading",
+      "order": 106,
+      "level": 3,
+      "text": "Study Tips"
+    },
+    {
+      "id": "n108",
+      "type": "paragraph",
+      "order": 107,
+      "text": "Productivity frameworks and daily study routines from top scorers."
+    },
+    {
+      "id": "n109",
+      "type": "heading",
+      "order": 108,
+      "level": 3,
+      "text": "Speaking Skills"
+    },
+    {
+      "id": "n110",
+      "type": "paragraph",
+      "order": 109,
+      "text": "Role-play scripts, vocabulary banks, and pronunciation cues."
+    },
+    {
+      "id": "n111",
+      "type": "heading",
+      "order": 110,
+      "level": 3,
+      "text": "Schreiben (Writing) Skills"
+    },
+    {
+      "id": "n112",
+      "type": "paragraph",
+      "order": 111,
+      "text": "Focused preparation resources for schreiben (writing) skills."
+    },
+    {
+      "id": "n113",
+      "type": "heading",
+      "order": 112,
+      "level": 3,
+      "text": "Lesen (Reading) Skills"
+    },
+    {
+      "id": "n114",
+      "type": "paragraph",
+      "order": 113,
+      "text": "Focused preparation resources for lesen (reading) skills."
+    },
+    {
+      "id": "n115",
+      "type": "heading",
+      "order": 114,
+      "level": 3,
+      "text": "Sprechen (Speaking) Skills"
+    },
+    {
+      "id": "n116",
+      "type": "paragraph",
+      "order": 115,
+      "text": "Focused preparation resources for sprechen (speaking) skills."
+    },
+    {
+      "id": "n117",
+      "type": "heading",
+      "order": 116,
+      "level": 3,
+      "text": "Hören (Listening) Skills"
+    },
+    {
+      "id": "n118",
+      "type": "paragraph",
+      "order": 117,
+      "text": "Focused preparation resources for hören (listening) skills."
+    },
+    {
+      "id": "n119",
+      "type": "heading",
+      "order": 118,
+      "level": 2,
+      "text": "Popular keywords"
+    },
+    {
+      "id": "n120",
+      "type": "paragraph",
+      "order": 119,
+      "text": "Jump into topics fellow learners are searching for right now."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775813609224_image.jpeg",
+        "alt": "German language levels explained: ace A1-B2 exams confidently"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775729086694_Student-reviewing-German-exam-materials-at-kitchen-table.jpeg",
+        "alt": "What CEFR levels mean in German exams: guide for students"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775650327126_Student-studying-German-with-textbook-at-table.jpeg",
+        "alt": "What is B2 level German? Skills, uses, and exam insights"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775547069440_image.jpeg",
+        "alt": "Goethe exam explained: skills, levels & success strategies"
+      },
+      {
+        "id": "img5",
+        "type": "image",
+        "order": 4,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775459109533_image.jpeg",
+        "alt": "A1 exam study guide: ace your German test step by step"
+      },
+      {
+        "id": "img6",
+        "type": "image",
+        "order": 5,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775375631051_Student-studies-German-grammar-at-kitchen-table.jpeg",
+        "alt": "German grammar tests: key differences and prep tips"
+      },
+      {
+        "id": "img7",
+        "type": "image",
+        "order": 6,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775286506226_Adult-students-in-German-integration-class.jpeg",
+        "alt": "What is the German integration course? Full guide for newcomers"
+      },
+      {
+        "id": "img8",
+        "type": "image",
+        "order": 7,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775216171794_Man-studying-German-for-immigration-at-home.jpeg",
+        "alt": "German tests for immigration: levels, requirements, prep"
+      },
+      {
+        "id": "img9",
+        "type": "image",
+        "order": 8,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775117001733_Young-woman-checks-German-exam-certificate-at-home.jpeg",
+        "alt": "Certifying German skills: unlock study, work & immigration"
+      },
+      {
+        "id": "img10",
+        "type": "image",
+        "order": 9,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1775040010496_Student-practicing-German-speaking-in-cafe.jpeg",
+        "alt": "How to improve German speaking for exam success"
+      },
+      {
+        "id": "img11",
+        "type": "image",
+        "order": 10,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774952358750_Student-preparing-for-German-exam-at-desk.jpeg",
+        "alt": "German mock tests: ace your GOETHE & TELC exams in 2026"
+      },
+      {
+        "id": "img12",
+        "type": "image",
+        "order": 11,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774855626973_Student-practicing-German-certificate-exam-at-desk.jpeg",
+        "alt": "Academic German certificates: Guide to language credentials"
+      },
+      {
+        "id": "img13",
+        "type": "image",
+        "order": 12,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774771673451_Woman-studying-TELC-German-at-kitchen-table.jpeg",
+        "alt": "How to pass the TELC German test: Proven strategies"
+      },
+      {
+        "id": "img14",
+        "type": "image",
+        "order": 13,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774681176603_Woman-studying-DTZ-exam-with-notes-at-kitchen-table.jpeg",
+        "alt": "How to pass the DTZ exam: Proven strategies and guide"
+      },
+      {
+        "id": "img15",
+        "type": "image",
+        "order": 14,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774453745041_Woman-studying-German-exam-questions-at-table.jpeg",
+        "alt": "Master German language questions with practical examples"
+      },
+      {
+        "id": "img16",
+        "type": "image",
+        "order": 15,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291186755_Student-actively-studying-German-vocabulary-at-desk.jpeg",
+        "alt": "How to build German vocabulary for exam success"
+      },
+      {
+        "id": "img17",
+        "type": "image",
+        "order": 16,
+        "src": "https://csuxjmfbwmkxiegfpljm.supabase.co/storage/v1/object/public/blog-images/organization-5896/1774291298391_Woman-filling-out-language-certificate-form-at-cluttered-kitchen-table.jpeg",
+        "alt": "What is a language certificate: German exams A1 to B2"
+      },
+      {
+        "id": "img18",
+        "type": "image",
+        "order": 17,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1-writing.jpg&w=3840&q=75",
+        "alt": "TELC B1 Schreiben (Writing) Guide 2026: Complete Strategy & Model Answers"
+      },
+      {
+        "id": "img19",
+        "type": "image",
+        "order": 18,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1-reading.jpg&w=3840&q=75",
+        "alt": "TELC B1 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy"
+      },
+      {
+        "id": "img20",
+        "type": "image",
+        "order": 19,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1.jpg&w=3840&q=75",
+        "alt": "TELC B1 German Exam Guide 2026: Complete Preparation Strategy"
+      },
+      {
+        "id": "img21",
+        "type": "image",
+        "order": 20,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-writing.jpg&w=3840&q=75",
+        "alt": "TELC B2 Schreiben (Writing) Guide 2026: Complete Strategy & Model Answers"
+      },
+      {
+        "id": "img22",
+        "type": "image",
+        "order": 21,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-listening.jpg&w=3840&q=75",
+        "alt": "TELC B2 Hörverstehen (Listening) Guide 2026: Complete Strategy & Pro Tips"
+      },
+      {
+        "id": "img23",
+        "type": "image",
+        "order": 22,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b1-speaking.jpg&w=3840&q=75",
+        "alt": "TELC B1 Mündliche Prüfung (Speaking) Guide 2026: Complete Strategy & Sample Dialogues"
+      },
+      {
+        "id": "img24",
+        "type": "image",
+        "order": 23,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-speaking.jpg&w=3840&q=75",
+        "alt": "TELC B2 Sprechen (Speaking) Guide 2026: Complete Strategy & Sample Dialogues"
+      },
+      {
+        "id": "img25",
+        "type": "image",
+        "order": 24,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2-reading.jpg&w=3840&q=75",
+        "alt": "TELC B2 Leseverstehen & Sprachbausteine Guide 2026: Complete Strategy"
+      },
+      {
+        "id": "img26",
+        "type": "image",
+        "order": 25,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-telc-b2.jpg&w=3840&q=75",
+        "alt": "TELC B2 German Exam Guide 2026: Complete Preparation Strategy"
+      },
+      {
+        "id": "img27",
+        "type": "image",
+        "order": 26,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-hoeren.jpg&w=3840&q=75",
+        "alt": "Goethe & TELC A1 Hören (Listening) Guide: Strategies, Examples & Tips"
+      },
+      {
+        "id": "img28",
+        "type": "image",
+        "order": 27,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-lesen.jpg&w=3840&q=75",
+        "alt": "Goethe & TELC A1 Lesen (Reading) Guide: Strategies, Examples & Tips"
+      },
+      {
+        "id": "img29",
+        "type": "image",
+        "order": 28,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image3.jpg&w=3840&q=75",
+        "alt": "TELC vs Goethe-Zertifikat – A1/A2/B1/B2 German Exam Comparison & Prüfungstraining Tips"
+      },
+      {
+        "id": "img30",
+        "type": "image",
+        "order": 29,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image-speaking.jpg&w=3840&q=75",
+        "alt": "Goethe & TELC A1 Sprechen (Speaking) Guide: Sample Dialogues, Tips, and Vocabulary"
+      },
+      {
+        "id": "img31",
+        "type": "image",
+        "order": 30,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image2.jpg&w=3840&q=75",
+        "alt": "Goethe & TELC A1 Schreiben (Writing) Guide: Templates, Tips, and Strategy"
+      },
+      {
+        "id": "img32",
+        "type": "image",
+        "order": 31,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fblog%2Fimages%2Fblog-image1.jpg&w=3840&q=75",
+        "alt": "Goethe A1 German Exam Guide 2026: Complete Preparation Strategy"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk33",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/blog#all-guides",
+        "text": "Browse all guides",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk34",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/blog#categories",
+        "text": "Explore by category",
+        "kind": "anchor"
+      },
+      {
+        "id": "lnk35",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/blog/german-language-levels-explained-ace-a1-b2-exams",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk36",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/blog/cefr-levels-german-exams-guide-students",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk37",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/goethe/a1",
+        "text": "Jump to practice sets",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk38",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/blog/what-is-b2-level-german-skills-uses-exam-insights",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk39",
+        "type": "link",
+        "order": 6,
+        "href": "https://deutsch-pruefung.de/blog/goethe-exam-explained-skills-levels-success-strategies",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk40",
+        "type": "link",
+        "order": 7,
+        "href": "https://deutsch-pruefung.de/blog/a1-exam-study-guide-ace-german-test-step-by-step",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk41",
+        "type": "link",
+        "order": 8,
+        "href": "https://deutsch-pruefung.de/blog/german-grammar-tests-key-differences-prep-tips",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk42",
+        "type": "link",
+        "order": 9,
+        "href": "https://deutsch-pruefung.de/blog/german-integration-course-guide-for-newcomers",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk43",
+        "type": "link",
+        "order": 10,
+        "href": "https://deutsch-pruefung.de/blog/german-tests-immigration-levels-requirements-prep",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk44",
+        "type": "link",
+        "order": 11,
+        "href": "https://deutsch-pruefung.de/blog/certifying-german-language-skills-study-work-immigration",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk45",
+        "type": "link",
+        "order": 12,
+        "href": "https://deutsch-pruefung.de/blog/improve-german-speaking-exam-success-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk46",
+        "type": "link",
+        "order": 13,
+        "href": "https://deutsch-pruefung.de/blog/german-mock-tests-goethe-telc-exam-preparation",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk47",
+        "type": "link",
+        "order": 14,
+        "href": "https://deutsch-pruefung.de/blog/academic-german-certificates-guide-language-credentials",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk48",
+        "type": "link",
+        "order": 15,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-telc-german-test-proven-strategies",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk49",
+        "type": "link",
+        "order": 16,
+        "href": "https://deutsch-pruefung.de/blog/how-to-pass-dtz-exam-proven-strategies-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk50",
+        "type": "link",
+        "order": 17,
+        "href": "https://deutsch-pruefung.de/blog/master-german-language-questions-with-practical-examples",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk51",
+        "type": "link",
+        "order": 18,
+        "href": "https://deutsch-pruefung.de/blog/build-german-vocabulary-exam-success",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk52",
+        "type": "link",
+        "order": 19,
+        "href": "https://deutsch-pruefung.de/blog/what-is-language-certificate-german-exams-a1-b2",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk53",
+        "type": "link",
+        "order": 20,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-writing-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk54",
+        "type": "link",
+        "order": 21,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-reading-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk55",
+        "type": "link",
+        "order": 22,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-ultimate-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk56",
+        "type": "link",
+        "order": 23,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-writing-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk57",
+        "type": "link",
+        "order": 24,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-listening-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk58",
+        "type": "link",
+        "order": 25,
+        "href": "https://deutsch-pruefung.de/blog/telc-b1-speaking-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk59",
+        "type": "link",
+        "order": 26,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-speaking-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk60",
+        "type": "link",
+        "order": 27,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-reading-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk61",
+        "type": "link",
+        "order": 28,
+        "href": "https://deutsch-pruefung.de/blog/telc-b2-ultimate-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk62",
+        "type": "link",
+        "order": 29,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-listening-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk63",
+        "type": "link",
+        "order": 30,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-reading-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk64",
+        "type": "link",
+        "order": 31,
+        "href": "https://deutsch-pruefung.de/blog/telc-vs-goethe-exam-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk65",
+        "type": "link",
+        "order": 32,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-speaking-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk66",
+        "type": "link",
+        "order": 33,
+        "href": "https://deutsch-pruefung.de/blog/goethe-telc-a1-writing-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk67",
+        "type": "link",
+        "order": 34,
+        "href": "https://deutsch-pruefung.de/blog/goethe-a1-ultimate-guide",
+        "text": "Read guide",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk68",
+        "type": "link",
+        "order": 35,
+        "href": "https://deutsch-pruefung.de/blog?category=Exam%20Guides",
+        "text": "Exam Guides14 guidesDeep dives into exam formats, scoring, and preparation timelines.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk69",
+        "type": "link",
+        "order": 36,
+        "href": "https://deutsch-pruefung.de/blog?category=Study%20Tips",
+        "text": "Study Tips4 guidesProductivity frameworks and daily study routines from top scorers.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk70",
+        "type": "link",
+        "order": 37,
+        "href": "https://deutsch-pruefung.de/blog?category=Speaking%20Skills",
+        "text": "Speaking Skills3 guidesRole-play scripts, vocabulary banks, and pronunciation cues.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk71",
+        "type": "link",
+        "order": 38,
+        "href": "https://deutsch-pruefung.de/blog?category=Schreiben%20(Writing)%20Skills",
+        "text": "Schreiben (Writing) Skills3 guidesFocused preparation resources for schreiben (writing) skills.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk72",
+        "type": "link",
+        "order": 39,
+        "href": "https://deutsch-pruefung.de/blog?category=Lesen%20(Reading)%20Skills",
+        "text": "Lesen (Reading) Skills3 guidesFocused preparation resources for lesen (reading) skills.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk73",
+        "type": "link",
+        "order": 40,
+        "href": "https://deutsch-pruefung.de/blog?category=Sprechen%20(Speaking)%20Skills",
+        "text": "Sprechen (Speaking) Skills3 guidesFocused preparation resources for sprechen (speaking) skills.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk74",
+        "type": "link",
+        "order": 41,
+        "href": "https://deutsch-pruefung.de/blog?category=H%C3%B6ren%20(Listening)%20Skills",
+        "text": "Hören (Listening) Skills2 guidesFocused preparation resources for hören (listening) skills.",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk75",
+        "type": "link",
+        "order": 42,
+        "href": "https://deutsch-pruefung.de/blog?tag=understanding%20german%20language%20skills%20levels",
+        "text": "#understanding german language skills levels",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk76",
+        "type": "link",
+        "order": 43,
+        "href": "https://deutsch-pruefung.de/blog?tag=how%20to%20assess%20German%20skills",
+        "text": "#how to assess German skills",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk77",
+        "type": "link",
+        "order": 44,
+        "href": "https://deutsch-pruefung.de/blog?tag=levels%20of%20German%20language%20fluency",
+        "text": "#levels of German language fluency",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk78",
+        "type": "link",
+        "order": 45,
+        "href": "https://deutsch-pruefung.de/blog?tag=understanding%20German%20language%20tiers",
+        "text": "#understanding German language tiers",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk79",
+        "type": "link",
+        "order": 46,
+        "href": "https://deutsch-pruefung.de/blog?tag=criteria%20for%20German%20language%20skills",
+        "text": "#criteria for German language skills",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk80",
+        "type": "link",
+        "order": 47,
+        "href": "https://deutsch-pruefung.de/blog?tag=German%20language%20skill%20assessment",
+        "text": "#German language skill assessment",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk81",
+        "type": "link",
+        "order": 48,
+        "href": "https://deutsch-pruefung.de/blog?tag=what%20are%20German%20language%20levels",
+        "text": "#what are German language levels",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk82",
+        "type": "link",
+        "order": 49,
+        "href": "https://deutsch-pruefung.de/blog?tag=what%20is%20cefr%20level%20in%20german%20exams",
+        "text": "#what is cefr level in german exams",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk83",
+        "type": "link",
+        "order": 50,
+        "href": "https://deutsch-pruefung.de/blog?tag=CEFR%20levels%20explained",
+        "text": "#CEFR levels explained",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk84",
+        "type": "link",
+        "order": 51,
+        "href": "https://deutsch-pruefung.de/blog?tag=German%20exam%20levels",
+        "text": "#German exam levels",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 44,
+      "paragraphs": 43,
+      "lists": 1,
+      "tables": 0,
+      "images": 32,
+      "figures": 0,
+      "media": 0,
+      "links": 52,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

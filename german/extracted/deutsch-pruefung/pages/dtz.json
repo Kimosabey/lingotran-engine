@@ -1,0 +1,606 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/dtz",
+    "canonicalUrl": "https://deutsch-pruefung.de/dtz",
+    "site": "deutsch-pruefung.de",
+    "slug": "dtz",
+    "sourceType": "web",
+    "title": "DTZ - Deutsch-Test für Zuwanderer (A2-B1) Practice | Deutsch Prüfung",
+    "description": "Prepare for the Deutsch-Test für Zuwanderer (DTZ) - the official final exam of the German Integration Course. Practice Hören, Lesen, Schreiben, and Sprechen sections with exam-style questions.",
+    "lang": "en",
+    "exam": "dtz",
+    "level": "unknown",
+    "contentType": [
+      "exam-overview"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Prepare for the Deutsch-Test für Zuwanderer (DTZ) - the official final exam of the German Integration Course. Practice Hören, Lesen, Schreiben, and Sprechen sections with exam-style questions.",
+      "author": "German Exam Practice",
+      "og:title": "DTZ - Deutsch-Test für Zuwanderer Practice",
+      "og:description": "Practice for the official German Integration Course final exam (DTZ). Covers A2-B1 level with Hören, Lesen, Schreiben, and Sprechen sections.",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Deutsch Prüfung - TELC & Goethe Preparation",
+      "twitter:description": "Prepare for TELC and Goethe German exams with structured practice for A1-B2 plus TELC C1, AI writing feedback, and comprehensive study guides.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Deutsch%20Pr%C3%BCfung&subtitle=TELC%20%26%20Goethe%20Certificate%20Preparation&type=home",
+      "sentry-trace": "60cda83437f640172b0516f8dea4bf84-261a52cb5ced4188-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=60cda83437f640172b0516f8dea4bf84,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.6080217873796077,sentry-sample_rate=0.2"
+    },
+    "wordCount": 763,
+    "fetchedAt": "2026-07-21T08:27:27.944Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 1,
+      "text": "DTZ - Deutsch-Test für Zuwanderer Practice"
+    },
+    {
+      "id": "n2",
+      "type": "paragraph",
+      "order": 1,
+      "text": "Select a section to practice for the official Integration Course final exam (A2-B1 level)."
+    },
+    {
+      "id": "n3",
+      "type": "heading",
+      "order": 2,
+      "level": 2,
+      "text": "Choose Your Practice Section"
+    },
+    {
+      "id": "n4",
+      "type": "paragraph",
+      "order": 3,
+      "text": "Select the exam section for DTZ (A2-B1) practice"
+    },
+    {
+      "id": "n5",
+      "type": "image",
+      "order": 4,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+      "alt": "Hören (Listening) illustration"
+    },
+    {
+      "id": "n6",
+      "type": "heading",
+      "order": 5,
+      "level": 3,
+      "text": "Hören (Listening)"
+    },
+    {
+      "id": "n7",
+      "type": "paragraph",
+      "order": 6,
+      "text": "Understand telephone announcements, media information, everyday conversations, and different opinions."
+    },
+    {
+      "id": "n8",
+      "type": "image",
+      "order": 7,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+      "alt": "Lesen (Reading) illustration"
+    },
+    {
+      "id": "n9",
+      "type": "heading",
+      "order": 8,
+      "level": 3,
+      "text": "Lesen (Reading)"
+    },
+    {
+      "id": "n10",
+      "type": "paragraph",
+      "order": 9,
+      "text": "Read catalogs, advertisements, press texts, brochures, and complete letter gap-fills."
+    },
+    {
+      "id": "n11",
+      "type": "image",
+      "order": 10,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+      "alt": "Schreiben (Writing) illustration"
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 3,
+      "text": "Schreiben (Writing)"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Write semi-formal and formal messages for everyday communication situations."
+    },
+    {
+      "id": "n14",
+      "type": "image",
+      "order": 13,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+      "alt": "Sprechen (Speaking) illustration"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 3,
+      "text": "Sprechen (Speaking)"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Introduce yourself, talk about experiences, and plan activities together with a partner."
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "DTZ Exam Structure (A2-B1)"
+    },
+    {
+      "id": "n18",
+      "type": "heading",
+      "order": 17,
+      "level": 4,
+      "text": "Schriftliche Prüfung (Written) - 100 Min."
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 4,
+      "text": "Mündliche Prüfung (Oral) - 16 Min."
+    },
+    {
+      "id": "n20",
+      "type": "heading",
+      "order": 19,
+      "level": 4,
+      "text": "Certificate Levels"
+    },
+    {
+      "id": "n21",
+      "type": "paragraph",
+      "order": 20,
+      "text": "DTZ exam guide"
+    },
+    {
+      "id": "n22",
+      "type": "heading",
+      "order": 21,
+      "level": 2,
+      "text": "Deutsch-Test für Zuwanderer A2-B1 Preparation"
+    },
+    {
+      "id": "n23",
+      "type": "paragraph",
+      "order": 22,
+      "text": "DTZ is designed for practical German in Germany. It focuses on communication you need for everyday life, work, authorities, education, housing, health, and integration-course completion."
+    },
+    {
+      "id": "n24",
+      "type": "heading",
+      "order": 23,
+      "level": 3,
+      "text": "Official exam facts"
+    },
+    {
+      "id": "n25",
+      "type": "list",
+      "order": 24,
+      "ordered": false,
+      "items": [
+        {
+          "text": "The Deutsch-Test für Zuwanderer is a standardized German exam for CEFR levels A2 and B1."
+        },
+        {
+          "text": "It is the final language test of the integration course and checks German for everyday life in Germany."
+        },
+        {
+          "text": "The written exam lasts 100 minutes: listening about 25 minutes, reading 45 minutes, and writing 30 minutes."
+        },
+        {
+          "text": "The speaking exam is separate and tests everyday interaction, short monologue tasks, and planning together."
+        }
+      ]
+    },
+    {
+      "id": "n26",
+      "type": "heading",
+      "order": 25,
+      "level": 3,
+      "text": "What is DTZ useful for?"
+    },
+    {
+      "id": "n27",
+      "type": "heading",
+      "order": 26,
+      "level": 4,
+      "text": "Integration course completion"
+    },
+    {
+      "id": "n28",
+      "type": "paragraph",
+      "order": 27,
+      "text": "DTZ is the language-test part of the integration course final examination. Together with the Leben in Deutschland test, it can lead to the Integration Course Certificate."
+    },
+    {
+      "id": "n29",
+      "type": "heading",
+      "order": 28,
+      "level": 4,
+      "text": "Residence and official procedures"
+    },
+    {
+      "id": "n30",
+      "type": "paragraph",
+      "order": 29,
+      "text": "A B1 result in DTZ can be relevant when an authority asks for sufficient German language skills or an Integration Course Certificate. Always check the current rule with the local authority before booking."
+    },
+    {
+      "id": "n31",
+      "type": "heading",
+      "order": 30,
+      "level": 4,
+      "text": "Daily life and work in Germany"
+    },
+    {
+      "id": "n32",
+      "type": "paragraph",
+      "order": 31,
+      "text": "The exam topics are built around practical situations in Germany, including authorities, housing, education, work, health, services, and everyday communication."
+    },
+    {
+      "id": "n33",
+      "type": "heading",
+      "order": 32,
+      "level": 4,
+      "text": "Not a university admission exam"
+    },
+    {
+      "id": "n34",
+      "type": "paragraph",
+      "order": 33,
+      "text": "DTZ is not usually the target exam for German-taught university admission. Universities often request TestDaF, DSH, telc Deutsch C1 Hochschule, Goethe C1/C2, or another listed proof."
+    },
+    {
+      "id": "n35",
+      "type": "heading",
+      "order": 34,
+      "level": 3,
+      "text": "How to prepare by section"
+    },
+    {
+      "id": "n36",
+      "type": "heading",
+      "order": 35,
+      "level": 4,
+      "text": "Hören"
+    },
+    {
+      "id": "n37",
+      "type": "paragraph",
+      "order": 36,
+      "text": "Listening practice"
+    },
+    {
+      "id": "n38",
+      "type": "paragraph",
+      "order": 37,
+      "text": "Train everyday spoken texts such as announcements, telephone messages, conversations, instructions, and practical public information."
+    },
+    {
+      "id": "n39",
+      "type": "heading",
+      "order": 38,
+      "level": 4,
+      "text": "Lesen"
+    },
+    {
+      "id": "n40",
+      "type": "paragraph",
+      "order": 39,
+      "text": "Reading practice"
+    },
+    {
+      "id": "n41",
+      "type": "paragraph",
+      "order": 40,
+      "text": "Practise signs, notices, ads, work schedules, school messages, product information, instructions, and short formal or informal communication."
+    },
+    {
+      "id": "n42",
+      "type": "heading",
+      "order": 41,
+      "level": 4,
+      "text": "Schreiben"
+    },
+    {
+      "id": "n43",
+      "type": "paragraph",
+      "order": 42,
+      "text": "Writing practice"
+    },
+    {
+      "id": "n44",
+      "type": "paragraph",
+      "order": 43,
+      "text": "Write practical letters or emails with a clear greeting, all required content points, suitable tone, and a closing."
+    },
+    {
+      "id": "n45",
+      "type": "heading",
+      "order": 44,
+      "level": 4,
+      "text": "Sprechen"
+    },
+    {
+      "id": "n46",
+      "type": "paragraph",
+      "order": 45,
+      "text": "Speaking practice"
+    },
+    {
+      "id": "n47",
+      "type": "paragraph",
+      "order": 46,
+      "text": "Prepare self-introduction, talking about experiences, answering follow-up questions, and planning something together without preparation time."
+    },
+    {
+      "id": "n48",
+      "type": "heading",
+      "order": 47,
+      "level": 3,
+      "text": "How the A2-B1 result works"
+    },
+    {
+      "id": "n49",
+      "type": "heading",
+      "order": 48,
+      "level": 4,
+      "text": "A2 or B1 certificate"
+    },
+    {
+      "id": "n50",
+      "type": "paragraph",
+      "order": 49,
+      "text": "DTZ is a scaled exam. Depending on your results, the certificate can confirm A2 or B1 German skills."
+    },
+    {
+      "id": "n51",
+      "type": "heading",
+      "order": 50,
+      "level": 4,
+      "text": "Speaking is essential"
+    },
+    {
+      "id": "n52",
+      "type": "paragraph",
+      "order": 51,
+      "text": "For a B1 certificate, you need B1 in speaking and B1 in at least one written result area: Hören/Lesen or Schreiben."
+    },
+    {
+      "id": "n53",
+      "type": "heading",
+      "order": 52,
+      "level": 4,
+      "text": "Separate skill results"
+    },
+    {
+      "id": "n54",
+      "type": "paragraph",
+      "order": 53,
+      "text": "The results are determined separately for Hören/Lesen, Schreiben, and Sprechen, so weak and strong areas are visible."
+    },
+    {
+      "id": "n55",
+      "type": "heading",
+      "order": 54,
+      "level": 4,
+      "text": "Practical communication matters"
+    },
+    {
+      "id": "n56",
+      "type": "paragraph",
+      "order": 55,
+      "text": "DTZ rewards communication that works in real-life situations: clear answers, task completion, understandable grammar, and appropriate vocabulary."
+    },
+    {
+      "id": "n57",
+      "type": "heading",
+      "order": 56,
+      "level": 3,
+      "text": "What to practise first"
+    },
+    {
+      "id": "n58",
+      "type": "list",
+      "order": 57,
+      "ordered": false,
+      "items": [
+        {
+          "text": "Speaking: self-introduction, describing experiences, answering follow-up questions, and planning with another person."
+        },
+        {
+          "text": "Writing: practical letters or emails with greeting, clear content points, appropriate tone, and closing."
+        },
+        {
+          "text": "Listening and reading: everyday texts, public information, appointments, work, school, housing, health, and authorities."
+        }
+      ]
+    },
+    {
+      "id": "n59",
+      "type": "heading",
+      "order": 58,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n60",
+      "type": "paragraph",
+      "order": 59,
+      "text": "Everything you need to know about the exam!"
+    },
+    {
+      "id": "n61",
+      "type": "paragraph",
+      "order": 60,
+      "text": "DTZ means Deutsch-Test für Zuwanderer. It is a standardized A2-B1 German exam developed for immigrants and used as the final language test in integration courses."
+    },
+    {
+      "id": "n62",
+      "type": "paragraph",
+      "order": 61,
+      "text": "Yes. DTZ can produce an A2 or B1 certificate. For B1, speaking must be B1 and at least one written result area, Hören/Lesen or Schreiben, must also be B1."
+    },
+    {
+      "id": "n63",
+      "type": "paragraph",
+      "order": 62,
+      "text": "It can be relevant when an authority asks for B1 German or an integration course certificate. Requirements can change, so check the current rule with your local authority."
+    },
+    {
+      "id": "n64",
+      "type": "paragraph",
+      "order": 63,
+      "text": "DTZ test centers are BAMF-authorized integration-course providers. If you are not already in an integration course, ask BAMF or an authorized provider which booking route applies before assuming you can book it like a regular private certificate exam."
+    },
+    {
+      "id": "n65",
+      "type": "paragraph",
+      "order": 64,
+      "text": "Usually no. DTZ is aimed at integration and everyday German. German-taught universities normally list specific academic language proofs such as TestDaF, DSH, telc C1 Hochschule, or Goethe C1/C2."
+    },
+    {
+      "id": "n66",
+      "type": "paragraph",
+      "order": 65,
+      "text": "Speaking is especially important because the target level must be reached there. Also practise writing and Hören/Lesen so at least one written result area reaches your target level."
+    },
+    {
+      "id": "n67",
+      "type": "paragraph",
+      "order": 66,
+      "text": "Last reviewed: May 2026. Deutsch Pruefung is independent preparation material. For official registration, authorized test centers, certificate rules, or authority acceptance, check g.a.s.t., BAMF, and the institution requesting your German certificate."
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Flistening.webp&w=384&q=75",
+        "alt": "Hören (Listening) illustration"
+      },
+      {
+        "id": "img2",
+        "type": "image",
+        "order": 1,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Freading.webp&w=384&q=75",
+        "alt": "Lesen (Reading) illustration"
+      },
+      {
+        "id": "img3",
+        "type": "image",
+        "order": 2,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fwriting.webp&w=384&q=75",
+        "alt": "Schreiben (Writing) illustration"
+      },
+      {
+        "id": "img4",
+        "type": "image",
+        "order": 3,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Flevel-assets%2Fspeaking.webp&w=384&q=75",
+        "alt": "Sprechen (Speaking) illustration"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/dtz/hoeren",
+        "text": "DTZ Hören practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/dtz/lesen",
+        "text": "DTZ Lesen practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk8",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/dtz/schreiben",
+        "text": "DTZ Schreiben practice",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk9",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/dtz/sprechen",
+        "text": "DTZ Sprechen practice",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 29,
+      "paragraphs": 32,
+      "lists": 2,
+      "tables": 0,
+      "images": 4,
+      "figures": 0,
+      "media": 0,
+      "links": 5,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

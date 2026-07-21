@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/goethe/b1/schreiben",
+    "canonicalUrl": "https://deutsch-pruefung.de/goethe/b1/schreiben",
+    "site": "deutsch-pruefung.de",
+    "slug": "goethe--b1--schreiben",
+    "sourceType": "web",
+    "title": "Goethe German B1 Schreiben (Writing) Practice Overview",
+    "description": "Overview of parts with tips and links to start writing practice. Prepare for Goethe German B1 schreiben (writing) section.",
+    "lang": "en",
+    "exam": "goethe",
+    "level": "B1",
+    "section": "schreiben",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start writing practice. Prepare for Goethe German B1 schreiben (writing) section.",
+      "author": "German Exam Practice",
+      "og:title": "Goethe German B1 Schreiben (Writing) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start writing practice. Prepare for Goethe German B1 schreiben (writing) section.",
+      "og:url": "https://deutsch-pruefung.de/goethe/b1/schreiben",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20B1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=goethe&level=b1&section=schreiben",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "Goethe German B1 Schreiben (Writing) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "Goethe German B1 Schreiben (Writing) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start writing practice. Prepare for Goethe German B1 schreiben (writing) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=Goethe%20B1%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=goethe&level=b1&section=schreiben",
+      "sentry-trace": "4a3c979daa525042ea2a186297e1b9af-674b394ae3938519-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=4a3c979daa525042ea2a186297e1b9af,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.5904405018891683,sentry-sample_rate=0.2"
+    },
+    "wordCount": 145,
+    "fetchedAt": "2026-07-21T08:30:05.244Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The Goethe B1 writing module lasts 60 minutes in total and contains three tasks. Each Teil focuses on a different type of real-world interaction, mirroring the official exam structure."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Contact & Interaction"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Write a personal message that maintains or rebuilds contact"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Include a description, a reason, and a polite suggestion"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Expressing an Opinion"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Share your personal opinion on a given topic"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Support your view with explanations, comparisons, or examples"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 4,
+      "text": "Teil 3: Regulating a Situation"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "• React to an everyday situation that requires coordination"
+    },
+    {
+      "id": "n12",
+      "type": "paragraph",
+      "order": 11,
+      "text": "• Apologise, ask for something, or make a concrete request"
+    },
+    {
+      "id": "n13",
+      "type": "heading",
+      "order": 12,
+      "level": 3,
+      "text": "Teil 1 - Contact & Interaction"
+    },
+    {
+      "id": "n14",
+      "type": "paragraph",
+      "order": 13,
+      "text": "Goal: Contact & Interaction"
+    },
+    {
+      "id": "n15",
+      "type": "heading",
+      "order": 14,
+      "level": 3,
+      "text": "Teil 2 - Expressing an Opinion"
+    },
+    {
+      "id": "n16",
+      "type": "paragraph",
+      "order": 15,
+      "text": "Goal: Expressing an Opinion"
+    },
+    {
+      "id": "n17",
+      "type": "heading",
+      "order": 16,
+      "level": 3,
+      "text": "Teil 3 - Regulating a Situation"
+    },
+    {
+      "id": "n18",
+      "type": "paragraph",
+      "order": 17,
+      "text": "Goal: Regulating a Situation"
+    },
+    {
+      "id": "n19",
+      "type": "heading",
+      "order": 18,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n20",
+      "type": "paragraph",
+      "order": 19,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/goethe",
+        "text": "Goethe",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/goethe/b1",
+        "text": "B1",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/goethe/b1/schreiben/teil1",
+        "text": "Teil 1 - Contact & InteractionGoal: Contact & Interaction● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/goethe/b1/schreiben/teil2",
+        "text": "Teil 2 - Expressing an OpinionGoal: Expressing an Opinion● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk7",
+        "type": "link",
+        "order": 5,
+        "href": "https://deutsch-pruefung.de/goethe/b1/schreiben/teil3",
+        "text": "Teil 3 - Regulating a SituationGoal: Regulating a Situation● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 8,
+      "paragraphs": 11,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 6,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}

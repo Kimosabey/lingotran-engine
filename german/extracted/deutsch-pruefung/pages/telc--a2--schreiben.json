@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "sourceUrl": "https://deutsch-pruefung.de/telc/a2/schreiben",
+    "canonicalUrl": "https://deutsch-pruefung.de/telc/a2/schreiben",
+    "site": "deutsch-pruefung.de",
+    "slug": "telc--a2--schreiben",
+    "sourceType": "web",
+    "title": "TELC German A2 Schreiben (Writing) Practice Overview",
+    "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A2 schreiben (writing) section.",
+    "lang": "en",
+    "exam": "telc",
+    "level": "A2",
+    "section": "schreiben",
+    "contentType": [
+      "exam-section"
+    ],
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A2 schreiben (writing) section.",
+      "author": "German Exam Practice",
+      "og:title": "TELC German A2 Schreiben (Writing) Practice Overview",
+      "og:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A2 schreiben (writing) section.",
+      "og:url": "https://deutsch-pruefung.de/telc/a2/schreiben",
+      "og:site_name": "Deutsch Prüfung Platform",
+      "og:locale": "en_US",
+      "og:image": "https://deutsch-pruefung.de/api/og?title=TELC%20A2%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=a2&section=schreiben",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "TELC German A2 Schreiben (Writing) Practice Overview",
+      "og:locale:alternate": "de_DE",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@deutschpruefung",
+      "twitter:title": "TELC German A2 Schreiben (Writing) Practice Overview",
+      "twitter:description": "Overview of parts with tips and links to start writing practice. Prepare for TELC German A2 schreiben (writing) section.",
+      "twitter:image": "https://deutsch-pruefung.de/api/og?title=TELC%20A2%20Schreiben%20(Writing)&subtitle=Practice%20Overview&type=telc&level=a2&section=schreiben",
+      "sentry-trace": "9896eafc23b096d74268c7f2f5f25f28-36171931d0cc6e15-0",
+      "baggage": "sentry-environment=production,sentry-public_key=9cc14df1db759292367d4c48a38ad678,sentry-trace_id=9896eafc23b096d74268c7f2f5f25f28,sentry-org_id=4510640522919936,sentry-sampled=false,sentry-sample_rand=0.8249413244004264,sentry-sample_rate=0.2"
+    },
+    "wordCount": 131,
+    "fetchedAt": "2026-07-21T08:29:18.400Z"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "heading",
+      "order": 0,
+      "level": 3,
+      "text": "About the Section"
+    },
+    {
+      "id": "n2",
+      "type": "image",
+      "order": 1,
+      "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+      "alt": "Study bear mascot"
+    },
+    {
+      "id": "n3",
+      "type": "paragraph",
+      "order": 2,
+      "text": "The official telc Deutsch A2 Schreiben subtest is completed inside the shared 50-minute Lesen und Schreiben block. It has two tasks: one structured form task and one short personal letter task."
+    },
+    {
+      "id": "n4",
+      "type": "heading",
+      "order": 3,
+      "level": 4,
+      "text": "Teil 1: Formular ausfüllen (Complete a Form)"
+    },
+    {
+      "id": "n5",
+      "type": "paragraph",
+      "order": 4,
+      "text": "• Use the profile information to complete a registration form"
+    },
+    {
+      "id": "n6",
+      "type": "paragraph",
+      "order": 5,
+      "text": "• Write the five missing pieces of information"
+    },
+    {
+      "id": "n7",
+      "type": "heading",
+      "order": 6,
+      "level": 4,
+      "text": "Teil 2: Brief schreiben (Write a Letter)"
+    },
+    {
+      "id": "n8",
+      "type": "paragraph",
+      "order": 7,
+      "text": "• Reply to a short everyday situation with a brief personal letter"
+    },
+    {
+      "id": "n9",
+      "type": "paragraph",
+      "order": 8,
+      "text": "• Choose 3 of the 4 given points and write 1-2 sentences for each"
+    },
+    {
+      "id": "n10",
+      "type": "heading",
+      "order": 9,
+      "level": 3,
+      "text": "Teil 1 - Formular ausfüllen (Complete a Form)"
+    },
+    {
+      "id": "n11",
+      "type": "paragraph",
+      "order": 10,
+      "text": "Goal: Formular ausfüllen (Complete a Form)"
+    },
+    {
+      "id": "n12",
+      "type": "heading",
+      "order": 11,
+      "level": 3,
+      "text": "Teil 2 - Brief schreiben (Write a Letter)"
+    },
+    {
+      "id": "n13",
+      "type": "paragraph",
+      "order": 12,
+      "text": "Goal: Brief schreiben (Write a Letter)"
+    },
+    {
+      "id": "n14",
+      "type": "heading",
+      "order": 13,
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "id": "n15",
+      "type": "paragraph",
+      "order": 14,
+      "text": "Everything you need to know about the exam!"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "id": "img1",
+        "type": "image",
+        "order": 0,
+        "src": "https://deutsch-pruefung.de/_next/image?url=%2Fsection-assets%2Fbear-mascot.webp&w=384&q=75",
+        "alt": "Study bear mascot"
+      }
+    ],
+    "media": [],
+    "links": [
+      {
+        "id": "lnk2",
+        "type": "link",
+        "order": 0,
+        "href": "https://deutsch-pruefung.de/",
+        "text": "Home",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk3",
+        "type": "link",
+        "order": 1,
+        "href": "https://deutsch-pruefung.de/telc",
+        "text": "TELC",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk4",
+        "type": "link",
+        "order": 2,
+        "href": "https://deutsch-pruefung.de/telc/a2",
+        "text": "A2",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk5",
+        "type": "link",
+        "order": 3,
+        "href": "https://deutsch-pruefung.de/telc/a2/schreiben/teil1",
+        "text": "Teil 1 - Formular ausfüllen (Complete a Form)Goal: Formular ausfüllen (Complete a Form)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      },
+      {
+        "id": "lnk6",
+        "type": "link",
+        "order": 4,
+        "href": "https://deutsch-pruefung.de/telc/a2/schreiben/teil2",
+        "text": "Teil 2 - Brief schreiben (Write a Letter)Goal: Brief schreiben (Write a Letter)● 0 Correct● 0 Wrong⚡ 0% AccuracyStartLoading questions...Completion0%",
+        "kind": "internal"
+      }
+    ]
+  },
+  "completeness": {
+    "counts": {
+      "headings": 6,
+      "paragraphs": 8,
+      "lists": 0,
+      "tables": 0,
+      "images": 1,
+      "figures": 0,
+      "media": 0,
+      "links": 5,
+      "downloads": 0
+    },
+    "missingSections": [],
+    "duplicatesRemoved": 0,
+    "retries": 0,
+    "incomplete": false,
+    "warnings": []
+  },
+  "provenance": {
+    "adapterId": "deutsch-pruefung",
+    "extractorVersion": "0.1.0",
+    "stages": [
+      "discover",
+      "load",
+      "parse",
+      "detect",
+      "extract",
+      "transform",
+      "metadata",
+      "assets",
+      "validate",
+      "emit"
+    ]
+  },
+  "status": "verified",
+  "qa": "pass"
+}
