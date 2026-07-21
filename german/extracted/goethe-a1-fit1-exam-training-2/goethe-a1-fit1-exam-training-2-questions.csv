@@ -1,0 +1,53 @@
+collection,section,teil,item,item_type,question,option_a,option_b,option_c,correct_answer,topic,source_page
+goethe-a1-fit1-exam-training-2,hoeren,1,1,multiple-choice,Nora kann nicht,zum Schulfest.,zum Schwimmen.,zum Reiten.,b,hobby,009
+goethe-a1-fit1-exam-training-2,hoeren,1,2,multiple-choice,Sie hat Zeit:,am Dienstag.,nächsten Donnerstag.,Dienstag in zwei Wochen.,a,time-dates,009
+goethe-a1-fit1-exam-training-2,hoeren,1,3,multiple-choice,Manuel kommt,mit dem Fahrrad.,mit dem Auto.,mit dem Bus.,b,travel,010
+goethe-a1-fit1-exam-training-2,hoeren,1,4,multiple-choice,Manuel bringt zu Monas Party mit:,einen Film.,etwas zu essen.,CDs.,c,hobby,010
+goethe-a1-fit1-exam-training-2,hoeren,1,5,multiple-choice,Paul,spielt Klavier.,spielt Gitarre.,singt.,a,hobby,011
+goethe-a1-fit1-exam-training-2,hoeren,1,6,multiple-choice,Die Musikschule ist,neben der Schule.,am Bahnhof.,am Marktplatz.,c,city-places,011
+goethe-a1-fit1-exam-training-2,hoeren,2,7,true-false,Die Englischarbeit war ganz leicht.,Richtig,Falsch,,Falsch,school,012
+goethe-a1-fit1-exam-training-2,hoeren,2,8,true-false,Florian will David helfen.,Richtig,Falsch,,Richtig,school,012
+goethe-a1-fit1-exam-training-2,hoeren,2,9,true-false,Sie treffen sich am Wochenende.,Richtig,Falsch,,Richtig,school,012
+goethe-a1-fit1-exam-training-2,hoeren,2,10,true-false,Sina und Claudia wohnen in Berlin.,Richtig,Falsch,,Falsch,personal-info,013
+goethe-a1-fit1-exam-training-2,hoeren,2,11,true-false,Sina feiert heute ihren Geburtstag.,Richtig,Falsch,,Falsch,personal-info,013
+goethe-a1-fit1-exam-training-2,hoeren,2,12,true-false,Sina ist an Weihnachten zu Hause.,Richtig,Falsch,,Richtig,personal-info,013
+goethe-a1-fit1-exam-training-2,lesen,1,1,multiple-choice,Der Junge in dem Film hat Probleme,mit seiner Mutter.,in der Schule.,mit seinen Freunden.,b,school,017
+goethe-a1-fit1-exam-training-2,lesen,1,2,multiple-choice,Die Schauspielerin Diane Kruger spielt in dem Film,die Direktorin.,eine Lehrerin.,die Mutter.,c,family,017
+goethe-a1-fit1-exam-training-2,lesen,1,3,multiple-choice,Du willst in dem Film mitspielen? Dann musst du,dich vorstellen.,eine E-Mail schreiben.,anrufen.,a,communication,017
+goethe-a1-fit1-exam-training-2,lesen,1,4,multiple-choice,Der Schülerclub ist für,Mädchen.,alle Klassen.,die unteren Klassen.,b,school,017
+goethe-a1-fit1-exam-training-2,lesen,1,5,multiple-choice,Im Schülerclub kann man,einen Computerkurs machen.,einen Film machen.,Hausaufgaben machen.,c,school,017
+goethe-a1-fit1-exam-training-2,lesen,1,6,multiple-choice,Der Schülerclub ist im,Kiosk.,Musikraum.,Schulgarten.,b,school,017
+goethe-a1-fit1-exam-training-2,lesen,2,7,true-false,Dagmars Schulweg ist sehr weit.,Richtig,Falsch,,Falsch,daily-routine,019
+goethe-a1-fit1-exam-training-2,lesen,2,8,true-false,Dagmar steht immer früh auf.,Richtig,Falsch,,Falsch,daily-routine,019
+goethe-a1-fit1-exam-training-2,lesen,2,9,true-false,Dagmar frühstückt in der Schule.,Richtig,Falsch,,Richtig,daily-routine,019
+goethe-a1-fit1-exam-training-2,lesen,2,10,true-false,Martin geht in Frankreich in die Schule.,Richtig,Falsch,,Falsch,school,019
+goethe-a1-fit1-exam-training-2,lesen,2,11,true-false,Martin lernt viel Französisch.,Richtig,Falsch,,Richtig,school,019
+goethe-a1-fit1-exam-training-2,lesen,2,12,true-false,Martin spielt gern Tennis.,Richtig,Falsch,,Falsch,hobby,019
+goethe-a1-fit1-exam-training-2,schreiben,,1,open,"Du hast diese E-Mail bekommen. Antworte auf die E-Mail und die Frage am Ende. Schreibe mindestens 30 Wörter. Schreibe bitte nicht mit Bleistift.
+
+Hallo, viele Grüße aus Sindelfingen! Ich bin hier in den Ferien bei meiner Oma, und ich finde es total langweilig. Ich liebe meine Oma, aber diese kleine Stadt hier ist furchtbar. Hier kann man so wenig machen, und natürlich kenne ich auch niemanden. Was machst du denn so in den Ferien? Und wie geht es deiner Familie? Bitte schreib mir bald! Jan",,,,(open-ended),vacation,022
+goethe-a1-fit1-exam-training-2,sprechen,1,1,open,Sich vorstellen. Name? Alter? Land? Wohnort? Schule? Sprachen? Hobby?,,,,(open-ended),personal-info,025
+goethe-a1-fit1-exam-training-2,sprechen,2,1,open,Thema: Reisen. Fragen stellen und auf Fragen antworten. Wortkarte: ins Ausland,,,,(open-ended),travel,027
+goethe-a1-fit1-exam-training-2,sprechen,2,2,open,Thema: Reisen. Fragen stellen und auf Fragen antworten. Wortkarte: mit Freundinnen/ Freunden,,,,(open-ended),travel,027
+goethe-a1-fit1-exam-training-2,sprechen,2,3,open,Thema: Reisen. Fragen stellen und auf Fragen antworten. Wortkarte: einen Sprachkurs machen,,,,(open-ended),travel,027
+goethe-a1-fit1-exam-training-2,sprechen,2,4,open,Thema: Reisen. Fragen stellen und auf Fragen antworten. Wortkarte: Feriencamp für Jugendliche,,,,(open-ended),travel,027
+goethe-a1-fit1-exam-training-2,sprechen,2,5,open,Thema: Reisen. Fragen stellen und auf Fragen antworten. Wortkarte: Zug / Auto Rad,,,,(open-ended),travel,027
+goethe-a1-fit1-exam-training-2,sprechen,2,6,open,Thema: Reisen. Fragen stellen und auf Fragen antworten. Wortkarte: Urlaub mit den Eltern,,,,(open-ended),travel,027
+goethe-a1-fit1-exam-training-2,sprechen,2,7,open,Thema: Gesundheit. Fragen stellen und auf Fragen antworten. Wortkarte: Schokolade,,,,(open-ended),health,029
+goethe-a1-fit1-exam-training-2,sprechen,2,8,open,Thema: Gesundheit. Fragen stellen und auf Fragen antworten. Wortkarte: schlafen,,,,(open-ended),health,029
+goethe-a1-fit1-exam-training-2,sprechen,2,9,open,Thema: Gesundheit. Fragen stellen und auf Fragen antworten. Wortkarte: trinken,,,,(open-ended),health,029
+goethe-a1-fit1-exam-training-2,sprechen,2,10,open,Thema: Gesundheit. Fragen stellen und auf Fragen antworten. Wortkarte: Sport machen,,,,(open-ended),health,029
+goethe-a1-fit1-exam-training-2,sprechen,2,11,open,Thema: Gesundheit. Fragen stellen und auf Fragen antworten. Wortkarte: krank sein,,,,(open-ended),health,029
+goethe-a1-fit1-exam-training-2,sprechen,2,12,open,Thema: Gesundheit. Fragen stellen und auf Fragen antworten. Wortkarte: Krankenhaus,,,,(open-ended),health,029
+goethe-a1-fit1-exam-training-2,sprechen,3,1,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Eine Person putzt/wischt eine Tafel mit einem Schwamm. Symbol: !",,,,(open-ended),mixed,030
+goethe-a1-fit1-exam-training-2,sprechen,3,2,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Eine Birne. Symbol: ?",,,,(open-ended),mixed,030
+goethe-a1-fit1-exam-training-2,sprechen,3,3,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Ein Fahrrad. Symbol: !",,,,(open-ended),mixed,030
+goethe-a1-fit1-exam-training-2,sprechen,3,4,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Ein Kino mit zwei Eintrittskarten (Nr. 1 und Nr. 2). Symbol: ?",,,,(open-ended),mixed,030
+goethe-a1-fit1-exam-training-2,sprechen,3,5,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Ein Tischtennisschläger mit Ball. Symbol: ?",,,,(open-ended),mixed,030
+goethe-a1-fit1-exam-training-2,sprechen,3,6,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Eine offene Hand. Symbol: !",,,,(open-ended),mixed,030
+goethe-a1-fit1-exam-training-2,sprechen,3,1,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Schuhe (ein Paar Halbschuhe). Symbol: !",,,,(open-ended),mixed,031
+goethe-a1-fit1-exam-training-2,sprechen,3,2,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Buch ""BIOLOGIE"". Symbol: ?",,,,(open-ended),mixed,031
+goethe-a1-fit1-exam-training-2,sprechen,3,3,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Bus. Symbol: ?",,,,(open-ended),mixed,031
+goethe-a1-fit1-exam-training-2,sprechen,3,4,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Schreibtischlampe. Symbol: !",,,,(open-ended),mixed,031
+goethe-a1-fit1-exam-training-2,sprechen,3,5,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Taschenlampe. Symbol: !",,,,(open-ended),mixed,031
+goethe-a1-fit1-exam-training-2,sprechen,3,6,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Bildkarte: Gebäude ""STADTTHEATER"". Symbol: ?",,,,(open-ended),mixed,031

@@ -9,15 +9,15 @@ goethe-a1-sd1-exam-training-2,page-007,hoeren,"[intro, instructions]",instructio
 goethe-a1-sd1-exam-training-2,page-008,hoeren,"[instructions, exercise]",multiple-choice,personal-info,A1,verified,pass,70,Listening Teil 1 instructions with worked example about room number.,Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-009,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,112,"Listening multiple-choice questions on clothing, food, museum hours.",Hören
 goethe-a1-sd1-exam-training-2,page-010,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,62,"Listening multiple-choice on sport, holiday, flight duration.",Start Deutsch 1
-goethe-a1-sd1-exam-training-2,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel-transport,A1,verified,pass,87,Listening Teil 2 true-false announcements at station and airport.,Hören
+goethe-a1-sd1-exam-training-2,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel,A1,verified,pass,87,Listening Teil 2 true-false announcements at station and airport.,Hören
 goethe-a1-sd1-exam-training-2,page-012,hoeren,[exercise],multiple-choice,communication,A1,verified,pass,89,Listening Teil 3 multiple-choice on phone calls and plans.,Start Deutsch 1
-goethe-a1-sd1-exam-training-2,page-013,hoeren,[exercise],multiple-choice,free-time,A1,verified,pass,68,Listening multiple-choice on meeting place and time.,Hören
+goethe-a1-sd1-exam-training-2,page-013,hoeren,[exercise],multiple-choice,hobby,A1,verified,pass,68,Listening multiple-choice on meeting place and time.,Hören
 goethe-a1-sd1-exam-training-2,page-014,,[],none,none,A1,verified,pass,34,Blank page with only footer and logos.,"<!-- This page is essentially blank. Only footer, page banner, and Goethe-Institut logos a"
 goethe-a1-sd1-exam-training-2,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,76,Reading and Writing section intro and instructions.,Start Deutsch 1
-goethe-a1-sd1-exam-training-2,page-016,lesen,"[instructions, reading-text, exercise]",reading-comprehension,travel-transport,A1,verified,pass,165,Reading Teil 1 true-false about email planning a Weimar meeting.,Start Deutsch 1
-goethe-a1-sd1-exam-training-2,page-017,lesen,"[reading-text, exercise]",reading-comprehension,free-time,A1,verified,pass,130,Reading true-false about a sports club summer excursion.,Lesen
+goethe-a1-sd1-exam-training-2,page-016,lesen,"[instructions, reading-text, exercise]",reading-comprehension,travel,A1,verified,pass,165,Reading Teil 1 true-false about email planning a Weimar meeting.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-017,lesen,"[reading-text, exercise]",reading-comprehension,hobby,A1,verified,pass,130,Reading true-false about a sports club summer excursion.,Lesen
 goethe-a1-sd1-exam-training-2,page-018,lesen,"[instructions, exercise, reading-text]",reading-comprehension,home,A1,verified,pass,129,Reading Teil 2 matching websites for weather and housing.,Start Deutsch 1
-goethe-a1-sd1-exam-training-2,page-019,lesen,[exercise],reading-comprehension,travel-transport,A1,verified,pass,167,Reading matching websites for airport transport and holiday trips.,Lesen
+goethe-a1-sd1-exam-training-2,page-019,lesen,[exercise],reading-comprehension,travel,A1,verified,pass,167,Reading matching websites for airport transport and holiday trips.,Lesen
 goethe-a1-sd1-exam-training-2,page-020,lesen,"[exercise, reading-text]",reading-comprehension,home,A1,verified,pass,143,Reading matching websites for holiday rentals and football.,Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-021,lesen,"[instructions, exercise, reading-text]",reading-comprehension,city-places,A1,verified,pass,120,"Reading Teil 3 true-false on public notices, tickets.",Lesen
 goethe-a1-sd1-exam-training-2,page-022,lesen,"[exercise, reading-text]",reading-comprehension,city-places,A1,verified,pass,98,Reading true-false about hotel door and restaurant hours.,Start Deutsch 1
@@ -27,8 +27,8 @@ goethe-a1-sd1-exam-training-2,page-025,schreiben,[writing-prompt],writing-task,c
 goethe-a1-sd1-exam-training-2,page-026,,[],none,none,A1,verified,pass,2,Blank page.,Seite 24
 goethe-a1-sd1-exam-training-2,page-027,sprechen,[instructions],instructions,none,A1,verified,pass,26,Speaking section intro and general instructions.,Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-028,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,20,Speaking Teil 1 self-introduction prompt keywords.,Start Deutsch 1
-goethe-a1-sd1-exam-training-2,page-029,sprechen,[speaking-prompt],speaking-task,free-time,A1,verified,pass,83,Speaking Teil 2 word cards on weekend theme.,Sprechen
-goethe-a1-sd1-exam-training-2,page-030,sprechen,[speaking-prompt],speaking-task,daily-routine,A1,verified,pass,80,Speaking Teil 2 word cards on school theme.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-029,sprechen,[speaking-prompt],speaking-task,hobby,A1,verified,pass,83,Speaking Teil 2 word cards on weekend theme.,Sprechen
+goethe-a1-sd1-exam-training-2,page-030,sprechen,[speaking-prompt],speaking-task,school,A1,verified,pass,80,Speaking Teil 2 word cards on school theme.,Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,106,Speaking Teil 3 picture cards for making requests.,Sprechen
 goethe-a1-sd1-exam-training-2,page-032,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,97,Speaking Teil 3 further picture cards for requests.,Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-033,,[toc],instructions,none,A1,verified,pass,58,Examiner pages table of contents.,Start Deutsch 1

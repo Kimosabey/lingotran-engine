@@ -35,7 +35,7 @@
 |---|---|
 | mixed | 16 |
 | none | 11 |
-| numbers-time | 1 |
+| time-dates | 1 |
 
 ## Page index
 
@@ -48,7 +48,7 @@
 | 005 | vocabulary | vocabulary | mixed | Thematic inventory of A1 topics across person, home, food, travel, leisure. |
 | 006 | vocabulary | vocabulary | mixed | Word groups: anglicisms, exam language, jobs, and family members. |
 | 007 | vocabulary | vocabulary | mixed | Colors, directions, measures, currencies, countries, school subjects, numbers. |
-| 008 | vocabulary | vocabulary | numbers-time | Holidays, seasons, months, times of day, clock times, weekdays. |
+| 008 | vocabulary | vocabulary | time-dates | Holidays, seasons, months, times of day, clock times, weekdays. |
 | 009 | vocabulary | vocabulary | mixed | Alphabetical word list letter A with example sentences. |
 | 010 | vocabulary | vocabulary | mixed | Alphabetical word list letters A and B with example sentences. |
 | 011 | vocabulary | vocabulary | mixed | Alphabetical word list letters B through E with example sentences. |
@@ -413,7 +413,7 @@ Nationalität
 
 Seite 7
 
-## Page 008  — vocabulary · [vocabulary] · vocabulary · numbers-time
+## Page 008  — vocabulary · [vocabulary] · vocabulary · time-dates
 
 INVENTARE
 

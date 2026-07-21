@@ -50,16 +50,16 @@
 
 | topic | Count |
 |---|---|
-| none | 30 |
+| none | 32 |
 | communication | 4 |
 | family | 4 |
-| mixed | 4 |
-| free-time | 2 |
+| hobby | 2 |
 | home | 2 |
+| mixed | 2 |
 | personal-info | 2 |
-| travel-transport | 2 |
-| daily-routine | 1 |
-| health-body | 1 |
+| travel | 2 |
+| health | 1 |
+| school | 1 |
 
 ## Page index
 
@@ -68,27 +68,27 @@
 | 001 |  | cover | none | Front cover of Goethe-Zertifikat A1 Fit in Deutsch 1 practice set. |
 | 002 |  | cover | none | Copyright and edition notice page. |
 | 003 |  | instructions | none | Table of contents for candidate and examiner sheets. |
-| 004 |  | none | none | Blank page (page 2). |
+| 004 |  | none | none | Blank page. |
 | 005 |  | instructions | none | Foreword describing the Fit in Deutsch 1 A1 exam. |
-| 006 |  | none | none | Blank page (page 4). |
+| 006 |  | none | none | Blank page. |
 | 007 | hoeren | instructions | none | Listening section intro and general instructions. |
 | 008 | hoeren | multiple-choice | communication | Listening Part 1 instructions and worked example about phone messages. |
 | 009 | hoeren | multiple-choice | communication | Listening tasks 1-2 on a phone thank-you message and call-back. |
-| 010 | hoeren | multiple-choice | daily-routine | Listening tasks 3-4 about school subjects and where Karl is. |
-| 011 | hoeren | multiple-choice | free-time | Listening tasks 5-6 about going out and film start time. |
-| 012 | hoeren | true-false | health-body | Listening Part 2 true/false tasks 7-9 about illness. |
-| 013 | hoeren | true-false | free-time | Listening true/false tasks 10-12 about studying and football. |
-| 014 |  | none | none | Blank page (page 12). |
+| 010 | hoeren | multiple-choice | school | Listening tasks 3-4 about school subjects and where Karl is. |
+| 011 | hoeren | multiple-choice | hobby | Listening tasks 5-6 about going out and film start time. |
+| 012 | hoeren | true-false | health | Listening Part 2 true/false tasks 7-9 about illness. |
+| 013 | hoeren | true-false | hobby | Listening true/false tasks 10-12 about studying and football. |
+| 014 |  | none | none | Blank page. |
 | 015 | lesen | instructions | none | Reading section intro and instructions. |
-| 016 | lesen | reading-comprehension | travel-transport | Reading Part 1 two newspaper ads about train travel and study abroad. |
-| 017 | lesen | multiple-choice | travel-transport | Reading tasks 1-6 multiple-choice on the two advertisements. |
+| 016 | lesen | reading-comprehension | travel | Reading Part 1 two newspaper ads about train travel and study abroad. |
+| 017 | lesen | multiple-choice | travel | Reading tasks 1-6 multiple-choice on the two advertisements. |
 | 018 | lesen | reading-comprehension | family | Reading Part 2 two teenager self-descriptions about family and home. |
 | 019 | lesen | true-false | family | Reading true/false tasks 7-12 on the teenager descriptions. |
-| 020 |  | none | none | Blank page (page 18). |
+| 020 |  | none | none | Blank page. |
 | 021 | schreiben | instructions | none | Writing section intro and instructions. |
 | 022 | schreiben | writing-task | communication | Writing prompt: reply to Natascha's pen-pal email, at least 30 words. |
 | 023 | sprechen | instructions | none | Speaking section intro and instructions. |
-| 024 |  | none | none | Blank page (page 22). |
+| 024 |  | none | none | Blank page. |
 | 025 | sprechen | speaking-task | personal-info | Speaking Part 1 self-introduction word card (name, age, hobby). |
 | 026 | sprechen | speaking-task | home | Speaking Part 2 theme card: Wohnen (living/home). |
 | 027 | sprechen | speaking-task | home | Speaking Part 2 prompt cards with words on the home theme. |
@@ -96,10 +96,10 @@
 | 029 | sprechen | speaking-task | family | Speaking Part 2 six word cards on the family theme. |
 | 030 | sprechen | speaking-task | mixed | Speaking Part 3 example picture cards with objects and symbols. |
 | 031 | sprechen | speaking-task | mixed | Speaking Part 3 six picture cards showing everyday objects. |
-| 032 |  | none | none | Blank page (page 30). |
+| 032 |  | none | none | Blank page. |
 | 033 |  | instructions | none | Examiner sheets table of contents. |
-| 034 | hoeren | listening-comprehension | mixed | Listening transcripts for Part 1 phone messages. |
-| 035 | hoeren | listening-comprehension | mixed | Listening transcripts for Part 2 dialogues. |
+| 034 | hoeren | listening-comprehension | none | Listening transcripts for Part 1 phone messages. |
+| 035 | hoeren | listening-comprehension | none | Listening transcripts for Part 2 dialogues. |
 | 036 | answer-key | answer-key | none | Answer key for listening and reading plus writing rubric. |
 | 037 | schreiben | instructions | none | Writing assessment criteria and scoring guidance. |
 | 038 | sprechen | instructions | none | Speaking exam procedure notes and moderator introduction. |
@@ -112,9 +112,9 @@
 | 045 | schreiben | writing-task | communication | Writing answer sheet with ruled area and scoring grid. |
 | 046 | sprechen | answer-key | none | Speaking assessment sheet with per-candidate scoring columns. |
 | 047 |  | answer-key | none | Overall results sheet with grade scale. |
-| 048 |  | none | none | Blank page (page 46). |
-| 049 |  | none | none | Blank page (page 47). |
-| 050 |  | none | none | Blank page (page 48). |
+| 048 |  | none | none | Blank page. |
+| 049 |  | none | none | Blank page. |
+| 050 |  | none | none | Blank page. |
 | 051 |  | none | none | Blank page with no printed content. |
 | 052 |  | cover | none | Back cover with Goethe-Institut address. |
 
@@ -289,7 +289,7 @@ Markiere **dann** die Lösung zu Aufgabe 1 und 2.
 
 Seite 7
 
-## Page 010  — hoeren · [exercise, listening-sheet] · multiple-choice · daily-routine
+## Page 010  — hoeren · [exercise, listening-sheet] · multiple-choice · school
 
 # Fit in Deutsch · 1
 
@@ -322,7 +322,7 @@ Markiere **dann** die Lösung zu Aufgabe 3 und 4.
 
 Seite 8
 
-## Page 011  — hoeren · [exercise] · multiple-choice · free-time
+## Page 011  — hoeren · [exercise] · multiple-choice · hobby
 
 # Hören
 
@@ -349,7 +349,7 @@ Markiere **dann** die Lösung zu Aufgabe 5 und 6.
 
 Seite 9
 
-## Page 012  — hoeren · [instructions, exercise, listening-sheet] · true-false · health-body
+## Page 012  — hoeren · [instructions, exercise, listening-sheet] · true-false · health
 
 # Fit in Deutsch · 1
 
@@ -382,7 +382,7 @@ richtig oder falsch.
 
 Seite 10
 
-## Page 013  — hoeren · [exercise, listening-sheet, instructions] · true-false · free-time
+## Page 013  — hoeren · [exercise, listening-sheet, instructions] · true-false · hobby
 
 # Hören
 
@@ -434,7 +434,7 @@ Wörterbücher sind **nicht** erlaubt.
 
 Seite 13
 
-## Page 016  — lesen · [exercise, reading-text] · reading-comprehension · travel-transport
+## Page 016  — lesen · [exercise, reading-text] · reading-comprehension · travel
 
 # Fit in Deutsch · 1
 
@@ -476,7 +476,7 @@ www.rausvon...
 
 Seite 14
 
-## Page 017  — lesen · [instructions, exercise] · multiple-choice · travel-transport
+## Page 017  — lesen · [instructions, exercise] · multiple-choice · travel
 
 # Lesen
 
@@ -943,7 +943,7 @@ Prüferblätter
 
 Seite 31
 
-## Page 034  — hoeren · [instructions, listening-sheet] · listening-comprehension · mixed
+## Page 034  — hoeren · [instructions, listening-sheet] · listening-comprehension · none
 
 # Fit in Deutsch · 1
 
@@ -979,7 +979,7 @@ Hallo Martin, hier ist Laura. Was machst du eigentlich heute Abend? Ich gehe mit
 
 Seite 32
 
-## Page 035  — hoeren · [instructions, listening-sheet] · listening-comprehension · mixed
+## Page 035  — hoeren · [instructions, listening-sheet] · listening-comprehension · none
 
 # Hören
 

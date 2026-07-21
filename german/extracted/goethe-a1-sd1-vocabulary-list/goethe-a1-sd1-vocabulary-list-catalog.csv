@@ -4,11 +4,11 @@ goethe-a1-sd1-vocabulary-list,page-002,,[toc],instructions,none,A1,verified,pass
 goethe-a1-sd1-vocabulary-list,page-003,,[intro],instructions,none,A1,verified,pass,320,Foreword explaining the A1 vocabulary list's purpose and scope.,VORWORT
 goethe-a1-sd1-vocabulary-list,page-004,vocabulary,"[intro, vocabulary]",vocabulary,mixed,A1,verified,pass,134,"Inventory of A1 thematic areas: person, home, environment, travel, food, work.",INVENTARE
 goethe-a1-sd1-vocabulary-list,page-005,vocabulary,[intro],instructions,none,A1,verified,pass,327,Notes on how the vocabulary list is compiled and organized.,INVENTARE
-goethe-a1-sd1-vocabulary-list,page-006,vocabulary,[vocabulary],vocabulary,numbers-time,A1,verified,pass,300,"Numbers, ordinals, and date expressions word-group list.",INVENTARE
-goethe-a1-sd1-vocabulary-list,page-007,vocabulary,[vocabulary],vocabulary,numbers-time,A1,verified,pass,239,"Time, weekdays, times of day, and months vocabulary.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-006,vocabulary,[vocabulary],vocabulary,time-dates,A1,verified,pass,300,"Numbers, ordinals, and date expressions word-group list.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-007,vocabulary,[vocabulary],vocabulary,time-dates,A1,verified,pass,239,"Time, weekdays, times of day, and months vocabulary.",INVENTARE
 goethe-a1-sd1-vocabulary-list,page-008,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,255,"Seasons, currency, measures, countries, colors, and directions vocabulary.",INVENTARE
 goethe-a1-sd1-vocabulary-list,page-009,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,482,Alphabetical word list A with example sentences.,INVENTARE
-goethe-a1-sd1-vocabulary-list,page-010,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,513,Alphabetical word list A (continued) with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-010,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,513,Alphabetical word list A continued with example sentences.,INVENTARE
 goethe-a1-sd1-vocabulary-list,page-011,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,508,Alphabetical word list B with example sentences.,INVENTARE
 goethe-a1-sd1-vocabulary-list,page-012,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,488,"Alphabetical word list B, C, D with example sentences.",INVENTARE
 goethe-a1-sd1-vocabulary-list,page-013,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,528,"Alphabetical word list D, E with example sentences.",INVENTARE
@@ -19,12 +19,12 @@ goethe-a1-sd1-vocabulary-list,page-017,vocabulary,[vocabulary],vocabulary,mixed,
 goethe-a1-sd1-vocabulary-list,page-018,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,526,"Alphabetical word list J, K with example sentences.",INVENTARE
 goethe-a1-sd1-vocabulary-list,page-019,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,500,"Alphabetical word list K, L, M with example sentences.",INVENTARE
 goethe-a1-sd1-vocabulary-list,page-020,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,504,"Alphabetical word list M, N with example sentences.",INVENTARE
-goethe-a1-sd1-vocabulary-list,page-021,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,471,Alphabetical word list with example sentences.,INVENTARE
-goethe-a1-sd1-vocabulary-list,page-022,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,477,Alphabetical word list with example sentences.,INVENTARE
-goethe-a1-sd1-vocabulary-list,page-023,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,479,Alphabetical word list with example sentences.,INVENTARE
-goethe-a1-sd1-vocabulary-list,page-024,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,475,Alphabetical word list with example sentences.,INVENTARE
-goethe-a1-sd1-vocabulary-list,page-025,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,484,Alphabetical word list with example sentences.,INVENTARE
-goethe-a1-sd1-vocabulary-list,page-026,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,447,Alphabetical word list with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-021,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,471,"Alphabetical word list N, O, P with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-022,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,477,"Alphabetical word list R, S with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-023,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,479,Alphabetical word list S with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-024,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,475,"Alphabetical word list S, T, U with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-025,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,484,"Alphabetical word list U, V, W with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-026,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,447,"Alphabetical word list W, Z with example sentences.",INVENTARE
 goethe-a1-sd1-vocabulary-list,page-027,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,90,Alphabetical word list Z with example sentences.,INVENTARE
 goethe-a1-sd1-vocabulary-list,page-028,,[intro],instructions,none,A1,verified,pass,153,Literature and references section listing source publications.,LITERATUR
 goethe-a1-sd1-vocabulary-list,page-029,,[],none,none,A1,verified,pass,24,Blank colored divider page with no printed content.,<!-- This page contains no text. It is a solid magenta/purple color page (blank divider / 

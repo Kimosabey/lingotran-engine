@@ -52,12 +52,12 @@
 |---|---|
 | none | 26 |
 | mixed | 6 |
-| travel-transport | 6 |
+| travel | 6 |
 | city-places | 3 |
 | personal-info | 2 |
 | communication | 1 |
-| food-drink | 1 |
-| free-time | 1 |
+| food | 1 |
+| hobby | 1 |
 | shopping | 1 |
 
 ## Page index
@@ -74,25 +74,25 @@
 | 008 | hoeren | multiple-choice | personal-info | Listening Part 1 instructions with worked example on room number. |
 | 009 | hoeren | multiple-choice | mixed | Listening Part 1 items on price, time, and restaurant food. |
 | 010 | hoeren | multiple-choice | mixed | Listening Part 1 items on school class, floor access, travel. |
-| 011 | hoeren | true-false | travel-transport | Listening Part 2 true/false announcements at station and store. |
+| 011 | hoeren | true-false | travel | Listening Part 2 true/false announcements at station and store. |
 | 012 | hoeren | multiple-choice | communication | Listening Part 3 items on phone number and meeting point. |
 | 013 | hoeren | multiple-choice | mixed | Listening Part 3 items on day of visit and broken device. |
 | 014 |  | none | none | Blank page with only the page number. |
 | 015 | lesen | instructions | none | Reading and Writing section intro and instructions. |
-| 016 | lesen | true-false | travel-transport | Reading Part 1 true/false about an email on train arrival. |
-| 017 | lesen | true-false | free-time | Reading Part 1 true/false about a birthday party invitation. |
-| 018 | lesen | multiple-choice | travel-transport | Reading Part 2 matching websites for weather and Rhine boats. |
+| 016 | lesen | true-false | travel | Reading Part 1 true/false about an email on train arrival. |
+| 017 | lesen | true-false | hobby | Reading Part 1 true/false about a birthday party invitation. |
+| 018 | lesen | multiple-choice | travel | Reading Part 2 matching websites for weather and Rhine boats. |
 | 019 | lesen | multiple-choice | mixed | Reading Part 2 matching websites for language courses and tickets. |
-| 020 | lesen | multiple-choice | travel-transport | Reading Part 2 matching websites for lake info and train times. |
+| 020 | lesen | multiple-choice | travel | Reading Part 2 matching websites for lake info and train times. |
 | 021 | lesen | true-false | city-places | Reading Part 3 true/false on signs about language school breakfast. |
 | 022 | lesen | true-false | city-places | Reading Part 3 true/false on post office and station signs. |
 | 023 | lesen | true-false | city-places | Reading Part 3 true/false on restaurant and bus stop signs. |
-| 024 | lesen | fill-in | travel-transport | Writing Part 1 form-filling for a Bodensee bus tour registration. |
-| 025 | schreiben | writing-task | travel-transport | Writing Part 2 letter to Dresden tourist information office. |
+| 024 | lesen | fill-in | travel | Writing Part 1 form-filling for a Bodensee bus tour registration. |
+| 025 | schreiben | writing-task | travel | Writing Part 2 letter to Dresden tourist information office. |
 | 026 |  | none | none | Intentionally blank page with only logo and page number. |
 | 027 | sprechen | instructions | none | Speaking section intro describing the group oral exam. |
 | 028 | sprechen | speaking-task | personal-info | Speaking Part 1 self-introduction prompts: name, age, country, hobby. |
-| 029 | sprechen | speaking-task | food-drink | Speaking Part 2 cards asking for information on food and drink. |
+| 029 | sprechen | speaking-task | food | Speaking Part 2 cards asking for information on food and drink. |
 | 030 | sprechen | speaking-task | shopping | Speaking Part 2 cards on shopping topics like fruit and shoes. |
 | 031 | sprechen | speaking-task | mixed | Speaking Part 3 picture cards prompting requests from objects. |
 | 032 | sprechen | speaking-task | mixed | Speaking Part 3 additional picture cards of everyday objects. |
@@ -345,7 +345,7 @@ _[Bild a: Sonnenschirm am Strand/Meer]_ · _[Bild b: Mann am Schreibtisch mit Ak
 
 Seite 10
 
-## Page 011  — hoeren · [exercise, listening-sheet] · true-false · travel-transport
+## Page 011  — hoeren · [exercise, listening-sheet] · true-false · travel
 
 # Hören
 
@@ -467,7 +467,7 @@ Seite 15
 
 GOETHE INSTITUT
 
-## Page 016  — lesen · [instructions, reading-text, exercise] · true-false · travel-transport
+## Page 016  — lesen · [instructions, reading-text, exercise] · true-false · travel
 
 # Start Deutsch 1
 ## Kandidatenblätter
@@ -502,7 +502,7 @@ Seite 16
 
 GOETHE-INSTITUT
 
-## Page 017  — lesen · [reading-text, exercise] · true-false · free-time
+## Page 017  — lesen · [reading-text, exercise] · true-false · hobby
 
 # Lesen
 
@@ -531,7 +531,7 @@ Ralf
 
 Seite 17
 
-## Page 018  — lesen · [exercise, reading-text] · multiple-choice · travel-transport
+## Page 018  — lesen · [exercise, reading-text] · multiple-choice · travel
 
 # Start Deutsch 1
 ## Kandidatenblätter
@@ -661,7 +661,7 @@ Seite 19
 
 GOETHE INSTITUT
 
-## Page 020  — lesen · [exercise] · multiple-choice · travel-transport
+## Page 020  — lesen · [exercise] · multiple-choice · travel
 
 # Start Deutsch 1
 
@@ -828,7 +828,7 @@ Seite 23
 
 GOETHE INSTITUT
 
-## Page 024  — lesen · [exercise, reading-text] · fill-in · travel-transport
+## Page 024  — lesen · [exercise, reading-text] · fill-in · travel
 
 # Start Deutsch 1
 ## Kandidatenblätter
@@ -875,7 +875,7 @@ Unterschrift: *Eva Kadavy*
 
 Seite 24
 
-## Page 025  — schreiben · [writing-prompt] · writing-task · travel-transport
+## Page 025  — schreiben · [writing-prompt] · writing-task · travel
 
 # Schreiben
 
@@ -944,7 +944,7 @@ Seite 28
 
 GOETHE INSTITUT
 
-## Page 029  — sprechen · [speaking-prompt] · speaking-task · food-drink
+## Page 029  — sprechen · [speaking-prompt] · speaking-task · food
 
 # Sprechen
 

@@ -1,0 +1,62 @@
+collection,section,teil,item,item_type,question,option_a,option_b,option_c,correct_answer,topic,source_page
+goethe-a1-sd1-exam-training-1,hoeren,1,1,multiple-choice,Was kostet der Pullover?,Dreißig Euro.,Fünfundneunzig Euro.,Neunzehn Euro fünfundneunzig Cent.,c,shopping,009
+goethe-a1-sd1-exam-training-1,hoeren,1,2,multiple-choice,Wie spät ist es?,15 Uhr.,Gleich 5 Uhr.,Halb 5 Uhr.,b,time-dates,009
+goethe-a1-sd1-exam-training-1,hoeren,1,3,multiple-choice,Was isst die Frau im Restaurant?,Pommes.,Fisch.,Wurst.,a,restaurant,009
+goethe-a1-sd1-exam-training-1,hoeren,1,4,multiple-choice,In welche Klasse geht Frau Hegers Sohn?,In die neunte Klasse.,In die dritte Klasse.,In die vierte Klasse.,b,school,010
+goethe-a1-sd1-exam-training-1,hoeren,1,5,multiple-choice,Wie kommt die Frau in den 2. Stock?,Mit dem Aufzug.,Auf der Treppe um die Ecke.,Mit der Rolltreppe.,a,city-places,010
+goethe-a1-sd1-exam-training-1,hoeren,1,6,multiple-choice,Wohin fährt Herr Albers?,In Urlaub ans Meer.,Zur Arbeit.,Zur Familie.,c,mixed,010
+goethe-a1-sd1-exam-training-1,hoeren,2,7,true-false,Die Kunden sollen die Weihnachtsfeier besuchen.,Richtig,Falsch,,Falsch,shopping,011
+goethe-a1-sd1-exam-training-1,hoeren,2,8,true-false,Die Fahrgäste sollen sich im Restaurant treffen.,Richtig,Falsch,,Falsch,travel,011
+goethe-a1-sd1-exam-training-1,hoeren,2,9,true-false,Die Fahrgäste sollen im Zug bleiben.,Richtig,Falsch,,Richtig,travel,011
+goethe-a1-sd1-exam-training-1,hoeren,2,10,true-false,Der Herr soll sofort zum Schalter kommen.,Richtig,Falsch,,Richtig,travel,011
+goethe-a1-sd1-exam-training-1,hoeren,3,11,multiple-choice,Die Nummer ist:,11833.,11883.,12833.,a,communication,012
+goethe-a1-sd1-exam-training-1,hoeren,3,12,multiple-choice,Wo genau treffen sich die Männer?,Am Zug.,Am Bahnhof.,An der Information.,c,travel,012
+goethe-a1-sd1-exam-training-1,hoeren,3,13,multiple-choice,Wie lange will der Mann noch warten?,20 Minuten.,2 Minuten.,10 Minuten.,c,communication,012
+goethe-a1-sd1-exam-training-1,hoeren,3,14,multiple-choice,An welchem Tag will die Frau kommen?,Am Montag.,Am Sonntag.,Am Samstag.,b,time-dates,013
+goethe-a1-sd1-exam-training-1,hoeren,3,15,multiple-choice,Was ist kaputt?,Der Fernseher.,Der Computer.,Das Handy.,b,communication,013
+goethe-a1-sd1-exam-training-1,lesen,1,1,true-false,Lis Zug kommt nach halb eins an.,Richtig,Falsch,,Richtig,travel,016
+goethe-a1-sd1-exam-training-1,lesen,1,2,true-false,Karin wartet den ganzen Vormittag vor der Auskunft.,Richtig,Falsch,,Falsch,travel,016
+goethe-a1-sd1-exam-training-1,lesen,1,3,true-false,Ralf hatte am letzten Wochenende Geburtstag.,Richtig,Falsch,,Falsch,hobby,017
+goethe-a1-sd1-exam-training-1,lesen,1,4,true-false,Ralf hat nur zwei oder drei Leute eingeladen.,Richtig,Falsch,,Falsch,hobby,017
+goethe-a1-sd1-exam-training-1,lesen,1,5,true-false,Die Party findet draußen statt.,Richtig,Falsch,,Richtig,hobby,017
+goethe-a1-sd1-exam-training-1,lesen,2,6,multiple-choice,Sie möchten mit dem Schiff auf dem Rhein fahren.,www.schiff-ruedesheim.de,www.bingen-ruedesheimer.de,,b,travel,018
+goethe-a1-sd1-exam-training-1,lesen,2,7,multiple-choice,Sie möchten Deutsch in Deutschland lernen.,www.sprachenfuchs.de,www.eviva.com,,a,school,019
+goethe-a1-sd1-exam-training-1,lesen,2,8,multiple-choice,Sie möchten ein Zugticket im Internet kaufen.,www.DER.com,www.RED.com,,a,travel,019
+goethe-a1-sd1-exam-training-1,lesen,2,9,multiple-choice,Sie möchten Informationen über den Bodensee.,www.bodensee.de,www.rottenmeier.de,,a,travel,020
+goethe-a1-sd1-exam-training-1,lesen,2,10,multiple-choice,Sie sind in Wiesbaden und möchten mit dem Zug am Mittag in Hamburg sein.,"www.reiseauskunft.bahn.de — ab Hamburg 17.02. 12.18, an Wiesbaden 17.02. 16.52 (Dauer 4:34, 1x Umsteigen, ICE, S)","www.reiseauskunft.bahn.de — ab Wiesbaden 17.02. 08.09, an Hamburg 17.02. 12.40 (Dauer 4:31, 1x Umsteigen, S, ICE)",,b,travel,020
+goethe-a1-sd1-exam-training-1,lesen,3,11,true-false,In der Sprachschule können Sie etwas zu essen kaufen.,Richtig,Falsch,,Richtig,food,021
+goethe-a1-sd1-exam-training-1,lesen,3,12,true-false,Es ist Samstagnachmittag. Sie können auf der Post Briefmarken kaufen.,Richtig,Falsch,,Falsch,city-places,022
+goethe-a1-sd1-exam-training-1,lesen,3,13,true-false,Sie können hier Zigaretten rauchen.,Richtig,Falsch,,Falsch,city-places,022
+goethe-a1-sd1-exam-training-1,lesen,3,14,true-false,Heute Abend können Sie in diesem Restaurant tanzen.,Richtig,Falsch,,Richtig,restaurant,023
+goethe-a1-sd1-exam-training-1,lesen,3,15,true-false,Von 23 Uhr bis 1 Uhr fährt kein Bus.,Richtig,Falsch,,Richtig,travel,023
+goethe-a1-sd1-exam-training-1,schreiben,1,1,fill-in,Anzahl der Personen: (im Formular BODENSEE-RUNDFAHRT / Anmeldung ergänzen),,,,4,travel,024
+goethe-a1-sd1-exam-training-1,schreiben,1,2,fill-in,Davon Kinder: (im Formular BODENSEE-RUNDFAHRT / Anmeldung ergänzen),,,,2,travel,024
+goethe-a1-sd1-exam-training-1,schreiben,1,3,fill-in,"PLZ, Urlaubsort: 78014 ______ (im Formular BODENSEE-RUNDFAHRT / Anmeldung ergänzen)",,,,Seeheim,travel,024
+goethe-a1-sd1-exam-training-1,schreiben,1,4,fill-in,Zahlungsweise: (im Formular BODENSEE-RUNDFAHRT / Anmeldung ankreuzen: Bar oder Kreditkarte),,,,bar,travel,024
+goethe-a1-sd1-exam-training-1,schreiben,1,5,fill-in,Reisetermin: (im Formular BODENSEE-RUNDFAHRT / Anmeldung ergänzen),,,,Datum (vom nächsten Sonntag) / Sonntag / nächsten Sonntag,travel,024
+goethe-a1-sd1-exam-training-1,schreiben,2,1,open,"Sie möchten im August Dresden besuchen. Schreiben Sie an die Touristeninformation: Warum schreiben Sie? Bitten Sie: Informationen über Filme, Museen usw. (Kulturprogramm). Fragen Sie: Hoteladressen? Schreiben Sie zu jedem Punkt ein bis zwei Sätze auf den Antwortbogen (circa 30 Wörter). Schreiben Sie auch eine Anrede und einen Gruß.",,,,(open-ended),travel,025
+goethe-a1-sd1-exam-training-1,sprechen,1,1,open,Sich vorstellen. Name? Alter? Land? Wohnort? Sprachen? Beruf? Hobby?,,,,(open-ended),personal-info,028
+goethe-a1-sd1-exam-training-1,sprechen,2,Frühstück,open,Um Informationen bitten und Informationen geben. Thema: Essen & Trinken — Frühstück,,,,(open-ended),food,029
+goethe-a1-sd1-exam-training-1,sprechen,2,Lieblings-essen,open,Um Informationen bitten und Informationen geben. Thema: Essen & Trinken — Lieblings-essen,,,,(open-ended),food,029
+goethe-a1-sd1-exam-training-1,sprechen,2,Sonntag,open,Um Informationen bitten und Informationen geben. Thema: Essen & Trinken — Sonntag,,,,(open-ended),food,029
+goethe-a1-sd1-exam-training-1,sprechen,2,Bier,open,Um Informationen bitten und Informationen geben. Thema: Essen & Trinken — Bier,,,,(open-ended),food,029
+goethe-a1-sd1-exam-training-1,sprechen,2,Fleisch,open,Um Informationen bitten und Informationen geben. Thema: Essen & Trinken — Fleisch,,,,(open-ended),food,029
+goethe-a1-sd1-exam-training-1,sprechen,2,Brot,open,Um Informationen bitten und Informationen geben. Thema: Essen & Trinken — Brot,,,,(open-ended),food,029
+goethe-a1-sd1-exam-training-1,sprechen,2,Zeitung,open,Um Informationen bitten und Informationen geben. Thema: Einkaufen — Zeitung,,,,(open-ended),shopping,030
+goethe-a1-sd1-exam-training-1,sprechen,2,Kasse,open,Um Informationen bitten und Informationen geben. Thema: Einkaufen — Kasse,,,,(open-ended),shopping,030
+goethe-a1-sd1-exam-training-1,sprechen,2,Obst,open,Um Informationen bitten und Informationen geben. Thema: Einkaufen — Obst,,,,(open-ended),shopping,030
+goethe-a1-sd1-exam-training-1,sprechen,2,Schuhe,open,Um Informationen bitten und Informationen geben. Thema: Einkaufen — Schuhe,,,,(open-ended),shopping,030
+goethe-a1-sd1-exam-training-1,sprechen,2,Buch,open,Um Informationen bitten und Informationen geben. Thema: Einkaufen — Buch,,,,(open-ended),shopping,030
+goethe-a1-sd1-exam-training-1,sprechen,2,Stadtplan,open,Um Informationen bitten und Informationen geben. Thema: Einkaufen — Stadtplan,,,,(open-ended),shopping,030
+goethe-a1-sd1-exam-training-1,sprechen,3,1,open,Bitten formulieren und darauf reagieren. Bildkarte: Buch/Heft mit einer CD (CD-ROM),,,,(open-ended),mixed,031
+goethe-a1-sd1-exam-training-1,sprechen,3,2,open,Bitten formulieren und darauf reagieren. Bildkarte: Buch mit Etikett/Aufkleber,,,,(open-ended),mixed,031
+goethe-a1-sd1-exam-training-1,sprechen,3,3,open,Bitten formulieren und darauf reagieren. Bildkarte: Anzug/Jackett mit Krawatte und Flasche,,,,(open-ended),mixed,031
+goethe-a1-sd1-exam-training-1,sprechen,3,4,open,Bitten formulieren und darauf reagieren. Bildkarte: Bleistift auf Papier,,,,(open-ended),mixed,031
+goethe-a1-sd1-exam-training-1,sprechen,3,5,open,Bitten formulieren und darauf reagieren. Bildkarte: Tisch (Beistelltisch),,,,(open-ended),mixed,031
+goethe-a1-sd1-exam-training-1,sprechen,3,6,open,Bitten formulieren und darauf reagieren. Bildkarte: Taschenuhr mit Kette,,,,(open-ended),mixed,031
+goethe-a1-sd1-exam-training-1,sprechen,3,7,open,Bitten formulieren und darauf reagieren. Bildkarte: ein Apfel,,,,(open-ended),mixed,032
+goethe-a1-sd1-exam-training-1,sprechen,3,8,open,Bitten formulieren und darauf reagieren. Bildkarte: Messer und Gabel auf einer Serviette,,,,(open-ended),mixed,032
+goethe-a1-sd1-exam-training-1,sprechen,3,9,open,Bitten formulieren und darauf reagieren. Bildkarte: ein Glas (halb gefüllt),,,,(open-ended),mixed,032
+goethe-a1-sd1-exam-training-1,sprechen,3,10,open,Bitten formulieren und darauf reagieren. Bildkarte: Rauchverbot (durchgestrichene Zigarette),,,,(open-ended),mixed,032
+goethe-a1-sd1-exam-training-1,sprechen,3,11,open,Bitten formulieren und darauf reagieren. Bildkarte: eine Aktentasche / Tasche,,,,(open-ended),mixed,032
+goethe-a1-sd1-exam-training-1,sprechen,3,12,open,Bitten formulieren und darauf reagieren. Bildkarte: ein Radio mit Musiknoten,,,,(open-ended),mixed,032

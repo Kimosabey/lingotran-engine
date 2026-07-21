@@ -14,7 +14,7 @@ if (!ROOT) throw new Error('args.root (absolute path to german/extracted) is req
 if (!Array.isArray(COLLECTIONS)) throw new Error('args.collections must be an array of slugs')
 
 const ACTIVITY = 'multiple-choice, matching, true-false, fill-in, ordering, short-answer, writing-task, speaking-task, listening-comprehension, reading-comprehension, vocabulary, instructions, cover, answer-key, none'
-const TOPIC = 'personal-info, family, home, daily-routine, food-drink, shopping, work-jobs, free-time, travel-transport, health-body, weather-seasons, communication, city-places, numbers-time, mixed, none'
+const TOPIC = 'travel, food, restaurant, weather, school, profession, family, vacation, hobby, shopping, home, daily-routine, health, city-places, time-dates, personal-info, communication, mixed, none'
 
 const CLASS_SCHEMA = {
   type: 'object', additionalProperties: false,

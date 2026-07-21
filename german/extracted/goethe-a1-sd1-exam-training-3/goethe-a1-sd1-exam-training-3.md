@@ -55,13 +55,13 @@
 | none | 21 |
 | mixed | 11 |
 | communication | 3 |
-| free-time | 3 |
+| hobby | 3 |
 | personal-info | 2 |
-| travel-transport | 2 |
-| work-jobs | 2 |
+| profession | 2 |
+| travel | 2 |
 | home | 1 |
 | shopping | 1 |
-| weather-seasons | 1 |
+| weather | 1 |
 
 ## Page index
 
@@ -75,16 +75,16 @@
 | 006 |  | none | none | Blank page with logo only. |
 | 007 | hoeren | instructions | none | Listening section intro and general test instructions. |
 | 008 | hoeren | multiple-choice | home | Listening Part 1 instructions with worked example about room numbers. |
-| 009 | hoeren | listening-comprehension | free-time | Listening questions 1-3 on party location, meeting time, taxis. |
+| 009 | hoeren | listening-comprehension | hobby | Listening questions 1-3 on party location, meeting time, taxis. |
 | 010 | hoeren | listening-comprehension | mixed | Listening questions 4-6 on courses, food to bring, return date. |
-| 011 | hoeren | true-false | travel-transport | Listening Part 2 true/false announcements, questions 7-10. |
+| 011 | hoeren | true-false | travel | Listening Part 2 true/false announcements, questions 7-10. |
 | 012 | hoeren | listening-comprehension | mixed | Listening Part 3 questions 11-13 on forms, meeting places, times. |
 | 013 | hoeren | listening-comprehension | communication | Listening questions 14-15 on giving info and commuting to work. |
 | 014 |  | none | none | Blank page with logo only. |
 | 015 | lesen | instructions | none | Reading and Writing section intro and instructions. |
-| 016 | lesen | reading-comprehension | free-time | Reading Part 1 true/false on a letter about a jazz concert. |
-| 017 | lesen | reading-comprehension | work-jobs | Reading true/false on an email about a work schedule, questions 3-5. |
-| 018 | lesen | matching | weather-seasons | Reading Part 2 matching ads, example weather plus question 6 venue. |
+| 016 | lesen | reading-comprehension | hobby | Reading Part 1 true/false on a letter about a jazz concert. |
+| 017 | lesen | reading-comprehension | profession | Reading true/false on an email about a work schedule, questions 3-5. |
+| 018 | lesen | matching | weather | Reading Part 2 matching ads, example weather plus question 6 venue. |
 | 019 | lesen | matching | mixed | Reading Part 2 matching ads for computer repair and dancing, 7-8. |
 | 020 | lesen | matching | mixed | Reading Part 2 matching ads for football and student jobs, 9-10. |
 | 021 | lesen | reading-comprehension | shopping | Reading Part 3 true/false on signs, example plus flower shop, 11. |
@@ -95,14 +95,14 @@
 | 026 |  | none | none | Blank page with logo only. |
 | 027 | sprechen | instructions | none | Speaking section intro and general instructions. |
 | 028 | sprechen | speaking-task | personal-info | Speaking Part 1 self-introduction prompts: name, age, country, job. |
-| 029 | sprechen | speaking-task | work-jobs | Speaking Part 2 cards on work theme: hours, colleagues, clothing. |
-| 030 | sprechen | speaking-task | free-time | Speaking Part 2 cards on sport theme: swimming, weekend, bike. |
+| 029 | sprechen | speaking-task | profession | Speaking Part 2 cards on work theme: hours, colleagues, clothing. |
+| 030 | sprechen | speaking-task | hobby | Speaking Part 2 cards on sport theme: swimming, weekend, bike. |
 | 031 | sprechen | speaking-task | mixed | Speaking Part 3 picture cards: post office, taxi, key, receipt. |
 | 032 | sprechen | speaking-task | mixed | Speaking Part 3 picture cards: toiletries, coins, calendar, station. |
 | 033 |  | none | none | Examiner sheets table of contents. |
 | 034 | hoeren | listening-comprehension | mixed | Listening transcripts for Part 1 example and items 1-3. |
 | 035 | hoeren | listening-comprehension | mixed | Listening transcripts for items 4-6. |
-| 036 | hoeren | listening-comprehension | travel-transport | Listening transcripts Part 2 announcements, items 7-10. |
+| 036 | hoeren | listening-comprehension | travel | Listening transcripts Part 2 announcements, items 7-10. |
 | 037 | hoeren | listening-comprehension | mixed | Listening transcripts Part 3 phone messages, items 11-15. |
 | 038 | answer-key | answer-key | none | Answer key for Listening, Reading, and Writing sections. |
 | 039 | schreiben | answer-key | none | Writing assessment criteria and scoring scale. |
@@ -287,7 +287,7 @@ Seite 6
 
 GOETHE INSTITUT
 
-## Page 009  — hoeren · [exercise] · listening-comprehension · free-time
+## Page 009  — hoeren · [exercise] · listening-comprehension · hobby
 
 # Hören
 
@@ -349,7 +349,7 @@ Seite 8
 
 GOETHE-INSTITUT
 
-## Page 011  — hoeren · [exercise, listening-sheet] · true-false · travel-transport
+## Page 011  — hoeren · [exercise, listening-sheet] · true-false · travel
 
 # Hören
 
@@ -478,7 +478,7 @@ Seite 13
 
 GOETHE-INSTITUT
 
-## Page 016  — lesen · [exercise, reading-text, instructions] · reading-comprehension · free-time
+## Page 016  — lesen · [exercise, reading-text, instructions] · reading-comprehension · hobby
 
 # Start Deutsch 1
 
@@ -522,7 +522,7 @@ Seite 14
 
 Goethe-Institut
 
-## Page 017  — lesen · [reading-text, exercise] · reading-comprehension · work-jobs
+## Page 017  — lesen · [reading-text, exercise] · reading-comprehension · profession
 
 # Lesen
 
@@ -559,7 +559,7 @@ Seite 15
 
 Goethe-Institut
 
-## Page 018  — lesen · [instructions, exercise, reading-text] · matching · weather-seasons
+## Page 018  — lesen · [instructions, exercise, reading-text] · matching · weather
 
 # Start Deutsch 1
 
@@ -962,7 +962,7 @@ Seite 26
 
 GOETHE-INSTITUT
 
-## Page 029  — sprechen · [speaking-prompt] · speaking-task · work-jobs
+## Page 029  — sprechen · [speaking-prompt] · speaking-task · profession
 
 # Sprechen
 
@@ -1048,7 +1048,7 @@ Seite 27
 
 GOETHE-INSTITUT
 
-## Page 030  — sprechen · [speaking-prompt] · speaking-task · free-time
+## Page 030  — sprechen · [speaking-prompt] · speaking-task · hobby
 
 # Start Deutsch 1
 
@@ -1296,7 +1296,7 @@ GOETHE-INSTITUT
 
 Seite 33
 
-## Page 036  — hoeren · [instructions, listening-sheet] · listening-comprehension · travel-transport
+## Page 036  — hoeren · [instructions, listening-sheet] · listening-comprehension · travel
 
 # Start Deutsch 1
 

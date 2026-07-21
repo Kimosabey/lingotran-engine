@@ -7,16 +7,16 @@ goethe-a1-sd1-exam-training-3,page-005,,[intro],instructions,none,A1,verified,pa
 goethe-a1-sd1-exam-training-3,page-006,,[],none,none,A1,verified,pass,23,Blank page with logo only.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top right and bottom
 goethe-a1-sd1-exam-training-3,page-007,hoeren,"[intro, instructions]",instructions,none,A1,verified,pass,61,Listening section intro and general test instructions.,Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-008,hoeren,"[instructions, exercise]",multiple-choice,home,A1,verified,pass,69,Listening Part 1 instructions with worked example about room numbers.,Start Deutsch 1
-goethe-a1-sd1-exam-training-3,page-009,hoeren,[exercise],listening-comprehension,free-time,A1,verified,pass,86,"Listening questions 1-3 on party location, meeting time, taxis.",Hören
+goethe-a1-sd1-exam-training-3,page-009,hoeren,[exercise],listening-comprehension,hobby,A1,verified,pass,86,"Listening questions 1-3 on party location, meeting time, taxis.",Hören
 goethe-a1-sd1-exam-training-3,page-010,hoeren,"[exercise, listening-sheet]",listening-comprehension,mixed,A1,verified,pass,126,"Listening questions 4-6 on courses, food to bring, return date.",Start Deutsch 1
-goethe-a1-sd1-exam-training-3,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel-transport,A1,verified,pass,98,"Listening Part 2 true/false announcements, questions 7-10.",Hören
+goethe-a1-sd1-exam-training-3,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel,A1,verified,pass,98,"Listening Part 2 true/false announcements, questions 7-10.",Hören
 goethe-a1-sd1-exam-training-3,page-012,hoeren,[exercise],listening-comprehension,mixed,A1,verified,pass,88,"Listening Part 3 questions 11-13 on forms, meeting places, times.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-013,hoeren,[exercise],listening-comprehension,communication,A1,verified,pass,74,Listening questions 14-15 on giving info and commuting to work.,Hören
 goethe-a1-sd1-exam-training-3,page-014,,[],none,none,A1,verified,pass,27,Blank page with logo only.,<!-- This page is intentionally blank apart from the Goethe-Institut logo and the footer. 
 goethe-a1-sd1-exam-training-3,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,75,Reading and Writing section intro and instructions.,Start Deutsch 1
-goethe-a1-sd1-exam-training-3,page-016,lesen,"[exercise, reading-text, instructions]",reading-comprehension,free-time,A1,verified,pass,144,Reading Part 1 true/false on a letter about a jazz concert.,Start Deutsch 1
-goethe-a1-sd1-exam-training-3,page-017,lesen,"[reading-text, exercise]",reading-comprehension,work-jobs,A1,verified,pass,119,"Reading true/false on an email about a work schedule, questions 3-5.",Lesen
-goethe-a1-sd1-exam-training-3,page-018,lesen,"[instructions, exercise, reading-text]",matching,weather-seasons,A1,verified,pass,171,"Reading Part 2 matching ads, example weather plus question 6 venue.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-016,lesen,"[exercise, reading-text, instructions]",reading-comprehension,hobby,A1,verified,pass,144,Reading Part 1 true/false on a letter about a jazz concert.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-017,lesen,"[reading-text, exercise]",reading-comprehension,profession,A1,verified,pass,119,"Reading true/false on an email about a work schedule, questions 3-5.",Lesen
+goethe-a1-sd1-exam-training-3,page-018,lesen,"[instructions, exercise, reading-text]",matching,weather,A1,verified,pass,171,"Reading Part 2 matching ads, example weather plus question 6 venue.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-019,lesen,"[exercise, reading-text]",matching,mixed,A1,verified,pass,164,"Reading Part 2 matching ads for computer repair and dancing, 7-8.",Lesen
 goethe-a1-sd1-exam-training-3,page-020,lesen,[exercise],matching,mixed,A1,verified,pass,155,"Reading Part 2 matching ads for football and student jobs, 9-10.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-021,lesen,"[instructions, reading-text, exercise]",reading-comprehension,shopping,A1,verified,pass,104,"Reading Part 3 true/false on signs, example plus flower shop, 11.",Lesen
@@ -27,14 +27,14 @@ goethe-a1-sd1-exam-training-3,page-025,schreiben,[writing-prompt],writing-task,c
 goethe-a1-sd1-exam-training-3,page-026,,[],none,none,A1,verified,pass,23,Blank page with logo only.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top-right and bottom
 goethe-a1-sd1-exam-training-3,page-027,sprechen,"[intro, instructions]",instructions,none,A1,verified,pass,26,Speaking section intro and general instructions.,Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-028,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,19,"Speaking Part 1 self-introduction prompts: name, age, country, job.",Start Deutsch 1
-goethe-a1-sd1-exam-training-3,page-029,sprechen,[speaking-prompt],speaking-task,work-jobs,A1,verified,pass,184,"Speaking Part 2 cards on work theme: hours, colleagues, clothing.",Sprechen
-goethe-a1-sd1-exam-training-3,page-030,sprechen,[speaking-prompt],speaking-task,free-time,A1,verified,pass,107,"Speaking Part 2 cards on sport theme: swimming, weekend, bike.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-029,sprechen,[speaking-prompt],speaking-task,profession,A1,verified,pass,184,"Speaking Part 2 cards on work theme: hours, colleagues, clothing.",Sprechen
+goethe-a1-sd1-exam-training-3,page-030,sprechen,[speaking-prompt],speaking-task,hobby,A1,verified,pass,107,"Speaking Part 2 cards on sport theme: swimming, weekend, bike.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,125,"Speaking Part 3 picture cards: post office, taxi, key, receipt.",Sprechen
 goethe-a1-sd1-exam-training-3,page-032,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,152,"Speaking Part 3 picture cards: toiletries, coins, calendar, station.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-033,,[toc],none,none,A1,verified,pass,58,Examiner sheets table of contents.,Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-034,hoeren,[listening-sheet],listening-comprehension,mixed,A1,verified,pass,293,Listening transcripts for Part 1 example and items 1-3.,Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-035,hoeren,[listening-sheet],listening-comprehension,mixed,A1,verified,pass,159,Listening transcripts for items 4-6.,Hören
-goethe-a1-sd1-exam-training-3,page-036,hoeren,"[instructions, listening-sheet]",listening-comprehension,travel-transport,A1,verified,pass,205,"Listening transcripts Part 2 announcements, items 7-10.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-036,hoeren,"[instructions, listening-sheet]",listening-comprehension,travel,A1,verified,pass,205,"Listening transcripts Part 2 announcements, items 7-10.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-037,hoeren,"[instructions, listening-sheet]",listening-comprehension,mixed,A1,verified,pass,262,"Listening transcripts Part 3 phone messages, items 11-15.",Hören
 goethe-a1-sd1-exam-training-3,page-038,answer-key,[answer-key],answer-key,none,A1,verified,pass,345,"Answer key for Listening, Reading, and Writing sections.",6152
 goethe-a1-sd1-exam-training-3,page-039,schreiben,"[instructions, answer-key]",answer-key,none,A1,verified,pass,93,Writing assessment criteria and scoring scale.,Schreiben

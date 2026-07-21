@@ -9,25 +9,25 @@ goethe-a1-sd1-exam-training-1,page-007,hoeren,[instructions],instructions,none,A
 goethe-a1-sd1-exam-training-1,page-008,hoeren,"[instructions, exercise]",multiple-choice,personal-info,A1,verified,pass,81,Listening Part 1 instructions with worked example on room number.,Start Deutsch 1
 goethe-a1-sd1-exam-training-1,page-009,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,113,"Listening Part 1 items on price, time, and restaurant food.",Hören
 goethe-a1-sd1-exam-training-1,page-010,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,126,"Listening Part 1 items on school class, floor access, travel.",Start Deutsch 1
-goethe-a1-sd1-exam-training-1,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel-transport,A1,verified,pass,131,Listening Part 2 true/false announcements at station and store.,Hören
+goethe-a1-sd1-exam-training-1,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel,A1,verified,pass,131,Listening Part 2 true/false announcements at station and store.,Hören
 goethe-a1-sd1-exam-training-1,page-012,hoeren,"[exercise, listening-sheet]",multiple-choice,communication,A1,verified,pass,77,Listening Part 3 items on phone number and meeting point.,Start Deutsch 1
 goethe-a1-sd1-exam-training-1,page-013,hoeren,"[exercise, listening-sheet]",multiple-choice,mixed,A1,verified,pass,58,Listening Part 3 items on day of visit and broken device.,Hören
 goethe-a1-sd1-exam-training-1,page-014,,[],none,none,A1,verified,pass,2,Blank page with only the page number.,Seite 14
 goethe-a1-sd1-exam-training-1,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,76,Reading and Writing section intro and instructions.,Start Deutsch 1
-goethe-a1-sd1-exam-training-1,page-016,lesen,"[instructions, reading-text, exercise]",true-false,travel-transport,A1,verified,pass,144,Reading Part 1 true/false about an email on train arrival.,Start Deutsch 1
-goethe-a1-sd1-exam-training-1,page-017,lesen,"[reading-text, exercise]",true-false,free-time,A1,verified,pass,116,Reading Part 1 true/false about a birthday party invitation.,Lesen
-goethe-a1-sd1-exam-training-1,page-018,lesen,"[exercise, reading-text]",multiple-choice,travel-transport,A1,verified,pass,148,Reading Part 2 matching websites for weather and Rhine boats.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-016,lesen,"[instructions, reading-text, exercise]",true-false,travel,A1,verified,pass,144,Reading Part 1 true/false about an email on train arrival.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-017,lesen,"[reading-text, exercise]",true-false,hobby,A1,verified,pass,116,Reading Part 1 true/false about a birthday party invitation.,Lesen
+goethe-a1-sd1-exam-training-1,page-018,lesen,"[exercise, reading-text]",multiple-choice,travel,A1,verified,pass,148,Reading Part 2 matching websites for weather and Rhine boats.,Start Deutsch 1
 goethe-a1-sd1-exam-training-1,page-019,lesen,"[exercise, reading-text]",multiple-choice,mixed,A1,verified,pass,151,Reading Part 2 matching websites for language courses and tickets.,Lesen
-goethe-a1-sd1-exam-training-1,page-020,lesen,[exercise],multiple-choice,travel-transport,A1,verified,pass,179,Reading Part 2 matching websites for lake info and train times.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-020,lesen,[exercise],multiple-choice,travel,A1,verified,pass,179,Reading Part 2 matching websites for lake info and train times.,Start Deutsch 1
 goethe-a1-sd1-exam-training-1,page-021,lesen,"[instructions, reading-text, exercise]",true-false,city-places,A1,verified,pass,100,Reading Part 3 true/false on signs about language school breakfast.,Lesen
 goethe-a1-sd1-exam-training-1,page-022,lesen,"[exercise, reading-text]",true-false,city-places,A1,verified,pass,77,Reading Part 3 true/false on post office and station signs.,Start Deutsch 1
 goethe-a1-sd1-exam-training-1,page-023,lesen,"[exercise, reading-text]",true-false,city-places,A1,verified,pass,88,Reading Part 3 true/false on restaurant and bus stop signs.,Lesen
-goethe-a1-sd1-exam-training-1,page-024,lesen,"[exercise, reading-text]",fill-in,travel-transport,A1,verified,pass,175,Writing Part 1 form-filling for a Bodensee bus tour registration.,Start Deutsch 1
-goethe-a1-sd1-exam-training-1,page-025,schreiben,[writing-prompt],writing-task,travel-transport,A1,verified,pass,60,Writing Part 2 letter to Dresden tourist information office.,Schreiben
+goethe-a1-sd1-exam-training-1,page-024,lesen,"[exercise, reading-text]",fill-in,travel,A1,verified,pass,175,Writing Part 1 form-filling for a Bodensee bus tour registration.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-025,schreiben,[writing-prompt],writing-task,travel,A1,verified,pass,60,Writing Part 2 letter to Dresden tourist information office.,Schreiben
 goethe-a1-sd1-exam-training-1,page-026,,[],none,none,A1,verified,pass,22,Intentionally blank page with only logo and page number.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top-right and bottom
 goethe-a1-sd1-exam-training-1,page-027,sprechen,[intro],instructions,none,A1,verified,pass,25,Speaking section intro describing the group oral exam.,Start Deutsch  1
 goethe-a1-sd1-exam-training-1,page-028,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,19,"Speaking Part 1 self-introduction prompts: name, age, country, hobby.",Start Deutsch  1
-goethe-a1-sd1-exam-training-1,page-029,sprechen,[speaking-prompt],speaking-task,food-drink,A1,verified,pass,180,Speaking Part 2 cards asking for information on food and drink.,Sprechen
+goethe-a1-sd1-exam-training-1,page-029,sprechen,[speaking-prompt],speaking-task,food,A1,verified,pass,180,Speaking Part 2 cards asking for information on food and drink.,Sprechen
 goethe-a1-sd1-exam-training-1,page-030,sprechen,[speaking-prompt],speaking-task,shopping,A1,verified,pass,128,Speaking Part 2 cards on shopping topics like fruit and shoes.,Start Deutsch  1
 goethe-a1-sd1-exam-training-1,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,187,Speaking Part 3 picture cards prompting requests from objects.,Sprechen
 goethe-a1-sd1-exam-training-1,page-032,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,140,Speaking Part 3 additional picture cards of everyday objects.,Start Deutsch  1

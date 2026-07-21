@@ -1,0 +1,42 @@
+collection,section,teil,item,item_type,question,option_a,option_b,option_c,correct_answer,topic,source_page
+goethe-a1-sd1-exam-training-2,hoeren,1,1,multiple-choice,Wo gibt es Kleidung für Kinder?,Im 1. Stock.,Im 2. Stock.,Im 4. Stock.,b,shopping,009
+goethe-a1-sd1-exam-training-2,hoeren,1,2,multiple-choice,Was bestellt die Dame?,Hähnchen.,Fisch.,Salat.,c,restaurant,009
+goethe-a1-sd1-exam-training-2,hoeren,1,3,multiple-choice,Wie lange hat das Museum am Mittwoch geöffnet?,Bis 15 Uhr.,Bis 18 Uhr.,Bis 22 Uhr.,a,city-places,009
+goethe-a1-sd1-exam-training-2,hoeren,1,4,multiple-choice,Welchen Sport empfiehlt der Arzt?,Fahrrad fahren.,Fußball.,Laufen.,a,health,010
+goethe-a1-sd1-exam-training-2,hoeren,1,5,multiple-choice,Wo macht Familie Bauer Urlaub?,Am Meer.,Bei Verwandten.,Zu Hause.,b,vacation,010
+goethe-a1-sd1-exam-training-2,hoeren,1,6,multiple-choice,Wie lange dauert der Flug nach München?,30 Minuten.,45 Minuten.,50 Minuten.,c,travel,010
+goethe-a1-sd1-exam-training-2,hoeren,2,7,true-false,Die Fahrgäste sollen im Zug bleiben.,Richtig,Falsch,,Richtig,travel,011
+goethe-a1-sd1-exam-training-2,hoeren,2,8,true-false,Fluggäste nach Rom sollen zu Ausgang A7 kommen.,Richtig,Falsch,,Falsch,travel,011
+goethe-a1-sd1-exam-training-2,hoeren,2,9,true-false,Die Urlauber sollen um vier Uhr am Bus sein.,Richtig,Falsch,,Falsch,vacation,011
+goethe-a1-sd1-exam-training-2,hoeren,2,10,true-false,Der Vater von Mario soll sofort zur Information gehen.,Richtig,Falsch,,Richtig,city-places,011
+goethe-a1-sd1-exam-training-2,hoeren,3,11,multiple-choice,Wann soll Frau Krause anrufen?,Vor 13 Uhr.,Zwischen 13 und 18 Uhr.,Zwischen 18 und 19 Uhr.,b,communication,012
+goethe-a1-sd1-exam-training-2,hoeren,3,12,multiple-choice,Was möchte Nina heute Abend machen?,Einen Film sehen.,Lernen.,Zu Hause bleiben.,a,communication,012
+goethe-a1-sd1-exam-training-2,hoeren,3,13,multiple-choice,Was soll Sarah mitbringen?,Ein Deutschbuch.,Ein Wörterbuch.,Eine CD.,b,communication,012
+goethe-a1-sd1-exam-training-2,hoeren,3,14,multiple-choice,Wo wollen sich die Frauen mit Sabine treffen?,Beim Konzert.,Im Café.,In der Disco.,c,communication,013
+goethe-a1-sd1-exam-training-2,hoeren,3,15,multiple-choice,Wann will Herr Heinze Frau Solms treffen?,Um 12 Uhr.,Um 13 Uhr.,Um 18 Uhr.,b,communication,013
+goethe-a1-sd1-exam-training-2,lesen,1,1,true-false,Renate macht in Weimar Urlaub.,Richtig,Falsch,,Falsch,travel,016
+goethe-a1-sd1-exam-training-2,lesen,1,2,true-false,Sie möchte am Abend mit Nora zusammen essen.,Richtig,Falsch,,Richtig,communication,016
+goethe-a1-sd1-exam-training-2,lesen,1,3,true-false,Die Sportsfreunde machen jeden Sommer einen Ausflug.,Richtig,Falsch,,Richtig,hobby,017
+goethe-a1-sd1-exam-training-2,lesen,1,4,true-false,Der Bus wartet vor dem Vereinshaus.,Richtig,Falsch,,Richtig,hobby,017
+goethe-a1-sd1-exam-training-2,lesen,1,5,true-false,Für die Fahrt und das Essen bezahlt jeder 10 Euro.,Richtig,Falsch,,Falsch,hobby,017
+goethe-a1-sd1-exam-training-2,lesen,2,6,matching,Sie studieren in Frankfurt und möchten eine Wohnung mieten. Wo finden Sie Informationen?,www.goetheuni-frankfurt.de,www.agentur-spiess.com,,a,home,018
+goethe-a1-sd1-exam-training-2,lesen,2,7,matching,Sie möchten wissen: Wie kommt man vom Hamburger Bahnhof zum Hamburger Flughafen?,www.flughafen-service.de,www.hh-flughafen.de,,b,travel,019
+goethe-a1-sd1-exam-training-2,lesen,2,8,matching,Sie suchen ein Angebot für Ihre Urlaubsreise.,www.travel-münchen.de,www.lastminute.de,,b,vacation,019
+goethe-a1-sd1-exam-training-2,lesen,2,9,matching,Sie suchen eine Wohnung für Ihren Urlaub.,www.st.peter.ording.de/mietwohnungen,www.ferienandernordsee.de,,b,vacation,020
+goethe-a1-sd1-exam-training-2,lesen,2,10,matching,Sie arbeiten in Deutschland. In Ihrer Freizeit möchten Sie Fußball spielen.,www.goal.de,www.vereinssport.de,,b,hobby,020
+goethe-a1-sd1-exam-training-2,lesen,3,11,true-false,Am Fahrkartenautomaten: Am Samstag können Sie und Ihre Freunde mit dem Ticket für 29 Euro fahren.,Richtig,Falsch,,Richtig,travel,021
+goethe-a1-sd1-exam-training-2,lesen,3,12,true-false,Im Hotelzimmer: Nach 22 Uhr kommen Sie nicht mehr ins Hotel.,Richtig,Falsch,,Falsch,city-places,022
+goethe-a1-sd1-exam-training-2,lesen,3,13,true-false,Eingang Restaurant: Am Sonntagmittag können Sie in diesem Restaurant essen.,Richtig,Falsch,,Richtig,restaurant,022
+goethe-a1-sd1-exam-training-2,lesen,3,14,true-false,Im Kultur-Verein: Man kann diesen Samstagabend einen Film sehen.,Richtig,Falsch,,Richtig,hobby,023
+goethe-a1-sd1-exam-training-2,lesen,3,15,true-false,Im Bahnhof: Fahrkarten können Sie an allen Schaltern bekommen.,Richtig,Falsch,,Falsch,travel,023
+goethe-a1-sd1-exam-training-2,schreiben,1,1,fill-in,Formular Sprachenschule LIGA / Anmeldung: Geburtsort:,,,,"Lyon / Lyon, Frankreich",personal-info,024
+goethe-a1-sd1-exam-training-2,schreiben,1,2,fill-in,Formular Sprachenschule LIGA / Anmeldung: Andere Sprachen:,,,,Englisch,personal-info,024
+goethe-a1-sd1-exam-training-2,schreiben,1,3,fill-in,Formular Sprachenschule LIGA / Anmeldung: Wie lange? (Schon Deutsch gelernt?),,,,6 Monate / sechs Monate,personal-info,024
+goethe-a1-sd1-exam-training-2,schreiben,1,4,fill-in,Formular Sprachenschule LIGA / Anmeldung: Kurstermin:,,,,1. bis 28. August o.Ä.,personal-info,024
+goethe-a1-sd1-exam-training-2,schreiben,1,5,fill-in,Formular Sprachenschule LIGA / Anmeldung: Kurszeit: (von 9 – 12 Uhr / von 13 – 16 Uhr / von 17 – 20 Uhr),,,,9 - 12 Uhr,personal-info,024
+goethe-a1-sd1-exam-training-2,schreiben,2,1,open,Sie möchten Ihren Geburtstag feiern und Ihre Freundin Anna einladen. Schreiben Sie Anna eine E-Mail: - Warum schreiben Sie? - Sagen Sie: Wann und wo feiern Sie? - Fragen Sie: kommen? Schreiben Sie zu jedem Punkt ein bis zwei Sätze auf den Antwortbogen (circa 30 Wörter). Schreiben Sie auch eine Anrede und einen Gruß.,,,,(open-ended),communication,025
+goethe-a1-sd1-exam-training-2,sprechen,1,1,open,Teil 1 Sich vorstellen. Name? Alter? Land? Wohnort? Sprachen? Beruf? Hobby?,,,,(open-ended),personal-info,028
+goethe-a1-sd1-exam-training-2,sprechen,2,1,open,"Teil 2 Um Informationen bitten und Informationen geben. Thema: Wochenende. Stichwörter auf den sechs Aufgabenkarten: 1 Sonntag, 2 Frühstück, 3 Sport, 4 Familie, 5 Ausflug, 6 Bücher.",,,,(open-ended),mixed,029
+goethe-a1-sd1-exam-training-2,sprechen,2,2,open,"Teil 2 Um Informationen bitten und Informationen geben. Thema: Schule. Wörter auf den sechs Wortkarten: 1 Freunde, 2 Lehrer, 3 Computer, 4 Sprachen, 5 Essen, 6 Hausaufgaben.",,,,(open-ended),school,030
+goethe-a1-sd1-exam-training-2,sprechen,3,1,open,"Teil 3 Bitten formulieren und darauf reagieren. Sechs Bildkarten: 1 Computer (Monitor mit Tastatur), 2 Hand, die mit einem Stift auf ein Blatt Papier schreibt (Unterschrift), 3 Kochtopf mit Kochlöffel auf einem Herd, 4 Ein Glas (Weizenbier / Bierglas), 5 Blumenstrauß, 6 Kalender/Wecker mit den Tagen M D M D F S S und „8.00 Uhr"".",,,,(open-ended),mixed,031
+goethe-a1-sd1-exam-training-2,sprechen,3,2,open,"Teil 3 Bitten formulieren und darauf reagieren. Sechs Bildkarten: oben links ein Apfel, oben rechts ein Buch mit der Aufschrift „Deutsch"" (mit Deutschland-Flagge), Mitte links ein Glas (Wasserglas), Mitte rechts ein Rauchverbotsschild (durchgestrichene Zigarette), unten links eine Aktentasche / Tasche, unten rechts ein Radio (mit Musiknoten).",,,,(open-ended),mixed,032

@@ -36,7 +36,7 @@
 |---|---|
 | mixed | 21 |
 | none | 6 |
-| numbers-time | 2 |
+| time-dates | 2 |
 
 ## Page index
 
@@ -47,11 +47,11 @@
 | 003 |  | instructions | none | Foreword explaining the A1 vocabulary list's purpose and scope. |
 | 004 | vocabulary | vocabulary | mixed | Inventory of A1 thematic areas: person, home, environment, travel, food, work. |
 | 005 | vocabulary | instructions | none | Notes on how the vocabulary list is compiled and organized. |
-| 006 | vocabulary | vocabulary | numbers-time | Numbers, ordinals, and date expressions word-group list. |
-| 007 | vocabulary | vocabulary | numbers-time | Time, weekdays, times of day, and months vocabulary. |
+| 006 | vocabulary | vocabulary | time-dates | Numbers, ordinals, and date expressions word-group list. |
+| 007 | vocabulary | vocabulary | time-dates | Time, weekdays, times of day, and months vocabulary. |
 | 008 | vocabulary | vocabulary | mixed | Seasons, currency, measures, countries, colors, and directions vocabulary. |
 | 009 | vocabulary | vocabulary | mixed | Alphabetical word list A with example sentences. |
-| 010 | vocabulary | vocabulary | mixed | Alphabetical word list A (continued) with example sentences. |
+| 010 | vocabulary | vocabulary | mixed | Alphabetical word list A continued with example sentences. |
 | 011 | vocabulary | vocabulary | mixed | Alphabetical word list B with example sentences. |
 | 012 | vocabulary | vocabulary | mixed | Alphabetical word list B, C, D with example sentences. |
 | 013 | vocabulary | vocabulary | mixed | Alphabetical word list D, E with example sentences. |
@@ -62,12 +62,12 @@
 | 018 | vocabulary | vocabulary | mixed | Alphabetical word list J, K with example sentences. |
 | 019 | vocabulary | vocabulary | mixed | Alphabetical word list K, L, M with example sentences. |
 | 020 | vocabulary | vocabulary | mixed | Alphabetical word list M, N with example sentences. |
-| 021 | vocabulary | vocabulary | mixed | Alphabetical word list with example sentences. |
-| 022 | vocabulary | vocabulary | mixed | Alphabetical word list with example sentences. |
-| 023 | vocabulary | vocabulary | mixed | Alphabetical word list with example sentences. |
-| 024 | vocabulary | vocabulary | mixed | Alphabetical word list with example sentences. |
-| 025 | vocabulary | vocabulary | mixed | Alphabetical word list with example sentences. |
-| 026 | vocabulary | vocabulary | mixed | Alphabetical word list with example sentences. |
+| 021 | vocabulary | vocabulary | mixed | Alphabetical word list N, O, P with example sentences. |
+| 022 | vocabulary | vocabulary | mixed | Alphabetical word list R, S with example sentences. |
+| 023 | vocabulary | vocabulary | mixed | Alphabetical word list S with example sentences. |
+| 024 | vocabulary | vocabulary | mixed | Alphabetical word list S, T, U with example sentences. |
+| 025 | vocabulary | vocabulary | mixed | Alphabetical word list U, V, W with example sentences. |
+| 026 | vocabulary | vocabulary | mixed | Alphabetical word list W, Z with example sentences. |
 | 027 | vocabulary | vocabulary | mixed | Alphabetical word list Z with example sentences. |
 | 028 |  | instructions | none | Literature and references section listing source publications. |
 | 029 |  | none | none | Blank colored divider page with no printed content. |
@@ -273,7 +273,7 @@ Seite 5
 
 GOETHE INSTITUT
 
-## Page 006  — vocabulary · [vocabulary] · vocabulary · numbers-time
+## Page 006  — vocabulary · [vocabulary] · vocabulary · time-dates
 
 INVENTARE
 
@@ -324,7 +324,7 @@ Seite 6
 
 GOETHE INSTITUT
 
-## Page 007  — vocabulary · [vocabulary] · vocabulary · numbers-time
+## Page 007  — vocabulary · [vocabulary] · vocabulary · time-dates
 
 INVENTARE
 

@@ -1,0 +1,67 @@
+collection,section,teil,item,item_type,question,option_a,option_b,option_c,correct_answer,topic,source_page
+goethe-a1-sd1-exam-training-3,hoeren,1,0,multiple-choice,Welche Zimmernummer hat Herr Schneider?,Zimmer 2.,Zimmer 245.,Zimmer 254.,c,home,008
+goethe-a1-sd1-exam-training-3,hoeren,1,1,multiple-choice,Wo wollen die Freundinnen die Party machen?,Im Garten.,Im Haus.,Am See.,a,hobby,009
+goethe-a1-sd1-exam-training-3,hoeren,1,2,multiple-choice,Wann wollen sie sich treffen?,Um 19.30 Uhr.,Um 20.30 Uhr.,Um 21.00 Uhr.,b,time-dates,009
+goethe-a1-sd1-exam-training-3,hoeren,1,3,multiple-choice,Wo stehen Taxis?,An der Ecke rechts.,Die Straße geradeaus.,Geradeaus und links.,c,city-places,009
+goethe-a1-sd1-exam-training-3,hoeren,1,4,multiple-choice,Wie lange dauern die Sommerkurse?,Zwei Wochen.,Drei Wochen.,Vier Wochen.,a,school,010
+goethe-a1-sd1-exam-training-3,hoeren,1,5,multiple-choice,Was soll Johanna mitbringen?,Salat.,Saft.,Karten.,c,hobby,010
+goethe-a1-sd1-exam-training-3,hoeren,1,6,multiple-choice,Wann ist Frau Horn aus dem Urlaub zurück?,Am Mittwoch.,Am Freitag.,Am Montag.,c,vacation,010
+goethe-a1-sd1-exam-training-3,hoeren,2,0,true-false,Frau Gundlach soll zur Information in Halle C kommen.,Richtig,Falsch,,Richtig,travel,011
+goethe-a1-sd1-exam-training-3,hoeren,2,7,true-false,Die Fahrgäste sollen den Bus nehmen.,Richtig,Falsch,,Richtig,travel,011
+goethe-a1-sd1-exam-training-3,hoeren,2,8,true-false,Die Kunden sollen in den zweiten Stock kommen.,Richtig,Falsch,,Falsch,shopping,011
+goethe-a1-sd1-exam-training-3,hoeren,2,9,true-false,Die Leute sollen zu Hause bleiben.,Richtig,Falsch,,Richtig,home,011
+goethe-a1-sd1-exam-training-3,hoeren,2,10,true-false,Fahrgäste nach Innsbruck sollen mit dem ICE 346 fahren.,Richtig,Falsch,,Richtig,travel,011
+goethe-a1-sd1-exam-training-3,hoeren,3,11,multiple-choice,Wann will Greta das Formular holen?,Heute Abend.,Morgen.,Montagmorgen.,c,communication,012
+goethe-a1-sd1-exam-training-3,hoeren,3,12,multiple-choice,Wo möchte Heinz Siggi treffen?,Am Bahnhof.,Im italienischen Restaurant.,"Im Restaurant „Zwiebel"".",a,restaurant,012
+goethe-a1-sd1-exam-training-3,hoeren,3,13,multiple-choice,Wann möchte Eva Schmitz am Mittwoch kommen?,Um 10.00 Uhr.,Um 11.00 Uhr.,Um 12.00 Uhr.,a,time-dates,012
+goethe-a1-sd1-exam-training-3,hoeren,3,14,multiple-choice,Was soll man sagen?,Die Adresse.,Die E-Mail-Adresse.,Die Telefonnummer.,c,communication,013
+goethe-a1-sd1-exam-training-3,hoeren,3,15,multiple-choice,Wie kommt Herr Müller ins Büro?,Mit dem Fahrrad.,Mit der Straßenbahn.,Mit dem Auto.,a,travel,013
+goethe-a1-sd1-exam-training-3,lesen,1,0,true-false,Herr Beck freut sich auf das Konzert.,Richtig,Falsch,,Richtig,hobby,016
+goethe-a1-sd1-exam-training-3,lesen,1,1,true-false,Herr Beck übernachtet im Hotel.,Richtig,Falsch,,Falsch,travel,016
+goethe-a1-sd1-exam-training-3,lesen,1,2,true-false,Herr Beck bietet Frau Dehner seine Hilfe an.,Richtig,Falsch,,Richtig,communication,016
+goethe-a1-sd1-exam-training-3,lesen,1,3,true-false,Frau Stein ist in Berlin.,Richtig,Falsch,,Richtig,profession,017
+goethe-a1-sd1-exam-training-3,lesen,1,4,true-false,Am Mittwoch hat Frau Stein frei.,Richtig,Falsch,,Falsch,profession,017
+goethe-a1-sd1-exam-training-3,lesen,1,5,true-false,Frau Stein will am Freitag Dr. Falk treffen.,Richtig,Falsch,,Richtig,profession,017
+goethe-a1-sd1-exam-training-3,lesen,2,0,matching,Sie wollen wissen: Regnet es in Deutschland? — Wo finden Sie Informationen? (Anzeige a oder b),www.openair.de,www.dwd.de,,b,weather,018
+goethe-a1-sd1-exam-training-3,lesen,2,6,matching,Sie wollen viele Freunde zu Ihrem Geburtstag einladen. Sie suchen einen Ort. — Wo finden Sie Informationen? (Anzeige a oder b),www.raum-in-koeln.de,www.wohnen-in-koeln.de,,a,hobby,018
+goethe-a1-sd1-exam-training-3,lesen,2,7,matching,Der Computer ist kaputt. Sie können ihn nicht allein reparieren. — Wo finden Sie Informationen? (Anzeige a oder b),www.computer-loesungen.de,www.technohaus.de,,a,shopping,019
+goethe-a1-sd1-exam-training-3,lesen,2,8,matching,Sie möchten am Samstagabend mit Freunden tanzen gehen. — Wo finden Sie Informationen? (Anzeige a oder b),www.tanzen-macht-spass.de,www.wohin-am-wochenende.de,,b,hobby,019
+goethe-a1-sd1-exam-training-3,lesen,2,9,matching,Sie möchten am Wochenende Fußball spielen. — Wo finden Sie Informationen? (Anzeige a oder b),www.freizeitsport-freiburg.de,www.fc-1897.de/training,,b,hobby,020
+goethe-a1-sd1-exam-training-3,lesen,2,10,matching,Sie studieren und möchten ein bisschen arbeiten. — Wo finden Sie Informationen? (Anzeige a oder b),0176 – 55 44 321,0160 – 683 456 20,,a,profession,020
+goethe-a1-sd1-exam-training-3,lesen,3,0,true-false,An der Tür der Sprachschule: Zum Deutschlernen gehen Sie in die Beethovenstraße 23.,Richtig,Falsch,,Richtig,school,021
+goethe-a1-sd1-exam-training-3,lesen,3,11,true-false,Vor einem Blumenladen: Am Sonntagvormittag bekommen Sie hier Blumen.,Richtig,Falsch,,Richtig,shopping,021
+goethe-a1-sd1-exam-training-3,lesen,3,12,true-false,Im Restaurant: Jeden Montag bietet das Restaurant indisches Essen an.,Richtig,Falsch,,Falsch,restaurant,022
+goethe-a1-sd1-exam-training-3,lesen,3,13,true-false,"Bei der Straßenbahn: Es ist der 2. Mai, 21 Uhr. Sie können jetzt nicht zum Hauptbahnhof fahren.",Richtig,Falsch,,Falsch,travel,022
+goethe-a1-sd1-exam-training-3,lesen,3,14,true-false,An einer Haustür: Sie können die Wohnung nicht besichtigen.,Richtig,Falsch,,Richtig,home,023
+goethe-a1-sd1-exam-training-3,lesen,3,15,true-false,Im Bahnhof: Ab 22 Uhr können Sie keine Fahrkarten mehr kaufen.,Richtig,Falsch,,Falsch,travel,023
+goethe-a1-sd1-exam-training-3,schreiben,1,1,fill-in,"Helfen Sie Ihrem Freund und schreiben Sie die fünf fehlenden Informationen in das Formular (Patienteninformation). Postleitzahl, Wohnort: 20969 ___________",,,,Hamburg,personal-info,024
+goethe-a1-sd1-exam-training-3,schreiben,1,2,fill-in,Helfen Sie Ihrem Freund und schreiben Sie die fünf fehlenden Informationen in das Formular (Patienteninformation). Alter: ___________,,,,30 (Jahre) / dreißig (Jahre),personal-info,024
+goethe-a1-sd1-exam-training-3,schreiben,1,3,fill-in,Helfen Sie Ihrem Freund und schreiben Sie die fünf fehlenden Informationen in das Formular (Patienteninformation). Beruf: ___________,,,,Reiseleiter,profession,024
+goethe-a1-sd1-exam-training-3,schreiben,1,4,fill-in,Helfen Sie Ihrem Freund und schreiben Sie die fünf fehlenden Informationen in das Formular (Patienteninformation). Seit wann sind Sie krank? ___________,,,,gestern / seit gestern / 15.06. / 15. Juni,health,024
+goethe-a1-sd1-exam-training-3,schreiben,1,5,fill-in,Helfen Sie Ihrem Freund und schreiben Sie die fünf fehlenden Informationen in das Formular (Patienteninformation). Was fehlt Ihnen? ___________,,,,Ich habe (39 Grad/°) Fieber./ (39 Grad/°) Fieber,health,024
+goethe-a1-sd1-exam-training-3,schreiben,2,1,open,"Ihr neuer Kollege, Herr Jensch, lädt Sie am Dienstag um 15 Uhr zu seiner Geburtstagsfeier im Büro ein. Schreiben Sie Herrn Jensch eine E-Mail: - Warum schreiben Sie? - Sagen Sie: später kommen. - Fragen Sie: helfen? Schreiben Sie zu jedem Punkt ein bis zwei Sätze auf den Antwortbogen (circa 30 Wörter). Schreiben Sie auch eine Anrede und einen Gruß.",,,,(open-ended),communication,025
+goethe-a1-sd1-exam-training-3,sprechen,1,1,open,Sich vorstellen. Name? Alter? Land? Wohnort? Sprachen? Beruf? Hobby?,,,,(open-ended),personal-info,028
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 1,open,Um Informationen bitten und Informationen geben. Thema: Beruf — Arbeitszeit,,,,(open-ended),profession,029
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 2,open,Um Informationen bitten und Informationen geben. Thema: Beruf — Kollegen,,,,(open-ended),profession,029
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 3,open,Um Informationen bitten und Informationen geben. Thema: Beruf — Spaß,,,,(open-ended),profession,029
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 4,open,Um Informationen bitten und Informationen geben. Thema: Beruf — Arbeitskleidung,,,,(open-ended),profession,029
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 5,open,Um Informationen bitten und Informationen geben. Thema: Beruf — Arbeitsplatz,,,,(open-ended),profession,029
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 6,open,Um Informationen bitten und Informationen geben. Thema: Beruf — Aufgaben,,,,(open-ended),profession,029
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 7,open,Um Informationen bitten und Informationen geben. Thema: Sport — Lieblingssport,,,,(open-ended),hobby,030
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 8,open,Um Informationen bitten und Informationen geben. Thema: Sport — schwimmen,,,,(open-ended),hobby,030
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 9,open,Um Informationen bitten und Informationen geben. Thema: Sport — Wochenende,,,,(open-ended),hobby,030
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 10,open,Um Informationen bitten und Informationen geben. Thema: Sport — Abend,,,,(open-ended),hobby,030
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 11,open,Um Informationen bitten und Informationen geben. Thema: Sport — Ball,,,,(open-ended),hobby,030
+goethe-a1-sd1-exam-training-3,sprechen,2,Karte 12,open,Um Informationen bitten und Informationen geben. Thema: Sport — Fahrrad,,,,(open-ended),hobby,030
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 1,open,"Bitten formulieren und darauf reagieren. Bildkarte: ein Postamt (Gebäude mit Aufschrift „Postamt"" und Postsymbol).",,,,(open-ended),city-places,031
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 2,open,"Bitten formulieren und darauf reagieren. Bildkarte: ein Taxi vor einem Schild mit der Aufschrift „TAXI"".",,,,(open-ended),travel,031
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 3,open,Bitten formulieren und darauf reagieren. Bildkarte: Verbotsschild — durchgestrichenes Symbol einer schwimmenden Person im Wasser (Schwimmen verboten).,,,,(open-ended),hobby,031
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 4,open,"Bitten formulieren und darauf reagieren. Bildkarte: eine Restaurantrechnung mit der Aufschrift „Restaurant ‚Zum goldenen Hirschen'"" und Beträgen (98,10 Euro).",,,,(open-ended),restaurant,031
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 5,open,Bitten formulieren und darauf reagieren. Bildkarte: ein Schlüssel (in einer Hülle/Etui).,,,,(open-ended),home,031
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 6,open,Bitten formulieren und darauf reagieren. Bildkarte: ein Paar Sportschuhe / Turnschuhe.,,,,(open-ended),shopping,031
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 7,open,"Bitten formulieren und darauf reagieren. Bildkarte: ein geöffneter Kulturbeutel / eine Waschtasche mit Seife, einem Buch/Heft und einer Zahnbürste mit Zahnpasta.",,,,(open-ended),shopping,032
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 8,open,Bitten formulieren und darauf reagieren. Bildkarte: mehrere Flaschen (Flaschen mit Etiketten).,,,,(open-ended),shopping,032
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 9,open,"Bitten formulieren und darauf reagieren. Bildkarte: Münzen (Geldstücke) mit den Werten 20, 2, 1, 1, 50.",,,,(open-ended),shopping,032
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 10,open,Bitten formulieren und darauf reagieren. Bildkarte: ein Kalender / Terminplan mit den Wochentagen M D M D F S S und der Uhrzeit 18.00 Uhr.,,,,(open-ended),time-dates,032
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 11,open,Bitten formulieren und darauf reagieren. Bildkarte: ein Verbotsschild (durchgestrichener Kreis) mit einer Flasche und einem Hamburger — kein Essen/Trinken.,,,,(open-ended),food,032
+goethe-a1-sd1-exam-training-3,sprechen,3,Karte 12,open,"Bitten formulieren und darauf reagieren. Bildkarte: ein Gebäude mit Uhr und Turm, beschriftet BAHNHOF, daneben ein Baum.",,,,(open-ended),travel,032

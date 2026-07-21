@@ -51,13 +51,15 @@
 | topic | Count |
 |---|---|
 | none | 29 |
-| free-time | 6 |
 | mixed | 5 |
+| hobby | 4 |
 | personal-info | 4 |
-| travel-transport | 4 |
-| health-body | 2 |
+| travel | 4 |
+| health | 2 |
 | communication | 1 |
 | daily-routine | 1 |
+| school | 1 |
+| vacation | 1 |
 
 ## Page index
 
@@ -71,27 +73,27 @@
 | 006 |  | none | none | Blank page with footer only |
 | 007 | hoeren | instructions | none | Listening section intro and instructions |
 | 008 | hoeren | listening-comprehension | communication | Listening Part 1 instructions with phone-message example task |
-| 009 | hoeren | listening-comprehension | free-time | Listening tasks 1-2 on plans and availability, multiple choice |
-| 010 | hoeren | listening-comprehension | travel-transport | Listening tasks 3-4 on transport and party items, multiple choice |
-| 011 | hoeren | listening-comprehension | free-time | Listening tasks 5-6 on music and music school location |
-| 012 | hoeren | listening-comprehension | free-time | Listening Part 2 true-false tasks 7-9 on schoolwork help |
+| 009 | hoeren | listening-comprehension | hobby | Listening tasks 1-2 on plans and availability, multiple choice |
+| 010 | hoeren | listening-comprehension | travel | Listening tasks 3-4 on transport and party items, multiple choice |
+| 011 | hoeren | listening-comprehension | hobby | Listening tasks 5-6 on music and music school location |
+| 012 | hoeren | listening-comprehension | school | Listening Part 2 true-false tasks 7-9 on schoolwork help |
 | 013 | hoeren | listening-comprehension | personal-info | Listening true-false tasks 10-12 on moving and birthday |
 | 014 |  | none | none | Blank page with footer only |
 | 015 | lesen | instructions | none | Reading section intro and instructions |
-| 016 | lesen | reading-comprehension | free-time | Reading Part 1 two newspaper ads: film casting and school club |
-| 017 | lesen | multiple-choice | free-time | Reading tasks 1-6 multiple choice on the two ads |
+| 016 | lesen | reading-comprehension | hobby | Reading Part 1 two newspaper ads: film casting and school club |
+| 017 | lesen | multiple-choice | hobby | Reading tasks 1-6 multiple choice on the two ads |
 | 018 | lesen | reading-comprehension | personal-info | Reading Part 2 two teenager self-descriptions |
 | 019 | lesen | true-false | daily-routine | Reading true-false tasks 7-12 on the descriptions |
 | 020 |  | none | none | Blank page with footer only |
 | 021 | schreiben | instructions | none | Writing section intro and instructions |
-| 022 | schreiben | writing-task | free-time | Writing prompt: reply to email about holidays, min 30 words |
+| 022 | schreiben | writing-task | vacation | Writing prompt: reply to email about holidays, min 30 words |
 | 023 | sprechen | instructions | none | Speaking section intro and instructions |
 | 024 |  | none | none | Blank page with footer only |
 | 025 | sprechen | speaking-task | personal-info | Speaking Part 1 self-introduction prompt card with cues |
-| 026 | sprechen | speaking-task | travel-transport | Speaking Part 2 topic card: travel |
-| 027 | sprechen | speaking-task | travel-transport | Speaking Part 2 word cards on the theme of travel |
-| 028 | sprechen | speaking-task | health-body | Speaking Part 2 topic card: health |
-| 029 | sprechen | speaking-task | health-body | Speaking Part 2 word cards on the theme of health |
+| 026 | sprechen | speaking-task | travel | Speaking Part 2 topic card: travel |
+| 027 | sprechen | speaking-task | travel | Speaking Part 2 word cards on the theme of travel |
+| 028 | sprechen | speaking-task | health | Speaking Part 2 topic card: health |
+| 029 | sprechen | speaking-task | health | Speaking Part 2 word cards on the theme of health |
 | 030 | sprechen | speaking-task | mixed | Speaking Part 3 picture cards for requests and questions |
 | 031 | sprechen | speaking-task | mixed | Speaking Part 3 more picture cards for requests and questions |
 | 032 |  | none | none | Blank page with footer only |
@@ -102,7 +104,7 @@
 | 037 | schreiben | instructions | none | Writing assessment criteria and scoring guide |
 | 038 | sprechen | instructions | none | Speaking exam administration notes and moderator script |
 | 039 | sprechen | instructions | personal-info | Speaking Part 1 examiner guidance for self-introduction |
-| 040 | sprechen | instructions | travel-transport | Speaking Part 2 examiner guidance and example card |
+| 040 | sprechen | instructions | travel | Speaking Part 2 examiner guidance and example card |
 | 041 | sprechen | instructions | mixed | Speaking Part 3 examiner guidance and closing script |
 | 042 | sprechen | instructions | none | Speaking assessment criteria and scoring guide |
 | 043 |  | instructions | none | Overall scoring overview across all exam parts |
@@ -260,7 +262,7 @@ Du hörst jede Nachricht **zweimal**.
 
 Seite 6
 
-## Page 009  — hoeren · [instructions, exercise, listening-sheet] · listening-comprehension · free-time
+## Page 009  — hoeren · [instructions, exercise, listening-sheet] · listening-comprehension · hobby
 
 # Hören
 
@@ -295,7 +297,7 @@ Markiere **dann** die Lösung zu Aufgabe 1 und 2.
 
 Seite 7
 
-## Page 010  — hoeren · [exercise, listening-sheet] · listening-comprehension · travel-transport
+## Page 010  — hoeren · [exercise, listening-sheet] · listening-comprehension · travel
 
 # Fit in Deutsch · 1
 
@@ -326,7 +328,7 @@ Markiere **dann** die Lösung zu Aufgabe 3 und 4.
 
 Seite 8
 
-## Page 011  — hoeren · [exercise, listening-sheet] · listening-comprehension · free-time
+## Page 011  — hoeren · [exercise, listening-sheet] · listening-comprehension · hobby
 
 # Hören
 
@@ -357,7 +359,7 @@ Markiere **dann** die Lösung zu Aufgabe 5 und 6.
 
 Seite 9
 
-## Page 012  — hoeren · [instructions, exercise] · listening-comprehension · free-time
+## Page 012  — hoeren · [instructions, exercise] · listening-comprehension · school
 
 **Fit in Deutsch · 1**
 
@@ -447,7 +449,7 @@ Wörterbücher sind **nicht** erlaubt.
 
 Seite 13
 
-## Page 016  — lesen · [instructions, reading-text, exercise] · reading-comprehension · free-time
+## Page 016  — lesen · [instructions, reading-text, exercise] · reading-comprehension · hobby
 
 # Fit in Deutsch · 1
 
@@ -479,7 +481,7 @@ Interessiert? Dann komm zu uns und mach mit! Wir treffen uns jeden Tag um 13.30 
 
 Seite 14
 
-## Page 017  — lesen · [exercise, instructions] · multiple-choice · free-time
+## Page 017  — lesen · [exercise, instructions] · multiple-choice · hobby
 
 # Lesen
 
@@ -617,7 +619,7 @@ Wörterbücher sind **nicht** erlaubt.
 
 Seite 19
 
-## Page 022  — schreiben · [writing-prompt] · writing-task · free-time
+## Page 022  — schreiben · [writing-prompt] · writing-task · vacation
 
 # Fit in Deutsch · 1
 
@@ -702,7 +704,7 @@ FIT1_ÜS02_Sprechen_Teil1
 
 Seite 23
 
-## Page 026  — sprechen · [speaking-prompt] · speaking-task · travel-transport
+## Page 026  — sprechen · [speaking-prompt] · speaking-task · travel
 
 Fit in Deutsch · 1
 
@@ -732,7 +734,7 @@ FIT1_ÜS02_Spr_Teil2_Reisen
 
 Seite 24
 
-## Page 027  — sprechen · [speaking-prompt] · speaking-task · travel-transport
+## Page 027  — sprechen · [speaking-prompt] · speaking-task · travel
 
 # Sprechen
 
@@ -817,7 +819,7 @@ Fragen stellen und auf Fragen antworten.
 
 Seite 25
 
-## Page 028  — sprechen · [speaking-prompt] · speaking-task · health-body
+## Page 028  — sprechen · [speaking-prompt] · speaking-task · health
 
 Fit in Deutsch · 1
 
@@ -847,7 +849,7 @@ FIT1_ÜS02_Spr_Teil2_Gesund
 
 Seite 26
 
-## Page 029  — sprechen · [speaking-prompt] · speaking-task · health-body
+## Page 029  — sprechen · [speaking-prompt] · speaking-task · health
 
 # Sprechen
 
@@ -1244,7 +1246,7 @@ Und du, wer bist du, bitte?
 
 Seite 37
 
-## Page 040  — sprechen · [speaking-prompt, instructions] · instructions · travel-transport
+## Page 040  — sprechen · [speaking-prompt, instructions] · instructions · travel
 
 # Fit in Deutsch · 1
 

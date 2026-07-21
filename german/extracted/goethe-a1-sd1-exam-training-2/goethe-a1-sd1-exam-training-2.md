@@ -56,10 +56,10 @@
 | personal-info | 4 |
 | city-places | 3 |
 | communication | 3 |
-| free-time | 3 |
-| travel-transport | 3 |
+| hobby | 3 |
+| travel | 3 |
 | home | 2 |
-| daily-routine | 1 |
+| school | 1 |
 
 ## Page index
 
@@ -75,15 +75,15 @@
 | 008 | hoeren | multiple-choice | personal-info | Listening Teil 1 instructions with worked example about room number. |
 | 009 | hoeren | multiple-choice | mixed | Listening multiple-choice questions on clothing, food, museum hours. |
 | 010 | hoeren | multiple-choice | mixed | Listening multiple-choice on sport, holiday, flight duration. |
-| 011 | hoeren | true-false | travel-transport | Listening Teil 2 true-false announcements at station and airport. |
+| 011 | hoeren | true-false | travel | Listening Teil 2 true-false announcements at station and airport. |
 | 012 | hoeren | multiple-choice | communication | Listening Teil 3 multiple-choice on phone calls and plans. |
-| 013 | hoeren | multiple-choice | free-time | Listening multiple-choice on meeting place and time. |
+| 013 | hoeren | multiple-choice | hobby | Listening multiple-choice on meeting place and time. |
 | 014 |  | none | none | Blank page with only footer and logos. |
 | 015 | lesen | instructions | none | Reading and Writing section intro and instructions. |
-| 016 | lesen | reading-comprehension | travel-transport | Reading Teil 1 true-false about email planning a Weimar meeting. |
-| 017 | lesen | reading-comprehension | free-time | Reading true-false about a sports club summer excursion. |
+| 016 | lesen | reading-comprehension | travel | Reading Teil 1 true-false about email planning a Weimar meeting. |
+| 017 | lesen | reading-comprehension | hobby | Reading true-false about a sports club summer excursion. |
 | 018 | lesen | reading-comprehension | home | Reading Teil 2 matching websites for weather and housing. |
-| 019 | lesen | reading-comprehension | travel-transport | Reading matching websites for airport transport and holiday trips. |
+| 019 | lesen | reading-comprehension | travel | Reading matching websites for airport transport and holiday trips. |
 | 020 | lesen | reading-comprehension | home | Reading matching websites for holiday rentals and football. |
 | 021 | lesen | reading-comprehension | city-places | Reading Teil 3 true-false on public notices, tickets. |
 | 022 | lesen | reading-comprehension | city-places | Reading true-false about hotel door and restaurant hours. |
@@ -93,8 +93,8 @@
 | 026 |  | none | none | Blank page. |
 | 027 | sprechen | instructions | none | Speaking section intro and general instructions. |
 | 028 | sprechen | speaking-task | personal-info | Speaking Teil 1 self-introduction prompt keywords. |
-| 029 | sprechen | speaking-task | free-time | Speaking Teil 2 word cards on weekend theme. |
-| 030 | sprechen | speaking-task | daily-routine | Speaking Teil 2 word cards on school theme. |
+| 029 | sprechen | speaking-task | hobby | Speaking Teil 2 word cards on weekend theme. |
+| 030 | sprechen | speaking-task | school | Speaking Teil 2 word cards on school theme. |
 | 031 | sprechen | speaking-task | mixed | Speaking Teil 3 picture cards for making requests. |
 | 032 | sprechen | speaking-task | mixed | Speaking Teil 3 further picture cards for requests. |
 | 033 |  | instructions | none | Examiner pages table of contents. |
@@ -333,7 +333,7 @@ Seite 8
 
 GOETHE-INSTITUT
 
-## Page 011  — hoeren · [exercise, listening-sheet] · true-false · travel-transport
+## Page 011  — hoeren · [exercise, listening-sheet] · true-false · travel
 
 # Hören
 
@@ -392,7 +392,7 @@ Seite 10
 
 GOETHE INSTITUT
 
-## Page 013  — hoeren · [exercise] · multiple-choice · free-time
+## Page 013  — hoeren · [exercise] · multiple-choice · hobby
 
 # Hören
 
@@ -461,7 +461,7 @@ Seite 13
 
 GOETHE INSTITUT
 
-## Page 016  — lesen · [instructions, reading-text, exercise] · reading-comprehension · travel-transport
+## Page 016  — lesen · [instructions, reading-text, exercise] · reading-comprehension · travel
 
 # Start Deutsch 1
 
@@ -505,7 +505,7 @@ Seite 14
 
 [Logo: GOETHE INSTITUT]
 
-## Page 017  — lesen · [reading-text, exercise] · reading-comprehension · free-time
+## Page 017  — lesen · [reading-text, exercise] · reading-comprehension · hobby
 
 # Lesen
 
@@ -601,7 +601,7 @@ Seite 16
 
 GOETHE INSTITUT
 
-## Page 019  — lesen · [exercise] · reading-comprehension · travel-transport
+## Page 019  — lesen · [exercise] · reading-comprehension · travel
 
 # Lesen
 
@@ -940,7 +940,7 @@ Seite 26
 
 GOETHE INSTITUT
 
-## Page 029  — sprechen · [speaking-prompt] · speaking-task · free-time
+## Page 029  — sprechen · [speaking-prompt] · speaking-task · hobby
 
 # Sprechen
 
@@ -973,7 +973,7 @@ Die sechs Karten enthalten folgende Stichwörter:
 
 Seite 27
 
-## Page 030  — sprechen · [speaking-prompt] · speaking-task · daily-routine
+## Page 030  — sprechen · [speaking-prompt] · speaking-task · school
 
 # Start Deutsch 1
 
