@@ -28,7 +28,7 @@ window.LT = (function () {
       {
         name: "German", code: "DE", slug: "german", status: "active",
         href: REPO_URL + "/tree/main/german/extracted",
-        meta: "7 PDFs · 302 pages · 113 web pages"
+        meta: "10 books · 636 pages · 113 web pages"
       },
       { name: "Japanese", code: "JA", slug: "japanese", status: "planned" },
       { name: "Portuguese", code: "PT", slug: "portuguese", status: "planned" },
@@ -40,10 +40,10 @@ window.LT = (function () {
 
   /* ---- Global metrics (hub) — from manifest.tsv / MANIFEST.md ---------- */
   const metrics = [
-    { num: "9",   lab: "Document sets",   sub: "2 French workbooks · 7 German exam PDFs" },
-    { num: "589", lab: "Pages",           sub: "287 FR spreads · 302 DE pages" },
-    { num: "404", lab: "Transcribed",     sub: "69% of all pages", cls: "" },
-    { num: "362", lab: "QA-verified",     sub: "61% zero-loss verified", cls: "green" }
+    { num: "12",  lab: "Document sets",   sub: "2 French workbooks · 10 German book/exam sets" },
+    { num: "923", lab: "Pages",           sub: "287 FR spreads · 636 DE pages" },
+    { num: "738", lab: "Transcribed",     sub: "80% of all pages", cls: "" },
+    { num: "696", lab: "QA-verified",     sub: "75% zero-loss verified", cls: "green" }
   ];
 
   /* ---- The extraction workflow ---------------------------------------- */
@@ -303,13 +303,19 @@ Return the final verdict.`
   /* ---- German corpus ---------------------------------------------------- */
   const german = {
     slug: "german", name: "German", code: "DE", level: "A1 (CEFR)",
-    aggregate: { collections: 7, pages: 302, verified: 302, questions: 247, words: 1564 },
+    aggregate: { collections: 10, pages: 636, verified: 636, questions: 2584, words: 3751 },
     channels: [
       {
         key: "pdf", name: "PDF · Goethe-Zertifikat A1",
         blurb: "Seven official, free Goethe-Institut practice PDFs (Start Deutsch 1 + Fit in Deutsch 1), " +
           "vision-transcribed and adversarially QA-verified.",
         pages: 302, verified: 302, note: "100% verified · 0 QA failures · 1 page auto-repaired"
+      },
+      {
+        key: "pdf", name: "PDF · A1 Textbooks (scanned)",
+        blurb: "Three scanned A1 coursebooks — Netzwerk neu A1 Kursbuch + Test Booklet (Klett) and " +
+          "German for Young Learners A1 (Goyal) — vision-transcribed from 300-DPI scans and QA-verified.",
+        pages: 334, verified: 334, note: "100% verified · zero data loss across scans"
       },
       {
         key: "web", name: "Web · deutsch-pruefung.de",
@@ -331,11 +337,15 @@ Return the final verdict.`
       "goethe-a1-sd1-vocabulary-list": { title: "Start Deutsch 1 — Wortliste", variant: "start-deutsch-1", pages: 29, verified: 29, questions: 0, words: 808 },
       "goethe-a1-fit1-exam-training-1": { title: "Fit in Deutsch 1 — Exam training 1", variant: "fit-in-deutsch-1", pages: 52, verified: 52, questions: 29, words: 0 },
       "goethe-a1-fit1-exam-training-2": { title: "Fit in Deutsch 1 — Exam training 2", variant: "fit-in-deutsch-1", pages: 52, verified: 52, questions: 50, words: 0 },
-      "goethe-a1-fit1-vocabulary-list": { title: "Fit in Deutsch 1 — Wortliste", variant: "fit-in-deutsch-1", pages: 28, verified: 28, questions: 0, words: 756 }
+      "goethe-a1-fit1-vocabulary-list": { title: "Fit in Deutsch 1 — Wortliste", variant: "fit-in-deutsch-1", pages: 28, verified: 28, questions: 0, words: 756 },
+      "netzwerk-a1-kursbuch": { title: "Netzwerk neu A1 — Kursbuch", variant: "netzwerk-neu-a1", pages: 174, verified: 174, questions: 1119, words: 1971 },
+      "netzwerk-a1-test-booklet": { title: "Netzwerk neu A1 — Test Booklet", variant: "netzwerk-neu-a1", pages: 56, verified: 56, questions: 415, words: 98 },
+      "goyal-a1-young-learners": { title: "German for Young Learners — A1", variant: "young-learners", pages: 104, verified: 104, questions: 803, words: 118 }
     },
     itemTypes: [
-      { k: "Open-ended", v: 89 }, { k: "True/False", v: 69 }, { k: "Multiple choice", v: 63 },
-      { k: "Fill-in", v: 15 }, { k: "Matching", v: 11 }
+      { k: "Fill-in", v: 785 }, { k: "Matching", v: 420 }, { k: "Short answer", v: 414 },
+      { k: "Multiple choice", v: 293 }, { k: "Speaking task", v: 274 }, { k: "True/False", v: 157 },
+      { k: "Open-ended", v: 103 }, { k: "Writing task", v: 80 }, { k: "Ordering", v: 58 }
     ]
   };
 

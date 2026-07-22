@@ -47,14 +47,15 @@
         <div class="crumbs"><a href="../">Home</a> / German</div>
         <span class="eyebrow">Corpus · A1 (CEFR)</span>
         <h1>German</h1>
-        <p>Official Goethe-Zertifikat A1 practice material and authorized public web pages —
+        <p>Official Goethe-Zertifikat A1 practice material, three scanned A1 textbooks
+           (Netzwerk neu A1 + Goyal young-learners) and authorized public web pages —
            extracted to faithful, verifiable Markdown, then exported as question and vocabulary datasets.</p>
         <div class="hero-tags">
-          <span class="tag">7 document sets</span>
-          <span class="tag">302 pages</span>
+          <span class="tag">10 document sets</span>
+          <span class="tag">636 pages</span>
           <span class="tag">100% verified</span>
-          <span class="tag">247 questions</span>
-          <span class="tag">1,564 words</span>
+          <span class="tag">2,584 questions</span>
+          <span class="tag">3,751 words</span>
         </div>
       </div>
 
@@ -95,9 +96,10 @@
         <p class="lead">Four deliverables per document set. All CSVs are UTF-8 with BOM, so German umlauts
            render correctly on double-click in Excel.</p>
         <div data-render="german-exports"></div>
-        <div class="note" style="margin-top:22px"><b>Question items break down as</b> 89 open-ended ·
-          69 true/false · 63 multiple choice · 15 fill-in · 11 matching. 158 carry a keyed correct answer
-          taken from the Lösungen pages; open-ended Schreiben/Sprechen prompts have no official key.</div>
+        <div class="note" style="margin-top:22px"><b>2,584 question items break down as</b> 785 fill-in ·
+          420 matching · 414 short-answer · 293 multiple choice · 274 speaking · 157 true/false ·
+          103 open-ended · 80 writing · 58 ordering. <b>1,674</b> carry a keyed correct answer (from the
+          Lösungen / on-page evidence); open-ended Schreiben/Sprechen prompts have no official key.</div>
       </section>
 
       <section class="section" id="pipeline" data-nav="How it was built" data-nav-group="German corpus">
@@ -108,10 +110,12 @@
         <div class="prose card">
           <p>Pages are rendered at 300 DPI, transcribed by a vision agent, then checked by an
              <b>independent adversarial QA agent</b> that may not edit — only judge. Failures go to a repair
-             agent and are re-verified. Result: <span class="inline-purple">302/302 verified, 0 failures</span>,
-             one page auto-repaired.</p>
+             agent and are re-verified. Result: <span class="inline-purple">636/636 verified</span> across
+             the Goethe PDFs and the three scanned textbooks — zero data loss.</p>
           <p>Cheap enrichment passes then add activity/topic labels, the question dataset (cross-referenced
-             against the Lösungen), and the word-level vocabulary — none of which re-incurs transcription cost.</p>
+             against the Lösungen where one exists), and the word-level vocabulary — none of which re-incurs
+             transcription cost. Deliverables are packaged per-publisher under
+             <code class="code-inline">german/extracted/_exports/</code>.</p>
         </div>
         <p class="copy-hint" style="color:var(--muted);font-size:12.5px;margin-top:12px">
           Full process: <code class="code-inline">german/extracted/EXTRACTION-WORKFLOW.md</code> ·
