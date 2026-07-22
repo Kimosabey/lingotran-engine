@@ -1,0 +1,629 @@
+{
+ "collection": "goyal-a1-young-learners",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Course cover: Hallo Deutsch Plus Neu A1 training booklet with audio CD."
+  },
+  {
+   "page": 2,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Inside cover repeating the Hallo Deutsch Plus Neu A1 title with publisher logos."
+  },
+  {
+   "page": 3,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Lektion 1 contents (Erste Kontakte): greetings, family, cities, counting, grammar, games."
+  },
+  {
+   "page": 4,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Lektion 2 contents (So wohne ich): rooms, drinks, pets, origins, grammar, games."
+  },
+  {
+   "page": 5,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Lektion 3 contents (Mein Alltag) plus appendix with transcripts, sources, country map."
+  },
+  {
+   "page": 6,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Series components overview with prices and a legend of symbols used in the book."
+  },
+  {
+   "page": 7,
+   "activity_type": "multiple-choice",
+   "topic": "communication",
+   "summary": "Greetings practice: choose the correctly spelled greeting and unscramble jumbled greeting words."
+  },
+  {
+   "page": 8,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Greetings by time of day, greeting/farewell for people, and matching questions to answers."
+  },
+  {
+   "page": 9,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Complete a greeting dialogue and write missing questions about name, age, and hometown."
+  },
+  {
+   "page": 10,
+   "activity_type": "listening-comprehension",
+   "topic": "personal-info",
+   "summary": "Fill your own profile, then order a DJ interview and complete his profile."
+  },
+  {
+   "page": 11,
+   "activity_type": "vocabulary",
+   "topic": "family",
+   "summary": "Write a penpal email, then give German articles for family-member nouns."
+  },
+  {
+   "page": 12,
+   "activity_type": "vocabulary",
+   "topic": "family",
+   "summary": "Sort relatives into family categories, present the Beckmann family, and read a family tree."
+  },
+  {
+   "page": 13,
+   "activity_type": "short-answer",
+   "topic": "family",
+   "summary": "Family-tree questions identifying relatives and matching people to their number of siblings."
+  },
+  {
+   "page": 14,
+   "activity_type": "reading-comprehension",
+   "topic": "family",
+   "summary": "State your own siblings, then read about Familie Zidek and answer comprehension questions."
+  },
+  {
+   "page": 15,
+   "activity_type": "speaking-task",
+   "topic": "personal-info",
+   "summary": "Introduce four young people from cards, then take notes on a director interview."
+  },
+  {
+   "page": 16,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Write a school-magazine article and build polite Sie-form questions about the director."
+  },
+  {
+   "page": 17,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "Complete a profile from listening, then match cities to their German-speaking regions."
+  },
+  {
+   "page": 18,
+   "activity_type": "short-answer",
+   "topic": "city-places",
+   "summary": "Match more cities to regions and answer yes/no questions about where cities lie."
+  },
+  {
+   "page": 19,
+   "activity_type": "listening-comprehension",
+   "topic": "city-places",
+   "summary": "Listen to identify six German-speaking cities, then match car number plates to cities."
+  },
+  {
+   "page": 20,
+   "activity_type": "writing-task",
+   "topic": "personal-info",
+   "summary": "Write short dialogues about where five young people live and whether they like it."
+  },
+  {
+   "page": 21,
+   "activity_type": "fill-in",
+   "topic": "none",
+   "summary": "Write numbers as words and digits, then listen and mark lottery and spoken numbers."
+  },
+  {
+   "page": 22,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Complete -zehn/-zig number endings, then listen and choose the correct prices."
+  },
+  {
+   "page": 23,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Listen and note four people's mobile numbers, then find hidden number words."
+  },
+  {
+   "page": 24,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Present-tense conjugation table and gap-fills for the verbs sein, heißen and wohnen."
+  },
+  {
+   "page": 25,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Fill in personal pronouns, match names to er/sie, and form questions."
+  },
+  {
+   "page": 26,
+   "activity_type": "short-answer",
+   "topic": "personal-info",
+   "summary": "Form questions, unscramble word-order sentences, answer, and fill prepositions in/bei/von."
+  },
+  {
+   "page": 27,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Answer location questions and fill definite and possessive articles for family nouns."
+  },
+  {
+   "page": 28,
+   "activity_type": "speaking-task",
+   "topic": "personal-info",
+   "summary": "Listening-response and pronunciation drills on names, age, siblings and where people live."
+  },
+  {
+   "page": 29,
+   "activity_type": "vocabulary",
+   "topic": "family",
+   "summary": "Memory game: cut-out cards with family have-sentences to match into pairs."
+  },
+  {
+   "page": 30,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Cut-out sheet of sixteen identical card backs labeled Wortschatz Familie for the game."
+  },
+  {
+   "page": 31,
+   "activity_type": "ordering",
+   "topic": "personal-info",
+   "summary": "Sentence-building game: cut-out question-word, verb and subject cards to form questions."
+  },
+  {
+   "page": 32,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Cut-out sheet of card backs labeled Grammatik Wo? Wie? Wer? for the game."
+  },
+  {
+   "page": 33,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Sentence-building game: colored subject, verb and complement cards to form statements."
+  },
+  {
+   "page": 34,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Cut-out sheet of card backs labeled Grammatik Aussagesätze for the sentence game."
+  },
+  {
+   "page": 35,
+   "activity_type": "vocabulary",
+   "topic": "family",
+   "summary": "Syllable puzzle: cut-out syllable cards to reassemble into family and describing words."
+  },
+  {
+   "page": 36,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Cut-out sheet of twenty-four identical Silbenrätsel card backs for the syllable game."
+  },
+  {
+   "page": 37,
+   "activity_type": "matching",
+   "topic": "home",
+   "summary": "Chapter opener 'So wohne ich': match ten furniture words to numbered picture items."
+  },
+  {
+   "page": 38,
+   "activity_type": "short-answer",
+   "topic": "home",
+   "summary": "Answer with nein/kein from pictures, then match household objects to the pronouns er, sie, es."
+  },
+  {
+   "page": 39,
+   "activity_type": "writing-task",
+   "topic": "home",
+   "summary": "Tick boxes about your home's type, location, size and features, then write a short description."
+  },
+  {
+   "page": 40,
+   "activity_type": "listening-comprehension",
+   "topic": "home",
+   "summary": "Match rooms to adjectives by listening, build room dialogues, and rate rooms with adjectives."
+  },
+  {
+   "page": 41,
+   "activity_type": "reading-comprehension",
+   "topic": "home",
+   "summary": "Read Patrick's room description, mark five true/false statements, then describe your own room."
+  },
+  {
+   "page": 42,
+   "activity_type": "listening-comprehension",
+   "topic": "home",
+   "summary": "Fill gaps in Tina's room text, then listen and complete a real-estate agency form."
+  },
+  {
+   "page": 43,
+   "activity_type": "writing-task",
+   "topic": "food",
+   "summary": "Offer drinks to six people and write short 'would you rather drink' dialogues from pictures."
+  },
+  {
+   "page": 44,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete a greeting-and-drink dialogue, pick the odd drink out, and match drink questions to answers."
+  },
+  {
+   "page": 45,
+   "activity_type": "writing-task",
+   "topic": "hobby",
+   "summary": "Pets: write what two girls say about a kitten, then build sentences about owning animals."
+  },
+  {
+   "page": 46,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Pets: work out who owns which animal, then read about Melanie's dog and fill gaps."
+  },
+  {
+   "page": 47,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Give exaggerated 'I have many pets' answers, then match countries with their language and capital."
+  },
+  {
+   "page": 48,
+   "activity_type": "short-answer",
+   "topic": "personal-info",
+   "summary": "State where seven classmates come from and say, in Q&A form, what language each speaks."
+  },
+  {
+   "page": 49,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Build sentences on where seven people come from and match each person to their nationality."
+  },
+  {
+   "page": 50,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Complete a dialogue asking Efer about his origin, then fill an interview table by listening."
+  },
+  {
+   "page": 51,
+   "activity_type": "short-answer",
+   "topic": "personal-info",
+   "summary": "Reconstruct the interviewer's questions to Herr Dupont, then complete a quiz-show profile by listening."
+  },
+  {
+   "page": 52,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar drills: conjugate the present tense of sprechen, haben, kommen and trinken."
+  },
+  {
+   "page": 53,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar drills: conjugate trinken and mögen and practise the möchte(n) form in sentences."
+  },
+  {
+   "page": 54,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar drills: choose Wer or Was, form questions, and supply articles and dir/Ihnen forms."
+  },
+  {
+   "page": 55,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar fill-in: dative pronouns (mir/dir/Ihnen) and accusative articles einen/eine/ein."
+  },
+  {
+   "page": 56,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar fill-in: Wo/Woher questions, in/aus prepositions, negation with nicht/kein."
+  },
+  {
+   "page": 57,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar fill-in: negation (kein/nicht) and inversion word-order transformations."
+  },
+  {
+   "page": 58,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Listen-and-respond speaking drills plus intonation repetition (furniture, drinks, pets, countries)."
+  },
+  {
+   "page": 59,
+   "activity_type": "matching",
+   "topic": "home",
+   "summary": "Memory game: match room pictures with adjectives describing the home."
+  },
+  {
+   "page": 60,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.59 memory cards, all labelled 'Wortschatz: Wohnung'."
+  },
+  {
+   "page": 61,
+   "activity_type": "writing-task",
+   "topic": "mixed",
+   "summary": "Cut-out word cards (subjects, verbs, articles, nouns) to build accusative sentences."
+  },
+  {
+   "page": 62,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.61 game cards, all labelled 'Grammatik: Akkusativ'."
+  },
+  {
+   "page": 63,
+   "activity_type": "writing-task",
+   "topic": "personal-info",
+   "summary": "Cut-out cards (question words, verbs, subjects) to build Wo/Woher/Was questions."
+  },
+  {
+   "page": 64,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.63 game cards, all labelled 'Wo? Woher? Was?'."
+  },
+  {
+   "page": 65,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Cut-out syllable cards to combine into Lektion 2 vocabulary words."
+  },
+  {
+   "page": 66,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.65 syllable cards, all labelled 'Silbenrätsel'."
+  },
+  {
+   "page": 67,
+   "activity_type": "matching",
+   "topic": "food",
+   "summary": "Lektion 3 opener: match breakfast-food pictures with words; identify what is missing."
+  },
+  {
+   "page": 68,
+   "activity_type": "writing-task",
+   "topic": "food",
+   "summary": "Sort breakfast nouns by article, build meal sentences, describe break-time snacks."
+  },
+  {
+   "page": 69,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Match Q&A, answer offers with negation, complete a snack-offer dialogue."
+  },
+  {
+   "page": 70,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "Reading on a healthy breakfast with true/false, then label school-supply pictures."
+  },
+  {
+   "page": 71,
+   "activity_type": "listening-comprehension",
+   "topic": "school",
+   "summary": "Negation answers about school items plus listening tasks for sentences and prices."
+  },
+  {
+   "page": 72,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Plural forms of school objects, then fill accusative articles in Hast-du Q&A."
+  },
+  {
+   "page": 73,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Pack your Ranzen, say what school items you need, and hear what teachers teach."
+  },
+  {
+   "page": 74,
+   "activity_type": "short-answer",
+   "topic": "school",
+   "summary": "Say how you find each school subject, then listen for which subjects Patrick likes."
+  },
+  {
+   "page": 75,
+   "activity_type": "short-answer",
+   "topic": "hobby",
+   "summary": "React to TV shows: sort them by preference and describe each with adjectives."
+  },
+  {
+   "page": 76,
+   "activity_type": "writing-task",
+   "topic": "hobby",
+   "summary": "Write what's on TV from a schedule, then listen and complete the programme table."
+  },
+  {
+   "page": 77,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Answer questions about your TV habits, then read three teens' views on television."
+  },
+  {
+   "page": 78,
+   "activity_type": "matching",
+   "topic": "time-dates",
+   "summary": "Tell the time: match clocks to phrases, listen for exact times, build separable verbs."
+  },
+  {
+   "page": 79,
+   "activity_type": "writing-task",
+   "topic": "daily-routine",
+   "summary": "Write sentences about your morning and describe Marie Claire's full daily schedule."
+  },
+  {
+   "page": 80,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Answer questions about your day, then read a text about Marsi the Martian."
+  },
+  {
+   "page": 81,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Comprehension questions on the Marsi text, then complete a daily-routine dialogue."
+  },
+  {
+   "page": 82,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar: conjugate irregular present-tense verbs essen, nehmen, geben, sehen, fahren."
+  },
+  {
+   "page": 83,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar: separable-verb conjugation, build sentences, identify subject vs. object (accusative)."
+  },
+  {
+   "page": 84,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar: nominative vs. accusative and the accusative articles einen/ein/eine, den/die/das."
+  },
+  {
+   "page": 85,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar: accusative articles, accusative pronouns ihn/sie/es, and directional in + accusative."
+  },
+  {
+   "page": 86,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar: answer with negation using kein and nicht (food, school items, opinions)."
+  },
+  {
+   "page": 87,
+   "activity_type": "fill-in",
+   "topic": "time-dates",
+   "summary": "Grammar: temporal prepositions um/am and forming time questions (Wann, Wie lange)."
+  },
+  {
+   "page": 88,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Listen-and-respond speaking drills (food, school, TV, times) plus intonation repetition practice."
+  },
+  {
+   "page": 89,
+   "activity_type": "matching",
+   "topic": "food",
+   "summary": "Memory game: match food and drink picture-cards with their sentence-completion word cards."
+  },
+  {
+   "page": 90,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.89 memory cards, all labelled 'Wortschatz: Essen und Trinken'."
+  },
+  {
+   "page": 91,
+   "activity_type": "writing-task",
+   "topic": "hobby",
+   "summary": "Cut-out word cards to build sentences giving opinions about TV programmes."
+  },
+  {
+   "page": 92,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.91 game cards, all labelled 'Grammatik: Akkusativ'."
+  },
+  {
+   "page": 93,
+   "activity_type": "writing-task",
+   "topic": "daily-routine",
+   "summary": "Cut-out word cards to build daily-routine sentences with separable verbs."
+  },
+  {
+   "page": 94,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.93 game cards, all labelled 'Trennbare Verben'."
+  },
+  {
+   "page": 95,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Cut-out syllable cards to combine into Lektion 3 vocabulary words."
+  },
+  {
+   "page": 96,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Reverse side of the p.95 syllable cards, all labelled 'Silbenrätsel'."
+  },
+  {
+   "page": 97,
+   "activity_type": "listening-comprehension",
+   "topic": "none",
+   "summary": "Audio transcripts (Hörtexte), Lektion 1: introduction and interview dialogues."
+  },
+  {
+   "page": 98,
+   "activity_type": "listening-comprehension",
+   "topic": "none",
+   "summary": "Audio transcripts (Hörtexte), Lektion 1: numbers, prices, phone numbers, Q&A drills."
+  },
+  {
+   "page": 99,
+   "activity_type": "listening-comprehension",
+   "topic": "none",
+   "summary": "Audio transcripts (Hörtexte), Lektion 2: house-hunting and country/language dialogues."
+  },
+  {
+   "page": 100,
+   "activity_type": "listening-comprehension",
+   "topic": "none",
+   "summary": "Audio transcripts (Hörtexte), Lektion 2: furniture, drinks, pets and language drills."
+  },
+  {
+   "page": 101,
+   "activity_type": "listening-comprehension",
+   "topic": "none",
+   "summary": "Audio transcripts (Hörtexte), Lektion 3: school subjects, TV and telling time."
+  },
+  {
+   "page": 102,
+   "activity_type": "listening-comprehension",
+   "topic": "none",
+   "summary": "Audio transcripts (Hörtexte) Lektion 3 plus CD credits and copyright."
+  },
+  {
+   "page": 103,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Picture credits (Bildquellenverzeichnis) listing image sources by page number."
+  },
+  {
+   "page": 104,
+   "activity_type": "vocabulary",
+   "topic": "city-places",
+   "summary": "Reference map of German-speaking countries: regions, waters, rivers, mountains, cities."
+  }
+ ]
+}

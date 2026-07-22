@@ -41,78 +41,102 @@
 
 | activity type | Count |
 |---|---|
-| (none) | 56 |
+| listening-comprehension | 12 |
+| fill-in | 9 |
+| none | 9 |
+| reading-comprehension | 6 |
+| answer-key | 5 |
+| writing-task | 5 |
+| instructions | 3 |
+| matching | 3 |
+| cover | 1 |
+| short-answer | 1 |
+| speaking-task | 1 |
+| vocabulary | 1 |
 
 **By topic**
 
 | topic | Count |
 |---|---|
-| (none) | 56 |
+| none | 18 |
+| profession | 9 |
+| city-places | 4 |
+| personal-info | 4 |
+| food | 3 |
+| health | 3 |
+| home | 3 |
+| shopping | 3 |
+| daily-routine | 2 |
+| mixed | 2 |
+| travel | 2 |
+| family | 1 |
+| hobby | 1 |
+| vacation | 1 |
 
 ## Page index
 
 | Page | Section | Activity | Topic | Summary |
 |---|---|---|---|---|
-| 001 |  |  |  | Netzwerk neu |
-| 002 |  |  |  | Autorinnen: Karin Ransberger, Margret Rodi, Kirsten Althaus |
-| 003 |  |  |  | Inhalt |
-| 004 |  |  |  | Einleitung |
-| 005 |  |  |  | Prüfungsaufgaben im Testheft |
-| 006 |  |  |  | 1 · Guten Tag! |
-| 007 |  |  |  | Guten Tag! 1 |
-| 008 |  |  |  | 1 Guten Tag! |
-| 009 |  |  |  | Freunde, Kollegen und ich    2 |
-| 010 |  |  |  | 2 Freunde, Kollegen und ich |
-| 011 |  |  |  | Freunde, Kollegen und ich&emsp;&emsp;2 |
-| 012 |  |  |  | 3 In Hamburg |
-| 013 |  |  |  | In Hamburg  3 |
-| 014 |  |  |  | 3 In Hamburg |
-| 015 | hoeren |  |  | Guten Appetit!    4 |
-| 016 | lesen |  |  | 4  Guten Appetit! |
-| 017 |  |  |  | Guten Appetit! 4 |
-| 018 | hoeren |  |  | 5 Alltag und Familie |
-| 019 |  |  |  | Alltag und Familie · 5 |
-| 020 |  |  |  | 5 Alltag und Familie |
-| 021 |  |  |  | 6 · Zeit mit Freunden |
-| 022 | lesen |  |  | 6 · Zeit mit Freunden |
-| 023 | schreiben |  |  | Zeit mit Freunden 6 |
-| 024 |  |  |  | 7 Arbeitsalltag |
-| 025 | lesen |  |  | Arbeitsalltag &nbsp; 7 |
-| 026 | schreiben |  |  | 7 Arbeitsalltag |
-| 027 | schreiben |  |  | Arbeitsalltag  7 |
-| 028 |  |  |  | 8 Fit und gesund |
-| 029 |  |  |  | Fit und gesund |
-| 030 |  |  |  | 8 Fit und gesund |
-| 031 | hoeren |  |  | <!-- top-right chapter banner -- Meine Wohnung — 9 |
-| 032 | lesen |  |  | 9 Meine Wohnung |
-| 033 | schreiben |  |  | Meine Wohnung   9 |
-| 034 |  |  |  | 10  Studium und Beruf |
-| 035 | schreiben |  |  | Studium und Beruf — 10 |
-| 036 |  |  |  | 10 Studium und Beruf |
-| 037 | hoeren |  |  | 11 · Die Jacke gefällt mir! |
-| 038 |  |  |  | 11 Die Jacke gefällt mir! |
-| 039 | lesen |  |  | 11 · Die Jacke gefällt mir! |
-| 040 |  |  |  | 11 Die Jacke gefällt mir! |
-| 041 |  |  |  | Ab in den Urlaub! 12 |
-| 042 | lesen |  |  | 12 Ab in den Urlaub! |
-| 043 |  |  |  | Ab in den Urlaub!	12 |
-| 044 | hoeren |  |  | T   Transkripte |
-| 045 | hoeren |  |  | Transkripte |
-| 046 | hoeren |  |  | T Transkripte |
-| 047 | hoeren |  |  | Transkripte |
-| 048 | hoeren |  |  | T Transkripte |
-| 049 | answer-key |  |  | Lösungen  L |
-| 050 | answer-key |  |  | L Lösungen |
-| 051 | answer-key |  |  | Lösungen · L |
-| 052 | answer-key |  |  | L — Lösungen |
-| 053 | answer-key |  |  | Lösungen |
-| 054 |  |  |  | Bewertung und Benotung |
-| 055 |  |  |  | Bewertung und Benotung |
-| 056 |  |  |  | Quellenverzeichnis |
+| 001 |  | cover | none | Cover of Netzwerk neu A1 Testheft with audio and digital-access info. |
+| 002 |  | none | none | Imprint: authors, publisher, ISBN, copyright and Indian distribution details. |
+| 003 |  | none | none | Table of contents plus legend of the symbols used in the booklet. |
+| 004 |  | instructions | none | Introduction: who the tests are for, structure, scoring and grading scale. |
+| 005 |  | none | none | Overview mapping each test task to Start Deutsch 1 and OeSD exam formats. |
+| 006 |  | listening-comprehension | personal-info | Chapter 1 greetings: listening multiple-choice, true/false, and question-word gap-fill. |
+| 007 |  | fill-in | personal-info | Chapter 1: reorder sentences, conjugate verbs, match countries and languages. |
+| 008 |  | fill-in | personal-info | Chapter 1: read profiles to note info; fill a course registration form. |
+| 009 |  | listening-comprehension | profession | Chapter 2: listening true/false, correct phone numbers, and odd-one-out vocabulary. |
+| 010 |  | fill-in | profession | Chapter 2: form yes/no questions, conjugate verbs, articles and plural forms. |
+| 011 |  | fill-in | personal-info | Chapter 2: fill a yoga-course registration form; speaking task introducing yourself. |
+| 012 |  | listening-comprehension | city-places | Chapter 3 Hamburg: listening notes, listening choice, and reading gap-fill. |
+| 013 |  | fill-in | city-places | Chapter 3: crossword, choose ein/kein articles, write imperative directions. |
+| 014 |  | vocabulary | city-places | Chapter 3: transport words with articles; speaking task asking for directions. |
+| 015 | hoeren | listening-comprehension | food | Chapter 4 food: listening choice, odd-one-out, nominative/accusative articles. |
+| 016 | lesen | reading-comprehension | food | Chapter 4: read a party invitation (true/false) and a chef profile (Q&A). |
+| 017 |  | writing-task | food | Chapter 4: complete sentences, write your eating habits, food speaking cards. |
+| 018 | hoeren | listening-comprehension | daily-routine | Chapter 5: choose correct clock times and match texts to everyday photos. |
+| 019 |  | fill-in | daily-routine | Chapter 5: choose reactions, complete possessives, build modal-verb sentences. |
+| 020 |  | reading-comprehension | family | Chapter 5 review: true/false reading on party emails, gap-fill invitation email, speaking role-play. |
+| 021 |  | listening-comprehension | mixed | Chapter 6 opener: listening note-taking, restaurant odd-one-out vocabulary, accusative pronoun gap-fill. |
+| 022 | lesen | reading-comprehension | mixed | Separable verbs, past tense of haben/sein, and true/false reading of public signs. |
+| 023 | schreiben | writing-task | hobby | Write a birthday invitation and speak to arrange four meet-ups with a partner. |
+| 024 |  | listening-comprehension | profession | Chapter 7 opener: office listening choices, computer verb vocabulary, workday preposition gap-fill. |
+| 025 | lesen | reading-comprehension | profession | Connectors und/oder/aber and reading three job-related ads with yes/no questions. |
+| 026 | schreiben | writing-task | profession | Write a roughly 30-word email reply arranging a farewell for an intern. |
+| 027 | schreiben | fill-in | profession | Fill a newsletter form from a text, then practise office small talk. |
+| 028 |  | listening-comprehension | health | Chapter 8 opener: medical listening choices, health odd-one-out vocabulary, naming body parts. |
+| 029 |  | fill-in | health | Modal verbs in a doctor dialogue and writing imperative health advice. |
+| 030 |  | matching | health | Match health/prohibition notices to pictures, write a sick note, practise polite requests. |
+| 031 | hoeren | listening-comprehension | home | Chapter 9 opener: apartment true/false listening and matching photos to spoken texts. |
+| 032 | lesen | reading-comprehension | home | Furniture prepositions, choosing fitting reactions, and true/false reading of housewarming-party emails. |
+| 033 | schreiben | writing-task | home | Describe your apartment, reply to a party invitation email, and speak about home/parties. |
+| 034 |  | listening-comprehension | profession | Chapter 10 opener: job-priority listening, workplace vocabulary, past-participle gap-fill. |
+| 035 | schreiben | short-answer | profession | Form perfect-tense sentences, match telephone phrases, and complete a job-board registration form. |
+| 036 |  | matching | profession | Match five job-seeker situations to newspaper ads and introduce yourself in speaking. |
+| 037 | hoeren | listening-comprehension | shopping | Chapter 11 opener: multiple-choice listening about shopping, prices, and clothing. |
+| 038 |  | fill-in | shopping | Shopping verbs, welch-/dies- forms, case pronouns, and locating goods by department-store floor. |
+| 039 | lesen | matching | city-places | Reading: match six headings to five short texts about the city Düsseldorf. |
+| 040 |  | writing-task | shopping | Write a reply email about interview clothing; partner speaking task on clothes and shops. |
+| 041 |  | listening-comprehension | travel | Chapter 12 test: listening true/false and choice, odd-word-out, writing travel questions. |
+| 042 | lesen | reading-comprehension | travel | Reading test: choose which of two websites (a or b) holds the needed information. |
+| 043 |  | speaking-task | vacation | Write a holiday email; describe and role-play one of three travel pictures. |
+| 044 | hoeren | none | none | Audio transcripts for listening chapters 1-3 (greetings, people, Hamburg). |
+| 045 | hoeren | none | none | Audio transcripts for chapters 4-5 (food shopping, telling time, family, directions). |
+| 046 | hoeren | none | none | Audio transcripts for chapters 6-8 (invitations, office day, doctor messages). |
+| 047 | hoeren | none | none | Audio transcripts for chapters 8-10 (doctor, apartments, moving, jobs). |
+| 048 | hoeren | none | none | Audio transcripts for chapters 11-12 (shopping talk, station announcements, travel questions). |
+| 049 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 1-3. |
+| 050 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 4-6. |
+| 051 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 6-8. |
+| 052 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 8-11. |
+| 053 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 11-12. |
+| 054 |  | instructions | none | Scoring guide: points-to-percent scale and Start Deutsch 1 writing/speaking criteria. |
+| 055 |  | instructions | none | Scoring guide: ÖSD Zertifikat A1 writing/speaking criteria, pass marks, grade bands. |
+| 056 |  | none | none | Picture credits and source list (Quellenverzeichnis). |
 
 ---
 
-## Page 001  — [cover]
+## Page 001  — [cover] · cover · none
 
 # Netzwerk neu
 
@@ -141,7 +165,7 @@ Foreign Language Books
 
 🌐 www.goyalpublisher.com
 
-## Page 002  — [intro]
+## Page 002  — [intro] · none · none
 
 **Autorinnen:** Karin Ransberger, Margret Rodi, Kirsten Althaus
 **Redaktion:** Annette Kretschmer
@@ -179,7 +203,7 @@ Ph.: 23858362, 9650597000 / 7001 ☎ 8076895595
 
 Printed in India
 
-## Page 003  — [toc, intro]
+## Page 003  — [toc, intro] · none · none
 
 # Inhalt
 
@@ -219,7 +243,7 @@ Printed in India
 | 👥 (zwei Personen) | Sprechen Sie mit einem Partner / einer Partnerin. |
 | 👥👤 (drei Personen) | Sprechen Sie in der Gruppe. |
 
-## Page 004  — [intro, instructions]
+## Page 004  — [intro, instructions] · instructions · none
 
 # Einleitung
 
@@ -261,7 +285,7 @@ Die Lernenden können die Tests auch allein zu Hause machen. Dann brauchen sie a
 
 4 vier
 
-## Page 005  — [toc]
+## Page 005  — [toc] · none · none
 
 # Prüfungsaufgaben im Testheft
 
@@ -300,7 +324,7 @@ Autorinnen und Verlag wünschen viel Spaß und Erfolg!
 
 fünf 5
 
-## Page 006  — [exercise, listening-sheet]
+## Page 006  — [exercise, listening-sheet] · listening-comprehension · personal-info
 
 **1 · Guten Tag!**
 
@@ -364,7 +388,7 @@ ___/5
 
 6 sechs
 
-## Page 007  — [exercise]
+## Page 007  — [exercise] · fill-in · personal-info
 
 Guten Tag! 1
 
@@ -416,7 +440,7 @@ ___/5
 
 sieben 7
 
-## Page 008  — [exercise, reading-text, writing-prompt, instructions]
+## Page 008  — [exercise, reading-text, writing-prompt, instructions] · fill-in · personal-info
 
 **1** Guten Tag!
 
@@ -462,7 +486,7 @@ ___/40
 
 acht
 
-## Page 009  — [chapter-opener, exercise, listening-sheet, vocabulary]
+## Page 009  — [chapter-opener, exercise, listening-sheet, vocabulary] · listening-comprehension · profession
 
 Freunde, Kollegen und ich    2
 
@@ -507,7 +531,7 @@ ___ / 5
 
 neun 9
 
-## Page 010  — [exercise]
+## Page 010  — [exercise] · fill-in · profession
 
 **2** Freunde, Kollegen und ich
 
@@ -559,7 +583,7 @@ ___/5
 
 10 zehn
 
-## Page 011  — [exercise, writing-prompt, speaking-prompt]
+## Page 011  — [exercise, writing-prompt, speaking-prompt] · fill-in · personal-info
 
 Freunde, Kollegen und ich&emsp;&emsp;**2**
 
@@ -603,7 +627,7 @@ ___ / 40
 
 elf&emsp;**11**
 
-## Page 012  — [chapter-opener, listening-sheet, exercise, reading-text]
+## Page 012  — [chapter-opener, listening-sheet, exercise, reading-text] · listening-comprehension · city-places
 
 # 3 In Hamburg
 
@@ -669,7 +693,7 @@ ___ / 5
 
 12 zwölf
 
-## Page 013  — [exercise]
+## Page 013  — [exercise] · fill-in · city-places
 
 In Hamburg  **3**
 
@@ -736,7 +760,7 @@ ___/5
 
 dreizehn **13**
 
-## Page 014  — [exercise, vocabulary, speaking-prompt]
+## Page 014  — [exercise, vocabulary, speaking-prompt] · vocabulary · city-places
 
 **3** In Hamburg
 
@@ -778,7 +802,7 @@ ___ / 40
 
 14 vierzehn
 
-## Page 015  — hoeren · [chapter-opener, exercise, listening-sheet, vocabulary, grammar-box]
+## Page 015  — hoeren · [chapter-opener, exercise, listening-sheet, vocabulary, grammar-box] · listening-comprehension · food
 
 Guten Appetit!    4
 
@@ -845,7 +869,7 @@ ___ / 5
 
 fünfzehn    15
 
-## Page 016  — lesen · [reading-text, exercise]
+## Page 016  — lesen · [reading-text, exercise] · reading-comprehension · food
 
 **4  Guten Appetit!**
 
@@ -893,7 +917,7 @@ ____ / 5
 
 16  sechzehn
 
-## Page 017  — [exercise, writing-prompt, speaking-prompt]
+## Page 017  — [exercise, writing-prompt, speaking-prompt] · writing-task · food
 
 Guten Appetit! 4
 
@@ -957,7 +981,7 @@ ______/40
 
 siebzehn **17**
 
-## Page 018  — hoeren · [chapter-opener, exercise, listening-sheet]
+## Page 018  — hoeren · [chapter-opener, exercise, listening-sheet] · listening-comprehension · daily-routine
 
 **5** Alltag und Familie
 
@@ -1000,7 +1024,7 @@ ___ / 5
 
 18 achtzehn
 
-## Page 019  — [exercise, review, grammar-box]
+## Page 019  — [exercise, review, grammar-box] · fill-in · daily-routine
 
 Alltag und Familie · **5**
 
@@ -1067,7 +1091,7 @@ ___/5
 
 neunzehn **19**
 
-## Page 020  — [exercise, reading-text, writing-prompt, speaking-prompt]
+## Page 020  — [exercise, reading-text, writing-prompt, speaking-prompt] · reading-comprehension · family
 
 # 5 Alltag und Familie
 
@@ -1135,7 +1159,7 @@ telefonieren | Grüße | ~~Liebe~~ | Wie lange | morgen | Zeit
 
 20 &nbsp; zwanzig
 
-## Page 021  — [chapter-opener, listening-sheet, exercise, vocabulary, review]
+## Page 021  — [chapter-opener, listening-sheet, exercise, vocabulary, review] · listening-comprehension · mixed
 
 # 6 · Zeit mit Freunden
 
@@ -1204,7 +1228,7 @@ einundzwanzig 21
 
 <!-- Am äußersten linken Blattrand sind schwach durchscheinende Ziffern der gegenüberliegenden Seite zu sehen (Teilziffer "5" an zwei Stellen sowie "40"); gehören nicht zum Inhalt dieser Seite. -->
 
-## Page 022  — lesen · [exercise, reading-text, dialogue]
+## Page 022  — lesen · [exercise, reading-text, dialogue] · reading-comprehension · mixed
 
 # 6 · Zeit mit Freunden
 
@@ -1298,7 +1322,7 @@ ___/ 5
 
 22 zweiundzwanzig
 
-## Page 023  — schreiben · [exercise, writing-prompt, speaking-prompt, picture-story]
+## Page 023  — schreiben · [exercise, writing-prompt, speaking-prompt, picture-story] · writing-task · hobby
 
 Zeit mit Freunden 6
 
@@ -1355,7 +1379,7 @@ ___/40
 
 dreiundzwanzig 23
 
-## Page 024  — [chapter-opener, exercise, listening-sheet, review]
+## Page 024  — [chapter-opener, exercise, listening-sheet, review] · listening-comprehension · profession
 
 # 7 Arbeitsalltag
 
@@ -1432,7 +1456,7 @@ ___ / 5
 
 24 vierundzwanzig
 
-## Page 025  — lesen · [exercise, reading-text]
+## Page 025  — lesen · [exercise, reading-text] · reading-comprehension · profession
 
 Arbeitsalltag &nbsp; **7**
 
@@ -1510,7 +1534,7 @@ fünfundzwanzig &nbsp; 25
 
 <!-- Faint "/5" · "/5" · "_/5" marks appear in the extreme left gutter margin; these are show-through/bleed from the facing page and do not belong to any exercise on this page. -->
 
-## Page 026  — schreiben · [exercise, reading-text, writing-prompt]
+## Page 026  — schreiben · [exercise, reading-text, writing-prompt] · writing-task · profession
 
 **7** Arbeitsalltag
 
@@ -1571,7 +1595,7 @@ ___ / 5
 
 26 sechsundzwanzig
 
-## Page 027  — schreiben · [exercise, writing-prompt, speaking-prompt]
+## Page 027  — schreiben · [exercise, writing-prompt, speaking-prompt] · fill-in · profession
 
 Arbeitsalltag  7
 
@@ -1621,7 +1645,7 @@ ___ / 40
 
 siebenundzwanzig  27
 
-## Page 028  — [chapter-opener, exercise, listening-sheet, vocabulary, review]
+## Page 028  — [chapter-opener, exercise, listening-sheet, vocabulary, review] · listening-comprehension · health
 
 # 8 Fit und gesund
 
@@ -1691,7 +1715,7 @@ ___/5
 
 28 achtundzwanzig
 
-## Page 029  — [exercise]
+## Page 029  — [exercise] · fill-in · health
 
 Fit und gesund
 
@@ -1757,7 +1781,7 @@ ___ / 5
 
 neunundzwanzig 29
 
-## Page 030  — [exercise, reading-text, writing-prompt, speaking-prompt, review]
+## Page 030  — [exercise, reading-text, writing-prompt, speaking-prompt, review] · matching · health
 
 **8** Fit und gesund
 
@@ -1862,7 +1886,7 @@ ___ / 40
 
 30 dreißig
 
-## Page 031  — hoeren · [listening-sheet, exercise]
+## Page 031  — hoeren · [listening-sheet, exercise] · listening-comprehension · home
 
 <!-- top-right chapter banner --> Meine Wohnung — 9
 
@@ -1905,7 +1929,7 @@ ___ / 5
 
 <!-- page footer --> einunddreißig  **31**
 
-## Page 032  — lesen · [exercise, reading-text, dialogue]
+## Page 032  — lesen · [exercise, reading-text, dialogue] · reading-comprehension · home
 
 # 9 Meine Wohnung
 
@@ -1978,7 +2002,7 @@ ___/5
 
 32 zweiunddreißig
 
-## Page 033  — schreiben · [exercise, writing-prompt, speaking-prompt, reading-text]
+## Page 033  — schreiben · [exercise, writing-prompt, speaking-prompt, reading-text] · writing-task · home
 
 Meine Wohnung   9
 
@@ -2045,7 +2069,7 @@ dreiunddreißig **33**
 
 <!-- Left margin shows cut-off marks bleeding in from the facing page (page 32): ")", a short dash "~", and several "5" score marks. Not part of page 33 content. -->
 
-## Page 034  — [chapter-opener, listening-sheet, exercise, grammar-box]
+## Page 034  — [chapter-opener, listening-sheet, exercise, grammar-box] · listening-comprehension · profession
 
 **10**  Studium und Beruf
 
@@ -2107,7 +2131,7 @@ ___/5
 
 **34**  vierunddreißig
 
-## Page 035  — schreiben · [exercise, writing-prompt]
+## Page 035  — schreiben · [exercise, writing-prompt] · short-answer · profession
 
 Studium und Beruf — 10
 
@@ -2167,7 +2191,7 @@ ___/5
 
 fünfunddreißig 35
 
-## Page 036  — [exercise, instructions, reading-text, speaking-prompt]
+## Page 036  — [exercise, instructions, reading-text, speaking-prompt] · matching · profession
 
 **10** Studium und Beruf
 
@@ -2265,7 +2289,7 @@ ____ / 40
 
 36 sechsunddreißig
 
-## Page 037  — hoeren · [exercise, listening-sheet]
+## Page 037  — hoeren · [exercise, listening-sheet] · listening-comprehension · shopping
 
 11 · Die Jacke gefällt mir!
 
@@ -2327,7 +2351,7 @@ ____ / 40
 
 siebenunddreißig 37
 
-## Page 038  — [exercise, review, reading-text]
+## Page 038  — [exercise, review, reading-text] · fill-in · shopping
 
 **11 Die Jacke gefällt mir!**
 
@@ -2392,7 +2416,7 @@ ___/5
 
 38 achtunddreißig
 
-## Page 039  — lesen · [exercise, reading-text]
+## Page 039  — lesen · [exercise, reading-text] · matching · city-places
 
 11 · Die Jacke gefällt mir!
 
@@ -2437,7 +2461,7 @@ neununddreißig 39
 
 <!-- Faint "5" digits appear at the left spine margin at four vertical positions; these are show-through/bleed from the reverse page's score boxes, not content of this page. -->
 
-## Page 040  — [writing-prompt, speaking-prompt, review]
+## Page 040  — [writing-prompt, speaking-prompt, review] · writing-task · shopping
 
 **11 Die Jacke gefällt mir!**
 
@@ -2504,7 +2528,7 @@ ___ / 5
 
 ___ / 40
 
-## Page 041  — [exercise, listening-sheet, reading-text, writing-prompt]
+## Page 041  — [exercise, listening-sheet, reading-text, writing-prompt] · listening-comprehension · travel
 
 Ab in den Urlaub! **12**
 
@@ -2574,7 +2598,7 @@ ___ / 5
 
 einundvierzig **41**
 
-## Page 042  — lesen · [exercise, reading-text]
+## Page 042  — lesen · [exercise, reading-text] · reading-comprehension · travel
 
 **12** Ab in den Urlaub!
 
@@ -2698,7 +2722,7 @@ ___ / 5
 
 42 zweiundvierzig
 
-## Page 043  — [writing-prompt, speaking-prompt, exercise, instructions, picture-story]
+## Page 043  — [writing-prompt, speaking-prompt, exercise, instructions, picture-story] · speaking-task · vacation
 
 Ab in den Urlaub!	12
 
@@ -2740,7 +2764,7 @@ ____/40
 
 dreiundvierzig	43
 
-## Page 044  — hoeren · [audio-script, dialogue]
+## Page 044  — hoeren · [audio-script, dialogue] · none · none
 
 **T   Transkripte**
 
@@ -2828,7 +2852,7 @@ Hallo Martha, hier ist Philipp. Wie geht es dir? Du, gehen wir zusammen ins Kino
 
 44　vierundvierzig
 
-## Page 045  — hoeren · [audio-script, dialogue]
+## Page 045  — hoeren · [audio-script, dialogue] · none · none
 
 Transkripte
 
@@ -2940,7 +2964,7 @@ Transkripte
 
 fünfundvierzig 45
 
-## Page 046  — hoeren · [audio-script, listening-sheet]
+## Page 046  — hoeren · [audio-script, listening-sheet] · none · none
 
 # T Transkripte
 
@@ -3016,7 +3040,7 @@ fünfundvierzig 45
 
 46 sechsundvierzig
 
-## Page 047  — hoeren · [audio-script]
+## Page 047  — hoeren · [audio-script] · none · none
 
 Transkripte
 
@@ -3103,7 +3127,7 @@ Entschuldigen Sie, kann ich Sie etwas fragen? Was ist für Sie im Beruf wichtig?
 
 siebenundvierzig 47
 
-## Page 048  — hoeren · [audio-script]
+## Page 048  — hoeren · [audio-script] · none · none
 
 # T Transkripte
 
@@ -3182,7 +3206,7 @@ siebenundvierzig 47
 
 48 achtundvierzig
 
-## Page 049  — answer-key · [answer-key]
+## Page 049  — answer-key · [answer-key] · answer-key · none
 
 Lösungen  L
 
@@ -3305,7 +3329,7 @@ links. Dort ist die U-Bahn.
 
 neunundvierzig 49
 
-## Page 050  — answer-key · [answer-key]
+## Page 050  — answer-key · [answer-key] · answer-key · none
 
 **L** Lösungen
 
@@ -3405,7 +3429,7 @@ A2; B1; C5; D3; F4
 
 **50** fünfzig
 
-## Page 051  — answer-key · [answer-key]
+## Page 051  — answer-key · [answer-key] · answer-key · none
 
 # Lösungen · L
 
@@ -3503,7 +3527,7 @@ A3; B6; C4; D2; E1
 
 einundfünfzig 51
 
-## Page 052  — answer-key · [answer-key]
+## Page 052  — answer-key · [answer-key] · answer-key · none
 
 # L — Lösungen
 
@@ -3600,7 +3624,7 @@ Ich habe einen Bruder, Leon. Mein Lieblingsessen ist Pizza. Ich spreche Englisch
 
 52 zweiundfünfzig
 
-## Page 053  — answer-key · [answer-key]
+## Page 053  — answer-key · [answer-key] · answer-key · none
 
 Lösungen
 
@@ -3679,7 +3703,7 @@ Liebe Grüße, Andria
 
 dreiundfünfzig **53**
 
-## Page 054  — [instructions]
+## Page 054  — [instructions] · instructions · none
 
 Bewertung und Benotung
 
@@ -3736,7 +3760,7 @@ In der Prüfung *Start Deutsch 1* gibt es insgesamt 60 Punkte. Diese werden mit 
 
 54 vierundfünfzig
 
-## Page 055  — [instructions]
+## Page 055  — [instructions] · instructions · none
 
 Bewertung und Benotung
 
@@ -3811,7 +3835,7 @@ Detaillierte Hinweise zu den Tests finden Sie auf den Webseiten von *Goethe-Inst
 
 fünfundfünfzig 55
 
-## Page 056  — [toc]
+## Page 056  — [toc] · none · none
 
 Quellenverzeichnis
 

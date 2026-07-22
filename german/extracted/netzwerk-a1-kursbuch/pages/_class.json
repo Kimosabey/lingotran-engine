@@ -1,0 +1,1049 @@
+{
+ "collection": "netzwerk-a1-kursbuch",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Cover of Netzwerk neu A1 coursebook by Klett Sprachen."
+  },
+  {
+   "page": 2,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Imprint page: authors, ISBN, and audio and video download codes."
+  },
+  {
+   "page": 3,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Legend explaining the pictograms and icons used throughout the coursebook."
+  },
+  {
+   "page": 4,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents for chapters 1 to 3 with goals and grammar."
+  },
+  {
+   "page": 5,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents for chapters 4 to 6 with goals and grammar."
+  },
+  {
+   "page": 6,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents for chapters 7 to 9 with goals and grammar."
+  },
+  {
+   "page": 7,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents for chapters 10 to 12 plus appendix listing."
+  },
+  {
+   "page": 8,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Chapter 1 opener: match international German loanwords to their meanings."
+  },
+  {
+   "page": 9,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "German loanword cards; translate them and collect more examples."
+  },
+  {
+   "page": 10,
+   "activity_type": "listening-comprehension",
+   "topic": "personal-info",
+   "summary": "Informal greetings dialogues: Hallo and Tschüs, asking names and wellbeing."
+  },
+  {
+   "page": 11,
+   "activity_type": "listening-comprehension",
+   "topic": "personal-info",
+   "summary": "Formal greetings: Guten Tag, introductions, and verb conjugation practice."
+  },
+  {
+   "page": 12,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Asking origin, residence, and languages; W-questions and verb endings."
+  },
+  {
+   "page": 13,
+   "activity_type": "vocabulary",
+   "topic": "personal-info",
+   "summary": "Numbers to 20, the alphabet, spelling phone numbers and emails."
+  },
+  {
+   "page": 14,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Reading profiles; complete a table of people's countries and languages."
+  },
+  {
+   "page": 15,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "More profiles; match countries with languages, then speak and write."
+  },
+  {
+   "page": 16,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Netzwerk-WG video tasks: who lives there, matching info and speech bubbles."
+  },
+  {
+   "page": 17,
+   "activity_type": "none",
+   "topic": "personal-info",
+   "summary": "Chapter 1 review: phrases and grammar summary, kurz und klar."
+  },
+  {
+   "page": 18,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Chapter 2 opener: listen and note what people like doing."
+  },
+  {
+   "page": 19,
+   "activity_type": "speaking-task",
+   "topic": "hobby",
+   "summary": "Tick which hobbies you like, then ask and answer what you enjoy doing."
+  },
+  {
+   "page": 20,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Complete verbs and personal endings about Sophie's photos; conjugation practice game."
+  },
+  {
+   "page": 21,
+   "activity_type": "speaking-task",
+   "topic": "hobby",
+   "summary": "Making cinema dates: weekdays, question intonation, and appointment dialogues."
+  },
+  {
+   "page": 22,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Match objects to four jobs, read job profiles, and practise big numbers."
+  },
+  {
+   "page": 23,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Note plural forms and endings, match jobs to pictures, discuss work times."
+  },
+  {
+   "page": 24,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Find gender and plural in dictionary entries; sort nouns and label an article picture."
+  },
+  {
+   "page": 25,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Match personal-data labels, then fill in a sports-club registration form."
+  },
+  {
+   "page": 26,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "Video scenes 4-5: note hobbies and identify Luca and Anna's jobs."
+  },
+  {
+   "page": 27,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Chapter 2 review: hobby and job phrases, numbers, verb and article grammar."
+  },
+  {
+   "page": 28,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "Chapter 3 opener: Hamburg tour, match stations to photos, fill in facts."
+  },
+  {
+   "page": 29,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "Hamburg harbour, Michel and town hall; gather facts about your own city."
+  },
+  {
+   "page": 30,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Taxi ride to hotel: mark named places, read dialogue, fill in articles."
+  },
+  {
+   "page": 31,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Definite and indefinite articles with Hamburg places; long-short vowel listening."
+  },
+  {
+   "page": 32,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "Transport picture story; match captions and practise negation with kein."
+  },
+  {
+   "page": 33,
+   "activity_type": "speaking-task",
+   "topic": "city-places",
+   "summary": "Asking and giving directions: listening tasks plus dialogue and dice game."
+  },
+  {
+   "page": 34,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "Read Hamburg event listings, match photos, and spot international cognate words."
+  },
+  {
+   "page": 35,
+   "activity_type": "vocabulary",
+   "topic": "time-dates",
+   "summary": "Name months and seasons, match photos to seasons, note what people do when."
+  },
+  {
+   "page": 36,
+   "activity_type": "listening-comprehension",
+   "topic": "city-places",
+   "summary": "Munich video tour: number stations, match landmarks, fill facts, order directions."
+  },
+  {
+   "page": 37,
+   "activity_type": "none",
+   "topic": "city-places",
+   "summary": "Chapter 3 review (kurz und klar): phrases and grammar for places, directions, articles, imperative."
+  },
+  {
+   "page": 38,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Revision board game (Wiederholungsspiel): mixed A1 game-field tasks plus an alphabet chart."
+  },
+  {
+   "page": 39,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Revision board game continued: fill-in and speaking tasks across chapters 1 to 3."
+  },
+  {
+   "page": 40,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Letter and vowel games: supply missing vowels, correct wrong vowels, number-dictation drawing."
+  },
+  {
+   "page": 41,
+   "activity_type": "matching",
+   "topic": "profession",
+   "summary": "Personen-Memo: read profiles of famous D-A-CH people and match those with the same job."
+  },
+  {
+   "page": 42,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "D-A-CH city quiz: name countries and capitals; fill gaps in Zürich, Wien and Graz texts."
+  },
+  {
+   "page": 43,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "More D-A-CH city texts (Leipzig, Köln, Genf): fill words, listen and locate three speakers."
+  },
+  {
+   "page": 44,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Chapter 4 opener Guten Appetit!: breakfast and lunch food vocabulary; match words, listen for shops."
+  },
+  {
+   "page": 45,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Food vocabulary (coffee and cake, dinner); tick the words you hear and sort foods into shops."
+  },
+  {
+   "page": 46,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Planning a grill party: pick the right reply, write shopping lists, Akkusativ articles, umlaut sounds."
+  },
+  {
+   "page": 47,
+   "activity_type": "listening-comprehension",
+   "topic": "shopping",
+   "summary": "Supermarket shopping dialogues: match each to a picture and practise saying prices."
+  },
+  {
+   "page": 48,
+   "activity_type": "listening-comprehension",
+   "topic": "food",
+   "summary": "Grill-party mealtime dialogues: match to photos, practise möchten, talk about food likes."
+  },
+  {
+   "page": 49,
+   "activity_type": "reading-comprehension",
+   "topic": "food",
+   "summary": "Read three eating-habits texts, fill a meals-of-the-day table, then talk and write your own."
+  },
+  {
+   "page": 50,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Vocabulary-learning strategies: build a food mindmap, learn word pairs and thematic word groups."
+  },
+  {
+   "page": 51,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Read about a cook at Lake Constance and answer W-questions about his job."
+  },
+  {
+   "page": 52,
+   "activity_type": "listening-comprehension",
+   "topic": "food",
+   "summary": "Netzwerk-WG video: pick the shopping list, complete words, order the baking-afternoon photos."
+  },
+  {
+   "page": 53,
+   "activity_type": "none",
+   "topic": "food",
+   "summary": "Chapter 4 review (kurz und klar): shopping and eating phrases and grammar (articles, möchten, essen, mögen)."
+  },
+  {
+   "page": 54,
+   "activity_type": "listening-comprehension",
+   "topic": "daily-routine",
+   "summary": "Chapter 5 opener Alltag und Familie: order Kaan's day photos, listen and number, mark Sunday activities."
+  },
+  {
+   "page": 55,
+   "activity_type": "speaking-task",
+   "topic": "daily-routine",
+   "summary": "Daily-routine photo collage: describe photos, tell about your day, present a five-photo day."
+  },
+  {
+   "page": 56,
+   "activity_type": "listening-comprehension",
+   "topic": "time-dates",
+   "summary": "Telling the time: listen and match clocks, note official times, ask and answer."
+  },
+  {
+   "page": 57,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Dobart family calendar: complete time phrases, true/false listening, possessive articles, r/a sound rule."
+  },
+  {
+   "page": 58,
+   "activity_type": "reading-comprehension",
+   "topic": "family",
+   "summary": "Dobart family homepage and guestbook: match captions to photos, complete possessive articles."
+  },
+  {
+   "page": 59,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Making arrangements: read Mara's email, mark modal verbs, complete Johanna's modal-verb reply."
+  },
+  {
+   "page": 60,
+   "activity_type": "speaking-task",
+   "topic": "communication",
+   "summary": "Making an appointment by phone: match dialogue lines, politeness box, role-play scheduling."
+  },
+  {
+   "page": 61,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Punctuality: judge acceptable lateness, listen and note delays, match apology and reply phrases."
+  },
+  {
+   "page": 62,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Netzwerk-WG video: order jogging-scene statements, fill in who does what, predict the outcome."
+  },
+  {
+   "page": 63,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Chapter 5 review: phrases and grammar for time, appointments, apologies, possessives, modal verbs."
+  },
+  {
+   "page": 64,
+   "activity_type": "speaking-task",
+   "topic": "hobby",
+   "summary": "Chapter 6 opener Zeit mit Freunden: guess free-time activities from photos, compare loanwords."
+  },
+  {
+   "page": 65,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Free time continued: collect words for photos, listen and name activities, mime and guess."
+  },
+  {
+   "page": 66,
+   "activity_type": "reading-comprehension",
+   "topic": "time-dates",
+   "summary": "Dates: read the birthday-plan chat, complete sentences, listen for birthdays and diphthongs."
+  },
+  {
+   "page": 67,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Birthday invitation: read the mail, practise separable verbs, interview a partner, write an invitation."
+  },
+  {
+   "page": 68,
+   "activity_type": "fill-in",
+   "topic": "restaurant",
+   "summary": "Restaurant: describe a dog scene, tick what Jan and Leela order, fill accusative pronouns."
+  },
+  {
+   "page": 69,
+   "activity_type": "speaking-task",
+   "topic": "restaurant",
+   "summary": "Paying in a restaurant: menu role-play, order the paying dialogue, tipping and past-tense recap."
+  },
+  {
+   "page": 70,
+   "activity_type": "reading-comprehension",
+   "topic": "restaurant",
+   "summary": "Read about D-A-CH cafes, beer gardens, beach bars and pubs; fill a venue table."
+  },
+  {
+   "page": 71,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Read five event ads for missing details, listen to complete them, plan outings together."
+  },
+  {
+   "page": 72,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Netzwerk-WG video: match party words and menu, judge statements, order Bea's phone-call dialogue."
+  },
+  {
+   "page": 73,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Chapter 6 review: phrases for invitations, ordering food, events, dates and grammar."
+  },
+  {
+   "page": 74,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Review board game: vocabulary, birthday and family-dialogue speaking prompts for two teams."
+  },
+  {
+   "page": 75,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Review game continued: verb conjugation, naming words with articles, sentence-building prompts."
+  },
+  {
+   "page": 76,
+   "activity_type": "speaking-task",
+   "topic": "time-dates",
+   "summary": "Time theme: speak about activities, arrange dates, dictate daily-routine poems in pairs."
+  },
+  {
+   "page": 77,
+   "activity_type": "matching",
+   "topic": "time-dates",
+   "summary": "Sort nine photos into much-time or little-time; discuss your own time use."
+  },
+  {
+   "page": 78,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Eight regional D-A-CH dishes on a map; say which you know and would try."
+  },
+  {
+   "page": 79,
+   "activity_type": "reading-comprehension",
+   "topic": "food",
+   "summary": "Read four people's texts about favourite dishes and match each text to a dish."
+  },
+  {
+   "page": 80,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Chapter 7 opener Arbeitsalltag: describe Adnan's morning; order two workplace dialogues."
+  },
+  {
+   "page": 81,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Order the second workplace dialogue, role-play it, then describe your own morning."
+  },
+  {
+   "page": 82,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Read Laura's internship blog; find likes and dislikes; join sentences with und/oder/aber."
+  },
+  {
+   "page": 83,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Listen to Laura's workplace questions; Dativ practice; s/sch and st/scht pronunciation."
+  },
+  {
+   "page": 84,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Listen, mark true/false, then match location sentences (Wohin/Wo/Woher) to pictures."
+  },
+  {
+   "page": 85,
+   "activity_type": "matching",
+   "topic": "profession",
+   "summary": "Build word-order sentences about your day; match office computer actions to pictures."
+  },
+  {
+   "page": 86,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Read a formal club invitation letter; label letter parts; write a short reply."
+  },
+  {
+   "page": 87,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Read about good and bad small-talk topics; match statements to conversation topics."
+  },
+  {
+   "page": 88,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Netzwerk-WG video: order Anna's errands; fill printing-dialogue gaps; mark correct facts."
+  },
+  {
+   "page": 89,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Chapter 7 review: sequencing, letter standards, small talk, Dativ and connectors grammar."
+  },
+  {
+   "page": 90,
+   "activity_type": "speaking-task",
+   "topic": "health",
+   "summary": "Chapter 8 opener Fit und gesund: describe photos, read Annika's health-experiment diary."
+  },
+  {
+   "page": 91,
+   "activity_type": "listening-comprehension",
+   "topic": "health",
+   "summary": "Continue Annika's health diary; listen to voice messages about her experiment and mark opinions."
+  },
+  {
+   "page": 92,
+   "activity_type": "speaking-task",
+   "topic": "health",
+   "summary": "Read the Fitness-App comic, mark imperatives, and play Fitness-App giving commands."
+  },
+  {
+   "page": 93,
+   "activity_type": "matching",
+   "topic": "health",
+   "summary": "Fitness studio: match age/height/weight answers, label body parts, hear p/b, t/d, k/g."
+  },
+  {
+   "page": 94,
+   "activity_type": "ordering",
+   "topic": "health",
+   "summary": "Doctor visit after a bike accident: match sentences to photos and order the dialogue."
+  },
+  {
+   "page": 95,
+   "activity_type": "matching",
+   "topic": "health",
+   "summary": "At the doctor: match complaints and advice to patients; write müssen/dürfen sentences."
+  },
+  {
+   "page": 96,
+   "activity_type": "reading-comprehension",
+   "topic": "health",
+   "summary": "Home remedies forum: read posts and match each user to the right tip."
+  },
+  {
+   "page": 97,
+   "activity_type": "vocabulary",
+   "topic": "health",
+   "summary": "Hospital professions: match jobs to photos and texts; learn word-decoding strategies."
+  },
+  {
+   "page": 98,
+   "activity_type": "listening-comprehension",
+   "topic": "health",
+   "summary": "Netzwerk-WG video: Luca's backache; assign lines, order the dialogue, note commands."
+  },
+  {
+   "page": 99,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Chapter 8 review: personal info, doctor talk, imperative and modal verbs (dürfen/sollen) grammar."
+  },
+  {
+   "page": 100,
+   "activity_type": "vocabulary",
+   "topic": "home",
+   "summary": "Chapter 9 opener Meine Wohnung: furniture and appliance picture vocabulary; place items in rooms."
+  },
+  {
+   "page": 101,
+   "activity_type": "vocabulary",
+   "topic": "home",
+   "summary": "More furniture vocabulary; listen for four people's favourite spots at home."
+  },
+  {
+   "page": 102,
+   "activity_type": "reading-comprehension",
+   "topic": "home",
+   "summary": "Apartment search: read Carla and Alex's message, fill their wanted-ad, compare five listings."
+  },
+  {
+   "page": 103,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "New flat: sort furniture into rooms (wohin+Akkusativ); read and reply to a party invitation."
+  },
+  {
+   "page": 104,
+   "activity_type": "speaking-task",
+   "topic": "home",
+   "summary": "Housewarming picture: say where furniture is using wo+Dativ location prepositions."
+  },
+  {
+   "page": 105,
+   "activity_type": "listening-comprehension",
+   "topic": "home",
+   "summary": "Express liking/disliking a flat; long vs short e pronunciation; match furniture to colours."
+  },
+  {
+   "page": 106,
+   "activity_type": "matching",
+   "topic": "home",
+   "summary": "Match five housing-type headlines to their photos (high-rise, loft, terraced, old building)."
+  },
+  {
+   "page": 107,
+   "activity_type": "writing-task",
+   "topic": "home",
+   "summary": "Note housing pros and cons from audio; read three residents' texts; write about your home."
+  },
+  {
+   "page": 108,
+   "activity_type": "listening-comprehension",
+   "topic": "home",
+   "summary": "Netzwerk-WG video: mark rooms Anna shows; describe furnishing changes; talk about guests."
+  },
+  {
+   "page": 109,
+   "activity_type": "vocabulary",
+   "topic": "home",
+   "summary": "Chapter 9 review: phrases for flats, invitations, likes/dislikes and two-way prepositions."
+  },
+  {
+   "page": 110,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Revision board game part 1: speaking prompts on computers, health, home and invitations."
+  },
+  {
+   "page": 111,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Revision board game part 2: prompts on furniture, colours, prepositions and pronunciation."
+  },
+  {
+   "page": 112,
+   "activity_type": "speaking-task",
+   "topic": "health",
+   "summary": "Fitness survey and partner interview about weekly exercise; write a can't-attend-class message."
+  },
+  {
+   "page": 113,
+   "activity_type": "speaking-task",
+   "topic": "home",
+   "summary": "Review: place furniture (polite/rude), describe cluttered-room pictures, play a word-staircase game."
+  },
+  {
+   "page": 114,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Song 'Like, like' by Einshoch6: note words, guess the theme, order verses, discuss social media."
+  },
+  {
+   "page": 115,
+   "activity_type": "multiple-choice",
+   "topic": "home",
+   "summary": "'Which living type are you?' quiz: seven multiple-choice questions plus a scoring key."
+  },
+  {
+   "page": 116,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Chapter 10 opener 'Studium und Beruf': describe job photos; listen to a radio show on professions."
+  },
+  {
+   "page": 117,
+   "activity_type": "speaking-task",
+   "topic": "profession",
+   "summary": "Rank what matters to you in a job (eight statements), then compare and make a class statistic."
+  },
+  {
+   "page": 118,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Read Tina and Daniel's chat, order the day's pictures, complete Perfekt sentences (Satzklammer)."
+  },
+  {
+   "page": 119,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Listen and tick what Tina/Daniel did; match sentence halves; practise Partizip II (-ieren, irregular)."
+  },
+  {
+   "page": 120,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Read four people's job-search stories; check true/false; learn Perfekt with sein."
+  },
+  {
+   "page": 121,
+   "activity_type": "speaking-task",
+   "topic": "profession",
+   "summary": "Interview classmates about the past; retell Florian's dramatic day; write about yesterday; h-sound drill."
+  },
+  {
+   "page": 122,
+   "activity_type": "matching",
+   "topic": "communication",
+   "summary": "Order a job-inquiry phone dialogue; learn telephone phrases; role-play a phone call."
+  },
+  {
+   "page": 123,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Read about three D-A-CH festivals; note facts; hear which seasonal jobs the people do."
+  },
+  {
+   "page": 124,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Netzwerk-WG video: where Bea and Anna work; read a job ad and Max's promoter message."
+  },
+  {
+   "page": 125,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Chapter 10 review: phrases for jobs and telephoning, plus Perfekt grammar (haben/sein, Partizip II)."
+  },
+  {
+   "page": 126,
+   "activity_type": "matching",
+   "topic": "shopping",
+   "summary": "Chapter 11 opener 'Die Jacke gefällt mir!': match speech bubbles to a clothes-shopping comic; hear two dialogues."
+  },
+  {
+   "page": 127,
+   "activity_type": "vocabulary",
+   "topic": "shopping",
+   "summary": "Clothing picture story; collect clothing words on a mind map, say when you wear them."
+  },
+  {
+   "page": 128,
+   "activity_type": "listening-comprehension",
+   "topic": "shopping",
+   "summary": "Where to buy clothes; listen to Andreas shopping and learn welcher/dieser and clothing words."
+  },
+  {
+   "page": 129,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Read chat reactions to new clothes; learn past-participle formation and write past-tense sentences."
+  },
+  {
+   "page": 130,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Clothing-shop dialogues: match questions to answers and complete sentences with dative pronouns."
+  },
+  {
+   "page": 131,
+   "activity_type": "reading-comprehension",
+   "topic": "shopping",
+   "summary": "Department-store floor directory: listen for the Wagners' purchases and locate items by floor."
+  },
+  {
+   "page": 132,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "Read a Berlin fashion-scene infotext, pick a headline, and profiles of three shops."
+  },
+  {
+   "page": 133,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "Match Berlin shop tips to keyword categories; choose two places to research and present."
+  },
+  {
+   "page": 134,
+   "activity_type": "listening-comprehension",
+   "topic": "shopping",
+   "summary": "Video: watch Max choose an outfit; note his clothes and who attends a wedding."
+  },
+  {
+   "page": 135,
+   "activity_type": "none",
+   "topic": "shopping",
+   "summary": "Chapter 11 review: clothes-shopping phrases and grammar (welcher/dieser, dative verbs, participles)."
+  },
+  {
+   "page": 136,
+   "activity_type": "vocabulary",
+   "topic": "travel",
+   "summary": "Chapter 12 travel opener: match holiday types to photos and pack the right gear."
+  },
+  {
+   "page": 137,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "Listen for a travel destination and packing list; play the suitcase-packing memory game."
+  },
+  {
+   "page": 138,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "City-trip suggestions in Basel: tick heard activities, learn man, complete a tram route."
+  },
+  {
+   "page": 139,
+   "activity_type": "writing-task",
+   "topic": "travel",
+   "summary": "Describe a route, read a postcard, join sentences with denn, and write your own."
+  },
+  {
+   "page": 140,
+   "activity_type": "reading-comprehension",
+   "topic": "travel",
+   "summary": "Read two travel reports, match headlines, answer comprehension questions, and complete question words."
+  },
+  {
+   "page": 141,
+   "activity_type": "writing-task",
+   "topic": "travel",
+   "summary": "Read Christian's ski-trip report, write questions, practise time prepositions and f/v/w pronunciation."
+  },
+  {
+   "page": 142,
+   "activity_type": "matching",
+   "topic": "weather",
+   "summary": "Place cities by compass direction, match holiday messages to weather reports, learn weather words."
+  },
+  {
+   "page": 143,
+   "activity_type": "reading-comprehension",
+   "topic": "travel",
+   "summary": "Jigsaw reading on where Germans holiday (sea, cities, mountains); report and write your own."
+  },
+  {
+   "page": 144,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "Video: the flatmates' farm-holiday scenes; answer questions, order dialogues, describe Bea's Bremen trip."
+  },
+  {
+   "page": 145,
+   "activity_type": "none",
+   "topic": "travel",
+   "summary": "Chapter 12 review of phrases for directions, postcards, weather, sequence and travel grammar."
+  },
+  {
+   "page": 146,
+   "activity_type": "speaking-task",
+   "topic": "travel",
+   "summary": "Review speaking game: role-play a holiday day — pack a suitcase, buy a souvenir."
+  },
+  {
+   "page": 147,
+   "activity_type": "speaking-task",
+   "topic": "travel",
+   "summary": "Holiday role-play continued: plan the day together and discuss it at dinner."
+  },
+  {
+   "page": 148,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Word games: recount yesterday with sequence words, match questions to answers, timed vocabulary duel."
+  },
+  {
+   "page": 149,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Read colleagues' emails to identify Andrea's delegated tasks and what remains for Monday."
+  },
+  {
+   "page": 150,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "D-A-CH country quiz part 1: German capital, population, landmarks, neighbours, regional foods, Swiss capital."
+  },
+  {
+   "page": 151,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "D-A-CH quiz part 2: Swiss languages/population, Austrian capital, flag, population; odd-one-out Vienna photo."
+  },
+  {
+   "page": 152,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: statement sentences, word order, W-questions and yes/no questions."
+  },
+  {
+   "page": 153,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: imperatives, connectors und/oder/aber/denn, present-tense conjugation and irregular verbs."
+  },
+  {
+   "page": 154,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: sein/haben/werden, wissen, modal verbs, imperative, Präteritum and Perfekt."
+  },
+  {
+   "page": 155,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: past participle formation and the sentence bracket (Satzklammer)."
+  },
+  {
+   "page": 156,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: nouns, definite/indefinite/negation articles, plurals and case forms."
+  },
+  {
+   "page": 157,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: article cases, possessive, interrogative and demonstrative articles."
+  },
+  {
+   "page": 158,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: adjectives, personal pronouns, man, and prepositions für/mit."
+  },
+  {
+   "page": 159,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Grammar reference: time and date expressions, place prepositions and Wechselpräpositionen."
+  },
+  {
+   "page": 160,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "In-preposition tables, question words, and the start of the irregular-verb list."
+  },
+  {
+   "page": 161,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Irregular verb list continued, plus special verbs and modal verbs reference."
+  },
+  {
+   "page": 162,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list: how to read entries, plus first A-entries."
+  },
+  {
+   "page": 163,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters A to B (Anweisung–Bett)."
+  },
+  {
+   "page": 164,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters B to E (bewegen–Ehefrau)."
+  },
+  {
+   "page": 165,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters E to F (Ehemann–frei)."
+  },
+  {
+   "page": 166,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters F to H (frei–Hand)."
+  },
+  {
+   "page": 167,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters H to K (Händler–Keks)."
+  },
+  {
+   "page": 168,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters K to M (Kellner–Mann)."
+  },
+  {
+   "page": 169,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters M to N (Mann–November)."
+  },
+  {
+   "page": 170,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters N to R (Nudel–reisen)."
+  },
+  {
+   "page": 171,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters R to S (Reisetasche–Ski-Urlaub)."
+  },
+  {
+   "page": 172,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters S to T (Small Talk–Toilette)."
+  },
+  {
+   "page": 173,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters T to V (toll–Vorschlag)."
+  },
+  {
+   "page": 174,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Alphabetical word list appendix, letters V to Z (vorspielen–zwölf)."
+  }
+ ]
+}

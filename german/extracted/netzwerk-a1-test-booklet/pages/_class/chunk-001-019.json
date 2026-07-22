@@ -1,0 +1,119 @@
+{
+  "collection": "netzwerk-a1-test-booklet",
+  "items": [
+    {
+      "page": 1,
+      "activity_type": "cover",
+      "topic": "none",
+      "summary": "Cover of Netzwerk neu A1 Testheft with audio and digital-access info."
+    },
+    {
+      "page": 2,
+      "activity_type": "none",
+      "topic": "none",
+      "summary": "Imprint: authors, publisher, ISBN, copyright and Indian distribution details."
+    },
+    {
+      "page": 3,
+      "activity_type": "none",
+      "topic": "none",
+      "summary": "Table of contents plus legend of the symbols used in the booklet."
+    },
+    {
+      "page": 4,
+      "activity_type": "instructions",
+      "topic": "none",
+      "summary": "Introduction: who the tests are for, structure, scoring and grading scale."
+    },
+    {
+      "page": 5,
+      "activity_type": "none",
+      "topic": "none",
+      "summary": "Overview mapping each test task to Start Deutsch 1 and OeSD exam formats."
+    },
+    {
+      "page": 6,
+      "activity_type": "listening-comprehension",
+      "topic": "personal-info",
+      "summary": "Chapter 1 greetings: listening multiple-choice, true/false, and question-word gap-fill."
+    },
+    {
+      "page": 7,
+      "activity_type": "fill-in",
+      "topic": "personal-info",
+      "summary": "Chapter 1: reorder sentences, conjugate verbs, match countries and languages."
+    },
+    {
+      "page": 8,
+      "activity_type": "fill-in",
+      "topic": "personal-info",
+      "summary": "Chapter 1: read profiles to note info; fill a course registration form."
+    },
+    {
+      "page": 9,
+      "activity_type": "listening-comprehension",
+      "topic": "profession",
+      "summary": "Chapter 2: listening true/false, correct phone numbers, and odd-one-out vocabulary."
+    },
+    {
+      "page": 10,
+      "activity_type": "fill-in",
+      "topic": "profession",
+      "summary": "Chapter 2: form yes/no questions, conjugate verbs, articles and plural forms."
+    },
+    {
+      "page": 11,
+      "activity_type": "fill-in",
+      "topic": "personal-info",
+      "summary": "Chapter 2: fill a yoga-course registration form; speaking task introducing yourself."
+    },
+    {
+      "page": 12,
+      "activity_type": "listening-comprehension",
+      "topic": "city-places",
+      "summary": "Chapter 3 Hamburg: listening notes, listening choice, and reading gap-fill."
+    },
+    {
+      "page": 13,
+      "activity_type": "fill-in",
+      "topic": "city-places",
+      "summary": "Chapter 3: crossword, choose ein/kein articles, write imperative directions."
+    },
+    {
+      "page": 14,
+      "activity_type": "vocabulary",
+      "topic": "city-places",
+      "summary": "Chapter 3: transport words with articles; speaking task asking for directions."
+    },
+    {
+      "page": 15,
+      "activity_type": "listening-comprehension",
+      "topic": "food",
+      "summary": "Chapter 4 food: listening choice, odd-one-out, nominative/accusative articles."
+    },
+    {
+      "page": 16,
+      "activity_type": "reading-comprehension",
+      "topic": "food",
+      "summary": "Chapter 4: read a party invitation (true/false) and a chef profile (Q&A)."
+    },
+    {
+      "page": 17,
+      "activity_type": "writing-task",
+      "topic": "food",
+      "summary": "Chapter 4: complete sentences, write your eating habits, food speaking cards."
+    },
+    {
+      "page": 18,
+      "activity_type": "listening-comprehension",
+      "topic": "daily-routine",
+      "summary": "Chapter 5: choose correct clock times and match texts to everyday photos."
+    },
+    {
+      "page": 19,
+      "activity_type": "fill-in",
+      "topic": "daily-routine",
+      "summary": "Chapter 5: choose reactions, complete possessives, build modal-verb sentences."
+    }
+  ]
+}

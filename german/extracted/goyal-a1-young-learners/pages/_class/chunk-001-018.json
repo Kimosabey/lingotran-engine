@@ -1,0 +1,23 @@
+{
+  "collection": "goyal-a1-young-learners",
+  "items": [
+    { "page": 1, "activity_type": "cover", "topic": "none", "summary": "Course cover: Hallo Deutsch Plus Neu A1 training booklet with audio CD." },
+    { "page": 2, "activity_type": "cover", "topic": "none", "summary": "Inside cover repeating the Hallo Deutsch Plus Neu A1 title with publisher logos." },
+    { "page": 3, "activity_type": "none", "topic": "none", "summary": "Lektion 1 contents (Erste Kontakte): greetings, family, cities, counting, grammar, games." },
+    { "page": 4, "activity_type": "none", "topic": "none", "summary": "Lektion 2 contents (So wohne ich): rooms, drinks, pets, origins, grammar, games." },
+    { "page": 5, "activity_type": "none", "topic": "none", "summary": "Lektion 3 contents (Mein Alltag) plus appendix with transcripts, sources, country map." },
+    { "page": 6, "activity_type": "instructions", "topic": "none", "summary": "Series components overview with prices and a legend of symbols used in the book." },
+    { "page": 7, "activity_type": "multiple-choice", "topic": "communication", "summary": "Greetings practice: choose the correctly spelled greeting and unscramble jumbled greeting words." },
+    { "page": 8, "activity_type": "fill-in", "topic": "communication", "summary": "Greetings by time of day, greeting/farewell for people, and matching questions to answers." },
+    { "page": 9, "activity_type": "fill-in", "topic": "personal-info", "summary": "Complete a greeting dialogue and write missing questions about name, age, and hometown." },
+    { "page": 10, "activity_type": "listening-comprehension", "topic": "personal-info", "summary": "Fill your own profile, then order a DJ interview and complete his profile." },
+    { "page": 11, "activity_type": "vocabulary", "topic": "family", "summary": "Write a penpal email, then give German articles for family-member nouns." },
+    { "page": 12, "activity_type": "vocabulary", "topic": "family", "summary": "Sort relatives into family categories, present the Beckmann family, and read a family tree." },
+    { "page": 13, "activity_type": "short-answer", "topic": "family", "summary": "Family-tree questions identifying relatives and matching people to their number of siblings." },
+    { "page": 14, "activity_type": "reading-comprehension", "topic": "family", "summary": "State your own siblings, then read about Familie Zidek and answer comprehension questions." },
+    { "page": 15, "activity_type": "speaking-task", "topic": "personal-info", "summary": "Introduce four young people from cards, then take notes on a director interview." },
+    { "page": 16, "activity_type": "matching", "topic": "personal-info", "summary": "Write a school-magazine article and build polite Sie-form questions about the director." },
+    { "page": 17, "activity_type": "matching", "topic": "city-places", "summary": "Complete a profile from listening, then match cities to their German-speaking regions." },
+    { "page": 18, "activity_type": "short-answer", "topic": "city-places", "summary": "Match more cities to regions and answer yes/no questions about where cities lie." }
+  ]
+}

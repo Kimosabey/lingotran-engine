@@ -1,0 +1,7170 @@
+{
+ "collection": "netzwerk-a1-kursbuch",
+ "chunk": "170-174",
+ "entries": [
+  {
+   "word": "Nudel",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "null",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Nummer",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "nummerieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "nur",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "nur noch",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "oben",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Obst",
+   "article": "das",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "oder",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Julia oder Niklas",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "oder",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Das ist schrecklich, oder?",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "offen",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "offiziell",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "offline",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "öffnen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "eine Datei öffnen",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "öffnen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Wir öffnen unsere Bäckerei auch am Sonntag.",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Öffnungszeiten",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "oft",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "ohne",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Ohr",
+   "article": "das",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "170"
+  },
+  {
+   "word": "okay",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Oktober",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "170"
+  },
+  {
+   "word": "Öl",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Olive",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Oma",
+   "article": "die",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "170"
+  },
+  {
+   "word": "Onkel",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "170"
+  },
+  {
+   "word": "online",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Opa",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "170"
+  },
+  {
+   "word": "Open-Air-Kino",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "170"
+  },
+  {
+   "word": "Oper",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "170"
+  },
+  {
+   "word": "orange",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Orangensaft",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Orchester",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "170"
+  },
+  {
+   "word": "Ordinalzahl",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "ordnen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Ordnen Sie den Dialog.",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "orientieren (sich)",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "originell",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Ort",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "170"
+  },
+  {
+   "word": "Ortsangabe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Ortsveränderung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Osten",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Österreich",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "170"
+  },
+  {
+   "word": "Paar",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "packen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "170"
+  },
+  {
+   "word": "Packung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Paket",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Pantomime",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "170"
+  },
+  {
+   "word": "Papier",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Papiere",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Ich brauche Ihre Papiere: den Ausweis oder Pass.",
+   "topic": "travel",
+   "source_page": "170"
+  },
+  {
+   "word": "Parfüm",
+   "article": "das",
+   "plural": "-e/-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Parfümerie",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Park",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "170"
+  },
+  {
+   "word": "Partizip",
+   "article": "das",
+   "plural": "-ien",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Partner",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "170"
+  },
+  {
+   "word": "Partnerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "170"
+  },
+  {
+   "word": "Party",
+   "article": "die",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "170"
+  },
+  {
+   "word": "Pass",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "170"
+  },
+  {
+   "word": "passen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Welches Foto passt zum Text?",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "passen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Die Hose hat nicht gepasst.",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "passend",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "passieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Passwort",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Patient",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "170"
+  },
+  {
+   "word": "Patientin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "170"
+  },
+  {
+   "word": "Pause",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pech",
+   "article": "das",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pension",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "170"
+  },
+  {
+   "word": "perfekt",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Perfekt",
+   "article": "das",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Person",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "170"
+  },
+  {
+   "word": "Personalpronomen",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "persönlich",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pfeffer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Pflanze",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "Pflaster",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "170"
+  },
+  {
+   "word": "Physiotherapeut",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "Physiotherapeutin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "Physiotherapie",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "170"
+  },
+  {
+   "word": "Picknick",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Pizza",
+   "article": "die",
+   "plural": "-s/Pizzen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Plakat",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Plan",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "planen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Platz",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Wir haben Platz für 1.250 Patienten.",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Platz",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "Das Kino ist am Potsdamer Platz.",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Plural",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pluralendung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pluralform",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "plus",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Polen",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "170"
+  },
+  {
+   "word": "Politik",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Polizist",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "Polizistin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "Polnisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Pommes",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pommes frites",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "populär",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Portugal",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "170"
+  },
+  {
+   "word": "Portugiesisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Position",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "positiv",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Possessivartikel",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Post",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Postkarte",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Postleitzahl",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "170"
+  },
+  {
+   "word": "Präfix",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Praktikum",
+   "article": "das",
+   "plural": "Praktika",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "praktisch",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Präposition",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Präsentation",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "präsentieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Präteritum",
+   "article": "das",
+   "plural": "Präterita",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Praxis",
+   "article": "die",
+   "plural": "Praxen",
+   "word_class": "noun",
+   "example": "Mara ruft in der Praxis von Dr. Steinig an.",
+   "topic": "health",
+   "source_page": "170"
+  },
+  {
+   "word": "Preis",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "pro",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "probieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Problem",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Produkt",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Produktion",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Professor",
+   "article": "der",
+   "plural": "Professoren",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "Professorin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "Profil",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Programm",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Projekt",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pronomen",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "prost",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Prüfung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "170"
+  },
+  {
+   "word": "Publikum",
+   "article": "das",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pulli",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Pullover",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Punkt",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "der Punkt am Satzende",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Punkt",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "Geben Sie Punkte: Was ist wichtig, was nicht?",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "pünktlich",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Pünktlichkeit",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "qm",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "= Quadratmeter",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Quatsch",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Radiosendung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Ratebild",
+   "article": "das",
+   "plural": "-er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "raten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Rathaus",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "170"
+  },
+  {
+   "word": "Rätoromanisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "rauchen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "health",
+   "source_page": "170"
+  },
+  {
+   "word": "Raum",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "raus|gehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "reagieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Reaktion",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "recherchieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Rechnung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "rechts",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "170"
+  },
+  {
+   "word": "Redemittel",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "reden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "170"
+  },
+  {
+   "word": "Regal",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "Regel",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "regelmäßig",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Regen",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "170"
+  },
+  {
+   "word": "Regenjacke",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Regenschirm",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "170"
+  },
+  {
+   "word": "Regisseur",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "Regisseurin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "regnen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "weather",
+   "source_page": "170"
+  },
+  {
+   "word": "Reihenfolge",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Reihenhaus",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "Reis",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "170"
+  },
+  {
+   "word": "Reise",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "170"
+  },
+  {
+   "word": "Reisebericht",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "170"
+  },
+  {
+   "word": "Reiseführer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "Ich arbeite als Reiseführer.",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Reiseführer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "Liest du den Reiseführer über Basel?",
+   "topic": "none",
+   "source_page": "170"
+  },
+  {
+   "word": "Reiseführerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "170"
+  },
+  {
+   "word": "reisen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "170"
+  },
+  {
+   "word": "Reisetasche",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "Reiseziel",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "Religion",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "renoviert",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Requiem",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "171"
+  },
+  {
+   "word": "reservieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "Restaurant",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Rezept",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "171"
+  },
+  {
+   "word": "Rezeption",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "richtig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Ist der Satz richtig oder falsch?",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "richtig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Morgens bin ich richtig hungrig.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "riechen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Rock",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "Rolle",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "Tauschen Sie die Rollen.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Rollenkarte",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "rot",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Route",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "Rücken",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "171"
+  },
+  {
+   "word": "Rückenschmerzen",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "171"
+  },
+  {
+   "word": "ruhig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Seid bitte ruhig!",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "rund",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Rund 1.000 Studenten gibt es an der Uni.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "rund um",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "Berufe rund ums Essen",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Russisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "171"
+  },
+  {
+   "word": "Russland",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "171"
+  },
+  {
+   "word": "Sache",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Saft",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "Ich trinke gerne Saft.",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "Saft",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "Nehmen Sie einen Saft gegen den Husten.",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "sagen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "171"
+  },
+  {
+   "word": "Sahne",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "Saison",
+   "article": "die",
+   "plural": "-en/-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Saison-Job",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "Salami",
+   "article": "die",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "Salat",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "Salbe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "171"
+  },
+  {
+   "word": "Salz",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "sammeln",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Samstag",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "171"
+  },
+  {
+   "word": "Samstagabend",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "171"
+  },
+  {
+   "word": "samstags",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "171"
+  },
+  {
+   "word": "Sandwich",
+   "article": "der/das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "satt",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Satz",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Satzende",
+   "article": "das",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Satzklammer",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Satzmelodie",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sauber",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sauber machen",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "home",
+   "source_page": "171"
+  },
+  {
+   "word": "Saxofon",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "171"
+  },
+  {
+   "word": "S-Bahn",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "schade",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schaffen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schaffner",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "Schaffnerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "Schal",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "schälen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "schauen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schauspieler",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "Schauspielerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "scheinen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "weather",
+   "source_page": "171"
+  },
+  {
+   "word": "schenken",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schicken",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "171"
+  },
+  {
+   "word": "Schiff",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "Schild",
+   "article": "das",
+   "plural": "-er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schinken",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "schlafen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "daily-routine",
+   "source_page": "171"
+  },
+  {
+   "word": "Schlafsack",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "Schlaftablette",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "171"
+  },
+  {
+   "word": "Schlafzimmer",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "171"
+  },
+  {
+   "word": "schlecht",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schließen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Bitte, schließ die Tür.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schließen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Unser Geschäft schließt am Freitag schon um 15 Uhr.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schluss",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schlüssel",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "171"
+  },
+  {
+   "word": "schmecken",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "Schmerz",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "171"
+  },
+  {
+   "word": "Schmuck",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "Schnee",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "171"
+  },
+  {
+   "word": "schneiden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Er schneidet das Gemüse.",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "schneien",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "weather",
+   "source_page": "171"
+  },
+  {
+   "word": "schnell",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schnitzel",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "Schnupfen",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "171"
+  },
+  {
+   "word": "Schokolade",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "171"
+  },
+  {
+   "word": "schon",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Da ist auch schon das Hotel.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schön",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schon wieder",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schrank",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "171"
+  },
+  {
+   "word": "schrecklich",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schreiben",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "171"
+  },
+  {
+   "word": "Schreibtisch",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "171"
+  },
+  {
+   "word": "Schreibwaren",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "Schuh",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "Schuhfan",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "Schuhladen",
+   "article": "der",
+   "plural": "¨",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "Schule",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schütten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Es schüttet, so ein Regen!",
+   "topic": "weather",
+   "source_page": "171"
+  },
+  {
+   "word": "schwarz",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schweiz",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Sie kommt aus der Schweiz.",
+   "topic": "personal-info",
+   "source_page": "171"
+  },
+  {
+   "word": "schwer",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Die Aufgabe ist gar nicht so schwer.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "schwer",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Wie groß und wie schwer ist die Person?",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Schwester",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "171"
+  },
+  {
+   "word": "Schwimmbad",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "171"
+  },
+  {
+   "word": "schwimmen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "171"
+  },
+  {
+   "word": "sechs",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sechzehn",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sechzig",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Secondhand-Laden",
+   "article": "der",
+   "plural": "¨",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "See",
+   "article": "der",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "Segellehrer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "Segellehrerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "segeln",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "171"
+  },
+  {
+   "word": "sehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Sehenswürdigkeit",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "171"
+  },
+  {
+   "word": "sehr",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Wie geht's? – Danke, sehr gut.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Seife",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sein",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Hallo, ich bin Julia.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sein, seine",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Der Regisseur präsentiert seinen Film.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sein",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Was ist passiert?",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "seit",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Seite",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Sekretär",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "Sekretärin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "171"
+  },
+  {
+   "word": "Sekunde",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "171"
+  },
+  {
+   "word": "selbst",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Selbstbedienung",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "selten",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Semester",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "171"
+  },
+  {
+   "word": "Seminar",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "171"
+  },
+  {
+   "word": "Sensation",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "September",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "171"
+  },
+  {
+   "word": "Serbisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "171"
+  },
+  {
+   "word": "Serie",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "171"
+  },
+  {
+   "word": "Serviette",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Sessel",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "171"
+  },
+  {
+   "word": "Shop",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "shoppen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "shoppen gehen",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "171"
+  },
+  {
+   "word": "sich",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sicher",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Heute bin ich sicher die Erste im Büro.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Sie",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Ordnen Sie zu.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sie",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Sie kommt aus Deutschland.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sie",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Kennst du die Personen? Wo wohnen sie?",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sie",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Wo ist Hanna? Das Schnitzel ist für sie.",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sieben",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "siebzehn",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "siebzig",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Silbenanfang",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "singen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "171"
+  },
+  {
+   "word": "Singular",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Situation",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "sitzen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "171"
+  },
+  {
+   "word": "Ski",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "171"
+  },
+  {
+   "word": "Skifahren",
+   "article": "das",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "171"
+  },
+  {
+   "word": "Ski-Urlaub",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "171"
+  },
+  {
+   "word": "Small Talk",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Snowboard-Urlaub",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "172"
+  },
+  {
+   "word": "so",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Schwimmst du gern? – Nein, nicht so gern.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "so",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Singst du gern? – Es geht so.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "so",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "So sagt man auf Deutsch: …",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "so",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "So ein Zufall!",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "so",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "So, Herr Wolan, wie geht es Ihnen?",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Sofa",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "sofort",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Sohn",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "172"
+  },
+  {
+   "word": "Solist",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Solistin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "sollen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Sommer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "Sommerfest",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Sonne",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "172"
+  },
+  {
+   "word": "Sonnenbrille",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Sonnencreme",
+   "article": "die",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "sonnig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "weather",
+   "source_page": "172"
+  },
+  {
+   "word": "Sonntag",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "Sonntagnachmittag",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "sonst",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Souvenir",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Spaghetti",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Spanien",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "172"
+  },
+  {
+   "word": "Spanisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Spaß",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Kochen macht Spaß.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "spät",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "später",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "spazieren gehen",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Spaziergang",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "speichern",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Speisekarte",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Spezialität",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Spiel",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "Florian hat am Sonntag ein Spiel.",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "spielen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Spielplatz",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "Spielwaren",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Sport",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Sportclub",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Sportkleidung",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Sportler",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Sportlerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "sportlich",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Sportschuh",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Sprache",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Sprachinstitut",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "Sprachkurs",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "Sprachnachricht",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Sprachschule",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "sprechen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Spritze",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "172"
+  },
+  {
+   "word": "Spülmaschine",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "Stadion",
+   "article": "das",
+   "plural": "Stadien",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "Stadt",
+   "article": "die",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "Städtereise",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Stadtführung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Stadtpark",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "Stadttour",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Stadturlaub",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "172"
+  },
+  {
+   "word": "Stapel",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Star",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Start",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Station",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Statist",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Statistik",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "Statistin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "statt|finden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "stehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Wo steht die Frau?",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "stehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Die Hose steht dir sehr gut.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Stelle",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "stellen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "eine Frage stellen",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "stellen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Carla will den Computer in die Küche stellen.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Stichpunkt",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Stiefel",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Stift",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "stimmen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Oliven sind oft teuer. – Ja, stimmt.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "stimmen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Das macht 13,80 €. – Hier sind 15 €. Stimmt so.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Stock",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "Stollen",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Strand",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "172"
+  },
+  {
+   "word": "Strandbar",
+   "article": "die",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "172"
+  },
+  {
+   "word": "Straße",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "Straßenbahn",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Strategie",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Stress",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "stressig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Stück",
+   "article": "das",
+   "plural": "-e/-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Student",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "Studentin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "studieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "Studio",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Studium",
+   "article": "das",
+   "plural": "Studien",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "Stuhl",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "Stunde",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "Subjekt",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "suchen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Südamerika",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "172"
+  },
+  {
+   "word": "Süden",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "super",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Supermarkt",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "supernett",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Suppe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Suppenhuhn",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Sushi",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "süß",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Schokolade schmeckt süß.",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "süß",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Euer Hund ist so süß.",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Süßigkeit",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Sweatshirt",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Symbol",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Szene",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Tabelle",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Tablette",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "172"
+  },
+  {
+   "word": "Tafel",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "Schreiben Sie den Satz an die Tafel.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Tafel",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "Sehen Sie die Tafel im Kaufhaus an.",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Tag",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "Tageszeit",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "täglich",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Tante",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "172"
+  },
+  {
+   "word": "tanzen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Tasche",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Tasse",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "tatsächlich",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "tauschen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "tausend",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Taxi",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Taxifahrer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Taxifahrerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Taxifahrt",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Team",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Technik",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Techniker",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Technikerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Tee",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "172"
+  },
+  {
+   "word": "Teil",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Telefon",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Telefongespräch",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "telefonieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Telefonnummer",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "172"
+  },
+  {
+   "word": "Teller",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Tennis",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Tennisplatz",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Teppich",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "Termin",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "172"
+  },
+  {
+   "word": "Terrasse",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "Test",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "172"
+  },
+  {
+   "word": "teuer",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Text",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Textbaustein",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Thailand",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "172"
+  },
+  {
+   "word": "Theater",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "Theater-Festival",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "172"
+  },
+  {
+   "word": "Thema",
+   "article": "das",
+   "plural": "Themen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "thematisch",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Therapeut",
+   "article": "der",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Therapeutin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "172"
+  },
+  {
+   "word": "Ticket",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "172"
+  },
+  {
+   "word": "Ticketkauf",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "172"
+  },
+  {
+   "word": "Tipp",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "172"
+  },
+  {
+   "word": "Tisch",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "Tochter",
+   "article": "die",
+   "plural": "¨",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "172"
+  },
+  {
+   "word": "Toilette",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "172"
+  },
+  {
+   "word": "toll",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Tomate",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "173"
+  },
+  {
+   "word": "Tomatensuppe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "173"
+  },
+  {
+   "word": "top",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "topaktuell",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "total",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Tour",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "173"
+  },
+  {
+   "word": "tragen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "trainieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "Training",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "Tram",
+   "article": "die/das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "173"
+  },
+  {
+   "word": "Traum",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Traumurlaub",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "173"
+  },
+  {
+   "word": "treffen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Treffpunkt",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Trendstadt",
+   "article": "die",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "173"
+  },
+  {
+   "word": "trennbar",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "trennbare Verben",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Treppe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "173"
+  },
+  {
+   "word": "trinken",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Trinkgeld",
+   "article": "das",
+   "plural": "-er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Trompete",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "Trompetenunterricht",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "Tropfen",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "173"
+  },
+  {
+   "word": "tschüs",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "communication",
+   "source_page": "173"
+  },
+  {
+   "word": "T-Shirt",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "173"
+  },
+  {
+   "word": "Tuch",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "173"
+  },
+  {
+   "word": "tun",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Was kann ich für Sie tun?",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Tür",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Türkei",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "173"
+  },
+  {
+   "word": "Türkisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "173"
+  },
+  {
+   "word": "Turm",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "173"
+  },
+  {
+   "word": "Tüte",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "typisch",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "U-Bahn",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "173"
+  },
+  {
+   "word": "über",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "über andere sprechen",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "über",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Der Turm ist über 120 Jahre alt.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "über",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Sammeln Sie Informationen über Ihre Stadt.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "über",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Das Bild ist über dem Fernseher.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "überall",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "überlegen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "übernachten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "173"
+  },
+  {
+   "word": "Überraschung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Überraschungstag",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Überschrift",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "überweisen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Übung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Übungsbuch",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "173"
+  },
+  {
+   "word": "Uhr",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Ich arbeite von 6 bis 15 Uhr.",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "Uhr",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Wie viel Uhr ist es?",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "Uhr",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "Im Kaufhaus gibt es Uhren.",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "Uhrzeit",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "Ukraine",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "173"
+  },
+  {
+   "word": "um",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Abends um sieben essen wir alle zusammen.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "um",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Ich bitte um Entschuldigung.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Umlaut",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "um|steigen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "173"
+  },
+  {
+   "word": "um|tauschen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "173"
+  },
+  {
+   "word": "um|ziehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "home",
+   "source_page": "173"
+  },
+  {
+   "word": "Umzug",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "173"
+  },
+  {
+   "word": "unbestimmt",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "der unbestimmte Artikel",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "und",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Unfall",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "173"
+  },
+  {
+   "word": "Ungarisch",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "173"
+  },
+  {
+   "word": "ungefähr",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "unhöflich",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Uni",
+   "article": "die",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "173"
+  },
+  {
+   "word": "Unicafé",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "173"
+  },
+  {
+   "word": "Universität",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "173"
+  },
+  {
+   "word": "unregelmäßig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "unregelmäßige Verben",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "uns",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Wir grillen heute Abend bei uns.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "unser, unsere",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "unten",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "unter",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Untergeschoss",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "173"
+  },
+  {
+   "word": "Unterricht",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Ich gebe Unterricht an der Uni.",
+   "topic": "school",
+   "source_page": "173"
+  },
+  {
+   "word": "unterschreiben",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Unterschrift",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "unterstreichen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Unterstrich",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "untersuchen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "health",
+   "source_page": "173"
+  },
+  {
+   "word": "unterwegs",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Urlaub",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "173"
+  },
+  {
+   "word": "Urlaubsnachricht",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "173"
+  },
+  {
+   "word": "Urlaubsort",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "vacation",
+   "source_page": "173"
+  },
+  {
+   "word": "USA",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "Olivia kommt aus den USA.",
+   "topic": "personal-info",
+   "source_page": "173"
+  },
+  {
+   "word": "USB-Stick",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "173"
+  },
+  {
+   "word": "Variation",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "variieren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Vater",
+   "article": "der",
+   "plural": "¨",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "173"
+  },
+  {
+   "word": "verabreden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Verabredung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "verabschieden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "173"
+  },
+  {
+   "word": "Veranstaltung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "Verb",
+   "article": "das",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Verband",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "173"
+  },
+  {
+   "word": "verbinden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Verbinden Sie Nomen und Artikel.",
+   "topic": "communication",
+   "source_page": "173"
+  },
+  {
+   "word": "verbinden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Können Sie mich mit Frau Hofer verbinden?",
+   "topic": "communication",
+   "source_page": "173"
+  },
+  {
+   "word": "Verbot",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "verboten",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "verdienen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "profession",
+   "source_page": "173"
+  },
+  {
+   "word": "vereinbaren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vergessen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vergleichen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "verheiratet",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "173"
+  },
+  {
+   "word": "verkaufen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "173"
+  },
+  {
+   "word": "Verkäufer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "173"
+  },
+  {
+   "word": "Verkäuferin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "173"
+  },
+  {
+   "word": "verletzt",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "health",
+   "source_page": "173"
+  },
+  {
+   "word": "Verletzte",
+   "article": "der/die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "173"
+  },
+  {
+   "word": "vermieten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "home",
+   "source_page": "173"
+  },
+  {
+   "word": "Vermieter",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "173"
+  },
+  {
+   "word": "Vermieterin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "173"
+  },
+  {
+   "word": "vermissen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vermuten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Verpackung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "verpassen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "173"
+  },
+  {
+   "word": "verschieden",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Verspätung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "verstehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Das verstehe ich nicht.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "versuchen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Vertrag",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "173"
+  },
+  {
+   "word": "Verwandte",
+   "article": "der/die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "173"
+  },
+  {
+   "word": "verwenden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Video",
+   "article": "das",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "173"
+  },
+  {
+   "word": "viel, viele",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "viel zu",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "Das T-Shirt ist viel zu eng.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vielleicht",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vier",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Viertel",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "Es ist Viertel nach sechs.",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "vierzehn",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vierzig",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Vokal",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "voll",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Die Kneipe ist am Abend voll.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "von",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Ich lese ein Buch von Daniel Kehlmann.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "von",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Was sind Sie von Beruf?",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "von … bis",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "Ich arbeite von 6 bis 15 Uhr.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vor",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Vor dem Nomen steht der Artikel.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vor",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Es ist fünf vor zwei.",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vorbei sein",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vor|bereiten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vorgestern",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "vorher",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "vor|lesen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Vorliebe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Vormittag",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "vormittags",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "173"
+  },
+  {
+   "word": "Vorname",
+   "article": "der",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "173"
+  },
+  {
+   "word": "vorne",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "Vorschlag",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "173"
+  },
+  {
+   "word": "vor|spielen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "174"
+  },
+  {
+   "word": "vor|stellen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Stellen Sie Ihren Partner im Kurs vor.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Vorteil",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wach",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "daily-routine",
+   "source_page": "174"
+  },
+  {
+   "word": "wählen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wandern",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "174"
+  },
+  {
+   "word": "wann",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "Ware",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "warm",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "weather",
+   "source_page": "174"
+  },
+  {
+   "word": "warten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "warum",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "was",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Was ist das?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "waschen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "daily-routine",
+   "source_page": "174"
+  },
+  {
+   "word": "Waschmaschine",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wasser",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "wechseln",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wechselpräposition",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wecken",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "daily-routine",
+   "source_page": "174"
+  },
+  {
+   "word": "Weg",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "174"
+  },
+  {
+   "word": "Wegbeschreibung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "174"
+  },
+  {
+   "word": "weg|räumen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "weh|tun",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "health",
+   "source_page": "174"
+  },
+  {
+   "word": "weiblich",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "174"
+  },
+  {
+   "word": "Weihnachtsmarkt",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "174"
+  },
+  {
+   "word": "Weise",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "weiß",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "weit",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Von hier ist es nicht weit zur Uni.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "weit",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "Das T-Shirt ist zu weit.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "weitere, weiterer",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "weiter|hören",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "weiter|machen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "welche, welcher",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Welt",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wem",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wen",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wenig",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wer",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Wer bist du?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "werden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Sofia wird am Samstag 30.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Werkstatt",
+   "article": "die",
+   "plural": "¨en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "174"
+  },
+  {
+   "word": "Westen",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wetter",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "174"
+  },
+  {
+   "word": "Wetterbericht",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "174"
+  },
+  {
+   "word": "W-Frage",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "WG",
+   "article": "die",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "wichtig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wie",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Wie heißen die Wörter in Ihrer Sprache?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wie",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Machen Sie ein Interview wie in Aufgabe 4.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wie bitte",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "174"
+  },
+  {
+   "word": "wie lange",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "wie viel, wie viele",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wieder",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wieder|geben",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wiederholen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wiegen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "willkommen",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "174"
+  },
+  {
+   "word": "Wind",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "174"
+  },
+  {
+   "word": "windig",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "weather",
+   "source_page": "174"
+  },
+  {
+   "word": "Winter",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "Winterjacke",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "174"
+  },
+  {
+   "word": "wir",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wirklich",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Spielen Sie wirklich Fußball?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wirklich",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Wie war es wirklich?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wissen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Achtung: Sofia weiß nichts!",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "WLAN",
+   "article": "das",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "174"
+  },
+  {
+   "word": "wo",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Wo wohnen Sie?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Woche",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "Wochenende",
+   "article": "das",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "Wochentag",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "woher",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "Woher kommst du?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wohin",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wohnen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohnfläche",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohnform",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohnort",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohn-Situation",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohnung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohnungsanzeige",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohnungssuche",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wohnzimmer",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Wolke",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "174"
+  },
+  {
+   "word": "wollen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wort",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wortanfang",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wortende",
+   "article": "das",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wörterbuch",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wortgruppe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wortinnere",
+   "article": "das",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wortliste",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wortteil",
+   "article": "der",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wunde",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "174"
+  },
+  {
+   "word": "wunderbar",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wunderschön",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Wunsch",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "wünschen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "würfeln",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "174"
+  },
+  {
+   "word": "Wurst",
+   "article": "die",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "Würstchen",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "Würstel",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "W-Wort",
+   "article": "das",
+   "plural": "¨er",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Yoga",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "174"
+  },
+  {
+   "word": "Zahl",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zahlen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "174"
+  },
+  {
+   "word": "Zahn",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "174"
+  },
+  {
+   "word": "Zahnarzt",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "174"
+  },
+  {
+   "word": "Zahnärztin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "174"
+  },
+  {
+   "word": "Zahnschmerzen",
+   "article": "die",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "174"
+  },
+  {
+   "word": "zehn",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zeichnen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "174"
+  },
+  {
+   "word": "Zeichnung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "174"
+  },
+  {
+   "word": "zeigen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Zeigen Sie auf das Bild.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zeigen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Das Kino zeigt einen Film aus Spanien.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zeit",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "Wir haben morgen keine Zeit.",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "Zeitangabe",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zeitschrift",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "174"
+  },
+  {
+   "word": "Zeitung",
+   "article": "die",
+   "plural": "-en",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "174"
+  },
+  {
+   "word": "Zelt",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "174"
+  },
+  {
+   "word": "zentral",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Zentrum",
+   "article": "das",
+   "plural": "Zentren",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "174"
+  },
+  {
+   "word": "zerlegen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zettel",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "ziehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Ziehen Sie eine Karte.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "ziehen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "Beata ist in eine Wohnung gezogen.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Ziel",
+   "article": "das",
+   "plural": "-e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zimmer",
+   "article": "das",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "Zoo",
+   "article": "der",
+   "plural": "-s",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "174"
+  },
+  {
+   "word": "zu",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Arbeiten Sie zu zweit.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zu",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Was passt zu den Berufen?",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zu",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Er kommt zu spät.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zu",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "Meine Chefin nimmt mich zu Kunden mit.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zu Fuß",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "Pia geht zu Fuß.",
+   "topic": "travel",
+   "source_page": "174"
+  },
+  {
+   "word": "zu Hause",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "home",
+   "source_page": "174"
+  },
+  {
+   "word": "zu Mittag essen",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "zu sein",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "174"
+  },
+  {
+   "word": "zu|bereiten",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "Zucker",
+   "article": "der",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "zuerst",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zufall",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zufrieden",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zug",
+   "article": "der",
+   "plural": "¨e",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "174"
+  },
+  {
+   "word": "zu|haben",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "174"
+  },
+  {
+   "word": "zum Glück",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zum Schluss",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zum Wohl",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zu|machen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zumba",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "174"
+  },
+  {
+   "word": "zu|ordnen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zurück",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zurück|fahren",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "174"
+  },
+  {
+   "word": "zurück|finden",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "174"
+  },
+  {
+   "word": "zurück|schicken",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "174"
+  },
+  {
+   "word": "zurzeit",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "174"
+  },
+  {
+   "word": "zusammen",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zusammen|gehören",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zusammen|passen",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zuschauer",
+   "article": "der",
+   "plural": "-",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zuschauerin",
+   "article": "die",
+   "plural": "-nen",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zwanzig",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zwei",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zweimal",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zweit",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "Arbeiten Sie zu zweit.",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "Zwiebel",
+   "article": "die",
+   "plural": "-n",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "174"
+  },
+  {
+   "word": "zwischen",
+   "article": "",
+   "plural": "",
+   "word_class": "preposition",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  },
+  {
+   "word": "zwölf",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "174"
+  }
+ ]
+}
