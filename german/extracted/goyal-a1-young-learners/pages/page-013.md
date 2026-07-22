@@ -5,15 +5,16 @@ page: 13
 orientation: 0
 content_type: [exercise]
 level: A1
-section: schreiben
-status: transcribed
-qa: fail
+section:
+status: verified
+qa: pass
 ---
-Lektion 1
 
-<!-- illegible: faint handwritten mark at top-center of page, best-guess "Goa 1" -->
+**Lektion 1**
 
-(Fortsetzung der Übung von der vorigen Seite — Blanks leer / nicht ausgefüllt)
+<!-- illegible: faint stray pencil doodle at top of page, best-guess "60 : 1" -->
+
+<!-- continuation of the exercise from the previous page; all answer lines are blank -->
 
 1. Sie ist die Mutter von Klaus Beckmann: ___
 2. Er ist der Bruder von Klaus Beckmann: ___
@@ -28,27 +29,26 @@ Lektion 1
 
 **15** Finde heraus, wer wie viele Geschwister hat.
 
-Zuordnungsaufgabe: Kästchen (links) werden mit Fotos (rechts) durch Linien verbunden.
+<!-- matching puzzle: five green option boxes on the left are connected by tangled lines to five photo portraits labelled with name tags -->
 
-Kästchen (grün, links):
-- 1 Bruder
-- 1 Bruder + 1 Schwester
-- 2 Schwestern
-- 2 Brüder
-- Einzelkind
+| Optionen (Kästchen) | Personen (Fotos) |
+|---|---|
+| 1 Bruder | Lena |
+| 1 Bruder + 1 Schwester | Steffi |
+| 2 Schwestern | Sebastian |
+| 2 Brüder | Markus |
+| Einzelkind | Florian |
 
-Fotos (mit Namensschild):
-- Lena
-- Steffi
-- Sebastian
-- Markus
-- Florian
+Lena hat einen Bruder. <!-- printed example answer in blue handwriting-style font -->
 
-Antworten (Lösungssätze):
-- Lena hat einen Bruder. (gedruckt, blau — Beispiel)
-- Steffi hat zwei Schwestern. (handschriftlich)
-- Sebastian hat zwei Brüder. (handschriftlich)
-- Markus hat Einzelkind. (handschriftlich) <!-- illegible: faint/erased pencil mark between "hat" and "Einzelkind"; possibly an erased word (best-guess "ist ein") -->
-- Florian hat einen Bruder und eine Schwester. (handschriftlich)
+<!-- handwritten student answers in pencil on the ruled lines below, transcribed as written: -->
 
-dreizehn 13
+Steffi hat zwei schawesten <!-- illegible in part: best-guess "Steffi hat zwei Schwestern" -->
+
+Sebastian hat zwei Bruder. <!-- student wrote "Bruder" without umlaut; intended "Brüder" -->
+
+markus hat ein eenzelkind, <!-- illegible in part: best-guess "Markus hat ein Einzelkind" -->
+
+<!-- illegible: very faint pencil line, best-guess "Florian helt een Bruder und eene schwestea" (intended: "Florian hat einen Bruder und eine Schwester") -->
+
+dreizehn **13**

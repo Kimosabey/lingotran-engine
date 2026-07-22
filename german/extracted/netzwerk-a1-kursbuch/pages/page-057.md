@@ -6,6 +6,8 @@ orientation: 0
 content_type: [exercise, grammar-box, listening-sheet, writing-prompt]
 level: A1
 section: 
+status: verified
+qa: pass
 ---
 Zeitangaben machen, über Familie sprechen
 

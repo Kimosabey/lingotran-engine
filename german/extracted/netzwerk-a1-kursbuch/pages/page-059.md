@@ -6,6 +6,8 @@ orientation: 0
 content_type: [reading-text, grammar-box, exercise, dialogue, speaking-prompt]
 level: A1
 section: lesen
+status: verified
+qa: pass
 ---
 sich verabreden
 

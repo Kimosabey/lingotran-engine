@@ -6,6 +6,8 @@ orientation: 0
 content_type: [exercise, reading-text, grammar-box]
 level: A1
 section: lesen
+status: verified
+qa: pass
 ---
 über Familie sprechen
 

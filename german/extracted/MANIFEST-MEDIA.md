@@ -10,8 +10,8 @@
 | Metric | Count | %% |
 |---|---|---|
 | Units total | 641 | 100% |
-| Transcribed | 420 | 66% |
-| Verified | 417 | 65% |
+| Transcribed | 639 | 100% |
+| Verified | 636 | 99% |
 
 ## goethe-a1-sd1-exam-training-1  (`pdf/goethe-institut/a1-start-deutsch-1/exam-training-1.pdf` · A1)
 
@@ -60,10 +60,10 @@
 
 ## netzwerk-a1-kursbuch  (`pdf/klett-netzwerk-neu/a1-kursbuch/kursbuch.pdf` · A1)
 
-- PDF pages: **174** | Transcribed: **0 (0%)** | Verified: **0 (0%)**
-- Next pending pages (174): page-001 … page-174
+- PDF pages: **174** | Transcribed: **174 (100%)** | Verified: **174 (100%)**
+- No pending pages. ✅
 
 ## goyal-a1-young-learners  (`pdf/goyal/a1-young-learners/young-learners.pdf` · A1)
 
-- PDF pages: **104** | Transcribed: **59 (57%)** | Verified: **59 (57%)**
-- Next pending pages (45): page-009 … page-104
+- PDF pages: **104** | Transcribed: **104 (100%)** | Verified: **104 (100%)**
+- No pending pages. ✅

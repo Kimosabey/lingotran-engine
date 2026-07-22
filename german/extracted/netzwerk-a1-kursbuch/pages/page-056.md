@@ -6,6 +6,8 @@ orientation: 0
 content_type: [exercise, listening-sheet, grammar-box, speaking-prompt]
 level: A1
 section: hoeren
+status: verified
+qa: pass
 ---
 5
 

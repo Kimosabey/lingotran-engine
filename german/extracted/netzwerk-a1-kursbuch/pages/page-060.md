@@ -6,6 +6,8 @@ orientation: 0
 content_type: [exercise, listening-sheet, dialogue, speaking-prompt, grammar-box]
 level: A1
 section: sprechen
+status: verified
+qa: pass
 ---
 5
 

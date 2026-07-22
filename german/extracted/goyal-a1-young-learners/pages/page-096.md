@@ -9,19 +9,21 @@ section:
 status: verified
 qa: pass
 ---
-<!-- Margin banner, top-left corner, printed vertically (reading bottom-to-top): -->
+
 **Lektion 3**
 **Spielen**
 
-<!-- Cut-out card-back sheet (reverse of the page-95 syllable cards): 24 identical card backs arranged in a 4-column × 6-row grid, each bordered by a dashed cut line, with a blue card-back graphic beneath the text. All 24 cards are identical: -->
+<!-- faint stray pencil scribble (an X and a stroke, non-textual) in the top margin -->
 
-Each card (×24):
+<!-- cut-out card-back sheet (reverse of the Lektion 3 syllable cards): 24 identical card backs in a 4-column x 6-row grid, dashed cut lines between cells; each card shows the text below plus a blue trapezoid-shaped graphic with a green shadow -->
+
+Each card (x24):
 
 **Lektion 3**
 Silbenrätsel
 
-| Row | Card 1 | Card 2 | Card 3 | Card 4 |
-|-----|--------|--------|--------|--------|
+| Reihe | Karte 1 | Karte 2 | Karte 3 | Karte 4 |
+|---|---|---|---|---|
 | 1 | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel |
 | 2 | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel |
 | 3 | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel |
@@ -29,4 +31,4 @@ Silbenrätsel
 | 5 | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel |
 | 6 | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel | Lektion 3 — Silbenrätsel |
 
-96 sechsundneunzig
+**96** sechsundneunzig

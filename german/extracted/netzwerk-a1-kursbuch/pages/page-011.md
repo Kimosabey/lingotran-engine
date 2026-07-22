@@ -9,70 +9,77 @@ section:
 status: verified
 qa: pass
 ---
-grüßen, sich und andere vorstellen, verabschieden | **1**
+
+> Kopfzeile: grüßen, sich und andere vorstellen, verabschieden — **1**
 
 # Guten Tag! Auf Wiedersehen!
 
-🔊 [1.4–6]
+## 3 a 🔊 [1.4–6] Guten Tag. Wie heißen Sie? Hören Sie und lesen Sie. Wie heißen die Personen?
 
-**3 a** Guten Tag. Wie heißen Sie? Hören Sie und lesen Sie. Wie heißen die Personen?
+[Foto A: Frau und Mann geben sich die Hand]
 
-**Bild A**
+- ○ Guten Morgen. Mein Name ist Nina Weber.
+- ● Guten Morgen, Frau Weber! Ich heiße Oliver Hansen.
 
-○ Guten Morgen. Mein Name ist Nina Weber.
-● Guten Morgen, Frau Weber! Ich heiße Oliver Hansen.
+**[! Infokasten]**
+- Guten Morgen! *(Zeichnung: Sonnenaufgang mit Hahn)*
+- Guten Tag! *(Zeichnung: Sonne)*
+- Guten Abend! *(Zeichnung: Sonnenuntergang)*
+- Gute Nacht! *(Zeichnung: Person mit Mond)*
 
-**Bild B**
+[Foto B: Zwei Frauen geben sich die Hand vor einem Ordnerregal]
 
-○ Guten Tag, Frau Kowalski.
-△ Guten Tag, Frau Weber. Wie geht es Ihnen?
-○ Danke, gut. Und Ihnen?
-△ Auch gut, danke.
+- ○ Guten Tag, Frau Kowalski.
+- △ Guten Tag, Frau Weber. Wie geht es Ihnen?
+- ○ Danke, gut. Und Ihnen?
+- △ Auch gut, danke.
 
-● Hallo Frau Weber.
-○ Hallo Herr Hansen. Das ist Frau Kowalski.
-● Guten Tag, Frau Kowalski. Mein Name ist Oliver Hansen.
-△ Guten Tag! Entschuldigung, wie heißen Sie?
-● Oliver Hansen.
+[Foto: Drei Personen, der Mann gibt der älteren Frau die Hand]
 
-**Bild C**
+- ● Hallo Frau Weber.
+- ○ Hallo Herr Hansen. Das ist Frau Kowalski.
+- ● Guten Tag, Frau Kowalski. Mein Name ist Oliver Hansen.
+- △ Guten Tag! Entschuldigung, wie heißen Sie?
+- ● Oliver Hansen.
 
-△ Auf Wiedersehen, Herr Hansen. Tschüs, Frau Weber.
-● Auf Wiedersehen, Frau Kowalski.
-○ Auf Wiedersehen!
+[Foto C: Zwei Personen am Schreibtisch, eine Besucherin verabschiedet sich]
 
-> **!**
-> Guten Morgen! 🐓
-> Guten Tag! ☀
-> Guten Abend! 🌇
-> Gute Nacht! 🌙
+- △ Auf Wiedersehen, Herr Hansen. Tschüs, Frau Weber.
+- ● Auf Wiedersehen, Frau Kowalski.
+- ○ Auf Wiedersehen!
 
-**b** Guten Tag. Auf Wiedersehen. Spielen Sie die Situationen.
+## b Guten Tag. Auf Wiedersehen. Spielen Sie die Situationen.
 
-> Guten Tag!
-> Mein Name ist … / Ich heiße …
-> Wie heißen Sie?
->
-> Wie geht es Ihnen? – Danke, gut!
-> Und Ihnen? – Auch gut, danke.
+*(Zeichnung: zwei Personen begegnen sich)*
 
-> Das ist Frau … / Herr …
->
-> Auf Wiedersehen!
+Guten Tag!
+Mein Name ist … / Ich heiße …
+Wie heißen Sie?
 
-**G — Verben und Personalpronomen**
+Wie geht es Ihnen? – Danke, gut!
+Und Ihnen? – Auch gut, danke.
 
-|      | heißen  | sein |
-|------|---------|------|
-| ich  | heiße   | bin  |
-| du   | heißt   | bist |
-| Sie  | heißen  | sind |
+*(Zeichnung: drei Personen stellen sich vor)*
 
-> **!** *du* und *Sie*
->
-> | informell: *du* + Vorname | | formell: *Sie* + Vorname + Nachname | |
-> |---|---|---|---|
-> | Wie heißt **du**? | Ich heiße **Nina**. | Wie heißen **Sie**? | Mein Name ist **Nina Weber**. |
-> | Wer bist **du**? | Ich bin **Nina**. | Wie ist **Ihr** Name? | Ich heiße **Nina Weber**. |
+Das ist Frau … / Herr …
 
-elf 11
+*(Zeichnung: drei Personen verabschieden sich)*
+
+Auf Wiedersehen!
+
+**[G Grammatikkasten] Verben und Personalpronomen**
+
+|     | heißen | sein |
+|-----|--------|------|
+| ich | heiße  | bin  |
+| du  | heißt  | bist |
+| Sie | heißen | sind |
+
+**[! Infokasten] *du* und *Sie***
+
+| informell: *du* + Vorname |                     | formell: *Sie* + Vorname + Nachname |                               |
+|---------------------------|---------------------|-------------------------------------|-------------------------------|
+| Wie heißt **du**?         | Ich heiße **Nina**. | Wie heißen **Sie**?                 | Mein Name ist **Nina Weber**. |
+| Wer bist **du**?          | Ich bin **Nina**.   | Wie ist **Ihr** Name?               | Ich heiße **Nina Weber**.     |
+
+> Seitenzahl: elf **11**

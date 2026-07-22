@@ -5,9 +5,11 @@ page: 65
 orientation: 0
 content_type: [exercise]
 level: A1
-section:
+section: vocabulary
+status: verified
+qa: pass
 ---
-<!-- Vertical side tab (top-right corner, rotated): -->
+
 **Lektion 2**
 **Spielen**
 
@@ -15,7 +17,7 @@ section:
 
 Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen.
 
-<!-- Cut-out syllable-card grid, 4 columns × 6 rows = 24 cards (white text on blue). Hyphens as printed indicate where each syllable joins. Faint ghost text of "Lektion 2" cards shows through from the reverse side (bleed-through, not content of this page). -->
+<!-- cut-out syllable-card grid, 4 columns x 6 rows = 24 cards, white text on blue; hyphens as printed show where each syllable joins. Faint ghost text visible inside the cards is bleed-through from the reverse side of the sheet, not content of this page. -->
 
 | | | | |
 |---|---|---|---|
@@ -26,4 +28,4 @@ Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen.
 | -müt- | -barn | -chen | spre- |
 | -re- | -men | Pa- | -gal |
 
-fünfundsechzig · 65
+fünfundsechzig **65**
