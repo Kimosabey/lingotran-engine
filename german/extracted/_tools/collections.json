@@ -1,95 +1,135 @@
 {
-  "_comment": "Declarative registry of PDF/audio source collections for the German media pipeline. Add a new collection = add an entry here (no code change). Paths are relative to the german/ folder. One PDF = one collection (French-book convention); audio (or null) is the paired listening track.",
+  "_comment": "Declarative registry of PDF/audio source collections for the German media pipeline. Add a source = add an entry here (no code change). Paths are relative to the german/ folder. Fields: slug, family (goethe|netzwerk|goyal — groups per-publisher combined sheets), publisher, exam, level, variant, title (display name), source_note (provenance line), pdf, audio, frozen (true = already delivered; exporters must never regenerate it).",
   "collections": [
     {
       "slug": "goethe-a1-sd1-exam-training-1",
+      "family": "goethe",
       "publisher": "goethe-institut",
       "exam": "goethe",
       "level": "A1",
       "variant": "start-deutsch-1",
+      "title": "Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 1",
+      "source_note": "Goethe-Institut (official free practice material)",
       "pdf": "pdf/goethe-institut/a1-start-deutsch-1/exam-training-1.pdf",
-      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-1-listening.mp4"
+      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-1-listening.mp4",
+      "frozen": true
     },
     {
       "slug": "goethe-a1-sd1-exam-training-2",
+      "family": "goethe",
       "publisher": "goethe-institut",
       "exam": "goethe",
       "level": "A1",
       "variant": "start-deutsch-1",
+      "title": "Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 2",
+      "source_note": "Goethe-Institut (official free practice material)",
       "pdf": "pdf/goethe-institut/a1-start-deutsch-1/exam-training-2.pdf",
-      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-2-listening.mp4"
+      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-2-listening.mp4",
+      "frozen": true
     },
     {
       "slug": "goethe-a1-sd1-exam-training-3",
+      "family": "goethe",
       "publisher": "goethe-institut",
       "exam": "goethe",
       "level": "A1",
       "variant": "start-deutsch-1",
+      "title": "Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 3",
+      "source_note": "Goethe-Institut (official free practice material)",
       "pdf": "pdf/goethe-institut/a1-start-deutsch-1/exam-training-3.pdf",
-      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-3-listening.mp4"
+      "audio": "audio/goethe-institut/a1-start-deutsch-1/exam-training-3-listening.mp4",
+      "frozen": true
     },
     {
       "slug": "goethe-a1-sd1-vocabulary-list",
+      "family": "goethe",
       "publisher": "goethe-institut",
       "exam": "goethe",
       "level": "A1",
       "variant": "start-deutsch-1",
+      "title": "Goethe-Zertifikat A1 · Start Deutsch 1 · Vocabulary List",
+      "source_note": "Goethe-Institut (official free practice material)",
       "pdf": "pdf/goethe-institut/a1-start-deutsch-1/vocabulary-list.pdf",
-      "audio": null
+      "audio": null,
+      "frozen": true
     },
     {
       "slug": "goethe-a1-fit1-exam-training-1",
+      "family": "goethe",
       "publisher": "goethe-institut",
       "exam": "goethe",
       "level": "A1",
       "variant": "fit-in-deutsch-1",
+      "title": "Goethe-Zertifikat A1 · Fit In Deutsch 1 · Exam Training 1",
+      "source_note": "Goethe-Institut (official free practice material)",
       "pdf": "pdf/goethe-institut/a1-fit-in-deutsch-1/exam-training-1.pdf",
-      "audio": "audio/goethe-institut/a1-fit-in-deutsch-1/exam-training-1-listening.mp4"
+      "audio": "audio/goethe-institut/a1-fit-in-deutsch-1/exam-training-1-listening.mp4",
+      "frozen": true
     },
     {
       "slug": "goethe-a1-fit1-exam-training-2",
+      "family": "goethe",
       "publisher": "goethe-institut",
       "exam": "goethe",
       "level": "A1",
       "variant": "fit-in-deutsch-1",
+      "title": "Goethe-Zertifikat A1 · Fit In Deutsch 1 · Exam Training 2",
+      "source_note": "Goethe-Institut (official free practice material)",
       "pdf": "pdf/goethe-institut/a1-fit-in-deutsch-1/exam-training-2.pdf",
-      "audio": "audio/goethe-institut/a1-fit-in-deutsch-1/exam-training-2-listening.mp4"
+      "audio": "audio/goethe-institut/a1-fit-in-deutsch-1/exam-training-2-listening.mp4",
+      "frozen": true
     },
     {
       "slug": "goethe-a1-fit1-vocabulary-list",
+      "family": "goethe",
       "publisher": "goethe-institut",
       "exam": "goethe",
       "level": "A1",
       "variant": "fit-in-deutsch-1",
+      "title": "Goethe-Zertifikat A1 · Fit In Deutsch 1 · Vocabulary List",
+      "source_note": "Goethe-Institut (official free practice material)",
       "pdf": "pdf/goethe-institut/a1-fit-in-deutsch-1/vocabulary-list.pdf",
-      "audio": null
+      "audio": null,
+      "frozen": true
     },
     {
       "slug": "netzwerk-a1-test-booklet",
+      "family": "netzwerk",
       "publisher": "klett",
       "exam": "none",
       "level": "A1",
       "variant": "netzwerk-neu-a1",
+      "title": "Netzwerk neu A1 · Chapterwise Test Booklet",
+      "source_note": "Klett — Netzwerk neu A1 (test booklet)",
       "pdf": "pdf/klett-netzwerk-neu/a1-chapterwise-test-booklet/chapterwise-test-booklet.pdf",
-      "audio": null
+      "audio": null,
+      "frozen": false
     },
     {
       "slug": "netzwerk-a1-kursbuch",
+      "family": "netzwerk",
       "publisher": "klett",
       "exam": "none",
       "level": "A1",
       "variant": "netzwerk-neu-a1",
+      "title": "Netzwerk neu A1 · Kursbuch",
+      "source_note": "Klett — Netzwerk neu A1 (coursebook)",
       "pdf": "pdf/klett-netzwerk-neu/a1-kursbuch/kursbuch.pdf",
-      "audio": null
+      "audio": null,
+      "frozen": false
     },
     {
       "slug": "goyal-a1-young-learners",
+      "family": "goyal",
       "publisher": "goyal",
       "exam": "none",
       "level": "A1",
       "variant": "young-learners",
+      "title": "German for Young Learners · A1",
+      "source_note": "Goyal Publications — German for young learners",
       "pdf": "pdf/goyal/a1-young-learners/young-learners.pdf",
-      "audio": null
+      "audio": null,
+      "frozen": false
     }
   ]
 }

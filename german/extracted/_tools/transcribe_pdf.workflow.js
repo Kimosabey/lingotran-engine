@@ -1,6 +1,6 @@
 export const meta = {
   name: 'transcribe-german-pdf-pages',
-  description: 'Zero-loss vision transcription + adversarial QA + repair of Goethe A1 exam-paper pages',
+  description: 'Zero-loss vision transcription + adversarial QA + repair of German A1 learning-material pages',
   phases: [
     { title: 'Transcribe', detail: 'orientation self-correct + faithful Markdown (fixed level A1)' },
     { title: 'QA', detail: 'independent omission check; write verdict sidecar' },
@@ -98,7 +98,7 @@ qa: pending
 
 Return the structured summary.`
 
-const qaPrompt = pg => `ADVERSARIAL ZERO-DATA-LOSS QA of one Goethe ${LEVEL} exam page.
+const qaPrompt = pg => `ADVERSARIAL ZERO-DATA-LOSS QA of one German ${LEVEL} learning-material page.
 IMAGE (upright): ${img(pg)}
 TRANSCRIPTION FILE: ${mdp(pg)}
 Read BOTH carefully. Find ANYTHING on the image missing/altered/wrong in the transcription: missing tasks, missing options (a/b/c), missing matching pairs, missing table cells, missing answer-key entries, missing instructions/reading-text sentences, mis-transcribed words or umlauts/ß, dropped blanks, dropped page numbers. Be adversarial — assume an omission exists until every block is checked. Zoom with python "${ZOOM}" if needed.
@@ -107,7 +107,7 @@ Then WRITE your verdict as JSON to ${side(pg)} in EXACTLY this shape:
 {"page": ${pg}, "ok": <true|false>, "missing_count": <int>, "issues": ["<precise description>", ...]}
 ok=true ONLY if nothing is missing/wrong. Do NOT edit the transcription file. Return the same verdict.`
 
-const repairPrompt = pg => `REPAIR a Goethe ${LEVEL} exam-page transcription that FAILED QA.
+const repairPrompt = pg => `REPAIR a German ${LEVEL} learning-material page transcription that FAILED QA.
 IMAGE (upright): ${img(pg)}
 TRANSCRIPTION FILE: ${mdp(pg)}
 QA VERDICT (problems found): ${side(pg)}

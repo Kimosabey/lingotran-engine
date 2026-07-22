@@ -1,6 +1,6 @@
 export const meta = {
   name: 'extract-german-vocabulary',
-  description: 'Extract word-level vocabulary entries (word · article · plural · example) from the Goethe A1 Wortlisten',
+  description: 'Extract word-level vocabulary entries (word · article · plural · example) from German A1 word-list / Wortschatz pages',
   phases: [{ title: 'Extract', detail: 'one agent per ~5-page chunk (word lists are dense)' }],
 }
 
@@ -44,7 +44,7 @@ const VOCAB_SCHEMA = {
 const prompt = (slug, pages) => {
   const first = pad(pages[0]), last = pad(pages[pages.length - 1])
   const files = pages.map(p => `${ROOT}/${slug}/pages/page-${pad(p)}.md`).join('\n  ')
-  return `Extract EVERY vocabulary entry from these pages of the official Goethe-Zertifikat A1 Wortliste (word list), for a study database.
+  return `Extract EVERY vocabulary entry from these German A1 word-list / Wortschatz pages, for a study database.
 FILES (read all of them):
   ${files}
 

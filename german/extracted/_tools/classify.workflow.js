@@ -1,6 +1,6 @@
 export const meta = {
   name: 'classify-german-pages',
-  description: 'Classify each Goethe A1 page by activity type + topic + a one-line summary (for the catalog)',
+  description: 'Classify each German A1 page by activity type + topic + a one-line summary (for the catalog)',
   phases: [{ title: 'Classify', detail: 'one agent per collection reads the unified doc' }],
 }
 
@@ -37,7 +37,7 @@ const CLASS_SCHEMA = {
   required: ['collection', 'items'],
 }
 
-const prompt = slug => `Classify each page of a Goethe-Zertifikat A1 exam-practice document for a learning catalog.
+const prompt = slug => `Classify each page of a German A1 learning material (exam paper, coursebook, test booklet, or workbook) for a learning catalog.
 UNIFIED DOC (all pages, each under a "## Page NNN" heading): ${ROOT}/${slug}/${slug}.md
 Read that file. For EVERY page section, decide:
  - activity_type: the dominant task/activity on the page, chosen from: ${ACTIVITY}

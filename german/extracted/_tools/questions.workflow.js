@@ -1,6 +1,6 @@
 export const meta = {
   name: 'extract-german-questions',
-  description: 'Extract per-item exam questions + options + correct answers (from the Lösungen) into a structured list',
+  description: 'Extract per-item questions + options + correct answers (from the Lösungen, if present) into a structured list',
   phases: [{ title: 'Extract', detail: 'one agent per collection reads the unified doc + answer key' }],
 }
 
@@ -44,8 +44,8 @@ const Q_SCHEMA = {
   required: ['collection', 'items'],
 }
 
-const prompt = slug => `Extract EVERY exam question as a structured item from a Goethe-Zertifikat A1 practice document, for a study database.
-UNIFIED DOC (all pages under "## Page NNN" headings, INCLUDING the Lösungen/answer-key pages): ${ROOT}/${slug}/${slug}.md
+const prompt = slug => `Extract EVERY exam/exercise question as a structured item from a German A1 learning material (exam paper, coursebook, test booklet, or workbook), for a study database.
+UNIFIED DOC (all pages under "## Page NNN" headings; it MAY OR MAY NOT contain a Lösungen/answer-key section): ${ROOT}/${slug}/${slug}.md
 Read the whole file. Then, for every task item in the Hören / Lesen / Schreiben / Sprechen sections, output one record:
  - section: hoeren | lesen | schreiben | sprechen
  - teil: the Teil/part number as printed
@@ -53,7 +53,7 @@ Read the whole file. Then, for every task item in the Hören / Lesen / Schreiben
  - item_type: one of: ${ITEM_TYPES}
  - question: the item's stem/prompt, VERBATIM German (for matching, state what is to be matched; for open Schreiben/Sprechen, the full prompt)
  - option_a / option_b / option_c: the answer options VERBATIM when the item has them (multiple-choice; for true-false use option_a="Richtig", option_b="Falsch"); leave "" when not applicable
- - correct_answer: the correct option/value taken from the **Lösungen / answer-key** pages in this same document (e.g. "b", "Falsch", "1c 2a 3b"). For open-ended Schreiben/Sprechen tasks with no key, use exactly "(open-ended)". If no key exists for an otherwise-objective item, use "".
+ - correct_answer: IF this document has a Lösungen / answer-key section, take the correct option/value from it (e.g. "b", "Falsch", "1c 2a 3b"). For open-ended Schreiben/Sprechen tasks, use exactly "(open-ended)". If the document has NO answer key (common in a coursebook), leave "" — never guess.
  - topic: the real-world theme, chosen from: ${TOPICS} (use "mixed" if several; "none" for grammar/instructions/cover pages)
  - source_page: the 3-digit page number ("## Page NNN") where the item appears
 Be faithful — do not invent questions or answers. Cross-reference the Lösungen carefully so correct_answer matches the right item.

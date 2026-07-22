@@ -7,7 +7,8 @@ questions.workflow.js) and writes:
   <collection>/<collection>-questions.csv   one row per exam item:
       collection, section, teil, item, item_type, question,
       option_a, option_b, option_c, correct_answer, topic, source_page
-  german/extracted/goethe-a1-questions-all.csv   combined across all collections
+  <family>-a1-questions-all.csv   per-publisher combined (goethe|netzwerk|goyal)
+  (the global german-a1-questions-all.csv is built by merge_all.py)
 
 Opens in Excel / Google Sheets with native filters. Pure Python, re-runnable.
 
@@ -19,6 +20,7 @@ import csv
 import json
 import os
 import sys
+from collections import defaultdict
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(TOOLS)  # german/extracted/
@@ -67,27 +69,32 @@ def main(argv):
         print('No matching collections. Use --all or a slug.')
         return
 
-    combined = os.path.join(ROOT, 'goethe-a1-questions-all.csv')
-    grand = 0
-    with open(combined, 'w', encoding='utf-8-sig', newline='') as cf:
-        cw = csv.DictWriter(cf, fieldnames=COLUMNS)
-        cw.writeheader()
-        for c in targets:
-            slug = c['slug']
-            items = load_questions(slug)
-            if items is None:
-                print('%-32s no _questions.json, skipped' % slug)
-                continue
-            rows = [row_for(slug, it) for it in items]
-            with open(os.path.join(ROOT, slug, '%s-questions.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
-                w = csv.DictWriter(f, fieldnames=COLUMNS)
-                w.writeheader()
-                w.writerows(rows)
+    by_family = defaultdict(list)
+    for c in targets:
+        slug = c['slug']
+        if c.get('frozen'):
+            print('%-32s frozen — skipped' % slug)
+            continue
+        items = load_questions(slug)
+        if items is None:
+            print('%-32s no _questions.json, skipped' % slug)
+            continue
+        rows = [row_for(slug, it) for it in items]
+        with open(os.path.join(ROOT, slug, '%s-questions.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
+            w = csv.DictWriter(f, fieldnames=COLUMNS)
+            w.writeheader()
+            w.writerows(rows)
+        by_family[c.get('family', 'german')].extend(rows)
+        answered = sum(1 for r in rows if r['correct_answer'] and r['correct_answer'] != '(open-ended)')
+        print('%-32s %3d items (%d with answers) -> %s-questions.csv' % (slug, len(rows), answered, slug))
+
+    for fam, rows in by_family.items():
+        path = os.path.join(ROOT, '%s-a1-questions-all.csv' % fam)
+        with open(path, 'w', encoding='utf-8-sig', newline='') as cf:
+            cw = csv.DictWriter(cf, fieldnames=COLUMNS)
+            cw.writeheader()
             cw.writerows(rows)
-            answered = sum(1 for r in rows if r['correct_answer'] and r['correct_answer'] != '(open-ended)')
-            grand += len(rows)
-            print('%-32s %3d items (%d with answers) -> %s-questions.csv' % (slug, len(rows), answered, slug))
-    print('Combined -> %s  (%d items total)' % (combined, grand))
+        print('per-family sheet -> %s (%d items)' % (os.path.basename(path), len(rows)))
 
 
 if __name__ == '__main__':

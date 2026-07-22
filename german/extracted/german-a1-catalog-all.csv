@@ -1,0 +1,303 @@
+﻿collection,unit,section,content_type,activity_type,topic,level,status,qa,word_count,summary,title
+goethe-a1-sd1-exam-training-1,page-001,,[cover],cover,none,A1,verified,pass,18,Front cover of Goethe-Zertifikat A1 Start Deutsch 1 model set.,A1
+goethe-a1-sd1-exam-training-1,page-002,,[cover],cover,none,A1,verified,pass,27,"Imprint page with edition, copyright, and design credits.","Goethe-Institut Logo, oben rechts"
+goethe-a1-sd1-exam-training-1,page-003,,[toc],instructions,none,A1,verified,pass,93,Table of contents listing exam sections and page numbers.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-004,,[],none,none,A1,verified,pass,22,Intentionally blank page with only logo and page number.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top-right and bottom
+goethe-a1-sd1-exam-training-1,page-005,,[intro],instructions,none,A1,verified,pass,173,Foreword describing A1 exam scope and can-do skills.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-006,,[],none,none,A1,verified,pass,2,Blank page with only the page number.,Seite 6
+goethe-a1-sd1-exam-training-1,page-007,hoeren,[instructions],instructions,none,A1,verified,pass,58,Listening section intro and general test instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-008,hoeren,"[instructions, exercise]",multiple-choice,personal-info,A1,verified,pass,81,Listening Part 1 instructions with worked example on room number.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-009,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,113,"Listening Part 1 items on price, time, and restaurant food.",Hören
+goethe-a1-sd1-exam-training-1,page-010,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,126,"Listening Part 1 items on school class, floor access, travel.",Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel,A1,verified,pass,131,Listening Part 2 true/false announcements at station and store.,Hören
+goethe-a1-sd1-exam-training-1,page-012,hoeren,"[exercise, listening-sheet]",multiple-choice,communication,A1,verified,pass,77,Listening Part 3 items on phone number and meeting point.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-013,hoeren,"[exercise, listening-sheet]",multiple-choice,mixed,A1,verified,pass,58,Listening Part 3 items on day of visit and broken device.,Hören
+goethe-a1-sd1-exam-training-1,page-014,,[],none,none,A1,verified,pass,2,Blank page with only the page number.,Seite 14
+goethe-a1-sd1-exam-training-1,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,76,Reading and Writing section intro and instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-016,lesen,"[instructions, reading-text, exercise]",true-false,travel,A1,verified,pass,144,Reading Part 1 true/false about an email on train arrival.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-017,lesen,"[reading-text, exercise]",true-false,hobby,A1,verified,pass,116,Reading Part 1 true/false about a birthday party invitation.,Lesen
+goethe-a1-sd1-exam-training-1,page-018,lesen,"[exercise, reading-text]",multiple-choice,travel,A1,verified,pass,148,Reading Part 2 matching websites for weather and Rhine boats.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-019,lesen,"[exercise, reading-text]",multiple-choice,mixed,A1,verified,pass,151,Reading Part 2 matching websites for language courses and tickets.,Lesen
+goethe-a1-sd1-exam-training-1,page-020,lesen,[exercise],multiple-choice,travel,A1,verified,pass,179,Reading Part 2 matching websites for lake info and train times.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-021,lesen,"[instructions, reading-text, exercise]",true-false,city-places,A1,verified,pass,100,Reading Part 3 true/false on signs about language school breakfast.,Lesen
+goethe-a1-sd1-exam-training-1,page-022,lesen,"[exercise, reading-text]",true-false,city-places,A1,verified,pass,77,Reading Part 3 true/false on post office and station signs.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-023,lesen,"[exercise, reading-text]",true-false,city-places,A1,verified,pass,88,Reading Part 3 true/false on restaurant and bus stop signs.,Lesen
+goethe-a1-sd1-exam-training-1,page-024,lesen,"[exercise, reading-text]",fill-in,travel,A1,verified,pass,175,Writing Part 1 form-filling for a Bodensee bus tour registration.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-025,schreiben,[writing-prompt],writing-task,travel,A1,verified,pass,60,Writing Part 2 letter to Dresden tourist information office.,Schreiben
+goethe-a1-sd1-exam-training-1,page-026,,[],none,none,A1,verified,pass,22,Intentionally blank page with only logo and page number.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top-right and bottom
+goethe-a1-sd1-exam-training-1,page-027,sprechen,[intro],instructions,none,A1,verified,pass,25,Speaking section intro describing the group oral exam.,Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-028,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,19,"Speaking Part 1 self-introduction prompts: name, age, country, hobby.",Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-029,sprechen,[speaking-prompt],speaking-task,food,A1,verified,pass,180,Speaking Part 2 cards asking for information on food and drink.,Sprechen
+goethe-a1-sd1-exam-training-1,page-030,sprechen,[speaking-prompt],speaking-task,shopping,A1,verified,pass,128,Speaking Part 2 cards on shopping topics like fruit and shoes.,Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,187,Speaking Part 3 picture cards prompting requests from objects.,Sprechen
+goethe-a1-sd1-exam-training-1,page-032,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,140,Speaking Part 3 additional picture cards of everyday objects.,Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-033,hoeren,[listening-sheet],listening-comprehension,none,A1,verified,pass,263,Listening transcripts for Part 1 example and items 1-3.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-034,hoeren,[listening-sheet],listening-comprehension,none,A1,verified,pass,143,Listening transcripts for Part 1 items 4-6.,Hören
+goethe-a1-sd1-exam-training-1,page-035,hoeren,"[exercise, listening-sheet]",listening-comprehension,none,A1,verified,pass,188,Listening transcripts for Part 2 announcements 7-10.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-036,hoeren,"[instructions, listening-sheet]",listening-comprehension,none,A1,verified,pass,193,Listening transcripts for Part 3 phone messages 11-15.,Hören
+goethe-a1-sd1-exam-training-1,page-037,answer-key,[answer-key],answer-key,none,A1,verified,pass,354,"Answer key for Listening, Reading, and Writing Part 1.",19795
+goethe-a1-sd1-exam-training-1,page-038,answer-key,[answer-key],answer-key,none,A1,verified,pass,332,Writing scoring criteria with sample candidate texts and grades.,Lösungen
+goethe-a1-sd1-exam-training-1,page-039,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,232,Examiner notes and scripts for oral exam Part 1.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-040,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,345,"Examiner scripts for spelling, numbers, and Speaking Part 2.",Sprechen
+goethe-a1-sd1-exam-training-1,page-041,sprechen,"[speaking-prompt, instructions]",instructions,none,A1,verified,pass,184,Examiner notes and scripts for Speaking Part 3 requests.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-042,sprechen,"[instructions, answer-key]",answer-key,none,A1,verified,pass,55,Speaking assessment scoring scale for examiners.,Sprechen
+goethe-a1-sd1-exam-training-1,page-043,,[listening-sheet],answer-key,none,A1,verified,pass,672,"Answer sheet with marking grids for Listening, Reading, Writing.",Entwurf
+goethe-a1-sd1-exam-training-1,page-044,schreiben,"[writing-prompt, answer-key]",writing-task,none,A1,verified,pass,116,Answer sheet writing area and Writing Part 2 scoring grid.,Entwurf
+goethe-a1-sd1-exam-training-1,page-045,,[intro],none,none,A1,verified,pass,8,Notes page with only heading and page number.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-046,,[],none,none,A1,verified,pass,6,Blank page with only title and page number.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-047,,[cover],cover,none,A1,verified,pass,6,Back cover with printer and version codes.,Felix Brandl  München    A1Mod13    Vs14270424
+goethe-a1-sd1-exam-training-2,page-001,,[cover],cover,none,A1,verified,pass,21,Front cover of Goethe-Zertifikat A1 Start Deutsch 1 practice set.,A1
+goethe-a1-sd1-exam-training-2,page-002,,[intro],none,none,A1,verified,pass,22,Publisher and copyright imprint page.,© Goethe-Institut e.V.
+goethe-a1-sd1-exam-training-2,page-003,,"[cover, toc]",cover,none,A1,verified,pass,94,Title page with table of contents listing exam sections.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-004,,[],none,none,A1,verified,pass,2,Blank page.,Seite 2
+goethe-a1-sd1-exam-training-2,page-005,,[intro],instructions,none,A1,verified,pass,174,Foreword describing the A1 exam scope and structure.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-006,,[],none,none,A1,verified,pass,2,Blank page.,Seite 4
+goethe-a1-sd1-exam-training-2,page-007,hoeren,"[intro, instructions]",instructions,none,A1,verified,pass,61,Listening section intro and general instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-008,hoeren,"[instructions, exercise]",multiple-choice,personal-info,A1,verified,pass,70,Listening Teil 1 instructions with worked example about room number.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-009,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,112,"Listening multiple-choice questions on clothing, food, museum hours.",Hören
+goethe-a1-sd1-exam-training-2,page-010,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,62,"Listening multiple-choice on sport, holiday, flight duration.",Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel,A1,verified,pass,87,Listening Teil 2 true-false announcements at station and airport.,Hören
+goethe-a1-sd1-exam-training-2,page-012,hoeren,[exercise],multiple-choice,communication,A1,verified,pass,89,Listening Teil 3 multiple-choice on phone calls and plans.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-013,hoeren,[exercise],multiple-choice,hobby,A1,verified,pass,68,Listening multiple-choice on meeting place and time.,Hören
+goethe-a1-sd1-exam-training-2,page-014,,[],none,none,A1,verified,pass,34,Blank page with only footer and logos.,"<!-- This page is essentially blank. Only footer, page banner, and Goethe-Institut logos a"
+goethe-a1-sd1-exam-training-2,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,76,Reading and Writing section intro and instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-016,lesen,"[instructions, reading-text, exercise]",reading-comprehension,travel,A1,verified,pass,165,Reading Teil 1 true-false about email planning a Weimar meeting.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-017,lesen,"[reading-text, exercise]",reading-comprehension,hobby,A1,verified,pass,130,Reading true-false about a sports club summer excursion.,Lesen
+goethe-a1-sd1-exam-training-2,page-018,lesen,"[instructions, exercise, reading-text]",reading-comprehension,home,A1,verified,pass,129,Reading Teil 2 matching websites for weather and housing.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-019,lesen,[exercise],reading-comprehension,travel,A1,verified,pass,167,Reading matching websites for airport transport and holiday trips.,Lesen
+goethe-a1-sd1-exam-training-2,page-020,lesen,"[exercise, reading-text]",reading-comprehension,home,A1,verified,pass,143,Reading matching websites for holiday rentals and football.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-021,lesen,"[instructions, exercise, reading-text]",reading-comprehension,city-places,A1,verified,pass,120,"Reading Teil 3 true-false on public notices, tickets.",Lesen
+goethe-a1-sd1-exam-training-2,page-022,lesen,"[exercise, reading-text]",reading-comprehension,city-places,A1,verified,pass,98,Reading true-false about hotel door and restaurant hours.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-023,lesen,"[exercise, reading-text]",reading-comprehension,city-places,A1,verified,pass,73,Reading true-false about club film night and station counters.,Lesen
+goethe-a1-sd1-exam-training-2,page-024,schreiben,"[instructions, writing-prompt]",fill-in,personal-info,A1,verified,pass,195,Writing Teil 1 filling a language-school registration form.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-025,schreiben,[writing-prompt],writing-task,communication,A1,verified,pass,66,Writing Teil 2 email inviting a friend to a birthday.,Schreiben
+goethe-a1-sd1-exam-training-2,page-026,,[],none,none,A1,verified,pass,2,Blank page.,Seite 24
+goethe-a1-sd1-exam-training-2,page-027,sprechen,[instructions],instructions,none,A1,verified,pass,26,Speaking section intro and general instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-028,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,20,Speaking Teil 1 self-introduction prompt keywords.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-029,sprechen,[speaking-prompt],speaking-task,hobby,A1,verified,pass,83,Speaking Teil 2 word cards on weekend theme.,Sprechen
+goethe-a1-sd1-exam-training-2,page-030,sprechen,[speaking-prompt],speaking-task,school,A1,verified,pass,80,Speaking Teil 2 word cards on school theme.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,106,Speaking Teil 3 picture cards for making requests.,Sprechen
+goethe-a1-sd1-exam-training-2,page-032,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,97,Speaking Teil 3 further picture cards for requests.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-033,,[toc],instructions,none,A1,verified,pass,58,Examiner pages table of contents.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-034,hoeren,"[instructions, listening-sheet]",listening-comprehension,none,A1,verified,pass,266,Listening transcript Teil 1 example and items 1-3.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-035,hoeren,[listening-sheet],listening-comprehension,none,A1,verified,pass,157,Listening transcript items 4-6.,Hören
+goethe-a1-sd1-exam-training-2,page-036,hoeren,"[exercise, listening-sheet]",listening-comprehension,none,A1,verified,pass,219,Listening transcript Teil 2 announcements items 7-10.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-037,hoeren,"[instructions, listening-sheet]",listening-comprehension,none,A1,verified,pass,241,Listening transcript Teil 3 messages items 11-15.,Hören
+goethe-a1-sd1-exam-training-2,page-038,answer-key,[answer-key],answer-key,none,A1,verified,pass,354,"Answer key for Listening, Reading, Writing tasks.",18929
+goethe-a1-sd1-exam-training-2,page-039,schreiben,"[answer-key, instructions]",answer-key,none,A1,verified,pass,93,Writing assessment criteria and scoring guide.,Schreiben
+goethe-a1-sd1-exam-training-2,page-040,schreiben,"[writing-prompt, answer-key]",answer-key,communication,A1,verified,pass,266,Sample writing responses with awarded points.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-041,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,220,Oral exam guidance and Teil 1 introduction script.,Sprechen
+goethe-a1-sd1-exam-training-2,page-042,sprechen,"[speaking-prompt, instructions]",instructions,personal-info,A1,verified,pass,349,Oral exam script for spelling and Teil 2 information exchange.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-043,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,178,Oral exam Teil 3 request-formulation guidance and closing.,Sprechen
+goethe-a1-sd1-exam-training-2,page-044,sprechen,"[instructions, answer-key]",answer-key,none,A1,verified,pass,65,Speaking assessment criteria and scoring guide.,Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-045,,[answer-key],answer-key,none,A1,verified,pass,562,"Answer sheet grid for Listening, Reading, Writing scoring.",Entwurf
+goethe-a1-sd1-exam-training-2,page-046,schreiben,"[writing-prompt, answer-key]",answer-key,none,A1,verified,pass,100,Answer sheet for Writing Teil 2 text and scoring.,Entwurf
+goethe-a1-sd1-exam-training-2,page-047,,[cover],cover,none,A1,verified,pass,15,Back cover with publisher address and ISBN.,Goethe-Institut e.V.
+goethe-a1-sd1-exam-training-3,page-001,,[cover],cover,none,A1,verified,pass,21,Cover page for Goethe-Zertifikat A1 Start Deutsch 1 practice set.,A1
+goethe-a1-sd1-exam-training-3,page-002,,[intro],none,none,A1,verified,pass,22,Publisher imprint and copyright details.,© Goethe-Institut e.V.
+goethe-a1-sd1-exam-training-3,page-003,,"[cover, toc]",cover,none,A1,verified,pass,99,Title page and table of contents for the exam set.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-004,,[],none,none,A1,verified,pass,3,Blank divider page with logo only.,Goethe-Institut
+goethe-a1-sd1-exam-training-3,page-005,,[intro],instructions,none,A1,verified,pass,176,Foreword describing the A1 exam and its skill areas.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-006,,[],none,none,A1,verified,pass,23,Blank page with logo only.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top right and bottom
+goethe-a1-sd1-exam-training-3,page-007,hoeren,"[intro, instructions]",instructions,none,A1,verified,pass,61,Listening section intro and general test instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-008,hoeren,"[instructions, exercise]",multiple-choice,home,A1,verified,pass,69,Listening Part 1 instructions with worked example about room numbers.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-009,hoeren,[exercise],listening-comprehension,hobby,A1,verified,pass,86,"Listening questions 1-3 on party location, meeting time, taxis.",Hören
+goethe-a1-sd1-exam-training-3,page-010,hoeren,"[exercise, listening-sheet]",listening-comprehension,mixed,A1,verified,pass,126,"Listening questions 4-6 on courses, food to bring, return date.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel,A1,verified,pass,98,"Listening Part 2 true/false announcements, questions 7-10.",Hören
+goethe-a1-sd1-exam-training-3,page-012,hoeren,[exercise],listening-comprehension,mixed,A1,verified,pass,88,"Listening Part 3 questions 11-13 on forms, meeting places, times.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-013,hoeren,[exercise],listening-comprehension,communication,A1,verified,pass,74,Listening questions 14-15 on giving info and commuting to work.,Hören
+goethe-a1-sd1-exam-training-3,page-014,,[],none,none,A1,verified,pass,27,Blank page with logo only.,<!-- This page is intentionally blank apart from the Goethe-Institut logo and the footer. 
+goethe-a1-sd1-exam-training-3,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,75,Reading and Writing section intro and instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-016,lesen,"[exercise, reading-text, instructions]",reading-comprehension,hobby,A1,verified,pass,144,Reading Part 1 true/false on a letter about a jazz concert.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-017,lesen,"[reading-text, exercise]",reading-comprehension,profession,A1,verified,pass,119,"Reading true/false on an email about a work schedule, questions 3-5.",Lesen
+goethe-a1-sd1-exam-training-3,page-018,lesen,"[instructions, exercise, reading-text]",matching,weather,A1,verified,pass,171,"Reading Part 2 matching ads, example weather plus question 6 venue.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-019,lesen,"[exercise, reading-text]",matching,mixed,A1,verified,pass,164,"Reading Part 2 matching ads for computer repair and dancing, 7-8.",Lesen
+goethe-a1-sd1-exam-training-3,page-020,lesen,[exercise],matching,mixed,A1,verified,pass,155,"Reading Part 2 matching ads for football and student jobs, 9-10.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-021,lesen,"[instructions, reading-text, exercise]",reading-comprehension,shopping,A1,verified,pass,104,"Reading Part 3 true/false on signs, example plus flower shop, 11.",Lesen
+goethe-a1-sd1-exam-training-3,page-022,lesen,"[exercise, reading-text]",reading-comprehension,mixed,A1,verified,pass,101,"Reading true/false on restaurant and tram notices, questions 12-13.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-023,lesen,"[exercise, reading-text]",reading-comprehension,mixed,A1,verified,pass,92,"Reading true/false on apartment and station notices, questions 14-15.",Lesen
+goethe-a1-sd1-exam-training-3,page-024,schreiben,"[instructions, exercise, writing-prompt]",fill-in,personal-info,A1,verified,pass,186,Writing Part 1 filling a patient form with five missing details.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-025,schreiben,[writing-prompt],writing-task,communication,A1,verified,pass,72,Writing Part 2 prompt to email a colleague about a birthday party.,Schreiben
+goethe-a1-sd1-exam-training-3,page-026,,[],none,none,A1,verified,pass,23,Blank page with logo only.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top-right and bottom
+goethe-a1-sd1-exam-training-3,page-027,sprechen,"[intro, instructions]",instructions,none,A1,verified,pass,26,Speaking section intro and general instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-028,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,19,"Speaking Part 1 self-introduction prompts: name, age, country, job.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-029,sprechen,[speaking-prompt],speaking-task,profession,A1,verified,pass,184,"Speaking Part 2 cards on work theme: hours, colleagues, clothing.",Sprechen
+goethe-a1-sd1-exam-training-3,page-030,sprechen,[speaking-prompt],speaking-task,hobby,A1,verified,pass,107,"Speaking Part 2 cards on sport theme: swimming, weekend, bike.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,125,"Speaking Part 3 picture cards: post office, taxi, key, receipt.",Sprechen
+goethe-a1-sd1-exam-training-3,page-032,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,152,"Speaking Part 3 picture cards: toiletries, coins, calendar, station.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-033,,[toc],none,none,A1,verified,pass,58,Examiner sheets table of contents.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-034,hoeren,[listening-sheet],listening-comprehension,mixed,A1,verified,pass,293,Listening transcripts for Part 1 example and items 1-3.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-035,hoeren,[listening-sheet],listening-comprehension,mixed,A1,verified,pass,159,Listening transcripts for items 4-6.,Hören
+goethe-a1-sd1-exam-training-3,page-036,hoeren,"[instructions, listening-sheet]",listening-comprehension,travel,A1,verified,pass,205,"Listening transcripts Part 2 announcements, items 7-10.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-037,hoeren,"[instructions, listening-sheet]",listening-comprehension,mixed,A1,verified,pass,262,"Listening transcripts Part 3 phone messages, items 11-15.",Hören
+goethe-a1-sd1-exam-training-3,page-038,answer-key,[answer-key],answer-key,none,A1,verified,pass,345,"Answer key for Listening, Reading, and Writing sections.",6152
+goethe-a1-sd1-exam-training-3,page-039,schreiben,"[instructions, answer-key]",answer-key,none,A1,verified,pass,93,Writing assessment criteria and scoring scale.,Schreiben
+goethe-a1-sd1-exam-training-3,page-040,schreiben,"[writing-prompt, answer-key]",answer-key,communication,A1,verified,pass,246,Sample writing answers with scores for the email task.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-041,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,218,Oral exam guidance and Part 1 self-introduction script.,Sprechen
+goethe-a1-sd1-exam-training-3,page-042,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,347,Oral exam scripts for Parts 1 and 2 procedures.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-043,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,178,Oral exam Part 3 guidance on formulating requests.,Sprechen
+goethe-a1-sd1-exam-training-3,page-044,sprechen,[instructions],answer-key,none,A1,verified,pass,65,Speaking assessment criteria and scoring scale.,Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-045,,[answer-key],answer-key,none,A1,verified,pass,566,"Answer sheet for Listening, Reading, and Writing sections.",Entwurf
+goethe-a1-sd1-exam-training-3,page-046,schreiben,"[writing-prompt, answer-key]",answer-key,none,A1,verified,pass,113,Answer sheet page 2 for Writing Part 2 text and scoring.,Entwurf
+goethe-a1-sd1-exam-training-3,page-047,,[cover],cover,none,A1,verified,pass,15,"Back cover with publisher, ISBN, and material number.",Goethe-Institut e.V.
+goethe-a1-sd1-vocabulary-list,page-001,vocabulary,[cover],cover,none,A1,verified,pass,18,Cover page: Goethe-Zertifikat A1 Start Deutsch 1 vocabulary list (Wortliste).,A1
+goethe-a1-sd1-vocabulary-list,page-002,,[toc],instructions,none,A1,verified,pass,42,"Table of contents listing foreword, themes, vocabulary, and literature sections.",INHALT
+goethe-a1-sd1-vocabulary-list,page-003,,[intro],instructions,none,A1,verified,pass,320,Foreword explaining the A1 vocabulary list's purpose and scope.,VORWORT
+goethe-a1-sd1-vocabulary-list,page-004,vocabulary,"[intro, vocabulary]",vocabulary,mixed,A1,verified,pass,134,"Inventory of A1 thematic areas: person, home, environment, travel, food, work.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-005,vocabulary,[intro],instructions,none,A1,verified,pass,327,Notes on how the vocabulary list is compiled and organized.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-006,vocabulary,[vocabulary],vocabulary,time-dates,A1,verified,pass,300,"Numbers, ordinals, and date expressions word-group list.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-007,vocabulary,[vocabulary],vocabulary,time-dates,A1,verified,pass,239,"Time, weekdays, times of day, and months vocabulary.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-008,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,255,"Seasons, currency, measures, countries, colors, and directions vocabulary.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-009,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,482,Alphabetical word list A with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-010,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,513,Alphabetical word list A continued with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-011,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,508,Alphabetical word list B with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-012,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,488,"Alphabetical word list B, C, D with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-013,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,528,"Alphabetical word list D, E with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-014,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,512,"Alphabetical word list E, F with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-015,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,500,"Alphabetical word list F, G with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-016,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,481,"Alphabetical word list G, H with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-017,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,486,"Alphabetical word list H, I with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-018,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,526,"Alphabetical word list J, K with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-019,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,500,"Alphabetical word list K, L, M with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-020,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,504,"Alphabetical word list M, N with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-021,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,471,"Alphabetical word list N, O, P with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-022,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,477,"Alphabetical word list R, S with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-023,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,479,Alphabetical word list S with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-024,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,475,"Alphabetical word list S, T, U with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-025,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,484,"Alphabetical word list U, V, W with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-026,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,447,"Alphabetical word list W, Z with example sentences.",INVENTARE
+goethe-a1-sd1-vocabulary-list,page-027,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,90,Alphabetical word list Z with example sentences.,INVENTARE
+goethe-a1-sd1-vocabulary-list,page-028,,[intro],instructions,none,A1,verified,pass,153,Literature and references section listing source publications.,LITERATUR
+goethe-a1-sd1-vocabulary-list,page-029,,[],none,none,A1,verified,pass,24,Blank colored divider page with no printed content.,<!-- This page contains no text. It is a solid magenta/purple color page (blank divider / 
+goethe-a1-fit1-exam-training-1,page-001,,[cover],cover,none,A1,verified,pass,22,Front cover of Goethe-Zertifikat A1 Fit in Deutsch 1 practice set.,A1
+goethe-a1-fit1-exam-training-1,page-002,,[cover],cover,none,A1,verified,pass,8,Copyright and edition notice page.,überarbeitete Auflage von 2011
+goethe-a1-fit1-exam-training-1,page-003,,[toc],instructions,none,A1,verified,pass,107,Table of contents for candidate and examiner sheets.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-004,,[],none,none,A1,verified,pass,2,Blank page.,Seite 2
+goethe-a1-fit1-exam-training-1,page-005,,[intro],instructions,none,A1,verified,pass,166,Foreword describing the Fit in Deutsch 1 A1 exam.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-006,,[],none,none,A1,verified,pass,2,Blank page.,Seite 4
+goethe-a1-fit1-exam-training-1,page-007,hoeren,"[intro, instructions]",instructions,none,A1,verified,pass,37,Listening section intro and general instructions.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-008,hoeren,"[instructions, exercise]",multiple-choice,communication,A1,verified,pass,63,Listening Part 1 instructions and worked example about phone messages.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-009,hoeren,"[instructions, exercise]",multiple-choice,communication,A1,verified,pass,91,Listening tasks 1-2 on a phone thank-you message and call-back.,Hören
+goethe-a1-fit1-exam-training-1,page-010,hoeren,"[exercise, listening-sheet]",multiple-choice,school,A1,verified,pass,167,Listening tasks 3-4 about school subjects and where Karl is.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-011,hoeren,[exercise],multiple-choice,hobby,A1,verified,pass,70,Listening tasks 5-6 about going out and film start time.,Hören
+goethe-a1-fit1-exam-training-1,page-012,hoeren,"[instructions, exercise, listening-sheet]",true-false,health,A1,verified,pass,108,Listening Part 2 true/false tasks 7-9 about illness.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-013,hoeren,"[exercise, listening-sheet, instructions]",true-false,hobby,A1,verified,pass,82,Listening true/false tasks 10-12 about studying and football.,Hören
+goethe-a1-fit1-exam-training-1,page-014,,[],none,none,A1,verified,pass,2,Blank page.,Seite 12
+goethe-a1-fit1-exam-training-1,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,47,Reading section intro and instructions.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-016,lesen,"[exercise, reading-text]",reading-comprehension,travel,A1,verified,pass,186,Reading Part 1 two newspaper ads about train travel and study abroad.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-017,lesen,"[instructions, exercise]",multiple-choice,travel,A1,verified,pass,173,Reading tasks 1-6 multiple-choice on the two advertisements.,Lesen
+goethe-a1-fit1-exam-training-1,page-018,lesen,"[reading-text, exercise]",reading-comprehension,family,A1,verified,pass,178,Reading Part 2 two teenager self-descriptions about family and home.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-019,lesen,[exercise],true-false,family,A1,verified,pass,108,Reading true/false tasks 7-12 on the teenager descriptions.,Lesen
+goethe-a1-fit1-exam-training-1,page-020,,[],none,none,A1,verified,pass,2,Blank page.,Seite 18
+goethe-a1-fit1-exam-training-1,page-021,schreiben,[instructions],instructions,none,A1,verified,pass,44,Writing section intro and instructions.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-022,schreiben,[writing-prompt],writing-task,communication,A1,verified,pass,89,"Writing prompt: reply to Natascha's pen-pal email, at least 30 words.",Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-023,sprechen,"[intro, instructions]",instructions,none,A1,verified,pass,30,Speaking section intro and instructions.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-024,,[],none,none,A1,verified,pass,2,Blank page.,Seite 22
+goethe-a1-fit1-exam-training-1,page-025,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,31,"Speaking Part 1 self-introduction word card (name, age, hobby).",Sprechen
+goethe-a1-fit1-exam-training-1,page-026,sprechen,[speaking-prompt],speaking-task,home,A1,verified,pass,36,Speaking Part 2 theme card: Wohnen (living/home).,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-027,sprechen,[speaking-prompt],speaking-task,home,A1,verified,pass,196,Speaking Part 2 prompt cards with words on the home theme.,Sprechen
+goethe-a1-fit1-exam-training-1,page-028,sprechen,[speaking-prompt],speaking-task,family,A1,verified,pass,33,Speaking Part 2 theme card: Familie (family).,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-029,sprechen,[speaking-prompt],speaking-task,family,A1,verified,pass,153,Speaking Part 2 six word cards on the family theme.,Sprechen
+goethe-a1-fit1-exam-training-1,page-030,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,185,Speaking Part 3 example picture cards with objects and symbols.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,203,Speaking Part 3 six picture cards showing everyday objects.,Sprechen
+goethe-a1-fit1-exam-training-1,page-032,,[],none,none,A1,verified,pass,2,Blank page.,Seite 30
+goethe-a1-fit1-exam-training-1,page-033,,[toc],instructions,none,A1,verified,pass,75,Examiner sheets table of contents.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-034,hoeren,"[instructions, listening-sheet]",listening-comprehension,none,A1,verified,pass,218,Listening transcripts for Part 1 phone messages.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-035,hoeren,"[instructions, listening-sheet]",listening-comprehension,none,A1,verified,pass,293,Listening transcripts for Part 2 dialogues.,Hören
+goethe-a1-fit1-exam-training-1,page-036,answer-key,[answer-key],answer-key,none,A1,verified,pass,392,Answer key for listening and reading plus writing rubric.,Fit in Deutsch 1
+goethe-a1-fit1-exam-training-1,page-037,schreiben,"[instructions, answer-key]",instructions,none,A1,verified,pass,300,Writing assessment criteria and scoring guidance.,Schreiben
+goethe-a1-fit1-exam-training-1,page-038,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,195,Speaking exam procedure notes and moderator introduction.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-039,sprechen,"[speaking-prompt, instructions]",instructions,personal-info,A1,verified,pass,116,Speaking Part 1 examiner guidance for self-introduction.,Sprechen
+goethe-a1-fit1-exam-training-1,page-040,sprechen,"[speaking-prompt, instructions]",instructions,none,A1,verified,pass,282,Speaking Part 2 examiner guidance and example question.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-041,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,261,Speaking Part 3 examiner guidance and example prompt.,Sprechen
+goethe-a1-fit1-exam-training-1,page-042,sprechen,[answer-key],instructions,none,A1,verified,pass,196,Speaking assessment criteria and point scale.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-043,,[intro],instructions,none,A1,verified,pass,120,Overall scoring overview across all exam modules.,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-1,page-044,hoeren,[listening-sheet],answer-key,none,A1,verified,pass,483,"Answer sheet for listening, reading and writing results.",Fit in Deutsch 1
+goethe-a1-fit1-exam-training-1,page-045,schreiben,"[writing-prompt, answer-key]",writing-task,communication,A1,verified,pass,121,Writing answer sheet with ruled area and scoring grid.,Barcode: 26855
+goethe-a1-fit1-exam-training-1,page-046,sprechen,"[answer-key, listening-sheet]",answer-key,none,A1,verified,pass,361,Speaking assessment sheet with per-candidate scoring columns.,Fit in Deutsch 1
+goethe-a1-fit1-exam-training-1,page-047,,[instructions],answer-key,none,A1,verified,pass,250,Overall results sheet with grade scale.,24545
+goethe-a1-fit1-exam-training-1,page-048,,[],none,none,A1,verified,pass,2,Blank page.,Seite 46
+goethe-a1-fit1-exam-training-1,page-049,,[],none,none,A1,verified,pass,2,Blank page.,Seite 47
+goethe-a1-fit1-exam-training-1,page-050,,[],none,none,A1,verified,pass,2,Blank page.,Seite 48
+goethe-a1-fit1-exam-training-1,page-051,,[],none,none,A1,verified,pass,7,Blank page with no printed content.,<!-- blank page: no printed content --
+goethe-a1-fit1-exam-training-1,page-052,,[cover],cover,none,A1,verified,pass,8,Back cover with Goethe-Institut address.,Goethe-Institut e.V.
+goethe-a1-fit1-exam-training-2,page-001,,[cover],cover,none,A1,verified,pass,22,Cover page for Goethe A1 Fit in Deutsch 1 practice set 02,A1
+goethe-a1-fit1-exam-training-2,page-002,,[intro],none,none,A1,verified,pass,8,Edition and copyright notice,überarbeitete Auflage von 2017
+goethe-a1-fit1-exam-training-2,page-003,,[toc],instructions,none,A1,verified,pass,110,Table of contents for candidate and examiner sheets,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-004,,[],none,none,A1,verified,pass,2,Blank page with footer only,Seite 2
+goethe-a1-fit1-exam-training-2,page-005,,[intro],instructions,none,A1,verified,pass,168,Foreword describing the Fit in Deutsch 1 exam,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-006,,[],none,none,A1,verified,pass,2,Blank page with footer only,Seite 4
+goethe-a1-fit1-exam-training-2,page-007,hoeren,"[intro, instructions]",instructions,none,A1,verified,pass,37,Listening section intro and instructions,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-008,hoeren,"[instructions, exercise]",listening-comprehension,communication,A1,verified,pass,75,Listening Part 1 instructions with phone-message example task,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-009,hoeren,"[instructions, exercise, listening-sheet]",listening-comprehension,hobby,A1,verified,pass,112,"Listening tasks 1-2 on plans and availability, multiple choice",Hören
+goethe-a1-fit1-exam-training-2,page-010,hoeren,"[exercise, listening-sheet]",listening-comprehension,travel,A1,verified,pass,95,"Listening tasks 3-4 on transport and party items, multiple choice",Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-011,hoeren,"[exercise, listening-sheet]",listening-comprehension,hobby,A1,verified,pass,80,Listening tasks 5-6 on music and music school location,Hören
+goethe-a1-fit1-exam-training-2,page-012,hoeren,"[instructions, exercise]",listening-comprehension,school,A1,verified,pass,109,Listening Part 2 true-false tasks 7-9 on schoolwork help,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-013,hoeren,"[exercise, listening-sheet, instructions]",listening-comprehension,personal-info,A1,verified,pass,80,Listening true-false tasks 10-12 on moving and birthday,Hören
+goethe-a1-fit1-exam-training-2,page-014,,[],none,none,A1,verified,pass,2,Blank page with footer only,Seite 12
+goethe-a1-fit1-exam-training-2,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,47,Reading section intro and instructions,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-016,lesen,"[instructions, reading-text, exercise]",reading-comprehension,hobby,A1,verified,pass,213,Reading Part 1 two newspaper ads: film casting and school club,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-017,lesen,"[exercise, instructions]",multiple-choice,hobby,A1,verified,pass,162,Reading tasks 1-6 multiple choice on the two ads,Lesen
+goethe-a1-fit1-exam-training-2,page-018,lesen,"[reading-text, exercise]",reading-comprehension,personal-info,A1,verified,pass,190,Reading Part 2 two teenager self-descriptions,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-019,lesen,[exercise],true-false,daily-routine,A1,verified,pass,126,Reading true-false tasks 7-12 on the descriptions,Lesen
+goethe-a1-fit1-exam-training-2,page-020,,[],none,none,A1,verified,pass,13,Blank page with footer only,<!-- This page is blank apart from the page footer. --
+goethe-a1-fit1-exam-training-2,page-021,schreiben,[instructions],instructions,none,A1,verified,pass,44,Writing section intro and instructions,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-022,schreiben,[writing-prompt],writing-task,vacation,A1,verified,pass,98,"Writing prompt: reply to email about holidays, min 30 words",Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-023,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,30,Speaking section intro and instructions,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-024,,[],none,none,A1,verified,pass,13,Blank page with footer only,<!-- This page is intentionally blank apart from the footer. --
+goethe-a1-fit1-exam-training-2,page-025,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,31,Speaking Part 1 self-introduction prompt card with cues,Sprechen
+goethe-a1-fit1-exam-training-2,page-026,sprechen,[speaking-prompt],speaking-task,travel,A1,verified,pass,33,Speaking Part 2 topic card: travel,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-027,sprechen,[speaking-prompt],speaking-task,travel,A1,verified,pass,208,Speaking Part 2 word cards on the theme of travel,Sprechen
+goethe-a1-fit1-exam-training-2,page-028,sprechen,[speaking-prompt],speaking-task,health,A1,verified,pass,34,Speaking Part 2 topic card: health,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-029,sprechen,[speaking-prompt],speaking-task,health,A1,verified,pass,174,Speaking Part 2 word cards on the theme of health,Sprechen
+goethe-a1-fit1-exam-training-2,page-030,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,159,Speaking Part 3 picture cards for requests and questions,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,93,Speaking Part 3 more picture cards for requests and questions,Sprechen
+goethe-a1-fit1-exam-training-2,page-032,,[],none,none,A1,verified,pass,2,Blank page with footer only,Seite 30
+goethe-a1-fit1-exam-training-2,page-033,,[toc],instructions,none,A1,verified,pass,75,Examiner sheets table of contents,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-034,hoeren,[listening-sheet],listening-comprehension,mixed,A1,verified,pass,262,Listening transcripts Part 1 phone messages,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-035,hoeren,"[instructions, listening-sheet]",listening-comprehension,mixed,A1,verified,pass,357,Listening transcripts Part 2 dialogues,Hören
+goethe-a1-fit1-exam-training-2,page-036,answer-key,[answer-key],answer-key,none,A1,verified,pass,394,"Answer key for listening, reading and writing rating",16298
+goethe-a1-fit1-exam-training-2,page-037,schreiben,[instructions],instructions,none,A1,verified,pass,297,Writing assessment criteria and scoring guide,Schreiben
+goethe-a1-fit1-exam-training-2,page-038,sprechen,[instructions],instructions,none,A1,verified,pass,195,Speaking exam administration notes and moderator script,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-039,sprechen,"[instructions, speaking-prompt]",instructions,personal-info,A1,verified,pass,108,Speaking Part 1 examiner guidance for self-introduction,Sprechen
+goethe-a1-fit1-exam-training-2,page-040,sprechen,"[speaking-prompt, instructions]",instructions,travel,A1,verified,pass,284,Speaking Part 2 examiner guidance and example card,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-041,sprechen,"[instructions, speaking-prompt]",instructions,mixed,A1,verified,pass,259,Speaking Part 3 examiner guidance and closing script,Sprechen
+goethe-a1-fit1-exam-training-2,page-042,sprechen,[instructions],instructions,none,A1,verified,pass,180,Speaking assessment criteria and scoring guide,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-043,,[intro],instructions,none,A1,verified,pass,112,Overall scoring overview across all exam parts,Fit in Deutsch · 1
+goethe-a1-fit1-exam-training-2,page-044,,[listening-sheet],answer-key,none,A1,verified,pass,426,"Answer sheet for listening, reading and writing",26855
+goethe-a1-fit1-exam-training-2,page-045,schreiben,"[writing-prompt, answer-key]",answer-key,none,A1,verified,pass,142,Writing answer sheet with rating grid,Barcode-Symbol oben links 26855
+goethe-a1-fit1-exam-training-2,page-046,sprechen,[answer-key],answer-key,none,A1,verified,pass,464,Speaking assessment sheet for six participants,Fit in Deutsch 1
+goethe-a1-fit1-exam-training-2,page-047,answer-key,[answer-key],answer-key,none,A1,verified,pass,193,Overall result sheet with grade scale,24545
+goethe-a1-fit1-exam-training-2,page-048,,[],none,none,A1,verified,pass,2,Blank page with footer only,Seite 46
+goethe-a1-fit1-exam-training-2,page-049,,[],none,none,A1,verified,pass,2,Blank page with footer only,Seite 47
+goethe-a1-fit1-exam-training-2,page-050,,[],none,none,A1,verified,pass,2,Blank page with footer only,Seite 48
+goethe-a1-fit1-exam-training-2,page-051,,[],none,none,A1,verified,pass,9,Blank page with no printed content,<!-- This page is blank (no printed content). --
+goethe-a1-fit1-exam-training-2,page-052,,[cover],cover,none,A1,verified,pass,8,Back cover with Goethe-Institut address and material number,Goethe-Institut e.V.
+goethe-a1-fit1-vocabulary-list,page-001,,[cover],cover,none,A1,verified,pass,19,Cover page for Goethe-Zertifikat A1 Fit in Deutsch 1 vocabulary list.,A1
+goethe-a1-fit1-vocabulary-list,page-002,,[intro],instructions,none,A1,verified,pass,18,Publisher imprint and copyright information from Goethe-Institut.,www.goethe.de/pruefungen
+goethe-a1-fit1-vocabulary-list,page-003,,[toc],instructions,none,A1,verified,pass,116,"Table of contents listing preface, themes, word groups, and grammar.",Inhalt
+goethe-a1-fit1-vocabulary-list,page-004,vocabulary,[intro],instructions,none,A1,verified,pass,294,Preface explaining purpose and scope of the A1 vocabulary list.,VORWORT
+goethe-a1-fit1-vocabulary-list,page-005,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,151,"Thematic inventory of A1 topics across person, home, food, travel, leisure.",INVENTARE
+goethe-a1-fit1-vocabulary-list,page-006,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,401,"Word groups: anglicisms, exam language, jobs, and family members.",INVENTARE
+goethe-a1-fit1-vocabulary-list,page-007,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,403,"Colors, directions, measures, currencies, countries, school subjects, numbers.",INVENTARE
+goethe-a1-fit1-vocabulary-list,page-008,vocabulary,[vocabulary],vocabulary,time-dates,A1,verified,pass,165,"Holidays, seasons, months, times of day, clock times, weekdays.",INVENTARE
+goethe-a1-fit1-vocabulary-list,page-009,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,505,Alphabetical word list letter A with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-010,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,519,Alphabetical word list letters A and B with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-011,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,489,Alphabetical word list letters B through E with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-012,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,520,Alphabetical word list letters E and F with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-013,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,473,Alphabetical word list letters G and H with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-014,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,482,Alphabetical word list letters H through K with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-015,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,463,Alphabetical word list letters K and L with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-016,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,483,Alphabetical word list letters L through N with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-017,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,471,Alphabetical word list letters N through R with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-018,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,497,Alphabetical word list letters R and S with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-019,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,508,Alphabetical word list letters S through U with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-020,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,450,Alphabetical word list letters V and W with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-021,vocabulary,[vocabulary],vocabulary,mixed,A1,verified,pass,221,Alphabetical word list letters W and Z with example sentences.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-022,,[intro],instructions,none,A1,verified,pass,154,Introduction to the grammar inventory and its role at A1 level.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-023,vocabulary,[vocabulary],vocabulary,none,A1,verified,pass,59,"Overview list of grammar categories: verbs, nouns, adjectives, syntax.",INVENTARE
+goethe-a1-fit1-vocabulary-list,page-024,vocabulary,"[vocabulary, intro]",vocabulary,none,A1,verified,pass,264,"Grammar tables for verb tense, mood, modals, nouns, and articles.",INVENTARE
+goethe-a1-fit1-vocabulary-list,page-025,vocabulary,[vocabulary],vocabulary,none,A1,verified,pass,320,"Grammar tables for articles, pronouns, adjectives, and prepositions.",INVENTARE
+goethe-a1-fit1-vocabulary-list,page-026,vocabulary,[vocabulary],vocabulary,none,A1,verified,pass,477,Grammar tables for prepositions and syntax including negation and questions.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-027,vocabulary,[vocabulary],vocabulary,none,A1,verified,pass,62,Word formation rules for nouns and adjectives with examples.,INVENTARE
+goethe-a1-fit1-vocabulary-list,page-028,,[cover],cover,none,A1,verified,pass,9,Back cover with Goethe-Institut Munich address.,Goethe-Institut
