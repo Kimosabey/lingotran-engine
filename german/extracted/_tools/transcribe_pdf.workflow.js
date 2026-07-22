@@ -56,10 +56,10 @@ const QA_SCHEMA = {
   required: ['page', 'ok', 'missing_count'],
 }
 
-const CONTENT_TYPES = 'cover, toc, intro, instructions, reading-text, exercise, listening-sheet, writing-prompt, speaking-prompt, vocabulary, answer-key'
+const CONTENT_TYPES = 'cover, toc, intro, instructions, reading-text, exercise, listening-sheet, writing-prompt, speaking-prompt, vocabulary, answer-key, lesson, grammar-box, dialogue, audio-script, wordlist, chapter-opener, review, picture-story, song'
 
-const txPrompt = pg => `ZERO-DATA-LOSS transcription of ONE page from the official Goethe-Zertifikat ${LEVEL} exam-practice PDF "${SRC}".
-IMAGE: ${img(pg)}  (300-DPI render of a single born-digital page; usually already upright.)
+const txPrompt = pg => `ZERO-DATA-LOSS transcription of ONE page from German ${LEVEL} learning material "${SRC}" (this may be an exam paper, a coursebook/Kursbuch, a test booklet, or a workbook — transcribe whatever is on the page).
+IMAGE: ${img(pg)}  (300-DPI render of a single page; it may be a SCANNED page — expect skew, speckle, and occasionally rotated pages.)
 
 STEP 1 — ORIENTATION. Read the image. If the printed content is NOT upright (text not horizontal, left-to-right), fix it:
    python "${ROTATE}" "${img(pg)}" <deg>   (deg = clockwise 90/180/270). Then Read again to confirm. Record total clockwise rotation as orientation (0 if none — expected for most pages).
@@ -75,6 +75,7 @@ STEP 2 — TRANSCRIBE EVERYTHING, VERBATIM (no paraphrase, translation, or summa
  - Vocabulary lists → Markdown tables, every entry/cell.
  - Writing ("Schreiben") and speaking ("Sprechen") prompts → verbatim.
  - Answer keys / "Lösungen" → every answer verbatim.
+ - COURSEBOOK/TEXTBOOK pages: transcribe lesson text, grammar boxes and tables, dialogues (keep speaker labels), captions under pictures, song/chant lyrics, and every activity instruction + item. For audio scripts ("Hörtext"/"Transkription") transcribe the spoken text verbatim with speaker labels.
  - Page numbers, footnotes, captions.
  - Genuinely illegible text → "<!-- illegible: best-guess \\"...\\" -->". NEVER silently omit.
  - If small text is unclear, zoom: python "${ZOOM}" "${img(pg)}" <x0> <y0> <x1> <y1> "${ROOT}/_tools/_z_${pad(pg)}.png" (fractional coords), then Read the zoom file.

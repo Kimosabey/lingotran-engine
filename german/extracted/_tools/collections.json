@@ -63,6 +63,33 @@
       "variant": "fit-in-deutsch-1",
       "pdf": "pdf/goethe-institut/a1-fit-in-deutsch-1/vocabulary-list.pdf",
       "audio": null
+    },
+    {
+      "slug": "netzwerk-a1-test-booklet",
+      "publisher": "klett",
+      "exam": "none",
+      "level": "A1",
+      "variant": "netzwerk-neu-a1",
+      "pdf": "pdf/klett-netzwerk-neu/a1-chapterwise-test-booklet/chapterwise-test-booklet.pdf",
+      "audio": null
+    },
+    {
+      "slug": "netzwerk-a1-kursbuch",
+      "publisher": "klett",
+      "exam": "none",
+      "level": "A1",
+      "variant": "netzwerk-neu-a1",
+      "pdf": "pdf/klett-netzwerk-neu/a1-kursbuch/kursbuch.pdf",
+      "audio": null
+    },
+    {
+      "slug": "goyal-a1-young-learners",
+      "publisher": "goyal",
+      "exam": "none",
+      "level": "A1",
+      "variant": "young-learners",
+      "pdf": "pdf/goyal/a1-young-learners/young-learners.pdf",
+      "audio": null
     }
   ]
 }

@@ -61,25 +61,30 @@ def write_rows(rows):
 
 
 def init():
-    if os.path.exists(TSV):
-        print('manifest-media.tsv already exists; not overwriting. (%d rows)' % len(read_rows()))
-        return
-    rows = []
+    """Additive + idempotent: seed rows for any (collection, unit) not already
+    present, never clobbering existing state. Safe to re-run after adding a
+    collection or rasterising more pages."""
+    rows = read_rows()
+    have = {(r['collection'], r['unit']) for r in rows}
+    added = 0
     for c in load_collections():
         slug, level = c['slug'], c.get('level', '')
         imgs = sorted(glob.glob(os.path.join(ROOT, slug, 'images', 'page-*.png')))
         for p in range(1, len(imgs) + 1):
+            key = (slug, 'page-%03d' % p)
+            if key in have:
+                continue
             rows.append({'collection': slug, 'unit': 'page-%03d' % p, 'source_type': 'pdf',
                          'status': 'pending', 'orientation': 'unknown', 'content_type': '',
                          'level': level, 'section': '', 'qa': 'pending', 'notes': ''})
-        if c.get('audio'):
+            added += 1
+        if c.get('audio') and (slug, 'listening') not in have:
             rows.append({'collection': slug, 'unit': 'listening', 'source_type': 'audio',
                          'status': 'pending', 'orientation': '', 'content_type': 'listening-audio',
                          'level': level, 'section': '', 'qa': 'pending', 'notes': ''})
+            added += 1
     write_rows(rows)
-    npdf = sum(1 for r in rows if r['source_type'] == 'pdf')
-    naud = sum(1 for r in rows if r['source_type'] == 'audio')
-    print('Initialized manifest-media.tsv with %d rows (%d pdf pages, %d audio).' % (len(rows), npdf, naud))
+    print('init: added %d new rows (%d total).' % (added, len(rows)))
 
 
 def dashboard():
