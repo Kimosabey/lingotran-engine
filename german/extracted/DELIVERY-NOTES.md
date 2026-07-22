@@ -31,6 +31,26 @@ Per book: Goethe A1 302 pp / 247 Q / 1,564 W (frozen) · Netzwerk Kursbuch 174 p
 > - Goyal — German for Young Learners A1: 104 pages · 803 questions · 118 words
 > - Goethe A1 exam practice (sent before): 302 pages · 247 questions · 1,564 words
 >
+> **Folder map (what is where):**
+> ```
+> 📁 (this folder)
+>  ├── START-HERE.md      ← read this first
+>  ├── README.md          ← what each column means
+>  ├── 📁 _combined       ← ALL books together (start here)
+>  │     german-a1-questions-all.csv    (2,584 questions)
+>  │     german-a1-vocabulary-all.csv   (3,751 words)
+>  │     german-a1-catalog-all.csv      (636 pages)
+>  │     + per-publisher files (netzwerk / goyal / goethe)
+>  ├── 📁 netzwerk        ← Netzwerk neu A1
+>  │     📁 netzwerk-a1-kursbuch/        (174 pages)
+>  │     📁 netzwerk-a1-test-booklet/    (56 pages)
+>  ├── 📁 goyal           ← Goyal young learners
+>  │     📁 goyal-a1-young-learners/     (104 pages)
+>  └── 📁 goethe          ← Goethe A1 exam set (7 books)
+> ```
+> Inside every book folder there are 4 files: `-questions.csv`, `-vocabulary.csv`,
+> `-catalog.csv`, and the full book as `<book>.md`.
+>
 > **How to open it:**
 > 1. Read `START-HERE.md` first — it explains everything in simple steps.
 > 2. Want all questions together? Open `_combined/german-a1-questions-all.csv`.
@@ -68,6 +88,22 @@ twice so nothing is missing. Then I turned them into easy-to-use spreadsheets.
 - Goyal — German for Young Learners A1: 104 pages · 803 questions · 118 words
 
 (The Goethe A1 exam set from before — 302 pages — is in the same folder.)
+
+**Folder map (what is where)**
+```
+📁 (Drive folder)
+ ├── START-HERE.md      ← read this first
+ ├── README.md          ← what each column means
+ ├── 📁 _combined       ← ALL books together (start here)
+ │     german-a1-questions-all.csv   (2,584 questions)
+ │     german-a1-vocabulary-all.csv  (3,751 words)
+ │     german-a1-catalog-all.csv     (636 pages)
+ ├── 📁 netzwerk         netzwerk-a1-kursbuch/ · netzwerk-a1-test-booklet/
+ ├── 📁 goyal            goyal-a1-young-learners/
+ └── 📁 goethe           Goethe A1 exam set (7 books)
+```
+Each book folder has 4 files: `-questions.csv`, `-vocabulary.csv`, `-catalog.csv`,
+and the full book as `<book>.md`.
 
 **How to use it**
 1. Open `START-HERE.md` — it explains everything step by step.
