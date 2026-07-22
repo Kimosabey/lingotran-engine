@@ -9,8 +9,8 @@ window.LT = (function () {
 
   /* ---- Deployment ------------------------------------------------------ */
   // ▸ Paste your live Netlify URL here (replaces the placeholder in the topbar badge).
-  const NETLIFY_URL = "https://Lingotran-engine.netlify.app";
-  const REPO_URL = "https://github.com/Kimosabey/Lingotran-engine";
+  const NETLIFY_URL = "https://lingotran-engine.netlify.app";
+  const REPO_URL = "https://github.com/Kimosabey/lingotran-engine";
 
   /* ---- Engine ---------------------------------------------------------- */
   const engine = {
