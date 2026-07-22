@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EXTRACTION-WORKFLOW.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> or <div class="page"></div> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1>How the German A1 extraction was done</h1>
+<p>The end-to-end process that turned <strong>10 source documents</strong> — 7 official
+Goethe-Institut exam PDFs <strong>and 3 scanned A1 textbooks</strong> — into a verified,
+queryable learning corpus. Written so it can be <strong>repeated for another PDF set or
+another language</strong> without rediscovering anything. The pipeline is
+<strong>publisher-agnostic</strong>: a new book is one entry in <code>collections.json</code>, no code change.</p>
+<hr />
+<h2>1. What went in / what came out</h2>
+<p><strong>In (10 collections):</strong>
+- <strong>Goethe-Zertifikat A1</strong> — 7 official, free practice PDFs from goethe.de
+  (Start Deutsch 1 ×4, Fit in Deutsch 1 ×3). <em>Delivered earlier and now </em><em>frozen</em><em>.</em>
+- <strong>Netzwerk neu A1</strong> (Klett) — <strong>Kursbuch</strong> (174 pp) + chapterwise <strong>Test Booklet</strong> (56 pp), scanned.
+- <strong>German for Young Learners A1</strong> (Goyal) — 104 pp, scanned.</p>
+<p>All source PDFs/audio downloaded manually, kept <strong>gitignored</strong>.</p>
+<p><strong>Out:</strong>
+- <strong>636 pages</strong> transcribed verbatim + QA-verified (<strong>100%</strong>, zero data loss)
+- <strong>2,584 exam/exercise questions</strong> (options + correct answer where a key exists)
+- <strong>3,751 vocabulary words</strong> (article · plural · word-class · example)
+- 10 unified documents + per-collection / per-publisher / global filterable sheets
+- a packaged, publisher-grouped <strong><code>_exports/</code></strong> delivery tree (see Layer 13)</p>
+<p>Per book: Goethe 302 pp / 247 Q / 1,564 W · Netzwerk Kursbuch 174 pp / 1,119 Q /
+1,971 W · Netzwerk Test Booklet 56 pp / 415 Q / 98 W · Goyal 104 pp / 803 Q / 118 W.</p>
+<hr />
+<h2>2. Design principles</h2>
+<table>
+<thead>
+<tr>
+<th>Principle</th>
+<th>How it shows up</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Zero data loss</strong></td>
+<td>Transcription is verbatim (German spelling/umlauts/ß exact); nothing summarised; illegible text marked, never dropped</td>
+</tr>
+<tr>
+<td><strong>Adversarial verification</strong></td>
+<td>A second, independent pass hunts for omissions; it never edits — it only judges</td>
+</tr>
+<tr>
+<td><strong>Self-healing</strong></td>
+<td>Failed pages go to a repair pass, then get re-verified</td>
+</tr>
+<tr>
+<td><strong>Resumable from disk truth</strong></td>
+<td>Every page/chunk is written atomically; pending work is recomputed from what's on disk, so account switches / limits / outages never lose or double work</td>
+</tr>
+<tr>
+<td><strong>Publisher-agnostic</strong></td>
+<td>Nothing is hardcoded to a publisher; <code>family</code>/<code>title</code>/<code>source_note</code> come from <code>collections.json</code></td>
+</tr>
+<tr>
+<td><strong>Frozen deliverables</strong></td>
+<td>A collection marked <code>"frozen": true</code> (the delivered Goethe set) is never re-extracted or rewritten; exporters skip it and only <em>read</em> its combined sheets</td>
+</tr>
+<tr>
+<td><strong>Isolation</strong></td>
+<td>German owns its <code>_tools/</code>; French and <code>german/web/</code> are never touched</td>
+</tr>
+<tr>
+<td><strong>Config over code</strong></td>
+<td>Adding a book = one entry in <code>collections.json</code></td>
+</tr>
+<tr>
+<td><strong>Local where possible</strong></td>
+<td>Rasterising, manifests, sheets, packaging are plain Python; LLM only where judgement is required</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>3. The pipeline</h2>
+<pre><code> source PDF (german/pdf/…)
+      │  pdf_to_images.py  ── PyMuPDF, 300 DPI
+      ▼
+ &lt;collection&gt;/images/page-NNN.png          (gitignored — regenerable)
+      │
+      │  vision transcription — 3 stages, per page:
+      │     ① Transcribe  reads the page image, self-corrects orientation
+      │                   (rotate.py), zooms fine print (zoom.py), writes
+      │                   verbatim Markdown + frontmatter
+      │     ② QA          independent pass re-reads image vs. transcription,
+      │                   adversarially hunts omissions → _qa/page-NNN.json
+      │     ③ Repair      only if QA failed: fix every issue, then re-verify
+      ▼
+ &lt;collection&gt;/pages/page-NNN.md  +  pages/_qa/page-NNN.json
+      │  manifest_media.py qa-apply → folds verdicts into frontmatter + manifest
+      ▼
+ ┌──────────────────────── enrichment passes ────────────────────────┐
+ │  classify   → activity_type · topic · one-line summary             │
+ │  questions  → per-item question · options · correct answer         │
+ │               (cross-referenced against the Lösungen when present) │
+ │  vocabulary → word · article · plural · word_class · example       │
+ └────────────────────────────────────────────────────────────────────┘
+      │  merge_enrich.py (chunks → _class.json/_questions.json)
+      │  catalog.py · questions.py · vocabulary.py · merge_all.py  (plain Python)
+      ▼
+ unified &lt;collection&gt;.md  +  *-catalog/-questions/-vocabulary.csv
+   +  per-family &lt;publisher&gt;-a1-*-all.csv  +  global german-a1-*-all.csv
+      │  package_exports.py
+      ▼
+ _exports/  (publisher-grouped delivery tree — the folder you ship)
+</code></pre>
+<h3>Two execution engines (same logic)</h3>
+<p>The vision + enrichment work is <strong>judgement work done by Claude</strong>. It can run two ways:</p>
+<ul>
+<li><strong>Workflow tool</strong> (<code>*.workflow.js</code>, the original engine) — deterministic
+  fan-out/pipeline orchestration, JSON-Schema structured output. Used for the Goethe set.</li>
+<li><strong>Agent-loop fallback</strong> — when the Workflow tool is unavailable, the <em>same</em>
+  procedures live as Markdown playbooks in <code>_tools/</code> (<code>agent_transcribe.md</code>,
+  <code>agent_enrich.md</code>, <code>agent_vocab.md</code>) and are driven by per-range subagents.
+  Used for the 3 textbooks. Because every page/chunk is written atomically and
+  pending work is recomputed from disk, this survived <strong>multiple account switches,
+  a 529-overload storm and credit resets with zero loss</strong> — the run simply
+  re-derives the gap set and continues.</li>
+</ul>
+<h3>Layer by layer</h3>
+<p><strong>Layer 0 — Source acquisition</strong> · manual · <em>no tool.</em> Download PDFs/audio into
+<code>german/pdf/…</code>. Raw binaries, <strong>gitignored</strong> (regenerable from the public source, large).</p>
+<p><strong>Layer 1 — Rasterisation</strong> · <code>pdf_to_images.py</code> · <strong>local.</strong> <code>source.pdf</code> →
+<code>&lt;collection&gt;/images/page-NNN.png</code> at 300 DPI via PyMuPDF. The transcriber is a
+<strong>vision</strong> model — it needs pixels, not a text layer. Scans may be skewed/rotated.</p>
+<p><strong>Layer 2 — State seeding</strong> · <code>manifest_media.py init</code> · <strong>local.</strong> One row per
+page in <code>manifest-media.tsv</code> (<code>status: pending</code>) — the <strong>resume anchor</strong>. Idempotent.</p>
+<p><strong>Layer 3 — Vision transcription</strong> · ① · <strong>LLM (per page).</strong> Reads <code>page-NNN.png</code>
+→ <code>pages/page-NNN.md</code> (frontmatter + verbatim body). Self-corrects orientation,
+zooms unreadable regions, marks illegible text rather than dropping it, tags
+<code>content_type</code> and fixed <code>level: A1</code>.</p>
+<p><strong>Layer 4 — Adversarial QA</strong> · ② · <strong>LLM (per page).</strong> A <strong>separate</strong> read-only
+pass re-reads image <em>and</em> transcription, assuming an omission exists until every
+block is checked → <code>_qa/page-NNN.json</code> (<code>{ok, missing_count, issues[]}</code>).</p>
+<p><strong>Layer 5 — Repair</strong> · ③ · <strong>LLM (conditional).</strong> Runs only when QA failed; fixes
+each named issue, re-verifies, overwrites the verdict.</p>
+<p><strong>Layer 6 — Verdict folding</strong> · <code>manifest_media.py qa-apply</code> · <strong>local.</strong> Folds
+<code>_qa/*.json</code> into frontmatter (<code>status</code>, <code>qa</code>) and syncs the manifest.</p>
+<p><strong>Layer 7 — Unification</strong> · <code>catalog.py</code> · <strong>local.</strong> Concatenates every page into
+one <code>&lt;collection&gt;.md</code> and emits <code>&lt;collection&gt;-catalog.csv</code>. Sits before enrichment
+so the classify/questions passes read <strong>one</strong> file per collection, not dozens.</p>
+<p><strong>Layer 8 — Classification</strong> · <strong>LLM.</strong> <code>activity_type</code>, <code>topic</code>, one-line
+<code>summary</code> per page → <code>pages/_class.json</code> (via <code>_class/chunk-*.json</code> in the agent-loop).</p>
+<p><strong>Layer 9 — Question extraction</strong> · <strong>LLM.</strong> Every exercise/exam item →
+<code>pages/_questions.json</code>; <code>correct_answer</code> filled from the Lösungen where a key
+exists, <code>(open-ended)</code> for free writing/speaking, blank when only audio resolves it.</p>
+<p><strong>Layer 10 — Vocabulary extraction</strong> · <strong>LLM (chunked).</strong> Wortliste/Wortschatz
+pages → <code>pages/_vocab/chunk-*.json</code>. Chunked because dense lists (~800 entries)
+truncate a single agent. The Netzwerk A1 back-matter Wortliste (A–Z) alone yielded ~2,080 entries.</p>
+<p><strong>Layer 11 — Merge sidecars</strong> · <code>merge_enrich.py</code> · <strong>local.</strong> Assembles the
+per-range <code>_class</code>/<code>_questions</code> chunks into the single <code>_class.json</code> /
+<code>_questions.json</code> the exporters read. (Vocabulary already reads chunks directly.)</p>
+<p><strong>Layer 12 — Export generation</strong> · <code>catalog.py</code> · <code>questions.py</code> · <code>vocabulary.py</code>
+· <code>merge_all.py</code> · <strong>local.</strong> Per-collection sheets + per-family
+<code>&lt;publisher&gt;-a1-*-all.csv</code> + global <code>german-a1-*-all.csv</code>. UTF-8 <strong>with BOM</strong> for
+Excel. <code>merge_all.py</code> builds the globals by concatenating the per-family sheets
+read-only, so the <strong>frozen Goethe files are never rewritten</strong>.</p>
+<p><strong>Layer 13 — Packaging</strong> · <code>package_exports.py</code> · <strong>local.</strong> Non-destructive copy
+into <code>_exports/</code> — <code>_combined/</code> roll-ups + <code>&lt;publisher&gt;/&lt;book&gt;/</code> folders + a
+README. This is the folder shipped to the content team / Drive.</p>
+<p><strong>Layer 14 — Dashboard</strong> · <code>manifest_media.py dashboard</code> · <strong>local.</strong> Regenerates
+<code>MANIFEST-MEDIA.md</code>. The public site (<code>site/</code>) reads its numbers from
+<code>site/assets/js/data.js</code>.</p>
+<p><strong>Cost shape:</strong> transcription (layers 3–5) is ~95% of the spend — one high-effort
+agent pair per page. Enrichment is text-only over the already-written <code>.md</code> (no
+vision) — much cheaper. Everything else is free/local, so iterating on <em>outputs</em>
+never re-incurs transcription cost.</p>
+<hr />
+<h2>4. Stack (zero new runtime dependencies)</h2>
+<table>
+<thead>
+<tr>
+<th>Job</th>
+<th>Tool</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PDF → page images</td>
+<td><strong>PyMuPDF (<code>fitz</code>)</strong></td>
+<td>Only rasteriser present; no poppler needed</td>
+</tr>
+<tr>
+<td>Rotate / zoom</td>
+<td><strong>Pillow</strong> (<code>rotate.py</code>, <code>zoom.py</code>)</td>
+<td>Generic image ops for orientation + fine print</td>
+</tr>
+<tr>
+<td>Vision transcription, QA, repair, enrichment</td>
+<td><strong>Claude</strong> — Workflow tool <em>or</em> Agent-loop playbooks</td>
+<td>Judgement work: reading scans, verifying, classifying</td>
+</tr>
+<tr>
+<td>Manifest, merge, sheets, packaging</td>
+<td><strong>plain Python</strong></td>
+<td>Deterministic, free, instant to re-run</td>
+</tr>
+<tr>
+<td>(audio, parked)</td>
+<td>faster-whisper + PyAV</td>
+<td>Local ASR; out of scope</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>5. The extraction passes</h2>
+<p>Each pass exists both as a Workflow script (<code>*.workflow.js</code>, <code>args.root</code>,
+JSON-Schema output) and as an Agent-loop playbook (<code>_tools/agent_*.md</code>) doing the
+identical job when the Workflow tool is unavailable.</p>
+<table>
+<thead>
+<tr>
+<th>Pass</th>
+<th>Granularity</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>transcribe</td>
+<td><strong>per page</strong></td>
+<td>3 stages; <code>effort: high</code>; the expensive vision pass</td>
+</tr>
+<tr>
+<td>classify</td>
+<td>per page (batched by range)</td>
+<td>activity_type · topic · summary</td>
+</tr>
+<tr>
+<td>questions</td>
+<td>per page (batched by range)</td>
+<td>granular per-item; reads any Lösungen in-book</td>
+</tr>
+<tr>
+<td>vocabulary</td>
+<td><strong>per ~5-page chunk</strong></td>
+<td>chunked because word lists are dense</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Why granularity differs:</strong> transcription is an independent vision task per page.
+Classification/questions are cheap text reads batched ~18 pages per agent.
+Vocabulary is chunked so dense A–Z lists don't truncate.</p>
+<hr />
+<h2>6. Runbook (repeat this for a new book)</h2>
+<pre><code class="language-bash"># 0. register the source — the only config step
+#    edit _tools/collections.json: add {slug, family, publisher, level, title,
+#    source_note, pdf, audio, frozen:false}
+
+cd german/extracted
+
+python _tools/pdf_to_images.py &lt;slug&gt;        # 1. rasterise → page images
+python _tools/manifest_media.py init         # 2. seed resume state (idempotent)
+
+# 3. transcribe + QA + repair — Workflow tool (transcribe_pdf.workflow.js) OR
+#    Agent-loop: per-range subagents following _tools/agent_transcribe.md
+python _tools/manifest_media.py qa-apply     # 4. fold verdicts → frontmatter + manifest
+python _tools/catalog.py &lt;slug&gt;              # 5. unified .md + catalog (before enrichment)
+
+# 6. enrichment — Workflow tool OR Agent-loop (_tools/agent_enrich.md, agent_vocab.md):
+#      classify + questions → pages/_class/ , _questions/ chunks
+#      vocabulary           → pages/_vocab/chunk-*.json  (word-list pages only)
+python _tools/merge_enrich.py &lt;slug&gt;         # chunks → _class.json / _questions.json
+
+# 7. regenerate every deliverable
+python _tools/catalog.py &lt;slug&gt;
+python _tools/questions.py &lt;slug&gt;
+python _tools/vocabulary.py &lt;slug&gt;
+python _tools/merge_all.py                   # refresh global german-a1-*-all.csv
+python _tools/package_exports.py             # rebuild the _exports/ delivery tree
+python _tools/manifest_media.py dashboard
+</code></pre>
+<p>Only step 3 (and, lighter, step 6) costs tokens; everything else is free/local.
+<strong>Never run a bare <code>--all</code></strong> on the exporters if it would touch a <code>frozen</code>
+collection — pass explicit slugs (frozen ones are skipped anyway).</p>
+<hr />
+<h2>7. Verification performed</h2>
+<ul>
+<li><strong>Per page:</strong> adversarial QA → <code>_qa/page-NNN.json</code>. Result: <strong>636/636 verified,
+  zero data loss</strong> across all 10 collections. The final gate re-scans every page
+  1..N in each book and re-queues anything missing/failed until the pending set is empty.</li>
+<li><strong>Two source-limited pages</strong> (Goyal p13, p16): all <em>printed</em> textbook content is
+  fully transcribed; a <strong>previous student's erased pencil answers</strong> are partly
+  illegible — best-guessed and flagged inline (documented in the QA sidecar), not
+  silently dropped. Not published material.</li>
+<li><strong>CSV integrity:</strong> all deliverable CSVs checked for BOM + zero ragged rows;
+  umlauts asserted to survive round-trip (<code>Dreißig</code>, <code>Fünfundneunzig</code>, <code>möchten</code>).</li>
+<li><strong>Goethe frozen:</strong> <code>git diff</code> confirmed <strong>no</strong> <code>goethe-a1-*</code> <code>.md</code>/<code>.csv</code>
+  artifact changed since delivery.</li>
+<li><strong>Isolation:</strong> French, <code>german/web/</code>, and the web <code>manifest.tsv</code> never modified.</li>
+</ul>
+<hr />
+<h2>8. Gotchas worth remembering</h2>
+<ol>
+<li><strong>Resume from disk truth, not from agent reports.</strong> Agents die on limits/outages
+   mid-write; recompute the pending set by globbing what's actually on disk (both
+   <code>page-NNN.md</code> <strong>and</strong> <code>_qa/page-NNN.json</code>, valid JSON) and re-run only the gaps.</li>
+<li><strong>A failed agent may still have written its output</strong> — and a killed one may have
+   written it in its final step. Always re-check disk before re-running.</li>
+<li><strong>Atomic per-item writes make everything survivable.</strong> Multiple account switches,
+   a 529-overload storm and a credit reset cost zero data because each page/chunk
+   is one self-contained file.</li>
+<li><strong>Concurrency cap is 20 subagents</strong> — launch in waves and refill as slots free.</li>
+<li><strong>Chunk dense extractions.</strong> One agent per ~800-entry word list truncates;
+   ~5 pages per agent is reliable.</li>
+<li><strong>Generate the unified <code>.md</code> / enrich from text before vision isn't needed</strong> —
+   classify/questions read the already-written <code>.md</code> (no image), which is cheap.</li>
+<li><strong>Excel needs the BOM.</strong> Plain UTF-8 CSV shows mojibake on double-click in Windows.</li>
+<li><strong>A <code>**/</code> inside a <code>/** */</code> block comment closes it early</strong> — avoid glob patterns there.</li>
+<li><strong>Keep delivered outputs frozen</strong> via a <code>collections.json</code> flag; build globals by
+   <em>merging</em> per-family sheets read-only, never a blanket regenerate.</li>
+</ol>
+<hr />
+<h2>9. Not included</h2>
+<ul>
+<li><strong>Audio/listening transcripts</strong> — deliberately out of scope (one sample exists).</li>
+<li><strong>Topic/activity taxonomies are LLM-assigned</strong>, not from the source documents;
+  they're navigation aids, not official metadata.</li>
+<li><strong>Open-ended Schreiben/Sprechen items have no correct answer</strong> — no official key
+  exists for them; they carry <code>(open-ended)</code>. Items resolvable only from audio
+  carry a blank <code>correct_answer</code>.</li>
+</ul>
+
+</body>
+</html>
