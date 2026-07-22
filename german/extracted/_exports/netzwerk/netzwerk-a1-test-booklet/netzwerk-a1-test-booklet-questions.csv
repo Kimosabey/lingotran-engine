@@ -1,0 +1,416 @@
+﻿collection,section,teil,item,item_type,question,option_a,option_b,option_c,correct_answer,topic,source_page
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Danke, sehr gut!",Guten Morgen.,,a,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 2,1,true-false,Der Mann heißt Boris Schmidt.,Richtig,Falsch,,Falsch,personal-info,006
+netzwerk-a1-test-booklet,,Übung 3,1,fill-in,○ ___ ist das? ● Das ist Viktoria Kurz.,,,,Wer,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Ich bin Niklas.,"Auch gut, danke.",,b,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 2,2,true-false,Er kommt aus der Schweiz.,Richtig,Falsch,,Falsch,personal-info,006
+netzwerk-a1-test-booklet,,Übung 3,2,fill-in,"○ ___ Sprachen spricht sie? ● Spanisch, Englisch und Deutsch.",,,,Welche,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Tschüs! Bis bald!,Entschuldigung!,,a,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 2,3,true-false,Er wohnt in Salzburg.,Richtig,Falsch,,Richtig,personal-info,006
+netzwerk-a1-test-booklet,,Übung 3,3,fill-in,○ ___ kommt sie? ● Aus Deutschland.,,,,Woher,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Guten Morgen, Frau Weber!",Auf Wiedersehen!,,a,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 2,4,true-false,Er spricht Deutsch und Italienisch.,Richtig,Falsch,,Falsch,personal-info,006
+netzwerk-a1-test-booklet,,Übung 3,4,fill-in,○ ___ wohnt sie? ● In Frankfurt.,,,,Wo,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Danke, sehr gut.","Entschuldigung, wie heißen Sie?",,b,personal-info,006
+netzwerk-a1-test-booklet,hoeren,Übung 2,5,true-false,Er lernt Arabisch.,Richtig,Falsch,,Richtig,personal-info,006
+netzwerk-a1-test-booklet,,Übung 3,5,fill-in,○ Und er? ___ heißt er? ● Martin Berg.,,,,Wie,personal-info,006
+netzwerk-a1-test-booklet,,Übung 4,1,ordering,Schreiben Sie W-Fragen und Aussagesätze: Sie / wie / heißen / ?,,,,Wie heißen Sie?,personal-info,007
+netzwerk-a1-test-booklet,,Übung 5,1,fill-in,Das ___ Natalia. (sein),,,,ist,personal-info,007
+netzwerk-a1-test-booklet,vocabulary,Übung 6,1,fill-in,Land: Russland → Sprache: ___,,,,Russisch,personal-info,007
+netzwerk-a1-test-booklet,,Übung 4,2,ordering,Schreiben Sie W-Fragen und Aussagesätze: aus der Schweiz / ich / komme / .,,,,Ich komme aus der Schweiz.,personal-info,007
+netzwerk-a1-test-booklet,,Übung 5,2,fill-in,Sie ___ Englisch und Arabisch. (sprechen),,,,spricht/sprechen,personal-info,007
+netzwerk-a1-test-booklet,vocabulary,Übung 6,2,fill-in,Land: ___ → Sprache: Polnisch,,,,Polen,personal-info,007
+netzwerk-a1-test-booklet,,Übung 4,3,ordering,Schreiben Sie W-Fragen und Aussagesätze: kommst / du / woher / ?,,,,Woher kommst du?,personal-info,007
+netzwerk-a1-test-booklet,,Übung 5,3,fill-in,Wie ___ du? (heißen),,,,heißt,personal-info,007
+netzwerk-a1-test-booklet,vocabulary,Übung 6,3,fill-in,Land: Japan → Sprache: ___,,,,Japanisch,personal-info,007
+netzwerk-a1-test-booklet,,Übung 4,4,ordering,Schreiben Sie W-Fragen und Aussagesätze: ist / Luca Mendoza / mein Name / .,,,,Mein Name ist Luca Mendoza.,personal-info,007
+netzwerk-a1-test-booklet,,Übung 5,4,fill-in,Er ___ in der Schweiz. (wohnen),,,,wohnt,personal-info,007
+netzwerk-a1-test-booklet,vocabulary,Übung 6,4,fill-in,Land: Frankreich → Sprache: ___,,,,Französisch,personal-info,007
+netzwerk-a1-test-booklet,,Übung 4,5,ordering,Schreiben Sie W-Fragen und Aussagesätze: Sie / welche Sprachen / sprechen / ?,,,,Welche Sprachen sprechen Sie?,personal-info,007
+netzwerk-a1-test-booklet,,Übung 5,5,fill-in,Woher ___ Sie? (kommen),,,,kommen,personal-info,007
+netzwerk-a1-test-booklet,vocabulary,Übung 6,5,fill-in,Land: ___ → Sprache: Italienisch,,,,Italien,personal-info,007
+netzwerk-a1-test-booklet,lesen,Übung 7,1,short-answer,Lesen Sie und notieren Sie die Informationen. Saki Tanaka – Land: ___,,,,Japan,personal-info,008
+netzwerk-a1-test-booklet,schreiben,Übung 8,1,writing-task,Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Name,,,,(open-ended),personal-info,008
+netzwerk-a1-test-booklet,lesen,Übung 7,2,short-answer,Lesen Sie und notieren Sie die Informationen. Saki Tanaka – Stadt: ___,,,,Berlin,personal-info,008
+netzwerk-a1-test-booklet,schreiben,Übung 8,2,writing-task,Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Land,,,,(open-ended),personal-info,008
+netzwerk-a1-test-booklet,lesen,Übung 7,3,short-answer,Lesen Sie und notieren Sie die Informationen. Foto 2 – Name: ___,,,,Kateb Brahim,personal-info,008
+netzwerk-a1-test-booklet,schreiben,Übung 8,3,writing-task,Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Sprachen,,,,(open-ended),personal-info,008
+netzwerk-a1-test-booklet,lesen,Übung 7,4,short-answer,Lesen Sie und notieren Sie die Informationen. Kateb – Stadt: ___,,,,Paris,personal-info,008
+netzwerk-a1-test-booklet,schreiben,Übung 8,4,writing-task,Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Telefonnummer,,,,(open-ended),personal-info,008
+netzwerk-a1-test-booklet,lesen,Übung 7,5,short-answer,Lesen Sie und notieren Sie die Informationen. Kateb – Sprachen: ___,,,,"Arabisch, Französisch, Deutsch",personal-info,008
+netzwerk-a1-test-booklet,schreiben,Übung 8,5,writing-task,Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): E-Mail-Adresse,,,,(open-ended),personal-info,008
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,true-false,Cem und Elias spielen zusammen Fußball.,Richtig,Falsch,,Richtig,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 2,1,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0421 89 75 54,0421 89 74 45,,b,communication,009
+netzwerk-a1-test-booklet,vocabulary,Übung 3,1,multiple-choice,Was passt nicht? Streichen Sie durch: lesen – schwimmen – kochen – arbeiten,,,,arbeiten,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,true-false,Paula hat am Montag frei.,Richtig,Falsch,,Richtig,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 2,2,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0165 886 732 14,0156 887 632 14,,b,communication,009
+netzwerk-a1-test-booklet,vocabulary,Übung 3,2,multiple-choice,Was passt nicht? Streichen Sie durch: die Ärztin – die Freundin – die Ingenieurin – die Journalistin,,,,die Freundin,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,true-false,Lena ist Studentin.,Richtig,Falsch,,Richtig,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 2,3,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,030 787 65 42,030 786 75 42,,a,communication,009
+netzwerk-a1-test-booklet,vocabulary,Übung 3,3,multiple-choice,Was passt nicht? Streichen Sie durch: der Wohnort – der Club – das Geburtsdatum – die Straße,,,,der Club,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,true-false,Herr Wenzel ist Journalist.,Richtig,Falsch,,Falsch,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 2,4,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,07171 88 34 01,01717 88 34 01,,a,communication,009
+netzwerk-a1-test-booklet,vocabulary,Übung 3,4,multiple-choice,Was passt nicht? Streichen Sie durch: der Mittwoch – der Dienstag – der Donnerstag – das Wochenende,,,,das Wochenende,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,true-false,Anna Schulte ist Ärztin.,Richtig,Falsch,,Falsch,profession,009
+netzwerk-a1-test-booklet,hoeren,Übung 2,5,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0221 16 20 137,0221 16 20 173,,a,communication,009
+netzwerk-a1-test-booklet,vocabulary,Übung 3,5,multiple-choice,Was passt nicht? Streichen Sie durch: das Krankenhaus – das Theater – das Kino – das Museum,,,,das Krankenhaus,profession,009
+netzwerk-a1-test-booklet,,Übung 4,1,ordering,Schreiben Sie Ja-/Nein-Fragen: Studenten / ihr / seid / ?,,,,Seid ihr Studenten?,profession,010
+netzwerk-a1-test-booklet,,Übung 5,1,fill-in,___ (sein) du Polizistin?,,,,Bist,profession,010
+netzwerk-a1-test-booklet,vocabulary,Übung 6,1,fill-in,Ergänzen Sie Artikel und Pluralform: Foto,,,,das Foto – die Fotos,profession,010
+netzwerk-a1-test-booklet,,Übung 4,2,ordering,Schreiben Sie Ja-/Nein-Fragen: singt / gut / Julia / ?,,,,Singt Julia gut?,profession,010
+netzwerk-a1-test-booklet,,Übung 5,2,fill-in,Sara ___ (lesen) sehr gern.,,,,liest,profession,010
+netzwerk-a1-test-booklet,vocabulary,Übung 6,2,fill-in,Ergänzen Sie Artikel und Pluralform: Buch,,,,das Buch – die Bücher,profession,010
+netzwerk-a1-test-booklet,,Übung 4,3,ordering,Schreiben Sie Ja-/Nein-Fragen: wir / am Samstag / ins Museum / gehen / ?,,,,Gehen wir am Samstag ins Museum?,profession,010
+netzwerk-a1-test-booklet,,Übung 5,3,fill-in,___ (haben) er am Wochenende frei?,,,,Hat,profession,010
+netzwerk-a1-test-booklet,vocabulary,Übung 6,3,fill-in,Ergänzen Sie Artikel und Pluralform: Stunde,,,,die Stunde – die Stunden,profession,010
+netzwerk-a1-test-booklet,,Übung 4,4,ordering,Schreiben Sie Ja-/Nein-Fragen: morgen / Sie / arbeiten / ?,,,,Arbeitet sie morgen? / Arbeiten Sie morgen?,profession,010
+netzwerk-a1-test-booklet,,Übung 5,4,fill-in,Wo ___ (arbeiten) ihr?,,,,arbeitet,profession,010
+netzwerk-a1-test-booklet,vocabulary,Übung 6,4,fill-in,Ergänzen Sie Artikel und Pluralform: Lehrer,,,,der Lehrer – die Lehrer,profession,010
+netzwerk-a1-test-booklet,,Übung 4,5,ordering,Schreiben Sie Ja-/Nein-Fragen: am Sonntag / Fußball / spielt / er / ?,,,,Spielt er am Sonntag Fußball?,profession,010
+netzwerk-a1-test-booklet,,Übung 5,5,fill-in,Wir ___ (sprechen) gut Französisch.,,,,sprechen,profession,010
+netzwerk-a1-test-booklet,vocabulary,Übung 6,5,fill-in,Ergänzen Sie Artikel und Pluralform: Tag,,,,der Tag – die Tage,profession,010
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,writing-task,Füllen Sie das Anmeldeformular (Yogakurs) aus: Vorname,,,,(open-ended),personal-info,011
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,"Sprechen Sie: Wer sind Sie? (Name, Alter, Land, Wohnort, Sprachen, Beruf, Hobby)",,,,(open-ended),personal-info,011
+netzwerk-a1-test-booklet,schreiben,Übung 7,2,writing-task,Füllen Sie das Anmeldeformular (Yogakurs) aus: Nachname,,,,(open-ended),personal-info,011
+netzwerk-a1-test-booklet,schreiben,Übung 7,3,writing-task,Füllen Sie das Anmeldeformular (Yogakurs) aus: Geburtsdatum,,,,(open-ended),personal-info,011
+netzwerk-a1-test-booklet,schreiben,Übung 7,4,writing-task,"Füllen Sie das Anmeldeformular (Yogakurs) aus: Straße, Hausnummer",,,,(open-ended),personal-info,011
+netzwerk-a1-test-booklet,schreiben,Übung 7,5,writing-task,"Füllen Sie das Anmeldeformular (Yogakurs) aus: Postleitzahl, Wohnort",,,,(open-ended),personal-info,011
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,short-answer,Hören Sie und notieren Sie: Was: ins ___ gehen,,,,Kino,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 2,1,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Das ist keine Kirche.,Gehen Sie geradeaus und dann rechts.,,b,city-places,012
+netzwerk-a1-test-booklet,lesen,Übung 3,1,fill-in,"Ich bin im Sommer gern am ___, da fahren viele Schiffe.",,,,Hafen,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,short-answer,Hören Sie und notieren Sie: Wann: am ___,,,,Freitag,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 2,2,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Am Sonntag.,Ich habe kein Ticket.,,a,city-places,012
+netzwerk-a1-test-booklet,lesen,Übung 3,2,fill-in,Ich ___ die Elbphilharmonie sehr gern.,,,,fotografiere,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,short-answer,Hören Sie und notieren Sie: Wo: im ___,,,,Park/Sommerkino,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 2,3,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Das ist ein Fluss.,"Ja, das ist ein Fluss.",,a,city-places,012
+netzwerk-a1-test-booklet,lesen,Übung 3,3,fill-in,Im September und ___ ist das Filmfest.,,,,Oktober,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,short-answer,Hören Sie und notieren Sie: Wie: U-Bahn und dann ___,,,,zu Fuß,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 2,4,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Ja, das ist ein Festival.","Nein, das sind keine Konzertkarten.",,b,city-places,012
+netzwerk-a1-test-booklet,lesen,Übung 3,4,fill-in,Da gibt es über 100 ___.,,,,Filme,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,short-answer,Hören Sie und notieren Sie: Telefonnummer: ___,,,,4879983,city-places,012
+netzwerk-a1-test-booklet,hoeren,Übung 2,5,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Ja, sehr gern.","Ja, das ist ein See.",,a,city-places,012
+netzwerk-a1-test-booklet,lesen,Übung 3,5,fill-in,Das ist einfach super und sehr ___.,,,,interessant,city-places,012
+netzwerk-a1-test-booklet,vocabulary,Übung 4,1,fill-in,Ergänzen Sie (Lösungswort-Rätsel): 250 km/h. Der Zug fährt sehr …,,,,schnell,city-places,013
+netzwerk-a1-test-booklet,,Übung 5,1,fill-in,○ Was ist das? ● Das ist ___ Kirche.,,,,eine,city-places,013
+netzwerk-a1-test-booklet,,Übung 6,1,short-answer,"Schreiben Sie im Imperativ: Entschuldigung, wo ist die U-Bahn? (gehen ↑, dann →)",,,,Gehen Sie geradeaus und dann rechts.,city-places,013
+netzwerk-a1-test-booklet,vocabulary,Übung 4,2,fill-in,Ergänzen Sie (Lösungswort-Rätsel): Der Turm vom Rathaus ist 112 Meter …,,,,hoch,city-places,013
+netzwerk-a1-test-booklet,,Übung 5,2,fill-in,"○ Ist das eine Konzertkarte? ● Nein, das ist ___ Konzertkarte. Ich gehe ins Kino.",,,,keine,city-places,013
+netzwerk-a1-test-booklet,,Übung 6,2,short-answer,"Schreiben Sie im Imperativ: Wo ist der Markt, bitte? (fahren →, dann ←)",,,,Fahren Sie rechts und dann links.,city-places,013
+netzwerk-a1-test-booklet,vocabulary,Übung 4,3,fill-in,Ergänzen Sie (Lösungswort-Rätsel): Die Häuser sind über 400 Jahre …,,,,alt,city-places,013
+netzwerk-a1-test-booklet,,Übung 5,3,fill-in,○ Was ist das? ● Das ist ein Markt. ___ Markt heißt Viktualienmarkt.,,,,Der,city-places,013
+netzwerk-a1-test-booklet,,Übung 6,3,short-answer,"Schreiben Sie im Imperativ: Entschuldigung, wo ist das Kino? (gehen →, dann ↑)",,,,Gehen Sie rechts und dann geradeaus.,city-places,013
+netzwerk-a1-test-booklet,vocabulary,Übung 4,4,fill-in,Ergänzen Sie (Lösungswort-Rätsel): Das Rathaus ist 111 Meter …,,,,breit,city-places,013
+netzwerk-a1-test-booklet,,Übung 5,4,fill-in,○ Wie heißt der See? ● Das ist ___ See. Das ist ein Fluss.,,,,kein,city-places,013
+netzwerk-a1-test-booklet,,Übung 6,4,short-answer,"Schreiben Sie im Imperativ: Wo ist bitte die Kirche? (fahren ↑, dann ←)",,,,Fahren Sie geradeaus und dann links.,city-places,013
+netzwerk-a1-test-booklet,vocabulary,Übung 4,5,fill-in,"Ergänzen Sie (Lösungswort-Rätsel): Die Köhlbrandbrücke ist 17,6 Meter breit und 3,6 Kilometer …",,,,lang,city-places,013
+netzwerk-a1-test-booklet,,Übung 5,5,fill-in,"○ Ist Berlin schön? ● Ja, ___ Stadt ist einfach toll.",,,,die,city-places,013
+netzwerk-a1-test-booklet,,Übung 6,5,short-answer,"Schreiben Sie im Imperativ: Wo fährt der Bus? (gehen ←, dann ↑)",,,,Gehen Sie links und dann geradeaus.,city-places,013
+netzwerk-a1-test-booklet,vocabulary,Übung 4,Lösung,short-answer,Wie heißt das Lösungswort?,,,,das Hotel,city-places,013
+netzwerk-a1-test-booklet,vocabulary,Übung 7,1,short-answer,Schreiben Sie das Wort mit Artikel: Bild 1: U-Bahn,,,,die U-Bahn,city-places,014
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,"Sie sind am Hafen. Fragen Sie nach den Orten (Hotel, Park, Bahnhof, U-Bahn) und antworten Sie mit Wegbeschreibungen.",,,,(open-ended),city-places,014
+netzwerk-a1-test-booklet,vocabulary,Übung 7,2,short-answer,Schreiben Sie das Wort mit Artikel: Bild 2: Schiff,,,,das Schiff,city-places,014
+netzwerk-a1-test-booklet,vocabulary,Übung 7,3,short-answer,Schreiben Sie das Wort mit Artikel: Bild 3: Straßenbahn,,,,die Straßenbahn,city-places,014
+netzwerk-a1-test-booklet,vocabulary,Übung 7,4,short-answer,Schreiben Sie das Wort mit Artikel: Bild 4: Bus,,,,der Bus,city-places,014
+netzwerk-a1-test-booklet,vocabulary,Übung 7,5,short-answer,Schreiben Sie das Wort mit Artikel: Bild 5: Fahrrad,,,,das Fahrrad,city-places,014
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,multiple-choice,Was kosten die drei Limonaden?,"2,30 €.","6,60 €.","6,90 €.",c,food,015
+netzwerk-a1-test-booklet,vocabulary,Übung 2,1,multiple-choice,Was passt nicht? Streichen Sie durch: die Gurke – die Tomate – die Zwiebel – die Schokolade,,,,die Schokolade,food,015
+netzwerk-a1-test-booklet,,Übung 3,1,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: (1) ___ Tomaten brauche ich für die Nudeln.,,,,Die,food,015
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,multiple-choice,Was isst die Frau?,Suppe.,Fisch.,Salat.,c,food,015
+netzwerk-a1-test-booklet,vocabulary,Übung 2,2,multiple-choice,Was passt nicht? Streichen Sie durch: die Flasche – das Gramm – die Packung – die Dose,,,,das Gramm,food,015
+netzwerk-a1-test-booklet,,Übung 3,2,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Ich mache noch (2) ___ Suppe.,,,,eine,food,015
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,multiple-choice,Was braucht der Mann?,Eine Tüte.,Den Kassenzettel.,Orangen.,a,food,015
+netzwerk-a1-test-booklet,vocabulary,Übung 2,3,multiple-choice,Was passt nicht? Streichen Sie durch: der Apfel – der Salat – die Birne – die Banane,,,,der Salat,food,015
+netzwerk-a1-test-booklet,,Übung 3,3,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Und (3) ___ Kuchen essen wir später zum Kaffee.,,,,den,food,015
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,multiple-choice,Wo kauft Lilli das Brot?,Im Supermarkt.,Auf dem Markt.,In der Bäckerei.,c,food,015
+netzwerk-a1-test-booklet,vocabulary,Übung 2,4,multiple-choice,Was passt nicht? Streichen Sie durch: das Brot – die Butter – das Brötchen – der Kuchen,,,,die Butter,food,015
+netzwerk-a1-test-booklet,,Übung 3,4,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Hast du auch (4) ___ Tee?,,,,einen,food,015
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,multiple-choice,Wie viel Schinken kauft Herr Anvers?,100 Gramm.,150 Gramm.,200 Gramm.,c,food,015
+netzwerk-a1-test-booklet,vocabulary,Übung 2,5,multiple-choice,Was passt nicht? Streichen Sie durch: die Cola – der/das Joghurt – der Käse – die Milch,,,,die Cola,food,015
+netzwerk-a1-test-booklet,,Übung 3,5,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Ich trinke so spät (5) ___ Kaffee.,,,,keinen,food,015
+netzwerk-a1-test-booklet,lesen,Übung 4,1,true-false,Ela mag den Kartoffelsalat von Tina.,Richtig,Falsch,,Richtig,food,016
+netzwerk-a1-test-booklet,lesen,Übung 5,1,short-answer,Beantworten Sie mit ganzen Sätzen: Wo arbeitet er?,,,,Er arbeitet im Restaurant Villa.,profession,016
+netzwerk-a1-test-booklet,lesen,Übung 4,2,true-false,Kathrin und Diego gehen am Freitag einkaufen.,Richtig,Falsch,,Richtig,food,016
+netzwerk-a1-test-booklet,lesen,Übung 5,2,short-answer,Beantworten Sie mit ganzen Sätzen: Wann arbeitet er?,,,,"Er arbeitet am Dienstag, Mittwoch, Donnerstag und am Wochenende.",profession,016
+netzwerk-a1-test-booklet,lesen,Übung 4,3,true-false,Ela macht einen Kuchen.,Richtig,Falsch,,Falsch,food,016
+netzwerk-a1-test-booklet,lesen,Übung 5,3,short-answer,Beantworten Sie mit ganzen Sätzen: Was kauft er?,,,,"Er kauft Gemüse, Fleisch und Wurst.",profession,016
+netzwerk-a1-test-booklet,lesen,Übung 4,4,true-false,Kathrin und Diego kommen am Samstag nicht.,Richtig,Falsch,,Falsch,food,016
+netzwerk-a1-test-booklet,lesen,Übung 5,4,short-answer,Beantworten Sie mit ganzen Sätzen: Wer macht die Desserts?,,,,Eine Kollegin macht die Desserts.,profession,016
+netzwerk-a1-test-booklet,lesen,Übung 4,5,true-false,Moritz macht Musik.,Richtig,Falsch,,Richtig,food,016
+netzwerk-a1-test-booklet,lesen,Übung 5,5,short-answer,Beantworten Sie mit ganzen Sätzen: Wie findet er den Beruf?,,,,Nino mag seine Arbeit.,profession,016
+netzwerk-a1-test-booklet,,Übung 6,1,fill-in,Ergänzen Sie (Position und Form beachten): ___ auch ein Stück Käse. (er / möchten),,,,Er möchte,food,017
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,writing-task,Was trinken Sie nicht gern?,,,,(open-ended),food,017
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,Nehmen Sie eine Karte zum Thema Essen und eine zum Thema Einkaufen und fragen Sie Ihren Partner / Ihre Partnerin.,,,,(open-ended),food,017
+netzwerk-a1-test-booklet,,Übung 6,2,fill-in,Ergänzen Sie (Position und Form beachten): Morgens ___ gern Apfelsaft. (meine Kinder / trinken),,,,trinken meine Kinder,food,017
+netzwerk-a1-test-booklet,schreiben,Übung 7,2,writing-task,Was essen Sie gern?,,,,(open-ended),food,017
+netzwerk-a1-test-booklet,,Übung 6,3,fill-in,"Ergänzen Sie (Position und Form beachten): ___ einen Salat, bitte. (ich / nehmen)",,,,Ich nehme,food,017
+netzwerk-a1-test-booklet,schreiben,Übung 7,3,writing-task,Was essen Sie nicht gern?,,,,(open-ended),food,017
+netzwerk-a1-test-booklet,,Übung 6,4,fill-in,Ergänzen Sie (Position und Form beachten): ___ noch Wasser? (ihr / möchten),,,,Möchtet ihr,food,017
+netzwerk-a1-test-booklet,schreiben,Übung 7,4,writing-task,Was essen Sie heute Abend?,,,,(open-ended),food,017
+netzwerk-a1-test-booklet,,Übung 6,5,fill-in,Ergänzen Sie (Position und Form beachten): Am Nachmittag ___ gern ein Stück Kuchen. (mein Mann / mögen),,,,mag mein Mann,food,017
+netzwerk-a1-test-booklet,schreiben,Übung 7,5,writing-task,Was kochen Sie gern?,,,,(open-ended),food,017
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,16:45 Uhr.,17:15 Uhr.,16:15 Uhr.,a,time-dates,018
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,18:00 Uhr.,18:30 Uhr.,17:30 Uhr.,c,time-dates,018
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,08:25 Uhr.,09:25 Uhr.,09:35 Uhr.,a,time-dates,018
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,12:35 Uhr.,11:35 Uhr.,11:25 Uhr.,b,time-dates,018
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,15:40 Uhr.,14:15 Uhr.,14:50 Uhr.,b,time-dates,018
+netzwerk-a1-test-booklet,hoeren,Übung 2,A,matching,Foto A (Leute betrachten ein Foto / Fotoalbum am Tisch) — Text Nr. ___,,,,2,daily-routine,018
+netzwerk-a1-test-booklet,hoeren,Übung 2,B,matching,Foto B (ältere Frau und junger Mann zeigen nach draußen) — Text Nr. ___,,,,1,daily-routine,018
+netzwerk-a1-test-booklet,hoeren,Übung 2,C,matching,Foto C (Frau und Mann kochen in der Küche) — Text Nr. ___,,,,5,daily-routine,018
+netzwerk-a1-test-booklet,hoeren,Übung 2,D,matching,Foto D (Frau und Mann sprechen auf einer Treppe) — Text Nr. ___,,,,3,daily-routine,018
+netzwerk-a1-test-booklet,hoeren,Übung 2,E,matching,Foto E (Mann und Frau kaufen Gemüse im Supermarkt) — Text Nr. ___,,,,(kein Text – Bild ist zu viel),daily-routine,018
+netzwerk-a1-test-booklet,hoeren,Übung 2,F,matching,Foto F (Mann im Auto reicht etwas über den Sitz) — Text Nr. ___,,,,4,daily-routine,018
+netzwerk-a1-test-booklet,lesen,Übung 3,1,multiple-choice,Welche Reaktion passt? Ich hätte gern einen Termin am Dienstag. Geht das?,"Nein, macht nichts.","Ja, da geht es um 10:30 Uhr.",,b,daily-routine,019
+netzwerk-a1-test-booklet,,Übung 4,1,fill-in,Ergänzen Sie den Possessivartikel: Mein Sohn und (1) ___ Freundin spielen Saxofon.,,,,seine/meine,family,019
+netzwerk-a1-test-booklet,,Übung 5,1,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: Noah / heute / bis 20 Uhr / arbeiten / müssen / .",,,,Heute muss Noah bis 20 Uhr arbeiten.,daily-routine,019
+netzwerk-a1-test-booklet,lesen,Übung 3,2,multiple-choice,Welche Reaktion passt? Können Sie am Freitag um 15:00 Uhr kommen?,"Nein, da kann ich leider nicht.",Bitte entschuldigen Sie.,,a,daily-routine,019
+netzwerk-a1-test-booklet,,Übung 4,2,fill-in,Ergänzen Sie den Possessivartikel: Die Kinder müssen (2) ___ Hausaufgaben machen.,,,,ihre,family,019
+netzwerk-a1-test-booklet,,Übung 5,2,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: meine Kinder / am Nachmittag / Hausaufgaben / machen / müssen / .",,,,Meine Kinder müssen am Nachmittag Hausaufgaben machen.,daily-routine,019
+netzwerk-a1-test-booklet,lesen,Übung 3,3,multiple-choice,Welche Reaktion passt? Wie spät ist es?,Um kurz vor vier.,Es ist Viertel vor vier.,,b,daily-routine,019
+netzwerk-a1-test-booklet,,Übung 4,3,fill-in,Ergänzen Sie den Possessivartikel: Kann (3) ___ Mann das nicht machen?,,,,dein,family,019
+netzwerk-a1-test-booklet,,Übung 5,3,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: ich / am Freitag / ins Kino / gehen / wollen / .",,,,Am Freitag will ich ins Kino gehen.,daily-routine,019
+netzwerk-a1-test-booklet,lesen,Übung 3,4,multiple-choice,Welche Reaktion passt? Was machst du morgen?,Ich muss arbeiten.,Halb sieben ist super.,,a,daily-routine,019
+netzwerk-a1-test-booklet,,Übung 4,4,fill-in,Ergänzen Sie den Possessivartikel: Wir treffen (4) ___ Freund Milan.,,,,unseren/seinen/meinen,family,019
+netzwerk-a1-test-booklet,,Übung 5,4,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: wir / morgen / nicht / tanzen / können / .",,,,Wir können morgen nicht tanzen.,daily-routine,019
+netzwerk-a1-test-booklet,lesen,Übung 3,5,multiple-choice,Welche Reaktion passt? Hast du am Wochenende Zeit?,"Nein, leider nicht.",Gute Idee!,,a,daily-routine,019
+netzwerk-a1-test-booklet,,Übung 4,5,fill-in,Ergänzen Sie den Possessivartikel: Da besuche ich (5) ___ Schwester.,,,,meine,family,019
+netzwerk-a1-test-booklet,,Übung 5,5,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: du / deine Familie / am Wochenende / besuchen / wollen / ?",,,,Willst du am Wochenende deine Familie besuchen?,daily-routine,019
+netzwerk-a1-test-booklet,lesen,Übung 6,1,true-false,Diego möchte Karin um halb vier treffen.,Richtig,Falsch,,Richtig,family,020
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,fill-in,was machst du heute Abend? Hast du (1) _______?,,,,Zeit,hobby,020
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,Wählen Sie ein Bild. Sie sind in der Situation des gewählten Bildes. Spielen Sie diese Situation mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner.,,,,(open-ended),mixed,020
+netzwerk-a1-test-booklet,lesen,Übung 6,2,true-false,Diego muss noch einen Kuchen kaufen.,Richtig,Falsch,,Falsch,family,020
+netzwerk-a1-test-booklet,schreiben,Übung 7,2,fill-in,Ich habe (2) _______ frei und kann lange schlafen.,,,,morgen,hobby,020
+netzwerk-a1-test-booklet,lesen,Übung 6,3,true-false,Paul möchte am Sonntag mit Basti frühstücken.,Richtig,Falsch,,Richtig,family,020
+netzwerk-a1-test-booklet,schreiben,Übung 7,3,fill-in,(3) _______ musst du heute arbeiten?,,,,Wie lange,hobby,020
+netzwerk-a1-test-booklet,lesen,Übung 6,4,true-false,Basti und Paul gehen zusammen einkaufen.,Richtig,Falsch,,Falsch,family,020
+netzwerk-a1-test-booklet,schreiben,Übung 7,4,fill-in,"Wir (4) _______ später, okay?",,,,telefonieren,hobby,020
+netzwerk-a1-test-booklet,lesen,Übung 6,5,true-false,Paul möchte ins Schwimmbad gehen.,Richtig,Falsch,,Falsch,family,020
+netzwerk-a1-test-booklet,schreiben,Übung 7,5,fill-in,Liebe (5) _______,,,,Grüße,hobby,020
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,fill-in,"Wann: am (1) _______,",,,,Freitag,hobby,021
+netzwerk-a1-test-booklet,vocabulary,Übung 2,1,short-answer,das Messer – die Gabel – der Löffel – das Glas,,,,das Glas,restaurant,021
+netzwerk-a1-test-booklet,,Übung 3,1,fill-in,Ist das Hähnchen auch für (1) _______?,,,,Sie,restaurant,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,10,fill-in,Telefonnummer Kati: (10) 0167 _______,,,,61447738,hobby,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,fill-in,"(2) _______ Oktober,",,,,18.,hobby,021
+netzwerk-a1-test-booklet,vocabulary,Übung 2,2,short-answer,bestellen – klettern – schwimmen – wandern,,,,bestellen,restaurant,021
+netzwerk-a1-test-booklet,,Übung 3,2,fill-in,"Theo, ist das Hähnchen für (2) _______?",,,,dich,restaurant,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,fill-in,um (3) _______ Uhr,,,,20,hobby,021
+netzwerk-a1-test-booklet,vocabulary,Übung 2,3,short-answer,die Speisekarte – die Bestellung – die Mail – die Rechnung,,,,die Mail,restaurant,021
+netzwerk-a1-test-booklet,,Übung 3,3,fill-in,"Marie, Theo, die sind für (3) _______, oder?",,,,euch,restaurant,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,fill-in,Wo: im (4) _______,,,,Kramladen,hobby,021
+netzwerk-a1-test-booklet,vocabulary,Übung 2,4,short-answer,gut – teuer – lecker – schön,,,,teuer,restaurant,021
+netzwerk-a1-test-booklet,,Übung 3,4,fill-in,"Ja, die sind für (4) _______. Danke!",,,,uns,restaurant,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,fill-in,Eintritt: (5) _______ € pro Person,,,,12,hobby,021
+netzwerk-a1-test-booklet,vocabulary,Übung 2,5,short-answer,die Limonade – das Trinkgeld – das Wasser – die Apfelsaftschorle,,,,das Trinkgeld,restaurant,021
+netzwerk-a1-test-booklet,,Übung 3,5,fill-in,Und was ist für (5) _______? Ich habe noch nichts.,,,,mich,restaurant,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,6,fill-in,Adresse: (6) _______gasse 14,,,,Leibniz,hobby,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,7,fill-in,Wie fahren: U-Bahn (7) _______,,,,2,hobby,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,8,fill-in,Wann treffen: um (8) _______ Uhr,,,,17:30,hobby,021
+netzwerk-a1-test-booklet,hoeren,Übung 1,9,fill-in,Geschenk: ein (9) _______,,,,Buch,hobby,021
+netzwerk-a1-test-booklet,,Übung 4,1,fill-in,Die Party _______ um 16 Uhr _______.,,,,fängt … an,hobby,022
+netzwerk-a1-test-booklet,,Übung 5,1,fill-in,Sofia (1) _______ da!,,,,war,hobby,022
+netzwerk-a1-test-booklet,lesen,Übung 6,1,true-false,Vor der Arztpraxis: Sie sind krank. Sie gehen in die Praterstraße 39.,Richtig,Falsch,,Richtig,city-places,022
+netzwerk-a1-test-booklet,,Übung 4,2,fill-in,"Anna _______ dich um 15:30 Uhr am Bahnhof _______, okay?",,,,holt … ab,hobby,022
+netzwerk-a1-test-booklet,,Übung 5,2,fill-in,"Wir (2) _______ im Park, im Kino und im Museum.",,,,waren,hobby,022
+netzwerk-a1-test-booklet,lesen,Übung 6,2,true-false,In der Bibliothek: Es ist Samstagabend. Sie können Bücher lesen.,Richtig,Falsch,,Falsch,city-places,022
+netzwerk-a1-test-booklet,,Übung 4,3,fill-in,Vielleicht _______ Jan und Marek auch zum Bahnhof _______.,,,,kommen … mit,hobby,022
+netzwerk-a1-test-booklet,,Übung 5,3,fill-in,Wir (3) _______ viel Spaß.,,,,hatten,hobby,022
+netzwerk-a1-test-booklet,lesen,Übung 6,3,true-false,"Im Kino: Ihre Tochter ist 12 Jahre alt. Sie bezahlt 7,50 €.",Richtig,Falsch,,Richtig,city-places,022
+netzwerk-a1-test-booklet,,Übung 4,4,fill-in,Susan _______ Getränke _______. Machst du einen Kuchen?,,,,bringt … mit,hobby,022
+netzwerk-a1-test-booklet,,Übung 5,4,fill-in,Und du? Wo (4) _______ du?,,,,warst,hobby,022
+netzwerk-a1-test-booklet,lesen,Übung 6,4,true-false,In der Sprachschule: Es ist Mittwochvormittag. Sie können ins Büro gehen.,Richtig,Falsch,,Richtig,city-places,022
+netzwerk-a1-test-booklet,,Übung 4,5,fill-in,Wollen wir morgen telefonieren? _______ du mich _______?,,,,Rufst … an,hobby,022
+netzwerk-a1-test-booklet,,Übung 5,5,fill-in,Ich (5) _______ leider keine Zeit.,,,,hatte,hobby,022
+netzwerk-a1-test-booklet,lesen,Übung 6,5,true-false,Im Sportclub: Sie sind im Sportclub. Sie können Yoga machen.,Richtig,Falsch,,Falsch,city-places,022
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,writing-task,Schreiben Sie eine Einladung. Sie haben Geburtstag und möchten feiern. Sie laden Ihren Freund Lennart ein. Warum schreiben Sie? Party: Wann und wo? Mitbringen: Was? Schreiben Sie ca. 30 Wörter mit Anrede und Gruß.,,,,(open-ended),hobby,023
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,"Machen Sie vier Verabredungen. Sie nehmen zwei Karten, Ihr Partner / Ihre Partnerin auch zwei. Zweimal fangen Sie an, zweimal Ihr Partner / Ihre Partnerin.",,,,(open-ended),hobby,023
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,multiple-choice,Wohin geht Felix später?,Ins Büro.,Zur Post.,Zur Bank.,Zur Bank.,profession,024
+netzwerk-a1-test-booklet,vocabulary,Übung 2,1,multiple-choice,das Mail-Programm öffnen und Mails lesen/anmachen,lesen,anmachen,,lesen,profession,024
+netzwerk-a1-test-booklet,,Übung 3,1,fill-in,(1) _______ Kundin in Berlin telefonieren,,,,mit der,profession,024
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,multiple-choice,Wann ist der Termin beim Chef?,Um 17 Uhr.,Um 13 Uhr.,Um 16 Uhr.,Um 16 Uhr.,profession,024
+netzwerk-a1-test-booklet,vocabulary,Übung 2,2,multiple-choice,eine Mail schreiben und an Lucie schicken/speichern,schicken,speichern,,schicken,profession,024
+netzwerk-a1-test-booklet,,Übung 3,2,fill-in,"(2) _______ Bäckerei gehen, Brötchen kaufen",,,,zur,profession,024
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,multiple-choice,Was trinkt Susa in der Pause?,Einen Kaffee.,Einen Tee.,Einen Saft.,Einen Tee.,profession,024
+netzwerk-a1-test-booklet,vocabulary,Übung 2,3,multiple-choice,die Datei zuerst öffnen/eingeben und dann den Text schreiben,öffnen,eingeben,,öffnen,profession,024
+netzwerk-a1-test-booklet,,Übung 3,3,fill-in,Besprechung (3) _______ Büro mit Aaron und Lucie,,,,im,profession,024
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,multiple-choice,Mit wem geht Philipp ins Kino?,Mit einer Kollegin.,Mit einer Freundin.,Mit seiner Schwester.,Mit einer Freundin.,profession,024
+netzwerk-a1-test-booklet,vocabulary,Übung 2,4,multiple-choice,den Drucker anmachen und den Text drucken/ausmachen,drucken,ausmachen,,drucken,profession,024
+netzwerk-a1-test-booklet,,Übung 3,4,fill-in,"nach Hause, Emma kommt (4) _______ Zahnarzt",,,,vom,profession,024
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,multiple-choice,Was mag Valentin?,Die Kollegen.,Die Kundengespräche.,Die Arbeitszeiten.,Die Kollegen.,profession,024
+netzwerk-a1-test-booklet,vocabulary,Übung 2,5,multiple-choice,den Computer am Ende ausmachen/hochfahren,ausmachen,hochfahren,,ausmachen,profession,024
+netzwerk-a1-test-booklet,,Übung 3,5,fill-in,Wichtig! Bücher und Computer (5) _______ Büro mitnehmen,,,,aus dem,profession,024
+netzwerk-a1-test-booklet,,Übung 4,1,fill-in,Ich fahre mit dem Fahrrad ins Büro _______ eine Kollegin nimmt mich im Auto mit.,,,,oder,profession,025
+netzwerk-a1-test-booklet,lesen,Übung 5,1,true-false,Info Bibliothek: Kann man die Anmeldung am Telefon machen?,JA,NEIN,,NEIN,profession,025
+netzwerk-a1-test-booklet,,Übung 4,2,fill-in,Das Team ist sehr nett _______ wir arbeiten sehr gut zusammen.,,,,und,profession,025
+netzwerk-a1-test-booklet,lesen,Übung 5,2,true-false,Computer-Klinik: Kann man einen Computer kaufen?,JA,NEIN,,NEIN,profession,025
+netzwerk-a1-test-booklet,,Übung 4,3,fill-in,"Die Präsentation war sehr interessant, _______ ich war leider so müde.",,,,aber,profession,025
+netzwerk-a1-test-booklet,lesen,Übung 5,3,true-false,Computer-Klinik: Kann man am Sonntag anrufen?,JA,NEIN,,JA,profession,025
+netzwerk-a1-test-booklet,,Übung 4,4,fill-in,In der Mittagspause gehe ich in ein Café _______ ich esse ein Brötchen im Büro.,,,,oder,profession,025
+netzwerk-a1-test-booklet,lesen,Übung 5,4,true-false,Praktikum im Büro: Arbeiten Sie im Praktikum allein?,JA,NEIN,,NEIN,profession,025
+netzwerk-a1-test-booklet,,Übung 4,5,fill-in,"Eigentlich arbeite ich am Freitag immer, _______ diese Woche habe ich frei.",,,,aber,profession,025
+netzwerk-a1-test-booklet,lesen,Übung 5,5,true-false,Praktikum im Büro: Können Sie das Praktikum im Winter machen?,JA,NEIN,,NEIN,profession,025
+netzwerk-a1-test-booklet,schreiben,Übung 6,1,writing-task,Antworten Sie Martha. Max' Praktikum ist bald zu Ende. An welchem Tag und um wie viel Uhr hast du Zeit? Wie lange kannst du bleiben? Was kannst du zu Essen oder Trinken mitbringen? Schreiben Sie circa 30 Wörter mit Gruß.,,,,(open-ended),profession,026
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,fill-in,Formular: Muttersprache (1),,,,Deutsch,personal-info,027
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,"Small Talk im Büro. Wählen Sie ein Thema (Wetter, Sport, Familie, Wochenende) und sprechen Sie.",,,,(open-ended),mixed,027
+netzwerk-a1-test-booklet,schreiben,Übung 7,2,fill-in,Formular: Sprache Newsletter (2),,,,Italienisch,personal-info,027
+netzwerk-a1-test-booklet,schreiben,Übung 7,3,fill-in,Formular: Hobbys (3),,,,Sport und Musik,personal-info,027
+netzwerk-a1-test-booklet,schreiben,Übung 7,4,fill-in,Formular: Interesse (4),,,,Kinofilme,personal-info,027
+netzwerk-a1-test-booklet,schreiben,Übung 7,5,fill-in,Formular: Zeit (5),,,,abends und am Wochenende,personal-info,027
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,multiple-choice,Wann soll Frau Leiner zum Arzt kommen?,Um 12:00 Uhr.,Um 14:00 Uhr.,Um 16:00 Uhr.,Um 16:00 Uhr.,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 2,1,short-answer,erkältet – glücklich – krank – verletzt,,,,glücklich,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 3,1,fill-in,Körperteil (1) mit Artikel,,,,der Bauch,health,028
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,multiple-choice,Wo möchte Vito Anna treffen?,Beim Arzt.,Im Kino.,Zu Hause.,Zu Hause.,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 2,2,short-answer,der Fuß – das Bein – der Kopf – die Ohrenschmerzen,,,,die Ohrenschmerzen,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 3,2,fill-in,Körperteil (2) mit Artikel,,,,das Bein,health,028
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,multiple-choice,Was soll Jannis machen?,Zum Arzt gehen.,Milch mit Honig trinken.,Seine Mutter anrufen.,Milch mit Honig trinken.,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 2,3,short-answer,hören – riechen – trinken – schmecken,,,,trinken,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 3,3,fill-in,Körperteil (3) mit Artikel,,,,der Kopf / die Haare,health,028
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,multiple-choice,Wo ist Laurin?,Bei Frau Köhler.,Beim Arzt.,In der Arbeit.,Beim Arzt.,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 2,4,short-answer,der Hausmeister – der Physiotherapeut – der Notarzt – der Krankenpfleger,,,,der Hausmeister,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 3,4,fill-in,Körperteil (4) mit Artikel,,,,der Arm,health,028
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,multiple-choice,Was soll Herr Nowak in der Praxis abholen?,Ein Rezept.,Eine Salbe.,Einen Hustensaft.,Ein Rezept.,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 2,5,short-answer,das Fieber – die Halsschmerzen – der Schnupfen – der Verband,,,,der Verband,health,028
+netzwerk-a1-test-booklet,vocabulary,Übung 3,5,fill-in,Körperteil (5) mit Artikel,,,,die Hand,health,028
+netzwerk-a1-test-booklet,,Übung 4,1,fill-in,Sie (1) _______ im Bett bleiben und viel schlafen.,,,,müssen,health,029
+netzwerk-a1-test-booklet,,Übung 5,1,short-answer,im Bett bleiben und Hühnersuppe essen,,,,Bleiben Sie im Bett und essen Sie Hühnersuppe.,health,029
+netzwerk-a1-test-booklet,,Übung 4,2,fill-in,Die Tropfen (2) _______ Sie dreimal täglich nehmen.,,,,müssen,health,029
+netzwerk-a1-test-booklet,,Übung 5,2,short-answer,ins Krankenhaus gehen und den Arm nicht bewegen,,,,Geh ins Krankenhaus und beweg den Arm nicht.,health,029
+netzwerk-a1-test-booklet,,Übung 4,3,fill-in,(3) _______ ich denn meine Haare waschen?,,,,Darf,health,029
+netzwerk-a1-test-booklet,,Übung 5,3,short-answer,eine Pause machen und nicht so viel arbeiten,,,,Macht eine Pause und arbeitet nicht so viel.,health,029
+netzwerk-a1-test-booklet,,Übung 4,4,fill-in,"Mein Mann sagt, ich (4) _______ nicht baden.",,,,soll,health,029
+netzwerk-a1-test-booklet,,Übung 5,4,short-answer,vom Sofa aufstehen und die Kinder abholen,,,,Steh vom Sofa auf und hol die Kinder ab.,health,029
+netzwerk-a1-test-booklet,,Übung 4,5,fill-in,Aber Sie (5) _______ kurz duschen.,,,,dürfen,health,029
+netzwerk-a1-test-booklet,,Übung 5,5,short-answer,aktiv sein und fünf Minuten Sport machen,,,,Seid aktiv und macht fünf Minuten Sport.,health,029
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,writing-task,Schreiben Sie eine Entschuldigung. Sie sind krank und können nicht zur Arbeit kommen. Schreiben Sie an Ihre Kollegin Frau Winter: Warum schreiben Sie? Wieder im Büro: Wann? Informieren: Wen? Ca. 30 Wörter mit Anrede und Gruß.,,,,(open-ended),health,030
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,Sprechen Sie zu zweit. Nehmen Sie zwei Karten. Formulieren Sie Bitten und reagieren Sie.,,,,(open-ended),health,030
+netzwerk-a1-test-booklet,lesen,Übung 6,A,matching,Text A: Laden Sie sich die neue Fitness-App kostenlos herunter. Mit uns machen Sie jeden Tag 10 Minuten Sport und sind in 3 Monaten fit.,,,,3,health,030
+netzwerk-a1-test-booklet,lesen,Übung 6,B,matching,Text B: Herzlich willkommen im Studiokino. Bei uns ist das Telefonieren verboten. Machen Sie bitte Ihr Handy aus.,,,,6,health,030
+netzwerk-a1-test-booklet,lesen,Übung 6,C,matching,Text C: An alle Studentinnen und Studenten! Das Rauchen ist an der Universität verboten. Auch im Café gibt es ein Rauchverbot.,,,,4,health,030
+netzwerk-a1-test-booklet,lesen,Übung 6,D,matching,Text D: Für alle Mitarbeiterinnen und Mitarbeiter! Sie dürfen Ihr Essen gern selbst mitbringen. Ab heute gibt es eine Küche im Raum 211.,,,,2,health,030
+netzwerk-a1-test-booklet,lesen,Übung 6,E,matching,"Text E: Liebe Besucherinnen und Besucher, Ruhe bitte! Sprechen Sie im Wartebereich und im Flur bitte leise.",,,,1,health,030
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,true-false,Yunus sucht eine Wohnung mit Garten.,Richtig,Falsch,,Falsch,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,true-false,Die Wohnung kostet 1.200 € Miete.,Richtig,Falsch,,Richtig,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,true-false,Die Wohnung von Suse ist nicht groß.,Richtig,Falsch,,Richtig,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,true-false,Die Wohnung hat vier Zimmer.,Richtig,Falsch,,Falsch,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,true-false,Die Lage von der Wohnung ist super.,Richtig,Falsch,,Richtig,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 2,A,matching,Foto A: zwei Männer schauen sich einen offenen Computer/PC-Tower an.,,,,2,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 2,B,matching,"Foto B: lächelnder Mann trägt einen großen Karton, Umzugskartons im Hintergrund.",,,,1,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 2,C,matching,Foto C: ein Paar entspannt auf dem Sofa mit einem Laptop.,,,,4,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 2,E,matching,Foto E: drei Personen sitzen auf einem Sofa und schauen gemeinsam auf etwas.,,,,5,home,031
+netzwerk-a1-test-booklet,hoeren,Übung 2,F,matching,"Foto F: ein Kellner deckt draußen einen Tisch, dahinter eine Kellnerin.",,,,3,home,031
+netzwerk-a1-test-booklet,,Übung 3,1,fill-in,Der große Schrank steht (1) _______ dem Tisch und der Tür.,,,,zwischen,home,032
+netzwerk-a1-test-booklet,,Übung 4,1,multiple-choice,Wie findest du den Schreibtisch?,Sehr praktisch. Er ist super für die Arbeit.,Das ist ja schön.,,Sehr praktisch. Er ist super für die Arbeit.,home,032
+netzwerk-a1-test-booklet,lesen,Übung 5,1,true-false,Die Party beginnt abends.,Richtig,Falsch,,Richtig,home,032
+netzwerk-a1-test-booklet,,Übung 3,2,fill-in,Die Waschmaschine steht nicht mehr (2) _______ der Küche.,,,,in,home,032
+netzwerk-a1-test-booklet,,Übung 4,2,multiple-choice,Magst du die Lampe?,Es tut mir leid!,"Ja, die Farbe ist toll!",,"Ja, die Farbe ist toll!",home,032
+netzwerk-a1-test-booklet,lesen,Übung 5,2,true-false,Die Nachbarn haben keine Zeit.,Richtig,Falsch,,Falsch,home,032
+netzwerk-a1-test-booklet,,Übung 3,3,fill-in,(3) _______ dem Bad ist das Schlafzimmer.,,,,Neben,home,032
+netzwerk-a1-test-booklet,,Übung 4,3,multiple-choice,"Die Wohnung ist zu dunkel, oder?","Ja, ich finde sie auch zu dunkel.","Nein, sie ist zu dunkel.",,"Ja, ich finde sie auch zu dunkel.",home,032
+netzwerk-a1-test-booklet,lesen,Übung 5,3,true-false,Die Würstchen bringen die Gäste mit.,Richtig,Falsch,,Falsch,home,032
+netzwerk-a1-test-booklet,,Übung 3,4,fill-in,(4) _______ der Wand ist das Foto von Papa.,,,,An,home,032
+netzwerk-a1-test-booklet,,Übung 4,4,multiple-choice,"Der Sessel ist nicht alt, oder?","Doch, er ist von Oma.","Ja, er ist zu alt.",,"Doch, er ist von Oma.",home,032
+netzwerk-a1-test-booklet,lesen,Übung 5,4,true-false,Kira hat am Samstag Zeit für die Party.,Richtig,Falsch,,Richtig,home,032
+netzwerk-a1-test-booklet,,Übung 3,5,fill-in,Und (5) _______ dem Foto habe ich mein Geld.,,,,hinter,home,032
+netzwerk-a1-test-booklet,,Übung 4,5,multiple-choice,"Ich finde die Wohnung klein, aber schön. Und du?","Ja, sie ist groß. Hoffentlich ist sie nicht teuer.","Ja, sie ist nicht groß, aber das macht nichts.",,"Ja, sie ist nicht groß, aber das macht nichts.",home,032
+netzwerk-a1-test-booklet,lesen,Übung 5,5,true-false,Lenny kommt später zur Party.,Richtig,Falsch,,Falsch,home,032
+netzwerk-a1-test-booklet,schreiben,Übung 6,1,short-answer,Schreiben Sie über Ihre Wohnung: Größe?,,,,(open-ended),home,033
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,writing-task,Antworten Sie Emil. Er hat eine neue Wohnung und macht am Samstag um 19:00 Uhr eine Party. Wen bringst du mit? Was kannst du zu Essen mitbringen? Wann kommst du? Schreiben Sie circa 30 Wörter mit Gruß.,,,,(open-ended),home,033
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,Nehmen Sie eine Karte zum Thema Wohnen und eine Karte zum Thema Feste. Fragen Sie Ihren Partner / Ihre Partnerin. Ihr Partner / Ihre Partnerin antwortet und stellt dann die nächste Frage.,,,,(open-ended),home,033
+netzwerk-a1-test-booklet,schreiben,Übung 6,2,short-answer,Schreiben Sie über Ihre Wohnung: Zimmer?,,,,(open-ended),home,033
+netzwerk-a1-test-booklet,schreiben,Übung 6,3,short-answer,Schreiben Sie über Ihre Wohnung: Balkon oder Garten?,,,,(open-ended),home,033
+netzwerk-a1-test-booklet,schreiben,Übung 6,4,short-answer,Schreiben Sie über Ihre Wohnung: Möbel?,,,,(open-ended),home,033
+netzwerk-a1-test-booklet,schreiben,Übung 6,5,short-answer,Schreiben Sie über Ihre Wohnung: Nachbarn?,,,,(open-ended),home,033
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,matching,Beruf: Was ist für Text 1 wichtig?,,,,reisen,profession,034
+netzwerk-a1-test-booklet,vocabulary,Übung 2,1,multiple-choice,Ich möchte Karriere verdienen / machen.,verdienen,machen,,machen,profession,034
+netzwerk-a1-test-booklet,,Übung 3,1,fill-in,sie ist eine halbe Stunde zu spät (1) _______.,,,,gekommen,hobby,034
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,matching,Beruf: Was ist für Text 2 wichtig?,,,,Aufgaben interessant,profession,034
+netzwerk-a1-test-booklet,vocabulary,Übung 2,2,multiple-choice,Ich kann Sie mit ihrer Kollegin anrufen / verbinden.,anrufen,verbinden,,verbinden,profession,034
+netzwerk-a1-test-booklet,,Übung 3,2,fill-in,Zuerst ist sie mit dem falschen Bus (2) _______,,,,gefahren,hobby,034
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,matching,Beruf: Was ist für Text 3 wichtig?,,,,Bezahlung,profession,034
+netzwerk-a1-test-booklet,vocabulary,Übung 2,3,multiple-choice,Ich muss für eine Prüfung / Liste an der Uni lernen.,Prüfung,Liste,,Prüfung,profession,034
+netzwerk-a1-test-booklet,,Übung 3,3,fill-in,und dann hat sie das Café nicht (3) _______.,,,,gefunden,hobby,034
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,matching,Beruf: Was ist für Text 4 wichtig?,,,,Kontakt mit Menschen,profession,034
+netzwerk-a1-test-booklet,vocabulary,Übung 2,4,multiple-choice,Können Sie mir bitte seine Durchwahl melden / geben?,melden,geben,,geben,profession,034
+netzwerk-a1-test-booklet,,Übung 3,4,fill-in,Wir haben Kaffee (4) _______,,,,getrunken,hobby,034
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,matching,Beruf: Was ist für Text 5 wichtig?,,,,Bezahlung,profession,034
+netzwerk-a1-test-booklet,vocabulary,Übung 2,5,multiple-choice,"Schreibst du das Protokoll / Projekt, bitte?",Protokoll,Projekt,,Protokoll,profession,034
+netzwerk-a1-test-booklet,,Übung 3,5,fill-in,und sind dann noch ins Kino (5) _______.,,,,gegangen,hobby,034
+netzwerk-a1-test-booklet,,Übung 4,1,short-answer,gestern / lernen / Felix / zwei Stunden / .,,,,Gestern hat Felix zwei Stunden gelernt.,profession,035
+netzwerk-a1-test-booklet,,Übung 5,1,matching,Kann ich bitte mit Frau _______,,,,Hamann sprechen?,communication,035
+netzwerk-a1-test-booklet,schreiben,Übung 6,1,fill-in,Formular: gewünschte Tätigkeit (1),,,,Eisverkäufer,profession,035
+netzwerk-a1-test-booklet,,Übung 4,2,short-answer,wohin / fliegen / du / letztes Jahr / ?,,,,Wohin bist du letztes Jahr geflogen?,profession,035
+netzwerk-a1-test-booklet,,Übung 5,2,matching,Herr Tischer ist _______,,,,heute leider nicht da.,communication,035
+netzwerk-a1-test-booklet,schreiben,Übung 6,2,fill-in,Formular: Termin (2),,,,1. August bis 30. September,profession,035
+netzwerk-a1-test-booklet,,Übung 4,3,short-answer,studieren / Jana / vier Jahre / Architektur / .,,,,Jana hat vier Jahre Architektur studiert.,profession,035
+netzwerk-a1-test-booklet,,Übung 5,3,matching,"Entschuldigung, das habe ich _______",,,,nicht verstanden.,communication,035
+netzwerk-a1-test-booklet,schreiben,Übung 6,3,fill-in,Formular: Arbeit am Wochenende (3),,,,ja,profession,035
+netzwerk-a1-test-booklet,,Übung 4,4,short-answer,telefonieren / er / heute / mit einer Kundin / .,,,,Heute hat er mit einer Kundin telefoniert.,profession,035
+netzwerk-a1-test-booklet,,Übung 5,4,matching,Können Sie das _______,,,,bitte wiederholen?,communication,035
+netzwerk-a1-test-booklet,schreiben,Übung 6,4,fill-in,Formular: Stadt (4),,,,Leipzig,profession,035
+netzwerk-a1-test-booklet,,Übung 4,5,short-answer,leider / finden / sie / noch keine Arbeit / .,,,,Leider hat sie noch keine Arbeit gefunden.,profession,035
+netzwerk-a1-test-booklet,,Übung 5,5,matching,Vielen Dank und _______,,,,auf Wiederhören.,communication,035
+netzwerk-a1-test-booklet,schreiben,Übung 6,5,fill-in,Formular: Telefon (5),,,,+39 377 45 45 678,profession,035
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,"Über etwas sprechen (sich vorstellen). Wählen Sie vier Themen aus (Sprachen, Hobbys, Beruf, Lieblingsessen, Familie, Sport) und sprechen Sie zu jedem Thema ein paar Sätze.",,,,(open-ended),personal-info,036
+netzwerk-a1-test-booklet,lesen,Übung 7,A,matching,Sie möchten acht Stunden in der Woche arbeiten. Sie kommen aus England.,,,,2,profession,036
+netzwerk-a1-test-booklet,lesen,Übung 7,B,matching,Sie möchten am Wochenende Geld verdienen. Sie waren schon mal Kellner/in.,,,,5,profession,036
+netzwerk-a1-test-booklet,lesen,Übung 7,C,matching,Sie studieren Mathematik. Sie brauchen Geld für den Urlaub.,,,,4,profession,036
+netzwerk-a1-test-booklet,lesen,Übung 7,D,matching,Sie sind gern mit Kindern zusammen. Sie haben am Nachmittag Zeit.,,,,6,profession,036
+netzwerk-a1-test-booklet,lesen,Übung 7,E,matching,Sie suchen einen Job. Sport ist Ihr Hobby.,,,,3,profession,036
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,multiple-choice,Wo gibt es Hosen für Kinder?,Im ersten Stock.,Im zweiten Stock.,Im dritten Stock.,Im dritten Stock.,shopping,037
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,multiple-choice,Was kauft Finn?,Ein T-Shirt.,Eine Hose.,Einen Pulli.,Einen Pulli.,shopping,037
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,multiple-choice,Was bekommt die Mutter zum Geburtstag?,Ein Tuch.,Eine Uhr.,Eine Tasche.,Ein Tuch.,shopping,037
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,multiple-choice,Wann schließt der Buchladen?,Um 13:00 Uhr.,Um 18:00 Uhr.,Um 16:00 Uhr.,Um 16:00 Uhr.,shopping,037
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,multiple-choice,Was gefällt der Kundin nicht?,Die Größe.,Die Farbe.,Der Preis.,Der Preis.,shopping,037
+netzwerk-a1-test-booklet,vocabulary,Übung 2,1,multiple-choice,Können Sie mir (1) helfen / zeigen?,helfen,zeigen,,helfen,shopping,038
+netzwerk-a1-test-booklet,,Übung 3,1,fill-in,(1) _______ Schuhe gefallen dir?,,,,Welche,shopping,038
+netzwerk-a1-test-booklet,,Übung 4,1,fill-in,Wie steht (1) _______ dieser Mantel?,,,,mir,shopping,038
+netzwerk-a1-test-booklet,lesen,Übung 5,1,fill-in,Wo finden Sie das? USB-Sticks,,,,2. Stock,shopping,038
+netzwerk-a1-test-booklet,vocabulary,Übung 2,2,multiple-choice,Welche Farbe (2) trägt / steht Ihnen denn?,trägt,steht,,steht,shopping,038
+netzwerk-a1-test-booklet,,Übung 3,2,fill-in,(2) _______ Jacke passt mir nicht.,,,,Diese,shopping,038
+netzwerk-a1-test-booklet,,Übung 4,2,fill-in,"Also, ich finde (2) _______ ein bisschen zu groß.",,,,ihn,shopping,038
+netzwerk-a1-test-booklet,lesen,Übung 5,2,fill-in,Wo finden Sie das? Tee,,,,Untergeschoss,shopping,038
+netzwerk-a1-test-booklet,vocabulary,Übung 2,3,multiple-choice,Blau (3) finde / kaufe ich gut.,finde,kaufe,,finde,shopping,038
+netzwerk-a1-test-booklet,,Übung 3,3,fill-in,Ich finde (3) _______ Pullover wirklich schön.,,,,diesen,shopping,038
+netzwerk-a1-test-booklet,,Übung 4,3,fill-in,Aber hier habe ich einen anderen Mantel für (3) _______.,,,,Sie,shopping,038
+netzwerk-a1-test-booklet,lesen,Übung 5,3,fill-in,Wo finden Sie das? Fußbälle,,,,4. Stock,shopping,038
+netzwerk-a1-test-booklet,vocabulary,Übung 2,4,multiple-choice,dieses Hemd kann ich Ihnen (4) probieren / empfehlen.,probieren,empfehlen,,empfehlen,shopping,038
+netzwerk-a1-test-booklet,,Übung 3,4,fill-in,(4) _______ Kaufhaus kannst du empfehlen?,,,,Welches,shopping,038
+netzwerk-a1-test-booklet,,Übung 4,4,fill-in,Passt er (4) _______?,,,,Ihnen,shopping,038
+netzwerk-a1-test-booklet,lesen,Übung 5,4,fill-in,Wo finden Sie das? Schals,,,,Erdgeschoss,shopping,038
+netzwerk-a1-test-booklet,vocabulary,Übung 2,5,multiple-choice,(5) Gefällt / Bestellt Ihnen das?,Gefällt,Bestellt,,Gefällt,shopping,038
+netzwerk-a1-test-booklet,,Übung 3,5,fill-in,Willst du (5) _______ Kleid zurückschicken?,,,,dieses,shopping,038
+netzwerk-a1-test-booklet,,Übung 4,5,fill-in,ich möchte etwas für (5) _______ kaufen.,,,,sie,shopping,038
+netzwerk-a1-test-booklet,lesen,Übung 5,5,fill-in,Wo finden Sie das? Tassen,,,,3. Stock,shopping,038
+netzwerk-a1-test-booklet,lesen,Übung 6,1,matching,"Düsseldorf hat ca. 620.000 Einwohner. Und jedes Jahr kommen viele Touristen nach Düsseldorf. In der Stadt ist es nie langweilig: Eine Messe, Karneval oder Kirmes – hier ist immer etwas los.",,,,Eine interessante Stadt,city-places,039
+netzwerk-a1-test-booklet,lesen,Übung 6,2,matching,"Düsseldorf liegt am Rhein. Der Fluss war immer schon wichtig für die Stadt. Am Rhein kann man sehr schön spazieren gehen. Viele machen hier Sport, feiern Partys oder grillen.",,,,Stadt am Fluss,city-places,039
+netzwerk-a1-test-booklet,lesen,Übung 6,3,matching,"Die Kö, eigentlich Königsallee, ist eine große Einkaufsstraße. Sie ist international bekannt für Designermode. Aber es gibt auch andere Viertel und Einkaufsstraßen. Dort findet man auch Mode für wenig Geld.",,,,Shoppen in Düsseldorf,city-places,039
+netzwerk-a1-test-booklet,lesen,Übung 6,4,matching,"In Düsseldorf gibt es 22 Hochschulen. Sehr bekannt sind die Kunstakademie Düsseldorf und die Heinrich-Heine-Universität. Hier kann man zum Beispiel Medizin, Recht, Mathematik und Philosophie studieren.",,,,Studium in Düsseldorf,school,039
+netzwerk-a1-test-booklet,lesen,Übung 6,5,matching,In Düsseldorf gibt es viele Kneipen: von traditionell bis jung und kreativ. Es ist für jeden etwas dabei. Und probieren Sie einen Sauerbraten in einem Brauhaus. Das ist eine Spezialität hier und sehr lecker!,,,,Essen und trinken,food,039
+netzwerk-a1-test-booklet,schreiben,Übung 7,1,writing-task,Schreiben Sie eine Antwort an Elias. Was ziehst du bei einem Bewerbungsgespräch an? Welche Farben findest du gut? Wo kaufst du ein? Schreiben Sie circa 30 Wörter.,,,,(open-ended),shopping,040
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,Nehmen Sie eine Karte zum Thema Kleidung und eine Karte zum Thema Geschäfte. Fragen Sie Ihren Partner / Ihre Partnerin. Ihr Partner / Ihre Partnerin antwortet und stellt dann die nächste Frage.,,,,(open-ended),shopping,040
+netzwerk-a1-test-booklet,hoeren,Übung 1,1,true-false,Frau Lemke soll zum Ausgang B gehen.,Richtig,Falsch,,Richtig,travel,041
+netzwerk-a1-test-booklet,hoeren,Übung 2,1,multiple-choice,Wohin reisen Anna und Katharina?,In Italien.,Nach Frankreich.,,Nach Frankreich.,travel,041
+netzwerk-a1-test-booklet,vocabulary,Übung 3,1,multiple-choice,einen Helm,tragen,suchen,umsteigen,umsteigen,travel,041
+netzwerk-a1-test-booklet,schreiben,Übung 4,1,short-answer,Ich war zwei Wochen dort.,,,,Wie lange war Nora dort?,vacation,041
+netzwerk-a1-test-booklet,hoeren,Übung 1,2,true-false,Fahrgäste zum U-Bahnhof Emser Straße sollen den Bus nehmen.,Richtig,Falsch,,Richtig,travel,041
+netzwerk-a1-test-booklet,hoeren,Übung 2,2,multiple-choice,Wer hat uns eingeladen?,Meine Familie.,Einen Freund.,,Meine Familie.,travel,041
+netzwerk-a1-test-booklet,vocabulary,Übung 3,2,multiple-choice,an der Haltestelle,einsteigen,warten,dauern,dauern,travel,041
+netzwerk-a1-test-booklet,schreiben,Übung 4,2,short-answer,Und ich war mit meiner Schwester unterwegs.,,,,Mit wem war sie unterwegs?,vacation,041
+netzwerk-a1-test-booklet,hoeren,Übung 1,3,true-false,Das Busticket soll man an der Haltestelle kaufen.,Richtig,Falsch,,Falsch,travel,041
+netzwerk-a1-test-booklet,hoeren,Übung 2,3,multiple-choice,Wann kommt dein Freund?,In drei Tagen.,Vor drei Wochen.,,In drei Tagen.,travel,041
+netzwerk-a1-test-booklet,vocabulary,Übung 3,3,multiple-choice,die Sonnenbrille,vergessen,scheinen,einpacken,scheinen,travel,041
+netzwerk-a1-test-booklet,schreiben,Übung 4,3,short-answer,Wir haben viele Ausflüge gemacht.,,,,Was hat sie gemacht?,vacation,041
+netzwerk-a1-test-booklet,hoeren,Übung 1,4,true-false,Die Besucher sollen ins Museum kommen.,Richtig,Falsch,,Falsch,travel,041
+netzwerk-a1-test-booklet,hoeren,Übung 2,4,multiple-choice,Wen trifft Nils im Urlaub?,Mit den Freunden.,Seine Freunde.,,Seine Freunde.,travel,041
+netzwerk-a1-test-booklet,vocabulary,Übung 3,4,multiple-choice,das Flugzeug,nehmen,verpassen,wecken,wecken,travel,041
+netzwerk-a1-test-booklet,schreiben,Übung 4,4,short-answer,In Bremerhaven haben wir Ruben getroffen.,,,,Wen hat sie getroffen?,vacation,041
+netzwerk-a1-test-booklet,hoeren,Übung 1,5,true-false,Frau Gerlach soll ihr Kind abholen.,Richtig,Falsch,,Richtig,travel,041
+netzwerk-a1-test-booklet,hoeren,Übung 2,5,multiple-choice,Was packst du in den Koffer ein?,In die Tasche.,Einen Schlafsack.,,Einen Schlafsack.,travel,041
+netzwerk-a1-test-booklet,vocabulary,Übung 3,5,multiple-choice,den Koffer,machen,packen,tragen,machen,travel,041
+netzwerk-a1-test-booklet,schreiben,Übung 4,5,short-answer,Ich habe mich so gefreut und zwei Tage später hat er mich angerufen.,,,,Wann hat Ruben sie angerufen?,vacation,041
+netzwerk-a1-test-booklet,lesen,Übung 5,1,multiple-choice,Sie möchten wissen: Scheint die Sonne in München?,www.sunshine-in-deutschland.de,www.wetter48.de,,www.wetter48.de,weather,042
+netzwerk-a1-test-booklet,lesen,Übung 5,2,multiple-choice,Sie möchten einen Flug im Internet kaufen.,www.fliegerline.de,www.de-weg.de,,www.fliegerline.de,travel,042
+netzwerk-a1-test-booklet,lesen,Übung 5,3,multiple-choice,Sie möchten wissen: Wann kommt der Zug an?,www.züge-ankunft.de,www.bahninfo.de,,www.züge-ankunft.de,travel,042
+netzwerk-a1-test-booklet,lesen,Übung 5,4,multiple-choice,Sie möchten in Hamburg studieren.,www.studieren-online.de,www.studieren-hh.de,,www.studieren-hh.de,school,042
+netzwerk-a1-test-booklet,lesen,Übung 5,5,multiple-choice,Sie wollen in Deutschland Urlaub machen und suchen Informationen über die Berge.,www.wander-tour.de,www.natururlaub.de,,www.wander-tour.de,vacation,042
+netzwerk-a1-test-booklet,schreiben,Übung 6,1,writing-task,Sie waren im Urlaub und schreiben an Ihre Freundin Lisa eine E-Mail. Wo waren Sie? Wie war das Wetter? Was haben Sie gemacht? Schreiben Sie ca. 30 Wörter.,,,,(open-ended),vacation,043
+netzwerk-a1-test-booklet,sprechen,Übung 7,1,speaking-task,Sie bekommen drei Bilder. Wählen Sie ein Bild aus. Sprechen Sie über das Bild. Was sehen Sie? Wie viele Personen sehen Sie? Wo sind diese Personen? Was machen diese Personen?,,,,(open-ended),vacation,043
+netzwerk-a1-test-booklet,sprechen,Übung 8,1,speaking-task,Sie sind nun in der Situation des gewählten Bildes. Spielen Sie diese Situation mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner.,,,,(open-ended),vacation,043

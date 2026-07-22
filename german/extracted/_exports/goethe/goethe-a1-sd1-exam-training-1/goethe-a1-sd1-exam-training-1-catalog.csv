@@ -1,0 +1,48 @@
+﻿collection,unit,section,content_type,activity_type,topic,level,status,qa,word_count,summary,title
+goethe-a1-sd1-exam-training-1,page-001,,[cover],cover,none,A1,verified,pass,18,Front cover of Goethe-Zertifikat A1 Start Deutsch 1 model set.,A1
+goethe-a1-sd1-exam-training-1,page-002,,[cover],cover,none,A1,verified,pass,27,"Imprint page with edition, copyright, and design credits.","Goethe-Institut Logo, oben rechts"
+goethe-a1-sd1-exam-training-1,page-003,,[toc],instructions,none,A1,verified,pass,93,Table of contents listing exam sections and page numbers.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-004,,[],none,none,A1,verified,pass,22,Intentionally blank page with only logo and page number.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top-right and bottom
+goethe-a1-sd1-exam-training-1,page-005,,[intro],instructions,none,A1,verified,pass,173,Foreword describing A1 exam scope and can-do skills.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-006,,[],none,none,A1,verified,pass,2,Blank page with only the page number.,Seite 6
+goethe-a1-sd1-exam-training-1,page-007,hoeren,[instructions],instructions,none,A1,verified,pass,58,Listening section intro and general test instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-008,hoeren,"[instructions, exercise]",multiple-choice,personal-info,A1,verified,pass,81,Listening Part 1 instructions with worked example on room number.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-009,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,113,"Listening Part 1 items on price, time, and restaurant food.",Hören
+goethe-a1-sd1-exam-training-1,page-010,hoeren,[exercise],multiple-choice,mixed,A1,verified,pass,126,"Listening Part 1 items on school class, floor access, travel.",Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-011,hoeren,"[exercise, listening-sheet]",true-false,travel,A1,verified,pass,131,Listening Part 2 true/false announcements at station and store.,Hören
+goethe-a1-sd1-exam-training-1,page-012,hoeren,"[exercise, listening-sheet]",multiple-choice,communication,A1,verified,pass,77,Listening Part 3 items on phone number and meeting point.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-013,hoeren,"[exercise, listening-sheet]",multiple-choice,mixed,A1,verified,pass,58,Listening Part 3 items on day of visit and broken device.,Hören
+goethe-a1-sd1-exam-training-1,page-014,,[],none,none,A1,verified,pass,2,Blank page with only the page number.,Seite 14
+goethe-a1-sd1-exam-training-1,page-015,lesen,"[intro, instructions]",instructions,none,A1,verified,pass,76,Reading and Writing section intro and instructions.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-016,lesen,"[instructions, reading-text, exercise]",true-false,travel,A1,verified,pass,144,Reading Part 1 true/false about an email on train arrival.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-017,lesen,"[reading-text, exercise]",true-false,hobby,A1,verified,pass,116,Reading Part 1 true/false about a birthday party invitation.,Lesen
+goethe-a1-sd1-exam-training-1,page-018,lesen,"[exercise, reading-text]",multiple-choice,travel,A1,verified,pass,148,Reading Part 2 matching websites for weather and Rhine boats.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-019,lesen,"[exercise, reading-text]",multiple-choice,mixed,A1,verified,pass,151,Reading Part 2 matching websites for language courses and tickets.,Lesen
+goethe-a1-sd1-exam-training-1,page-020,lesen,[exercise],multiple-choice,travel,A1,verified,pass,179,Reading Part 2 matching websites for lake info and train times.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-021,lesen,"[instructions, reading-text, exercise]",true-false,city-places,A1,verified,pass,100,Reading Part 3 true/false on signs about language school breakfast.,Lesen
+goethe-a1-sd1-exam-training-1,page-022,lesen,"[exercise, reading-text]",true-false,city-places,A1,verified,pass,77,Reading Part 3 true/false on post office and station signs.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-023,lesen,"[exercise, reading-text]",true-false,city-places,A1,verified,pass,88,Reading Part 3 true/false on restaurant and bus stop signs.,Lesen
+goethe-a1-sd1-exam-training-1,page-024,lesen,"[exercise, reading-text]",fill-in,travel,A1,verified,pass,175,Writing Part 1 form-filling for a Bodensee bus tour registration.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-025,schreiben,[writing-prompt],writing-task,travel,A1,verified,pass,60,Writing Part 2 letter to Dresden tourist information office.,Schreiben
+goethe-a1-sd1-exam-training-1,page-026,,[],none,none,A1,verified,pass,22,Intentionally blank page with only logo and page number.,<!-- This page is intentionally blank. Only the Goethe-Institut logo (top-right and bottom
+goethe-a1-sd1-exam-training-1,page-027,sprechen,[intro],instructions,none,A1,verified,pass,25,Speaking section intro describing the group oral exam.,Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-028,sprechen,[speaking-prompt],speaking-task,personal-info,A1,verified,pass,19,"Speaking Part 1 self-introduction prompts: name, age, country, hobby.",Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-029,sprechen,[speaking-prompt],speaking-task,food,A1,verified,pass,180,Speaking Part 2 cards asking for information on food and drink.,Sprechen
+goethe-a1-sd1-exam-training-1,page-030,sprechen,[speaking-prompt],speaking-task,shopping,A1,verified,pass,128,Speaking Part 2 cards on shopping topics like fruit and shoes.,Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-031,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,187,Speaking Part 3 picture cards prompting requests from objects.,Sprechen
+goethe-a1-sd1-exam-training-1,page-032,sprechen,[speaking-prompt],speaking-task,mixed,A1,verified,pass,140,Speaking Part 3 additional picture cards of everyday objects.,Start Deutsch  1
+goethe-a1-sd1-exam-training-1,page-033,hoeren,[listening-sheet],listening-comprehension,none,A1,verified,pass,263,Listening transcripts for Part 1 example and items 1-3.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-034,hoeren,[listening-sheet],listening-comprehension,none,A1,verified,pass,143,Listening transcripts for Part 1 items 4-6.,Hören
+goethe-a1-sd1-exam-training-1,page-035,hoeren,"[exercise, listening-sheet]",listening-comprehension,none,A1,verified,pass,188,Listening transcripts for Part 2 announcements 7-10.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-036,hoeren,"[instructions, listening-sheet]",listening-comprehension,none,A1,verified,pass,193,Listening transcripts for Part 3 phone messages 11-15.,Hören
+goethe-a1-sd1-exam-training-1,page-037,answer-key,[answer-key],answer-key,none,A1,verified,pass,354,"Answer key for Listening, Reading, and Writing Part 1.",19795
+goethe-a1-sd1-exam-training-1,page-038,answer-key,[answer-key],answer-key,none,A1,verified,pass,332,Writing scoring criteria with sample candidate texts and grades.,Lösungen
+goethe-a1-sd1-exam-training-1,page-039,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,232,Examiner notes and scripts for oral exam Part 1.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-040,sprechen,"[instructions, speaking-prompt]",instructions,none,A1,verified,pass,345,"Examiner scripts for spelling, numbers, and Speaking Part 2.",Sprechen
+goethe-a1-sd1-exam-training-1,page-041,sprechen,"[speaking-prompt, instructions]",instructions,none,A1,verified,pass,184,Examiner notes and scripts for Speaking Part 3 requests.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-042,sprechen,"[instructions, answer-key]",answer-key,none,A1,verified,pass,55,Speaking assessment scoring scale for examiners.,Sprechen
+goethe-a1-sd1-exam-training-1,page-043,,[listening-sheet],answer-key,none,A1,verified,pass,672,"Answer sheet with marking grids for Listening, Reading, Writing.",Entwurf
+goethe-a1-sd1-exam-training-1,page-044,schreiben,"[writing-prompt, answer-key]",writing-task,none,A1,verified,pass,116,Answer sheet writing area and Writing Part 2 scoring grid.,Entwurf
+goethe-a1-sd1-exam-training-1,page-045,,[intro],none,none,A1,verified,pass,8,Notes page with only heading and page number.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-046,,[],none,none,A1,verified,pass,6,Blank page with only title and page number.,Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-047,,[cover],cover,none,A1,verified,pass,6,Back cover with printer and version codes.,Felix Brandl  München    A1Mod13    Vs14270424

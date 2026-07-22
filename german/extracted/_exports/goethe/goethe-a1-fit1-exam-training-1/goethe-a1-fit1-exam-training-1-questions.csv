@@ -1,0 +1,30 @@
+﻿collection,section,teil,item,item_type,question,option_a,option_b,option_c,correct_answer,topic,source_page
+goethe-a1-fit1-exam-training-1,hoeren,1,1,multiple-choice,Julia bedankt sich für,ein Geburtstagsgeschenk.,Urlaubsfotos.,eine Postkarte.,c,communication,009
+goethe-a1-fit1-exam-training-1,hoeren,1,2,multiple-choice,Sie ruft wieder an:,in zwei Tagen.,morgen.,am Wochenende.,b,communication,009
+goethe-a1-fit1-exam-training-1,hoeren,1,3,multiple-choice,Karl hat Probleme,in Physik.,in Mathematik.,in Chemie.,b,school,010
+goethe-a1-fit1-exam-training-1,hoeren,1,4,multiple-choice,Er ist,bei einem Freund.,zu Hause.,in der Schule.,a,daily-routine,010
+goethe-a1-fit1-exam-training-1,hoeren,1,5,multiple-choice,Laura geht mit ihren Freunden,in ein Café.,zum Sport.,ins Kino.,c,hobby,011
+goethe-a1-fit1-exam-training-1,hoeren,1,6,multiple-choice,Der Film beginnt um,halb acht.,halb sieben.,acht.,a,hobby,011
+goethe-a1-fit1-exam-training-1,hoeren,2,7,true-false,Ulla war nicht in der Schule.,Richtig,Falsch,,Falsch,health,012
+goethe-a1-fit1-exam-training-1,hoeren,2,8,true-false,Christophs Bruder war letzte Woche auch krank.,Richtig,Falsch,,Richtig,health,012
+goethe-a1-fit1-exam-training-1,hoeren,2,9,true-false,Christoph hat Kopfschmerzen.,Richtig,Falsch,,Falsch,health,012
+goethe-a1-fit1-exam-training-1,hoeren,2,10,true-false,Markus möchte mit Bernd und Jens Chemie lernen.,Richtig,Falsch,,Richtig,school,013
+goethe-a1-fit1-exam-training-1,hoeren,2,11,true-false,Jens trainiert am Donnerstag immer Fußball.,Richtig,Falsch,,Falsch,hobby,013
+goethe-a1-fit1-exam-training-1,hoeren,2,12,true-false,Jens hat am Nachmittag Zeit.,Richtig,Falsch,,Richtig,daily-routine,013
+goethe-a1-fit1-exam-training-1,lesen,1,1,multiple-choice,Wo kannst du reisen?,In Deutschland und in Europa.,Nur in Deutschland.,In allen europäischen Städten.,b,travel,017
+goethe-a1-fit1-exam-training-1,lesen,1,2,multiple-choice,Wann kannst du reisen?,Immer im Sommer.,Das ganze Jahr.,Im Herbst.,c,travel,017
+goethe-a1-fit1-exam-training-1,lesen,1,3,multiple-choice,Wie viel kostet die Fahrkarte?,"29,– € für Deutschland.","29,– € für Europa.","29,– € für Hin- und Rückfahrt.",a,travel,017
+goethe-a1-fit1-exam-training-1,lesen,1,4,multiple-choice,Das ist eine Anzeige für,Privatschulen.,ein Auslandsschuljahr.,Sprachferien.,b,school,017
+goethe-a1-fit1-exam-training-1,lesen,1,5,multiple-choice,Für wen ist die Anzeige?,Für Eltern.,Für alle Kinder.,Für Schüler.,c,school,017
+goethe-a1-fit1-exam-training-1,lesen,1,6,multiple-choice,Mehr Informationen bekommt man,in der Zeitung.,im Internet.,in der Schule.,b,communication,017
+goethe-a1-fit1-exam-training-1,lesen,2,7,true-false,Alexander wohnt mit seinen Großeltern in einem Haus.,Richtig,Falsch,,Richtig,family,019
+goethe-a1-fit1-exam-training-1,lesen,2,8,true-false,Alexander hat nie Streit mit seinen Großeltern.,Richtig,Falsch,,Falsch,family,019
+goethe-a1-fit1-exam-training-1,lesen,2,9,true-false,Alexander darf immer laut Musik hören.,Richtig,Falsch,,Falsch,family,019
+goethe-a1-fit1-exam-training-1,lesen,2,10,true-false,Janina wohnt vielleicht bald in Stuttgart.,Richtig,Falsch,,Richtig,family,019
+goethe-a1-fit1-exam-training-1,lesen,2,11,true-false,Janina ist Architektin.,Richtig,Falsch,,Falsch,profession,019
+goethe-a1-fit1-exam-training-1,lesen,2,12,true-false,Janina hat einen arbeitslosen Vater.,Richtig,Falsch,,Richtig,family,019
+goethe-a1-fit1-exam-training-1,schreiben,,1,open,"Antworte auf die E-Mail und die Frage am Ende. Schreibe mindestens 30 Wörter. Schreibe bitte nicht mit Bleistift. Guten Tag! Ich heiße Natascha und bin 16 Jahre alt. Ich wohne in Nowosibirsk und lerne schon seit 4 Jahren Deutsch. Meine Hobbys sind Bücher, Deutsch und Katzen. Wer ist 12 bis 15 Jahre alt und schreibt mir? Ich freue mich über Briefe auf Deutsch aus der ganzen Welt! Hoffentlich bis bald! natascha.jeremenko@mail.ru",,,,(open-ended),communication,022
+goethe-a1-fit1-exam-training-1,sprechen,1,1,open,Sich vorstellen. Wortkarte mit folgenden Stichwörtern: Name? Alter? Land? Wohnort? Schule? Sprachen? Hobby?,,,,(open-ended),personal-info,025
+goethe-a1-fit1-exam-training-1,sprechen,2,Wohnen,open,"Fragen stellen und auf Fragen antworten. Thema: Wohnen. Handlungskarten mit je einem Begriff (Beispielkarte: Buch): Familie, Haustier, Computer, Garten, Freundinnen/Freunde einladen, spielen.",,,,(open-ended),home,027
+goethe-a1-fit1-exam-training-1,sprechen,2,Familie,open,"Fragen stellen und auf Fragen antworten. Thema: Familie. Sechs Sprechkarten mit je einem Begriff: Schwester/Bruder, besuchen, feiern, Mutter/Vater, Großeltern, Tante/Onkel.",,,,(open-ended),family,029
+goethe-a1-fit1-exam-training-1,sprechen,3,1,open,"Bitten, Aufforderungen oder Fragen formulieren und darauf antworten oder reagieren. Sechs Bildkarten, jede mit einem Piktogramm eines Gegenstandes und einem Symbol (! oder ?): aufgeschlagenes Buch/Heft (!), Fotokamera (?), zwei Brötchen (!), Laptop (?), sitzende Frau auf einem Stuhl und stehender Junge (?), graue Strickjacke (!).",,,,(open-ended),mixed,031
