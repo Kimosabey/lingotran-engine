@@ -42,16 +42,21 @@ def load_questions(slug):
         return []
 
 
+def _flat(v):
+    """Collapse newlines/tabs so every value stays a single clean spreadsheet cell."""
+    return ' '.join(str(v).split())
+
+
 def row_for(slug, it):
     return {c: '' for c in COLUMNS} | {
         'collection': slug,
-        'section': it.get('section', ''), 'teil': it.get('teil', ''),
-        'item': it.get('item', ''), 'item_type': it.get('item_type', ''),
-        'question': it.get('question', ''),
-        'option_a': it.get('option_a', ''), 'option_b': it.get('option_b', ''),
-        'option_c': it.get('option_c', ''),
-        'correct_answer': it.get('correct_answer', ''),
-        'topic': it.get('topic', ''), 'source_page': it.get('source_page', ''),
+        'section': _flat(it.get('section', '')), 'teil': _flat(it.get('teil', '')),
+        'item': _flat(it.get('item', '')), 'item_type': _flat(it.get('item_type', '')),
+        'question': _flat(it.get('question', '')),
+        'option_a': _flat(it.get('option_a', '')), 'option_b': _flat(it.get('option_b', '')),
+        'option_c': _flat(it.get('option_c', '')),
+        'correct_answer': _flat(it.get('correct_answer', '')),
+        'topic': _flat(it.get('topic', '')), 'source_page': _flat(it.get('source_page', '')),
     }
 
 

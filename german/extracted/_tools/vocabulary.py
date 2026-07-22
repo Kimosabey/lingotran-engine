@@ -70,12 +70,13 @@ def main(argv):
             entries = load_entries(slug)
             if entries is None:
                 continue  # not a vocabulary collection / not extracted
+            flat = lambda v: ' '.join(str(v).split())  # keep every value one clean cell
             rows = [{
                 'collection': slug,
-                'word': e.get('word', ''), 'article': e.get('article', ''),
-                'plural': e.get('plural', ''), 'word_class': e.get('word_class', ''),
-                'example': e.get('example', ''), 'topic': e.get('topic', ''),
-                'source_page': e.get('source_page', ''),
+                'word': flat(e.get('word', '')), 'article': flat(e.get('article', '')),
+                'plural': flat(e.get('plural', '')), 'word_class': flat(e.get('word_class', '')),
+                'example': flat(e.get('example', '')), 'topic': flat(e.get('topic', '')),
+                'source_page': flat(e.get('source_page', '')),
             } for e in entries]
             with open(os.path.join(ROOT, slug, '%s-vocabulary.csv' % slug), 'w',
                       encoding='utf-8-sig', newline='') as f:
