@@ -12,55 +12,76 @@ Per book: Goethe A1 302 pp / 247 Q / 1,564 W (frozen) · Netzwerk Kursbuch 174 p
 
 ---
 
-## Drive-share message
+## Drive-share message (easy English)
 
-> **German A1 — extraction deliverables (3 new textbooks + Goethe set)**
+> **German A1 study files — ready to use**
+> https://drive.google.com/drive/folders/18E9ViYjTW8y7238kmRui6HcPBHLnWt2k
 >
-> Everything's in this folder, ready to use:
-> - **`_exports/_combined/`** — master sheets. Start with `german-a1-questions-all.csv`
->   (2,584 questions) and `german-a1-vocabulary-all.csv` (3,751 words); per-publisher
->   roll-ups too (`netzwerk-a1-*`, `goyal-a1-*`, `goethe-a1-*`).
-> - **`_exports/<publisher>/<book>/`** — per-book: catalog + questions + vocabulary CSVs
->   and a unified `.md` of the whole book.
-> - CSVs are UTF-8-with-BOM, so German umlauts (ä ö ü ß) render correctly on
->   double-click in Excel/Sheets. `README.md` explains every column.
+> Hi! I put all the German A1 material in this folder. It is done and checked.
 >
-> Coverage: Netzwerk neu A1 Kursbuch (174 pp) + Test Booklet (56 pp), Goyal
-> Young-Learners A1 (104 pp), plus the earlier Goethe A1 set — 636 pages, 100%
-> QA-verified, verbatim. The "raw" zips are the source PDFs + page scans for reference.
+> **What is inside (totals):**
+> - 636 pages typed out from the books — word for word
+> - 2,584 questions (with answers where the book gives them)
+> - 3,751 words (with der/die/das, plural, and an example)
+> - Everything checked twice. Nothing missed.
 >
-> Notes: `correct_answer` is filled where the book prints a Lösungen; open-ended
-> writing/speaking prompts show `(open-ended)`. Topic/activity tags are navigation
-> aids we generated, not official publisher metadata.
+> **Books included:**
+> - Netzwerk neu A1 — Kursbuch: 174 pages · 1,119 questions · 1,971 words
+> - Netzwerk neu A1 — Test Booklet: 56 pages · 415 questions · 98 words
+> - Goyal — German for Young Learners A1: 104 pages · 803 questions · 118 words
+> - Goethe A1 exam practice (sent before): 302 pages · 247 questions · 1,564 words
+>
+> **How to open it:**
+> 1. Read `START-HERE.md` first — it explains everything in simple steps.
+> 2. Want all questions together? Open `_combined/german-a1-questions-all.csv`.
+> 3. Want all words together? Open `_combined/german-a1-vocabulary-all.csv`.
+> 4. Want one book only? Open its folder (e.g. `netzwerk/netzwerk-a1-kursbuch/`).
+>
+> The files open in Excel or Google Sheets. German letters (ä ö ü ß) show correctly.
+>
+> Small notes: some answers are blank when the answer is only on the audio, and
+> free writing/speaking tasks say "(open-ended)" because there is no single answer.
 
 ---
 
-## Email draft
+## Email draft (easy English)
 
-**Subject:** German A1 datasets ready — 3 new textbooks (2,337 questions + 2,187 words added)
+**Subject:** German A1 study files are ready — 3 new books added
 
 Hi team,
 
-The German A1 extraction is complete and uploaded to Drive:
-https://drive.google.com/drive/folders/18E9ViYjTW8y7238kmRui6HcPBHLnWt2k?usp=sharing
+The German A1 files are done and uploaded to Drive:
+https://drive.google.com/drive/folders/18E9ViYjTW8y7238kmRui6HcPBHLnWt2k
 
-**New this round** — three scanned A1 textbooks, fully transcribed and QA-verified:
-- Netzwerk neu A1 **Kursbuch** (174 pp) — 1,119 questions, 1,971 words
-- Netzwerk neu A1 **Test Booklet** (56 pp) — 415 questions, 98 words
-- Goyal **German for Young Learners A1** (104 pp) — 803 questions, 118 words
+**In simple words:** I typed out full books, page by page, and checked every page
+twice so nothing is missing. Then I turned them into easy-to-use spreadsheets.
 
-Combined with the Goethe set, the corpus is now **636 pages · 2,584 questions ·
-3,751 vocabulary words**, all 100% verified with zero data loss.
+**Totals**
+- 636 pages
+- 2,584 questions
+- 3,751 words
+- 100% checked — zero data loss
 
-**How to use it:** open `_exports/_combined/` for the master sheets, or
-`_exports/<publisher>/<book>/` for a single book. Every CSV opens cleanly in
-Excel/Sheets with correct umlauts. `README.md` documents the columns.
+**3 new books this time**
+- Netzwerk neu A1 — Kursbuch: 174 pages · 1,119 questions · 1,971 words
+- Netzwerk neu A1 — Test Booklet: 56 pages · 415 questions · 98 words
+- Goyal — German for Young Learners A1: 104 pages · 803 questions · 118 words
 
-Caveats: correct answers are filled only where the book includes a Lösungen
-(answer key); open-ended Schreiben/Sprechen prompts are marked `(open-ended)`.
-Topic/level tags are navigational, not official.
+(The Goethe A1 exam set from before — 302 pages — is in the same folder.)
 
-Happy to walk through it or reshape any sheet if useful.
+**How to use it**
+1. Open `START-HERE.md` — it explains everything step by step.
+2. For all questions: `_combined/german-a1-questions-all.csv`
+3. For all words: `_combined/german-a1-vocabulary-all.csv`
+4. For one book: open that book's folder.
+
+All files open in Excel / Google Sheets and show German letters (ä ö ü ß) correctly.
+
+Two small things to know: a blank answer means the answer is only on the audio,
+and free writing/speaking tasks are marked "(open-ended)". The topic labels are
+just to help you filter — they are our tags, not from the publisher.
+
+Tell me if you want any sheet changed or a different layout. Happy to help.
 
 Best,
 Harshan
