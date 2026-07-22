@@ -10,8 +10,8 @@
 | Metric | Count | %% |
 |---|---|---|
 | Units total | 641 | 100% |
-| Transcribed | 361 | 56% |
-| Verified | 358 | 56% |
+| Transcribed | 420 | 66% |
+| Verified | 417 | 65% |
 
 ## goethe-a1-sd1-exam-training-1  (`pdf/goethe-institut/a1-start-deutsch-1/exam-training-1.pdf` · A1)
 
@@ -65,5 +65,5 @@
 
 ## goyal-a1-young-learners  (`pdf/goyal/a1-young-learners/young-learners.pdf` · A1)
 
-- PDF pages: **104** | Transcribed: **0 (0%)** | Verified: **0 (0%)**
-- Next pending pages (104): page-001 … page-104
+- PDF pages: **104** | Transcribed: **59 (57%)** | Verified: **59 (57%)**
+- Next pending pages (45): page-009 … page-104
