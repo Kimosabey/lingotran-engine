@@ -1,7 +1,7 @@
 # German for Young Learners · A1
 
 > Unified transcription of `pdf/goyal/a1-young-learners/young-learners.pdf` — 104 pages. Source: Goyal Publications — German for young learners.
-> Generated 2026-07-22. Filterable sheet: `goyal-a1-young-learners-catalog.csv`.
+> Generated 2026-07-23. Filterable sheet: `goyal-a1-young-learners-catalog.csv`.
 
 ## Overview
 

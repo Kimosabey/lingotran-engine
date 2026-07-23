@@ -20,13 +20,13 @@ All source PDFs/audio downloaded manually, kept **gitignored**.
 
 **Out:**
 - **636 pages** transcribed verbatim + QA-verified (**100%**, zero data loss)
-- **2,584 exam/exercise questions** (options + correct answer where a key exists)
+- **2,830 exam/exercise questions** (options + correct answer where a key exists)
 - **3,751 vocabulary words** (article · plural · word-class · example)
 - 10 unified documents + per-collection / per-publisher / global filterable sheets
 - a packaged, publisher-grouped **`_exports/`** delivery tree (see Layer 13)
 
 Per book: Goethe 302 pp / 247 Q / 1,564 W · Netzwerk Kursbuch 174 pp / 1,119 Q /
-1,971 W · Netzwerk Test Booklet 56 pp / 415 Q / 98 W · Goyal 104 pp / 803 Q / 118 W.
+1,971 W · Netzwerk Test Booklet 56 pp / 415 Q / 98 W · Goyal 104 pp / 1,049 Q / 118 W.
 
 ---
 

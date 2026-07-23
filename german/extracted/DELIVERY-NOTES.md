@@ -2,13 +2,13 @@
 
 **Drive folder:** https://drive.google.com/drive/folders/18E9ViYjTW8y7238kmRui6HcPBHLnWt2k?usp=sharing
 
-**Shipped:** 636 pages · 2,584 questions · 3,751 vocabulary words · 100% QA-verified, zero data loss.
+**Shipped:** 636 pages · 2,830 questions · 3,751 vocabulary words · 100% QA-verified, zero data loss.
 Deliverables live in `german/extracted/_exports/` (publisher-grouped). Raw source
 backup (PDFs + 300-DPI page scans, ~748 MB) staged separately for Drive.
 
 Per book: Goethe A1 302 pp / 247 Q / 1,564 W (frozen) · Netzwerk Kursbuch 174 pp /
 1,119 Q / 1,971 W · Netzwerk Test Booklet 56 pp / 415 Q / 98 W · Goyal Young-Learners
-104 pp / 803 Q / 118 W.
+104 pp / 1,049 Q / 118 W.
 
 ---
 
@@ -21,14 +21,14 @@ Per book: Goethe A1 302 pp / 247 Q / 1,564 W (frozen) · Netzwerk Kursbuch 174 p
 >
 > **What is inside (totals):**
 > - 636 pages typed out from the books — word for word
-> - 2,584 questions (with answers where the book gives them)
+> - 2,830 questions (with answers where the book gives them)
 > - 3,751 words (with der/die/das, plural, and an example)
 > - Everything checked twice. Nothing missed.
 >
 > **Books included:**
 > - Netzwerk neu A1 — Kursbuch: 174 pages · 1,119 questions · 1,971 words
 > - Netzwerk neu A1 — Test Booklet: 56 pages · 415 questions · 98 words
-> - Goyal — German for Young Learners A1: 104 pages · 803 questions · 118 words
+> - Goyal — German for Young Learners A1: 104 pages · 1,049 questions · 118 words
 > - Goethe A1 exam practice (sent before): 302 pages · 247 questions · 1,564 words
 >
 > **Folder map (what is where):**
@@ -37,7 +37,7 @@ Per book: Goethe A1 302 pp / 247 Q / 1,564 W (frozen) · Netzwerk Kursbuch 174 p
 >  ├── START-HERE.md      ← read this first
 >  ├── README.md          ← what each column means
 >  ├── 📁 _combined       ← ALL books together (start here)
->  │     german-a1-questions-all.csv    (2,584 questions)
+>  │     german-a1-questions-all.csv    (2,830 questions)
 >  │     german-a1-vocabulary-all.csv   (3,751 words)
 >  │     german-a1-catalog-all.csv      (636 pages)
 >  │     + per-publisher files (netzwerk / goyal / goethe)
@@ -78,14 +78,14 @@ twice so nothing is missing. Then I turned them into easy-to-use spreadsheets.
 
 **Totals**
 - 636 pages
-- 2,584 questions
+- 2,830 questions
 - 3,751 words
 - 100% checked — zero data loss
 
 **3 new books this time**
 - Netzwerk neu A1 — Kursbuch: 174 pages · 1,119 questions · 1,971 words
 - Netzwerk neu A1 — Test Booklet: 56 pages · 415 questions · 98 words
-- Goyal — German for Young Learners A1: 104 pages · 803 questions · 118 words
+- Goyal — German for Young Learners A1: 104 pages · 1,049 questions · 118 words
 
 (The Goethe A1 exam set from before — 302 pages — is in the same folder.)
 
@@ -95,7 +95,7 @@ twice so nothing is missing. Then I turned them into easy-to-use spreadsheets.
  ├── START-HERE.md      ← read this first
  ├── README.md          ← what each column means
  ├── 📁 _combined       ← ALL books together (start here)
- │     german-a1-questions-all.csv   (2,584 questions)
+ │     german-a1-questions-all.csv   (2,830 questions)
  │     german-a1-vocabulary-all.csv  (3,751 words)
  │     german-a1-catalog-all.csv     (636 pages)
  ├── 📁 netzwerk         netzwerk-a1-kursbuch/ · netzwerk-a1-test-booklet/

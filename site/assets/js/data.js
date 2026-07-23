@@ -303,7 +303,7 @@ Return the final verdict.`
   /* ---- German corpus ---------------------------------------------------- */
   const german = {
     slug: "german", name: "German", code: "DE", level: "A1 (CEFR)",
-    aggregate: { collections: 10, pages: 636, verified: 636, questions: 2584, words: 3751 },
+    aggregate: { collections: 10, pages: 636, verified: 636, questions: 2830, words: 3751 },
     channels: [
       {
         key: "pdf", name: "PDF · Goethe-Zertifikat A1",
@@ -340,7 +340,7 @@ Return the final verdict.`
       "goethe-a1-fit1-vocabulary-list": { title: "Fit in Deutsch 1 — Wortliste", variant: "fit-in-deutsch-1", pages: 28, verified: 28, questions: 0, words: 756 },
       "netzwerk-a1-kursbuch": { title: "Netzwerk neu A1 — Kursbuch", variant: "netzwerk-neu-a1", pages: 174, verified: 174, questions: 1119, words: 1971 },
       "netzwerk-a1-test-booklet": { title: "Netzwerk neu A1 — Test Booklet", variant: "netzwerk-neu-a1", pages: 56, verified: 56, questions: 415, words: 98 },
-      "goyal-a1-young-learners": { title: "German for Young Learners — A1", variant: "young-learners", pages: 104, verified: 104, questions: 803, words: 118 }
+      "goyal-a1-young-learners": { title: "German for Young Learners — A1", variant: "young-learners", pages: 104, verified: 104, questions: 1049, words: 118 }
     },
     itemTypes: [
       { k: "Fill-in", v: 785 }, { k: "Matching", v: 420 }, { k: "Short answer", v: 414 },

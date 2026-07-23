@@ -1,7 +1,7 @@
 # Netzwerk neu A1 · Kursbuch
 
 > Unified transcription of `pdf/klett-netzwerk-neu/a1-kursbuch/kursbuch.pdf` — 174 pages. Source: Klett — Netzwerk neu A1 (coursebook).
-> Generated 2026-07-22. Filterable sheet: `netzwerk-a1-kursbuch-catalog.csv`.
+> Generated 2026-07-23. Filterable sheet: `netzwerk-a1-kursbuch-catalog.csv`.
 
 ## Overview
 

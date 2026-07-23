@@ -1,7 +1,7 @@
 # Netzwerk neu A1 · Chapterwise Test Booklet
 
 > Unified transcription of `pdf/klett-netzwerk-neu/a1-chapterwise-test-booklet/chapterwise-test-booklet.pdf` — 56 pages. Source: Klett — Netzwerk neu A1 (test booklet).
-> Generated 2026-07-22. Filterable sheet: `netzwerk-a1-test-booklet-catalog.csv`.
+> Generated 2026-07-23. Filterable sheet: `netzwerk-a1-test-booklet-catalog.csv`.
 
 ## Overview
 
