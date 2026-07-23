@@ -4,11 +4,13 @@
 [build]
   publish = "site"
 
-# Long-cache the versioned assets; HTML stays revalidated.
+# Assets aren't fingerprinted (no build step), so never cache them long — a
+# stale CSS/JS file mismatched against fresh HTML is exactly what breaks layout.
+# Always revalidate; Netlify's ETag still makes repeat loads cheap (304s).
 [[headers]]
   for = "/assets/*"
   [headers.values]
-    Cache-Control = "public, max-age=31536000"
+    Cache-Control = "public, max-age=0, must-revalidate"
 
 [[headers]]
   for = "/*.html"
