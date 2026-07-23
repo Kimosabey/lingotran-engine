@@ -20,7 +20,13 @@ speed, convenience) conflicts with it, zero-data-loss wins, always.
    (`pages/page-NNN.md` + `pages/_qa/page-NNN.json`). A crash, an account
    switch, a killed agent mid-batch — none of it can corrupt a page that's
    already landed on disk, because nothing is buffered in memory waiting
-   for a "batch complete" signal that might never come.
+   for a "batch complete" signal that might never come. Made properly
+   atomic (not just "separate files," but real OS-level atomicity) via
+   `_engine/_common.py`'s `atomic_open`/`atomic_write_text` — write to a
+   temp file in the same directory, `os.replace()` on success, remove the
+   temp and leave the target untouched on any failure. Every writer in
+   this engine should use these, not a bare `open(path, 'w')`. Verified:
+   a simulated crash mid-overwrite leaves the original good file intact.
 2. **Adversarial QA, not self-grading.** A second, independent pass re-reads
    the source image and the transcription and actively hunts for omissions
    — it may find issues but never silently "trusts" the first pass. An
@@ -50,7 +56,14 @@ by refusing to declare victory without an explicit final check:
   every page 1..N for *both* files existing *and* the QA verdict reading
   `ok:true` — print the gap list, not just a percentage. This is what
   caught the goyal pages that a killed agent silently dropped (chunk file
-  never written, but the batch "looked" complete from the outside).
+  never written, but the batch "looked" complete from the outside). Now a
+  standing command, not a one-off script written by hand each time:
+  `python _engine/reconcile.py --root <lang>/extracted --all` — checks
+  transcription completeness *and* classification coverage (classification
+  is designed 1:1 with pages, so a hole there is the generic signal that an
+  enrichment batch vanished, exactly like the goyal incident). Run it after
+  every wave and again before packaging; a non-zero exit code means stop,
+  not "note it and continue."
 - **Cross-check delivered numbers against the authoritative export**, not
   against what an agent said it produced. The 2,584→2,830 questions
   correction happened because the actual `*-questions-all.csv` row count
