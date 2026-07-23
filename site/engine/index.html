@@ -10,6 +10,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
 <link rel="icon" href="../assets/img/icon.png">
 <link rel="stylesheet" href="../assets/css/styles.css?v=2">
+<!-- ECharts is an enhancement only — the cost bars below already show every
+     number; if this CDN is ever blocked, initCostChart() no-ops and nothing breaks. -->
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js" defer></script>
 <script>(function(){try{var t=localStorage.getItem('lt-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 </head>
 <body>
@@ -115,6 +118,9 @@
         <h2 class="section-title">Where the usage goes</h2>
         <p class="lead">On subscription accounts you don't pay per token — you spend a <b>usage window</b>.
            So "expensive" means how fast a run eats the window. Reading scans dominates; a chunk is avoidable.</p>
+        <div class="card cost-visual">
+          <div id="cost-donut" class="echart" role="img" aria-label="Donut chart of usage-window share by activity"></div>
+        </div>
         <div data-render="orch-cost"></div>
         <div class="subhead">Making it leaner + more robust</div>
         <div data-render="orch-savers"></div>

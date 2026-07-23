@@ -460,6 +460,11 @@ pre .str{color:#B7F0D8;}
 .layer .ltool{font-size:12px; color:var(--muted); margin-top:2px;}
 .layer .lout{font-size:12.5px; color:var(--body); margin-top:3px;}
 
+/* optional ECharts donut — empty height collapses to 0 if the CDN never loads */
+.cost-visual{padding:8px; margin:14px 0 20px;}
+.echart{width:100%; height:320px;}
+@media (max-width:560px){ .echart{height:260px;} }
+
 /* cost bars + notes */
 .cost-fill{background:linear-gradient(90deg,var(--coral),var(--violet));}
 .cost-note{font-size:12px; color:var(--muted); margin:0 0 12px 144px;}

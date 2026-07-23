@@ -636,6 +636,41 @@
     });
   }
 
+  /* ---- Optional ECharts donut (cost section) — enhancement only -------- */
+  function initCostChart() {
+    var host = $("#cost-donut");
+    if (!host || !LT.orchestration) return;
+    var tries = 0;
+    (function tryInit() {
+      if (typeof window.echarts === "undefined") {
+        if (++tries > 40) return; // ~8s of polling for the deferred CDN script, then give up silently
+        return void setTimeout(tryInit, 200);
+      }
+      var chart = window.echarts.init(host, null, { renderer: "svg" });
+      var palette = ["#7C4DFF", "#41009A", "#FF6B4A", "#FF7675", "#B79CFF", "#00B894"];
+      function cssVar(name) { return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
+      function paint() {
+        chart.setOption({
+          textStyle: { fontFamily: "Nunito, sans-serif" },
+          tooltip: { trigger: "item", formatter: "{b}: {c}%" },
+          series: [{
+            type: "pie", radius: ["48%", "74%"], avoidLabelOverlap: true,
+            itemStyle: { borderColor: cssVar("--surface") || "#fff", borderWidth: 3 },
+            label: { color: cssVar("--text") || "#1A1A2E", formatter: "{b}\n{c}%", fontSize: 11, fontWeight: 700 },
+            labelLine: { length: 10, length2: 8 },
+            data: LT.orchestration.cost.map(function (c, i) {
+              return { name: c.k, value: c.v, itemStyle: { color: palette[i % palette.length] } };
+            })
+          }]
+        }, true);
+      }
+      paint();
+      window.addEventListener("resize", function () { chart.resize(); });
+      var btn = $("#theme-toggle");
+      if (btn) btn.addEventListener("click", function () { setTimeout(paint, 30); });
+    })();
+  }
+
   /* ---- boot ------------------------------------------------------------ */
   function boot() {
     initTopbar();
@@ -645,6 +680,7 @@
     initScrollSpy();
     initTheme();
     initReveal();
+    initCostChart();
   }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);
   else boot();
