@@ -636,6 +636,32 @@
     });
   }
 
+  /* ---- Mobile nav (the .appnav links hide below 720px; this dropdown,
+     opened via the hamburger button, is the only way to reach the other
+     top-level pages on a phone) ------------------------------------------ */
+  function initMobileNav() {
+    var btn = $("#mobile-nav-toggle"), panel = $("#mobile-nav"), scrim = $("#nav-scrim");
+    if (!btn || !panel) return;
+    function isOpen() { return panel.classList.contains("open"); }
+    function open() {
+      panel.classList.add("open");
+      if (scrim) scrim.classList.add("show");
+      document.documentElement.classList.add("nav-lock");
+      btn.setAttribute("aria-expanded", "true");
+    }
+    function close() {
+      panel.classList.remove("open");
+      if (scrim) scrim.classList.remove("show");
+      document.documentElement.classList.remove("nav-lock");
+      btn.setAttribute("aria-expanded", "false");
+    }
+    btn.addEventListener("click", function () { isOpen() ? close() : open(); });
+    if (scrim) scrim.addEventListener("click", close);
+    panel.addEventListener("click", function (e) { if (e.target.tagName === "A") close(); });
+    window.addEventListener("keydown", function (e) { if (e.key === "Escape" && isOpen()) close(); });
+    window.addEventListener("resize", function () { if (isOpen() && window.innerWidth > 720) close(); });
+  }
+
   /* ---- Optional ECharts donut (cost section) — enhancement only -------- */
   function initCostChart() {
     var host = $("#cost-donut");
@@ -652,6 +678,7 @@
       function paint() {
         chart.setOption({
           textStyle: { fontFamily: "Nunito, sans-serif" },
+          animation: !_reduceMotion,
           tooltip: { trigger: "item", formatter: "{b}: {c}%" },
           series: [{
             type: "pie", radius: ["48%", "74%"], avoidLabelOverlap: true,
@@ -680,6 +707,7 @@
     initScrollSpy();
     initTheme();
     initReveal();
+    initMobileNav();
     initCostChart();
   }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);

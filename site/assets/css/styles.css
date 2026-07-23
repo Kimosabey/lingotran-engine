@@ -12,6 +12,14 @@
   --body-grey:#444444; --muted-grey:#666666; --border-grey:#DDDDDD; --caption-grey:#AAAAAA;
   --lilac:#F0E6FF; --cream:#FAF6F0; --off-white:#FAFAFA; --white:#FFFFFF;
 
+  /* WCAG-safe variants: --coral (#FF6B4A) is only 2.8:1 on white — fine for
+     borders/fills/large decoration, but fails AA for text. --coral-text is
+     theme-aware (dark mode swaps back to the bright value, which already
+     passes on a near-black background). --pill-*-bg are for small white-text
+     chips (tier-pill/tier-dot) where the raw --coral/--success also fail. */
+  --coral-text:#B34B34;
+  --pill-coral-bg:#B34B34; --pill-success-bg:#008168;
+
   --sans:'Nunito','Helvetica Neue',Helvetica,Arial,sans-serif;
   --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
 
@@ -60,6 +68,7 @@
     --chart-track:rgba(255,255,255,.09);
     --chart-fill:linear-gradient(90deg,#7C4DFF,#B79CFF);
     --scrim:rgba(0,0,0,.6);
+    --coral-text:#FF6B4A; /* the bright value already passes AA on a near-black bg */
   }
 }
 :root[data-theme="dark"]{
@@ -72,6 +81,7 @@
   --chart-track:rgba(255,255,255,.09);
   --chart-fill:linear-gradient(90deg,#7C4DFF,#B79CFF);
   --scrim:rgba(0,0,0,.6);
+  --coral-text:#FF6B4A;
 }
 
 /* ---- 2. Base ------------------------------------------------------------ */
@@ -154,7 +164,7 @@ img{max-width:100%;}
   :root:not([data-theme="light"]) .icon-btn .sun{display:none;}
   :root:not([data-theme="light"]) .icon-btn .moon{display:block;}
 }
-.hamburger{display:inline-flex;}
+.hamburger{display:none;}
 
 /* app-bar inline nav (top-level pages) */
 .appnav{display:flex; align-items:center; gap:2px; margin-left:6px;}
@@ -181,21 +191,6 @@ img{max-width:100%;}
 .subnav a.active{color:var(--accent); background:var(--accent-soft);}
 .subnav a.hide{display:none;}
 .subnav .divider{flex:none; width:1px; height:20px; background:var(--border); margin:0 8px;}
-.nav-group{margin-bottom:var(--sp-5);}
-.nav-group > .nav-title{
-  font-weight:800; font-size:11px; letter-spacing:.8px; text-transform:uppercase;
-  color:var(--muted); padding:0 12px; margin:0 0 8px;
-}
-.nav-link{
-  display:flex; align-items:center; gap:9px; padding:7px 12px; margin:1px 0;
-  font-size:14px; font-weight:600; color:var(--body); border-radius:9px;
-  cursor:pointer; transition:background .12s,color .12s;
-}
-.nav-link:hover{background:var(--surface-2); text-decoration:none; color:var(--text);}
-.nav-link.active{background:var(--accent-soft); color:var(--accent);}
-.nav-link .dot{width:6px; height:6px; border-radius:50%; background:currentColor; opacity:.5; flex:none;}
-.nav-link.sub{padding-left:28px; font-size:13.5px; font-weight:500;}
-.nav-empty{padding:10px 12px; font-size:13px; color:var(--muted);}
 
 .main{min-width:0; padding:var(--sp-7) var(--sp-6) var(--sp-8);}
 .content{max-width:var(--content-max); margin:0 auto;}
@@ -221,14 +216,14 @@ img{max-width:100%;}
 /* ---- 5. Sections & typography ------------------------------------------ */
 .section{padding-top:var(--sp-7);}
 .section:first-of-type{padding-top:var(--sp-2);}
-.eyebrow{font-weight:700; font-size:12px; letter-spacing:1.6px; text-transform:uppercase; color:var(--coral); display:block; margin:0 0 10px;}
+.eyebrow{font-weight:700; font-size:12px; letter-spacing:1.6px; text-transform:uppercase; color:var(--coral-text); display:block; margin:0 0 10px;}
 .section-title{font-weight:800; font-size:clamp(24px,3vw,34px); line-height:1.18; letter-spacing:-.5px; color:var(--text); margin:0 0 12px;}
 .lead{font-size:17px; line-height:1.65; color:var(--muted); max-width:680px; margin:0 0 8px;}
 .subhead{font-weight:800; font-size:14px; color:var(--text); text-transform:uppercase; letter-spacing:.6px; margin:32px 0 14px;}
 .prose p{margin:0 0 14px; max-width:70ch;}
 .prose strong{color:var(--text); font-weight:700;}
 .inline-purple{color:var(--accent); font-weight:700;}
-.inline-coral{color:var(--coral); font-weight:700;}
+.inline-coral{color:var(--coral-text); font-weight:700;}
 hr.rule{border:0; border-top:1px solid var(--border); margin:var(--sp-6) 0 0;}
 
 /* ---- 6. Cards ----------------------------------------------------------- */
@@ -243,7 +238,7 @@ hr.rule{border:0; border-top:1px solid var(--border); margin:var(--sp-6) 0 0;}
 .note{background:var(--surface-3); border-left:4px solid var(--brand-purple); border-radius:0 var(--r-md) var(--r-md) 0; padding:14px 18px; margin:18px 0; font-size:14.5px; color:var(--pill-purple);}
 :root[data-theme="dark"] .note{color:#E9DEFF;}
 @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .note{color:#E9DEFF;} }
-.note.coral{border-left-color:var(--coral); background:rgba(255,107,74,.10); color:var(--coral);}
+.note.coral{border-left-color:var(--coral); background:rgba(255,107,74,.10); color:var(--coral-text);}
 .note b{font-weight:800;}
 
 /* pills / chips / badges */
@@ -253,7 +248,7 @@ hr.rule{border:0; border-top:1px solid var(--border); margin:var(--sp-6) 0 0;}
 @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .chip-tag{color:#D9C9FF; background:rgba(124,77,255,.16);} }
 .badge{display:inline-flex; align-items:center; gap:6px; font-weight:700; font-size:11.5px; letter-spacing:.4px; text-transform:uppercase; padding:3px 10px; border-radius:var(--r-pill); border:1px solid transparent;}
 .badge.ok{color:var(--success); background:rgba(0,184,148,.12); border-color:rgba(0,184,148,.3);}
-.badge.warn{color:var(--coral); background:rgba(255,107,74,.12); border-color:rgba(255,107,74,.3);}
+.badge.warn{color:var(--coral-text); background:rgba(255,107,74,.12); border-color:rgba(255,107,74,.3);}
 .badge.idle{color:var(--muted); background:var(--surface-2); border-color:var(--border);}
 .badge .d{width:6px; height:6px; border-radius:50%; background:currentColor;}
 
@@ -374,7 +369,6 @@ pre .str{color:#B7F0D8;}
 .site-footer a{color:var(--muted);} .site-footer a:hover{color:var(--accent);}
 
 /* ---- 14. Search hiding + misc ------------------------------------------ */
-.nav-link.hide, .nav-group.hide{display:none;}
 .kbd{font-family:var(--mono); font-size:12px; background:var(--surface-2); border:1px solid var(--border); border-radius:5px; padding:1px 6px; color:var(--text);}
 .dl{display:grid; grid-template-columns:auto 1fr; gap:6px 18px; font-size:14px; margin:12px 0;}
 .dl dt{font-weight:700; color:var(--text); font-family:var(--mono); font-size:13px;}
@@ -383,7 +377,27 @@ pre .str{color:#B7F0D8;}
 /* ---- 15. Responsive ---------------------------------------------------- */
 .scrim{position:fixed; inset:0; background:var(--scrim); z-index:40; opacity:0; visibility:hidden; transition:opacity .2s;}
 .scrim.show{opacity:1; visibility:visible;}
-@media (max-width:720px){ .appnav{display:none;} }
+
+/* Mobile nav — the .appnav links hide at <=720px; this dropdown (opened via
+   the hamburger button) is the only way to reach French/German/Engine on a
+   phone, so it must always exist alongside the hidden .appnav, not replace it
+   with nothing. */
+.mobile-nav{
+  display:none; position:fixed; top:var(--topbar-h); left:14px; right:14px; z-index:45;
+  flex-direction:column; gap:2px; background:var(--surface); border:1px solid var(--border);
+  border-radius:var(--r-lg); padding:8px; box-shadow:var(--shadow-lg);
+  max-height:calc(100vh - var(--topbar-h) - 24px); overflow-y:auto;
+}
+.mobile-nav.open{display:flex;}
+.mobile-nav a{padding:13px 14px; border-radius:var(--r-md); font-weight:700; font-size:15px; color:var(--body); min-height:44px; display:flex; align-items:center;}
+.mobile-nav a:hover{background:var(--surface-2); color:var(--text); text-decoration:none;}
+.mobile-nav a.active{background:var(--accent-soft); color:var(--accent);}
+/* html.nav-lock{overflow:hidden;} already defined in §2 Base — reused here, not redefined */
+
+@media (max-width:720px){
+  .appnav{display:none;}
+  .hamburger{display:inline-flex;}
+}
 @media (max-width:960px){
   .main{padding:var(--sp-5) var(--sp-4) var(--sp-8);}
   .search{flex:1;}
@@ -437,6 +451,11 @@ pre .str{color:#B7F0D8;}
 .tier-pill{display:inline-flex; align-items:center; gap:5px; font-weight:800; font-size:10px; letter-spacing:.5px; text-transform:uppercase; padding:4px 10px 4px 8px; border-radius:var(--r-pill); color:#fff; background:var(--k,var(--accent));}
 .tier-pill svg{display:block;}
 .tier-dot{width:26px; height:26px; border-radius:8px; background:var(--k,var(--accent)); flex:none; display:grid; place-items:center; color:#fff;}
+/* White text directly on raw --coral/--success fails WCAG AA (2.5-2.8:1) —
+   these two kinds get a darkened, accessible background just for this
+   white-on-chip case; decorative borders elsewhere keep the vibrant --k. */
+.tier-pill.k-text, .tier-dot.k-text{background:var(--pill-coral-bg);}
+.tier-pill.k-free, .tier-dot.k-free{background:var(--pill-success-bg);}
 
 /* role cards */
 .card.role{border-left:3px solid var(--k,var(--accent));}
