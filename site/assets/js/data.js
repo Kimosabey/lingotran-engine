@@ -343,11 +343,145 @@ Return the final verdict.`
       "goyal-a1-young-learners": { title: "German for Young Learners — A1", variant: "young-learners", pages: 104, verified: 104, questions: 1049, words: 118 }
     },
     itemTypes: [
-      { k: "Fill-in", v: 785 }, { k: "Matching", v: 420 }, { k: "Short answer", v: 414 },
-      { k: "Multiple choice", v: 293 }, { k: "Speaking task", v: 274 }, { k: "True/False", v: 157 },
-      { k: "Open-ended", v: 103 }, { k: "Writing task", v: 80 }, { k: "Ordering", v: 58 }
+      { k: "Fill-in", v: 889 }, { k: "Matching", v: 478 }, { k: "Short answer", v: 464 },
+      { k: "Multiple choice", v: 297 }, { k: "Speaking task", v: 282 }, { k: "True/False", v: 162 },
+      { k: "Writing task", v: 97 }, { k: "Open", v: 89 }, { k: "Ordering", v: 58 }, { k: "Open-ended", v: 14 }
     ]
   };
 
-  return { NETLIFY_URL, REPO_URL, engine, metrics, workflow, tools, conventions, french, german };
+  /* ---- Orchestration & models (the "Engine" page) --------------------- */
+  const orchestration = {
+    intro: "The engine only spends a model where a human would need eyes (reading a scan) " +
+      "or judgement (finding an omission, classifying). Everything else is plain Python — " +
+      "free and instant. Work flows one direction; every step writes an artifact the next " +
+      "step reads, so any step is re-runnable and the whole job is resumable.",
+    // The left-to-right pipeline (animated). kind drives the colour + label.
+    flow: [
+      { icon: "file", title: "Source PDF", sub: "scanned or digital", kind: "free" },
+      { icon: "image", title: "Rasterise", sub: "pdf_to_images.py · 300 DPI", kind: "free" },
+      { icon: "eye", title: "Transcribe", sub: "vision · verbatim Markdown", kind: "vision" },
+      { icon: "search", title: "QA check", sub: "vision · adversarial re-read", kind: "vision" },
+      { icon: "wrench", title: "Repair", sub: "vision · only if QA fails", kind: "vision" },
+      { icon: "tag", title: "Enrich", sub: "text · classify + questions + words", kind: "text" },
+      { icon: "grid", title: "Export", sub: "Python · CSVs + docs + dashboard", kind: "free" }
+    ],
+    // Who does what.
+    roles: [
+      { name: "Rasteriser", does: "Turns each PDF page into a 300-DPI image", model: "Python (PyMuPDF)", kind: "free" },
+      { name: "Transcriber", does: "Looks at the page image and types every word, verbatim", model: "Vision — Opus 4.8", kind: "vision" },
+      { name: "QA checker", does: "Reads the same image again as a sceptic, hunting for anything missed", model: "Vision — Opus 4.8", kind: "vision" },
+      { name: "Repairer", does: "Fixes only the pages QA flagged, then re-verifies", model: "Vision — Opus 4.8", kind: "vision" },
+      { name: "Classifier", does: "Tags each page's topic + activity from the typed text", model: "Text — Sonnet / Haiku", kind: "text" },
+      { name: "Question extractor", does: "Pulls out each exercise item + its answer", model: "Text — Sonnet / Haiku", kind: "text" },
+      { name: "Vocabulary extractor", does: "Pulls out word + article + plural + example", model: "Text — Sonnet / Haiku", kind: "text" },
+      { name: "Packager", does: "Builds the CSVs, unified docs, combined sheets, dashboard", model: "Python", kind: "free" }
+    ],
+    // Model tiers.
+    tiers: [
+      { key: "vision", icon: "eye", title: "Vision work", model: "Opus 4.8", why: "Scans are messy — skew, faint pencil, rotated pages. Accuracy here matters most because everything is built on top of it.", jobs: ["Transcribe", "QA", "Repair"] },
+      { key: "text", icon: "type", title: "Text work", model: "Sonnet / Haiku", why: "Only reads the already-typed Markdown — an easy job, so a cheap fast model does it well.", jobs: ["Classify", "Questions", "Vocabulary"] },
+      { key: "free", icon: "cpu", title: "No model", model: "Python", why: "Just moving data around — deterministic, free, instant, re-runnable any time.", jobs: ["Rasterise", "Manifest", "Sheets", "Dashboard"] }
+    ],
+    // The layers (condensed from EXTRACTION-WORKFLOW).
+    layers: [
+      { n: 0, name: "Source", tool: "manual", kind: "free", out: "PDF on disk (gitignored)" },
+      { n: 1, name: "Rasterise", tool: "pdf_to_images.py", kind: "free", out: "page-NNN.png (300 DPI)" },
+      { n: 2, name: "Seed state", tool: "manifest_media.py init", kind: "free", out: "manifest-media.tsv (resume anchor)" },
+      { n: 3, name: "Transcribe", tool: "vision agent", kind: "vision", out: "page-NNN.md (verbatim)" },
+      { n: 4, name: "QA", tool: "vision agent", kind: "vision", out: "_qa/page-NNN.json (verdict)" },
+      { n: 5, name: "Repair", tool: "vision agent", kind: "vision", out: "corrected page + verdict" },
+      { n: 6, name: "Fold verdicts", tool: "manifest_media.py qa-apply", kind: "free", out: "frontmatter + manifest state" },
+      { n: 7, name: "Unify", tool: "catalog.py", kind: "free", out: "<collection>.md + catalog.csv" },
+      { n: 8, name: "Classify", tool: "text agent", kind: "text", out: "_class.json (topic · activity)" },
+      { n: 9, name: "Questions", tool: "text agent", kind: "text", out: "_questions.json (item + answer)" },
+      { n: 10, name: "Vocabulary", tool: "text agent", kind: "text", out: "_vocab/chunk-*.json" },
+      { n: 11, name: "Export", tool: "questions.py · vocabulary.py · merge_all.py", kind: "free", out: "all CSVs + combined sheets" },
+      { n: 12, name: "Dashboard", tool: "manifest_media.py dashboard", kind: "free", out: "MANIFEST-MEDIA.md" }
+    ],
+    // Real end-to-end use cases — the flow above applied to actual pages.
+    usecases: [
+      {
+        title: "A scanned exercise page",
+        input: "Netzwerk Kursbuch, page 66 — a printed WhatsApp-style chat exercise. No digital text, just ink on paper.",
+        steps: [
+          { icon: "image", label: "Rasterise" }, { icon: "eye", label: "Transcribe" },
+          { icon: "search", label: "QA re-read" }, { icon: "tag", label: "Classify" },
+          { icon: "type", label: "Extract item" }, { icon: "grid", label: "Export" }
+        ],
+        output: "netzwerk-a1-kursbuch-questions.csv → item_type: reading-comprehension · topic: communication · source_page: 066"
+      },
+      {
+        title: "Cross-referencing an answer key",
+        input: "Netzwerk Test Booklet — 38 exercises on pages 6-48, with the Lösungen (answer key) printed separately on pages 49-53.",
+        steps: [
+          { icon: "eye", label: "Transcribe both" }, { icon: "type", label: "Read exercise + key together" },
+          { icon: "tag", label: "Match item → answer" }, { icon: "grid", label: "Export" }
+        ],
+        output: "netzwerk-a1-test-booklet-questions.csv → 377 of 415 rows carry a filled correct_answer, matched from the key"
+      },
+      {
+        title: "A dense alphabetical word list",
+        input: "Netzwerk Kursbuch, pages 160-174 — the book's back-of-book Wortliste, ~780 entries per page, three columns.",
+        steps: [
+          { icon: "image", label: "Rasterise" }, { icon: "eye", label: "Transcribe" },
+          { icon: "type", label: "Extract word + article + plural" }, { icon: "grid", label: "Export" }
+        ],
+        output: "netzwerk-a1-kursbuch-vocabulary.csv → 1,971 words, one row each (word · article · plural · example · topic)"
+      },
+      {
+        title: "A digital-born PDF — the recommended path (not yet run on this corpus)",
+        input: "A PDF exported straight from a word processor — the text is already selectable, not a scan. None of the 10 books here needed this path; it's the efficiency upgrade proposed for a future source.",
+        steps: [
+          { icon: "file", label: "Detect text layer" }, { icon: "type", label: "Extract text (Python)" },
+          { icon: "tag", label: "Classify" }, { icon: "grid", label: "Export" }
+        ],
+        output: "Same page.md shape — but vision, transcribe and QA are skipped entirely. Zero usage-window spent on this page."
+      }
+    ],
+
+    // Share of the usage window (subscription accounts — not $ per token).
+    cost: [
+      { k: "Transcription", v: 45, note: "read image + type — unavoidable for real scans" },
+      { k: "QA (2nd image read)", v: 35, note: "the biggest 'is it worth it?' cost" },
+      { k: "Wasted re-runs", v: 10, note: "agents killed mid-work by limits — avoidable" },
+      { k: "Enrichment (text)", v: 8, note: "cheap, on a small model" },
+      { k: "Repair", v: 2, note: "rare" },
+      { k: "Python steps", v: 0, note: "free" }
+    ],
+    savers: [
+      ["Detect a text layer first", "Digital PDFs already contain text — pull it out with Python for free and skip vision entirely. Huge saving."],
+      ["Tier the QA", "Auto-pass trivial pages (covers/TOC); full image-QA only on real content. Roughly halves the biggest cost."],
+      ["Right-size model + effort", "Opus for hard scans; Haiku + low effort for clean pages and wordlists."],
+      ["One-pass enrichment", "One text read emits classify + questions + vocab together, not three reads."],
+      ["Run heavy waves on a fresh window", "The #1 avoidable loss was feeding expensive agents into an almost-empty usage window."]
+    ],
+    // Effort ledger — honest counts + the real journey (multi-session, over ~3 days).
+    effort: {
+      summary: "This wasn't one clean run. It was built across many sessions over roughly three days, " +
+        "surviving account switches, an API overload storm, and repeated usage-limit resets — with " +
+        "zero data lost, because every page is written to disk atomically and progress is recomputed " +
+        "from disk truth on every resume.",
+      ledger: [
+        { num: "636", lab: "Pages transcribed", sub: "word-for-word, every one" },
+        { num: "636", lab: "Pages QA-verified", sub: "independent adversarial re-read, 0 gaps" },
+        { num: "2,830", lab: "Questions extracted", sub: "with answers, where a key exists" },
+        { num: "3,751", lab: "Vocabulary words", sub: "word · article · plural · example" }
+      ],
+      timeline: [
+        { phase: "Acquire + rasterise", eta: "minutes · free", detail: "10 book-sets downloaded; every page rendered to a 300-DPI image by Python." },
+        { phase: "Transcribe + QA", eta: "the long pole · many sessions", detail: "Each page read by a vision model, typed verbatim, then re-read by an independent checker. ~5-6 pages per agent, ~7-30 min each. Spanned several usage windows." },
+        { phase: "Recover + verify to 100%", eta: "iterative", detail: "Killed/failed pages recomputed from disk and re-run until the completeness gate showed 0 gaps across all 636 pages." },
+        { phase: "Enrich", eta: "~1 session", detail: "25 text passes pulled out the question bank + word lists; a disk-truth check caught one missing chunk (goyal 37-54) and it was re-run." },
+        { phase: "Export + package + deliver", eta: "minutes · free", detail: "Python built every CSV, unified doc, combined sheet, dashboard and the content-team START-HERE." }
+      ],
+      resilience: [
+        "Survived multiple account switches mid-run",
+        "Survived a 529 API-overload storm",
+        "Survived session-limit + credit resets",
+        "Zero pages lost — every resume recomputed from disk"
+      ]
+    }
+  };
+
+  return { NETLIFY_URL, REPO_URL, engine, orchestration, metrics, workflow, tools, conventions, french, german };
 })();

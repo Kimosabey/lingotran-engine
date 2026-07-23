@@ -394,3 +394,99 @@ pre .str{color:#B7F0D8;}
   .pagehero{padding:28px 22px;}
 }
 @media (prefers-reduced-motion:reduce){ *{transition:none !important; scroll-behavior:auto !important;} }
+
+/* ---- 16. Engine page: orchestration, roles, tiers, layers, cost -------- */
+/* kind colours */
+.k-vision{--k:var(--violet);} .k-text{--k:var(--coral);} .k-free{--k:var(--success);}
+
+/* scroll-reveal (only hides when JS+IO present, so no-JS stays visible) */
+.js-reveal .reveal{opacity:0; transform:translateY(16px);}
+.js-reveal .reveal.in{opacity:1; transform:none;
+  transition:opacity .55s ease, transform .55s cubic-bezier(.2,.7,.2,1);
+  transition-delay:calc(var(--i,0) * .05s);}
+
+/* animated pipeline */
+.pipe{display:flex; align-items:stretch; flex-wrap:wrap; gap:8px; margin:10px 0 6px;}
+.pipe .node{position:relative; flex:1 1 120px; min-width:120px; background:var(--surface);
+  border:1px solid var(--border); border-top:3px solid var(--k,var(--accent));
+  border-radius:var(--r-lg); padding:14px 12px; box-shadow:var(--shadow-sm);
+  display:flex; flex-direction:column; gap:3px; text-align:center;
+  animation:nodeIn .5s both; animation-delay:calc(var(--i) * .09s);}
+.pipe .node:hover{transform:translateY(-3px); box-shadow:var(--shadow-lg); border-color:var(--k,var(--accent)); transition:transform .15s, box-shadow .15s;}
+.pipe .node .ic{display:flex; justify-content:center; color:var(--k,var(--accent));}
+.pipe .node .nt{font-weight:800; font-size:13.5px; color:var(--text);}
+.pipe .node .ns{font-size:11px; color:var(--muted); line-height:1.35;}
+.pipe .link{flex:0 0 26px; align-self:center; height:3px; border-radius:2px; background:var(--chart-track); position:relative; overflow:hidden;}
+.pipe .link .dot{position:absolute; top:50%; left:-20%; width:22%; height:3px; transform:translateY(-50%);
+  background:linear-gradient(90deg,transparent,var(--violet),transparent); animation:flowdot 1.9s linear infinite;}
+@media (max-width:760px){
+  .pipe{flex-direction:column;}
+  .pipe .node{flex:none;}
+  .pipe .link{flex:none; width:3px; height:22px; align-self:center;}
+  .pipe .link .dot{left:50%; top:-20%; width:3px; height:22%; transform:translateX(-50%);
+    background:linear-gradient(180deg,transparent,var(--violet),transparent); animation:flowdotv 1.9s linear infinite;}
+}
+@keyframes flowdot{0%{left:-25%} 100%{left:115%}}
+@keyframes flowdotv{0%{top:-25%} 100%{top:115%}}
+@keyframes nodeIn{from{opacity:0; transform:translateY(12px) scale(.98);} to{opacity:1; transform:none;}}
+.pipe-legend{display:flex; flex-wrap:wrap; gap:16px; margin-top:12px;}
+.pipe-legend .lg{display:inline-flex; align-items:center; gap:7px; font-size:12.5px; font-weight:700; color:var(--muted);}
+.pipe-legend .lg i{width:11px; height:11px; border-radius:3px; background:var(--k,var(--accent));}
+
+/* tier pills / dots */
+.tier-pill{display:inline-flex; align-items:center; gap:5px; font-weight:800; font-size:10px; letter-spacing:.5px; text-transform:uppercase; padding:4px 10px 4px 8px; border-radius:var(--r-pill); color:#fff; background:var(--k,var(--accent));}
+.tier-pill svg{display:block;}
+.tier-dot{width:26px; height:26px; border-radius:8px; background:var(--k,var(--accent)); flex:none; display:grid; place-items:center; color:#fff;}
+
+/* role cards */
+.card.role{border-left:3px solid var(--k,var(--accent));}
+.card.role .toprow{display:flex; align-items:center; justify-content:space-between; gap:10px;}
+.role-model{font-size:12.5px; color:var(--text);}
+.role-model .mono{background:var(--surface-2); padding:3px 9px; border-radius:6px; font-size:12px;}
+
+/* model tier columns */
+.card.tier{border-top:3px solid var(--k,var(--accent));}
+.card.tier .tier-head{display:flex; align-items:center; gap:10px;}
+.card.tier .tier-head h3{margin:0;}
+.card.tier .tier-model{display:inline-block; margin-top:10px; font-weight:800; font-size:13px; color:var(--k,var(--accent)); background:var(--surface-2); padding:4px 11px; border-radius:var(--r-pill);}
+
+/* layers timeline */
+.layers{position:relative; margin:12px 0; padding-left:8px;}
+.layer{position:relative; display:flex; gap:14px; padding:12px 0; border-left:2px solid var(--border); margin-left:16px; padding-left:22px;}
+.layer::before{content:""; position:absolute; left:-8px; top:16px; width:14px; height:14px; border-radius:50%; background:var(--surface); border:3px solid var(--k,var(--accent));}
+.layer .ln{position:absolute; left:-34px; top:12px; width:22px; text-align:right; font-weight:800; font-size:12px; color:var(--muted); font-variant-numeric:tabular-nums;}
+.layer .lname{display:flex; align-items:center; gap:9px;}
+.layer .lname b{font-weight:800; color:var(--text); font-size:15px;}
+.layer .ltool{font-size:12px; color:var(--muted); margin-top:2px;}
+.layer .lout{font-size:12.5px; color:var(--body); margin-top:3px;}
+
+/* cost bars + notes */
+.cost-fill{background:linear-gradient(90deg,var(--coral),var(--violet));}
+.cost-note{font-size:12px; color:var(--muted); margin:0 0 12px 144px;}
+@media (max-width:560px){ .cost-note{margin-left:108px;} }
+
+/* savers */
+.savers{display:flex; flex-direction:column; gap:12px; margin:12px 0;}
+.saver{display:flex; gap:14px; align-items:flex-start; background:var(--surface); border:1px solid var(--border); border-radius:var(--r-lg); padding:16px 18px; box-shadow:var(--shadow-sm);}
+.saver .sv-n{flex:none; width:28px; height:28px; border-radius:9px; display:grid; place-items:center; font-weight:800; font-size:14px; color:#fff; background:var(--grad-brand);}
+.saver b{color:var(--text); font-weight:800;}
+
+/* use-case cards: mini step chips + result line */
+.card.usecase h3{font-size:16px;}
+.steps-mini{display:flex; flex-wrap:wrap; align-items:center; gap:6px; margin:14px 0 4px;}
+.steps-mini .st{display:inline-flex; align-items:center; gap:6px; background:var(--surface-2); border:1px solid var(--border); border-radius:var(--r-pill); padding:6px 12px 6px 10px; font-size:12.5px; font-weight:700; color:var(--text); white-space:nowrap;}
+.steps-mini .st-ic{display:inline-flex; color:var(--accent);}
+.steps-mini .st-ic svg{display:block;}
+.steps-mini .ar{color:var(--muted); font-weight:800; font-size:13px;}
+.usecase-out{margin-top:12px; padding-top:12px; border-top:1px dashed var(--border); font-size:13px;}
+.usecase-out .uo-lab{font-weight:800; font-size:11px; letter-spacing:.5px; text-transform:uppercase; color:var(--success); margin-right:9px;}
+
+/* resilience chips with a leading check icon */
+.chip-tag{display:inline-flex; align-items:center; gap:6px;}
+.chip-ic{display:inline-flex; color:var(--success);}
+.chip-ic svg{display:block;}
+
+@media (prefers-reduced-motion:reduce){
+  .pipe .link .dot{animation:none; opacity:.5;}
+  .pipe .node{animation:none;}
+}

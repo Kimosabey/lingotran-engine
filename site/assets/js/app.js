@@ -24,6 +24,26 @@
     return n;
   }
   function esc(s) { var d = document.createElement("div"); d.textContent = s == null ? "" : String(s); return d.innerHTML; }
+
+  /* ---- Iconography (inline SVG, stroke-based — matches the topbar icons) */
+  var ICON_PATHS = {
+    file: '<path d="M7 3h7l4 4v13a1 1 0 01-1 1H7a1 1 0 01-1-1V4a1 1 0 011-1z"/><path d="M14 3v4h4"/>',
+    image: '<rect x="4" y="5" width="16" height="14" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="M4 16l4.5-4.5a1.5 1.5 0 012.1 0L14 15l1.5-1.5a1.5 1.5 0 012.1 0L20 16"/>',
+    eye: '<path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="3"/>',
+    search: '<circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/>',
+    wrench: '<path d="M14.7 6.3a4 4 0 00-5.4 5.4L4 17l3 3 5.3-5.3a4 4 0 005.4-5.4l-2.6 2.6-2-2 2.6-2.6z"/>',
+    tag: '<path d="M20 12.5L12.5 20a1.5 1.5 0 01-2.1 0l-6.4-6.4a1.5 1.5 0 010-2.1L11.5 4H19a1 1 0 011 1v7.5z"/><circle cx="15" cy="9" r="1.4"/>',
+    grid: '<rect x="3" y="3" width="7" height="7" rx="1.4"/><rect x="14" y="3" width="7" height="7" rx="1.4"/><rect x="3" y="14" width="7" height="7" rx="1.4"/><rect x="14" y="14" width="7" height="7" rx="1.4"/>',
+    type: '<path d="M5 6h14M12 6v13"/>',
+    cpu: '<rect x="7" y="7" width="10" height="10" rx="1.4"/><path d="M9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M3 15h3M18 9h3M18 15h3"/>',
+    check: '<path d="M20 6L9 17l-5-5"/>'
+  };
+  function icon(key, size) {
+    var s = size || 18, p = ICON_PATHS[key];
+    if (!p) return "";
+    return '<svg width="' + s + '" height="' + s + '" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' +
+      'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + p + '</svg>';
+  }
   function resolve(path) { // "french.books.conjugaison-a1-a2.charts.contentType"
     return path.split(".").reduce(function (o, k) { return o == null ? o : o[k]; }, LT);
   }
@@ -399,6 +419,146 @@
       m.appendChild(grid);
     },
 
+    /* ---- Engine / orchestration page ---------------------------------- */
+    "orch-flow": function (m) {
+      var o = LT.orchestration; if (!o) return;
+      var pipe = el("div", { class: "pipe" });
+      o.flow.forEach(function (s, i) {
+        if (i) pipe.appendChild(el("div", { class: "link", "aria-hidden": "true" }, [el("span", { class: "dot" })]));
+        pipe.appendChild(el("div", { class: "node k-" + s.kind, style: "--i:" + i }, [
+          el("span", { class: "ic", html: icon(s.icon, 22) }),
+          el("span", { class: "nt", text: s.title }),
+          el("span", { class: "ns", text: s.sub })
+        ]));
+      });
+      m.appendChild(pipe);
+      var lg = el("div", { class: "pipe-legend" }, [
+        el("span", { class: "lg k-vision" }, [el("i"), "Vision model (Opus)"]),
+        el("span", { class: "lg k-text" }, [el("i"), "Text model (Haiku/Sonnet)"]),
+        el("span", { class: "lg k-free" }, [el("i"), "Python (free)"])
+      ]);
+      m.appendChild(lg);
+    },
+    "orch-usecases": function (m) {
+      var o = LT.orchestration; if (!o) return;
+      o.usecases.forEach(function (u, i) {
+        var mini = el("div", { class: "steps-mini" });
+        u.steps.forEach(function (s, j) {
+          if (j) mini.appendChild(el("span", { class: "ar", text: "→" }));
+          mini.appendChild(el("span", { class: "st" }, [el("span", { class: "st-ic", html: icon(s.icon, 14) }), s.label]));
+        });
+        m.appendChild(el("div", { class: "card usecase reveal", style: "--i:" + i }, [
+          el("h3", { text: u.title }),
+          el("p", { class: "card-sub", style: "margin:6px 0 0", text: u.input }),
+          mini,
+          el("div", { class: "usecase-out" }, [
+            el("span", { class: "uo-lab", text: "Result" }),
+            el("code", { class: "code-inline", text: u.output })
+          ])
+        ]));
+      });
+    },
+    "orch-roles": function (m) {
+      var o = LT.orchestration; if (!o) return;
+      var grid = el("div", { class: "grid cols-2" });
+      o.roles.forEach(function (r, i) {
+        grid.appendChild(el("div", { class: "card role reveal k-" + r.kind, style: "--i:" + i }, [
+          el("div", { class: "toprow" }, [el("h3", { text: r.name }),
+            el("span", { class: "tier-pill k-" + r.kind, html: icon(r.kind === "vision" ? "eye" : r.kind === "text" ? "type" : "cpu", 12) + "<span>" + (r.kind === "vision" ? "vision" : r.kind === "text" ? "text" : "free") + "</span>" })]),
+          el("p", { class: "card-sub", style: "margin:8px 0 12px", text: r.does }),
+          el("div", { class: "role-model" }, [el("span", { class: "mono", text: r.model })])
+        ]));
+      });
+      m.appendChild(grid);
+    },
+    "orch-tiers": function (m) {
+      var o = LT.orchestration; if (!o) return;
+      var grid = el("div", { class: "grid cols-3" });
+      o.tiers.forEach(function (t, i) {
+        grid.appendChild(el("div", { class: "card tier reveal k-" + t.key, style: "--i:" + i }, [
+          el("div", { class: "tier-head" }, [
+            el("span", { class: "tier-dot k-" + t.key, html: icon(t.icon, 16) }),
+            el("h3", { text: t.title })
+          ]),
+          el("div", { class: "tier-model mono", text: t.model }),
+          el("p", { class: "card-sub", style: "margin:10px 0 12px", text: t.why }),
+          el("div", { class: "chips" }, t.jobs.map(function (j) { return el("span", { class: "chip-tag", text: j }); }))
+        ]));
+      });
+      m.appendChild(grid);
+    },
+    "orch-layers": function (m) {
+      var o = LT.orchestration; if (!o) return;
+      var wrap = el("div", { class: "layers" });
+      o.layers.forEach(function (L, i) {
+        wrap.appendChild(el("div", { class: "layer reveal k-" + L.kind, style: "--i:" + i }, [
+          el("span", { class: "ln", text: L.n }),
+          el("div", { class: "lbody" }, [
+            el("div", { class: "lname" }, [el("b", { text: L.name }),
+              el("span", { class: "tier-pill k-" + L.kind, html: icon(L.kind === "vision" ? "eye" : L.kind === "text" ? "type" : "cpu", 11) + "<span>" + (L.kind === "vision" ? "vision" : L.kind === "text" ? "text" : "free") + "</span>" })]),
+            el("div", { class: "ltool mono", text: L.tool }),
+            el("div", { class: "lout", text: "→ " + L.out })
+          ])
+        ]));
+      });
+      m.appendChild(wrap);
+    },
+    "orch-cost": function (m) {
+      var o = LT.orchestration; if (!o) return;
+      var chart = el("div", { class: "chart" });
+      o.cost.forEach(function (c) {
+        chart.appendChild(el("div", { class: "row" }, [
+          el("div", { class: "k", text: c.k }),
+          el("div", { class: "track" }, [el("div", { class: "fill cost-fill", "data-w": c.v, style: "width:0" })]),
+          el("div", { class: "v" }, [document.createTextNode(c.v + "%")])
+        ]));
+        chart.appendChild(el("div", { class: "cost-note", text: c.note }));
+      });
+      m.appendChild(chart);
+      // animate fills in when scrolled into view
+      revealFills(chart);
+    },
+    "orch-savers": function (m) {
+      var o = LT.orchestration; if (!o) return;
+      var ol = el("div", { class: "savers" });
+      o.savers.forEach(function (s, i) {
+        ol.appendChild(el("div", { class: "saver reveal", style: "--i:" + i }, [
+          el("span", { class: "sv-n", text: (i + 1) }),
+          el("div", {}, [el("b", { text: s[0] }), el("p", { class: "card-sub", style: "margin:4px 0 0", text: s[1] })])
+        ]));
+      });
+      m.appendChild(ol);
+    },
+
+    "orch-ledger": function (m) {
+      var e = LT.orchestration && LT.orchestration.effort; if (!e) return;
+      var grid = el("div", { class: "stat-cards" });
+      e.ledger.forEach(function (c) {
+        grid.appendChild(el("div", { class: "stat-card" }, [
+          el("div", { class: "num", text: c.num }), el("div", { class: "lab", text: c.lab }),
+          el("div", { class: "sub", text: c.sub })
+        ]));
+      });
+      m.appendChild(grid);
+    },
+    "orch-timeline": function (m) {
+      var e = LT.orchestration && LT.orchestration.effort; if (!e) return;
+      var wrap = el("div", { class: "layers" });
+      e.timeline.forEach(function (t, i) {
+        wrap.appendChild(el("div", { class: "layer reveal", style: "--i:" + i }, [
+          el("span", { class: "ln", text: i + 1 }),
+          el("div", { class: "lbody" }, [
+            el("div", { class: "lname" }, [el("b", { text: t.phase }), el("span", { class: "tier-pill", style: "background:var(--accent)", text: t.eta })]),
+            el("div", { class: "lout", style: "margin-top:4px", text: t.detail })
+          ])
+        ]));
+      });
+      m.appendChild(wrap);
+      var res = el("div", { class: "chips", style: "margin-top:18px" });
+      e.resilience.forEach(function (r) { res.appendChild(el("span", { class: "chip-tag" }, [el("span", { class: "chip-ic", html: icon("check", 12) }), r])); });
+      m.appendChild(res);
+    },
+
     "german-exports": function (m) {
       var rows = (LT.german && LT.german.exports) || [];
       var tbl = el("table", { class: "table" });
@@ -416,6 +576,31 @@
       m.appendChild(el("div", { class: "table-wrap" }, [tbl]));
     }
   };
+
+  /* ---- Scroll reveal (progressive, no-JS-safe) ------------------------- */
+  var _reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function initReveal() {
+    var nodes = $all(".reveal");
+    if (!nodes.length) return;
+    if (_reduceMotion || !("IntersectionObserver" in window)) {
+      nodes.forEach(function (n) { n.classList.add("in"); });
+      return;
+    }
+    document.documentElement.classList.add("js-reveal"); // gate: hidden only when JS+IO present
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } });
+    }, { rootMargin: "0px 0px -8% 0px", threshold: 0.12 });
+    nodes.forEach(function (n) { io.observe(n); });
+  }
+  function revealFills(root) {
+    var fills = $all(".cost-fill", root);
+    function paint() { fills.forEach(function (f) { f.style.width = (f.getAttribute("data-w") || 0) + "%"; }); }
+    if (_reduceMotion || !("IntersectionObserver" in window)) { paint(); return; }
+    var io = new IntersectionObserver(function (entries) {
+      if (entries.some(function (e) { return e.isIntersecting; })) { paint(); io.disconnect(); }
+    }, { threshold: 0.25 });
+    io.observe(root);
+  }
 
   function runRenderers() {
     $all("[data-render]").forEach(function (m) {
@@ -459,6 +644,7 @@
     initSearch();
     initScrollSpy();
     initTheme();
+    initReveal();
   }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);
   else boot();

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Engine — How Lingotran works</title>
+<meta name="description" content="How the Lingotran engine is orchestrated — the layers, roles, agents and models behind zero-data-loss extraction, with the honest cost picture.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
+<link rel="icon" href="../assets/img/icon.png">
+<link rel="stylesheet" href="../assets/css/styles.css?v=2">
+<script>(function(){try{var t=localStorage.getItem('lt-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="../">
+    <img class="logo-light" src="../assets/img/logo-color.png" alt="Lingotran">
+    <img class="logo-dark" src="../assets/img/logo-white.png" alt="Lingotran">
+    <span class="kicker">Extraction Docs</span>
+  </a>
+  <nav class="appnav"><a href="../">Home</a><a href="../french/">French</a><a href="../german/">German</a><a href="./" class="active">Engine</a></nav>
+  <span class="spacer"></span>
+  <div class="search">
+    <span class="ico"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></span>
+    <input id="search-input" type="search" placeholder="Search sections…" aria-label="Search sections">
+    <kbd>/</kbd>
+  </div>
+  <div class="topbar-actions">
+    <a class="icon-btn" data-repo href="#" target="_blank" rel="noopener" aria-label="GitHub repository">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.7 1.3 3.4 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11.5 11.5 0 016 0C17 5 18 5.3 18 5.3c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg>
+    </a>
+    <button class="icon-btn" id="theme-toggle" aria-label="Toggle light/dark theme">
+      <span class="sun"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5L19 19M19 5l-1.5 1.5M6.5 17.5L5 19"/></svg></span>
+      <span class="moon"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M20 14.5A8 8 0 019.5 4 8 8 0 1020 14.5z"/></svg></span>
+    </button>
+  </div>
+</header>
+<nav class="subnav" id="subnav" aria-label="Section navigation"></nav>
+
+<div class="layout">
+  <main class="main">
+    <div class="content">
+
+      <div class="pagehero">
+        <div class="crumbs"><a href="../">Home</a> / Engine</div>
+        <span class="eyebrow">How it works</span>
+        <h1>The Engine</h1>
+        <p>The orchestration behind the corpus — the layers, the roles, the agents and the
+           models that turn a raw PDF into faithful, verified, structured data without losing anything.</p>
+        <div class="hero-tags">
+          <span class="tag">Vision + text + Python</span>
+          <span class="tag">Zero data loss</span>
+          <span class="tag">Adversarial QA</span>
+          <span class="tag">Resumable by design</span>
+        </div>
+      </div>
+
+      <section class="section" id="overview" data-nav="Overview" data-nav-group="How it works">
+        <span class="eyebrow">How it works</span>
+        <h2 class="section-title">Only pay a model where it must think</h2>
+        <p class="lead" id="orch-intro"></p>
+        <div class="note"><b>The one rule.</b> A model is used only for <i>eyes</i> (reading a scan) or
+          <i>judgement</i> (finding an omission, classifying). Moving data around is plain Python — free.</div>
+      </section>
+
+      <section class="section" id="flow" data-nav="The flow" data-nav-group="How it works">
+        <span class="eyebrow">Orchestration</span>
+        <h2 class="section-title">One page, end to end</h2>
+        <p class="lead">Work moves left to right. Each step writes a file the next step reads, so any step
+           re-runs on its own and the whole job resumes after an interruption.</p>
+        <div data-render="orch-flow"></div>
+        <div class="note" style="margin-top:20px"><b>Example — Kursbuch page 66 (a chat screen).</b>
+          Python renders the image → Opus <i>reads the picture</i> and types the 12 chat bubbles in order →
+          Opus <i>reads it again</i> as a sceptic and confirms nothing dropped → a cheap text model tags it
+          <code class="code-inline">dialogue · communication</code> and pulls out the items → Python writes the sheets.</div>
+      </section>
+
+      <section class="section" id="usecases" data-nav="Use cases" data-nav-group="How it works">
+        <span class="eyebrow">Examples</span>
+        <h2 class="section-title">The same pipeline, page by page</h2>
+        <p class="lead">Same flow every time — what changes is which steps a page actually needs. The first
+           three are real pages from this corpus; the fourth is the recommended path for a source not yet
+           encountered here.</p>
+        <div data-render="orch-usecases"></div>
+      </section>
+
+      <section class="section" id="roles" data-nav="Roles &amp; agents" data-nav-group="Who does what">
+        <span class="eyebrow">Who does what</span>
+        <h2 class="section-title">The roles</h2>
+        <p class="lead">Think of it as a small team — a few expensive "thinkers" and a lot of cheap,
+           reliable "machines."</p>
+        <div data-render="orch-roles"></div>
+      </section>
+
+      <section class="section" id="models" data-nav="Models" data-nav-group="Who does what">
+        <span class="eyebrow">Who does what</span>
+        <h2 class="section-title">Which model, and why</h2>
+        <p class="lead">Three tiers. The engine runs end-to-end on one model (Opus 4.8); the cheaper text
+           model is purely a cost saver on the easy work.</p>
+        <div data-render="orch-tiers"></div>
+      </section>
+
+      <section class="section" id="layers" data-nav="The layers" data-nav-group="Detail">
+        <span class="eyebrow">Detail</span>
+        <h2 class="section-title">Thirteen layers, one job each</h2>
+        <p class="lead">Every layer takes a defined input, does exactly one job, and writes an artifact the
+           next layer reads. Any layer can be re-run alone.</p>
+        <div data-render="orch-layers"></div>
+      </section>
+
+      <section class="section" id="cost" data-nav="Cost &amp; efficiency" data-nav-group="Cost">
+        <span class="eyebrow">Cost</span>
+        <h2 class="section-title">Where the usage goes</h2>
+        <p class="lead">On subscription accounts you don't pay per token — you spend a <b>usage window</b>.
+           So "expensive" means how fast a run eats the window. Reading scans dominates; a chunk is avoidable.</p>
+        <div data-render="orch-cost"></div>
+        <div class="subhead">Making it leaner + more robust</div>
+        <div data-render="orch-savers"></div>
+        <div class="note coral" style="margin-top:20px"><b>Biggest single win:</b> detect a text layer first.
+          Digital-born PDFs already contain their text — pull it out with Python for free and skip vision
+          entirely. Vision is only needed for genuine scans.</div>
+      </section>
+
+      <section class="section" id="effort" data-nav="The journey" data-nav-group="Cost">
+        <span class="eyebrow">Behind the numbers</span>
+        <h2 class="section-title">What it actually took</h2>
+        <p class="lead" id="orch-summary"></p>
+        <div data-render="orch-ledger"></div>
+        <div class="subhead">Timeline</div>
+        <div data-render="orch-timeline"></div>
+      </section>
+
+      <footer class="site-footer">
+        <div class="row">
+          <span>Lingotran Engine — Extraction Knowledge Base · <span id="year"></span></span>
+          <span><a data-repo href="#" target="_blank" rel="noopener">GitHub</a> · Built on the Lingotran brand system</span>
+        </div>
+      </footer>
+
+    </div>
+  </main>
+</div>
+
+<script>document.addEventListener('DOMContentLoaded',function(){
+  if(window.LT){
+    var i=document.getElementById('orch-intro');if(i)i.textContent=LT.orchestration.intro;
+    var s=document.getElementById('orch-summary');if(s)s.textContent=LT.orchestration.effort.summary;
+  }
+  var y=document.getElementById('year');if(y)y.textContent=new Date().getFullYear();
+});</script>
+<script src="../assets/js/data.js?v=2"></script>
+<script src="../assets/js/app.js?v=2" defer></script>
+</body>
+</html>

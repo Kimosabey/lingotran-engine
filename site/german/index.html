@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
 <link rel="icon" href="../assets/img/icon.png">
-<link rel="stylesheet" href="../assets/css/styles.css">
+<link rel="stylesheet" href="../assets/css/styles.css?v=2">
 <script>(function(){try{var t=localStorage.getItem('lt-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 </head>
 <body>
@@ -20,7 +20,7 @@
     <img class="logo-dark" src="../assets/img/logo-white.png" alt="Lingotran">
     <span class="kicker">Extraction Docs</span>
   </a>
-  <nav class="appnav"><a href="../">Home</a><a href="../french/">French</a><a href="./" class="active">German</a></nav>
+  <nav class="appnav"><a href="../">Home</a><a href="../french/">French</a><a href="./" class="active">German</a><a href="../engine/">Engine</a></nav>
   <span class="spacer"></span>
   <div class="search">
     <span class="ico"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></span>
@@ -54,7 +54,7 @@
           <span class="tag">10 document sets</span>
           <span class="tag">636 pages</span>
           <span class="tag">100% verified</span>
-          <span class="tag">2,584 questions</span>
+          <span class="tag">2,830 questions</span>
           <span class="tag">3,751 words</span>
         </div>
       </div>
@@ -96,10 +96,11 @@
         <p class="lead">Four deliverables per document set. All CSVs are UTF-8 with BOM, so German umlauts
            render correctly on double-click in Excel.</p>
         <div data-render="german-exports"></div>
-        <div class="note" style="margin-top:22px"><b>2,584 question items break down as</b> 785 fill-in ·
-          420 matching · 414 short-answer · 293 multiple choice · 274 speaking · 157 true/false ·
-          103 open-ended · 80 writing · 58 ordering. <b>1,674</b> carry a keyed correct answer (from the
-          Lösungen / on-page evidence); open-ended Schreiben/Sprechen prompts have no official key.</div>
+        <div class="note" style="margin-top:22px"><b>2,830 question items break down as</b> 889 fill-in ·
+          478 matching · 464 short-answer · 297 multiple choice · 282 speaking · 162 true/false ·
+          97 writing · 89 open · 58 ordering · 14 open-ended. <b>1,864</b> carry a keyed correct answer
+          (from the Lösungen / on-page evidence); the remaining 966 are open-ended Schreiben/Sprechen
+          prompts or items with no printed answer key.</div>
       </section>
 
       <section class="section" id="pipeline" data-nav="How it was built" data-nav-group="German corpus">
@@ -133,7 +134,7 @@
   </main>
 </div>
 
-<script src="../assets/js/data.js"></script>
-<script src="../assets/js/app.js"></script>
+<script src="../assets/js/data.js?v=2"></script>
+<script src="../assets/js/app.js?v=2" defer></script>
 </body>
 </html>
