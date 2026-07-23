@@ -166,10 +166,66 @@ tokens versus "vision + full-QA on every page."
 
 ---
 
-## 6. One-line verdict
+## 6. Cost in real terms — on $25 and $100 subscription accounts
 
-The engine is **correct and safe, and its cost is dominated by two things:
-reading scans (unavoidable) and re-reading them for QA + re-running killed agents
-(largely avoidable).** Add text-layer detection, tier the QA, size the model to
-the page, and run on fresh sessions — and it becomes both cheap *and* robust,
-without giving up zero-data-loss.
+We do **not** pay per token here. We pay a flat monthly fee and get a **usage
+allowance** that refills on a rolling window (a "session" every few hours) with a
+**weekly ceiling** on top. So on these accounts, "expensive" means:
+
+> **how fast a run eats the allowance, and how often it hits the wall** —
+> not a dollar amount per page.
+
+That reframes everything. The token percentages in §3 are really **"share of your
+usage window."** Hitting the wall is exactly what happened this project:
+repeated *"session limit"* / *"out of credits"* → switch accounts → resume.
+
+**Rough capacity (the two tiers):**
+
+| Account | Think of it as | Headroom per window |
+|---|---|---|
+| **~$25/mo** | entry tier | baseline — a *few dozen* heavy vision pages before the wall |
+| **~$100/mo** | ~5× tier | ~5× the headroom — more per window, but still not unlimited |
+
+(Exact limits are dynamic and Anthropic-set; treat these as "the $100 account
+lasts roughly 5× longer per window than the $25 one," not hard numbers.)
+
+**What that means for a job this size (636 vision pages):**
+- This is a **heavy** job. On subscription accounts it does **not** fit in one
+  window — it *will* span several sessions (and it did). That's normal, not a bug.
+- The free Python steps (rasterise, sheets, dashboard, merges) cost **zero
+  allowance** — run them anytime, even at the wall.
+- Enrichment (classify/questions/vocab) is **cheap text work** — it barely dents
+  the allowance, so it's fine on the **$25** account.
+- The **vision transcription + QA** is what drains the window — reserve the
+  **$100** account for that, and start a big wave at the *start* of a fresh
+  window so it doesn't die half-way.
+
+**Why the §5 efficiency wins matter even more here:** every token saved is
+allowance you *don't* spend, so the same job hits the wall **fewer times** and
+finishes in **fewer windows / one account** with **less switching.** Concretely:
+- **Text-layer skip** → digital PDFs cost ~zero allowance (Python), so the $25
+  account alone could handle a digital book.
+- **Tiered QA** → nearly halves the single biggest allowance-drain.
+- **Cheaper model + right effort** → each page spends less of the window.
+
+**Practical playbook for the two accounts:**
+1. Do all free Python steps first/anytime — they never touch the allowance.
+2. Detect text-layer PDFs → extract free; only vision the true scans.
+3. Run the heavy **vision** wave on the **$100** account, at the start of a fresh
+   window, in small (~5-6 page) batches with checkpoints, so a wall costs little.
+4. Run the cheap **enrichment** on the **$25** account.
+5. Watch the usage indicator; when a window is nearly out, stop launching new
+   heavy agents (don't feed 20 expensive agents into an almost-empty window —
+   that's how we lost ~10% to killed-mid-work re-runs).
+
+---
+
+## 7. One-line verdict
+
+The engine is **correct and safe. On subscription accounts its real cost is
+"how much of your usage window it eats" — dominated by reading scans
+(unavoidable) and re-reading them for QA + re-running killed agents (largely
+avoidable).** Add text-layer detection, tier the QA, size the model to the page,
+run heavy vision on the $100 account at a fresh window, and keep enrichment on
+the $25 account — and the same zero-data-loss job hits the wall far less often
+and finishes in fewer windows.
