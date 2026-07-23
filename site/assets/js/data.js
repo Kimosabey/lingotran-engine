@@ -12,6 +12,16 @@ window.LT = (function () {
   const NETLIFY_URL = "https://lingotran-engine.netlify.app";
   const REPO_URL = "https://github.com/Kimosabey/lingotran-engine";
 
+  /* ---- Top-level site pages — single source of truth for the shared
+     topbar/mobile-nav (see app.js renderTopbar). `path` is relative to the
+     site root; add a page here and it appears in the nav on every page. ---- */
+  const sitePages = [
+    { slug: "home", label: "Home", path: "" },
+    { slug: "french", label: "French", path: "french/" },
+    { slug: "german", label: "German", path: "german/" },
+    { slug: "engine", label: "Engine", path: "engine/" }
+  ];
+
   /* ---- Engine ---------------------------------------------------------- */
   const engine = {
     name: "Lingotran Engine",
@@ -483,5 +493,5 @@ Return the final verdict.`
     }
   };
 
-  return { NETLIFY_URL, REPO_URL, engine, orchestration, metrics, workflow, tools, conventions, french, german };
+  return { NETLIFY_URL, REPO_URL, sitePages, engine, orchestration, metrics, workflow, tools, conventions, french, german };
 })();

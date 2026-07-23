@@ -10,13 +10,13 @@ documented as a plan, not yet done.*
 
 ## Scorecard
 
-| Dimension | Before this audit | After the P0 fixes in this pass |
+| Dimension | Before this audit | After this pass (P0 + the P1 de-dup) |
 |---|---|---|
 | Nielsen heuristics | 7.5/10 | 8.5/10 |
 | WCAG 2.2 AA | **Fail** (4 real contrast failures + a navigation dead-end) | Pass on everything found |
 | Visual design / brand consistency | 8.5/10 | 8.5/10 (unchanged — it was already good) |
-| Redundancy / maintainability | 6/10 | 6.5/10 (biggest item — markup duplication — still open, see P1) |
-| **Overall** | **7/10** | **8.5/10** |
+| Redundancy / maintainability | 6/10 | **9/10** (the ~40-line topbar duplication — the biggest item, see §5.1 — is now a single shared render function) |
+| **Overall** | **7/10** | **9/10** |
 
 The visual design was never the weak point — the brand system (purple/violet/
 coral, card language, chart components) is coherent and already reads as
@@ -166,28 +166,29 @@ README if one gets added.
 
 ## 5. P1 — the real path from 8.5 to 10/10
 
-**Markup duplication across the 4 HTML files is the single biggest remaining
-issue**, and it's not hypothetical — it already caused a live bug this
-session: `german/index.html`'s `<script src=".../app.js">` was missing
-`defer` (copy-paste drift from the other 3 pages) until I caught and fixed it.
-Every page repeats ~40 near-identical lines of `<head>` + topbar + mobile-nav
-markup. Any structural change (new nav link, new topbar button, an ARIA fix)
-means editing 4 files by hand and hoping they stay in sync — exactly the kind
-of redundancy that produces exactly this kind of bug.
+### 5.1 Markup duplication across the 4 HTML files — FIXED
+This was the single biggest remaining issue, and it wasn't hypothetical — it
+already caused a live bug this session: `german/index.html`'s
+`<script src=".../app.js">` was missing `defer` (copy-paste drift from the
+other 3 pages) until it was caught and fixed. Every page repeated ~40
+near-identical lines of topbar + mobile-nav markup.
 
-**Recommended fix (no build tool required, fits the existing architecture):**
-the site's own `app.js` already dynamically builds several UI pieces from
-data (subnav tabs, stat cards, charts). Extend that same pattern to the
-topbar/mobile-nav shell: each page keeps a minimal `<header id="topbar-root"
-data-active="german"></header>` placeholder, and a new `renderTopbar(active)`
-function in `app.js` constructs the full markup once, reading the nav list
-from `data.js` (which already lists the 4 top-level pages via
-`engine.languages` — extend that array to include the doc pages, or add a
-small dedicated list). This kills the duplication with zero new tooling,
-consistent with how the rest of the site already works, and it would have
-made the `defer`-attribute bug structurally impossible.
+**Fix shipped:** each page now keeps only a placeholder —
+`<header id="topbar-root" data-active="german"></header>` — and a new
+`renderTopbar()` in `app.js` builds the brand link, nav, search box, GitHub/
+theme/hamburger buttons, and the mobile-nav dropdown from a single
+`LT.sitePages` list in `data.js`. One page = one line of nav-shell HTML; the
+`defer`-attribute class of bug is now structurally impossible, since there's
+only one copy of the script tag left, in `app.js` itself (loaded once per
+page, but authored once, not four times).
 
-**Other P1/P2 items, roughly in priority order:**
+Re-verified after the refactor: headless run on all 4 pages confirms the
+generated `href`s are **byte-identical** to the original hand-written ones
+(checked programmatically, not eyeballed), the mobile-nav open/close/Escape/
+scroll-lock behavior is unchanged, and the theme toggle (now a dynamically
+created button) still works. Zero console errors before or after.
+
+### 5.2 Remaining P1/P2 items, roughly in priority order
 1. **Search sets an expectation it doesn't meet.** The topbar search
    (`placeholder="Search sections…"`) only filters the *current page's* own
    subnav tabs — it is not a cross-page or full-text search, despite reading
