@@ -1,6 +1,6 @@
 # Lingotran Engine — E2E Action Plan
 
-**Iteration:** 1 · **Date:** 2026-07-23 · **Status: recommendations only — nothing in this iteration has been implemented yet.**
+**Iteration:** 1 (2026-07-23) · **Status: iteration-1 P0s/P1s/P2s below were all implemented and independently re-verified as of iteration 2 (2026-07-24)** — see [`lingotran-engine-e2e-review-history.md`](lingotran-engine-e2e-review-history.md). **Iteration-2 actions IT2-P1-1, IT2-P1-2, and IT2-P1-3 below were also implemented and independently re-verified later the same day (2026-07-24)** — see Addendum 3 in the same history doc. **IT2-P2 items remain pending (recommendations only).**
 
 > One actionable item per finding in [`lingotran-engine-e2e-improvements.md`](lingotran-engine-e2e-improvements.md). Each item names the specific minimal change, its effort, and how to verify it worked. All fixes reuse patterns already present in this codebase (the `_common.py` atomic-write pattern, existing print-based warnings) — none introduce a new abstraction, dependency, or framework.
 
@@ -114,6 +114,66 @@
 
 ---
 
-## Next highest-value action
+## Next highest-value action (iteration 1)
 
 **Action P0-1** (stage-then-swap `_exports/`) — of the three P0 items, this is the one sitting directly on top of the actual deliverable handed to a content team, and it's the clearest, cleanest instance of the codebase's own stated invariant being contradicted by its own terminal step. Fix this one first; P0-2 and P0-3 are equally cheap but P0-1 has the largest blast radius if French's current in-progress batch reaches packaging before it's addressed.
+
+*(Status: done — see history doc.)*
+
+---
+
+# Iteration 2 actions — 2026-07-24
+
+New action items only, one per new finding in [`lingotran-engine-e2e-improvements.md`](lingotran-engine-e2e-improvements.md)'s "Iteration 2 additions" section. Same discipline as iteration 1: small, targeted diffs reusing existing patterns, no new abstractions.
+
+## IT2-P1 — fix opportunistically, before it bites once
+
+### Action IT2-P1-1: Route `pdf_to_images.py`'s render through `atomic_save_image`
+
+**File:** `_engine/pdf_to_images.py`
+
+**Change:** Import `atomic_save_image` from `_common` (already used by `rotate.py` the same way) and change `render()`'s `pix.save(os.path.join(out_dir, 'page-%03d.png' % (i + 1)))` (line 35) to `atomic_save_image(pix, os.path.join(out_dir, 'page-%03d.png' % (i + 1)))`. `fitz.Pixmap` already exposes the `.save(path)` interface `atomic_save_image` expects — no adapter needed.
+
+**Effort:** Trivial (one import, one line).
+
+**Verification:** Rasterize a small test PDF and confirm output is byte-identical to today's behavior. Simulate a crash (monkeypatch `Pixmap.save` to raise on one page) mid-render and confirm any already-written pages are untouched and no partial/corrupt file is left at the crashed page's path.
+
+### Action IT2-P1-2: Fix the leading-whitespace corruption in `verify_answers.py`'s true-false auto-fix
+
+**File:** `_engine/verify_answers.py:70`
+
+**Change:** Slice by the same string you stripped, not the original — `it['correct_answer'] = ans.capitalize() + it['correct_answer'].strip()[len(ans):]`, or simpler, just replace the whole thing with the normalized form: `it['correct_answer'] = ans.capitalize()` (since `ans` at this point in the branch is *exactly* `'vrai'` or `'faux'` with nothing else — the existing suffix-preservation logic is unnecessary complexity for a case where there's provably nothing left to preserve once `ans` matches the tuple exactly). The simpler replacement is also the more robust fix.
+
+**Effort:** Trivial (one line).
+
+**Verification:** Add a throwaway item with `correct_answer: " vrai"` and confirm the auto-fix produces `"Vrai"`, not `"Vraii"`.
+
+### Action IT2-P1-3: Give `reconcile.py` a way to distinguish accepted gaps from new ones
+
+**File:** `_engine/reconcile.py`, `collections.json` schema
+
+**Change:** Add an optional per-collection field, e.g. `"accepted_qa_gaps": [3, 5, 27, ...]`, alongside the existing `caveats` array (same pattern, same file, no new mechanism invented). In `main()`'s per-collection loop (`reconcile.py:160-172`), subtract `set(c.get('accepted_qa_gaps', []))` from `qa_fail` before deciding `clean`, and print the two counts separately: `qa verdict not ok, already accepted (N): [...]` and, if any remain, `qa verdict not ok, NEW/unexplained (M): [...]`. Exit code stays 0 only if the unexplained set is empty. This keeps `reconcile.py --all` usable as a real hard-stop gate going forward instead of permanently reporting GAPS FOUND for French from Cosmopolite A1 onward.
+
+**Effort:** Small (one new optional collections.json field per collection, ~10 lines in `reconcile.py`'s existing loop).
+
+**Verification:** Populate `accepted_qa_gaps` with Cosmopolite A1's real 21-page list and confirm `reconcile.py --root french/extracted cosmopolite-a1-methode` now exits 0 with "21 known/accepted, 0 new." Then add a throwaway 22nd qa-fail page not in the list and confirm it's still reported and still exits 1.
+
+## IT2-P2 — fix when convenient, no active risk
+
+| Item | Change | Effort |
+|---|---|---|
+| IT2-P2-1: no tests for `verify_answers.py`/`pdf_to_images.py`/`manifest_media.py` | Add 2-3 small fixture tests mirroring the existing 5 — one for IT2-P1-2's leading-whitespace case, one for IT2-P1-1's crash-mid-render case. Not a coverage mandate; one test per real bug found, matching this project's own established convention. | Small |
+| IT2-P2-2: `_rasterization_gap` has no fixture test | Add one test using a monkeypatched `fitz.open` returning a fixed `page_count` against a smaller on-disk image set (the same approach used to verify it by hand this iteration) — turns an ad-hoc manual check into a permanent regression test. | Small |
+| IT2-P2-3: narrow crash window in `package_exports.py`'s two-step swap | No code change recommended — a true single-step atomic swap of two non-empty directories isn't available in the stdlib on either platform, so the two-step approach is already the right trade-off. Document the residual limitation in the file's own docstring (one sentence), matching this project's practice of naming accepted trade-offs explicitly rather than leaving them implicit. | Trivial (doc only) |
+| IT2-P2-4: unclosed read file handles across several `_engine/*.py` files | Wrap the call sites listed in `improvements.md`'s IT2-P2-4 in `with open(...) as f:` (the same pattern `_frontmatter()` in `manifest_media.py` already uses correctly) instead of the bare `open(path).read()` / `json.load(open(path))` idiom. | Small (mechanical, ~13 call sites) |
+
+## Gaps worth a decision (not P-ranked bugs — see improvements.md and the review narrative)
+
+| Item | Recommended action | Effort |
+|---|---|---|
+| `level_mode: inferred` readiness | Add a small, `verify_answers.py`-style report-only check (auto-fix nothing, just flag): for `inferred`-mode collections, regex-extract the leading CEFR token from each question item's `level` field and flag (don't guess-fix) any that isn't a member of that collection's `level_options`. Do this **before** `tricolore-1-5th-edition` (French's next book) starts, since Cosmopolite A1 (`fixed` mode) never exercises this path at all. | Small |
+| No "done but still exported" protection for an already-delivered `_engine`-native book | Do **not** mark `cosmopolite-a1-methode` `frozen: true` (it would silently drop it from future merged CSVs). Instead, either (a) accept the current "one book at a time, confirm-gated" operator discipline as sufficient and document explicitly that `frozen` is German-legacy-only semantics for now, or (b) if a second layer of protection is wanted, add a distinct field (e.g. `"delivered": true`) that's purely informational today (no code reads it yet) so it's at least visible to a human before dispatching a new transcribe/enrich batch. Recommend (a) for now — (b) is speculative process for a failure that hasn't happened yet, and the existing discipline has held for German and Cosmopolite A1 so far. | Trivial if (a); Small if (b) |
+
+## Next highest-value action (iteration 2)
+
+**Action IT2-P1-3** (accepted-gap tracking in `reconcile.py`) — of the three new P1s, this is the one that will get structurally worse with every future book left unaddressed, since `PLAYBOOK.md` itself documents fine-print/scan-resolution gaps as a normal, permanent, expected outcome on every real scanned book from here on. IT2-P1-1 and IT2-P1-2 are equally cheap one-line-class fixes but don't compound the way IT2-P1-3 does if deferred.

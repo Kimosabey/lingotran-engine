@@ -28,6 +28,17 @@ never against what an agent claimed to have done:
      visibility but NOT gap-checked — legitimately zero items on many pages
      is normal and book-specific, unlike classification's fixed 1:1 rule.)
 
+A qa:fail page that's been individually reviewed and confirmed as a
+permanent, disclosed, unfixable gap (a genuine scan-resolution limit, a
+platform content-safety block, etc.) can be listed by page number in that
+collection's `accepted_qa_gaps` in collections.json -- it still prints
+every run (never silent), just doesn't block "CLEAN" / doesn't set the
+non-zero exit code. This does NOT apply to missing_md/missing_qa (a page
+never even attempted) -- only a page that was actually tried and
+individually reviewed can be accepted. Without this, a book with any
+permanent gaps would report GAPS FOUND forever, burying real new gaps in
+the next book under noise from this book's already-accepted ones.
+
 Usage:
     python _engine/reconcile.py --root french/extracted --all
     python _engine/reconcile.py --root french/extracted <slug> [<slug> ...]
@@ -74,6 +85,17 @@ def _rasterization_gap(root, c):
         return None
     on_disk = _expected_page_count(root, c['slug'])
     return None if real_n == on_disk else (on_disk, real_n)
+
+
+def _partition_accepted_gaps(qa_fail, accepted_pages):
+    """Split qa_fail page numbers into (new, accepted) against the
+    collection's accepted_qa_gaps list. Pulled out as its own pure function
+    so this partitioning -- the actual fix for IT2-P1-3 -- is directly
+    unit-testable without spinning up a full fixture tree for main()."""
+    accepted = set(accepted_pages)
+    new = [p for p in qa_fail if p not in accepted]
+    still_accepted = [p for p in qa_fail if p in accepted]
+    return new, still_accepted
 
 
 def _qa_ok(path):
@@ -158,7 +180,16 @@ def main(argv):
                   % (slug, on_disk, real_n))
 
         missing_md, missing_qa, qa_fail = check_transcription(root, slug, n)
-        transcription_gaps = missing_md + missing_qa + qa_fail
+        # A qa_fail page that's been individually reviewed and confirmed as a
+        # permanent, disclosed, unfixable gap (a genuine scan-resolution
+        # limit, a platform content-safety block, etc. -- see PLAYBOOK.md)
+        # can be listed in collections.json's `accepted_qa_gaps` so the
+        # standing gate stops reporting GAPS FOUND for it forever. This is
+        # NEVER available for missing_md/missing_qa -- a page that was never
+        # even attempted is a different, more serious category and must
+        # always block "clean," no matter what collections.json says.
+        qa_fail_new, qa_fail_accepted = _partition_accepted_gaps(qa_fail, c.get('accepted_qa_gaps', []))
+        transcription_gaps = missing_md + missing_qa + qa_fail_new
         started, class_missing = check_classification(root, slug, n)
         q_count, v_count = _info_counts(root, slug)
 
@@ -168,8 +199,11 @@ def main(argv):
             print('  missing page-NNN.md      (%d): %s' % (len(missing_md), missing_md))
         if missing_qa:
             print('  missing _qa/page-NNN.json (%d): %s' % (len(missing_qa), missing_qa))
-        if qa_fail:
-            print('  qa verdict not ok         (%d): %s' % (len(qa_fail), qa_fail))
+        if qa_fail_new:
+            print('  qa verdict not ok - NEW   (%d): %s' % (len(qa_fail_new), qa_fail_new))
+        if qa_fail_accepted:
+            print('  qa verdict not ok - accepted, disclosed permanent gap (%d): %s'
+                  % (len(qa_fail_accepted), qa_fail_accepted))
         if not started:
             print('  classification: not started yet (informational, not a gap)')
         elif class_missing:

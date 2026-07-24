@@ -22,7 +22,7 @@ import sys
 import fitz  # PyMuPDF
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import parse_root, lang_dir, load_collection_list
+from _common import parse_root, lang_dir, load_collection_list, atomic_save_image
 
 
 def render(pdf_path, out_dir, dpi=300):
@@ -32,7 +32,12 @@ def render(pdf_path, out_dir, dpi=300):
     n = doc.page_count
     for i in range(n):
         pix = doc.load_page(i).get_pixmap(dpi=dpi)
-        pix.save(os.path.join(out_dir, 'page-%03d.png' % (i + 1)))
+        # atomic_save_image works with any object exposing .save(path) --
+        # fitz.Pixmap qualifies the same way a PIL Image does. A `--dpi`
+        # re-run against an already-transcribed collection (a documented,
+        # supported usage) must not risk corrupting a page image that a
+        # transcription is already relying on.
+        atomic_save_image(pix, os.path.join(out_dir, 'page-%03d.png' % (i + 1)))
     doc.close()
     return n
 

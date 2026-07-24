@@ -67,7 +67,13 @@ def verify_collection(root, slug):
 
         if it.get('item_type') == 'true-false':
             if ans in ('vrai', 'faux'):
-                it['correct_answer'] = ans.capitalize() + it.get('correct_answer', '')[len(ans):]
+                # `ans` IS the whole answer already (the `in` check above only
+                # matches when the stripped value is exactly "vrai"/"faux",
+                # nothing trails it) -- use it directly rather than slicing
+                # the ORIGINAL unstripped string by the STRIPPED string's
+                # length, which corrupts the result whenever correct_answer
+                # had leading whitespace (" vrai" -> wrongly became "Vraii").
+                it['correct_answer'] = ans.capitalize()
                 fixed += 1
             elif not re.match(r'^(Vrai|Faux)(\s|$)', it['correct_answer']):
                 issues.append('%s/%s: true-false correct_answer "%s" doesn\'t start with Vrai/Faux - '
