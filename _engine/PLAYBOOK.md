@@ -162,11 +162,14 @@ the fixes are cheap to apply going forward:
 5. **Exports stay as simple as the job actually needs.** German's
    per-collection + per-family + global 3-tier CSV system was the right
    call for 10 collections across 3 publishers with a delivered, frozen
-   subset. It is *not* the default going forward — start with the simplest
-   thing that serves the actual ask (e.g. one merged CSV per data type),
-   and only add tiers back if a real need shows up. Per-collection sheets
-   can still be written to disk as a cheap debug/spot-check artifact
-   without being promoted to a "deliverable."
+   subset. The shared engine keeps the *global* roll-up and a *per-book*
+   folder, but drops German's per-publisher-**family** tier — start with
+   the simplest thing that serves the actual ask and only add tiers back if
+   a real need shows up. The deliverable layout is: `README.md` (only loose
+   file) + `_combined/` (the merged `-all.csv` roll-ups) + one folder per
+   book (that book's 3 CSVs + its unified `.md`). Clean — every file has
+   exactly one home, nothing duplicated between `_combined/` and the
+   per-book folders, no loose files floating at the top.
 6. **Already-delivered corpora are permanently frozen.** A `frozen: true`
    collection is never re-extracted, never re-enriched, never rewritten by
    any exporter — checked with `git status --porcelain -- <that language>/`

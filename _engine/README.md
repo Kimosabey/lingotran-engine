@@ -36,7 +36,7 @@ See `_engine/_common.py`. This means:
 | `reconcile.py` | Completeness sweep — recomputes transcription/classification gaps straight from disk (never trusts an agent's self-reported "done"). Run this after any batch to catch a silently-dropped range. |
 | `verify_answers.py` | Correct-answer alignment sweep, run after `merge_enrich.py` and before `build_exports.py`. Auto-fixes the one deterministic case (a multiple-choice `correct_answer` that's a bare letter gets rewritten to that option's full text); reports everything else that needs a human/agent read (an MC answer not found among its own options — often a 4th+ printed option the 3-slot schema couldn't hold — and inconsistent `(open-ended...)` formatting) rather than guessing. |
 | `build_exports.py` | Per-collection unified `.md` + parked debug CSVs, plus the ONE merged `<lang>-{catalog,questions,vocabulary}-all.csv` across every non-frozen collection. |
-| `package_exports.py` | Copies the unified `.md`s + the 3 merged CSVs into a flat `_exports/` deliverable tree + writes a data-driven `README.md`. |
+| `package_exports.py` | Assembles a clean `_exports/` deliverable tree: `README.md` (only loose file) + `_combined/` (the 3 merged `-all.csv` roll-ups) + one folder per book holding that book's own 3 CSVs and its unified `.md`. No file duplicated between `_combined/` and the per-book folders. Atomic stage-then-swap with bounded retry on the Windows directory rename. |
 
 ## The `agent_*.md` playbooks — parameter-substitution convention
 

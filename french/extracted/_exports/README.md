@@ -5,10 +5,14 @@ characters render correctly on double-click in Excel / Google Sheets.
 
 ## How this is organised
 
-- `french-{catalog,questions,vocabulary}-all.csv` — one merged sheet per data type,
-  every book combined. This is the deliverable — filter the `collection` column
-  to isolate one book.
-- `<collection>.md` — the entire book as clean unified text, one file per book.
+- `_combined/` — one merged sheet per data type, every book combined. Start here
+  for bulk use; filter the `collection` column to isolate one book.
+- `<collection>/` — one folder per book, holding that book's own catalog/questions/
+  vocabulary CSVs **and** the whole book as a single readable `.md`. Open one folder
+  to get just that book, no filtering needed.
+
+Every file lives in exactly one place — nothing is duplicated between `_combined/`
+and the per-book folders.
 
 ## Sheet columns
 
@@ -16,7 +20,7 @@ characters render correctly on double-click in Excel / Google Sheets.
 - **questions** — one row per item: section, part, item, item_type, question, option_a/b/c, correct_answer, level, topic, source_page.
 - **vocabulary** — one row per word: word, article, plural, word_class, example, topic, source_page.
 
-## Combined sheets
+## Combined sheets (`_combined/`)
 
 | Sheet | Rows |
 |---|---|
@@ -26,13 +30,13 @@ characters render correctly on double-click in Excel / Google Sheets.
 
 ## Books
 
-| Book | Status | Pages | Questions | Words |
-|---|---|---|---|---|
-| Cosmopolite 1 - Methode de francais A1 * | included | 224 | 1751 | 1175 |
-| Tricolore 1 - 5e edition | not yet processed | — | — | — |
-| Tricolore 2 - 5e edition | not yet processed | — | — | — |
-| Saison 2 - Methode de francais A2-B1 | not yet processed | — | — | — |
-| Cosmopolite 5 - Methode de francais C1-C2 | not yet processed | — | — | — |
+| Book | Folder | Status | Pages | Questions | Words |
+|---|---|---|---|---|---|
+| Cosmopolite 1 - Methode de francais A1 * | `cosmopolite-a1-methode/` | included | 224 | 1751 | 1175 |
+| Tricolore 1 - 5e edition | — | not yet processed | — | — | — |
+| Tricolore 2 - 5e edition | — | not yet processed | — | — | — |
+| Saison 2 - Methode de francais A2-B1 | — | not yet processed | — | — | — |
+| Cosmopolite 5 - Methode de francais C1-C2 | — | not yet processed | — | — | — |
 
 _* see Known limitations below._
 

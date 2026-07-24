@@ -2,23 +2,46 @@
 """Assemble a clean, content-team-friendly deliverable tree under _exports/.
 
 Shared across every language via --root. Non-destructive: COPIES the
-already-generated unified per-collection docs + the 3 merged roll-up sheets
-into a flat deliverable tree. Originals are never moved or modified.
-Re-runnable — wipes and rebuilds _exports/ each time.
+already-generated per-collection docs + CSVs + the 3 merged roll-up sheets
+into a clean deliverable tree. The source files (build_exports.py's outputs
+under <root>/<slug>/ and <root>/<lang>-*-all.csv) are never moved or
+modified — _exports/ is 100% derived, so it can always be rebuilt from
+source. Re-runnable.
 
-Deliberately flat (simplified vs. German's publisher-family nesting, per the
-locked export-scope decision — no per-family tier needed at this scale):
+Clean layout — one home per file, README is the only loose file at the top
+(no duplicates, no scattered loose CSVs, no floating .tmp/.old siblings):
 
   _exports/
-    README.md
+    README.md                            column guide + book index
     START-HERE.md                        (only if a source file is provided)
-    <lang>-catalog-all.csv
-    <lang>-questions-all.csv
-    <lang>-vocabulary-all.csv
-    <collection>.md                      (one per non-frozen collection)
+    _combined/                           ALL books together (bulk use)
+      <lang>-catalog-all.csv
+      <lang>-questions-all.csv
+      <lang>-vocabulary-all.csv
+    <collection>/                        one self-contained folder per book
+      <collection>-catalog.csv
+      <collection>-questions.csv
+      <collection>-vocabulary.csv
+      <collection>.md                    the whole book as one readable doc
 
-Per-collection CSVs are intentionally NOT copied here — they're parked debug
-artifacts (see build_exports.py), not deliverables, per the locked scope.
+A reviewer who wants one book opens that book's folder; who wants everything
+opens _combined/. Each book's .md lives ONLY inside its own folder (never
+also copied to the top level) and the combined CSVs live ONLY in _combined/
+(never also loose at the top) — nothing is duplicated. Mirrors German's
+per-book-folder + _combined/ convention; still simpler than German in one
+way: no per-publisher-family tier (global + per-book only), per the locked
+export-scope decision.
+
+Atomicity / no-loss guarantee: the rebuild happens IN PLACE with an
+atomic per-file write (temp sibling file + os.replace — a FILE rename), and
+stale files are pruned only AFTER every new file is in place. So _exports/
+is never emptied and the previous delivery survives until each file is
+atomically replaced by its new version; a crash mid-run leaves a working
+tree (a mix of old + new at worst), never an empty or half-deleted one, and
+the next run self-heals it. This deliberately avoids the whole-directory
+os.replace swap an earlier version used: on Windows + VS Code the editor's
+file-system watcher grabs a handle to any freshly-created directory, which
+blocks a directory rename (WinError 5) but never blocks per-file writes.
 
 START-HERE.md is an optional pass-through: if
 <root>/_tools/START-HERE.source.md exists, it's copied in verbatim; a
@@ -37,6 +60,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from _common import parse_root, lang_slug, load_collection_list, atomic_write_text
 
 KINDS = ['catalog', 'questions', 'vocabulary']
+COMBINED_DIR = '_combined'
 
 
 def rows_in(path):
@@ -46,41 +70,78 @@ def rows_in(path):
         return max(0, sum(1 for _ in f) - 1)
 
 
+def _atomic_copy(src, dest):
+    """Copy one file into place atomically: write to a temp sibling then
+    os.replace it. A FILE rename succeeds even when a held directory handle
+    (VS Code's watcher) would block a whole-directory rename."""
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    tmp = dest + '.part'
+    shutil.copy2(src, tmp)
+    os.replace(tmp, dest)
+
+
+def _prune(final, keep_files):
+    """Remove anything under final/ not in the freshly-written keep set, then
+    drop any directory left empty. Runs LAST, after every new file is in
+    place, so a crash before this point never empties the tree. keep_files is
+    a set of absolute file paths."""
+    for dirpath, dirnames, filenames in os.walk(final, topdown=False):
+        for fn in filenames:
+            p = os.path.join(dirpath, fn)
+            if os.path.abspath(p) not in keep_files:
+                os.remove(p)
+        if os.path.abspath(dirpath) != os.path.abspath(final) and not os.listdir(dirpath):
+            os.rmdir(dirpath)
+
+
 def main(argv):
     root = parse_root(argv)
     lang = lang_slug(root)
     final_out = os.path.join(root, '_exports')
     cols = load_collection_list(root)
 
-    # Stage-then-swap: build the whole tree in a sibling temp dir first, then
-    # os.replace() it over the real _exports/ in one atomic step. A crash or
-    # kill anywhere during the build leaves the previous good _exports/
-    # completely untouched, instead of a deleted-or-half-populated tree.
-    out = final_out + '.tmp'
-    if os.path.isdir(out):
-        shutil.rmtree(out)
-    os.makedirs(out)
+    os.makedirs(final_out, exist_ok=True)
+    keep = set()  # absolute paths of every file this run wrote — the survivors
 
+    # Combined roll-ups -> _combined/ (never loose at the top level).
     combined = []
     for kind in KINDS:
         src = os.path.join(root, '%s-%s-all.csv' % (lang, kind))
         if os.path.exists(src):
-            dest = os.path.join(out, os.path.basename(src))
-            shutil.copy2(src, dest)
+            name = os.path.basename(src)
+            dest = os.path.join(final_out, COMBINED_DIR, name)
+            _atomic_copy(src, dest)
+            keep.add(os.path.abspath(dest))
             src_n, dest_n = rows_in(src), rows_in(dest)
             if src_n != dest_n:
-                print('%-11s !! MISMATCH: source has %d rows, copy has %d' % (kind, src_n, dest_n))
-            combined.append((os.path.basename(src), dest_n))
+                print('%-24s !! MISMATCH: source has %d rows, copy has %d' % (name, src_n, dest_n))
+            combined.append((name, dest_n))
 
+    # One self-contained folder per book: its 3 CSVs + its .md, nothing
+    # duplicated anywhere else in the tree.
     manifest = []
     for c in cols:
         slug = c['slug']
         srcdir = os.path.join(root, slug)
         md = os.path.join(srcdir, '%s.md' % slug)
         has_md = os.path.exists(md)
+
+        counts = {}
+        for kind in KINDS:
+            src = os.path.join(srcdir, '%s-%s.csv' % (slug, kind))
+            counts[kind] = rows_in(src)
+            if os.path.exists(src):
+                dest = os.path.join(final_out, slug, os.path.basename(src))
+                _atomic_copy(src, dest)
+                keep.add(os.path.abspath(dest))
+                if rows_in(src) != rows_in(dest):
+                    print('%-24s !! MISMATCH: source %d rows, copy %d'
+                          % ('%s/%s' % (slug, os.path.basename(src)), rows_in(src), rows_in(dest)))
         if has_md:
-            shutil.copy2(md, os.path.join(out, '%s.md' % slug))
-        counts = {kind: rows_in(os.path.join(srcdir, '%s-%s.csv' % (slug, kind))) for kind in KINDS}
+            dest = os.path.join(final_out, slug, '%s.md' % slug)
+            _atomic_copy(md, dest)
+            keep.add(os.path.abspath(dest))
+
         manifest.append((slug, c.get('title', slug), c.get('frozen', False), has_md, counts, c.get('caveats', [])))
 
     lines = [
@@ -88,25 +149,29 @@ def main(argv):
         'Clean, content-team-ready exports. **All CSVs are UTF-8 with BOM** so accented',
         'characters render correctly on double-click in Excel / Google Sheets.', '',
         '## How this is organised', '',
-        '- `%s-{catalog,questions,vocabulary}-all.csv` — one merged sheet per data type,' % lang,
-        '  every book combined. This is the deliverable — filter the `collection` column',
-        '  to isolate one book.',
-        '- `<collection>.md` — the entire book as clean unified text, one file per book.', '',
+        '- `_combined/` — one merged sheet per data type, every book combined. Start here',
+        '  for bulk use; filter the `collection` column to isolate one book.',
+        '- `<collection>/` — one folder per book, holding that book\'s own catalog/questions/',
+        '  vocabulary CSVs **and** the whole book as a single readable `.md`. Open one folder',
+        '  to get just that book, no filtering needed.', '',
+        'Every file lives in exactly one place — nothing is duplicated between `_combined/`',
+        'and the per-book folders.', '',
         '## Sheet columns', '',
         '- **catalog** — one row per page: section, chapter, content type, activity, topic, level, status, word count, summary.',
         '- **questions** — one row per item: section, part, item, item_type, question, option_a/b/c, correct_answer, level, topic, source_page.',
         '- **vocabulary** — one row per word: word, article, plural, word_class, example, topic, source_page.',
-        '', '## Combined sheets', '',
+        '', '## Combined sheets (`_combined/`)', '',
         '| Sheet | Rows |', '|---|---|',
     ]
     for name, n in combined:
         lines.append('| `%s` | %d |' % (name, n))
-    lines += ['', '## Books', '', '| Book | Status | Pages | Questions | Words |', '|---|---|---|---|---|']
+    lines += ['', '## Books', '', '| Book | Folder | Status | Pages | Questions | Words |', '|---|---|---|---|---|---|']
     for slug, title, frozen, has_md, counts, caveats in manifest:
         status = 'frozen (delivered earlier)' if frozen else ('included' if has_md else 'not yet processed')
         marker = ' *' if caveats else ''
-        lines.append('| %s%s | %s | %s | %s | %s |' % (
-            title, marker, status,
+        folder = '`%s/`' % slug if (has_md or any(counts.values())) else '—'
+        lines.append('| %s%s | %s | %s | %s | %s | %s |' % (
+            title, marker, folder, status,
             counts['catalog'] or '—', counts['questions'] or '—', counts['vocabulary'] or '—'))
     any_caveats = [(title, cav) for _, title, _, _, _, cav in manifest if cav]
     if any_caveats:
@@ -116,27 +181,24 @@ def main(argv):
             for cav in cavs:
                 lines.append('- **%s**: %s' % (title, cav))
     lines += ['', '_Generated by `_engine/package_exports.py` — re-run to refresh._', '']
-    atomic_write_text(os.path.join(out, 'README.md'), '\n'.join(lines))
+    readme = os.path.join(final_out, 'README.md')
+    atomic_write_text(readme, '\n'.join(lines))
+    keep.add(os.path.abspath(readme))
 
     src_start_here = os.path.join(root, '_tools', 'START-HERE.source.md')
     if os.path.exists(src_start_here):
-        shutil.copy2(src_start_here, os.path.join(out, 'START-HERE.md'))
+        dest = os.path.join(final_out, 'START-HERE.md')
+        _atomic_copy(src_start_here, dest)
+        keep.add(os.path.abspath(dest))
 
-    # Swap the fully-built staging tree over the real _exports/ in one atomic
-    # step. os.replace() on a directory works the same way it does for files
-    # on both POSIX and Windows for a destination this process already owns.
-    if os.path.isdir(final_out):
-        shutil.rmtree(final_out + '.old', ignore_errors=True)
-        os.replace(final_out, final_out + '.old')
-    os.replace(out, final_out)
-    shutil.rmtree(final_out + '.old', ignore_errors=True)
-    out = final_out
+    # Prune stale files LAST — only now that every new file is safely in place.
+    _prune(final_out, keep)
 
     print('Built _exports/ :')
-    print('  combined  : %d roll-up sheets' % len(combined))
+    print('  combined  : %d roll-up sheets in %s/' % (len(combined), COMBINED_DIR))
     print('  books     : %d (%d with a unified .md)' % (len(manifest), sum(1 for m in manifest if m[3])))
-    total_csv = len(glob.glob(os.path.join(out, '*.csv')))
-    total_md = len(glob.glob(os.path.join(out, '*.md')))
+    total_csv = len(glob.glob(os.path.join(final_out, '*', '*.csv')))       # _combined/ + each book folder
+    total_md = len(glob.glob(os.path.join(final_out, '*.md'))) + len(glob.glob(os.path.join(final_out, '*', '*.md')))
     print('  total     : %d CSV + %d MD files' % (total_csv, total_md))
 
 
