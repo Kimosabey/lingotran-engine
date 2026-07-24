@@ -34,7 +34,7 @@ window.LT = (function () {
       "adversarial QA pass and repaired until faithful — plus an adapter-driven extractor " +
       "for authorized websites.",
     languages: [
-      { name: "French", code: "FR", slug: "french", status: "active", href: "french/", books: 2, spreads: 287 },
+      { name: "French", code: "FR", slug: "french", status: "active", href: "french/", books: 3, spreads: 511 },
       {
         name: "German", code: "DE", slug: "german", status: "active",
         href: REPO_URL + "/tree/main/german/extracted",
@@ -50,10 +50,10 @@ window.LT = (function () {
 
   /* ---- Global metrics (hub) — from manifest.tsv / MANIFEST.md ---------- */
   const metrics = [
-    { num: "12",  lab: "Document sets",   sub: "2 French workbooks · 10 German book/exam sets" },
-    { num: "923", lab: "Pages",           sub: "287 FR spreads · 636 DE pages" },
-    { num: "738", lab: "Transcribed",     sub: "80% of all pages", cls: "" },
-    { num: "696", lab: "QA-verified",     sub: "75% zero-loss verified", cls: "green" }
+    { num: "13",   lab: "Document sets",   sub: "3 French workbooks · 10 German book/exam sets" },
+    { num: "1147", lab: "Pages",           sub: "511 FR spreads · 636 DE pages" },
+    { num: "962",  lab: "Transcribed",     sub: "84% of all pages", cls: "" },
+    { num: "899",  lab: "QA-verified",     sub: "78% zero-loss verified", cls: "green" }
   ];
 
   /* ---- The extraction workflow ---------------------------------------- */
@@ -215,8 +215,61 @@ Return the final verdict.`
   /* ---- French corpus --------------------------------------------------- */
   const french = {
     slug: "french", name: "French", code: "FR", level: "A1 / A2 (CEFR)",
-    aggregate: { books: 2, spreads: 287, transcribed: 102, verified: 60, qaPass: 51, qaFail: 16 },
+    aggregate: { books: 3, spreads: 511, transcribed: 326, verified: 263, qaPass: 254, qaFail: 37 },
     books: {
+
+      "cosmopolite-a1-methode": {
+        slug: "cosmopolite-a1-methode",
+        title: "Cosmopolite 1 — Méthode de français",
+        subtitle: "8 dossiers + DELF A1 mock exam + grammar précis · A1",
+        source: "cosmopolite-a1-methode.pdf",
+        author: "Nathalie Hirschsprung, Tony Tricot", publisher: "Hachette FLE",
+        blurb: "A 224-page A1 coursebook built around real-world “authentic document” realia " +
+          "(magazine clippings, posters, city maps, screenshots) across 8 thematic dossiers, a DELF A1 " +
+          "mock exam, and a grammar + phonetics reference appendix. First of the 5 new French PDFs " +
+          "processed via the shared _engine/ pipeline.",
+        spreads: 224, transcribed: 224, verified: 203, pending: 0,
+        qaTotal: 224, qaPass: 203, qaFail: 21,
+        status: "complete (21 disclosed gaps)",
+        meters: [
+          { name: "Transcribed", value: 224, of: 224, cls: "" },
+          { name: "QA-verified", value: 203, of: 224, cls: "green" }
+        ],
+        charts: {
+          contentType: [
+            { k: "Exercise", v: 180 }, { k: "Grammar box", v: 117 }, { k: "Reading text", v: 88 },
+            { k: "Listening sheet", v: 80 }, { k: "Lesson", v: 69 }, { k: "Speaking prompt", v: 67 },
+            { k: "Chapter opener", v: 46 }, { k: "Vocabulary", v: 44 }, { k: "Writing prompt", v: 26 },
+            { k: "Review", v: 15 }, { k: "Instructions", v: 14 }, { k: "Wordlist", v: 8 },
+            { k: "Dialogue", v: 6 }, { k: "TOC", v: 5 }, { k: "Picture story", v: 5 },
+            { k: "Cover", v: 3 }, { k: "Intro", v: 3 }, { k: "Audio script", v: 2 }
+          ],
+          cefr: [ { k: "A1", v: 224 } ],
+          orientation: [ { k: "0° (upright)", v: 224 } ],
+          answerCoverage: [
+            { k: "Resolved answer", v: 781 }, { k: "Open-ended (no single answer)", v: 363 },
+            { k: "Blank — no printed key / audio-only", v: 607 }
+          ]
+        },
+        chapters: [
+          [0, "Dossier 0 — Vous et le français (greetings, alphabet & spelling, countries, calendar)", 11],
+          [1, "Dossier 1 — Premiers contacts (greeting customs, registration forms, reasons to speak French)", 19],
+          [2, "Dossier 2 — Un tour du monde (where French is spoken, expat portraits)", 37],
+          [3, "Dossier 3 — En famille (French families, stereotypes, family roman-photo project)", 55],
+          [4, "Dossier 4 — Au quotidien (daily habits, wake-up times, chores)", 73],
+          [5, "Dossier 5 — Le monde des lettres (francophone media, authors, bookshops)", 91],
+          [6, "Dossier 6 — Voyage en Francophonie (world map, travel planning)", 109],
+          [7, "Dossier 7 — Produits français (French brands abroad, shopping, cooking)", 127],
+          [8, "Dossier 8 — Faire la fête (social gatherings, party planning)", 145],
+          [9, "Cahier d'activités (workbook exercises, Dossiers 0-8)", 163],
+          [10, "DELF A1 (mock exam: listening/reading/writing/speaking)", 196],
+          [11, "Précis de grammaire et phonétique (reference appendix)", 209]
+        ],
+        caveats: [
+          "Page 3 (Avant-propos/foreword) could not be transcribed: a platform content-safety " +
+          "constraint blocks on the two author headshot photos, not on any book content."
+        ]
+      },
 
       "conjugaison-a1-a2": {
         slug: "conjugaison-a1-a2",

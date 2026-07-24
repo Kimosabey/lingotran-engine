@@ -685,8 +685,9 @@
     });
     $all("[data-chapters]").forEach(function (m) {
       var rows = resolve(m.getAttribute("data-chapters"));
+      var label = m.getAttribute("data-chapters-label") || "Chapter";
       if (rows) m.appendChild(table(
-        [{ label: "Ch." }, "Chapter (tense)", { label: "Printed p.", cls: "num" }],
+        [{ label: "Ch." }, label, { label: "Printed p.", cls: "num" }],
         rows.map(function (r) { return [{ text: r[0], cls: "num" }, r[1], { text: r[2], cls: "num" }]; })
       ));
     });

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>French — Lingotran Extraction</title>
-<meta name="description" content="The French A1/A2 extraction corpus — two workbooks, 287 spreads, coverage and per-book detail.">
+<meta name="description" content="The French A1/A2 extraction corpus — three books, 511 spreads, coverage and per-book detail.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
@@ -25,30 +25,32 @@
         <div class="crumbs"><a href="../">Home</a> / French</div>
         <span class="eyebrow">Corpus · A1 / A2 (CEFR)</span>
         <h1>French</h1>
-        <p>Two scanned French practice workbooks — a conjugation trainer and a broad revision book —
-           extracted to faithful, verifiable Markdown.</p>
+        <p>Three scanned French books — an A1 coursebook (Cosmopolite 1), a conjugation trainer, and a
+           broad revision book — extracted to faithful, verifiable Markdown.</p>
         <div class="hero-tags">
-          <span class="tag">2 document sets</span>
-          <span class="tag">287 spreads</span>
-          <span class="tag">102 transcribed</span>
-          <span class="tag">60 verified</span>
+          <span class="tag">3 document sets</span>
+          <span class="tag">511 spreads</span>
+          <span class="tag">326 transcribed</span>
+          <span class="tag">263 verified</span>
         </div>
       </div>
 
       <section class="section" id="overview" data-nav="Overview" data-nav-group="French corpus">
         <span class="eyebrow">Overview</span>
         <h2 class="section-title">The French corpus</h2>
-        <p class="lead">Both books are scanned images (no text layer) rendered at 300 DPI, one PNG per
-           two-page spread, and recovered through the zero-data-loss pipeline.</p>
-        <div class="note">Level is <b>not printed per exercise</b> in either book — “A1/A2” is the book’s
-          overall CEFR scope. A per-exercise level is inferred during transcription and always tagged
-          “(inferred)”.</div>
+        <p class="lead">All three books are scanned images (no text layer) rendered at 300 DPI and
+           recovered through the zero-data-loss pipeline. Cosmopolite 1 is single-page scans; the two
+           legacy workbooks are two-page spreads.</p>
+        <div class="note">Level convention differs by book: Cosmopolite 1 is <b>fixed</b> — the whole book
+          is A1, uniformly. The two legacy workbooks (Pratique Conjugaison, Pratique Révision) don't print
+          a level per exercise — “A1/A2” is the book's overall CEFR scope, with a per-exercise level
+          <b>inferred</b> during transcription and always tagged “(inferred)”.</div>
       </section>
 
       <section class="section" id="coverage" data-nav="Coverage" data-nav-group="French corpus">
         <span class="eyebrow">Coverage</span>
         <h2 class="section-title">Aggregate coverage</h2>
-        <p class="lead">Across both books, from <code class="code-inline">manifest.tsv</code>.</p>
+        <p class="lead">Across all three books, from <code class="code-inline">manifest.tsv</code> / per-book manifests.</p>
         <div data-render="french-aggregate"></div>
       </section>
 
