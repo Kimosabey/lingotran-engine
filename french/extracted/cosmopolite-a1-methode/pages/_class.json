@@ -1,0 +1,1349 @@
+{
+ "collection": "cosmopolite-a1-methode",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Front cover of the Cosmopolite 1 A1 French textbook."
+  },
+  {
+   "page": 2,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Title page listing authors, contributors, and publisher Hachette."
+  },
+  {
+   "page": 3,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Page could not be transcribed (content-filter block on a real-person photo); see page-003.md for detail."
+  },
+  {
+   "page": 4,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "User guide explaining the structure of the student book (dossiers, leçons)."
+  },
+  {
+   "page": 5,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "User guide continued: Cultures, Projets, DELF pages, and digital resources."
+  },
+  {
+   "page": 6,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Contents table for Dossier 0 and Dossier 1: lessons, grammar, vocabulary."
+  },
+  {
+   "page": 7,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Contents table for Dossier 2 (travel) and Dossier 3 (family, description)."
+  },
+  {
+   "page": 8,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Contents table for Dossier 4 (daily routine) and Dossier 5 (news, biography)."
+  },
+  {
+   "page": 9,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Contents table for Dossier 6 (travel) and Dossier 7 (shopping, food)."
+  },
+  {
+   "page": 10,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Contents table for Dossier 8: restaurants, clothing, events, evening party."
+  },
+  {
+   "page": 11,
+   "activity_type": "speaking-task",
+   "topic": "communication",
+   "summary": "Comic-strip intro activity: greetings and answering the phone in six languages."
+  },
+  {
+   "page": 12,
+   "activity_type": "speaking-task",
+   "topic": "personal-info",
+   "summary": "Practice self-introductions (je m'appelle) via dialogue matching and speaking."
+  },
+  {
+   "page": 13,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Listening activity: identify audio type and match alphabet pronunciation."
+  },
+  {
+   "page": 14,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Alphabet sounds, accents, and spelling names via listening and forum reading."
+  },
+  {
+   "page": 15,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Practice country names, numbers, and definite articles via an Olympic medal table."
+  },
+  {
+   "page": 16,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Complete country-article rules and number tables 0-69; play a counting game."
+  },
+  {
+   "page": 17,
+   "activity_type": "reading-comprehension",
+   "topic": "time-dates",
+   "summary": "Read a language-school course calendar and complete months per season."
+  },
+  {
+   "page": 18,
+   "activity_type": "listening-comprehension",
+   "topic": "time-dates",
+   "summary": "Song-based practice of days/months; classroom communication expressions."
+  },
+  {
+   "page": 19,
+   "activity_type": "speaking-task",
+   "topic": "communication",
+   "summary": "Discussion prompts on French greeting customs and use of tu/vous."
+  },
+  {
+   "page": 20,
+   "activity_type": "speaking-task",
+   "topic": "communication",
+   "summary": "Discuss where French is spoken and its uses; unit project overview."
+  },
+  {
+   "page": 21,
+   "activity_type": "matching",
+   "topic": "communication",
+   "summary": "Match greeting phrases to photos; reconstruct formal/informal dialogues."
+  },
+  {
+   "page": 22,
+   "activity_type": "true-false",
+   "topic": "personal-info",
+   "summary": "True/false on an embassy invitation; greeting role-play and article practice."
+  },
+  {
+   "page": 23,
+   "activity_type": "matching",
+   "topic": "travel",
+   "summary": "Match listening dialogues about travel situations to photos and topics."
+  },
+  {
+   "page": 24,
+   "activity_type": "listening-comprehension",
+   "topic": "personal-info",
+   "summary": "Listen to a conversation with phone numbers; true/false and matching drills."
+  },
+  {
+   "page": 25,
+   "activity_type": "multiple-choice",
+   "topic": "personal-info",
+   "summary": "Multiple-choice and true/false on a francophone festival poster and program."
+  },
+  {
+   "page": 26,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Complete festival badges and grammar tables for nationality and profession."
+  },
+  {
+   "page": 27,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Read a film webpage to identify director, actors, characters; verb drills."
+  },
+  {
+   "page": 28,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Read a student blog profile; multiple-choice questions and registration form."
+  },
+  {
+   "page": 29,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Complete a registration form and grammar tables about identity via listening."
+  },
+  {
+   "page": 30,
+   "activity_type": "true-false",
+   "topic": "school",
+   "summary": "True/false comprehension of a chat about a French class; possessives practice."
+  },
+  {
+   "page": 31,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Poster listing ten reasons to speak French; match speech-bubble icons to people."
+  },
+  {
+   "page": 32,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Match reasons to speak French; grammar focus on parce que/pour and punctuation."
+  },
+  {
+   "page": 33,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Forum discussion about French first names used abroad; read and discuss."
+  },
+  {
+   "page": 34,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Facts about global French speakers; match trivia and classify famous French people."
+  },
+  {
+   "page": 35,
+   "activity_type": "speaking-task",
+   "topic": "personal-info",
+   "summary": "Class project: interview a classmate and build their personal-info slide."
+  },
+  {
+   "page": 36,
+   "activity_type": "writing-task",
+   "topic": "personal-info",
+   "summary": "DELF 1 exam: listen to dialogues, fill a registration form, write a short message."
+  },
+  {
+   "page": 37,
+   "activity_type": "speaking-task",
+   "topic": "travel",
+   "summary": "Dossier 2 opener: discuss where French people travel and where francophones live."
+  },
+  {
+   "page": 38,
+   "activity_type": "speaking-task",
+   "topic": "travel",
+   "summary": "Opener continued: discuss free tours, couchsurfing; intro survival-kit class project."
+  },
+  {
+   "page": 39,
+   "activity_type": "matching",
+   "topic": "travel",
+   "summary": "Anne's travel journal: match cities/photos to countries; learn location prepositions."
+  },
+  {
+   "page": 40,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "More of Anne's travel journal; listening dream exercise; write own travel entry."
+  },
+  {
+   "page": 41,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "Audio-guided New Orleans tour: match places/names, learn definite/indefinite articles."
+  },
+  {
+   "page": 42,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "New Orleans audioguide text and map; match photos to location prepositions."
+  },
+  {
+   "page": 43,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Aosta Valley tourism webpage; identify region facts, fill in le/la/l' elision."
+  },
+  {
+   "page": 44,
+   "activity_type": "reading-comprehension",
+   "topic": "travel",
+   "summary": "Forum thread about visiting Aosta; learn transport prepositions and verbs aller/prendre."
+  },
+  {
+   "page": 45,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Article about a francophone meetup cafe in Istanbul; match testimonials to photos."
+  },
+  {
+   "page": 46,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Cafe Mila interview Q&A matching; negation and habiter grammar; correct Vittoria's text."
+  },
+  {
+   "page": 47,
+   "activity_type": "true-false",
+   "topic": "home",
+   "summary": "Article on couchsurfing; true/false comprehension; demonstrative adjectives grammar focus."
+  },
+  {
+   "page": 48,
+   "activity_type": "listening-comprehension",
+   "topic": "home",
+   "summary": "Radio report on couchsurfers in Limoges; listening table; verb venir conjugation."
+  },
+  {
+   "page": 49,
+   "activity_type": "ordering",
+   "topic": "home",
+   "summary": "Renting a room dialogue; listen, then reorder scrambled question words."
+  },
+  {
+   "page": 50,
+   "activity_type": "true-false",
+   "topic": "travel",
+   "summary": "Greeter tourism webpage in Toulouse; true/false check; choose Magnus's best greeter."
+  },
+  {
+   "page": 51,
+   "activity_type": "matching",
+   "topic": "profession",
+   "summary": "Video and portraits of French expatriates abroad; match photos to professions."
+  },
+  {
+   "page": 52,
+   "activity_type": "multiple-choice",
+   "topic": "hobby",
+   "summary": "Stockholm French-meetup flyer; choose correct answer and match activities to purposes."
+  },
+  {
+   "page": 53,
+   "activity_type": "matching",
+   "topic": "communication",
+   "summary": "Survival-kit project: match phrasebook categories, build a French survival kit."
+  },
+  {
+   "page": 54,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "DELF 2 exam: tourist itinerary reading, transport choice, oral exam preparation."
+  },
+  {
+   "page": 55,
+   "activity_type": "speaking-task",
+   "topic": "family",
+   "summary": "Dossier 3 opener: discuss French families and stereotypes about French people."
+  },
+  {
+   "page": 56,
+   "activity_type": "speaking-task",
+   "topic": "family",
+   "summary": "Opener continued: discuss France's image; intro family-themed roman-photo project."
+  },
+  {
+   "page": 57,
+   "activity_type": "true-false",
+   "topic": "family",
+   "summary": "Au pair website; choose correct site type, true/false, match hosts' testimonials."
+  },
+  {
+   "page": 58,
+   "activity_type": "vocabulary",
+   "topic": "family",
+   "summary": "Family vocabulary tree and possessive adjectives; sounds practice; introduce your family."
+  },
+  {
+   "page": 59,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Selfie-contest website and Instagram/Twitter posts describing friends and family members."
+  },
+  {
+   "page": 60,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Match selfie-contest elements; adjective agreement grammar; describe your group's selfie."
+  },
+  {
+   "page": 61,
+   "activity_type": "reading-comprehension",
+   "topic": "travel",
+   "summary": "Read tourist testimonials about France and match photos to visitors' opinions."
+  },
+  {
+   "page": 62,
+   "activity_type": "speaking-task",
+   "topic": "travel",
+   "summary": "Express likes/dislikes about France, hear a street interview, then write tourist testimonials."
+  },
+  {
+   "page": 63,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Read about a speak-dating event, then hear Pierre and Suzan describe jobs and dreams."
+  },
+  {
+   "page": 64,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Complete -er verb conjugation tables and match masculine/feminine profession pairs."
+  },
+  {
+   "page": 65,
+   "activity_type": "reading-comprehension",
+   "topic": "vacation",
+   "summary": "Read a summer-camp brochure and match sports/culture activities to photos."
+  },
+  {
+   "page": 66,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Listen to camp staff describe sports and arts activities; learn faire + du/de la."
+  },
+  {
+   "page": 67,
+   "activity_type": "reading-comprehension",
+   "topic": "health",
+   "summary": "Read a forum post about illness abroad and a list of French-speaking doctors."
+  },
+  {
+   "page": 68,
+   "activity_type": "vocabulary",
+   "topic": "health",
+   "summary": "Learn body-part vocabulary and avoir mal à; complete a medical phone-call form."
+  },
+  {
+   "page": 69,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "Watch tourism-industry interviews; match languages spoken and visitor percentages to venues."
+  },
+  {
+   "page": 70,
+   "activity_type": "reading-comprehension",
+   "topic": "travel",
+   "summary": "Read a guide's tips on nationalities' habits and match traits to emoticons."
+  },
+  {
+   "page": 71,
+   "activity_type": "writing-task",
+   "topic": "mixed",
+   "summary": "Class project: create a photo-story about classmates with speech/thought bubbles."
+  },
+  {
+   "page": 72,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "DELF 3 practice: listening about France, oral self-intro, and au-pair form."
+  },
+  {
+   "page": 73,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Read students' opinions on French wake-up times and social-media habits."
+  },
+  {
+   "page": 74,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Read opinions on coffee/lunch habits; preview Dossier 4 projects and goals."
+  },
+  {
+   "page": 75,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "Read a safari itinerary, then listen to a guide narrate the day's schedule."
+  },
+  {
+   "page": 76,
+   "activity_type": "listening-comprehension",
+   "topic": "time-dates",
+   "summary": "Practice formal/informal time-telling; listen to office hours and narrate your day."
+  },
+  {
+   "page": 77,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Read about Marc's eco-friendly routine in Normandy; start Natasha's listening interview."
+  },
+  {
+   "page": 78,
+   "activity_type": "listening-comprehension",
+   "topic": "daily-routine",
+   "summary": "Continue Marc's day, conjugate reflexive verbs, and listen to routine intonation patterns."
+  },
+  {
+   "page": 79,
+   "activity_type": "listening-comprehension",
+   "topic": "daily-routine",
+   "summary": "Listen to a vox pop mapping Frédérique and Stéphane's daily schedules."
+  },
+  {
+   "page": 80,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Read writer Émilie Frèche's daily schedule and learn frequency adverbs."
+  },
+  {
+   "page": 81,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Read Romain's email on starting work in Poland; classify obligation/possibility phrases."
+  },
+  {
+   "page": 82,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Match phrases about Polish work culture; conjugate pouvoir/devoir/vouloir for an ideal week."
+  },
+  {
+   "page": 83,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Read a survey on Berliners' French-style outings; conjugate choisir and sortir."
+  },
+  {
+   "page": 84,
+   "activity_type": "matching",
+   "topic": "hobby",
+   "summary": "Match survey questions to answers on outings; study formal vs informal questions."
+  },
+  {
+   "page": 85,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Listen to a call about concerts, fill a calendar, read a birthday invite."
+  },
+  {
+   "page": 86,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Compare invitation emails; learn the imperative for giving instructions and invitations."
+  },
+  {
+   "page": 87,
+   "activity_type": "listening-comprehension",
+   "topic": "home",
+   "summary": "Watch a video on household chores; match tasks and opinions to speakers."
+  },
+  {
+   "page": 88,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Answer true/false on housework; read a graph of daily activity rhythms."
+  },
+  {
+   "page": 89,
+   "activity_type": "writing-task",
+   "topic": "communication",
+   "summary": "Class project: draft an invitation email and welcome note for a guest speaker."
+  },
+  {
+   "page": 90,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "DELF 4: read an email about work in Brussels; complete a form and reply."
+  },
+  {
+   "page": 91,
+   "activity_type": "speaking-task",
+   "topic": "communication",
+   "summary": "Discussion questions on francophone media, magazines, and journals worldwide."
+  },
+  {
+   "page": 92,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Matches francophone authors to writing/translation status; introduces Dossier 5 projects."
+  },
+  {
+   "page": 93,
+   "activity_type": "reading-comprehension",
+   "topic": "school",
+   "summary": "Reads a Japanese professor's project and two students' learning journals in French."
+  },
+  {
+   "page": 94,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Grammar focus completing passe compose rules with avoir/etre, plus a listening interview task."
+  },
+  {
+   "page": 95,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Reading article ranking five young Acadian talents in music, sports, and academics."
+  },
+  {
+   "page": 96,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Grammar practice on passe recent, futur proche, and verb dire, with a listening task."
+  },
+  {
+   "page": 97,
+   "activity_type": "listening-comprehension",
+   "topic": "personal-info",
+   "summary": "Listening exercise completing Ahmadou Kourouma's biography; reads Tahar Ben Jelloun's biography."
+  },
+  {
+   "page": 98,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Reads Andrei Makine's biography, compares two writers' timelines, studies passe compose with etre."
+  },
+  {
+   "page": 99,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Reading and listening about a TV book show; matches characters to physical descriptions."
+  },
+  {
+   "page": 100,
+   "activity_type": "writing-task",
+   "topic": "personal-info",
+   "summary": "Reads literary character descriptions; groups write physical-description portraits like the authors."
+  },
+  {
+   "page": 101,
+   "activity_type": "reading-comprehension",
+   "topic": "restaurant",
+   "summary": "Reading article about chef Keisuke Matsushima's fusion restaurant and career in Nice."
+  },
+  {
+   "page": 102,
+   "activity_type": "true-false",
+   "topic": "restaurant",
+   "summary": "True/false listening about two fusion chefs; corrects a learner's errors; writes a chef profile."
+  },
+  {
+   "page": 103,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Reading a press-directory website (Giga Presse) and extracting its usage advice."
+  },
+  {
+   "page": 104,
+   "activity_type": "true-false",
+   "topic": "communication",
+   "summary": "Listening to ten reporting commandments; classifies them and studies the imperative for advice."
+  },
+  {
+   "page": 105,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Video listening about a themed bookshop, Le Barbouquin a Belleville, in Paris."
+  },
+  {
+   "page": 106,
+   "activity_type": "true-false",
+   "topic": "communication",
+   "summary": "Reading and true/false about the France 24 TV channel's structure, schedule, and programs."
+  },
+  {
+   "page": 107,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Matches biography elements to portray a francophone celebrity (Viggo Mortensen)."
+  },
+  {
+   "page": 108,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "DELF exam: reading comprehension on Amin Maalouf's biography plus oral production tasks."
+  },
+  {
+   "page": 109,
+   "activity_type": "speaking-task",
+   "topic": "travel",
+   "summary": "Discussion on a world map showing francophone speaker populations by region."
+  },
+  {
+   "page": 110,
+   "activity_type": "instructions",
+   "topic": "travel",
+   "summary": "Francophone world map exercise; introduces Dossier 6 travel-planning class projects."
+  },
+  {
+   "page": 111,
+   "activity_type": "true-false",
+   "topic": "travel",
+   "summary": "True/false reading about a Madagascar photography-tour travel agency website."
+  },
+  {
+   "page": 112,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Future tense grammar practice plus listening to a Madagascar trip phone call."
+  },
+  {
+   "page": 113,
+   "activity_type": "matching",
+   "topic": "travel",
+   "summary": "Reading matches 'mission' versus 'immersion' trips; profiles Burkina Faso."
+  },
+  {
+   "page": 114,
+   "activity_type": "multiple-choice",
+   "topic": "city-places",
+   "summary": "Multiple-choice on Burkina Faso; grammar on the pronoun y and locating places."
+  },
+  {
+   "page": 115,
+   "activity_type": "listening-comprehension",
+   "topic": "city-places",
+   "summary": "Listening to a sound-postcard contest; matches French cities to descriptions and colors."
+  },
+  {
+   "page": 116,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "Reading a flyer ranking top 5 French cities; adjective-placement grammar practice."
+  },
+  {
+   "page": 117,
+   "activity_type": "reading-comprehension",
+   "topic": "home",
+   "summary": "Reading a Moroccan guesthouse (Kasbah) website describing rooms and hospitality."
+  },
+  {
+   "page": 118,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Grammar on -ir verbs; listening to guests reviewing their stay at the Kasbah."
+  },
+  {
+   "page": 119,
+   "activity_type": "reading-comprehension",
+   "topic": "weather",
+   "summary": "Reading a travel-weather website comparing climate and seasons across countries."
+  },
+  {
+   "page": 120,
+   "activity_type": "listening-comprehension",
+   "topic": "weather",
+   "summary": "Listening to an African weather forecast; grammar for describing climate and forecasts."
+  },
+  {
+   "page": 121,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "Listening and reading tasks on expressing travel emotions and the five senses."
+  },
+  {
+   "page": 122,
+   "activity_type": "writing-task",
+   "topic": "travel",
+   "summary": "Students write and share a travel journal entry describing sensations and emotions."
+  },
+  {
+   "page": 123,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Video-based comprehension on Francophonie statistics and worldwide French speaker distribution."
+  },
+  {
+   "page": 124,
+   "activity_type": "reading-comprehension",
+   "topic": "communication",
+   "summary": "Infographic reading on Francophonie growth, ranking regions and completing a cultural notebook."
+  },
+  {
+   "page": 125,
+   "activity_type": "instructions",
+   "topic": "travel",
+   "summary": "Class project: plan a virtual trip through a francophone country step by step."
+  },
+  {
+   "page": 126,
+   "activity_type": "listening-comprehension",
+   "topic": "travel",
+   "summary": "DELF 6 practice: listening comprehension about a travel agency call plus oral exam drills."
+  },
+  {
+   "page": 127,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Discussion prompts on French-origin foods and store brands recognized worldwide."
+  },
+  {
+   "page": 128,
+   "activity_type": "instructions",
+   "topic": "mixed",
+   "summary": "Discussion on French events celebrated abroad, plus class project instructions and unit goals."
+  },
+  {
+   "page": 129,
+   "activity_type": "reading-comprehension",
+   "topic": "restaurant",
+   "summary": "Reading TripAdvisor photos and a French menu to analyze a Bogota restaurant."
+  },
+  {
+   "page": 130,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Food vocabulary plus articles for precise vs. indefinite quantities on a menu."
+  },
+  {
+   "page": 131,
+   "activity_type": "reading-comprehension",
+   "topic": "shopping",
+   "summary": "Reading a French grocery shop profile in Budapest and quantity expressions for shopping."
+  },
+  {
+   "page": 132,
+   "activity_type": "listening-comprehension",
+   "topic": "shopping",
+   "summary": "Listening to a shop conversation, comparing baskets, and using the pronoun en."
+  },
+  {
+   "page": 133,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Listening to a bookshop dialogue and reading survey results on French reading habits."
+  },
+  {
+   "page": 134,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Building reader profiles and using comparative structures to discuss reading habits."
+  },
+  {
+   "page": 135,
+   "activity_type": "reading-comprehension",
+   "topic": "profession",
+   "summary": "Reading about professionals who became chefs, using imparfait to describe past situations."
+  },
+  {
+   "page": 136,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "Listening to a chef career-change report and using past time markers."
+  },
+  {
+   "page": 137,
+   "activity_type": "reading-comprehension",
+   "topic": "shopping",
+   "summary": "Reading about Chinese shoppers' views of Galeries Lafayette and clothing vocabulary."
+  },
+  {
+   "page": 138,
+   "activity_type": "listening-comprehension",
+   "topic": "shopping",
+   "summary": "Listening to Galeries Lafayette staff training interview and store vocabulary practice."
+  },
+  {
+   "page": 139,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "Reading a magazine article praising 'little corners of France' abroad, with appreciation phrases."
+  },
+  {
+   "page": 140,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "Listening to a radio show on French celebrations abroad and reciprocal verbs."
+  },
+  {
+   "page": 141,
+   "activity_type": "listening-comprehension",
+   "topic": "shopping",
+   "summary": "Video segment on French brand names dominating a Tokyo metro station's shops."
+  },
+  {
+   "page": 142,
+   "activity_type": "matching",
+   "topic": "shopping",
+   "summary": "Matching French brand slogans to store photos and completing a cultural notebook."
+  },
+  {
+   "page": 143,
+   "activity_type": "instructions",
+   "topic": "city-places",
+   "summary": "Class project: plan and document a 'France in our city' discovery rally."
+  },
+  {
+   "page": 144,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "DELF 7 practice: matching listening dialogues to pictures plus oral exam exercises."
+  },
+  {
+   "page": 145,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Discussion prompts on French social gatherings and tourist activities to try."
+  },
+  {
+   "page": 146,
+   "activity_type": "instructions",
+   "topic": "school",
+   "summary": "Discussion on French language school offerings, plus class party project instructions."
+  },
+  {
+   "page": 147,
+   "activity_type": "listening-comprehension",
+   "topic": "school",
+   "summary": "Listening to language-school student testimonials about why they chose to study French."
+  },
+  {
+   "page": 148,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Reading a testimonial and using imparfait/passe compose/present to describe life changes."
+  },
+  {
+   "page": 149,
+   "activity_type": "reading-comprehension",
+   "topic": "restaurant",
+   "summary": "Reading online reviews to characterize a restaurant's food, service, and atmosphere."
+  },
+  {
+   "page": 150,
+   "activity_type": "listening-comprehension",
+   "topic": "restaurant",
+   "summary": "Listening to a restaurant order dialogue and completing ordering-phrase expressions."
+  },
+  {
+   "page": 151,
+   "activity_type": "reading-comprehension",
+   "topic": "shopping",
+   "summary": "Reading about costume shops in Kuala Lumpur for a costume party."
+  },
+  {
+   "page": 152,
+   "activity_type": "grammar",
+   "topic": "shopping",
+   "summary": "Grammar on direct object pronouns and costume shop buying/renting vocabulary."
+  },
+  {
+   "page": 153,
+   "activity_type": "reading-comprehension",
+   "topic": "food",
+   "summary": "Reading about VizEat, a site for booking meals with local hosts abroad."
+  },
+  {
+   "page": 154,
+   "activity_type": "listening-comprehension",
+   "topic": "food",
+   "summary": "Listening to VizEat founder interview; grammar on tonic pronouns after prepositions."
+  },
+  {
+   "page": 155,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Listening to a book-club discussion giving opinions about a French film."
+  },
+  {
+   "page": 156,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Reading a forum thread recommending a French play and booking tips."
+  },
+  {
+   "page": 157,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Reading party-theme suggestions from a brainstorming website for an event."
+  },
+  {
+   "page": 158,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Listening to friends planning a birthday party; grammar on pronouns lui/leur."
+  },
+  {
+   "page": 159,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Watching a video presentation of a cultural events program in Paris."
+  },
+  {
+   "page": 160,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Reading and matching party types on an event-planning website; writing invitation."
+  },
+  {
+   "page": 161,
+   "activity_type": "instructions",
+   "topic": "hobby",
+   "summary": "Class project instructions for planning an end-of-course celebration party."
+  },
+  {
+   "page": 162,
+   "activity_type": "reading-comprehension",
+   "topic": "food",
+   "summary": "DELF exam practice: reading about a meal-sharing site plus oral exercises."
+  },
+  {
+   "page": 163,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Workbook exercises: greetings, spelling, country capitals, numbers, months, and days."
+  },
+  {
+   "page": 164,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Workbook exercises on greetings, articles, question words, and phone numbers."
+  },
+  {
+   "page": 165,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Exercises on nationalities, professions, and personal-information question forms."
+  },
+  {
+   "page": 166,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Exercises on possessive adjectives, verb conjugation, and registration forms."
+  },
+  {
+   "page": 167,
+   "activity_type": "vocabulary",
+   "topic": "personal-info",
+   "summary": "Reference expressions for greetings, introductions, and sharing personal details."
+  },
+  {
+   "page": 168,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Exercises on prepositions for countries/cities and articles describing a city."
+  },
+  {
+   "page": 169,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Exercises on location prepositions, cardinal directions, transport verbs, and negation."
+  },
+  {
+   "page": 170,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Exercises on habiter, demonstratives, verb venir, and dialogue reordering."
+  },
+  {
+   "page": 171,
+   "activity_type": "vocabulary",
+   "topic": "travel",
+   "summary": "Reference expressions for travel, city locations, directions, and lodging."
+  },
+  {
+   "page": 172,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Exercises on possessive adjectives, family vocabulary, and family descriptions."
+  },
+  {
+   "page": 173,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Exercises on personality adjectives, describing people, and expressing likes/dislikes."
+  },
+  {
+   "page": 174,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Exercises on professions, hobbies with faire, pronouns, and body aches."
+  },
+  {
+   "page": 175,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Reference expressions for family, personal traits, and hobbies/preferences."
+  },
+  {
+   "page": 176,
+   "activity_type": "fill-in",
+   "topic": "time-dates",
+   "summary": "Exercises on telling time, a safari schedule, and reflexive verbs."
+  },
+  {
+   "page": 177,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Exercises on verbs lire/écrire, frequency, the pronoun on, and modals."
+  },
+  {
+   "page": 178,
+   "activity_type": "speaking-task",
+   "topic": "communication",
+   "summary": "Speaking and grammar exercises on questions and proposing/accepting outings."
+  },
+  {
+   "page": 179,
+   "activity_type": "vocabulary",
+   "topic": "daily-routine",
+   "summary": "Reference expressions for daily routines, work life, and social outings."
+  },
+  {
+   "page": 180,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Exercises on the passé composé, time expressions, and near tenses."
+  },
+  {
+   "page": 181,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Fill-in exercises: dire/venir verbs, numbers, writer biography, physical descriptions."
+  },
+  {
+   "page": 182,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Physical description, biography, imparfait/actual events table, word order, imperative table."
+  },
+  {
+   "page": 183,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Advice-giving exercise plus vocabulary lists for learning French and describing people."
+  },
+  {
+   "page": 184,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Il faut obligations, future-tense travel email, country geography quiz, pronoun y practice."
+  },
+  {
+   "page": 185,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Adjective word-order practice, city-photo matching, -ir verb conjugation, adjective placement."
+  },
+  {
+   "page": 186,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Adjective placement, weather forecasts, nasal-vowel listening, emotions and sensations."
+  },
+  {
+   "page": 187,
+   "activity_type": "vocabulary",
+   "topic": "travel",
+   "summary": "Listening practice plus travel, city, weather, and emotion vocabulary reference lists."
+  },
+  {
+   "page": 188,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Food vocabulary matching, partitive articles, [p]/[b] sounds, quantities, dialogue ordering."
+  },
+  {
+   "page": 189,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bookshop dialogue, comparatives on reading, imparfait correction, MasterChef biography."
+  },
+  {
+   "page": 190,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Clothes-shop dialogues, outfit-ad matching, [ʒ]/[ʃ] sounds, reciprocal verbs, appreciation."
+  },
+  {
+   "page": 191,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Intonation listening exercise plus menu, book, clothing, and appreciation vocabulary."
+  },
+  {
+   "page": 192,
+   "activity_type": "fill-in",
+   "topic": "restaurant",
+   "summary": "Life-change narratives, restaurant review adjectives, restaurant-order dialogue reordering."
+  },
+  {
+   "page": 193,
+   "activity_type": "fill-in",
+   "topic": "restaurant",
+   "summary": "Restaurant dialogue conclusion, matching responses, COD pronouns, relative pronouns qui/que."
+  },
+  {
+   "page": 194,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Relative pronouns, tonic pronouns for a VizEat dinner, opinion structures, advice, COI pronouns."
+  },
+  {
+   "page": 195,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "COI pronoun practice, [w]/[ɥ] sounds, plus learning-French, restaurant, film-advice vocabulary."
+  },
+  {
+   "page": 196,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "DELF listening exam: phone message about an outing, store sale announcement."
+  },
+  {
+   "page": 197,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "DELF listening exam: catering order message, five dialogues matched to pictures."
+  },
+  {
+   "page": 198,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "DELF reading exam: email introduction from new pen pal Saïdou."
+  },
+  {
+   "page": 199,
+   "activity_type": "reading-comprehension",
+   "topic": "city-places",
+   "summary": "DELF reading exam: friend's email inviting to the pool, with route map."
+  },
+  {
+   "page": 200,
+   "activity_type": "reading-comprehension",
+   "topic": "school",
+   "summary": "DELF reading exam: language school's cultural program, Erasmus+ article."
+  },
+  {
+   "page": 201,
+   "activity_type": "writing-task",
+   "topic": "mixed",
+   "summary": "DELF writing exam: course registration form, reply email describing your country."
+  },
+  {
+   "page": 202,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "DELF speaking exam: personal interview, info exchange, tourist-office roleplay."
+  },
+  {
+   "page": 203,
+   "activity_type": "none",
+   "topic": "personal-info",
+   "summary": "Phonetics précis: sound [y], syllable stress, silent letters, liaison (Dossier 1)."
+  },
+  {
+   "page": 204,
+   "activity_type": "none",
+   "topic": "personal-info",
+   "summary": "Phonetics précis: sounds [ə]/[e] and [ɛ] with dictation drills (Dossiers 2-3)."
+  },
+  {
+   "page": 205,
+   "activity_type": "none",
+   "topic": "family",
+   "summary": "Phonetics précis: sounds [ø] and [ɔ̃] with dictation drills (Dossier 4)."
+  },
+  {
+   "page": 206,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Phonetics précis: sounds [ɛ̃] and [ɑ̃] with dictation drills (Dossiers 5-6)."
+  },
+  {
+   "page": 207,
+   "activity_type": "none",
+   "topic": "shopping",
+   "summary": "Phonetics précis: sounds [p]/[b], [ɛ̃]/[ɑ̃], [ʒ]/[ʃ] drills (Dossier 7)."
+  },
+  {
+   "page": 208,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Phonetics précis: [ʒ] spellings, [j]/[w]/[ɥ] sounds, [o]/[ɔ] odd-one-out (Dossiers 7-8)."
+  },
+  {
+   "page": 209,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Grammar précis: articles (indefinite, definite, partitive, contracted), demonstratives."
+  },
+  {
+   "page": 210,
+   "activity_type": "none",
+   "topic": "family",
+   "summary": "Grammar précis: possessive and interrogative adjectives; common noun gender/number rules."
+  },
+  {
+   "page": 211,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Reference tables: profession nouns, country names, and adjective gender agreement rules."
+  },
+  {
+   "page": 212,
+   "activity_type": "none",
+   "topic": "travel",
+   "summary": "Reference: adjective plural/placement rules and prepositions for countries, cities, and location."
+  },
+  {
+   "page": 213,
+   "activity_type": "none",
+   "topic": "travel",
+   "summary": "Reference: transport prepositions (en/à) and personal, tonic, COD/COI pronouns overview."
+  },
+  {
+   "page": 214,
+   "activity_type": "none",
+   "topic": "personal-info",
+   "summary": "Reference: pronoun placement, relative pronouns qui/que, and c'est vs il/elle est."
+  },
+  {
+   "page": 215,
+   "activity_type": "none",
+   "topic": "daily-routine",
+   "summary": "Reference: pronominal verbs and present-tense conjugation patterns (one to three verb bases)."
+  },
+  {
+   "page": 216,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Reference: passé composé, imparfait formation/uses, and intro to futur simple."
+  },
+  {
+   "page": 217,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Reference: futur simple irregulars, imperative mood, adverbs, and comparison structures."
+  },
+  {
+   "page": 218,
+   "activity_type": "none",
+   "topic": "mixed",
+   "summary": "Reference: quantity expressions, time markers, question forms, and negation patterns."
+  },
+  {
+   "page": 219,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Conjugation charts for être, avoir, aller, pouvoir, devoir, vouloir, faire, prendre verbs."
+  },
+  {
+   "page": 220,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Conjugation charts for venir, parler, voir, choisir, écrire, sortir, réfléchir, connaître verbs."
+  },
+  {
+   "page": 221,
+   "activity_type": "vocabulary",
+   "topic": "city-places",
+   "summary": "Map of France showing regions, regional capitals, neighboring countries, and seas."
+  },
+  {
+   "page": 222,
+   "activity_type": "vocabulary",
+   "topic": "travel",
+   "summary": "Map of Europe showing countries, EU membership status, seas, and scale."
+  },
+  {
+   "page": 223,
+   "activity_type": "vocabulary",
+   "topic": "city-places",
+   "summary": "Map of Paris showing arrondissements, monuments, parks, gates, and transport access."
+  },
+  {
+   "page": 224,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Back cover: Cosmopolite 1 course description, A1 materials list, and publisher details."
+  }
+ ]
+}

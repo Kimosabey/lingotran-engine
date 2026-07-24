@@ -1,0 +1,185 @@
+{
+  "collection": "cosmopolite-a1-methode",
+  "items": [
+    {
+      "page": 1,
+      "activity_type": "cover",
+      "topic": "none",
+      "summary": "Front cover of the Cosmopolite 1 A1 French textbook."
+    },
+    {
+      "page": 2,
+      "activity_type": "cover",
+      "topic": "none",
+      "summary": "Title page listing authors, contributors, and publisher Hachette."
+    },
+    {
+      "page": 3,
+      "activity_type": "none",
+      "topic": "none",
+      "summary": "Page could not be transcribed (content-filter block on a real-person photo); see page-003.md for detail."
+    },
+    {
+      "page": 4,
+      "activity_type": "instructions",
+      "topic": "none",
+      "summary": "User guide explaining the structure of the student book (dossiers, leçons)."
+    },
+    {
+      "page": 5,
+      "activity_type": "instructions",
+      "topic": "none",
+      "summary": "User guide continued: Cultures, Projets, DELF pages, and digital resources."
+    },
+    {
+      "page": 6,
+      "activity_type": "none",
+      "topic": "mixed",
+      "summary": "Contents table for Dossier 0 and Dossier 1: lessons, grammar, vocabulary."
+    },
+    {
+      "page": 7,
+      "activity_type": "none",
+      "topic": "mixed",
+      "summary": "Contents table for Dossier 2 (travel) and Dossier 3 (family, description)."
+    },
+    {
+      "page": 8,
+      "activity_type": "none",
+      "topic": "mixed",
+      "summary": "Contents table for Dossier 4 (daily routine) and Dossier 5 (news, biography)."
+    },
+    {
+      "page": 9,
+      "activity_type": "none",
+      "topic": "mixed",
+      "summary": "Contents table for Dossier 6 (travel) and Dossier 7 (shopping, food)."
+    },
+    {
+      "page": 10,
+      "activity_type": "none",
+      "topic": "mixed",
+      "summary": "Contents table for Dossier 8: restaurants, clothing, events, evening party."
+    },
+    {
+      "page": 11,
+      "activity_type": "speaking-task",
+      "topic": "communication",
+      "summary": "Comic-strip intro activity: greetings and answering the phone in six languages."
+    },
+    {
+      "page": 12,
+      "activity_type": "speaking-task",
+      "topic": "personal-info",
+      "summary": "Practice self-introductions (je m'appelle) via dialogue matching and speaking."
+    },
+    {
+      "page": 13,
+      "activity_type": "listening-comprehension",
+      "topic": "communication",
+      "summary": "Listening activity: identify audio type and match alphabet pronunciation."
+    },
+    {
+      "page": 14,
+      "activity_type": "listening-comprehension",
+      "topic": "communication",
+      "summary": "Alphabet sounds, accents, and spelling names via listening and forum reading."
+    },
+    {
+      "page": 15,
+      "activity_type": "fill-in",
+      "topic": "travel",
+      "summary": "Practice country names, numbers, and definite articles via an Olympic medal table."
+    },
+    {
+      "page": 16,
+      "activity_type": "fill-in",
+      "topic": "travel",
+      "summary": "Complete country-article rules and number tables 0-69; play a counting game."
+    },
+    {
+      "page": 17,
+      "activity_type": "reading-comprehension",
+      "topic": "time-dates",
+      "summary": "Read a language-school course calendar and complete months per season."
+    },
+    {
+      "page": 18,
+      "activity_type": "listening-comprehension",
+      "topic": "time-dates",
+      "summary": "Song-based practice of days/months; classroom communication expressions."
+    },
+    {
+      "page": 19,
+      "activity_type": "speaking-task",
+      "topic": "communication",
+      "summary": "Discussion prompts on French greeting customs and use of tu/vous."
+    },
+    {
+      "page": 20,
+      "activity_type": "speaking-task",
+      "topic": "communication",
+      "summary": "Discuss where French is spoken and its uses; unit project overview."
+    },
+    {
+      "page": 21,
+      "activity_type": "matching",
+      "topic": "communication",
+      "summary": "Match greeting phrases to photos; reconstruct formal/informal dialogues."
+    },
+    {
+      "page": 22,
+      "activity_type": "true-false",
+      "topic": "personal-info",
+      "summary": "True/false on an embassy invitation; greeting role-play and article practice."
+    },
+    {
+      "page": 23,
+      "activity_type": "matching",
+      "topic": "travel",
+      "summary": "Match listening dialogues about travel situations to photos and topics."
+    },
+    {
+      "page": 24,
+      "activity_type": "listening-comprehension",
+      "topic": "personal-info",
+      "summary": "Listen to a conversation with phone numbers; true/false and matching drills."
+    },
+    {
+      "page": 25,
+      "activity_type": "multiple-choice",
+      "topic": "personal-info",
+      "summary": "Multiple-choice and true/false on a francophone festival poster and program."
+    },
+    {
+      "page": 26,
+      "activity_type": "fill-in",
+      "topic": "personal-info",
+      "summary": "Complete festival badges and grammar tables for nationality and profession."
+    },
+    {
+      "page": 27,
+      "activity_type": "reading-comprehension",
+      "topic": "personal-info",
+      "summary": "Read a film webpage to identify director, actors, characters; verb drills."
+    },
+    {
+      "page": 28,
+      "activity_type": "reading-comprehension",
+      "topic": "personal-info",
+      "summary": "Read a student blog profile; multiple-choice questions and registration form."
+    },
+    {
+      "page": 29,
+      "activity_type": "fill-in",
+      "topic": "personal-info",
+      "summary": "Complete a registration form and grammar tables about identity via listening."
+    },
+    {
+      "page": 30,
+      "activity_type": "true-false",
+      "topic": "school",
+      "summary": "True/false comprehension of a chat about a French class; possessives practice."
+    }
+  ]
+}
