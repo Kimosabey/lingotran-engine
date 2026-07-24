@@ -89,3 +89,22 @@ def atomic_write_text(path, text, encoding='utf-8'):
     """Convenience wrapper of atomic_open for the common "write one string" case."""
     with atomic_open(path, 'w', encoding=encoding) as f:
         f.write(text)
+
+
+def atomic_save_image(img, path):
+    """Same guarantee as atomic_open, for a PIL Image saved over its own source
+    (rotate.py's overwrite-in-place). A process killed mid-save leaves the
+    previous good file untouched instead of a truncated/corrupted PNG."""
+    d = os.path.dirname(os.path.abspath(path)) or '.'
+    os.makedirs(d, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=d, prefix='.tmp-atomic-', suffix='.png')
+    os.close(fd)
+    try:
+        img.save(tmp)
+        os.replace(tmp, path)
+    except BaseException:
+        try:
+            os.remove(tmp)
+        except OSError:
+            pass
+        raise

@@ -42,7 +42,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import parse_root, load_collection_list
+from _common import parse_root, load_collection_list, lang_dir
 
 
 def _expected_page_count(root, slug):
@@ -53,12 +53,35 @@ def _expected_page_count(root, slug):
     return 0
 
 
+def _rasterization_gap(root, c):
+    """Cross-check the on-disk image count against the SOURCE PDF's real page
+    count, when available. Without this, a rasterization crashed/killed
+    partway through a book is invisible: _expected_page_count just treats
+    whatever's on disk as "expected," so a truncated collection can be
+    transcribed to 100% of its (wrong, truncated) page count and reconcile
+    would report it CLEAN. Returns None when no cross-check is possible
+    (images_preexisting, or no pdf field, or the pdf file isn't there)."""
+    if c.get('images_preexisting') or not c.get('pdf'):
+        return None
+    pdf_path = os.path.join(lang_dir(root), c['pdf'])
+    if not os.path.exists(pdf_path):
+        return None
+    try:
+        import fitz
+        with fitz.open(pdf_path) as doc:
+            real_n = doc.page_count
+    except Exception:
+        return None
+    on_disk = _expected_page_count(root, c['slug'])
+    return None if real_n == on_disk else (on_disk, real_n)
+
+
 def _qa_ok(path):
     try:
         v = json.load(open(path, encoding='utf-8'))
     except Exception:
         return False
-    return bool(v.get('ok')) and not v.get('missing_count')
+    return v.get('ok') is True and not v.get('missing_count')
 
 
 def check_transcription(root, slug, n):
@@ -128,12 +151,18 @@ def main(argv):
             print('%-32s no images found yet - nothing to check' % slug)
             continue
 
+        gap = _rasterization_gap(root, c)
+        if gap:
+            on_disk, real_n = gap
+            print('%-32s !! only %d/%d pages rasterized - pdf_to_images.py may have been interrupted'
+                  % (slug, on_disk, real_n))
+
         missing_md, missing_qa, qa_fail = check_transcription(root, slug, n)
         transcription_gaps = missing_md + missing_qa + qa_fail
         started, class_missing = check_classification(root, slug, n)
         q_count, v_count = _info_counts(root, slug)
 
-        clean = not transcription_gaps and not class_missing
+        clean = not transcription_gaps and not class_missing and not gap
         print('%-32s %3d pages | %s' % (slug, n, 'CLEAN' if clean else 'GAPS FOUND'))
         if missing_md:
             print('  missing page-NNN.md      (%d): %s' % (len(missing_md), missing_md))

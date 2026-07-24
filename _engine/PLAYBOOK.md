@@ -68,6 +68,35 @@ by refusing to declare victory without an explicit final check:
   against what an agent said it produced. The 2,584→2,830 questions
   correction happened because the actual `*-questions-all.csv` row count
   was checked directly, not because anyone remembered a running total.
+- **Never dispatch an agent to edit a derived/merged file directly — always
+  the source-of-truth chunks.** `_questions.json`/`_class.json` are derived
+  by `merge_enrich.py` from `_questions/chunk-*.json`/`_class/chunk-*.json`
+  — the same "manifest is a derived cache, never source of truth" rule as
+  `manifest-media.tsv`. Editing the merged file directly works only until
+  the *next* `merge_enrich.py` run, which silently regenerates it from the
+  untouched chunks and erases the edit — no error, no warning, just gone.
+  This actually happened during the French run: a repair-pass agent was
+  told to edit `_questions.json` directly, and a routine `merge_enrich.py`
+  test invocation on the same live collection (for unrelated reasons,
+  minutes later) wiped the fix before it was ever committed. Caught only by
+  re-running `verify_answers.py` and seeing every "fixed" issue reappear.
+  Any future repair pass on enrichment data must edit the chunk file whose
+  page range covers the item (or, if that's ambiguous, regenerate all
+  chunks by splitting the corrected merged file back into its original
+  chunk boundaries before running `merge_enrich.py` again) — never the
+  merged output.
+- **Answer alignment, not just answer presence.** A `correct_answer` being
+  non-empty doesn't mean it's usable — French's run found a real, if
+  low-prevalence (0.8-1.4% of items), pattern: multiple-choice answers
+  recorded as a bare letter ("b") instead of the option's full text, and a
+  handful of format-inconsistent `(open-ended...)` markers. Now a standing
+  command, run after `merge_enrich.py` and before `build_exports.py`:
+  `python _engine/verify_answers.py --root <lang>/extracted --all` —
+  auto-fixes the one fully mechanical case (bare-letter MC -> full option
+  text) and reports everything else (an answer not found among its own
+  options, inconsistent open-ended formatting) for a human/agent read,
+  same discipline as `reconcile.py`'s qa:fail list. Don't skip this because
+  a book "looks done" — the numbers looked fine here too until it ran.
 
 ---
 
@@ -146,7 +175,72 @@ the fixes are cheap to apply going forward:
 
 ---
 
-## Before starting any new book, ask these four questions
+## New failure modes found on the French run (Cosmopolite A1, 224 pages)
+
+German's run never hit these, or hit them too rarely to generalize from.
+Each now has a settled, standing response — captured here so the next book
+or language doesn't rediscover it from scratch.
+
+1. **Vision content-safety block on real, identifiable, named-person photos.**
+   A page containing a tight, named portrait (author headshots, interview
+   headshots) can make the whole page read/write fail with "content
+   filtering" — independent of intent, even a pure verbatim-transcription
+   request. It is **not fully deterministic**: many pages with real people
+   in them (crowd scenes, incidental photos, editorial images) transcribe
+   fine; only some tight named-portrait shots trigger it, and not always on
+   the first try. Standing procedure (now STEP 0 of `agent_transcribe.md`):
+   try the full page first; on a block, crop the face/portrait region out
+   with `zoom.py` and transcribe from the text-only crop instead — zero
+   data loss, since only printed text was ever in scope. **But cap the
+   retries.** If the block recurs across every reasonable approach (full
+   page, multiple independent crop variants, a fresh subagent dispatch to
+   rule out conversation-context effects) — stop. Don't keep spending
+   cycles on one page. Park it as a disclosed, permanent gap:
+   - the page's own `.md` gets a real frontmatter + a body explaining what
+     happened and why, not silence and not a fabricated guess;
+   - `_qa/page-NNN.json` gets the same explanation in `issues`;
+   - the collection's `collections.json` entry gets a `caveats` array
+     entry, which `build_exports.py` now renders into the unified book
+     `.md`'s "Known limitations" section and `package_exports.py` surfaces
+     in the top-level `_exports/README.md` — so the gap is visible in the
+     actual deliverable, not just a sidecar file nobody opens.
+2. **Two gap categories look similar but resolve differently — don't
+   conflate them:**
+   - *Genuine scan/print-resolution limits* (fine print below effective
+     DPI, a scan-edge cutoff, printer bleed-through ghosting) — normal,
+     expected, matches German's Goyal-pencil-marks precedent. Worth one
+     dedicated **repair pass** per book: re-dispatch just the flagged pages
+     with instructions to zoom more aggressively than the first pass (2-3
+     crop variants, tighter boundaries) before accepting the gap as final.
+     Most first-pass "illegible" flags are real fine-print limits and stay
+     flagged after a genuine second attempt — that's a correct outcome, not
+     a failure of the repair pass.
+   - *Content-safety blocks* (above) — a platform constraint, not a
+     resolution problem. More zoom does not help; the fix is cropping the
+     person out, and if that still fails, parking the page (not repeatedly
+     re-zooming, which wastes cycles on the wrong theory of the problem).
+3. **Concurrency cap on parallel subagent dispatch (currently 20 at once).**
+   Dispatching more than the cap in one message returns an immediate error
+   for the excess calls, not a queue — don't retry them blindly. The
+   working pattern for a large page count: **rolling dispatch**. Fill all
+   available slots up front, then every time a completion notification
+   arrives, immediately dispatch the next not-yet-claimed batch into the
+   freed slot. This keeps the pipeline continuously saturated without ever
+   exceeding the cap, and scales to any page count without pre-planning
+   exact wave sizes.
+4. **Transient "Connection closed mid-response" API errors are a distinct
+   failure mode from a killed/stopped agent, but need the identical
+   recovery**: never trust what the batch claims to have done (even a
+   promising-sounding partial result) — recompute from disk which
+   individual pages in that range actually got both a `.md` and a `_qa`
+   json, and re-dispatch **only the true gap**, not the whole range. This
+   already was the standing rule for killed agents (mechanism 4 above); the
+   French run confirmed it applies identically to this different-looking
+   failure.
+
+---
+
+## Before starting any new book, ask these five questions
 
 1. Is there a text layer we can read for free instead of vision-transcribing?
 2. What's `level_mode` for this book — fixed or inferred — and is that
@@ -155,6 +249,11 @@ the fixes are cheap to apply going forward:
    this wait / start with a small probe first?
 4. After this book hits 100%, are we stopping to report before the next one?
    (Yes, always — see engine operating model, point 4.)
+5. Does this book lean heavily on real-world photography (travel/culture
+   content, author portraits, interview headshots)? If so, expect some
+   content-safety blocks — the crop-workaround + capped-retries-then-park
+   procedure is already standing (see "New failure modes" above), not
+   something to improvise mid-run.
 
 If the honest answer to #1 is "yes, it's digital-born" — stop, don't
 rasterize, extract the text layer instead. That single check is the biggest
