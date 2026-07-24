@@ -1,0 +1,55 @@
+{
+  "_comment": "Only the 5 new French PDFs live here, processed via _engine/ --root french/extracted. French's 2 already-in-flight books (conjugaison-a1-a2, revision-2) stay on their existing bespoke _tools/manifest.py system, untouched, per the locked decision to scope this restructure to the 5 new PDFs only.",
+  "language": "French",
+  "language_code": "fr",
+  "collections": [
+    {
+      "slug": "cosmopolite-a1-methode",
+      "family": "hachette-fle",
+      "title": "Cosmopolite 1 - Methode de francais A1",
+      "level": "A1",
+      "level_mode": "fixed",
+      "pdf": "pdf/hachette-fle/cosmopolite-a1-methode/cosmopolite-a1-methode.pdf",
+      "caveats": [
+        "Page 3 (Avant-propos/foreword) could not be transcribed: its source image contains a real, identifiable, named person's photo (two author headshots), which the vision model's content-safety filter blocks on every processing approach. Not exercise/practice material -- publisher methodology prose only. See page-003.md and pages/_qa/page-003.json for the full note.",
+        "607 of 1751 questions (35%) have a blank correct_answer -- NOT a transcription gap. Confirmed via the book's own back cover (page 224): this coursebook's answer keys ('corrigés') are published in a separate companion 'Guide pedagogique' (teacher's guide), never printed in this book at all. ~47% of the blanks are additionally audio-dependent listening items (no audio track processed). SME FOLLOW-UP: if the companion Guide pedagogique PDF is ever sourced, its printed corriges could be used to re-run the enrichment answer-fill pass and resolve a meaningful share of these blanks."
+      ]
+    },
+    {
+      "slug": "tricolore-1-5th-edition",
+      "family": "oxford-university-press",
+      "title": "Tricolore 1 - 5e edition",
+      "level": "A1-A2",
+      "level_mode": "inferred",
+      "level_options": ["A1", "A2"],
+      "pdf": "pdf/oxford-university-press/tricolore-1-5th-edition/tricolore-1-5th-edition.pdf"
+    },
+    {
+      "slug": "tricolore-2-5th-edition",
+      "family": "oxford-university-press",
+      "title": "Tricolore 2 - 5e edition",
+      "level": "A2-B1",
+      "level_mode": "inferred",
+      "level_options": ["A2", "B1"],
+      "pdf": "pdf/oxford-university-press/tricolore-2-5th-edition/tricolore-2-5th-edition.pdf"
+    },
+    {
+      "slug": "saison-2-methode",
+      "family": "didier",
+      "title": "Saison 2 - Methode de francais A2-B1",
+      "level": "A2-B1",
+      "level_mode": "inferred",
+      "level_options": ["A2", "B1"],
+      "pdf": "pdf/didier/saison-2-methode/saison-2-methode.pdf"
+    },
+    {
+      "slug": "cosmopolite-5-c1c2",
+      "family": "hachette-fle",
+      "title": "Cosmopolite 5 - Methode de francais C1-C2",
+      "level": "C1-C2",
+      "level_mode": "inferred",
+      "level_options": ["C1", "C2"],
+      "pdf": "pdf/hachette-fle/cosmopolite-5-c1c2/cosmopolite-5-c1c2.pdf"
+    }
+  ]
+}

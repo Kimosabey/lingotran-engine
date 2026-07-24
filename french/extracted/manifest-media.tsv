@@ -1,0 +1,225 @@
+collection	unit	source_type	status	orientation	content_type	level	section	qa	notes
+cosmopolite-a1-methode	page-001	pdf	verified	0	[cover]	A1	none	pass	
+cosmopolite-a1-methode	page-002	pdf	verified	0	[cover]	A1		pass	
+cosmopolite-a1-methode	page-003	pdf	transcribed	0	[intro]	A1	none	fail	
+cosmopolite-a1-methode	page-004	pdf	verified	0	[instructions]	A1	none	pass	
+cosmopolite-a1-methode	page-005	pdf	transcribed	0	[instructions]	A1	none	fail	
+cosmopolite-a1-methode	page-006	pdf	verified	0	[toc]	A1	none	pass	
+cosmopolite-a1-methode	page-007	pdf	verified	0	[toc]	A1	none	pass	
+cosmopolite-a1-methode	page-008	pdf	verified	0	[toc]	A1	none	pass	
+cosmopolite-a1-methode	page-009	pdf	verified	0	[toc]	A1	none	pass	
+cosmopolite-a1-methode	page-010	pdf	verified	0	[toc]	A1	none	pass	
+cosmopolite-a1-methode	page-011	pdf	verified	0	[chapter-opener, lesson, picture-story, exercise]	A1	speaking	pass	
+cosmopolite-a1-methode	page-012	pdf	verified	0	[lesson, dialogue, grammar-box, exercise, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-013	pdf	verified	0	[chapter-opener, lesson, listening-sheet, exercise]	A1	listening	pass	
+cosmopolite-a1-methode	page-014	pdf	verified	0	[lesson, grammar-box, exercise, listening-sheet, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-015	pdf	verified	0	[chapter-opener, lesson, vocabulary, exercise, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-016	pdf	verified	0	[grammar-box, vocabulary, exercise, listening-sheet, speaking-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-017	pdf	verified	0	[lesson, chapter-opener, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-018	pdf	verified	0	[lesson, exercise, grammar-box, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-019	pdf	verified	0	[chapter-opener, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-020	pdf	verified	0	[chapter-opener, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-021	pdf	verified	0	[lesson, exercise, grammar-box, dialogue]	A1	listening	pass	
+cosmopolite-a1-methode	page-022	pdf	verified	0	[lesson, exercise, grammar-box, dialogue, audio-script]	A1	speaking	pass	
+cosmopolite-a1-methode	page-023	pdf	verified	0	[lesson, exercise, listening-sheet, grammar-box]	A1	listening	pass	
+cosmopolite-a1-methode	page-024	pdf	verified	0	[lesson, exercise, listening-sheet, grammar-box, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-025	pdf	verified	0	[lesson, exercise, listening-sheet, reading-text]	A1	listening	pass	
+cosmopolite-a1-methode	page-026	pdf	verified	0	[lesson, exercise, grammar-box, vocabulary]	A1	grammar	pass	
+cosmopolite-a1-methode	page-027	pdf	transcribed	0	[lesson, exercise, listening-sheet, reading-text]	A1	listening	fail	
+cosmopolite-a1-methode	page-028	pdf	transcribed	0	[lesson, exercise, grammar-box, reading-text, listening-sheet]	A1	grammar	fail	
+cosmopolite-a1-methode	page-029	pdf	verified	0	[chapter-opener, exercise, grammar-box, listening-sheet]	A1	listening	pass	
+cosmopolite-a1-methode	page-030	pdf	verified	0	[exercise, grammar-box, dialogue, listening-sheet]	A1	reading	pass	
+cosmopolite-a1-methode	page-031	pdf	transcribed	0	[chapter-opener, reading-text, exercise]	A1	reading	fail	
+cosmopolite-a1-methode	page-032	pdf	verified	0	[exercise, grammar-box, listening-sheet]	A1	grammar	pass	
+cosmopolite-a1-methode	page-033	pdf	verified	0	[reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-034	pdf	transcribed	0	[reading-text, exercise, vocabulary]	A1	reading	fail	
+cosmopolite-a1-methode	page-035	pdf	verified	0	[review, exercise, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-036	pdf	verified	0	[exercise, listening-sheet, writing-prompt]	A1	writing	pass	
+cosmopolite-a1-methode	page-037	pdf	verified	0	[chapter-opener, intro]	A1	speaking	pass	
+cosmopolite-a1-methode	page-038	pdf	verified	0	[chapter-opener, intro]	A1	speaking	pass	
+cosmopolite-a1-methode	page-039	pdf	verified	0	[lesson, reading-text, grammar-box, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-040	pdf	verified	0	[lesson, reading-text, listening-sheet, exercise, writing-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-041	pdf	verified	0	[lesson, exercise, grammar-box]	A1	listening	pass	
+cosmopolite-a1-methode	page-042	pdf	verified	0	[reading-text, exercise, grammar-box, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-043	pdf	verified	0	[lesson, reading-text, exercise, grammar-box, listening-sheet]	A1	reading	pass	
+cosmopolite-a1-methode	page-044	pdf	verified	0	[dialogue, exercise, grammar-box, writing-prompt, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-045	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-046	pdf	verified	0	[exercise, grammar-box, speaking-prompt, listening-sheet]	A1	none	pass	
+cosmopolite-a1-methode	page-047	pdf	verified	0	[lesson, reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-048	pdf	verified	0	[exercise, listening-sheet, grammar-box, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-049	pdf	verified	0	[lesson, exercise, listening-sheet, grammar-box]	A1	listening	pass	
+cosmopolite-a1-methode	page-050	pdf	verified	0	[reading-text, exercise, listening-sheet, speaking-prompt, writing-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-051	pdf	verified	0	[chapter-opener, exercise, reading-text, picture-story]	A1	none	pass	
+cosmopolite-a1-methode	page-052	pdf	verified	0	[reading-text, exercise, picture-story]	A1	reading	pass	
+cosmopolite-a1-methode	page-053	pdf	verified	0	[exercise, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-054	pdf	verified	0	[exercise, reading-text, speaking-prompt, review]	A1	none	pass	
+cosmopolite-a1-methode	page-055	pdf	verified	0	[chapter-opener, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-056	pdf	verified	0	[chapter-opener, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-057	pdf	verified	0	[lesson, reading-text, exercise, listening-sheet]	A1	reading	pass	
+cosmopolite-a1-methode	page-058	pdf	verified	0	[exercise, grammar-box, listening-sheet, vocabulary, speaking-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-059	pdf	transcribed	0	[lesson, reading-text]	A1	reading	fail	
+cosmopolite-a1-methode	page-060	pdf	verified	0	[lesson, exercise, grammar-box, listening-sheet, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-061	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-062	pdf	verified	0	[lesson, exercise, grammar-box, listening-sheet, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-063	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-064	pdf	verified	0	[lesson, grammar-box, exercise, listening-sheet, vocabulary, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-065	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-066	pdf	verified	0	[lesson, exercise, listening-sheet, grammar-box]	A1	listening	pass	
+cosmopolite-a1-methode	page-067	pdf	verified	0	[lesson, reading-text, exercise, vocabulary]	A1	reading	pass	
+cosmopolite-a1-methode	page-068	pdf	verified	0	[exercise, grammar-box, listening-sheet, vocabulary, speaking-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-069	pdf	verified	0	[exercise, listening-sheet, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-070	pdf	verified	0	[exercise, reading-text, speaking-prompt, writing-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-071	pdf	verified	0	[chapter-opener, instructions, picture-story, writing-prompt, speaking-prompt]	A1	writing	pass	
+cosmopolite-a1-methode	page-072	pdf	verified	0	[review, listening-sheet, speaking-prompt, writing-prompt, exercise]	A1	none	pass	
+cosmopolite-a1-methode	page-073	pdf	verified	0	[chapter-opener, reading-text, instructions, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-074	pdf	verified	0	[chapter-opener, reading-text, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-075	pdf	verified	0	[lesson, instructions, exercise, listening-sheet, grammar-box, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-076	pdf	verified	0	[lesson, exercise, grammar-box, listening-sheet, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-077	pdf	verified	0	[lesson, reading-text, exercise, listening-sheet, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-078	pdf	verified	0	[lesson, reading-text, exercise, listening-sheet, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-079	pdf	verified	0	[lesson, listening-sheet, exercise, reading-text, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-080	pdf	verified	0	[lesson, reading-text, grammar-box, writing-prompt, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-081	pdf	verified	0	[lesson, reading-text, exercise, listening-sheet]	A1	reading	pass	
+cosmopolite-a1-methode	page-082	pdf	verified	0	[lesson, exercise, grammar-box, listening-sheet, speaking-prompt, writing-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-083	pdf	verified	0	[lesson, reading-text, grammar-box, listening-sheet, exercise]	A1	none	pass	
+cosmopolite-a1-methode	page-084	pdf	verified	0	[lesson, exercise, grammar-box, listening-sheet]	A1	none	pass	
+cosmopolite-a1-methode	page-085	pdf	transcribed	0	[lesson, listening-sheet, grammar-box, exercise, reading-text]	A1	none	fail	
+cosmopolite-a1-methode	page-086	pdf	verified	0	[lesson, grammar-box, exercise, reading-text, listening-sheet, writing-prompt, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-087	pdf	transcribed	0	[chapter-opener, exercise, listening-sheet]	A1	listening	fail	
+cosmopolite-a1-methode	page-088	pdf	verified	0	[exercise, reading-text, review]	A1	reading	pass	
+cosmopolite-a1-methode	page-089	pdf	verified	0	[chapter-opener, instructions, writing-prompt, speaking-prompt]	A1	writing	pass	
+cosmopolite-a1-methode	page-090	pdf	verified	0	[exercise, reading-text, writing-prompt, review]	A1	none	pass	
+cosmopolite-a1-methode	page-091	pdf	transcribed	0	[chapter-opener, exercise, reading-text]	A1	none	fail	
+cosmopolite-a1-methode	page-092	pdf	verified	0	[chapter-opener, exercise, reading-text]	A1	none	pass	
+cosmopolite-a1-methode	page-093	pdf	verified	0	[lesson, reading-text, exercise, instructions]	A1	reading	pass	
+cosmopolite-a1-methode	page-094	pdf	verified	0	[grammar-box, exercise, instructions, listening-sheet]	A1	grammar	pass	
+cosmopolite-a1-methode	page-095	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-096	pdf	verified	0	[lesson, grammar-box, exercise, listening-sheet, writing-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-097	pdf	verified	0	[lesson, listening-sheet, exercise, grammar-box, reading-text]	A1	listening	pass	
+cosmopolite-a1-methode	page-098	pdf	verified	0	[reading-text, exercise, grammar-box, writing-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-099	pdf	verified	0	[lesson, listening-sheet, exercise, reading-text]	A1	listening	pass	
+cosmopolite-a1-methode	page-100	pdf	verified	0	[reading-text, grammar-box, exercise, speaking-prompt, writing-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-101	pdf	verified	0	[lesson, reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-102	pdf	transcribed	0	[exercise, grammar-box, reading-text, listening-sheet, writing-prompt, speaking-prompt]	A1	listening	fail	
+cosmopolite-a1-methode	page-103	pdf	transcribed	0	[lesson, reading-text, exercise]	A1	reading	fail	
+cosmopolite-a1-methode	page-104	pdf	verified	0	[exercise, grammar-box, listening-sheet, writing-prompt, speaking-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-105	pdf	verified	0	[chapter-opener, exercise, listening-sheet, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-106	pdf	transcribed	0	[reading-text, exercise, speaking-prompt, wordlist]	A1	reading	fail	
+cosmopolite-a1-methode	page-107	pdf	verified	0	[chapter-opener, exercise, speaking-prompt, writing-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-108	pdf	verified	0	[exercise, reading-text, speaking-prompt, review]	A1	none	pass	
+cosmopolite-a1-methode	page-109	pdf	verified	0	[chapter-opener, exercise]	A1	none	pass	
+cosmopolite-a1-methode	page-110	pdf	verified	0	[exercise, chapter-opener]	A1	none	pass	
+cosmopolite-a1-methode	page-111	pdf	transcribed	0	[lesson, reading-text, exercise]	A1	reading	fail	
+cosmopolite-a1-methode	page-112	pdf	verified	0	[grammar-box, exercise, listening-sheet, speaking-prompt, writing-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-113	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-114	pdf	verified	0	[exercise, grammar-box, listening-sheet]	A1	grammar	pass	
+cosmopolite-a1-methode	page-115	pdf	verified	0	[lesson, reading-text, exercise, grammar-box]	A1	listening	pass	
+cosmopolite-a1-methode	page-116	pdf	verified	0	[reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-117	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-118	pdf	verified	0	[grammar-box, exercise, listening-sheet, vocabulary]	A1	grammar	pass	
+cosmopolite-a1-methode	page-119	pdf	verified	0	[lesson, reading-text, exercise]	A1	reading	pass	
+cosmopolite-a1-methode	page-120	pdf	verified	0	[lesson, exercise, listening-sheet, grammar-box]	A1	listening	pass	
+cosmopolite-a1-methode	page-121	pdf	transcribed	0	[lesson, reading-text, exercise, listening-sheet, grammar-box]	A1	listening	fail	
+cosmopolite-a1-methode	page-122	pdf	verified	0	[lesson, exercise, grammar-box, picture-story]	A1	speaking	pass	
+cosmopolite-a1-methode	page-123	pdf	verified	0	[chapter-opener, reading-text, exercise]	A1	none	pass	
+cosmopolite-a1-methode	page-124	pdf	verified	0	[reading-text, exercise, writing-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-125	pdf	verified	0	[chapter-opener, reading-text, exercise, writing-prompt, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-126	pdf	verified	0	[exercise, listening-sheet, speaking-prompt, review]	A1	none	pass	
+cosmopolite-a1-methode	page-127	pdf	verified	0	[chapter-opener, exercise, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-128	pdf	transcribed	0	[chapter-opener, exercise, speaking-prompt]	A1	speaking	fail	
+cosmopolite-a1-methode	page-129	pdf	verified	0	[lesson, reading-text, exercise, vocabulary]	A1	reading	pass	
+cosmopolite-a1-methode	page-130	pdf	verified	0	[vocabulary, grammar-box, exercise, listening-sheet, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-131	pdf	verified	0	[chapter-opener, lesson, reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-132	pdf	verified	0	[exercise, listening-sheet, grammar-box, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-133	pdf	verified	0	[chapter-opener, lesson, reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-134	pdf	verified	0	[exercise, reading-text, grammar-box, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-135	pdf	verified	0	[chapter-opener, lesson, reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-136	pdf	verified	0	[exercise, reading-text, grammar-box, writing-prompt]	A1	writing	pass	
+cosmopolite-a1-methode	page-137	pdf	verified	0	[lesson, reading-text, exercise, vocabulary, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-138	pdf	verified	0	[exercise, listening-sheet, grammar-box, vocabulary, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-139	pdf	verified	0	[lesson, reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-140	pdf	verified	0	[grammar-box, exercise, listening-sheet, audio-script, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-141	pdf	transcribed	0	[chapter-opener, exercise, listening-sheet, speaking-prompt]	A1	listening	fail	
+cosmopolite-a1-methode	page-142	pdf	verified	0	[exercise, vocabulary, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-143	pdf	verified	0	[instructions, exercise, writing-prompt, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-144	pdf	verified	0	[instructions, listening-sheet, speaking-prompt, exercise]	A1	speaking	pass	
+cosmopolite-a1-methode	page-145	pdf	verified	0	[chapter-opener, instructions]	A1	none	pass	
+cosmopolite-a1-methode	page-146	pdf	verified	0	[chapter-opener, instructions]	A1	none	pass	
+cosmopolite-a1-methode	page-147	pdf	verified	0	[lesson, instructions, exercise, listening-sheet, reading-text]	A1	listening	pass	
+cosmopolite-a1-methode	page-148	pdf	verified	0	[reading-text, grammar-box, exercise, speaking-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-149	pdf	verified	0	[lesson, reading-text, exercise, grammar-box]	A1	reading	pass	
+cosmopolite-a1-methode	page-150	pdf	verified	0	[exercise, listening-sheet, grammar-box, speaking-prompt, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-151	pdf	verified	0	[chapter-opener, reading-text, exercise, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-152	pdf	verified	0	[grammar-box, exercise, listening-sheet, speaking-prompt]	A1	grammar	pass	
+cosmopolite-a1-methode	page-153	pdf	transcribed	0	[chapter-opener, reading-text, exercise, grammar-box, speaking-prompt]	A1	reading	fail	
+cosmopolite-a1-methode	page-154	pdf	transcribed	0	[exercise, listening-sheet, grammar-box, reading-text, speaking-prompt]	A1	grammar	fail	
+cosmopolite-a1-methode	page-155	pdf	verified	0	[chapter-opener, lesson, grammar-box, exercise, listening-sheet, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-156	pdf	verified	0	[exercise, reading-text, grammar-box, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-157	pdf	verified	0	[chapter-opener, lesson, reading-text, exercise, speaking-prompt]	A1	reading	pass	
+cosmopolite-a1-methode	page-158	pdf	verified	0	[exercise, listening-sheet, grammar-box, vocabulary, speaking-prompt]	A1	listening	pass	
+cosmopolite-a1-methode	page-159	pdf	verified	0	[chapter-opener, reading-text, exercise, listening-sheet, vocabulary]	A1	none	pass	
+cosmopolite-a1-methode	page-160	pdf	verified	0	[reading-text, exercise, vocabulary, writing-prompt, review]	A1	none	pass	
+cosmopolite-a1-methode	page-161	pdf	verified	0	[instructions, exercise, writing-prompt, speaking-prompt]	A1	none	pass	
+cosmopolite-a1-methode	page-162	pdf	verified	0	[exercise, reading-text, speaking-prompt, review]	A1	none	pass	
+cosmopolite-a1-methode	page-163	pdf	verified	0	[chapter-opener, exercise, grammar-box, wordlist]	A1	grammar	pass	
+cosmopolite-a1-methode	page-164	pdf	verified	0	[chapter-opener, exercise, grammar-box, wordlist]	A1	grammar	pass	
+cosmopolite-a1-methode	page-165	pdf	verified	0	[exercise, grammar-box, wordlist]	A1	grammar	pass	
+cosmopolite-a1-methode	page-166	pdf	verified	0	[exercise, grammar-box, wordlist]	A1	grammar	pass	
+cosmopolite-a1-methode	page-167	pdf	verified	0	[vocabulary, review]	A1	none	pass	
+cosmopolite-a1-methode	page-168	pdf	verified	0	[chapter-opener, exercise, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-169	pdf	verified	0	[exercise, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-170	pdf	verified	0	[exercise, grammar-box, dialogue]	A1	grammar	pass	
+cosmopolite-a1-methode	page-171	pdf	verified	0	[vocabulary, review]	A1	none	pass	
+cosmopolite-a1-methode	page-172	pdf	verified	0	[chapter-opener, exercise, grammar-box, wordlist]	A1	grammar	pass	
+cosmopolite-a1-methode	page-173	pdf	verified	0	[exercise, vocabulary, listening-sheet, grammar-box]	A1	none	pass	
+cosmopolite-a1-methode	page-174	pdf	verified	0	[exercise, grammar-box, vocabulary]	A1	none	pass	
+cosmopolite-a1-methode	page-175	pdf	verified	0	[vocabulary, wordlist]	A1	none	pass	
+cosmopolite-a1-methode	page-176	pdf	verified	0	[exercise, listening-sheet, reading-text, vocabulary]	A1	none	pass	
+cosmopolite-a1-methode	page-177	pdf	verified	0	[exercise, grammar-box, listening-sheet]	A1	none	pass	
+cosmopolite-a1-methode	page-178	pdf	verified	0	[exercise, listening-sheet, grammar-box]	A1	none	pass	
+cosmopolite-a1-methode	page-179	pdf	verified	0	[vocabulary, review]	A1	none	pass	
+cosmopolite-a1-methode	page-180	pdf	verified	0	[exercise, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-181	pdf	verified	0	[exercise, grammar-box, reading-text]	A1	grammar	pass	
+cosmopolite-a1-methode	page-182	pdf	verified	0	[exercise, grammar-box, reading-text]	A1	grammar	pass	
+cosmopolite-a1-methode	page-183	pdf	verified	0	[exercise, vocabulary, review]	A1	none	pass	
+cosmopolite-a1-methode	page-184	pdf	verified	0	[exercise, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-185	pdf	verified	0	[exercise, grammar-box, reading-text]	A1	grammar	pass	
+cosmopolite-a1-methode	page-186	pdf	verified	0	[exercise, grammar-box, reading-text, vocabulary]	A1	grammar	pass	
+cosmopolite-a1-methode	page-187	pdf	verified	0	[exercise, vocabulary, wordlist]	A1	none	pass	
+cosmopolite-a1-methode	page-188	pdf	verified	0	[chapter-opener, exercise, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-189	pdf	verified	0	[exercise, grammar-box, reading-text]	A1	grammar	pass	
+cosmopolite-a1-methode	page-190	pdf	verified	0	[exercise, vocabulary, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-191	pdf	verified	0	[exercise, listening-sheet, vocabulary, review]	A1	none	pass	
+cosmopolite-a1-methode	page-192	pdf	verified	0	[chapter-opener, exercise, grammar-box]	A1	none	pass	
+cosmopolite-a1-methode	page-193	pdf	verified	0	[exercise, grammar-box, listening-sheet]	A1	none	pass	
+cosmopolite-a1-methode	page-194	pdf	verified	0	[exercise, grammar-box]	A1	none	pass	
+cosmopolite-a1-methode	page-195	pdf	verified	0	[exercise, listening-sheet, vocabulary, review]	A1	none	pass	
+cosmopolite-a1-methode	page-196	pdf	verified	0	[exercise, listening-sheet]	A1	listening	pass	
+cosmopolite-a1-methode	page-197	pdf	verified	0	[exercise, listening-sheet]	A1	listening	pass	
+cosmopolite-a1-methode	page-198	pdf	verified	0	[exercise, reading-text]	A1	reading	pass	
+cosmopolite-a1-methode	page-199	pdf	verified	0	[exercise, reading-text]	A1	reading	pass	
+cosmopolite-a1-methode	page-200	pdf	verified	0	[exercise, reading-text]	A1	reading	pass	
+cosmopolite-a1-methode	page-201	pdf	verified	0	[exercise, reading-text, writing-prompt]	A1	writing	pass	
+cosmopolite-a1-methode	page-202	pdf	verified	0	[exercise, speaking-prompt]	A1	speaking	pass	
+cosmopolite-a1-methode	page-203	pdf	verified	0	[grammar-box, exercise, listening-sheet, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-204	pdf	verified	0	[grammar-box, exercise, listening-sheet, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-205	pdf	verified	0	[grammar-box, exercise, listening-sheet, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-206	pdf	verified	0	[grammar-box, exercise, listening-sheet, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-207	pdf	verified	0	[grammar-box, exercise, listening-sheet, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-208	pdf	verified	0	[grammar-box, exercise, listening-sheet, vocabulary]	A1	listening	pass	
+cosmopolite-a1-methode	page-209	pdf	verified	0	[chapter-opener, grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-210	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-211	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-212	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-213	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-214	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-215	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-216	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-217	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-218	pdf	verified	0	[grammar-box]	A1	grammar	pass	
+cosmopolite-a1-methode	page-219	pdf	verified	0	[grammar-box, vocabulary]	A1	grammar	pass	
+cosmopolite-a1-methode	page-220	pdf	verified	0	[grammar-box, vocabulary]	A1	grammar	pass	
+cosmopolite-a1-methode	page-221	pdf	transcribed	0	[vocabulary]	A1	none	fail	
+cosmopolite-a1-methode	page-222	pdf	transcribed	0	[vocabulary]	A1	none	fail	
+cosmopolite-a1-methode	page-223	pdf	verified	0	[vocabulary]	A1	none	pass	
+cosmopolite-a1-methode	page-224	pdf	verified	0	[cover]	A1	none	pass	
