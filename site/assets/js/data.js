@@ -13,13 +13,14 @@ window.LT = (function () {
   const REPO_URL = "https://github.com/Kimosabey/lingotran-engine";
 
   /* ---- Top-level site pages — single source of truth for the shared
-     topbar/mobile-nav (see app.js renderTopbar). `path` is relative to the
-     site root; add a page here and it appears in the nav on every page. ---- */
+     topbar/app-bar (see ui.js renderShell). `path` is relative to the site
+     root; add a page here and it appears in the app-bar + drawer everywhere. */
   const sitePages = [
-    { slug: "home", label: "Home", path: "" },
+    { slug: "dashboard", label: "Dashboard", path: "" },
     { slug: "french", label: "French", path: "french/" },
     { slug: "german", label: "German", path: "german/" },
-    { slug: "engine", label: "Engine", path: "engine/" }
+    { slug: "engine", label: "Engine", path: "engine/" },
+    { slug: "reference", label: "Reference", path: "reference/" }
   ];
 
   /* ---- Engine ---------------------------------------------------------- */
@@ -37,7 +38,7 @@ window.LT = (function () {
       { name: "French", code: "FR", slug: "french", status: "active", href: "french/", books: 3, spreads: 511 },
       {
         name: "German", code: "DE", slug: "german", status: "active",
-        href: REPO_URL + "/tree/main/german/extracted",
+        href: "german/",
         meta: "10 books · 636 pages · 113 web pages"
       },
       { name: "Japanese", code: "JA", slug: "japanese", status: "planned" },
@@ -51,7 +52,7 @@ window.LT = (function () {
   /* ---- Global metrics (hub) — from manifest.tsv / MANIFEST.md ---------- */
   const metrics = [
     { num: "13",   lab: "Document sets",   sub: "3 French workbooks · 10 German book/exam sets" },
-    { num: "1147", lab: "Pages",           sub: "511 FR spreads · 636 DE pages" },
+    { num: "1,147", lab: "Pages",          sub: "511 FR spreads · 636 DE pages" },
     { num: "962",  lab: "Transcribed",     sub: "84% of all pages", cls: "" },
     { num: "899",  lab: "QA-verified",     sub: "78% zero-loss verified", cls: "green" }
   ];
@@ -546,5 +547,66 @@ Return the final verdict.`
     }
   };
 
-  return { NETLIFY_URL, REPO_URL, sitePages, engine, orchestration, metrics, workflow, tools, conventions, french, german };
+  /* ---- Cross-corpus QA rollup — COMPUTED from the two aggregates above,
+     never hand-typed, so it can't silently drift from the manifest-sourced
+     french/german numbers when those are regenerated. ---------------------- */
+  const qaGlobal = (function () {
+    const pass = french.aggregate.qaPass + german.aggregate.verified; // German channels: 0 QA failures
+    const fail = french.aggregate.qaFail;
+    const total = pass + fail;
+    return { pass, fail, total, pct: total ? Math.round((pass / total) * 100) : 0 };
+  })();
+  metrics.push({
+    num: qaGlobal.pct + "%", lab: "QA pass rate",
+    sub: qaGlobal.pass.toLocaleString() + " of " + qaGlobal.total.toLocaleString() + " checks clean",
+    cls: "green"
+  });
+
+  /* ---- Unified corpus accessor — one row per book / collection, feeding
+     the corpus console (assets/js/corpus.js) and the global search index
+     (assets/js/ui.js). Wraps french.books + german.collections; no new
+     numbers, just a common shape over the existing real data. ------------ */
+  /* Canonical state, computed ONCE here — not re-derived per-consumer (that's
+     how "complete (21 disclosed gaps)" and "21 flagged" ended up disagreeing
+     with each other across the console and the book cards). A book that has
+     finished its pipeline with confirmed, disclosed, permanent gaps is
+     "complete" — not "in progress" and not an alarm-red "flagged" state. */
+  function stateOf(statusText, transcribed, total) {
+    if (!transcribed) return "not-started";
+    if (/complete/i.test(statusText || "")) return "complete";
+    return "in-progress";
+  }
+  function corpus() {
+    const items = [];
+    Object.keys(french.books).forEach(function (slug) {
+      const b = french.books[slug];
+      items.push({
+        id: "fr-" + slug, slug: slug, langCode: "FR", langName: "French",
+        title: b.title, source: b.source, author: b.author, subtitle: b.subtitle,
+        pages: b.spreads, transcribed: b.transcribed, verified: b.verified,
+        qaPass: b.qaPass || 0, qaFail: b.qaFail || 0,
+        state: stateOf(b.status, b.transcribed, b.spreads),
+        pct: b.spreads ? Math.round((b.verified / b.spreads) * 100) : 0,
+        href: "french/" + slug + "/", book: b
+      });
+    });
+    Object.keys(german.collections).forEach(function (slug) {
+      const c = german.collections[slug];
+      items.push({
+        id: "de-" + slug, slug: slug, langCode: "DE", langName: "German",
+        title: c.title, source: slug, author: "", subtitle: c.variant.replace(/-/g, " "),
+        pages: c.pages, transcribed: c.pages, verified: c.verified,
+        qaPass: c.verified, qaFail: 0,
+        state: stateOf(c.verified === c.pages ? "complete" : "in progress", c.pages, c.pages),
+        pct: c.pages ? Math.round((c.verified / c.pages) * 100) : 0,
+        href: "german/#col-" + slug, questions: c.questions, words: c.words, book: c
+      });
+    });
+    return items;
+  }
+
+  return {
+    NETLIFY_URL, REPO_URL, sitePages, engine, orchestration, metrics, workflow, tools,
+    conventions, french, german, qaGlobal, corpus
+  };
 })();

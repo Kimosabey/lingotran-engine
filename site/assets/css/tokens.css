@@ -1,0 +1,220 @@
+/* ==========================================================================
+   Lingotran Engine — Design tokens  ("Manifest" system)
+   A system-of-record aesthetic: deep-violet authority, emerald "verified"
+   signal, a confined textbook-paper motif. All component decisions derive
+   from the variables below. Light is the default; dark mirrors it.
+   ========================================================================== */
+:root{
+  /* ---- Brand (kept as the color anchor — the logos are violet) ---------- */
+  --brand-900:#2C0A63;
+  --brand-700:#41009A;   /* primary brand */
+  --brand-600:#5A18C2;
+  --brand-500:#7C4DFF;   /* interactive violet */
+  --brand-300:#B79CFF;
+  --brand-100:#EDE6FF;
+
+  /* ---- Verified (emerald) — the emotional core: ok:true, zero data loss - */
+  --verified:#0E9F6E;        /* fills, dots, donut slice */
+  --verified-strong:#0A7D57; /* AA text on white (5.0:1) */
+  --verified-soft:#E4F5EE;   /* tinted surface */
+
+  /* ---- Flag (rose) — QA-fail / needs attention, used sparingly ---------- */
+  --flag:#E11D48;
+  --flag-strong:#BE123C;     /* AA text on white (5.0:1) */
+  --flag-soft:#FCE7EC;
+
+  /* ---- Info / neutral accents for charts ------------------------------- */
+  --amber:#C77A0A;           /* decorative only — 3.4:1 on white, fails AA text */
+  --amber-strong:#8F5400;    /* AA-safe text variant (6.1:1 on white) */
+  --amber-soft:#FBF0DC;
+
+  /* ---- Paper — confined to the fidelity/scan motif only ---------------- */
+  --paper:#F4EEE1;
+  --paper-2:#EBE2CF;
+  --paper-line:#DCCFB4;
+  --paper-ink:#4A4230;
+
+  /* ---- Ink + cool-slate neutral ramp ----------------------------------- */
+  --ink:#14101E;             /* near-black indigo */
+  --slate-900:#1B1730;
+  --slate-800:#2A2542;
+  --slate-700:#3C3757;
+  --slate-600:#524D6C;
+  --slate-500:#6B6683;
+  --slate-400:#918DA6;
+  --slate-300:#C6C3D4;
+  --slate-200:#E4E2ED;
+  --slate-150:#ECEAF3;
+  --slate-100:#F2F1F7;
+  --slate-50:#F8F8FC;
+  --white:#FFFFFF;
+
+  /* ---- Semantic surfaces (LIGHT) — components reference these ----------- */
+  --bg:#F6F5FB;
+  --surface:#FFFFFF;
+  --surface-2:#F3F2F9;
+  --surface-3:#ECEAF6;
+  --surface-inset:#F8F8FC;
+  --border:#E6E4EF;
+  --border-strong:#D5D2E2;
+  --border-faint:#EFEEF5;
+
+  --text:var(--ink);
+  --text-muted:#565270;      /* 6.7:1 on --surface */
+  --text-subtle:#6E6A86;     /* 4.6:1 on --surface — small text OK */
+  --text-onbrand:#FFFFFF;
+
+  --accent:var(--brand-700);
+  --accent-hover:var(--brand-900);
+  --accent-soft:var(--brand-100);
+  --link:var(--brand-700);
+  --ring:var(--brand-500);
+
+  --code-bg:#160C2B;
+  --code-text:#EDE7FF;
+  --code-cmt:#9B8AC9;
+  --code-kw:#C4A6FF;
+  --code-str:#8DE9C4;
+
+  --chart-track:#ECEAF6;
+  --grad-brand:linear-gradient(135deg,#41009A 0%,#7C4DFF 100%);
+  --grad-brand-90:linear-gradient(90deg,#41009A,#7C4DFF);
+  --grad-verified:linear-gradient(90deg,#0A7D57,#0E9F6E);
+  --scrim:rgba(20,16,30,.42);
+  --glow-brand:0 24px 60px -20px rgba(65,0,154,.45);
+
+  /* ---- Spacing scale (4px base) ---------------------------------------- */
+  --sp-1:4px;  --sp-2:8px;  --sp-3:12px; --sp-4:16px; --sp-5:20px;
+  --sp-6:24px; --sp-7:28px; --sp-8:32px; --sp-10:40px; --sp-12:48px;
+  --sp-14:56px; --sp-16:64px; --sp-20:80px; --sp-24:96px;
+
+  /* ---- Radius ---------------------------------------------------------- */
+  --r-xs:6px; --r-sm:8px; --r-md:12px; --r-lg:16px; --r-xl:20px; --r-2xl:28px; --r-pill:999px;
+
+  /* ---- Shadow (soft) --------------------------------------------------- */
+  --shadow-xs:0 1px 2px rgba(20,16,30,.05);
+  --shadow-sm:0 2px 8px rgba(20,16,30,.06);
+  --shadow-md:0 10px 28px -8px rgba(20,16,30,.12);
+  --shadow-lg:0 24px 56px -16px rgba(20,16,30,.18);
+
+  /* ---- Typography ------------------------------------------------------ */
+  --font-display:'Fraunces',Georgia,'Times New Roman',serif;
+  --font-sans:'Inter','Helvetica Neue',Helvetica,Arial,sans-serif;
+  --font-mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+
+  --text-2xs:11px; --text-xs:12px; --text-sm:13px; --text-smd:14px;
+  --text-base:15px; --text-md:16px; --text-lg:18px; --text-xl:20px; --text-2xl:24px;
+  --display-sm:clamp(26px,3vw,34px);
+  --display-md:clamp(32px,4.4vw,46px);
+  --display-lg:clamp(38px,6vw,62px);
+
+  --lh-tight:1.12; --lh-snug:1.3; --lh-normal:1.6; --lh-relaxed:1.7;
+  --ls-tight:-0.02em; --ls-snug:-0.01em; --ls-wide:0.02em; --ls-caps:0.08em;
+
+  /* ---- Motion ---------------------------------------------------------- */
+  --ease-out:cubic-bezier(.2,.7,.2,1);
+  --ease-spring:cubic-bezier(.22,1,.36,1);
+  --dur-1:.12s; --dur-2:.2s; --dur-3:.35s; --dur-4:.55s;
+
+  /* ---- Layout ---------------------------------------------------------- */
+  --topbar-h:60px; --appbar-h:48px; --content-max:1200px; --prose-max:72ch;
+
+  /* ---- Z-index --------------------------------------------------------- */
+  --z-appbar:40; --z-topbar:50; --z-scrim:55; --z-drawer:60; --z-tooltip:70;
+
+  color-scheme:light;
+}
+
+/* ---- Dark mode (deep-indigo mirror). Default follows OS; the toggle
+   stamps data-theme on <html> and always wins. ------------------------- */
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){ color-scheme:dark; }
+}
+:root[data-theme="dark"]{ color-scheme:dark; }
+
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --bg:#0E0A1A;
+  --surface:#16112A;
+  --surface-2:#1E1738;
+  --surface-3:#271E48;
+  --surface-inset:#120D24;
+  --border:rgba(255,255,255,.10);
+  --border-strong:rgba(255,255,255,.17);
+  --border-faint:rgba(255,255,255,.06);
+
+  --text:#F4F1FF;
+  --text-muted:rgba(244,241,255,.74);
+  --text-subtle:rgba(244,241,255,.56);
+
+  --accent:#B79CFF;
+  --accent-hover:#CBB6FF;
+  --accent-soft:rgba(124,77,255,.18);
+  --link:#B79CFF;
+  --ring:#B79CFF;
+
+  --verified-strong:#34D399;   /* brighter — AA on dark surface */
+  --flag-strong:#FB7185;
+  --amber:#F0B24B;
+  --amber-strong:#F0B24B;     /* same value — already AA as text on dark surfaces */
+
+  --verified-soft:rgba(16,159,110,.16);
+  --flag-soft:rgba(225,29,72,.16);
+  --amber-soft:rgba(240,178,75,.15);
+  --brand-100:rgba(124,77,255,.16);
+
+  --paper:#26210F; --paper-2:#302913; --paper-line:#4A3F1E; --paper-ink:#E9DEB8;
+
+  --code-bg:#0B0618; --code-text:#EDE7FF;
+  --chart-track:rgba(255,255,255,.09);
+  --grad-verified:linear-gradient(90deg,#0E9F6E,#34D399);
+  --scrim:rgba(0,0,0,.6);
+  --glow-brand:0 24px 60px -20px rgba(124,77,255,.5);
+
+  --shadow-xs:0 1px 2px rgba(0,0,0,.4);
+  --shadow-sm:0 2px 10px rgba(0,0,0,.4);
+  --shadow-md:0 12px 30px -8px rgba(0,0,0,.55);
+  --shadow-lg:0 26px 60px -16px rgba(0,0,0,.65);
+}}
+
+:root[data-theme="dark"]{
+  --bg:#0E0A1A;
+  --surface:#16112A;
+  --surface-2:#1E1738;
+  --surface-3:#271E48;
+  --surface-inset:#120D24;
+  --border:rgba(255,255,255,.10);
+  --border-strong:rgba(255,255,255,.17);
+  --border-faint:rgba(255,255,255,.06);
+
+  --text:#F4F1FF;
+  --text-muted:rgba(244,241,255,.74);
+  --text-subtle:rgba(244,241,255,.56);
+
+  --accent:#B79CFF;
+  --accent-hover:#CBB6FF;
+  --accent-soft:rgba(124,77,255,.18);
+  --link:#B79CFF;
+  --ring:#B79CFF;
+
+  --verified-strong:#34D399;
+  --flag-strong:#FB7185;
+  --amber:#F0B24B;
+
+  --verified-soft:rgba(16,159,110,.16);
+  --flag-soft:rgba(225,29,72,.16);
+  --amber-soft:rgba(240,178,75,.15);
+  --brand-100:rgba(124,77,255,.16);
+
+  --paper:#26210F; --paper-2:#302913; --paper-line:#4A3F1E; --paper-ink:#E9DEB8;
+
+  --code-bg:#0B0618; --code-text:#EDE7FF;
+  --chart-track:rgba(255,255,255,.09);
+  --grad-verified:linear-gradient(90deg,#0E9F6E,#34D399);
+  --scrim:rgba(0,0,0,.6);
+  --glow-brand:0 24px 60px -20px rgba(124,77,255,.5);
+
+  --shadow-xs:0 1px 2px rgba(0,0,0,.4);
+  --shadow-sm:0 2px 10px rgba(0,0,0,.4);
+  --shadow-md:0 12px 30px -8px rgba(0,0,0,.55);
+  --shadow-lg:0 26px 60px -16px rgba(0,0,0,.65);
+}
