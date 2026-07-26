@@ -243,7 +243,7 @@ or language doesn't rediscover it from scratch.
 
 ---
 
-## Before starting any new book, ask these five questions
+## Before starting any new book, ask these six questions
 
 1. Is there a text layer we can read for free instead of vision-transcribing?
 2. What's `level_mode` for this book — fixed or inferred — and is that
@@ -257,6 +257,18 @@ or language doesn't rediscover it from scratch.
    content-safety blocks — the crop-workaround + capped-retries-then-park
    procedure is already standing (see "New failure modes" above), not
    something to improvise mid-run.
+6. **Does this book print its own answer keys, or not?** Check during recon,
+   before transcribing: look at the table of contents and the back matter
+   for an "Answers"/"Corrigés"/"Solutions" section. A **student coursebook**
+   (Livre de l'élève) almost never prints answers — they live in a separate
+   teacher's guide — so expect a large share of blank `correct_answer`
+   fields, which is **correct, not a gap**. A **workbook / self-study /
+   exam-practice** book often does print a key, so blanks there are worth a
+   second look. Record the finding in `collections.json` as `book_type` +
+   `answer_key` (`status`: `separate-guide` / `printed` / `partial`, plus a
+   `checked` note of what you looked at) so the corpus is queryable and the
+   blank-answer expectation is set before anyone reviews the output. Both
+   French books so far (Cosmopolite A1, Tricolore 1) are `separate-guide`.
 
 If the honest answer to #1 is "yes, it's digital-born" — stop, don't
 rasterize, extract the text layer instead. That single check is the biggest

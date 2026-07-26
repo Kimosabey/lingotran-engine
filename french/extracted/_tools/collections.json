@@ -10,6 +10,12 @@
       "level": "A1",
       "level_mode": "fixed",
       "pdf": "pdf/hachette-fle/cosmopolite-a1-methode/cosmopolite-a1-methode.pdf",
+      "book_type": "student-coursebook",
+      "answer_key": {
+        "status": "separate-guide",
+        "checked": "2026-07-24: confirmed via the book's own back cover (p224); corriges are published in the separate companion 'Guide pedagogique' (teacher's guide), never in this book",
+        "note": "607 of 1751 questions (35%) have a blank correct_answer as a result -- not a transcription gap. See caveats. SME follow-up: if the Guide pedagogique PDF is sourced, re-run the enrichment answer-fill pass."
+      },
       "caveats": [
         "Page 3 (Avant-propos/foreword) could not be transcribed: its source image contains a real, identifiable, named person's photo (two author headshots), which the vision model's content-safety filter blocks on every processing approach. Not exercise/practice material -- publisher methodology prose only. See page-003.md and pages/_qa/page-003.json for the full note.",
         "607 of 1751 questions (35%) have a blank correct_answer -- NOT a transcription gap. Confirmed via the book's own back cover (page 224): this coursebook's answer keys ('corrigés') are published in a separate companion 'Guide pedagogique' (teacher's guide), never printed in this book at all. ~47% of the blanks are additionally audio-dependent listening items (no audio track processed). SME FOLLOW-UP: if the companion Guide pedagogique PDF is ever sourced, its printed corriges could be used to re-run the enrichment answer-fill pass and resolve a meaningful share of these blanks."
@@ -23,7 +29,13 @@
       "level": "A1-A2",
       "level_mode": "inferred",
       "level_options": ["A1", "A2"],
-      "pdf": "pdf/oxford-university-press/tricolore-1-5th-edition/tricolore-1-5th-edition.pdf"
+      "pdf": "pdf/oxford-university-press/tricolore-1-5th-edition/tricolore-1-5th-edition.pdf",
+      "book_type": "student-coursebook",
+      "answer_key": {
+        "status": "separate-guide",
+        "checked": "2026-07-26 recon: TOC (no Answers/Corriges section listed) + back matter (Grammaire reference, vocabulary glossary, Acknowledgements) reviewed; no printed answer key anywhere in the student book",
+        "note": "Student coursebook (Livre de l'eleve). Answers/corriges are published only in the separate Tricolore 1 Teacher's Book, never in this volume. Expect many blank correct_answer fields as a result -- not a transcription gap. SME follow-up: if the Teacher's Book PDF is sourced, re-run the enrichment answer-fill pass."
+      }
     },
     {
       "slug": "tricolore-2-5th-edition",
