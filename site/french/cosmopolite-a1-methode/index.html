@@ -3,163 +3,145 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Cosmopolite 1 — Lingotran Extraction</title>
+<title>Cosmopolite 1 — French corpus — Lingotran Engine</title>
 <meta name="description" content="Cosmopolite 1 — Méthode de français (Hachette FLE, A1) — extraction coverage, QA results, content breakdown and chapter taxonomy.">
+<link rel="icon" href="../../assets/img/icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
-<link rel="icon" href="../../assets/img/icon.png">
-<link rel="stylesheet" href="../../assets/css/styles.css">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../assets/css/tokens.css?v=3">
+<link rel="stylesheet" href="../../assets/css/base.css?v=3">
+<link rel="stylesheet" href="../../assets/css/components.css?v=3">
+<link rel="stylesheet" href="../../assets/css/app.css?v=3">
 <script>(function(){try{var t=localStorage.getItem('lt-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 
-<header class="topbar">
-  <a class="brand" href="../../">
-    <img class="logo-light" src="../../assets/img/logo-color.png" alt="Lingotran">
-    <img class="logo-dark" src="../../assets/img/logo-white.png" alt="Lingotran">
-    <span class="kicker">Extraction Docs</span>
-  </a>
-  <nav class="appnav"><a href="../../">Home</a><a href="../" class="active">French</a><a href="../../german/">German</a></nav>
-  <span class="spacer"></span>
-  <div class="search">
-    <span class="ico"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></span>
-    <input id="search-input" type="search" placeholder="Search sections…" aria-label="Search sections">
-    <kbd>/</kbd>
-  </div>
-  <div class="topbar-actions">
-    <a class="icon-btn" data-repo href="#" target="_blank" rel="noopener" aria-label="GitHub repository">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.7 1.3 3.4 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11.5 11.5 0 016 0C17 5 18 5.3 18 5.3c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg>
-    </a>
-    <button class="icon-btn" id="theme-toggle" aria-label="Toggle light/dark theme">
-      <span class="sun"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5L19 19M19 5l-1.5 1.5M6.5 17.5L5 19"/></svg></span>
-      <span class="moon"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M20 14.5A8 8 0 019.5 4 8 8 0 1020 14.5z"/></svg></span>
-    </button>
-  </div>
-</header>
-<nav class="subnav" id="subnav" aria-label="Section navigation"></nav>
+<div id="site-shell" data-active="french" data-root="../../" data-parent="french" data-title="Cosmopolite 1"></div>
 
-<div class="layout">
-  <main class="main">
-    <div class="content">
+<main class="main" id="main">
+  <div class="content">
 
-      <div class="pagehero">
-        <div class="crumbs"><a href="../../">Home</a> / <a href="../">French</a> / cosmopolite-a1-methode</div>
-        <span class="eyebrow">Document set · Complete (21 disclosed gaps)</span>
-        <h1>Cosmopolite 1 — Méthode de français</h1>
-        <p>224 pages · A1 — a coursebook built around real-world "authentic document" realia
-           (Nathalie Hirschsprung, Tony Tricot, Hachette FLE), organized into 8 thematic dossiers plus a
-           DELF A1 mock exam and a grammar/phonetics reference appendix. First of the 5 new French PDFs
-           processed via the shared <code class="code-inline">_engine/</code> pipeline.</p>
-        <div class="hero-tags">
-          <span class="tag">224 spreads</span>
-          <span class="tag">224 transcribed</span>
-          <span class="tag">203 verified</span>
-          <span class="tag">12 chapters</span>
-        </div>
+    <div class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">French · Book · Complete (21 disclosed gaps)</span>
+        <h1 class="display" style="font-size:var(--display-md)">Cosmopolite 1 — Méthode de français</h1>
+        <p class="hero-sub">224 pages · A1 — a coursebook built around real-world "authentic document"
+           realia, organized into 8 thematic dossiers plus a DELF A1 mock exam and a grammar/phonetics
+           reference appendix.</p>
       </div>
+    </div>
 
-      <section class="section" id="overview" data-nav="Overview" data-nav-group="cosmopolite-a1-methode">
+    <nav class="sectionnav scroll-thin" id="sectionnav" aria-label="On this page"></nav>
+
+    <section class="section" id="overview" data-nav="Overview">
+      <div class="section-head">
         <span class="eyebrow">Overview</span>
         <h2 class="section-title">About this book</h2>
-        <div class="card prose">
-          <p>Organized into <strong>8 dossiers</strong>, each opening with discussion prompts and a class
-             project, followed by 6 leçons and a <strong>Cultures</strong> spread, plus a <strong>DELF A1</strong>
-             mock exam and a <strong>Précis de grammaire et phonétique</strong> reference appendix. Leans
-             heavily on real-world photography and "authentic document" realia (magazine clippings, posters,
-             city maps, screenshots) rather than purely typeset exercises.</p>
-          <dl class="dl">
-            <dt>source</dt><dd><code class="code-inline">cosmopolite-a1-methode.pdf</code></dd>
-            <dt>author</dt><dd>Nathalie Hirschsprung, Tony Tricot · Hachette FLE</dd>
-            <dt>format</dt><dd>224 scanned pages, 300 DPI, no text layer</dd>
-          </dl>
-        </div>
-        <div data-render="book-stats" data-book="french.books.cosmopolite-a1-methode"></div>
-      </section>
+      </div>
+      <div class="card prose">
+        <p>Organized into <strong>8 dossiers</strong>, each opening with discussion prompts and a class
+           project, followed by 6 leçons and a <strong>Cultures</strong> spread, plus a <strong>DELF A1</strong>
+           mock exam and a <strong>Précis de grammaire et phonétique</strong> reference appendix. Leans
+           heavily on real-world photography and "authentic document" realia (magazine clippings, posters,
+           city maps, screenshots) rather than purely typeset exercises.</p>
+        <dl class="dl">
+          <dt>source</dt><dd><code class="code-inline">cosmopolite-a1-methode.pdf</code></dd>
+          <dt>author</dt><dd>Nathalie Hirschsprung, Tony Tricot · Hachette FLE</dd>
+          <dt>format</dt><dd>224 scanned pages, 300 DPI, no text layer</dd>
+        </dl>
+      </div>
+      <div data-render="book-kpi" data-book="french.books.cosmopolite-a1-methode" style="margin-top:var(--sp-5)"></div>
+    </section>
 
-      <section class="section" id="coverage" data-nav="Coverage" data-nav-group="cosmopolite-a1-methode">
-        <span class="eyebrow">Coverage</span>
-        <h2 class="section-title">Transcription &amp; verification</h2>
-        <p class="lead">All 224 pages transcribed. 203 fully verified; 21 carry a disclosed, confirmed-permanent
-           gap (see QA results below) — not pending, not silently dropped.</p>
-        <div class="card" data-meter="french.books.cosmopolite-a1-methode.meters"></div>
-      </section>
-
-      <section class="section" id="qa" data-nav="QA results" data-nav-group="cosmopolite-a1-methode">
+    <section class="section" id="progress" data-nav="QA results">
+      <div class="section-head">
         <span class="eyebrow">Quality assurance</span>
         <h2 class="section-title">Adversarial QA verdicts</h2>
-        <p class="lead">Each QA verdict is a sidecar JSON. Every "flagged" page here went through a dedicated
-           repair pass (more aggressive zoom, multiple crop angles) and was confirmed as a genuine,
-           unresolvable limit — not an unattempted gap.</p>
-        <div class="card" data-qa="french.books.cosmopolite-a1-methode"></div>
-        <div class="note coral" style="margin-top:16px"><b>Why 21 pages stay flagged:</b> 20 are genuine
-          scan/print-resolution limits (fine print below effective DPI, scan-edge cutoffs, printer
-          bleed-through) — the same class of caveat as German's 2 Goyal pages. 1 page (page 3, the
-          "Avant-propos" foreword) hit a platform content-safety constraint: its source image contains a
-          real, identifiable, named person's photo (the two authors' headshots), which blocks the vision
-          model on every processing approach tried. Not a content issue — publisher methodology prose,
-          not exercise material.</div>
-      </section>
+        <p class="lead">All 224 pages transcribed. Each QA verdict is a sidecar JSON; every "flagged" page went
+           through a dedicated repair pass (more aggressive zoom, multiple crop angles) and was confirmed as a
+           genuine, unresolvable limit — not an unattempted gap.</p>
+      </div>
+      <div class="card" data-meter="french.books.cosmopolite-a1-methode.meters"></div>
+      <div class="card" style="margin-top:var(--sp-4)">
+        <h3>QA split</h3>
+        <div data-qa="french.books.cosmopolite-a1-methode" style="margin-top:14px"></div>
+      </div>
+      <div class="note note-flag" style="margin-top:16px">
+        <span class="note-ico" data-ico="wrench"></span>
+        <div><b>Why 21 pages stay flagged.</b> 20 are genuine scan/print-resolution limits (fine print
+          below effective DPI, scan-edge cutoffs, printer bleed-through) — the same class of caveat as
+          German's 2 Goyal pages. 1 page (page 3, the "Avant-propos" foreword) hit a platform
+          content-safety constraint: its source image contains a real, identifiable, named person's photo
+          (the two authors' headshots), which blocks the vision model on every processing approach tried.
+          Not a content issue — publisher methodology prose, not exercise material.</div>
+      </div>
+    </section>
 
-      <section class="section" id="answers" data-nav="Answer coverage" data-nav-group="cosmopolite-a1-methode">
+    <section class="section" id="answers" data-nav="Answer coverage">
+      <div class="section-head">
         <span class="eyebrow">Answer bank</span>
         <h2 class="section-title">Why 607 of 1,751 questions have no answer</h2>
         <p class="lead">Not a transcription gap — confirmed against the book's own back cover.</p>
-        <div class="card">
-          <div data-chart="french.books.cosmopolite-a1-methode.charts.answerCoverage" data-label="answer coverage"></div>
-        </div>
-        <div class="note coral" style="margin-top:16px"><b>This book's answer keys aren't in this book.</b>
-          Page 224 (the back cover) states this coursebook's "corrigés" (answer keys) are published in a
-          separate companion <i>Guide pédagogique</i> (teacher's guide) — never printed here at all. About
-          47% of the blanks are additionally audio-dependent listening items (no audio track processed,
-          only page images). <b>SME follow-up:</b> if that companion guide is ever sourced, its printed
-          corrigés could resolve a meaningful share of these blanks via a re-run of the answer-fill pass.</div>
-      </section>
+      </div>
+      <div class="card">
+        <div data-chart="french.books.cosmopolite-a1-methode.charts.answerCoverage" data-label="answer coverage"></div>
+      </div>
+      <div class="note note-flag" style="margin-top:16px">
+        <span class="note-ico" data-ico="doc"></span>
+        <div><b>This book's answer keys aren't in this book.</b> Page 224 (the back cover) states this
+          coursebook's "corrigés" (answer keys) are published in a separate companion <i>Guide pédagogique</i>
+          (teacher's guide) — never printed here at all. About 47% of the blanks are additionally
+          audio-dependent listening items (no audio track processed, only page images).
+          <b>SME follow-up:</b> if that companion guide is ever sourced, its printed corrigés could resolve
+          a meaningful share of these blanks via a re-run of the answer-fill pass.</div>
+      </div>
+    </section>
 
-      <section class="section" id="breakdown" data-nav="Content breakdown" data-nav-group="cosmopolite-a1-methode">
+    <section class="section" id="breakdown" data-nav="Content mix">
+      <div class="section-head">
         <span class="eyebrow">Content breakdown</span>
         <h2 class="section-title">What's on the pages</h2>
         <p class="lead">Distribution across all 224 transcribed pages (a page can carry several content types).</p>
+      </div>
+      <div class="card">
+        <h3>Content types</h3>
+        <p class="card-sub">Tagged blocks per page</p>
+        <div data-chart="french.books.cosmopolite-a1-methode.charts.contentType" data-label="content type distribution" style="margin-top:8px"></div>
+      </div>
+      <div class="card" style="margin-top:var(--sp-4)">
+        <h3>Fixed properties</h3>
+        <p class="card-sub">Uniform across the whole book — not worth a chart</p>
+        <dl class="dl" style="margin-top:12px">
+          <dt>CEFR level</dt><dd>A1, fixed for all 224 pages</dd>
+          <dt>Scan orientation</dt><dd>0° clockwise rotation on every page — the scans arrived fully upright</dd>
+        </dl>
+      </div>
+    </section>
 
-        <div class="grid cols-2">
-          <div class="card">
-            <h3>Content types</h3>
-            <p class="card-sub">Tagged blocks per page</p>
-            <div data-chart="french.books.cosmopolite-a1-methode.charts.contentType" data-label="content type distribution"></div>
-          </div>
-          <div class="card">
-            <h3>CEFR level</h3>
-            <p class="card-sub">Fixed at A1 for the whole book</p>
-            <div data-chart="french.books.cosmopolite-a1-methode.charts.cefr" data-label="CEFR level distribution"></div>
-          </div>
-        </div>
-
-        <div class="card" style="margin-top:16px">
-          <h3>Scan orientation auto-fix</h3>
-          <p class="card-sub">Clockwise rotation applied during the Transcribe step — this book's scans arrived fully upright</p>
-          <div data-chart="french.books.cosmopolite-a1-methode.charts.orientation" data-label="orientation distribution"></div>
-        </div>
-      </section>
-
-      <section class="section" id="chapters" data-nav="Chapters" data-nav-group="cosmopolite-a1-methode">
+    <section class="section" id="chapters" data-nav="Chapters">
+      <div class="section-head">
         <span class="eyebrow">Taxonomy</span>
         <h2 class="section-title">Table of contents — 12 chapters</h2>
         <p class="lead">By dossier, with the printed start page in the source book.</p>
-        <div data-chapters="french.books.cosmopolite-a1-methode.chapters"></div>
-      </section>
+      </div>
+      <div data-chapters="french.books.cosmopolite-a1-methode.chapters" data-chapters-label="Dossier"></div>
+    </section>
 
-      <footer class="site-footer">
-        <div class="row">
-          <span>Cosmopolite 1 · <span id="year"></span></span>
-          <span><a href="../">← Back to French</a></span>
-        </div>
-      </footer>
+    <footer class="site-footer">
+      <div class="foot-row">
+        <span class="foot-brand">Cosmopolite 1 · <span id="year"></span></span>
+        <span><a href="../">← Back to French</a></span>
+      </div>
+    </footer>
 
-    </div>
-  </main>
-</div>
+  </div>
+</main>
 
-<script src="../../assets/js/data.js"></script>
-<script src="../../assets/js/app.js" defer></script>
+<script src="../../assets/js/data.js?v=3"></script>
+<script src="../../assets/js/ui.js?v=3"></script>
+<script src="../../assets/js/render.js?v=3"></script>
+<script src="../../assets/js/main.js?v=3"></script>
 </body>
 </html>

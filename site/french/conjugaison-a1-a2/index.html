@@ -3,138 +3,124 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pratique Conjugaison — Lingotran Extraction</title>
+<title>Pratique Conjugaison — French corpus — Lingotran Engine</title>
 <meta name="description" content="Pratique Conjugaison (500 exercices, A1/A2) — extraction coverage, QA results, content breakdown and chapter taxonomy.">
+<link rel="icon" href="../../assets/img/icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
-<link rel="icon" href="../../assets/img/icon.png">
-<link rel="stylesheet" href="../../assets/css/styles.css">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../assets/css/tokens.css?v=3">
+<link rel="stylesheet" href="../../assets/css/base.css?v=3">
+<link rel="stylesheet" href="../../assets/css/components.css?v=3">
+<link rel="stylesheet" href="../../assets/css/app.css?v=3">
 <script>(function(){try{var t=localStorage.getItem('lt-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 
-<header class="topbar">
-  <a class="brand" href="../../">
-    <img class="logo-light" src="../../assets/img/logo-color.png" alt="Lingotran">
-    <img class="logo-dark" src="../../assets/img/logo-white.png" alt="Lingotran">
-    <span class="kicker">Extraction Docs</span>
-  </a>
-  <nav class="appnav"><a href="../../">Home</a><a href="../" class="active">French</a><a href="../../german/">German</a></nav>
-  <span class="spacer"></span>
-  <div class="search">
-    <span class="ico"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></span>
-    <input id="search-input" type="search" placeholder="Search sections…" aria-label="Search sections">
-    <kbd>/</kbd>
-  </div>
-  <div class="topbar-actions">
-    <a class="icon-btn" data-repo href="#" target="_blank" rel="noopener" aria-label="GitHub repository">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.7 1.3 3.4 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11.5 11.5 0 016 0C17 5 18 5.3 18 5.3c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg>
-    </a>
-    <button class="icon-btn" id="theme-toggle" aria-label="Toggle light/dark theme">
-      <span class="sun"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5L19 19M19 5l-1.5 1.5M6.5 17.5L5 19"/></svg></span>
-      <span class="moon"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M20 14.5A8 8 0 019.5 4 8 8 0 1020 14.5z"/></svg></span>
-    </button>
-  </div>
-</header>
-<nav class="subnav" id="subnav" aria-label="Section navigation"></nav>
+<div id="site-shell" data-active="french" data-root="../../" data-parent="french" data-title="Conjugaison"></div>
 
-<div class="layout">
-  <main class="main">
-    <div class="content">
+<main class="main" id="main">
+  <div class="content">
 
-      <div class="pagehero">
-        <div class="crumbs"><a href="../../">Home</a> / <a href="../">French</a> / conjugaison-a1-a2</div>
-        <span class="eyebrow">Document set · In progress</span>
-        <h1>Pratique Conjugaison</h1>
-        <p>500 exercices · A1/A2 — a French verb-conjugation workbook (Odile Grand-Clément, CLE
-           International), organized into 13 chapters by tense.</p>
-        <div class="hero-tags">
-          <span class="tag">106 spreads</span>
-          <span class="tag">102 transcribed</span>
-          <span class="tag">60 verified</span>
-          <span class="tag">13 chapters</span>
-        </div>
+    <div class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">French · Book · In progress</span>
+        <h1 class="display" style="font-size:var(--display-md)">Pratique Conjugaison — 500 exercices</h1>
+        <p class="hero-sub">106 spreads · A1/A2 — a French verb-conjugation workbook, organized into 13
+           chapters by tense.</p>
       </div>
+    </div>
 
-      <section class="section" id="overview" data-nav="Overview" data-nav-group="conjugaison-a1-a2">
+    <nav class="sectionnav scroll-thin" id="sectionnav" aria-label="On this page"></nav>
+
+    <section class="section" id="overview" data-nav="Overview">
+      <div class="section-head">
         <span class="eyebrow">Overview</span>
         <h2 class="section-title">About this book</h2>
-        <div class="card prose">
-          <p>A verb-conjugation workbook organized into <strong>13 chapters by tense</strong>, each with
-             exercises, a brief “rappel” + worked examples, and <strong>Bilan</strong> review sections, plus
-             end-of-book <strong>Corrigés</strong> (answer keys).</p>
-          <dl class="dl">
-            <dt>source</dt><dd><code class="code-inline">PRATIQUE-CONJUGASION A1 A2.pdf</code></dd>
-            <dt>author</dt><dd>Odile Grand-Clément · CLE International</dd>
-            <dt>format</dt><dd>106 scanned two-page spreads, 300 DPI, no text layer</dd>
-          </dl>
-        </div>
-        <div data-render="book-stats" data-book="french.books.conjugaison-a1-a2"></div>
-      </section>
+      </div>
+      <div class="card prose">
+        <p>A verb-conjugation workbook organized into <strong>13 chapters by tense</strong>, each with
+           exercises, a brief "rappel" + worked examples, and <strong>Bilan</strong> review sections, plus
+           end-of-book <strong>Corrigés</strong> (answer keys).</p>
+        <dl class="dl">
+          <dt>source</dt><dd><code class="code-inline">PRATIQUE-CONJUGASION A1 A2.pdf</code></dd>
+          <dt>author</dt><dd>Odile Grand-Clément · CLE International</dd>
+          <dt>format</dt><dd>106 scanned two-page spreads, 300 DPI, no text layer</dd>
+        </dl>
+      </div>
+      <div data-render="book-kpi" data-book="french.books.conjugaison-a1-a2" style="margin-top:var(--sp-5)"></div>
+    </section>
 
-      <section class="section" id="coverage" data-nav="Coverage" data-nav-group="conjugaison-a1-a2">
-        <span class="eyebrow">Coverage</span>
-        <h2 class="section-title">Transcription &amp; verification</h2>
-        <p class="lead">4 pages remain pending; the rest are transcribed, with QA verification ongoing.</p>
-        <div class="card" data-meter="french.books.conjugaison-a1-a2.meters"></div>
-      </section>
-
-      <section class="section" id="qa" data-nav="QA results" data-nav-group="conjugaison-a1-a2">
+    <section class="section" id="progress" data-nav="QA results">
+      <div class="section-head">
         <span class="eyebrow">Quality assurance</span>
-        <h2 class="section-title">Adversarial QA verdicts</h2>
-        <p class="lead">Each QA verdict is a sidecar JSON. “Flagged” pages carry a precise issue list and
-           are queued for the Repair stage.</p>
-        <div class="card" data-qa="french.books.conjugaison-a1-a2"></div>
-        <div class="note coral" style="margin-top:16px"><b>What QA catches:</b> missing exercises or items,
-          dropped table cells, altered words/accents, swapped multiple-choice options, missing answer-key
-          entries, dropped “[track NN]” audio badges and page numbers.</div>
-      </section>
+        <h2 class="section-title">Transcription &amp; QA verdicts</h2>
+        <p class="lead">4 pages remain pending transcription; 35 more are transcribed but not yet QA-checked.
+           Each QA verdict is a sidecar JSON — "flagged" pages carry a precise issue list and are queued for
+           the Repair stage.</p>
+      </div>
+      <div class="card" data-meter="french.books.conjugaison-a1-a2.meters"></div>
+      <div class="card" style="margin-top:var(--sp-4)">
+        <h3>QA split</h3>
+        <p class="card-sub">Of the 67 pages QA-checked so far.</p>
+        <div data-qa="french.books.conjugaison-a1-a2" style="margin-top:14px"></div>
+      </div>
+      <div class="note" style="margin-top:16px">
+        <span class="note-ico" data-ico="search"></span>
+        <div><b>What QA catches.</b> Missing exercises or items, dropped table cells, altered words/accents,
+          swapped multiple-choice options, missing answer-key entries, dropped "[track NN]" audio badges,
+          and dropped page numbers.</div>
+      </div>
+    </section>
 
-      <section class="section" id="breakdown" data-nav="Content breakdown" data-nav-group="conjugaison-a1-a2">
+    <section class="section" id="breakdown" data-nav="Content mix">
+      <div class="section-head">
         <span class="eyebrow">Content breakdown</span>
-        <h2 class="section-title">What’s on the pages</h2>
+        <h2 class="section-title">What's on the pages</h2>
         <p class="lead">Distribution across transcribed pages (a page can carry several content types).</p>
-
-        <div class="grid cols-2">
-          <div class="card">
-            <h3>Content types</h3>
-            <p class="card-sub">Tagged blocks per page</p>
-            <div data-chart="french.books.conjugaison-a1-a2.charts.contentType" data-label="content type distribution"></div>
-          </div>
-          <div class="card">
-            <h3>Inferred CEFR level</h3>
-            <p class="card-sub">Per-page level tag</p>
-            <div data-chart="french.books.conjugaison-a1-a2.charts.cefr" data-label="CEFR level distribution"></div>
-          </div>
+      </div>
+      <div class="card">
+        <h3>Content types</h3>
+        <p class="card-sub">Tagged blocks per page</p>
+        <div data-chart="french.books.conjugaison-a1-a2.charts.contentType" data-label="content type distribution" style="margin-top:8px"></div>
+      </div>
+      <div class="grid grid-2" style="margin-top:var(--sp-4)">
+        <div class="card">
+          <h3>Inferred CEFR level</h3>
+          <p class="card-sub">Per-page level tag — this book doesn't print one, so it's inferred</p>
+          <div data-chart="french.books.conjugaison-a1-a2.charts.cefr" data-label="CEFR level distribution" style="margin-top:8px"></div>
         </div>
-
-        <div class="card" style="margin-top:16px">
+        <div class="card">
           <h3>Scan orientation auto-fix</h3>
-          <p class="card-sub">Clockwise rotation applied during the Transcribe step (many scans arrived sideways)</p>
-          <div data-chart="french.books.conjugaison-a1-a2.charts.orientation" data-label="orientation distribution"></div>
+          <p class="card-sub">Clockwise rotation applied during Transcribe — many scans arrived sideways</p>
+          <div data-chart="french.books.conjugaison-a1-a2.charts.orientation" data-label="orientation distribution" style="margin-top:8px"></div>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <section class="section" id="chapters" data-nav="Chapters" data-nav-group="conjugaison-a1-a2">
+    <section class="section" id="chapters" data-nav="Chapters">
+      <div class="section-head">
         <span class="eyebrow">Taxonomy</span>
         <h2 class="section-title">Table of contents — 13 chapters</h2>
         <p class="lead">By tense, with the printed start page in the source book.</p>
-        <div data-chapters="french.books.conjugaison-a1-a2.chapters" data-chapters-label="Chapter (tense)"></div>
-      </section>
+      </div>
+      <div data-chapters="french.books.conjugaison-a1-a2.chapters" data-chapters-label="Chapter (tense)"></div>
+    </section>
 
-      <footer class="site-footer">
-        <div class="row">
-          <span>Pratique Conjugaison · <span id="year"></span></span>
-          <span><a href="../">← Back to French</a></span>
-        </div>
-      </footer>
+    <footer class="site-footer">
+      <div class="foot-row">
+        <span class="foot-brand">Pratique Conjugaison · <span id="year"></span></span>
+        <span><a href="../">← Back to French</a></span>
+      </div>
+    </footer>
 
-    </div>
-  </main>
-</div>
+  </div>
+</main>
 
-<script src="../../assets/js/data.js"></script>
-<script src="../../assets/js/app.js" defer></script>
+<script src="../../assets/js/data.js?v=3"></script>
+<script src="../../assets/js/ui.js?v=3"></script>
+<script src="../../assets/js/render.js?v=3"></script>
+<script src="../../assets/js/main.js?v=3"></script>
 </body>
 </html>

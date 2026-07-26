@@ -3,76 +3,104 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>French — Lingotran Extraction</title>
-<meta name="description" content="The French A1/A2 extraction corpus — three books, 511 spreads, coverage and per-book detail.">
+<title>French corpus — Lingotran Engine</title>
+<meta name="description" content="Three French A1/A2 workbooks — Cosmopolite 1, Pratique Conjugaison, and Pratique Révision 2 — transcribed verbatim and QA-verified.">
+<link rel="icon" href="../assets/img/icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,800&display=swap" rel="stylesheet">
-<link rel="icon" href="../assets/img/icon.png">
-<link rel="stylesheet" href="../assets/css/styles.css?v=2">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/tokens.css?v=3">
+<link rel="stylesheet" href="../assets/css/base.css?v=3">
+<link rel="stylesheet" href="../assets/css/components.css?v=3">
+<link rel="stylesheet" href="../assets/css/app.css?v=3">
 <script>(function(){try{var t=localStorage.getItem('lt-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 
-<header class="topbar" id="topbar-root" data-active="french"></header>
-<nav class="subnav" id="subnav" aria-label="Section navigation"></nav>
+<div id="site-shell" data-active="french" data-root="../"></div>
 
-<div class="layout">
-  <main class="main">
-    <div class="content">
+<main class="main" id="main">
+  <div class="content">
 
-      <div class="pagehero">
-        <div class="crumbs"><a href="../">Home</a> / French</div>
-        <span class="eyebrow">Corpus · A1 / A2 (CEFR)</span>
-        <h1>French</h1>
-        <p>Three scanned French books — an A1 coursebook (Cosmopolite 1), a conjugation trainer, and a
-           broad revision book — extracted to faithful, verifiable Markdown.</p>
-        <div class="hero-tags">
-          <span class="tag">3 document sets</span>
-          <span class="tag">511 spreads</span>
-          <span class="tag">326 transcribed</span>
-          <span class="tag">263 verified</span>
+    <div class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">Corpus · French</span>
+        <h1 class="display" style="font-size:var(--display-md)">French — A1 &amp; A2</h1>
+        <p class="hero-sub">Three coursebooks from Hachette FLE and CLE International, vision-transcribed
+           page by page and adversarially re-checked for anything a scan could hide.</p>
+      </div>
+    </div>
+
+    <nav class="sectionnav scroll-thin" id="sectionnav" aria-label="On this page"></nav>
+
+    <section class="section" id="overview" data-nav="Overview">
+      <div class="section-head">
+        <span class="eyebrow">Overview</span>
+        <h2 class="section-title">Three workbooks, one pipeline</h2>
+        <p class="lead">A CEFR A1 coursebook, a verb-conjugation practice book, and a combined
+           vocabulary/grammar revision workbook — each run through the same transcribe → QA → repair cycle.</p>
+      </div>
+      <div data-render="french-kpi"></div>
+      <div class="note" style="margin-top:16px">
+        <span class="note-ico" data-ico="tag"></span>
+        <div><b>Level convention differs by book.</b> Cosmopolite 1 is fixed — the whole book is A1,
+          uniformly. The two legacy workbooks don't print a level per exercise; "A1/A2" is the book's
+          overall scope, with a per-exercise level inferred during transcription and always tagged
+          "(inferred)".</div>
+      </div>
+    </section>
+
+    <section class="section" id="progress" data-nav="Progress by book">
+      <div class="section-head">
+        <span class="eyebrow">Status</span>
+        <h2 class="section-title">Progress by book</h2>
+        <p class="lead">Cosmopolite 1 is fully transcribed with a handful of disclosed gaps; Conjugaison is
+           mid-flight; Révision 2 has its images captured but transcription hasn't started.</p>
+      </div>
+      <div class="grid grid-3">
+        <div class="card card-pad-sm">
+          <h3 style="font-size:var(--text-md)">Cosmopolite 1</h3>
+          <div data-meter="french.books.cosmopolite-a1-methode.meters" style="margin-top:6px"></div>
+        </div>
+        <div class="card card-pad-sm">
+          <h3 style="font-size:var(--text-md)">Conjugaison</h3>
+          <div data-meter="french.books.conjugaison-a1-a2.meters" style="margin-top:6px"></div>
+        </div>
+        <div class="card card-pad-sm">
+          <h3 style="font-size:var(--text-md)">Révision 2</h3>
+          <div data-meter="french.books.revision-2.meters" style="margin-top:6px"></div>
         </div>
       </div>
+      <div class="card" style="margin-top:var(--sp-4)">
+        <h3>QA split, across all three books</h3>
+        <p class="card-sub">263 of 511 spreads QA-verified so far; 254 clean, 37 flagged and either repaired or disclosed.</p>
+        <div data-render="qa-global" style="margin-top:14px"></div>
+      </div>
+    </section>
 
-      <section class="section" id="overview" data-nav="Overview" data-nav-group="French corpus">
-        <span class="eyebrow">Overview</span>
-        <h2 class="section-title">The French corpus</h2>
-        <p class="lead">All three books are scanned images (no text layer) rendered at 300 DPI and
-           recovered through the zero-data-loss pipeline. Cosmopolite 1 is single-page scans; the two
-           legacy workbooks are two-page spreads.</p>
-        <div class="note">Level convention differs by book: Cosmopolite 1 is <b>fixed</b> — the whole book
-          is A1, uniformly. The two legacy workbooks (Pratique Conjugaison, Pratique Révision) don't print
-          a level per exercise — “A1/A2” is the book's overall CEFR scope, with a per-exercise level
-          <b>inferred</b> during transcription and always tagged “(inferred)”.</div>
-      </section>
+    <section class="section" id="books" data-nav="Books">
+      <div class="section-head">
+        <span class="eyebrow">Browse</span>
+        <h2 class="section-title">The books</h2>
+        <p class="lead">Open a book for its full chapter/unit index, content-type mix, and disclosed gaps.</p>
+      </div>
+      <div data-render="french-books"></div>
+    </section>
 
-      <section class="section" id="coverage" data-nav="Coverage" data-nav-group="French corpus">
-        <span class="eyebrow">Coverage</span>
-        <h2 class="section-title">Aggregate coverage</h2>
-        <p class="lead">Across all three books, from <code class="code-inline">manifest.tsv</code> / per-book manifests.</p>
-        <div data-render="french-aggregate"></div>
-      </section>
+    <footer class="site-footer">
+      <div class="foot-row">
+        <span class="foot-brand">Lingotran Engine · French corpus · <span id="year"></span></span>
+        <span><a href="https://github.com/Kimosabey/lingotran-engine" target="_blank" rel="noopener">GitHub</a> · Built on the Lingotran brand system</span>
+      </div>
+    </footer>
 
-      <section class="section" id="books" data-nav="Document sets" data-nav-group="French corpus">
-        <span class="eyebrow">Document sets</span>
-        <h2 class="section-title">Books</h2>
-        <p class="lead">Open a book for its coverage, QA results, content breakdown and full taxonomy.</p>
-        <div data-render="french-books"></div>
-      </section>
+  </div>
+</main>
 
-      <footer class="site-footer">
-        <div class="row">
-          <span>Lingotran Engine — French corpus · <span id="year"></span></span>
-          <span><a href="../">← Back to overview</a></span>
-        </div>
-      </footer>
-
-    </div>
-  </main>
-</div>
-
-<script src="../assets/js/data.js?v=2"></script>
-<script src="../assets/js/app.js?v=2" defer></script>
+<script src="../assets/js/data.js?v=3"></script>
+<script src="../assets/js/ui.js?v=3"></script>
+<script src="../assets/js/render.js?v=3"></script>
+<script src="../assets/js/main.js?v=3"></script>
 </body>
 </html>
