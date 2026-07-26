@@ -99,3 +99,15 @@ P1/P2 items not addressed this pass — out of scope for what was blocking the i
 - **IT2-P1-3 fixed:** `reconcile.py` now reads a new `accepted_qa_gaps` array (page numbers) from `collections.json` per collection, partitions any `qa: fail` pages into "new" (still blocks CLEAN) vs. "accepted" (printed every run, never silent, but doesn't block CLEAN or the exit code) — explicitly NOT available for `missing_md`/`missing_qa`, only for pages that were actually attempted and individually reviewed. Cosmopolite A1's real 21 disclosed permanent gaps (page-resolution/content-filter limits already documented in `caveats`) added to its `accepted_qa_gaps`. Ran live: `reconcile.py --root french/extracted cosmopolite-a1-methode` now reports `CLEAN` (previously `GAPS FOUND`), with all 21 accepted gaps still printed for visibility.
 
 All 3 fixes are targeted, no new abstractions. `docs/lingotran-engine-e2e-review.md`, `-improvements.md`, `-action-plan.md` updated to mark these 3 findings resolved.
+
+---
+
+### Addendum 4 — 2026-07-26: inferred-level enforcement gap closed (before book 2)
+
+The Iteration-2 review flagged, as a gap (not a P1 bug): `level_mode: inferred` was **unenforced** — the contract that a mixed-level book must carry a per-item `level` from `level_options` lived only in the agent playbooks, with no code check. Closed now, deliberately timed **before** the first `inferred` book (Tricolore 1) starts, so a missing/invalid level tag is caught on page 1, not after a whole book.
+
+- **Where:** `verify_answers.py` (the natural home — it's already the post-`merge_enrich` questions-validity sweep). Extended `verify_collection` to take the collection config; for an `inferred` collection it flags items with no `level` tag or a `level` outside `level_options`. Aggregated to a count + page sample so a fully-untagged book emits one summary line, not one per item. Report-only — never guesses a level, writes nothing. A `fixed` book is not checked (no per-item level expected). Back-compat: a bare slug string is still accepted (treated as `fixed`).
+- **Tests:** +5 in `test_verify_answers.py` (all-tagged clean, missing flagged, out-of-range flagged, fixed-book-not-checked, anti-flood aggregation). Suite now 37/37.
+- **No regression:** re-ran on Cosmopolite A1 (`fixed`) — same 3 pre-existing answer-alignment flags, zero inferred-level noise.
+
+Still open from Iteration 2 (unchanged, lower priority): no re-processing protection for an already-shipped book; the IT2-P2 hygiene items (unclosed read handles surfaced as ResourceWarnings).

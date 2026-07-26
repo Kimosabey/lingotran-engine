@@ -17,11 +17,22 @@ Two different things happen here, deliberately not conflated:
      multi-select item -- either way, needs a human read, not a guess),
    - inconsistent "(open-ended...)" formatting across writing-task /
      speaking-task / open-ended items (bare "(open-ended)" is the baseline;
-     anything else is flagged so a repair pass can normalize or confirm it).
+     anything else is flagged so a repair pass can normalize or confirm it),
+   - INFERRED-LEVEL enforcement: for a collection with
+     "level_mode": "inferred" (a book that mixes CEFR levels, e.g. Tricolore
+     1's A1/A2), every question item MUST carry a per-item `level` drawn from
+     that book's `level_options`. This check flags items with no `level` tag
+     or a `level` outside the allowed set -- aggregated to a count + a page
+     sample so a whole untagged book doesn't flood the output one line per
+     item. A `fixed`-level book (whole book one level) is not expected to
+     carry per-item levels and is not checked here. This is the code-level
+     enforcement of the inferred-mode contract that was previously only
+     described in the agent playbooks; it never guesses a level, only
+     reports what a repair pass must re-tag.
 
 Rewrites go straight to pages/_questions.json via atomic_write_text (the
 merged file build_exports.py reads) -- re-run build_exports.py afterward to
-refresh the CSVs.
+refresh the CSVs. The inferred-level check is report-only and writes nothing.
 
 Usage:
     python _engine/verify_answers.py --root french/extracted --all
@@ -45,7 +56,15 @@ def _letter_option(item, letter):
     return item.get('option_' + letter.lower().rstrip('.'), '')
 
 
-def verify_collection(root, slug):
+def verify_collection(root, c):
+    # `c` is a collection dict from collections.json; a bare slug string is
+    # also accepted (treated as a fixed-level collection) for back-compat.
+    if isinstance(c, str):
+        c = {'slug': c}
+    slug = c['slug']
+    level_mode = c.get('level_mode', 'fixed')
+    level_options = set(c.get('level_options', []))
+
     path = os.path.join(root, slug, 'pages', '_questions.json')
     if not os.path.exists(path):
         print('%-32s no _questions.json yet, skipped' % slug)
@@ -55,11 +74,22 @@ def verify_collection(root, slug):
 
     fixed = 0
     issues = []
+    level_missing, level_invalid = [], []
     for it in items:
         if it.get('item_type') not in VALID_ITEM_TYPES:
             issues.append('%s/%s: item_type "%s" is not a valid item_type (looks like an '
                           'activity_type value leaked in) - reclassify by hand'
                           % (it.get('source_page'), it.get('item'), it.get('item_type')))
+
+        # Inferred-level enforcement: every item must carry a level from the
+        # book's level_options. Collected here, summarized after the loop so a
+        # fully-untagged book doesn't emit hundreds of lines.
+        if level_mode == 'inferred':
+            lvl = (it.get('level') or '').strip()
+            if not lvl:
+                level_missing.append(it.get('source_page'))
+            elif level_options and lvl not in level_options:
+                level_invalid.append((it.get('source_page'), lvl))
 
         ans = (it.get('correct_answer') or '').strip()
         if not ans:
@@ -102,6 +132,17 @@ def verify_collection(root, slug):
                 issues.append('%s/%s: non-standard open-ended format "%s" (standard is "(open-ended: ...)")'
                                % (it.get('source_page'), it.get('item'), ans[:60]))
 
+    if level_mode == 'inferred':
+        if level_missing:
+            pages = sorted(set(p for p in level_missing if p is not None))
+            issues.append('inferred-level book: %d item(s) across %d page(s) have NO `level` tag '
+                          '(e.g. pages %s) - each exercise must be tagged from %s'
+                          % (len(level_missing), len(pages), pages[:8], sorted(level_options)))
+        if level_invalid:
+            bad = sorted(set(level_invalid))
+            issues.append('inferred-level book: %d item(s) carry a `level` outside level_options %s '
+                          '(e.g. %s)' % (len(level_invalid), sorted(level_options), bad[:8]))
+
     if fixed:
         atomic_write_text(path, json.dumps(data, ensure_ascii=False, indent=1))
 
@@ -123,7 +164,7 @@ def main(argv):
         if c.get('frozen'):
             print('%-32s frozen - skipped' % c['slug'])
             continue
-        verify_collection(root, c['slug'])
+        verify_collection(root, c)
 
 
 if __name__ == '__main__':

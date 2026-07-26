@@ -5,6 +5,8 @@ leading whitespace corrupted the result (" vrai" -> "Vraii"). Fixed to just
 `ans.capitalize()`, since the guard condition already guarantees `ans` IS
 the whole intended value.
 """
+import contextlib
+import io
 import json
 import os
 import shutil
@@ -66,6 +68,74 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
         verify_collection(self.tmpdir, self.slug)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Vrai')
+
+
+class InferredLevelTests(unittest.TestCase):
+    """The inferred-mode enforcement: an `inferred` book must carry a per-item
+    `level` from its `level_options`; a `fixed` book is not checked. Report
+    only — never mutates, never guesses a level."""
+
+    def setUp(self):
+        self.tmpdir = tempfile.mkdtemp()
+        self.slug = 'test-collection'
+        self.pages_dir = os.path.join(self.tmpdir, self.slug, 'pages')
+        os.makedirs(self.pages_dir)
+
+    def tearDown(self):
+        shutil.rmtree(self.tmpdir, ignore_errors=True)
+
+    def _run(self, items, config):
+        json.dump({'items': items},
+                  open(os.path.join(self.pages_dir, '_questions.json'), 'w', encoding='utf-8'))
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            verify_collection(self.tmpdir, config)
+        return buf.getvalue()
+
+    def _cfg(self, **extra):
+        return dict({'slug': self.slug}, **extra)
+
+    def test_inferred_all_tagged_is_clean(self):
+        out = self._run(
+            [{'source_page': 1, 'item': 'a', 'item_type': 'fill-in', 'level': 'A1'},
+             {'source_page': 2, 'item': 'b', 'item_type': 'fill-in', 'level': 'A2'}],
+            self._cfg(level_mode='inferred', level_options=['A1', 'A2']))
+        self.assertIn('CLEAN', out)
+        self.assertNotIn('inferred-level', out)
+
+    def test_inferred_missing_level_is_flagged(self):
+        out = self._run(
+            [{'source_page': 5, 'item': 'a', 'item_type': 'fill-in', 'level': 'A1'},
+             {'source_page': 7, 'item': 'b', 'item_type': 'fill-in'}],  # no level
+            self._cfg(level_mode='inferred', level_options=['A1', 'A2']))
+        self.assertIn('NEEDS REPAIR PASS', out)
+        self.assertIn('NO `level` tag', out)
+        self.assertIn('7', out)  # the offending page is surfaced
+
+    def test_inferred_out_of_range_level_is_flagged(self):
+        out = self._run(
+            [{'source_page': 3, 'item': 'a', 'item_type': 'fill-in', 'level': 'B2'}],  # not in options
+            self._cfg(level_mode='inferred', level_options=['A1', 'A2']))
+        self.assertIn('outside level_options', out)
+
+    def test_fixed_book_is_not_level_checked(self):
+        """A fixed-level book carries no per-item level and must NOT be flagged
+        for it — the check only applies to inferred books."""
+        out = self._run(
+            [{'source_page': 1, 'item': 'a', 'item_type': 'fill-in'}],  # no level, but fixed
+            self._cfg(level_mode='fixed'))
+        self.assertIn('CLEAN', out)
+        self.assertNotIn('inferred-level', out)
+
+    def test_many_untagged_items_are_aggregated_not_flooded(self):
+        """A whole untagged book must produce ONE summary line, not one per
+        item — the anti-flood behaviour."""
+        items = [{'source_page': p, 'item': 'a', 'item_type': 'fill-in'} for p in range(1, 51)]
+        out = self._run(items, self._cfg(level_mode='inferred', level_options=['A1', 'A2']))
+        # exactly one flagged line mentioning the missing-level summary
+        flagged = [ln for ln in out.splitlines() if 'NO `level` tag' in ln]
+        self.assertEqual(len(flagged), 1)
+        self.assertIn('50 item(s)', flagged[0])
 
 
 if __name__ == '__main__':
