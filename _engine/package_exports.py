@@ -14,8 +14,8 @@ Clean layout — one home per file, README is the only loose file at the top
   _exports/
     README.md                            column guide + book index
     START-HERE.md                        (only if a source file is provided)
-    _combined/                           ALL books together (bulk use)
-      <lang>-catalog-all.csv
+    _combined/                           ALL books together (bulk use) -- ONLY
+      <lang>-catalog-all.csv             when 2+ books have data (see below)
       <lang>-questions-all.csv
       <lang>-vocabulary-all.csv
     <collection>/                        one self-contained folder per book
@@ -31,6 +31,12 @@ also copied to the top level) and the combined CSVs live ONLY in _combined/
 per-book-folder + _combined/ convention; still simpler than German in one
 way: no per-publisher-family tier (global + per-book only), per the locked
 export-scope decision.
+
+_combined/ is gated to 2+ books with data. With exactly one book it would be
+a byte-for-byte duplicate of that book's own folder (same rows, same
+everything) — a real "why do we need this file?" case hit live on Cosmopolite
+A1 (the only book through export at the time). It reappears automatically
+the moment a second book has data; nothing to configure.
 
 Atomicity / no-loss guarantee: the rebuild happens IN PLACE with an
 atomic per-file write (temp sibling file + os.replace — a FILE rename), and
@@ -70,6 +76,14 @@ def rows_in(path):
         return max(0, sum(1 for _ in f) - 1)
 
 
+def _collection_has_data(root, slug):
+    """True if this book has anything to ship (a unified .md or any CSV)."""
+    d = os.path.join(root, slug)
+    if os.path.exists(os.path.join(d, '%s.md' % slug)):
+        return True
+    return any(os.path.exists(os.path.join(d, '%s-%s.csv' % (slug, k))) for k in KINDS)
+
+
 def _atomic_copy(src, dest):
     """Copy one file into place atomically: write to a temp sibling then
     os.replace it. A FILE rename succeeds even when a held directory handle
@@ -103,19 +117,26 @@ def main(argv):
     os.makedirs(final_out, exist_ok=True)
     keep = set()  # absolute paths of every file this run wrote — the survivors
 
-    # Combined roll-ups -> _combined/ (never loose at the top level).
+    # The _combined/ roll-ups only earn their place with 2+ books: with a
+    # single book they'd be a byte-for-byte duplicate of that one book's
+    # folder (same rows, same everything), which violates the "one home per
+    # file" rule. So emit _combined/ only when it genuinely combines more
+    # than one book; below that, the single per-book folder IS the whole
+    # deliverable. It reappears automatically once a second book lands.
+    books_with_data = sum(1 for c in cols if _collection_has_data(root, c['slug']))
     combined = []
-    for kind in KINDS:
-        src = os.path.join(root, '%s-%s-all.csv' % (lang, kind))
-        if os.path.exists(src):
-            name = os.path.basename(src)
-            dest = os.path.join(final_out, COMBINED_DIR, name)
-            _atomic_copy(src, dest)
-            keep.add(os.path.abspath(dest))
-            src_n, dest_n = rows_in(src), rows_in(dest)
-            if src_n != dest_n:
-                print('%-24s !! MISMATCH: source has %d rows, copy has %d' % (name, src_n, dest_n))
-            combined.append((name, dest_n))
+    if books_with_data >= 2:
+        for kind in KINDS:
+            src = os.path.join(root, '%s-%s-all.csv' % (lang, kind))
+            if os.path.exists(src):
+                name = os.path.basename(src)
+                dest = os.path.join(final_out, COMBINED_DIR, name)
+                _atomic_copy(src, dest)
+                keep.add(os.path.abspath(dest))
+                src_n, dest_n = rows_in(src), rows_in(dest)
+                if src_n != dest_n:
+                    print('%-24s !! MISMATCH: source has %d rows, copy has %d' % (name, src_n, dest_n))
+                combined.append((name, dest_n))
 
     # One self-contained folder per book: its 3 CSVs + its .md, nothing
     # duplicated anywhere else in the tree.
@@ -149,22 +170,35 @@ def main(argv):
         'Clean, content-team-ready exports. **All CSVs are UTF-8 with BOM** so accented',
         'characters render correctly on double-click in Excel / Google Sheets.', '',
         '## How this is organised', '',
-        '- `_combined/` — one merged sheet per data type, every book combined. Start here',
-        '  for bulk use; filter the `collection` column to isolate one book.',
-        '- `<collection>/` — one folder per book, holding that book\'s own catalog/questions/',
-        '  vocabulary CSVs **and** the whole book as a single readable `.md`. Open one folder',
-        '  to get just that book, no filtering needed.', '',
-        'Every file lives in exactly one place — nothing is duplicated between `_combined/`',
-        'and the per-book folders.', '',
+    ]
+    if combined:
+        lines += [
+            '- `_combined/` — one merged sheet per data type, every book combined. Start here',
+            '  for bulk use; filter the `collection` column to isolate one book.',
+            '- `<collection>/` — one folder per book, holding that book\'s own catalog/questions/',
+            '  vocabulary CSVs **and** the whole book as a single readable `.md`. Open one folder',
+            '  to get just that book, no filtering needed.', '',
+            'Every file lives in exactly one place — nothing is duplicated between `_combined/`',
+            'and the per-book folders.', '',
+        ]
+    else:
+        lines += [
+            '- `<collection>/` — one folder per book, holding that book\'s own catalog/questions/',
+            '  vocabulary CSVs **and** the whole book as a single readable `.md`.', '',
+            '_(A `_combined/` folder with cross-book roll-up sheets appears here automatically',
+            'once a second book is added — with a single book it would just duplicate the one',
+            'folder below, so it is omitted.)_', '',
+        ]
+    lines += [
         '## Sheet columns', '',
         '- **catalog** — one row per page: section, chapter, content type, activity, topic, level, status, word count, summary.',
         '- **questions** — one row per item: section, part, item, item_type, question, option_a/b/c, correct_answer, level, topic, source_page.',
         '- **vocabulary** — one row per word: word, article, plural, word_class, example, topic, source_page.',
-        '', '## Combined sheets (`_combined/`)', '',
-        '| Sheet | Rows |', '|---|---|',
     ]
-    for name, n in combined:
-        lines.append('| `%s` | %d |' % (name, n))
+    if combined:
+        lines += ['', '## Combined sheets (`_combined/`)', '', '| Sheet | Rows |', '|---|---|']
+        for name, n in combined:
+            lines.append('| `%s` | %d |' % (name, n))
     lines += ['', '## Books', '', '| Book | Folder | Status | Pages | Questions | Words |', '|---|---|---|---|---|---|']
     for slug, title, frozen, has_md, counts, caveats in manifest:
         status = 'frozen (delivered earlier)' if frozen else ('included' if has_md else 'not yet processed')

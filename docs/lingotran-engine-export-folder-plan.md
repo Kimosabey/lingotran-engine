@@ -1,13 +1,20 @@
 # Export folderization plan — per-book/per-PDF deliverable structure
 
-> **Status:** ✅ IMPLEMENTED (2026-07-24). Both open decisions resolved
-> ("do both"): raw source backup goes in a separate sibling Drive folder
-> (Decision 1B), and the directory-swap was replaced by a watcher-safe
-> in-place rebuild (Decision 2, superseding the retry idea — see the Open
-> issue section for why). `_engine/package_exports.py` now produces this
-> structure; verified live on Cosmopolite A1 with zero data loss (every row
-> count matches source→delivered) and 32/32 tests passing.
-> Last updated: 2026-07-24.
+> **Status:** ✅ IMPLEMENTED (2026-07-24, refined 2026-07-26). Both open
+> decisions resolved ("do both"): raw source backup goes in a separate
+> sibling Drive folder (Decision 1B), and the directory-swap was replaced by
+> a watcher-safe in-place rebuild (Decision 2, superseding the retry idea —
+> see the Open issue section for why). `_engine/package_exports.py` now
+> produces this structure; verified live on Cosmopolite A1 with zero data
+> loss (every row count matches source→delivered) and 39/39 tests passing.
+>
+> **2026-07-26 refinement:** `_combined/` is now gated to 2+ books with
+> data — with a single book it was a byte-for-byte duplicate of that book's
+> own folder (caught live: "why need this? do we?"). It reappears
+> automatically once a second book has data; nothing to configure. **Open:
+> whether `_combined/` (all-books-in-one) should exist at all going forward
+> is being asked of the user at the end of book 2** — not assumed either way.
+> Last updated: 2026-07-26.
 
 ## Why this doc exists
 

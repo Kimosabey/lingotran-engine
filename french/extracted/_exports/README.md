@@ -5,28 +5,18 @@ characters render correctly on double-click in Excel / Google Sheets.
 
 ## How this is organised
 
-- `_combined/` — one merged sheet per data type, every book combined. Start here
-  for bulk use; filter the `collection` column to isolate one book.
 - `<collection>/` — one folder per book, holding that book's own catalog/questions/
-  vocabulary CSVs **and** the whole book as a single readable `.md`. Open one folder
-  to get just that book, no filtering needed.
+  vocabulary CSVs **and** the whole book as a single readable `.md`.
 
-Every file lives in exactly one place — nothing is duplicated between `_combined/`
-and the per-book folders.
+_(A `_combined/` folder with cross-book roll-up sheets appears here automatically
+once a second book is added — with a single book it would just duplicate the one
+folder below, so it is omitted.)_
 
 ## Sheet columns
 
 - **catalog** — one row per page: section, chapter, content type, activity, topic, level, status, word count, summary.
 - **questions** — one row per item: section, part, item, item_type, question, option_a/b/c, correct_answer, level, topic, source_page.
 - **vocabulary** — one row per word: word, article, plural, word_class, example, topic, source_page.
-
-## Combined sheets (`_combined/`)
-
-| Sheet | Rows |
-|---|---|
-| `french-catalog-all.csv` | 224 |
-| `french-questions-all.csv` | 1751 |
-| `french-vocabulary-all.csv` | 1175 |
 
 ## Books
 

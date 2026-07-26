@@ -16,19 +16,27 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import package_exports
 
 
-def _make_fixture(root):
+def _make_fixture(root, second_book=True):
     # lang_slug derives the language from the root PATH
     # (.../<lang>/extracted -> <lang>), so the root must be nested under a
     # 'testlang' dir for the combined-CSV name to line up.
     os.makedirs(os.path.join(root, '_tools'))
     os.makedirs(os.path.join(root, 'book-one'))
-    json.dump(
-        {'language': 'Testlang', 'language_code': 'tl',
-         'collections': [{'slug': 'book-one', 'title': 'Book One', 'level': 'A1', 'level_mode': 'fixed'}]},
-        open(os.path.join(root, '_tools', 'collections.json'), 'w', encoding='utf-8'))
+    cols = [{'slug': 'book-one', 'title': 'Book One', 'level': 'A1', 'level_mode': 'fixed'}]
     open(os.path.join(root, 'book-one', 'book-one.md'), 'w', encoding='utf-8').write('hello world')
     # per-book CSV (exercises the per-book-folder copy path)
     open(os.path.join(root, 'book-one', 'book-one-catalog.csv'), 'w', encoding='utf-8-sig').write('col1,col2\na,b\n')
+    if second_book:
+        # _combined/ only earns its place with 2+ books with data (see
+        # package_exports.py's _collection_has_data gate) -- a single-book
+        # fixture would make _combined/ a duplicate of book-one/, which is
+        # exactly the "why do we need this" bug this fixture must catch.
+        os.makedirs(os.path.join(root, 'book-two'))
+        open(os.path.join(root, 'book-two', 'book-two.md'), 'w', encoding='utf-8').write('second book')
+        cols.append({'slug': 'book-two', 'title': 'Book Two', 'level': 'A1', 'level_mode': 'fixed'})
+    json.dump(
+        {'language': 'Testlang', 'language_code': 'tl', 'collections': cols},
+        open(os.path.join(root, '_tools', 'collections.json'), 'w', encoding='utf-8'))
     # combined roll-up (name must match lang_slug == 'testlang')
     open(os.path.join(root, 'testlang-catalog-all.csv'), 'w', encoding='utf-8-sig').write('col1,col2\na,b\n')
 
@@ -124,6 +132,49 @@ class StageThenSwapTests(unittest.TestCase):
         # the only loose file left at the top is README.md
         loose = sorted(n for n in os.listdir(out) if os.path.isfile(os.path.join(out, n)))
         self.assertEqual(loose, ['README.md'])
+
+
+class SingleBookNoCombinedTests(unittest.TestCase):
+    """With only ONE book, _combined/ would be a byte-for-byte duplicate of
+    that book's own folder -- a real "why do we need this?" case hit live on
+    Cosmopolite A1. _combined/ must not appear until a 2nd book has data."""
+
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        self.root = os.path.join(self.tmp, 'testlang', 'extracted')
+        os.makedirs(self.root)
+        _make_fixture(self.root, second_book=False)
+
+    def tearDown(self):
+        shutil.rmtree(self.tmp, ignore_errors=True)
+
+    def test_combined_omitted_with_a_single_book(self):
+        package_exports.main(['--root', self.root])
+        out = os.path.join(self.root, '_exports')
+        self.assertFalse(os.path.exists(os.path.join(out, '_combined')),
+                         '_combined/ must not exist with only one book -- it would just duplicate book-one/')
+        self.assertTrue(os.path.exists(os.path.join(out, 'book-one', 'book-one.md')))
+        readme = open(os.path.join(out, 'README.md'), encoding='utf-8').read()
+        # the README MAY explain when _combined/ would appear (helpful for a
+        # cloner), but must not claim it exists now or list any sheets in it
+        self.assertNotIn('## Combined sheets', readme,
+                         'the README must not have a Combined sheets section when _combined/ does not exist')
+
+    def test_combined_appears_once_second_book_added(self):
+        package_exports.main(['--root', self.root])  # 1 book -> no _combined/
+        out = os.path.join(self.root, '_exports')
+        self.assertFalse(os.path.exists(os.path.join(out, '_combined')))
+        # add the second book, same repo, re-run
+        os.makedirs(os.path.join(self.root, 'book-two'))
+        open(os.path.join(self.root, 'book-two', 'book-two.md'), 'w', encoding='utf-8').write('second book')
+        cols_path = os.path.join(self.root, '_tools', 'collections.json')
+        data = json.load(open(cols_path, encoding='utf-8'))
+        data['collections'].append({'slug': 'book-two', 'title': 'Book Two', 'level': 'A1', 'level_mode': 'fixed'})
+        json.dump(data, open(cols_path, 'w', encoding='utf-8'))
+
+        package_exports.main(['--root', self.root])
+        self.assertTrue(os.path.exists(os.path.join(out, '_combined', 'testlang-catalog-all.csv')),
+                        '_combined/ must appear automatically once a 2nd book has data')
 
 
 if __name__ == '__main__':
