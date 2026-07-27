@@ -66,14 +66,6 @@
       'stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + p + '</svg>';
   }
 
-  /* ---- Ambient backdrop ------------------------------------------------ */
-  function injectAmbient() {
-    if ($(".ambient")) return;
-    var a = el("div", { class: "ambient", "aria-hidden": "true" });
-    a.innerHTML = '<span class="orb orb-a"></span><span class="orb orb-b"></span><span class="orb orb-c"></span>';
-    document.body.insertBefore(a, document.body.firstChild);
-  }
-
   /* ---- Theme ----------------------------------------------------------- */
   function currentTheme() {
     var set = document.documentElement.getAttribute("data-theme");
@@ -321,7 +313,6 @@
   /* ---- Init ------------------------------------------------------------ */
   function init() {
     var meta = pageMeta();
-    injectAmbient();
     renderShell();
     bindTheme();
     bindDrawer();

@@ -5,22 +5,27 @@
    ========================================================================== */
 
 /* ======================================================================== */
-/* 0. AMBIENT BACKDROP (animated) — aurora orbs + fine grid                 */
-/*    Injected once by ui.js as <div class="ambient" aria-hidden>.          */
+/* 0. AMBIENT BACKDROP — pure CSS, zero JS dependency                       */
+/*    Previously a JS-injected <div>, which meant it was structurally       */
+/*    possible (on a slow device/connection) for the whole decorative      */
+/*    background to "pop in" after everything else on every navigation.    */
+/*    html::before/::after are present from the very first painted frame,  */
+/*    driven only by CSS — there is no longer a JS-dependent window where  */
+/*    the background can visibly appear after the rest of the page.        */
 /* ======================================================================== */
-.ambient{
-  position:fixed;inset:0;z-index:-1;overflow:hidden;pointer-events:none;
+:root{
   --grid-line:rgba(65,0,154,.05);
   --orb-a:rgba(124,77,255,.30);
   --orb-b:rgba(14,159,110,.16);
   --orb-c:rgba(65,0,154,.22);
 }
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .ambient{
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --grid-line:rgba(255,255,255,.035);--orb-a:rgba(124,77,255,.26);--orb-b:rgba(52,211,153,.12);--orb-c:rgba(124,77,255,.18);}}
-:root[data-theme="dark"] .ambient{
+:root[data-theme="dark"]{
   --grid-line:rgba(255,255,255,.035);--orb-a:rgba(124,77,255,.26);--orb-b:rgba(52,211,153,.12);--orb-c:rgba(124,77,255,.18);}
-.ambient::before{ /* fine engineering grid, faded toward the fold */
-  content:"";position:absolute;inset:0;
+
+html::before{ /* fine engineering grid, faded toward the fold — no blur */
+  content:"";position:fixed;inset:0;z-index:-2;pointer-events:none;
   background-image:
     linear-gradient(var(--grid-line) 1px,transparent 1px),
     linear-gradient(90deg,var(--grid-line) 1px,transparent 1px);
@@ -33,10 +38,13 @@
    every single frame, indefinitely — a classic, measurable jank source when
    (as here) three sticky bars stack their own backdrop-filter on top of it.
    A static gradient gives the same atmospheric depth at zero ongoing cost. */
-.ambient .orb{position:absolute;border-radius:50%;filter:blur(72px);}
-.ambient .orb-a{width:46vw;height:46vw;top:-14vw;left:-8vw;background:radial-gradient(circle,var(--orb-a),transparent 68%);}
-.ambient .orb-b{width:38vw;height:38vw;top:8vw;right:-10vw;background:radial-gradient(circle,var(--orb-b),transparent 66%);}
-.ambient .orb-c{width:30vw;height:30vw;top:44vh;left:38vw;background:radial-gradient(circle,var(--orb-c),transparent 64%);opacity:.7;}
+html::after{ /* soft aurora orbs, blurred */
+  content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;filter:blur(60px);
+  background-image:
+    radial-gradient(circle at 12% 4%, var(--orb-a) 0%, transparent 42%),
+    radial-gradient(circle at 98% 20%, var(--orb-b) 0%, transparent 38%),
+    radial-gradient(circle at 46% 64%, var(--orb-c) 0%, transparent 34%);
+}
 
 /* ======================================================================== */
 /* 1. PAGE LAYOUT                                                           */
