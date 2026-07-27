@@ -1,17 +1,23 @@
-# French — Cosmopolite 1 Méthode A1 — Delivery notes
+# French Coursebooks — Delivery notes
 
-**Drive folder:** create "French Coursebooks" as a new folder, sibling to
-Rehaan Ali's existing "French DELF A1"/"French DELF A2" folders (inside the
-shared "Lingotran Content Extraction" > "French" space) — keeps DELF exam
-material separate from coursebook extractions, same split German uses
-between its `goethe/` (exam) and `netzwerk/`/`goyal/` (coursebook) folders.
+**Drive folder:** "French Coursebooks", sibling to Rehaan Ali's existing
+"French DELF A1"/"French DELF A2" folders (inside the shared "Lingotran
+Content Extraction" > "French" space) — keeps DELF exam material separate
+from coursebook extractions, same split German uses between its `goethe/`
+(exam) and `netzwerk/`/`goyal/` (coursebook) folders.
 
-**Shipped:** 224 pages · 1,751 questions · 1,176 vocabulary words · fully
-transcribed and QA-verified (21 pages have disclosed, individually-reviewed
-permanent gaps — see caveats below; everything else is clean).
-Deliverables live in `french/extracted/_exports/` (flat — no per-publisher
-tiers, this is French's first book on the new shared engine). Raw source
-backup (PDF + 300-DPI page scans, ~1.3 GB) optional, staged separately.
+**Shipped so far (2 of 5 books):**
+| Book | Status | Pages | Questions | Words |
+|---|---|---|---|---|
+| Cosmopolite 1 Méthode (A1) | ✅ delivered | 224 | 1,751 | 1,175 |
+| Tricolore 1 (A1-A2) | ✅ **new this round** | 180 | 2,413 | 2,728 |
+| Tricolore 2, Saison 2, Cosmopolite 5 | in progress | — | — | — |
+
+Both delivered books are fully transcribed and QA-verified (each has a small
+number of disclosed, individually-reviewed permanent gaps — see caveats
+below; everything else is clean). Deliverables live in
+`french/extracted/_exports/`. Raw source backup (PDFs + 300-DPI page scans)
+optional, staged separately.
 
 ---
 
@@ -21,34 +27,41 @@ backup (PDF + 300-DPI page scans, ~1.3 GB) optional, staged separately.
 French Coursebooks/
  ├── README.md                                   ← what each column means (only loose file)
  ├── _combined/                                  ← ALL books together (bulk use)
- │     french-catalog-all.csv                    (224 rows)
- │     french-questions-all.csv                  (1,751 rows)
- │     french-vocabulary-all.csv                 (1,175 rows)
- └── cosmopolite-a1-methode/                      ← one self-contained folder per book
-       cosmopolite-a1-methode-catalog.csv        (224 rows)
-       cosmopolite-a1-methode-questions.csv      (1,751 rows)
-       cosmopolite-a1-methode-vocabulary.csv     (1,175 rows)
-       cosmopolite-a1-methode.md                 (the full book, unified, 224 pages)
+ │     french-catalog-all.csv                    (404 rows)
+ │     french-questions-all.csv                  (4,164 rows)
+ │     french-vocabulary-all.csv                 (3,903 rows)
+ ├── cosmopolite-a1-methode/                      ← one self-contained folder per book
+ │     cosmopolite-a1-methode-catalog.csv        (224 rows)
+ │     cosmopolite-a1-methode-questions.csv      (1,751 rows)
+ │     cosmopolite-a1-methode-vocabulary.csv     (1,175 rows)
+ │     cosmopolite-a1-methode.md                 (the full book, unified, 224 pages)
+ └── tricolore-1-5th-edition/                     ← NEW this round
+       tricolore-1-5th-edition-catalog.csv       (180 rows)
+       tricolore-1-5th-edition-questions.csv     (2,413 rows)
+       tricolore-1-5th-edition-vocabulary.csv    (2,728 rows)
+       tricolore-1-5th-edition.md                (the full book, unified, 180 pages)
 ```
-Each future book (Tricolore 1/2, Saison 2, Cosmopolite 5) gets its own
-folder alongside `cosmopolite-a1-methode/`; the `_combined/` roll-ups grow to
-cover them — re-upload/replace `_combined/`'s 3 files each time, don't add
-more copies. Every file lives in exactly one place: nothing is duplicated
-between `_combined/` and the per-book folders, and the only loose file is
-`README.md`.
+**Action needed:** replace all 3 `_combined/` files with the updated versions
+above (they now cover both books, not just Cosmopolite A1), and add the new
+`tricolore-1-5th-edition/` folder alongside the existing
+`cosmopolite-a1-methode/` folder — don't remove or duplicate anything already
+uploaded. Each future book (Tricolore 2, Saison 2, Cosmopolite 5) repeats this
+same pattern: its own folder added, `_combined/` replaced (not appended to).
 
 ## Raw source backup (separate folder — keeps the deliverable clean)
 
-Upload the raw scans + source PDF to a **separate sibling** Drive folder
-`French Coursebooks — Source Backup/` (NOT inside the clean deliverable
-tree), so the ~1.3 GB of heavy raw files never clutter the per-book
-deliverable folders:
+Upload each book's raw scans + source PDF to the **separate sibling** Drive
+folder `French Coursebooks — Source Backup/` (NOT inside the clean
+deliverable tree):
 
 ```
 French Coursebooks — Source Backup/
- └── cosmopolite-a1-methode/
-       cosmopolite-a1-methode.pdf                (source PDF, ~35 MB)
-       images/  page-001.png … page-224.png      (300-DPI scans, ~1.3 GB)
+ ├── cosmopolite-a1-methode/
+ │     cosmopolite-a1-methode.pdf                (source PDF, ~35 MB)
+ │     images/  page-001.png … page-224.png      (300-DPI scans, ~1.3 GB)
+ └── tricolore-1-5th-edition/                     ← NEW this round
+       tricolore-1-5th-edition.pdf               (source PDF, ~46 MB)
+       images/  page-001.png … page-180.png      (300-DPI scans, ~1.1 GB)
 ```
 (Matches how German's raw scans were staged separately for Drive.)
 
@@ -56,32 +69,36 @@ French Coursebooks — Source Backup/
 
 ## Drive-share message (easy English)
 
-> **French A1 — Cosmopolite 1 Méthode — ready to use**
+> **French A1-A2 study files — Tricolore 1 added**
 >
-> Hi! I put the first French coursebook in this folder. It is done and checked.
+> Hi! I added the second French coursebook to this folder. It is done and checked.
 >
-> **What is inside:**
-> - 224 pages typed out from the book — word for word
-> - 1,751 questions (with answers where the book gives them)
-> - 1,175 words (with gender, plural, and an example)
+> **What's new (Tricolore 1, A1-A2 level):**
+> - 180 pages typed out from the book — word for word
+> - 2,413 questions (with answers where the book gives them)
+> - 2,728 words (with gender, plural, and an example)
 >
-> **Two things to know (not missing data — checked and explained):**
-> - Page 3 (the foreword) has real people's photos in it, which our safety
->   filter won't process — so that one page is text-only in the notes, not
->   transcribed. Everything else is complete.
-> - About a third of the questions (607) have a blank "answer" column. This
->   is NOT us missing something — the book itself doesn't print answer keys;
->   they're sold separately in a teacher's guide. Roughly half of those
->   blanks are also listening exercises (audio-based, no audio processed).
->   If the teacher's guide PDF is ever available, we can fill in more answers
->   from it later.
+> **Running total (both books):** 404 pages · 4,164 questions · 3,903 words.
+>
+> **Two things to know about Tricolore 1 (not missing data — checked and explained):**
+> - 6 pages have a tiny piece of content that couldn't be read even after a
+>   second, closer look (things like a blurry decorative photo caption, or a
+>   stylized cursive font on a small event ticket graphic) — none of it is
+>   exercise or answer content, just decorative page elements. Everything
+>   else on those pages is complete.
+> - Just under half the questions (1,091) have a blank "answer" column. Same
+>   reason as Cosmopolite A1: this book's answers are sold separately in a
+>   teacher's guide, not printed here. About 196 more are "open-ended" writing/
+>   speaking tasks that don't have one single answer — those are marked
+>   differently, not counted as blanks.
 >
 > **How to open it:**
 > 1. Read `README.md` first — explains what each column means.
-> 2. Want just this one book? Open the `cosmopolite-a1-methode/` folder — it
->    has that book's questions, words, page list, and the full book as one
->    document, all together.
-> 3. Want everything at once (across all books)? Open the `_combined/` folder.
+> 2. Want just one book? Open its folder (`cosmopolite-a1-methode/` or
+>    `tricolore-1-5th-edition/`) — questions, words, page list, and the full
+>    book as one document, all together.
+> 3. Want everything at once (across both books)? Open the `_combined/` folder
+>    (just replaced with the updated version covering both books now).
 >
 > Files open in Excel or Google Sheets. French accents (é è à ç) show correctly.
 
@@ -89,36 +106,42 @@ French Coursebooks — Source Backup/
 
 ## Email draft (easy English)
 
-**Subject:** French A1 study files ready — Cosmopolite 1 Méthode
+**Subject:** French study files updated — Tricolore 1 added (2 of 5 books done)
 
 Hi team,
 
-The first French coursebook (Cosmopolite 1 Méthode, A1 level) is done and
-uploaded to Drive, in a new "French Coursebooks" folder (next to the
-existing DELF A1/A2 folders).
+The second French coursebook (Tricolore 1, A1-A2 level) is done and added to
+the same "French Coursebooks" Drive folder as Cosmopolite A1.
 
-**Totals**
-- 224 pages
-- 1,751 questions
-- 1,175 words
+**What's new (Tricolore 1)**
+- 180 pages
+- 2,413 questions
+- 2,728 words
 - Fully checked, with 2 disclosed notes below (not data loss)
 
-**Two things to know**
-- Page 3 (foreword) has real people's photos our safety filter blocks —
-  that one page is noted, not transcribed. Everything else is complete.
-- ~35% of questions (607) have a blank answer because this book's answer
-  keys are sold separately (teacher's guide), not printed here — about half
-  of those are also audio-only listening items. Can revisit if the
+**Running total (both books so far)**
+- 404 pages · 4,164 questions · 3,903 words
+
+**Two things to know about Tricolore 1**
+- 6 pages have one small decorative element that stayed unreadable even
+  after a closer second pass (a blurry photo caption, a stylized cursive
+  font on a small ticket graphic, etc.) — never exercise/answer content,
+  and everything else on those pages is complete.
+- Just under half the questions (1,091) have a blank answer because this
+  book's answers are sold separately (teacher's guide), same as Cosmopolite
+  A1. A further 196 are open-ended writing/speaking tasks with no single
+  answer — marked differently, not counted as blanks. Can revisit if the
   teacher's guide ever becomes available.
 
 **How to use it**
 1. `README.md` — explains each column.
-2. One book only → open its folder (e.g. `cosmopolite-a1-methode/`): its
-   questions, words, page list, and the full book `.md`, all together.
-3. Everything at once → open `_combined/`.
+2. One book only → open its folder (`cosmopolite-a1-methode/` or
+   `tricolore-1-5th-edition/`): its questions, words, page list, and the
+   full book `.md`, all together.
+3. Everything at once → open `_combined/` (just updated to cover both books).
 
-4 more coursebooks (Tricolore 1, Tricolore 2, Saison 2, Cosmopolite 5) are
-in progress and will be added to this same folder as each finishes.
+3 more coursebooks (Tricolore 2, Saison 2, Cosmopolite 5) are in progress and
+will be added to this same folder as each finishes.
 
 Best,
 Harshan
