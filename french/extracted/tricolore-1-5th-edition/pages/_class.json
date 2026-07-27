@@ -1,0 +1,1085 @@
+{
+ "collection": "tricolore-1-5th-edition",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Front cover of Tricolore 1, 5th edition, listing the three authors."
+  },
+  {
+   "page": 2,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Blank page."
+  },
+  {
+   "page": 3,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Title page repeating book title, edition, authors, and Oxford University Press."
+  },
+  {
+   "page": 4,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Copyright, publication history, and acknowledgements for the 5th edition."
+  },
+  {
+   "page": 5,
+   "activity_type": "vocabulary",
+   "topic": "travel",
+   "summary": "Illustrated map of France with neighbouring countries, cities, rivers, and mountains."
+  },
+  {
+   "page": 6,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents for Unites 1-3: greetings, numbers, family, home."
+  },
+  {
+   "page": 7,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents continued for Unites 4-8: animals, festivals, weather, school."
+  },
+  {
+   "page": 8,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents continued for Unites 9-10 plus Au choix, Grammaire, Glossaire sections."
+  },
+  {
+   "page": 9,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Explains the course's icons: Dossier-langue, Strategies, Phonetique, Sommaire, Glossaire."
+  },
+  {
+   "page": 10,
+   "activity_type": "listening-comprehension",
+   "topic": "personal-info",
+   "summary": "Greeting dialogues to repeat, plus a listening task on how six people are feeling."
+  },
+  {
+   "page": 11,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Pair speaking on ages using a number diagram; fill-in greeting conversation practice."
+  },
+  {
+   "page": 12,
+   "activity_type": "listening-comprehension",
+   "topic": "school",
+   "summary": "Listening exercises identifying classroom objects by letter/number, with gender practice."
+  },
+  {
+   "page": 13,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Fill-in exercises describing schoolbag contents; plural nouns and cognate pronunciation."
+  },
+  {
+   "page": 14,
+   "activity_type": "matching",
+   "topic": "school",
+   "summary": "Match classroom commands to pictures and to English translations; imperatives explained."
+  },
+  {
+   "page": 15,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Unit 1 summary: counting song, greetings, numbers, classroom commands and objects vocabulary."
+  },
+  {
+   "page": 16,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Eight people describe, with photos, where they live across France and nearby countries."
+  },
+  {
+   "page": 17,
+   "activity_type": "true-false",
+   "topic": "personal-info",
+   "summary": "True/false statements and translation practice about where people live in France."
+  },
+  {
+   "page": 18,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Fill-in sentences and a paired dialogue practising where you live, using prepositions."
+  },
+  {
+   "page": 19,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Matching names to house numbers and personal details; dialogue practice with names, ages, places."
+  },
+  {
+   "page": 20,
+   "activity_type": "reading-comprehension",
+   "topic": "time-dates",
+   "summary": "A reporter's week across countries; select true statements; days-of-week matching; alphabet song."
+  },
+  {
+   "page": 21,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Unit 2 summary: spelling dialogue, city-name listening, alphabet, days of week, numbers to 30."
+  },
+  {
+   "page": 22,
+   "activity_type": "reading-comprehension",
+   "topic": "family",
+   "summary": "Reading text introducing the Laurent family; identify-the-speaker and family-vocabulary fill-in."
+  },
+  {
+   "page": 23,
+   "activity_type": "true-false",
+   "topic": "family",
+   "summary": "Dialogues on family types (only child, step-family) with true/false and avoir-verb exercises."
+  },
+  {
+   "page": 24,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Vampire-family cartoon fill-ins practising possessives mon/ma/mes and ton/ta/tes."
+  },
+  {
+   "page": 25,
+   "activity_type": "multiple-choice",
+   "topic": "family",
+   "summary": "Comic strip about a brother's belongings; choose-the-correct-sentence exercise using de (possession)."
+  },
+  {
+   "page": 26,
+   "activity_type": "true-false",
+   "topic": "family",
+   "summary": "Pen-pal messages about family and friends; true/false and etre-verb fill-in exercises."
+  },
+  {
+   "page": 27,
+   "activity_type": "matching",
+   "topic": "home",
+   "summary": "Floor-plan reading and matching exercises naming rooms of the Laurent family's house."
+  },
+  {
+   "page": 28,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Reading text about a shared bedroom; fill-in exercise practising sur, sous, dans."
+  },
+  {
+   "page": 29,
+   "activity_type": "matching",
+   "topic": "home",
+   "summary": "Matching exercise locating a fantastical family's belongings; gender-agreement grammar practice."
+  },
+  {
+   "page": 30,
+   "activity_type": "true-false",
+   "topic": "family",
+   "summary": "Comic poem about an extraordinary family; true/false and fill-in comprehension exercises."
+  },
+  {
+   "page": 31,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Chapter 3 vocabulary review: family, home rooms, belongings, and numbers to seventy."
+  },
+  {
+   "page": 32,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Rappel 1 revision: numbers, masculine/feminine words, and a general-knowledge multiple-choice quiz."
+  },
+  {
+   "page": 33,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "More revision exercises: matching pictures, describing scenes, filling gaps, personal Q&A practice."
+  },
+  {
+   "page": 34,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Unit 4 opener: match pet-contest finalists to descriptions; vote on favourite animals."
+  },
+  {
+   "page": 35,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Dialogue about Sophie's bird and Noah's rat; puzzle matching names to pet animals."
+  },
+  {
+   "page": 36,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comic strip about grandma's cats; identify each cat from adjective clues; negation grammar."
+  },
+  {
+   "page": 37,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Adjective agreement rules; complete colour/size adjective tables; listening and animal description exercises."
+  },
+  {
+   "page": 38,
+   "activity_type": "speaking-task",
+   "topic": "mixed",
+   "summary": "Practise question formation and avoir by interviewing partners about their pets."
+  },
+  {
+   "page": 39,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Write a pet description; avoir verb practice; complete pet-related questions and answers."
+  },
+  {
+   "page": 40,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Reading about eccentric family pets and their TV/music tastes; true-or-false comprehension check."
+  },
+  {
+   "page": 41,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Listening table on likes/dislikes (TV, sport, music); match speech bubbles; tu vs vous."
+  },
+  {
+   "page": 42,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Illustrated poem about a colourful zoo; order animal pictures to match verses."
+  },
+  {
+   "page": 43,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Unit 4 summary: pets, colours, sizes, qualities, likes/dislikes, and question vocabulary."
+  },
+  {
+   "page": 44,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "Reading: cat Mangetout's self-introduction, and facts about France's geography, food, and sports."
+  },
+  {
+   "page": 45,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comic strip on a girl's morning routine; poem about colours; vocabulary-matching exercises."
+  },
+  {
+   "page": 46,
+   "activity_type": "listening-comprehension",
+   "topic": "time-dates",
+   "summary": "Unit 5 opener: French festival calendar; listen for dates; identify and spell months."
+  },
+  {
+   "page": 47,
+   "activity_type": "speaking-task",
+   "topic": "time-dates",
+   "summary": "Continue festival calendar; practise asking dates aloud; find name-day (saint's day) dates."
+  },
+  {
+   "page": 48,
+   "activity_type": "reading-comprehension",
+   "topic": "time-dates",
+   "summary": "Reading text describing French festivals and traditions throughout the year, month by month."
+  },
+  {
+   "page": 49,
+   "activity_type": "short-answer",
+   "topic": "time-dates",
+   "summary": "Guess vocabulary meanings from festival text; match festivals to months; grammar of 'on'."
+  },
+  {
+   "page": 50,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "Mardi gras carnival intro; listening comprehension and matching costumed characters to names."
+  },
+  {
+   "page": 51,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Verb être practice; match sentence halves; describe costumed mardi gras photos."
+  },
+  {
+   "page": 52,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Reading about Marc's birthday and gifts; birthday interview role-play; match gifts to owners."
+  },
+  {
+   "page": 53,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Choose correct adjective forms describing reactions to gifts; adjective agreement grammar rules."
+  },
+  {
+   "page": 54,
+   "activity_type": "matching",
+   "topic": "shopping",
+   "summary": "Gift catalogue poster with prices; listen and match named presents to catalogue letters."
+  },
+  {
+   "page": 55,
+   "activity_type": "matching",
+   "topic": "shopping",
+   "summary": "Higher numbers 70-1,000,000; choose ideal gifts for people; tombola raffle prize matching."
+  },
+  {
+   "page": 56,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Reading about Lou Leroux's outfits over a week; build a clothing vocabulary list."
+  },
+  {
+   "page": 57,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Identify plural clothing words; plural noun grammar; true-or-false about Lou's outfits."
+  },
+  {
+   "page": 58,
+   "activity_type": "speaking-task",
+   "topic": "personal-info",
+   "summary": "Listen and match personal descriptions to portraits; write and describe hair/eye appearance."
+  },
+  {
+   "page": 59,
+   "activity_type": "writing-task",
+   "topic": "mixed",
+   "summary": "Avoir verb practice; read Léa's email about family/pets/home; write your own email."
+  },
+  {
+   "page": 60,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "Listening skills practice: near-homophone words, question-vs-answer tone, and Suzanne's party story."
+  },
+  {
+   "page": 61,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Unit 5 summary: dates, months, greetings, presents, clothes, and numbers."
+  },
+  {
+   "page": 62,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Review game classifying vocabulary: colours, animals, clothes, family, and odd-one-out puzzles."
+  },
+  {
+   "page": 63,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Fill-in exercises on the French calendar, possessive adjectives, presents, and verbs avoir/être."
+  },
+  {
+   "page": 64,
+   "activity_type": "true-false",
+   "topic": "weather",
+   "summary": "Weather map of France: true/false statements and temperature descriptions."
+  },
+  {
+   "page": 65,
+   "activity_type": "listening-comprehension",
+   "topic": "weather",
+   "summary": "Listening comprehension on weather forecasts plus conversation and reading practice."
+  },
+  {
+   "page": 66,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Seasons of the year: identifying seasons and completing weather description sentences."
+  },
+  {
+   "page": 67,
+   "activity_type": "reading-comprehension",
+   "topic": "weather",
+   "summary": "Reading about French regional climates and writing about your own local weather."
+  },
+  {
+   "page": 68,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Listening and correcting statements about who plays which sport."
+  },
+  {
+   "page": 69,
+   "activity_type": "multiple-choice",
+   "topic": "hobby",
+   "summary": "Practising the verb jouer: choosing and completing correct conjugations for sports."
+  },
+  {
+   "page": 70,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Comic strip about a cat chasing a mouse, with true/false comprehension questions."
+  },
+  {
+   "page": 71,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Matching people to holiday activities using regular -er verbs, plus BD comic reading."
+  },
+  {
+   "page": 72,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Reading about a naughty little brother, plus a lazy-family comic strip fill-in."
+  },
+  {
+   "page": 73,
+   "activity_type": "multiple-choice",
+   "topic": "hobby",
+   "summary": "Fill-in verb forms and listening interviews about weekend activities and interests."
+  },
+  {
+   "page": 74,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "Reading about France's science festival and proposing weather-based activities."
+  },
+  {
+   "page": 75,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Phone conversations and postcard writing about weather and activities."
+  },
+  {
+   "page": 76,
+   "activity_type": "speaking-task",
+   "topic": "hobby",
+   "summary": "Practising questions and answers about weekend free-time activities."
+  },
+  {
+   "page": 77,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Unit 6 vocabulary summary: weather, seasons, -er verbs, and sports."
+  },
+  {
+   "page": 78,
+   "activity_type": "reading-comprehension",
+   "topic": "school",
+   "summary": "Comic story about a new student misunderstood by classmates at school."
+  },
+  {
+   "page": 79,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "Comprehension questions on the new-student story, plus a seasons song and a comic."
+  },
+  {
+   "page": 80,
+   "activity_type": "matching",
+   "topic": "travel",
+   "summary": "Introducing La Rochelle: matching descriptive sentences about the town to photos."
+  },
+  {
+   "page": 81,
+   "activity_type": "short-answer",
+   "topic": "city-places",
+   "summary": "Vocabulary translation for La Rochelle's town features and day-of-week routines."
+  },
+  {
+   "page": 82,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Town vocabulary: matching, listening, and fill-in exercises on amenities and adjectives."
+  },
+  {
+   "page": 83,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Reading about La Rochelle's bike scheme and completing postcards about a visit."
+  },
+  {
+   "page": 84,
+   "activity_type": "matching",
+   "topic": "travel",
+   "summary": "Asking for directions in town via listening, questions, and a true/false story."
+  },
+  {
+   "page": 85,
+   "activity_type": "listening-comprehension",
+   "topic": "city-places",
+   "summary": "Direction-giving practice: listening, signpost fill-ins, and matching responses."
+  },
+  {
+   "page": 86,
+   "activity_type": "multiple-choice",
+   "topic": "city-places",
+   "summary": "Choosing destinations in town using au/à la/aux prepositions."
+  },
+  {
+   "page": 87,
+   "activity_type": "true-false",
+   "topic": "city-places",
+   "summary": "Prepositions of place: true/false about a street scene and fill-in cartoon prompts."
+  },
+  {
+   "page": 88,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Describing your town: vocabulary sorting, listening, and il y a / il n'y a pas de fill-ins."
+  },
+  {
+   "page": 89,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Memory game and fill-in text about town amenities plus personal writing."
+  },
+  {
+   "page": 90,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Fill-in exercises with the verb aller about who goes where."
+  },
+  {
+   "page": 91,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Aller conjugation practice: matching, dialogue fill-ins, and weekend outing sentences."
+  },
+  {
+   "page": 92,
+   "activity_type": "reading-comprehension",
+   "topic": "travel",
+   "summary": "Aquarium leaflet comprehension plus a tourist-office listening exercise."
+  },
+  {
+   "page": 93,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Unit 7 summary: town places, directions, distances, and prepositions."
+  },
+  {
+   "page": 94,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Rappel 3 review: opposites, wordsearches, weather, gender, and verb conjugation."
+  },
+  {
+   "page": 95,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Rabbit-location prepositions, weekend matching, personal questions, and a cat-and-mouse cloze story."
+  },
+  {
+   "page": 96,
+   "activity_type": "listening-comprehension",
+   "topic": "time-dates",
+   "summary": "Telling the time: grammar box plus listening and translation exercises."
+  },
+  {
+   "page": 97,
+   "activity_type": "matching",
+   "topic": "daily-routine",
+   "summary": "Match a boy's day-by-day activities to pictures, then retell with new times and places."
+  },
+  {
+   "page": 98,
+   "activity_type": "reading-comprehension",
+   "topic": "daily-routine",
+   "summary": "Olivier narrates his typical school-day routine from morning to night."
+  },
+  {
+   "page": 99,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Daily-routine exercises: word ordering, matching times, cloze summary, personal Q&A."
+  },
+  {
+   "page": 100,
+   "activity_type": "vocabulary",
+   "topic": "school",
+   "summary": "Learn school-subject vocabulary and match class times to a school-day schedule."
+  },
+  {
+   "page": 101,
+   "activity_type": "listening-comprehension",
+   "topic": "school",
+   "summary": "French school timetable: analysis, listening practice, and speaking about lessons."
+  },
+  {
+   "page": 102,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Discuss school sports and subject opinions; practise the verb faire."
+  },
+  {
+   "page": 103,
+   "activity_type": "listening-comprehension",
+   "topic": "school",
+   "summary": "Listen to six students' opinions on school subjects, then role-play similar dialogues."
+  },
+  {
+   "page": 104,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Practise quel/quelle in personal-preference questions about a new classmate and yourself."
+  },
+  {
+   "page": 105,
+   "activity_type": "reading-comprehension",
+   "topic": "personal-info",
+   "summary": "Read about a friend's preferences, correct false statements, practise son/sa/ses."
+  },
+  {
+   "page": 106,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Interview about school life; practise notre/nos and votre/vos possessives."
+  },
+  {
+   "page": 107,
+   "activity_type": "reading-comprehension",
+   "topic": "school",
+   "summary": "Julien's blog about visiting a French school; correct statements, practise leur/leurs."
+  },
+  {
+   "page": 108,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "Two Senegalese girls describe their country's geography, climate, school, and wildlife."
+  },
+  {
+   "page": 109,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comprehension and cloze exercises about daily routine and facts on Senegal."
+  },
+  {
+   "page": 110,
+   "activity_type": "writing-task",
+   "topic": "school",
+   "summary": "Read about a French school, then prepare your own school presentation."
+  },
+  {
+   "page": 111,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "Unit 8 summary: time, daily routine, school subjects, and opinions."
+  },
+  {
+   "page": 112,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Comic strip about a girl's computing club; translation and true/false comprehension."
+  },
+  {
+   "page": 113,
+   "activity_type": "answer-key",
+   "topic": "none",
+   "summary": "France facts (flag, Eiffel Tower, euro) plus a 'model student' quiz with its answer key."
+  },
+  {
+   "page": 114,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Introduction to French meal courses and food vocabulary, starters to sides."
+  },
+  {
+   "page": 115,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Match food-course vocabulary, listen for family meals, complete a blog about an ideal meal."
+  },
+  {
+   "page": 116,
+   "activity_type": "matching",
+   "topic": "food",
+   "summary": "Breakfast vocabulary matching; practise du/de la/des with manger and prendre."
+  },
+  {
+   "page": 117,
+   "activity_type": "multiple-choice",
+   "topic": "food",
+   "summary": "Multiple-choice quiz on French meal customs; practise prendre and manger substitutions."
+  },
+  {
+   "page": 118,
+   "activity_type": "reading-comprehension",
+   "topic": "health",
+   "summary": "Reading on a teen healthy-eating guide with vocabulary and comprehension tasks."
+  },
+  {
+   "page": 119,
+   "activity_type": "reading-comprehension",
+   "topic": "health",
+   "summary": "Comic-strip interview about healthy eating; comprehension questions and a food diary."
+  },
+  {
+   "page": 120,
+   "activity_type": "reading-comprehension",
+   "topic": "food",
+   "summary": "Forum posts about favourite foods; identify true statements and write about dislikes."
+  },
+  {
+   "page": 121,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Recipe fill-in exercise and a family dinner dialogue practising food vocabulary and negation."
+  },
+  {
+   "page": 122,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Birthday-dinner chat and a rainy-day pizza picnic story with true/false and matching tasks."
+  },
+  {
+   "page": 123,
+   "activity_type": "short-answer",
+   "topic": "food",
+   "summary": "Contest entries describing healthy meals, answered through short questions and a listening fill-in."
+  },
+  {
+   "page": 124,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "Reading about Ramadan, Thanksgiving and Diwali traditions and foods, with comprehension and translation."
+  },
+  {
+   "page": 125,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Vocabulary summary for meals, drinks, breakfast foods, and polite phrases about food."
+  },
+  {
+   "page": 126,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Rappel 4 review: vowels, word lists, gender endings, verb forms, and possessives."
+  },
+  {
+   "page": 127,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Word-building, a cat's daily routine, and matching questions with answers on mixed topics."
+  },
+  {
+   "page": 128,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Introduces sports vocabulary via a listening-matching activity and a reading on French summer holidays."
+  },
+  {
+   "page": 129,
+   "activity_type": "matching",
+   "topic": "hobby",
+   "summary": "Matching sport pictures to sentences and English translations, plus a faire-conjugation dialogue."
+  },
+  {
+   "page": 130,
+   "activity_type": "matching",
+   "topic": "hobby",
+   "summary": "Matching musical instruments to photos and completing sentences with jouer de + instrument."
+  },
+  {
+   "page": 131,
+   "activity_type": "reading-comprehension",
+   "topic": "hobby",
+   "summary": "Reading about young musicians and France's nationwide Fete de la Musique festival."
+  },
+  {
+   "page": 132,
+   "activity_type": "matching",
+   "topic": "hobby",
+   "summary": "Matching leisure activities to photos, practising jouer/faire expressions, plus listening interviews."
+  },
+  {
+   "page": 133,
+   "activity_type": "writing-task",
+   "topic": "hobby",
+   "summary": "Reading a hobbies forum then writing a personal message about leisure activities."
+  },
+  {
+   "page": 134,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Listening to identify past leisure activities and distinguishing present versus perfect tense."
+  },
+  {
+   "page": 135,
+   "activity_type": "writing-task",
+   "topic": "hobby",
+   "summary": "Writing and speaking practice describing past sport/music activities using the perfect tense."
+  },
+  {
+   "page": 136,
+   "activity_type": "true-false",
+   "topic": "vacation",
+   "summary": "Reading about Asterix and Parc Asterix, with true/false correction and photo-matching exercises."
+  },
+  {
+   "page": 137,
+   "activity_type": "short-answer",
+   "topic": "vacation",
+   "summary": "Parc Asterix hours and prices practised via Q&A, listening, and 24-hour clock matching."
+  },
+  {
+   "page": 138,
+   "activity_type": "writing-task",
+   "topic": "vacation",
+   "summary": "Reading a theme-park contest entry, correcting errors, then writing about an ideal or awful day."
+  },
+  {
+   "page": 139,
+   "activity_type": "listening-comprehension",
+   "topic": "city-places",
+   "summary": "A cousin's chat about theme-park tickets, plus listening practice with je suis alle(e)."
+  },
+  {
+   "page": 140,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "A leisure personality quiz completed with vocabulary and scored with an answer key."
+  },
+  {
+   "page": 141,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Vocabulary summary for sport, music, the 24-hour clock, and past-tense phrases."
+  },
+  {
+   "page": 142,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Comic strip about a greedy cat's feast, followed by vocabulary translation and word-finding tasks."
+  },
+  {
+   "page": 143,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "A holiday song plus reading passages on volleyball, windsurfing, and judo with comprehension questions."
+  },
+  {
+   "page": 144,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Review exercises matching numbers, greetings, and question-answer pairs for basic introductions."
+  },
+  {
+   "page": 145,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Review exercises on prepositions of place, saying where you live, and naming objects."
+  },
+  {
+   "page": 146,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Review exercises on siblings, possessive adjectives, and describing a house via listening."
+  },
+  {
+   "page": 147,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "A Saturday photo-story fill-in on etre, followed by a writing task about family."
+  },
+  {
+   "page": 148,
+   "activity_type": "short-answer",
+   "topic": "family",
+   "summary": "Counting pets, identifying a lost cat by phone call, and describing invented animals."
+  },
+  {
+   "page": 149,
+   "activity_type": "true-false",
+   "topic": "family",
+   "summary": "Odd-one-out vocabulary game and a true/false reading about siblings' differing feelings toward pets."
+  },
+  {
+   "page": 150,
+   "activity_type": "true-false",
+   "topic": "time-dates",
+   "summary": "Review of months and calendar dates, then true/false reading of French festival adverts."
+  },
+  {
+   "page": 151,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Fill in verb être forms, birthday gift dialogue, and write a thank-you letter for presents."
+  },
+  {
+   "page": 152,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Practice weather vocabulary, a listening grid, and regarder verb conjugations."
+  },
+  {
+   "page": 153,
+   "activity_type": "reading-comprehension",
+   "topic": "mixed",
+   "summary": "Read about a difficult little sister, weather-based sentences, and a vacation weather blog."
+  },
+  {
+   "page": 154,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Fill in La Rochelle tourism vocabulary, building names, accents, and destination symbols."
+  },
+  {
+   "page": 155,
+   "activity_type": "reading-comprehension",
+   "topic": "travel",
+   "summary": "Read about Saint-Malo and La Rochelle tourist attractions, correcting errors and answering questions."
+  },
+  {
+   "page": 156,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Sequence a postal worker's day, order routine sentences, and practice possessive adjectives."
+  },
+  {
+   "page": 157,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Correct facts about Karim, choose family possessives, and describe a cat's daily routine."
+  },
+  {
+   "page": 158,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Fill in food vocabulary, partitive articles, animal diets, and a carrot-shaped word puzzle."
+  },
+  {
+   "page": 159,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Describe meals, order sentences about pets, and complete school lunch menu exercises."
+  },
+  {
+   "page": 160,
+   "activity_type": "matching",
+   "topic": "hobby",
+   "summary": "Match questions to activity answers, fill in a hobbies message, and order past-tense sentences."
+  },
+  {
+   "page": 161,
+   "activity_type": "reading-comprehension",
+   "topic": "vacation",
+   "summary": "Listen for event times, discuss weekend plans, and read messages about holiday trips."
+  },
+  {
+   "page": 162,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Grammar reference: nouns, gender, singular/plural forms, and definite/indefinite articles."
+  },
+  {
+   "page": 163,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Grammar reference: partitive articles, negation, and regular and irregular adjective agreement."
+  },
+  {
+   "page": 164,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Grammar reference: possessive adjectives, de + noun, and key prepositions."
+  },
+  {
+   "page": 165,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Grammar reference: prepositions, telling time, numbers, dates, days, and months."
+  },
+  {
+   "page": 166,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Grammar reference: question forms, connectives, adverbs, and an intro to verb tense."
+  },
+  {
+   "page": 167,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Grammar reference: -er verb patterns, reflexive verbs, and imperative command forms."
+  },
+  {
+   "page": 168,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Grammar reference: aller+infinitive, jouer, avoir/faire idioms, irregular verbs, and perfect tense."
+  },
+  {
+   "page": 169,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "French-English glossary, section A: abricot to chorale."
+  },
+  {
+   "page": 170,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "French-English glossary, section C-E: chose to été."
+  },
+  {
+   "page": 171,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "French-English glossary, section E-L: été to lève."
+  },
+  {
+   "page": 172,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "French-English glossary, section L-P: lever to perroquet."
+  },
+  {
+   "page": 173,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "French-English glossary, section P-S: perruche to skate."
+  },
+  {
+   "page": 174,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "French-English glossary, section S-Z: ski to zoo; glossary ends."
+  },
+  {
+   "page": 175,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "English-French glossary, section A-H: zut to half brother."
+  },
+  {
+   "page": 176,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "English-French glossary, section H-R: half sister to road."
+  },
+  {
+   "page": 177,
+   "activity_type": "vocabulary",
+   "topic": "none",
+   "summary": "English-French glossary, section R-Z: roller skate to zoo; glossary ends."
+  },
+  {
+   "page": 178,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Acknowledgements crediting illustrators, photographers, and reviewers of the textbook."
+  },
+  {
+   "page": 179,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Blank page with no printed content."
+  },
+  {
+   "page": 180,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Back cover describing Tricolore 5e édition course components and publisher details."
+  }
+ ]
+}

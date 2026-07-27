@@ -105,7 +105,26 @@ def verify_collection(root, c):
                 # had leading whitespace (" vrai" -> wrongly became "Vraii").
                 it['correct_answer'] = ans.capitalize()
                 fixed += 1
-            elif not re.match(r'^(Vrai|Faux)(\s|$)', it['correct_answer']):
+            elif re.match(r'^(vrai|faux)\b', ans):
+                # A common, genuinely valid true-false pattern: "faux -- <the
+                # actual correct statement>" (the item is false, and the real
+                # answer is given as a correction). Only the leading word's
+                # capitalization is wrong -- capitalize just that word in
+                # place via a count=1 substitution on the ORIGINAL string (not
+                # a slice-and-concatenate, which is exactly what corrupted
+                # this same field once already -- see IT2-P1-2). Everything
+                # after the leading word, including any leading whitespace
+                # before it, is left byte-for-byte untouched.
+                it['correct_answer'] = re.sub(
+                    r'^(\s*)(vrai|faux)\b',
+                    lambda m: m.group(1) + m.group(2).capitalize(),
+                    it['correct_answer'], count=1)
+                fixed += 1
+            elif not re.match(r'^(Vrai|Faux)\b', it['correct_answer']):
+                # \b (not "(\s|$)") so an already-correct "Faux. <explanation>"
+                # or "Faux, ..." -- punctuation immediately after the word,
+                # no space -- isn't falsely flagged as malformed. \b matches
+                # at any letter/non-letter boundary, whitespace or otherwise.
                 issues.append('%s/%s: true-false correct_answer "%s" doesn\'t start with Vrai/Faux - '
                               'likely mistyped as true-false (looks like category-sorting), check item_type'
                               % (it.get('source_page'), it.get('item'), ans[:50]))

@@ -69,6 +69,79 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Vrai')
 
+    def test_leading_faux_with_trailing_correction_is_capitalized_in_place(self):
+        """A genuinely valid true-false pattern found on Tricolore 1: "faux --
+        <the actual correct statement>" (item is false; the real answer is
+        given as a correction). Only the leading word's case is wrong --
+        capitalize just that word, leave the correction text byte-for-byte
+        untouched (this is the exact field a slice-based fix already
+        corrupted once -- see IT2-P1-2 -- so this must use a targeted
+        substitution, not a slice-and-concatenate)."""
+        path = self._write_items([
+            {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
+             'correct_answer': 'faux — Seule Jojo mange le fromage.'},
+        ])
+        verify_collection(self.tmpdir, self.slug)
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], 'Faux — Seule Jojo mange le fromage.')
+
+    def test_leading_vrai_with_trailing_parenthetical_is_capitalized_in_place(self):
+        path = self._write_items([
+            {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
+             'correct_answer': 'vrai (elle a sept ans)'},
+        ])
+        verify_collection(self.tmpdir, self.slug)
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], 'Vrai (elle a sept ans)')
+
+    def test_leading_faux_with_period_separator_is_capitalized_in_place(self):
+        path = self._write_items([
+            {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
+             'correct_answer': "faux. C'est à Pâques."},
+        ])
+        verify_collection(self.tmpdir, self.slug)
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], "Faux. C'est à Pâques.")
+
+    def test_leading_whitespace_before_faux_correction_is_preserved(self):
+        """Combines both fixes: leading whitespace on the field AND a trailing
+        correction -- the whitespace must survive, and only "faux" capitalizes."""
+        path = self._write_items([
+            {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
+             'correct_answer': '  faux - not quite'},
+        ])
+        verify_collection(self.tmpdir, self.slug)
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], '  Faux - not quite')
+
+    def test_already_correct_faux_with_period_is_not_falsely_flagged(self):
+        """"Faux. <explanation>" (punctuation immediately after the word, no
+        space) is already correctly formatted -- the final validation check
+        must accept it, not flag it as malformed just because \\s or end-of-
+        string doesn't immediately follow the word."""
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            path = self._write_items([
+                {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
+                 'correct_answer': "Faux. C'est à Pâques."},
+            ])
+            verify_collection(self.tmpdir, self.slug)
+        self.assertNotIn('!', buf.getvalue())
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], "Faux. C'est à Pâques.")
+
+    def test_unrelated_word_starting_with_faux_is_not_falsely_matched(self):
+        """"fauxx" or "fauxbourg"-style words must not be treated as a
+        true/false answer just because they start with the substring "faux"
+        -- the \\b word-boundary guard must reject this."""
+        path = self._write_items([
+            {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
+             'correct_answer': 'fauxword unrelated'},
+        ])
+        verify_collection(self.tmpdir, self.slug)
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], 'fauxword unrelated')
+
 
 class InferredLevelTests(unittest.TestCase):
     """The inferred-mode enforcement: an `inferred` book must carry a per-item

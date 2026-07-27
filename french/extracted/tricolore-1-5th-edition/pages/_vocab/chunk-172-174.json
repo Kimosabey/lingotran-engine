@@ -1,0 +1,6441 @@
+{
+  "collection": "tricolore-1-5th-edition",
+  "chunk": "172-174",
+  "entries": [
+    {
+      "word": "lever",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "172"
+    },
+    {
+      "word": "lève-toi!",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "172"
+    },
+    {
+      "word": "levez-vous!",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "172"
+    },
+    {
+      "word": "libre",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "libre-service",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "lieu",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "172"
+    },
+    {
+      "word": "il a lieu",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "limonade",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "lire",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "liseuse",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "liste",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "lit",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "livre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "logement",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "loin",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "loisirs (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "Londres",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "long (f longue)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "lui",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "lumière",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "lundi",
+      "article": "(le)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "lunettes (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "lycée",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "ma",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "machine (à laver)",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "madame (Mme) (pl mesdames)",
+      "article": "",
+      "plural": "pl mesdames",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "172"
+    },
+    {
+      "word": "mademoiselle (pl mesdemoiselles)",
+      "article": "",
+      "plural": "pl mesdemoiselles",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "172"
+    },
+    {
+      "word": "magasin",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "magnifique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "mai",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "maillot de bain",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "main",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "172"
+    },
+    {
+      "word": "maintenant",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "mais",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "maison",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "à la maison",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "mal",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "maladie",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "172"
+    },
+    {
+      "word": "malheureusement",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "maman",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "Mamie",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "Manche",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "manger",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "manège",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "j'en ai assez mangé",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "manettes (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "manquer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "le mot qui manque",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "manteau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "maquette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "marché",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "marche",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "marché aux fleurs",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "marché aux poissons",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "marcher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "mardi",
+      "article": "(le)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "mardi gras",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "marin",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "172"
+    },
+    {
+      "word": "marron (doesn't change form)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "mars",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "match",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "matériel",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "maths (f pl les mathématiques)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "matière",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "matin",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "matinée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "mauvais",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "il fait mauvais",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "172"
+    },
+    {
+      "word": "mécanique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "méchant",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "les méchantes sœurs",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "meilleur",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "meilleur(e)s ami(e)s",
+      "article": "mes",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "mélanger",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "melon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "même",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "menu du jour",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "restaurant",
+      "source_page": "172"
+    },
+    {
+      "word": "mer",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "au bord de la mer",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "merci (beaucoup)",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "communication",
+      "source_page": "172"
+    },
+    {
+      "word": "mercredi",
+      "article": "(le)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "mère",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "mes",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "message électronique",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "172"
+    },
+    {
+      "word": "mettre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "meuble",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "midi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "miel",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "mignon",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "milieu",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "minuit",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "minute",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "mi-temps",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "moche",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "mode",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "à la mode",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "modèle réduit",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "moi",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "moins",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "mois",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "mois de ...",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "moment, pour le moment",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "mon",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "monde",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "monnaie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "Monsieur (M.) (pl messieurs)",
+      "article": "",
+      "plural": "pl messieurs",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "172"
+    },
+    {
+      "word": "monsieur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "172"
+    },
+    {
+      "word": "montagne",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "à la montagne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "monter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "montre",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "montre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "morceau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "mosquée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "172"
+    },
+    {
+      "word": "le mot qui manque",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "mot",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "en moto",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "mots croisés (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "mots mêlés (m pl)",
+      "article": "(des)",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "moutarde",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "moyen",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "mur",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "home",
+      "source_page": "172"
+    },
+    {
+      "word": "musée",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "172"
+    },
+    {
+      "word": "musicien(ne)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "172"
+    },
+    {
+      "word": "musique",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "musulman(e)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "n' ... pas",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "nager",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "natation",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "naturellement",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "navire",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "ne ... pas",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "neige",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "172"
+    },
+    {
+      "word": "n'est-ce pas?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "neuf",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "nièce",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "niveau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "172"
+    },
+    {
+      "word": "Noël",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "Joyeux Noël",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "noir",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "noisettes",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "nom",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "172"
+    },
+    {
+      "word": "nombre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "non",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "nord",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "normalement",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "notre (pl nos)",
+      "article": "",
+      "plural": "pl nos",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "nourriture",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "nous",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "nouveau (f nouvelle)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "nouvel (before masc. noun beginning with a vowel)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "novembre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "nuit",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "nul",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "numéro",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "octobre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "œuf",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "œuf à la coque",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "des œufs au bacon",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "offert",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "office de tourisme",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "offre d'emploi",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "172"
+    },
+    {
+      "word": "oignon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "oiseau (pl oiseaux)",
+      "article": "un",
+      "plural": "pl oiseaux",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "omelette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "on",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "on y va?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ont",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "oncle",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "onze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "orage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "172"
+    },
+    {
+      "word": "orange",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "orangeade",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "ordinateur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "172"
+    },
+    {
+      "word": "ordinateur portable",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "172"
+    },
+    {
+      "word": "organiser",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ou",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "où",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "oublier",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ouest (m)",
+      "article": "l'",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "oui",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ours",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ouvert",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ouvre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ouvrent",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ouvrez",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "ouvrons",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "pain",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "un pain au chocolat",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "paire de ...",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "panier",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "pantalon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "papa",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "Pâques",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "Joyeux Pâques",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "paquet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "par",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "parapluie",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "parasol",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "paravent",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "parc",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "172"
+    },
+    {
+      "word": "parc d'attractions",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "172"
+    },
+    {
+      "word": "parce que",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "pardon",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "communication",
+      "source_page": "172"
+    },
+    {
+      "word": "pare-brise",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "pare-choc",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "parents (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "paresseux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "parfum",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "parking",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "172"
+    },
+    {
+      "word": "parler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "172"
+    },
+    {
+      "word": "paroles (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "172"
+    },
+    {
+      "word": "partager",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "partie",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "partir de ... heures",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "partout",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "part",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "pas",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "pas",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "pas beaucoup",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "pas ici",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "pas mal",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "passé",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "passeport",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "passer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "passez un tour",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "passe-temps",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "passionné de",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "pâté",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "patin à roulettes",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "patinoire",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "172"
+    },
+    {
+      "word": "pauvre",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "payer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "172"
+    },
+    {
+      "word": "pays de Galles",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "pays",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "172"
+    },
+    {
+      "word": "pêche",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "172"
+    },
+    {
+      "word": "pêche",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "peinture",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "pendant",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "pense à quelque chose",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "perdent",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "172"
+    },
+    {
+      "word": "perdre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "perdu",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "père",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "172"
+    },
+    {
+      "word": "le Père Noël",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "172"
+    },
+    {
+      "word": "perroquet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "172"
+    },
+    {
+      "word": "perruche",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "personnage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "petit",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "petit déjeuner",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "petit-enfant",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "173"
+    },
+    {
+      "word": "petits pois (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "peu",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "peu à peu",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "peuple",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "peut-être",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "peut",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "peut",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "peux, est-ce que je peux ... ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "peux ... ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "photo",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "photographie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "phrase",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "piano",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "pièce",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "pied",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "piéton",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "ping-pong",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "pique-nique",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "piscine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "pittoresque",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "pizza",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "place",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "place",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "plage",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "173"
+    },
+    {
+      "word": "plan de la ville",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "planche à voile",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "plancher",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "planète",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "plante",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "plat",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "plat principal",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "restaurant",
+      "source_page": "173"
+    },
+    {
+      "word": "plats d'un repas",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "restaurant",
+      "source_page": "173"
+    },
+    {
+      "word": "plein air",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "173"
+    },
+    {
+      "word": "pleut",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "173"
+    },
+    {
+      "word": "pluie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "173"
+    },
+    {
+      "word": "plupart",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "plus",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "plus tard",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "poche",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "point",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "poire",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "poisson",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "poisson d'avril",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "un poisson rouge",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "poivre",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "police",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "poliment",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "pomme",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "une pomme d'amour",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "pomme de terre",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "pont",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "porc",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "port",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "173"
+    },
+    {
+      "word": "portable",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "porte",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "porter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "portion de",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "poser une question",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "poste",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "poste de police",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "potage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "potage aux légumes",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "poubelle",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "poule",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "poulet",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "pour",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "pourquoi?",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "préféré",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "préférer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "premier (f première)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "prendre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "prénom",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "173"
+    },
+    {
+      "word": "préparer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "près de",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "présent",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "presque",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "prêt",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "printemps",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "au printemps",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "principale",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "la place principale",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "prix",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "prochain",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "mercredi prochain",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "professeur (prof)",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "173"
+    },
+    {
+      "word": "profiter de",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "projet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "promenade",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "173"
+    },
+    {
+      "word": "prononcer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "protéger",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "provisions (f pl)",
+      "article": "des",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "puis",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "pull",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "puni",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "punir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "puzzle",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "pyjama",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "quand",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quand même",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quarante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quartier",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "quatorze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quatre",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "que ... ?",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quel (quelle, quels, quelles)",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quel âge as-tu?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "173"
+    },
+    {
+      "word": "quel désordre!",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quel parfum?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "quel temps!",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "173"
+    },
+    {
+      "word": "quel temps fait-il?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "173"
+    },
+    {
+      "word": "de quelle couleur est-il?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quelle est la date aujourd'hui?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "quelle heure est-il?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "quelle journée!",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quelque chose",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quelquefois",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quelques jours",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "queue",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "qu'est-ce que ça veut dire?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "qu'est-ce que c'est?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "qu'est-ce que tu fais?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "qu'est-ce que tu veux/vous voulez?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "qu'est-ce qu'il y a?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "qui",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "qui est-ce?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "173"
+    },
+    {
+      "word": "quinze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quinze jours",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "quitter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "quoi!",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "raconter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "radio",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "raide",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "j'ai les cheveux raides",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "raisin",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "rang",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "ranger des affaires",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "râpé(e)(s)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "rappel",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "raquette de tennis",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "recette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "rechercher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "recherches (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "récolte",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "reconnaître",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "récréation",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "reçu",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "reçu",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "reculez",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "regarder",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "règle",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "regrette",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "remplacer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "remplir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "rencontrer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rendez-vous",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rentrée",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "rentrer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "173"
+    },
+    {
+      "word": "repas",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "répéter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "répondre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "réponse",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "requin",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "restaurant",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "restaurant",
+      "source_page": "173"
+    },
+    {
+      "word": "rester (à la maison)",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "173"
+    },
+    {
+      "word": "rester en forme",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "health",
+      "source_page": "173"
+    },
+    {
+      "word": "résultats (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "résumé",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "retard",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "retourner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "retrouver",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "revoir",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "riche",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rien",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rien de spécial",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rigolo",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rire",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rit",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "riz",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "robe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "rocher",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "roi",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "roller",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "rond(e)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rose",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rôti",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "rouge",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "route",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "173"
+    },
+    {
+      "word": "roux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "j'ai les cheveux roux",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "rue",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "173"
+    },
+    {
+      "word": "rugby",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "sa",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sac",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "un sac à dos",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "173"
+    },
+    {
+      "word": "s'accrocher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sage",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sainement",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "health",
+      "source_page": "173"
+    },
+    {
+      "word": "sais pas",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "saison",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "Saint-Sylvestre",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "salade (verte)",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "salle de bains",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "salle de classe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "salle à manger",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "salle de séjour",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "salon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "173"
+    },
+    {
+      "word": "salut!",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "salutation",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "samedi",
+      "article": "(le)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "sandales (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "sandwich",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "sans",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sardine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "santé",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "173"
+    },
+    {
+      "word": "saucisson",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "sauf",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sauter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "savoir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "saxophone",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "sciences (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "SVT (Sciences de la Vie et de la Terre)",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "scolaire",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "school",
+      "source_page": "173"
+    },
+    {
+      "word": "se connecter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "seize",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sel",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "semaine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "séparer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sept",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "septembre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "serpent",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sers-toi!",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "173"
+    },
+    {
+      "word": "ses",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "seul",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "tout seul",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "seulement",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sévère",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "short",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "173"
+    },
+    {
+      "word": "si",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "s'il te plaît/s'il vous plaît",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "173"
+    },
+    {
+      "word": "siècle",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "173"
+    },
+    {
+      "word": "simple",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "sinon",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "situé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "six",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "173"
+    },
+    {
+      "word": "skate",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "173"
+    },
+    {
+      "word": "ski (nautique)",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "snack",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "sœur",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "174"
+    },
+    {
+      "word": "sofa",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "174"
+    },
+    {
+      "word": "soir",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "174"
+    },
+    {
+      "word": "soixante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "soixante-dix",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "soleil",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "174"
+    },
+    {
+      "word": "il y a du soleil",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "174"
+    },
+    {
+      "word": "sommaire",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "sommes",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "son",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "son",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "sondage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "sonner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "sont",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "sort",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "sortir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "soudain",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "souligné",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "souligner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "souper",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "souris",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "sous",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "souvent",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "spectacle",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "sport",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "sportif (f sportive)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "sports d'hiver (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "stade",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "stage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "station d'accueil MP3",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "station (de radio)",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "strophe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "stylo",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "sucre",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "sucreries (f pl)",
+      "article": "des",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "sud",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "suis",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "suit",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "Suisse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "suivant",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "super",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "supermarché",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "sur",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "surfer (sur le Net)",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "surligneur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "surnom",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "174"
+    },
+    {
+      "word": "surprise-partie",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "surtout",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "sweat",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "sympa",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "sympathique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "synagogue",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "Syndicat d'Initiative",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "ta",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "table",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "174"
+    },
+    {
+      "word": "tableau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "tableau interactif",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "tablette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "taille-crayon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "tais-toi!/taisez-vous!",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "tante",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "174"
+    },
+    {
+      "word": "tapis d'ordinateur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "tarentule",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tarte",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "tarte aux pommes",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "tartine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "taxi",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "technologie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "tee-shirt",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "télé",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "téléphoner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "télévision (la télé)",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "temple",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "temps",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "174"
+    },
+    {
+      "word": "quel temps fait-il?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "174"
+    },
+    {
+      "word": "avoir le temps",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "174"
+    },
+    {
+      "word": "tennis",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "le tennis de table",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "tennis (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "tente",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "174"
+    },
+    {
+      "word": "terminer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "terrain de football",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "tes",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tête",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "174"
+    },
+    {
+      "word": "texto",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "thé",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "un thé au citron",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "théâtre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "faire du théâtre",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "tiens!",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "tigré",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "timbre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "titre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "toast",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "toboggan",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "174"
+    },
+    {
+      "word": "toi",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "toilettes (f pl)",
+      "article": "les",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "174"
+    },
+    {
+      "word": "toit",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "174"
+    },
+    {
+      "word": "tomate",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "tombola",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "tombe",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "ton",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "toujours",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tour",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "tour",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "tournez",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "Toussaint",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "174"
+    },
+    {
+      "word": "tous",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tous les jours",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "174"
+    },
+    {
+      "word": "tout",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "en tout",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "c'est tout",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "à tout à l'heure",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "tout de suite",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tout droit",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "tout le monde",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tout le temps",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tout près",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "traduit",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "train",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "travail!",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "profession",
+      "source_page": "174"
+    },
+    {
+      "word": "travailler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "profession",
+      "source_page": "174"
+    },
+    {
+      "word": "traverser",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "treize",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "trente",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "très",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "tricot",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "trois",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "troisième",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "trombone",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "trompette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "trop ...",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "pas trop",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "trousse",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "trouver",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "trouver",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "tu",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "typique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "un (f une)",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "uniforme",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "unique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "univers (m)",
+      "article": "l'",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "use",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "utile",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "va",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "ça va?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "174"
+    },
+    {
+      "word": "vacances",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "174"
+    },
+    {
+      "word": "les grandes vacances (f pl)",
+      "article": "",
+      "plural": "f pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "174"
+    },
+    {
+      "word": "vais",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "valise",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "faire les valises",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "vanille",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "végétarien(ne)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "vélo",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "vélo tout terrain (VTT)",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "vendeur (une vendeuse)",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "174"
+    },
+    {
+      "word": "vend",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "vendre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "vendredi",
+      "article": "(le)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "174"
+    },
+    {
+      "word": "venez voir",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "venir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "vent",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "174"
+    },
+    {
+      "word": "il y a du vent",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "174"
+    },
+    {
+      "word": "vérifier",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "verre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "vert",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "verticalement",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "veste",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "vêtements (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "174"
+    },
+    {
+      "word": "veut ... ?",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "veux",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "je veux bien",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "veux ... ?",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "viande",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "vidéo",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "viens",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "vieux (f vieille)",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "village",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "ville",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "en ville",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "174"
+    },
+    {
+      "word": "vin",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "du vin rouge/blanc",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "vinaigre",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "vingt",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "violon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "violoncelle",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "visite guidée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "visiter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "vite",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "vitesse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "vive les vacances!",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "174"
+    },
+    {
+      "word": "voici",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "voilà",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "voile",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "voir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "voiture",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "voix",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "voler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "volley",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "174"
+    },
+    {
+      "word": "vont",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "vote",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "votre (pl vos)",
+      "article": "",
+      "plural": "pl vos",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "voudrais",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "vous",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "voyage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "voyager",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "travel",
+      "source_page": "174"
+    },
+    {
+      "word": "voyons",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "voyelle",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "school",
+      "source_page": "174"
+    },
+    {
+      "word": "vrai",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "vraiment",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "vue",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "weekend",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "174"
+    },
+    {
+      "word": "y",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "yaourt",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "174"
+    },
+    {
+      "word": "yeux (m pl)",
+      "article": "les",
+      "plural": "m pl",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "174"
+    },
+    {
+      "word": "zéro",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "none",
+      "source_page": "174"
+    },
+    {
+      "word": "zoo",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "174"
+    }
+  ]
+}
