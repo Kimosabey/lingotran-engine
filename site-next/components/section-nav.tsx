@@ -65,24 +65,29 @@ export function SectionNav({ sections }: { sections: Section[] }) {
   if (!sections.length) return null;
 
   return (
-    <div
-      ref={navRef}
-      className="sticky top-[108px] z-30 -mx-4 flex gap-1 overflow-x-auto border-b border-border bg-bg/95 px-4 py-2 backdrop-blur sm:mx-0 sm:px-0"
-      aria-label="On this page"
-    >
-      {sections.map((s) => (
-        <a
-          key={s.id}
-          href={"#" + s.id}
-          data-target={s.id}
-          className={
-            "shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors " +
-            (active === s.id ? "bg-brand-100 text-link" : "text-text-muted hover:bg-surface-2 hover:text-text")
-          }
-        >
-          {s.label}
-        </a>
-      ))}
+    <div className="sticky top-[calc(var(--topbar-h)+var(--appbar-h))] z-30 -mx-4 sm:mx-0">
+      <div
+        ref={navRef}
+        className="flex gap-1 overflow-x-auto border-b border-border bg-bg/95 px-4 py-2 backdrop-blur sm:px-0"
+        aria-label="On this page"
+      >
+        {sections.map((s) => (
+          <a
+            key={s.id}
+            href={"#" + s.id}
+            data-target={s.id}
+            className={
+              "shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors " +
+              (active === s.id ? "bg-brand-100 text-link" : "text-text-muted hover:bg-surface-2 hover:text-text")
+            }
+          >
+            {s.label}
+          </a>
+        ))}
+      </div>
+      {/* Hints that the tab row scrolls further right -- otherwise the last
+          visible tab (often clipped mid-label on mobile) reads as the end. */}
+      <div className="pointer-events-none absolute top-0 right-0 h-full w-8 bg-gradient-to-l from-bg to-transparent sm:hidden" />
     </div>
   );
 }
