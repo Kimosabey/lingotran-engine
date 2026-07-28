@@ -20,10 +20,30 @@ const ibmPlexMono = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
 });
 
+const SITE_URL = "https://lingotran-engine.vercel.app";
+const DEFAULT_TITLE = "Lingotran Engine";
+const DEFAULT_DESCRIPTION =
+  "How the Lingotran engine is orchestrated — the layers, roles, agents and models behind zero-data-loss extraction.";
+
 export const metadata: Metadata = {
-  title: "Lingotran Engine",
-  description:
-    "How the Lingotran engine is orchestrated — the layers, roles, agents and models behind zero-data-loss extraction.",
+  metadataBase: new URL(SITE_URL),
+  title: DEFAULT_TITLE,
+  description: DEFAULT_DESCRIPTION,
+  openGraph: {
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
+    url: SITE_URL,
+    siteName: DEFAULT_TITLE,
+    type: "website",
+    locale: "en_US",
+    images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+  },
+  twitter: {
+    card: "summary",
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
+    images: ["/img/logo-color.png"],
+  },
 };
 
 // Read the persisted theme before paint to avoid a flash of the wrong theme --

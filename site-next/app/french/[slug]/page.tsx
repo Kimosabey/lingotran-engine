@@ -27,9 +27,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const book = getBook(slug);
   if (!book) return {};
+  const title = `${book.title.split(" — ")[0]} — French corpus — Lingotran Engine`;
+  const description = `${book.title} (${book.publisher || "self-published"}, ${french.level}) — extraction coverage, QA results, content breakdown and chapter taxonomy.`;
   return {
-    title: `${book.title.split(" — ")[0]} — French corpus — Lingotran Engine`,
-    description: `${book.title} (${book.publisher || "self-published"}, ${french.level}) — extraction coverage, QA results, content breakdown and chapter taxonomy.`,
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      url: `/french/${slug}`,
+      type: "article",
+      images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+    },
+    twitter: { card: "summary", title, description, images: ["/img/logo-color.png"] },
   };
 }
 

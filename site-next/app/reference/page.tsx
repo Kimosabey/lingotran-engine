@@ -8,10 +8,21 @@ import { CodeBlock } from "@/components/code-block";
 import { DataTable } from "@/components/data-table";
 import { tools, conventions } from "@/lib/data";
 
+const TITLE = "Reference — Lingotran Engine";
+const DESCRIPTION =
+  "Developer tools, folder layout, naming, frontmatter fields, and the status model behind the Lingotran extraction pipeline.";
+
 export const metadata: Metadata = {
-  title: "Reference — Lingotran Engine",
-  description:
-    "Developer tools, folder layout, naming, frontmatter fields, and the status model behind the Lingotran extraction pipeline.",
+  title: TITLE,
+  description: DESCRIPTION,
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: "/reference",
+    type: "website",
+    images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+  },
+  twitter: { card: "summary", title: TITLE, description: DESCRIPTION, images: ["/img/logo-color.png"] },
 };
 
 const SECTIONS = [

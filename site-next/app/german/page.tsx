@@ -10,10 +10,21 @@ import { BarChart } from "@/components/charts/bar-chart";
 import { DataTable } from "@/components/data-table";
 import { german } from "@/lib/data";
 
+const TITLE = "German corpus — Lingotran Engine";
+const DESCRIPTION =
+  "The German A1 extraction corpus — Goethe-Zertifikat A1 practice PDFs, scanned textbooks, and authorized web pages, fully QA-verified, with question and vocabulary exports.";
+
 export const metadata: Metadata = {
-  title: "German corpus — Lingotran Engine",
-  description:
-    "The German A1 extraction corpus — Goethe-Zertifikat A1 practice PDFs, scanned textbooks, and authorized web pages, fully QA-verified, with question and vocabulary exports.",
+  title: TITLE,
+  description: DESCRIPTION,
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: "/german",
+    type: "website",
+    images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+  },
+  twitter: { card: "summary", title: TITLE, description: DESCRIPTION, images: ["/img/logo-color.png"] },
 };
 
 const SECTIONS = [

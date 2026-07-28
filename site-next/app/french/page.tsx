@@ -12,10 +12,21 @@ import { Meter } from "@/components/meter";
 import { QaDonut } from "@/components/charts/qa-donut";
 import { french } from "@/lib/data";
 
+const TITLE = "French corpus — Lingotran Engine";
+const DESCRIPTION =
+  "Three French A1/A2 workbooks — Cosmopolite 1, Pratique Conjugaison, and Pratique Révision 2 — transcribed verbatim and QA-verified.";
+
 export const metadata: Metadata = {
-  title: "French corpus — Lingotran Engine",
-  description:
-    "Three French A1/A2 workbooks — Cosmopolite 1, Pratique Conjugaison, and Pratique Révision 2 — transcribed verbatim and QA-verified.",
+  title: TITLE,
+  description: DESCRIPTION,
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: "/french",
+    type: "website",
+    images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+  },
+  twitter: { card: "summary", title: TITLE, description: DESCRIPTION, images: ["/img/logo-color.png"] },
 };
 
 const SECTIONS = [

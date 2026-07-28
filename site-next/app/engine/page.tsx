@@ -11,10 +11,21 @@ import { CostDonut } from "@/components/charts/cost-donut";
 import { BarChart } from "@/components/charts/bar-chart";
 import { orchestration, workflow } from "@/lib/data";
 
+const TITLE = "The Engine — Lingotran Engine";
+const DESCRIPTION =
+  "How the Lingotran engine is orchestrated — the layers, roles, agents and models behind zero-data-loss extraction, with the honest cost picture.";
+
 export const metadata: Metadata = {
-  title: "The Engine — Lingotran Engine",
-  description:
-    "How the Lingotran engine is orchestrated — the layers, roles, agents and models behind zero-data-loss extraction, with the honest cost picture.",
+  title: TITLE,
+  description: DESCRIPTION,
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: "/engine",
+    type: "website",
+    images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+  },
+  twitter: { card: "summary", title: TITLE, description: DESCRIPTION, images: ["/img/logo-color.png"] },
 };
 
 const SECTIONS = [
