@@ -446,6 +446,23 @@
   }
 }
 
+/* Hide the page's vertical scrollbar chrome -- scrolling itself (wheel,
+   touch, keyboard) is untouched, only the visible track/thumb is removed. */
+html {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+html::-webkit-scrollbar {
+  display: none;
+}
+
+/* .no-scrollbar (used by the command palette's result list) only ships
+   Firefox/IE coverage from its source -- this fills in the missing
+   WebKit rule so it actually hides the scrollbar in Chrome/Safari/Edge too. */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
 /* Homepage-only drifting language glyphs (é ü ç â ö) -- the hero's ambient,
    subject-tied signature touch. Ported verbatim from the static site. */
 .hero-glyphs span {
