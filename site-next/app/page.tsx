@@ -47,7 +47,7 @@ export default function Home() {
       <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           {/* Hero */}
-          <div className="relative grid grid-cols-1 gap-10 py-14 lg:grid-cols-[1.1fr_1fr] lg:items-center lg:py-20">
+          <div className="relative grid grid-cols-1 gap-10 overflow-x-hidden py-14 lg:grid-cols-[1.1fr_1fr] lg:items-center lg:py-20">
             <HeroGlyphs />
             <div>
               <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">

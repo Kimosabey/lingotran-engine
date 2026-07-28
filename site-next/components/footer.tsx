@@ -17,14 +17,14 @@ export function Footer({ brand, variant = "top", backHref = "/french" }: FooterP
         </span>
         {variant === "top" ? (
           <span>
-            <a href={REPO_URL} target="_blank" rel="noopener" className="text-link hover:underline">
+            <a href={REPO_URL} target="_blank" rel="noopener" className="text-link underline underline-offset-2">
               GitHub
             </a>{" "}
             · Built on the Lingotran brand system
           </span>
         ) : (
           <span>
-            <Link href={backHref} className="text-link hover:underline">
+            <Link href={backHref} className="text-link underline underline-offset-2">
               ← Back to French
             </Link>
           </span>

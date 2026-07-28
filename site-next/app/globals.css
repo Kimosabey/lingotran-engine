@@ -28,6 +28,12 @@
   --verified: #0e9f6e; /* fills, dots, donut slice */
   --verified-strong: #0a7d57; /* AA text on white (5.0:1) */
   --verified-soft: #e4f5ee; /* tinted surface */
+  /* Deliberately theme-invariant (never overridden in dark mode below) --
+     for a fill that always carries white text on top (e.g. the "Verified"
+     hero badge). --verified-strong intentionally brightens in dark mode
+     for its actual job (AA text ON a dark surface), which makes it far too
+     light to hold white text legibly; this token is for the opposite job. */
+  --verified-badge: #0a7d57;
 
   /* ---- Flag (rose) — QA-fail / needs attention, used sparingly ---------- */
   --flag: #e11d48;
@@ -371,6 +377,7 @@
   --color-brand-100: var(--brand-100);
   --color-verified: var(--verified);
   --color-verified-strong: var(--verified-strong);
+  --color-verified-badge: var(--verified-badge);
   --color-verified-soft: var(--verified-soft);
   --color-flag: var(--flag);
   --color-flag-strong: var(--flag-strong);

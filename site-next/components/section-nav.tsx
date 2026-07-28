@@ -12,7 +12,7 @@ export interface Section {
 // header (60px) + appbar (48px) heights via this component's own rect.
 export function SectionNav({ sections }: { sections: Section[] }) {
   const [active, setActive] = useState(sections[0]?.id ?? "");
-  const navRef = useRef<HTMLDivElement>(null);
+  const navRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
     if (!sections.length) return;
@@ -66,7 +66,7 @@ export function SectionNav({ sections }: { sections: Section[] }) {
 
   return (
     <div className="sticky top-[calc(var(--topbar-h)+var(--appbar-h))] z-30 -mx-4 sm:mx-0">
-      <div
+      <nav
         ref={navRef}
         className="flex gap-1 overflow-x-auto border-b border-border bg-bg/95 px-4 py-2 backdrop-blur sm:px-0"
         aria-label="On this page"
@@ -84,7 +84,7 @@ export function SectionNav({ sections }: { sections: Section[] }) {
             {s.label}
           </a>
         ))}
-      </div>
+      </nav>
       {/* Hints that the tab row scrolls further right -- otherwise the last
           visible tab (often clipped mid-label on mobile) reads as the end. */}
       <div className="pointer-events-none absolute top-0 right-0 h-full w-8 bg-gradient-to-l from-bg to-transparent sm:hidden" />

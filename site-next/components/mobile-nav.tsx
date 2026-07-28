@@ -1,16 +1,28 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { Icon } from "@/components/icon";
 import { sitePages } from "@/lib/data";
 
 export function MobileNav({ active }: { active: string }) {
   const [open, setOpen] = useState(false);
+  const triggerRef = useRef<HTMLButtonElement>(null);
+
+  function handleOpenChange(next: boolean) {
+    setOpen(next);
+    // Explicit fallback on top of Base UI's own close-focus handling --
+    // confirmed via WebKit testing that focus doesn't reliably return to
+    // the trigger there otherwise, leaving keyboard users stranded at the
+    // top of the document instead of back where they started.
+    if (!next) requestAnimationFrame(() => triggerRef.current?.focus());
+  }
+
   return (
-    <Sheet open={open} onOpenChange={setOpen}>
+    <Sheet open={open} onOpenChange={handleOpenChange}>
       <button
+        ref={triggerRef}
         type="button"
         onClick={() => setOpen(true)}
         aria-label="Open menu"

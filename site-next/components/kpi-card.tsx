@@ -29,7 +29,9 @@ export function KpiGrid({ cards }: { cards: KpiCardData[] }) {
             <CountUp value={c.num} />
           </div>
           <div className="text-sm font-medium text-text">{c.lab}</div>
-          {c.sub && <div className="text-xs text-text-subtle">{c.sub}</div>}
+          {c.sub && (
+            <div className={"text-xs " + (c.verified ? "text-text-muted" : "text-text-subtle")}>{c.sub}</div>
+          )}
         </div>
       ))}
     </div>

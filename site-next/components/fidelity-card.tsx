@@ -14,13 +14,13 @@ const ROWS: [string, string, boolean][] = [
 export function FidelityCard() {
   return (
     <div className="relative flex flex-col gap-3 rounded-2xl border border-border bg-surface p-5 shadow-lg sm:flex-row sm:items-center">
-      <span className="absolute -top-3 left-5 inline-flex items-center gap-1.5 rounded-full bg-verified px-3 py-1 text-xs font-semibold text-white shadow-sm">
+      <span className="absolute -top-3 left-5 inline-flex items-center gap-1.5 rounded-full bg-verified-badge px-3 py-1 text-xs font-semibold text-white shadow-sm">
         <Icon name="checkSeal" size={13} />
         Verified
       </span>
 
       <div className="relative flex-1 overflow-hidden rounded-xl border border-paper-line bg-paper p-4">
-        <div className="font-mono text-[10px] text-paper-ink/70">netzwerk-a1-kursbuch · page-066.png · 300 DPI</div>
+        <div className="font-mono text-[10px] text-paper-ink">netzwerk-a1-kursbuch · page-066.png · 300 DPI</div>
         <div className="mt-3 space-y-2">
           <div className="h-2.5 w-3/4 rounded bg-paper-line" />
           <div className="h-2 w-full rounded bg-paper-line/70" />

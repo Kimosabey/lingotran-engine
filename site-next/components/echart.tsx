@@ -5,13 +5,34 @@ import type * as EChartsNS from "echarts";
 import type { EChartsOption } from "echarts";
 import { getChartTokens, type ChartTokens } from "@/lib/chart-tokens";
 
-// ECharts is a large runtime (~1MB) -- loaded on demand via dynamic import
-// instead of a static one, so routes with no charts (e.g. /reference) never
-// pay for it. One shared in-flight promise so every chart on a page (bar,
-// donut, ...) triggers a single fetch, not one each.
+// ECharts is a large runtime -- loaded on demand via dynamic import instead
+// of a static one, so routes with no charts (e.g. /reference) never pay for
+// it. Also tree-shaken via the modular echarts/core entry points instead of
+// the full "echarts" package: a Lighthouse audit found ~65% of the full
+// bundle (239 of 367 KiB) was unused code from chart types/components this
+// site never renders. Every chart on the site only ever uses bar + pie
+// series, a cartesian grid (for the bar chart's axes), and tooltips -- see
+// components/charts/*.tsx, which use nothing beyond that; add the matching
+// `.use()` registration here if a future chart needs another component.
 let echartsModulePromise: Promise<typeof EChartsNS> | null = null;
 function loadEcharts(): Promise<typeof EChartsNS> {
-  if (!echartsModulePromise) echartsModulePromise = import("echarts");
+  if (!echartsModulePromise) {
+    echartsModulePromise = Promise.all([
+      import("echarts/core"),
+      import("echarts/charts"),
+      import("echarts/components"),
+      import("echarts/renderers"),
+    ]).then(([core, charts, components, renderers]) => {
+      core.use([
+        charts.BarChart,
+        charts.PieChart,
+        components.GridComponent,
+        components.TooltipComponent,
+        renderers.CanvasRenderer,
+      ]);
+      return core as unknown as typeof EChartsNS;
+    });
+  }
   return echartsModulePromise;
 }
 
