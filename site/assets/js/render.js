@@ -48,14 +48,27 @@
   }
   function barChart(mount, data, opts) {
     opts = opts || {};
-    var max = Math.max.apply(null, data.map(function (d) { return d.v; })) || 1;
-    var total = sum(data, function (d) { return d.v; }) || 1;
+    // Long-tail collapse: a chart with many rows (e.g. an 18-tag content-type
+    // breakdown) is hard to scan. Purely row-count driven (no per-caller
+    // opt-in), so short charts (answer coverage, CEFR, orientation, the
+    // German item-type list at 10 rows) never cross the threshold and render
+    // exactly as before -- only genuinely long lists collapse.
+    var TOP_N = 8;
+    var display = data, otherCount = 0, otherNames = "";
+    if (data.length > TOP_N + 2) {
+      var kept = data.slice(0, TOP_N), collapsed = data.slice(TOP_N);
+      otherCount = collapsed.length;
+      otherNames = collapsed.map(function (d) { return d.k; }).join(", ");
+      display = kept.concat([{ k: "Other (" + otherCount + " tags)", v: sum(collapsed, function (d) { return d.v; }), other: true }]);
+    }
+    var max = Math.max.apply(null, display.map(function (d) { return d.v; })) || 1;
+    var total = sum(data, function (d) { return d.v; }) || 1; // true total -- % stays accurate even once collapsed
     var wrap = el("div", { class: "chart", role: "img", "aria-label": opts.label || "bar chart" });
-    data.forEach(function (d) {
+    display.forEach(function (d) {
       var pct = Math.round((d.v / total) * 100);
-      wrap.appendChild(el("div", { class: "row" }, [
-        el("span", { class: "k", title: d.k }, d.k),
-        el("span", { class: "track" }, [el("span", { class: "fill" + (opts.fillCls ? " " + opts.fillCls : ""), "data-w": Math.max(2, Math.round((d.v / max) * 100)) })]),
+      wrap.appendChild(el("div", { class: "row" + (d.other ? " row-other" : "") }, [
+        el("span", { class: "k", title: d.other ? "Other (" + otherCount + " tags): " + otherNames : d.k }, d.k),
+        el("div", { class: "track" }, [el("div", { class: "fill" + (opts.fillCls ? " " + opts.fillCls : "") + (d.other ? " fill-other" : ""), "data-w": Math.max(2, Math.round((d.v / max) * 100)) })]),
         el("span", { class: "v", html: esc(d.v) + (opts.pct !== false ? ' <small>' + pct + '%</small>' : "") })
       ]));
     });
@@ -204,7 +217,9 @@
         { num: a.books, lab: "Workbooks", icon: "book" },
         { num: a.spreads, lab: "Page spreads", icon: "doc" },
         { num: a.transcribed, lab: "Transcribed", sub: pctOf(a.transcribed, a.spreads), icon: "type" },
-        { num: a.verified, lab: "QA-verified", sub: pctOf(a.verified, a.spreads), cls: "k-verified", icon: "checkSeal" }
+        { num: a.verified, lab: "QA-verified", sub: pctOf(a.verified, a.spreads), cls: "k-verified", icon: "checkSeal" },
+        { num: a.questions.toLocaleString(), lab: "Questions", icon: "type" },
+        { num: a.words.toLocaleString(), lab: "Vocabulary words", icon: "tag" }
       ]);
     },
     "french-books": function (m) {
@@ -220,7 +235,8 @@
           el("p", { class: "card-sub", style: "margin-top:12px" }, b.subtitle),
           el("div", { class: "cluster", style: "margin-top:10px" }, [
             chip(b.spreads + " spreads"), chip(b.transcribed + " transcribed"), chip(b.verified + " verified", true)
-          ]),
+          ].concat(b.questions ? [chip(b.questions.toLocaleString() + " questions")] : [])
+            .concat(b.words ? [chip(b.words.toLocaleString() + " words")] : [])),
           el("div", { class: "card-foot" }, [
             el("span", { class: "kpi-sub" }, b.author ? (b.author + (b.publisher ? " · " + b.publisher : "")) : ""),
             el("span", { class: "go" }, [document.createTextNode("Open"), spanArrow()])

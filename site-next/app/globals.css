@@ -1,0 +1,475 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+/* shadcn/ui components use the `dark:` Tailwind variant directly in a few
+   places -- point it at our existing [data-theme="dark"] attribute (set by
+   the theme toggle) rather than shadcn's default `.dark` class, so both
+   systems share one real toggle mechanism instead of two. */
+@custom-variant dark (&:is([data-theme="dark"] *));
+
+/* ==========================================================================
+   Lingotran Engine — Design tokens  ("Manifest" system)
+   Ported as-is from the static site's tokens.css. A system-of-record
+   aesthetic: deep-violet authority, emerald "verified" signal, a confined
+   textbook-paper motif. Light is the default; dark mirrors it via
+   [data-theme="dark"] (explicit toggle) or prefers-color-scheme (system).
+   ========================================================================== */
+:root {
+  /* ---- Brand (kept as the color anchor — the logos are violet) ---------- */
+  --brand-900: #2c0a63;
+  --brand-700: #41009a; /* primary brand */
+  --brand-600: #5a18c2;
+  --brand-500: #7c4dff; /* interactive violet */
+  --brand-300: #b79cff;
+  --brand-100: #ede6ff;
+
+  /* ---- Verified (emerald) — the emotional core: ok:true, zero data loss - */
+  --verified: #0e9f6e; /* fills, dots, donut slice */
+  --verified-strong: #0a7d57; /* AA text on white (5.0:1) */
+  --verified-soft: #e4f5ee; /* tinted surface */
+
+  /* ---- Flag (rose) — QA-fail / needs attention, used sparingly ---------- */
+  --flag: #e11d48;
+  --flag-strong: #be123c; /* AA text on white (5.0:1) */
+  --flag-soft: #fce7ec;
+
+  /* ---- Info / neutral accents for charts ------------------------------- */
+  --amber: #c77a0a; /* decorative only — 3.4:1 on white, fails AA text */
+  --amber-strong: #8f5400; /* AA-safe text variant (6.1:1 on white) */
+  --amber-soft: #fbf0dc;
+
+  /* ---- Paper — confined to the fidelity/scan motif only ---------------- */
+  --paper: #f4eee1;
+  --paper-2: #ebe2cf;
+  --paper-line: #dccfb4;
+  --paper-ink: #4a4230;
+
+  /* ---- Ink + cool-slate neutral ramp ----------------------------------- */
+  --ink: #14101e; /* near-black indigo */
+  --slate-900: #1b1730;
+  --slate-800: #2a2542;
+  --slate-700: #3c3757;
+  --slate-600: #524d6c;
+  --slate-500: #6b6683;
+  --slate-400: #918da6;
+  --slate-300: #c6c3d4;
+  --slate-200: #e4e2ed;
+  --slate-150: #ecead3;
+  --slate-100: #f2f1f7;
+  --slate-50: #f8f8fc;
+  --white: #ffffff;
+
+  /* ---- Semantic surfaces (LIGHT) — components reference these ----------- */
+  --bg: #f6f5fb;
+  --surface: #ffffff;
+  --surface-2: #f3f2f9;
+  --surface-3: #ecebf6;
+  --surface-inset: #f8f8fc;
+  --border: #e6e4ef;
+  --border-strong: #d5d2e2;
+  --border-faint: #efeef5;
+
+  --text: var(--ink);
+  --text-muted: #565270; /* 6.7:1 on --surface */
+  --text-subtle: #6e6a86; /* 4.6:1 on --surface — small text OK */
+  --text-onbrand: #ffffff;
+
+  --accent: var(--brand-700);
+  --accent-hover: var(--brand-900);
+  --accent-soft: var(--brand-100);
+  --link: var(--brand-700);
+  --ring: var(--brand-500);
+
+  --code-bg: #160c2b;
+  --code-text: #ede7ff;
+  --code-cmt: #9b8ac9;
+  --code-kw: #c4a6ff;
+  --code-str: #8de9c4;
+
+  --chart-track: #ecebf6;
+  --grad-brand: linear-gradient(135deg, #41009a 0%, #7c4dff 100%);
+  --grad-brand-90: linear-gradient(90deg, #41009a, #7c4dff);
+  --grad-verified: linear-gradient(90deg, #0a7d57, #0e9f6e);
+  --scrim: rgba(20, 16, 30, 0.42);
+  --glow-brand: 0 24px 60px -20px rgba(65, 0, 154, 0.45);
+
+  /* ---- Spacing scale (4px base) ---------------------------------------- */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 20px;
+  --sp-6: 24px;
+  --sp-7: 28px;
+  --sp-8: 32px;
+  --sp-10: 40px;
+  --sp-12: 48px;
+  --sp-14: 56px;
+  --sp-16: 64px;
+  --sp-20: 80px;
+  --sp-24: 96px;
+
+  /* ---- Radius ---------------------------------------------------------- */
+  --r-xs: 6px;
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 16px;
+  --r-xl: 20px;
+  --r-2xl: 28px;
+  --r-pill: 999px;
+
+  /* ---- Shadow (soft) --------------------------------------------------- */
+  --shadow-xs: 0 1px 2px rgba(20, 16, 30, 0.05);
+  --shadow-sm: 0 2px 8px rgba(20, 16, 30, 0.06);
+  --shadow-md: 0 10px 28px -8px rgba(20, 16, 30, 0.12);
+  --shadow-lg: 0 24px 56px -16px rgba(20, 16, 30, 0.18);
+
+  /* ---- Typography ------------------------------------------------------ */
+  --font-display-family: var(--font-display), Georgia, "Times New Roman", serif;
+  --font-sans-family: var(--font-sans), "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono-family: var(--font-mono), ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+  --text-2xs: 11px;
+  --text-xs: 12px;
+  --text-sm: 13px;
+  --text-smd: 14px;
+  --text-base: 15px;
+  --text-md: 16px;
+  --text-lg: 18px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --display-sm: clamp(26px, 3vw, 34px);
+  --display-md: clamp(32px, 4.4vw, 46px);
+  --display-lg: clamp(38px, 6vw, 62px);
+
+  --lh-tight: 1.12;
+  --lh-snug: 1.3;
+  --lh-normal: 1.6;
+  --lh-relaxed: 1.7;
+  --ls-tight: -0.02em;
+  --ls-snug: -0.01em;
+  --ls-wide: 0.02em;
+  --ls-caps: 0.08em;
+
+  /* ---- Motion ------------------------------------------------------------ */
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-spring: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-1: 0.12s;
+  --dur-2: 0.2s;
+  --dur-3: 0.35s;
+  --dur-4: 0.55s;
+
+  /* ---- Layout ------------------------------------------------------------ */
+  --topbar-h: 60px;
+  --appbar-h: 48px;
+  --content-max: 1200px;
+  --prose-max: 72ch;
+
+  /* ---- Z-index ------------------------------------------------------------ */
+  --z-appbar: 40;
+  --z-topbar: 50;
+  --z-scrim: 55;
+  --z-drawer: 60;
+  --z-tooltip: 70;
+
+  color-scheme: light;
+
+  /* ---- shadcn/ui semantic aliases -> Manifest tokens (never shadcn's
+     default neutral oklch scale) so every shadcn primitive automatically
+     picks up the site's real identity. ------------------------------------ */
+  --background: var(--bg);
+  --foreground: var(--text);
+  --card: var(--surface);
+  --card-foreground: var(--text);
+  --popover: var(--surface);
+  --popover-foreground: var(--text);
+  --primary: var(--brand-700);
+  --primary-foreground: var(--text-onbrand);
+  --secondary: var(--surface-2);
+  --secondary-foreground: var(--text);
+  --muted: var(--surface-2);
+  --muted-foreground: var(--text-muted);
+  --accent-shadcn: var(--brand-100);
+  --accent-foreground: var(--text);
+  --destructive: var(--flag);
+  --input: var(--border-strong);
+  --radius: var(--r-md);
+  --chart-1: var(--brand-500);
+  --chart-2: var(--verified);
+  --chart-3: var(--flag);
+  --chart-4: var(--amber);
+  --chart-5: var(--brand-300);
+
+  --sidebar: var(--surface);
+  --sidebar-foreground: var(--text);
+  --sidebar-primary: var(--brand-700);
+  --sidebar-primary-foreground: var(--text-onbrand);
+  --sidebar-accent: var(--surface-2);
+  --sidebar-accent-foreground: var(--text);
+  --sidebar-border: var(--border);
+  --sidebar-ring: var(--ring);
+}
+
+/* ---- Dark mode (deep-indigo mirror). Default follows OS; the toggle
+   stamps data-theme on <html> and always wins. --------------------------- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e0a1a;
+    --surface: #16112a;
+    --surface-2: #1e1738;
+    --surface-3: #271e48;
+    --surface-inset: #120d24;
+    --border: rgba(255, 255, 255, 0.1);
+    --border-strong: rgba(255, 255, 255, 0.17);
+    --border-faint: rgba(255, 255, 255, 0.06);
+
+    --text: #f4f1ff;
+    --text-muted: rgba(244, 241, 255, 0.74);
+    --text-subtle: rgba(244, 241, 255, 0.56);
+
+    --accent: #b79cff;
+    --accent-hover: #cbb6ff;
+    --accent-soft: rgba(124, 77, 255, 0.18);
+    --link: #b79cff;
+    --ring: #b79cff;
+
+    --verified-strong: #34d399;
+    --flag-strong: #fb7185;
+    --amber: #f0b24b;
+    --amber-strong: #f0b24b;
+
+    --verified-soft: rgba(16, 159, 110, 0.16);
+    --flag-soft: rgba(225, 29, 72, 0.16);
+    --amber-soft: rgba(240, 178, 75, 0.15);
+    --brand-100: rgba(124, 77, 255, 0.16);
+
+    --paper: #26210f;
+    --paper-2: #302913;
+    --paper-line: #4a3f1e;
+    --paper-ink: #e9deb8;
+
+    --code-bg: #0b0618;
+    --code-text: #ede7ff;
+    --chart-track: rgba(255, 255, 255, 0.09);
+    --grad-verified: linear-gradient(90deg, #0e9f6e, #34d399);
+    --scrim: rgba(0, 0, 0, 0.6);
+    --glow-brand: 0 24px 60px -20px rgba(124, 77, 255, 0.5);
+
+    --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 12px 30px -8px rgba(0, 0, 0, 0.55);
+    --shadow-lg: 0 26px 60px -16px rgba(0, 0, 0, 0.65);
+
+    --primary-foreground: var(--ink);
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #0e0a1a;
+  --surface: #16112a;
+  --surface-2: #1e1738;
+  --surface-3: #271e48;
+  --surface-inset: #120d24;
+  --border: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.17);
+  --border-faint: rgba(255, 255, 255, 0.06);
+
+  --text: #f4f1ff;
+  --text-muted: rgba(244, 241, 255, 0.74);
+  --text-subtle: rgba(244, 241, 255, 0.56);
+
+  --accent: #b79cff;
+  --accent-hover: #cbb6ff;
+  --accent-soft: rgba(124, 77, 255, 0.18);
+  --link: #b79cff;
+  --ring: #b79cff;
+
+  --verified-strong: #34d399;
+  --flag-strong: #fb7185;
+  --amber: #f0b24b;
+
+  --verified-soft: rgba(16, 159, 110, 0.16);
+  --flag-soft: rgba(225, 29, 72, 0.16);
+  --amber-soft: rgba(240, 178, 75, 0.15);
+  --brand-100: rgba(124, 77, 255, 0.16);
+
+  --paper: #26210f;
+  --paper-2: #302913;
+  --paper-line: #4a3f1e;
+  --paper-ink: #e9deb8;
+
+  --code-bg: #0b0618;
+  --code-text: #ede7ff;
+  --chart-track: rgba(255, 255, 255, 0.09);
+  --grad-verified: linear-gradient(90deg, #0e9f6e, #34d399);
+  --scrim: rgba(0, 0, 0, 0.6);
+  --glow-brand: 0 24px 60px -20px rgba(124, 77, 255, 0.5);
+
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 12px 30px -8px rgba(0, 0, 0, 0.55);
+  --shadow-lg: 0 26px 60px -16px rgba(0, 0, 0, 0.65);
+
+  --primary-foreground: var(--ink);
+}
+
+/* ==========================================================================
+   Tailwind theme mapping — utilities like bg-brand-500, text-verified,
+   border-flag, bg-surface, etc. all resolve to the tokens above. Kept
+   separate from shadcn's own semantic slots (background/foreground/primary/
+   ...) which are mapped inline in :root above.
+   ========================================================================== */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent-shadcn);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Manifest-native color scale, for direct utility use */
+  --color-brand-900: var(--brand-900);
+  --color-brand-700: var(--brand-700);
+  --color-brand-600: var(--brand-600);
+  --color-brand-500: var(--brand-500);
+  --color-brand-300: var(--brand-300);
+  --color-brand-100: var(--brand-100);
+  --color-verified: var(--verified);
+  --color-verified-strong: var(--verified-strong);
+  --color-verified-soft: var(--verified-soft);
+  --color-flag: var(--flag);
+  --color-flag-strong: var(--flag-strong);
+  --color-flag-soft: var(--flag-soft);
+  --color-amber: var(--amber);
+  --color-amber-strong: var(--amber-strong);
+  --color-amber-soft: var(--amber-soft);
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-paper-line: var(--paper-line);
+  --color-paper-ink: var(--paper-ink);
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-surface-inset: var(--surface-inset);
+  --color-chart-track: var(--chart-track);
+  --color-code-bg: var(--code-bg);
+  --color-code-text: var(--code-text);
+  --color-code-cmt: var(--code-cmt);
+  --color-code-kw: var(--code-kw);
+  --color-code-str: var(--code-str);
+  --color-border-strong: var(--border-strong);
+  --color-border-faint: var(--border-faint);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-text-subtle: var(--text-subtle);
+  --color-text-onbrand: var(--text-onbrand);
+  --color-link: var(--link);
+
+  --font-display: var(--font-display-family);
+  --font-sans: var(--font-sans-family);
+  --font-mono: var(--font-mono-family);
+
+  --radius-sm: var(--r-sm);
+  --radius-md: var(--r-md);
+  --radius-lg: var(--r-lg);
+  --radius-xl: var(--r-xl);
+  --radius-2xl: var(--r-2xl);
+  --radius-pill: var(--r-pill);
+
+  --shadow-glow-brand: var(--glow-brand);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-bg text-text;
+  }
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+  ::selection {
+    background: var(--brand-100);
+    color: var(--brand-900);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Homepage-only drifting language glyphs (é ü ç â ö) -- the hero's ambient,
+   subject-tied signature touch. Ported verbatim from the static site. */
+.hero-glyphs span {
+  position: absolute;
+  font-family: var(--font-display-family);
+  font-weight: 600;
+  color: var(--accent);
+  opacity: 0.07;
+  user-select: none;
+  animation: glyph-float linear infinite;
+}
+@keyframes glyph-float {
+  0% {
+    transform: translateY(20px) rotate(-4deg);
+    opacity: 0;
+  }
+  12% {
+    opacity: 0.09;
+  }
+  88% {
+    opacity: 0.09;
+  }
+  100% {
+    transform: translateY(-20px) rotate(4deg);
+    opacity: 0;
+  }
+}

@@ -1,0 +1,48 @@
+"use client";
+
+import Link from "next/link";
+import { useState } from "react";
+import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
+import { Icon } from "@/components/icon";
+import { sitePages } from "@/lib/data";
+
+export function MobileNav({ active }: { active: string }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <Sheet open={open} onOpenChange={setOpen}>
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        aria-label="Open menu"
+        aria-expanded={open}
+        className="inline-flex h-9 w-9 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text md:hidden"
+      >
+        <Icon name="menu" size={18} />
+      </button>
+      <SheetContent side="right" className="w-72">
+        <SheetHeader>
+          <SheetTitle>Navigate</SheetTitle>
+        </SheetHeader>
+        <nav className="flex flex-col gap-1 px-2" aria-label="Menu">
+          {sitePages.map((p) => {
+            const on = p.slug === active;
+            return (
+              <Link
+                key={p.slug}
+                href={"/" + p.path}
+                onClick={() => setOpen(false)}
+                aria-disabled={p.disabled}
+                className={
+                  "rounded-lg px-3 py-2 text-sm font-medium transition-colors " +
+                  (on ? "bg-brand-100 text-brand-700" : "text-text-muted hover:bg-surface-2 hover:text-text")
+                }
+              >
+                {p.label}
+              </Link>
+            );
+          })}
+        </nav>
+      </SheetContent>
+    </Sheet>
+  );
+}

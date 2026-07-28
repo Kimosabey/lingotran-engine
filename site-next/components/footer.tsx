@@ -1,0 +1,35 @@
+import Link from "next/link";
+import { REPO_URL } from "@/lib/data";
+
+interface FooterProps {
+  brand: string;
+  variant?: "top" | "book";
+  backHref?: string;
+}
+
+export function Footer({ brand, variant = "top", backHref = "/french" }: FooterProps) {
+  const year = new Date(2026, 0).getFullYear();
+  return (
+    <footer className="border-t border-border">
+      <div className="mx-auto flex max-w-(--content-max) flex-col gap-1 px-4 py-6 text-xs text-text-subtle sm:flex-row sm:items-center sm:justify-between sm:px-6">
+        <span>
+          {brand} · <span>{year}</span>
+        </span>
+        {variant === "top" ? (
+          <span>
+            <a href={REPO_URL} target="_blank" rel="noopener" className="text-link hover:underline">
+              GitHub
+            </a>{" "}
+            · Built on the Lingotran brand system
+          </span>
+        ) : (
+          <span>
+            <Link href={backHref} className="text-link hover:underline">
+              ← Back to French
+            </Link>
+          </span>
+        )}
+      </div>
+    </footer>
+  );
+}

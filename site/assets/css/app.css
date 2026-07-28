@@ -188,6 +188,12 @@ html::after{ /* soft aurora orbs, blurred */
 .chart .row .fill.f-cost{background:linear-gradient(90deg,var(--flag),var(--brand-500));}
 .chart .row .v{font-size:var(--text-sm);font-weight:650;color:var(--text);font-variant-numeric:tabular-nums;min-width:56px;text-align:right;}
 .chart .row .v small{color:var(--text-subtle);font-weight:500;margin-left:2px;}
+/* Long-tail "Other (N tags)" row (see barChart() in render.js) — a dashed
+   divider + flat, deemphasized fill visually separates the aggregate from
+   the ranked bars above it. */
+.chart .row.row-other{margin-top:16px;padding-top:11px;border-top:1px dashed var(--border);}
+.chart .row.row-other .k{font-style:italic;}
+.chart .row .fill.fill-other{background:var(--brand-300);}
 @media (max-width:560px){.chart .row{grid-template-columns:92px 1fr auto;}}
 .cost-note{font-size:var(--text-xs);color:var(--text-subtle);margin:-4px 0 10px 142px;}
 @media (max-width:560px){.cost-note{margin-left:104px;}}
