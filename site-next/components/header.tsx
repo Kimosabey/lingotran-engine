@@ -91,23 +91,25 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
               </Link>
             ))}
           </div>
-          <div className="no-scrollbar flex items-center gap-1.5 overflow-x-auto text-xs text-text-subtle">
-            <Link href="/" className="shrink-0 hover:text-text">
-              Home
-            </Link>
-            {trail.map((c, i) => (
-              <span key={i} className="flex shrink-0 items-center gap-1.5">
-                <span aria-hidden="true">/</span>
-                {c.href ? (
-                  <Link href={c.href} className="hover:text-text">
-                    {c.label}
-                  </Link>
-                ) : (
-                  <span className="font-medium text-text">{c.label}</span>
-                )}
-              </span>
-            ))}
-          </div>
+          {trail.length > 0 && (
+            <div className="no-scrollbar flex items-center gap-1.5 overflow-x-auto text-xs text-text-subtle">
+              <Link href="/" className="shrink-0 hover:text-text">
+                Home
+              </Link>
+              {trail.map((c, i) => (
+                <span key={i} className="flex shrink-0 items-center gap-1.5">
+                  <span aria-hidden="true">/</span>
+                  {c.href ? (
+                    <Link href={c.href} className="hover:text-text">
+                      {c.label}
+                    </Link>
+                  ) : (
+                    <span className="font-medium text-text">{c.label}</span>
+                  )}
+                </span>
+              ))}
+            </div>
+          )}
         </div>
       </nav>
     </>
