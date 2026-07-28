@@ -1,4 +1,5 @@
 import { Icon, type IconName } from "@/components/icon";
+import { CountUp } from "@/components/count-up";
 
 export interface KpiCardData {
   num: string | number;
@@ -25,7 +26,7 @@ export function KpiGrid({ cards }: { cards: KpiCardData[] }) {
         >
           <Icon name={c.icon || "grid"} size={18} className={c.verified ? "text-verified-strong" : "text-text-subtle"} />
           <div className={"font-display text-2xl font-medium " + (c.verified ? "text-verified-strong" : "text-text")}>
-            {c.num}
+            <CountUp value={c.num} />
           </div>
           <div className="text-sm font-medium text-text">{c.lab}</div>
           {c.sub && <div className="text-xs text-text-subtle">{c.sub}</div>}
