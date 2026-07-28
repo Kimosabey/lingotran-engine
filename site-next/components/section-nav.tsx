@@ -77,7 +77,7 @@ export function SectionNav({ sections }: { sections: Section[] }) {
           data-target={s.id}
           className={
             "shrink-0 rounded-full px-3 py-1.5 text-xs font-medium transition-colors " +
-            (active === s.id ? "bg-brand-100 text-brand-700" : "text-text-muted hover:bg-surface-2 hover:text-text")
+            (active === s.id ? "bg-brand-100 text-link" : "text-text-muted hover:bg-surface-2 hover:text-text")
           }
         >
           {s.label}

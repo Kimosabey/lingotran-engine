@@ -34,7 +34,7 @@ export function MobileNav({ active }: { active: string }) {
                 aria-disabled={p.disabled}
                 className={
                   "rounded-lg px-3 py-2 text-sm font-medium transition-colors " +
-                  (on ? "bg-brand-100 text-brand-700" : "text-text-muted hover:bg-surface-2 hover:text-text")
+                  (on ? "bg-brand-100 text-link" : "text-text-muted hover:bg-surface-2 hover:text-text")
                 }
               >
                 {p.label}

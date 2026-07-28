@@ -52,7 +52,7 @@ export default function GermanPage() {
       <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
-            <span className="text-xs font-semibold uppercase tracking-[0.08em] text-brand-700">
+            <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">
               Corpus · German
             </span>
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">

@@ -83,7 +83,7 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
                 className={
                   "rounded-full px-3 py-1.5 text-sm font-medium transition-colors " +
                   (p.slug === active
-                    ? "bg-brand-100 text-brand-700"
+                    ? "bg-brand-100 text-link"
                     : "text-text-muted hover:bg-surface-2 hover:text-text")
                 }
               >

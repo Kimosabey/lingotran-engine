@@ -47,7 +47,7 @@ export default function ReferencePage() {
       <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
-            <span className="text-xs font-semibold uppercase tracking-[0.08em] text-brand-700">Reference</span>
+            <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">Reference</span>
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               Conventions &amp; tools
             </h1>
@@ -85,7 +85,7 @@ export default function ReferencePage() {
                     <dl className="grid grid-cols-[auto_1fr] gap-x-3 gap-y-1.5 text-sm">
                       {t.commands.map(([cmd, desc]) => (
                         <Fragment key={cmd}>
-                          <dt className="font-mono text-xs text-brand-700">{cmd}</dt>
+                          <dt className="font-mono text-xs text-link">{cmd}</dt>
                           <dd className="text-text-muted">{desc}</dd>
                         </Fragment>
                       ))}

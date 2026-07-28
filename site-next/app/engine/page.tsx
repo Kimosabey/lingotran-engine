@@ -43,7 +43,7 @@ const SECTIONS = [
 const KIND_LABEL: Record<string, string> = { vision: "vision", text: "text", free: "free" };
 const KIND_ICON: Record<string, IconName> = { vision: "eye", text: "type", free: "cpu" };
 const KIND_BG: Record<string, string> = {
-  vision: "bg-brand-100 text-brand-700",
+  vision: "bg-brand-100 text-link",
   text: "bg-amber-soft text-amber-strong",
   free: "bg-surface-2 text-text-subtle",
 };
@@ -94,7 +94,7 @@ export default function EnginePage() {
       <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
-            <span className="text-xs font-semibold uppercase tracking-[0.08em] text-brand-700">How it works</span>
+            <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">How it works</span>
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               The Engine
             </h1>
@@ -293,7 +293,7 @@ export default function EnginePage() {
             <div className="mt-3 flex flex-col gap-3">
               {o.savers.map(([title, detail], i) => (
                 <div key={title} className="flex gap-3 rounded-xl border border-border bg-surface p-4">
-                  <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-brand-100 font-mono text-xs font-semibold text-brand-700">
+                  <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-brand-100 font-mono text-xs font-semibold text-link">
                     {i + 1}
                   </span>
                   <div>

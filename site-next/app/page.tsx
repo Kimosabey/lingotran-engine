@@ -50,7 +50,7 @@ export default function Home() {
           <div className="relative grid grid-cols-1 gap-10 py-14 lg:grid-cols-[1.1fr_1fr] lg:items-center lg:py-20">
             <HeroGlyphs />
             <div>
-              <span className="text-xs font-semibold uppercase tracking-[0.08em] text-brand-700">
+              <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">
                 Extraction knowledge base
               </span>
               <h1 className="mt-4 font-display text-4xl font-medium leading-[1.08] tracking-tight text-text sm:text-5xl">
@@ -99,7 +99,7 @@ export default function Home() {
                 <strong className="text-text">no text layer</strong>, so content is recovered by
                 Claude-vision transcription of 300-DPI page renders; JavaScript-rendered websites are
                 handled by an adapter-driven extractor. The guiding principle is the same either way —{" "}
-                <span className="font-medium text-brand-700">zero data loss</span>: every heading,
+                <span className="font-medium text-link">zero data loss</span>: every heading,
                 instruction, table, exercise, blank, example, answer key, caption and page number is
                 captured verbatim, then independently verified and repaired until faithful.
               </p>
@@ -204,7 +204,7 @@ export default function Home() {
                     <span
                       className={
                         "inline-flex h-9 w-9 items-center justify-center rounded-lg font-mono text-xs font-semibold " +
-                        (active ? "bg-brand-100 text-brand-700" : "bg-surface-2 text-text-muted")
+                        (active ? "bg-brand-100 text-link" : "bg-surface-2 text-text-muted")
                       }
                     >
                       {l.code}
