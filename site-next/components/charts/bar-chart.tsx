@@ -1,9 +1,8 @@
 "use client";
 
 import { useMemo } from "react";
-import * as echarts from "echarts";
 import type { EChartsOption } from "echarts";
-import { EChart, useChartTokens } from "@/components/echart";
+import { EChart, useChartTokens, useEcharts } from "@/components/echart";
 import type { ChartPoint } from "@/lib/data";
 
 // Horizontal bar rows -- replaces the static site's hand-rolled .bar-row DOM
@@ -43,11 +42,12 @@ export function BarChart({
   valuesArePercent?: boolean;
 }) {
   const tokens = useChartTokens();
+  const echarts = useEcharts();
 
   const rowCount = data.length > COLLAPSE_THRESHOLD ? TOP_N + 1 : data.length;
 
   const option = useMemo<EChartsOption | null>(() => {
-    if (!tokens || !data.length) return null;
+    if (!tokens || !echarts || !data.length) return null;
     // Ascending sort -- ECharts renders a category yAxis bottom-to-top, so
     // the last (largest) entry lands at the top of the chart. Verified
     // visually against the rendered page; do not flip this to descending.
@@ -134,7 +134,7 @@ export function BarChart({
         },
       ],
     };
-  }, [tokens, data, gradient, valuesArePercent]);
+  }, [tokens, echarts, data, gradient, valuesArePercent]);
 
   return <EChart option={option} height={height ?? Math.max(120, rowCount * 28)} ariaLabel="Breakdown chart" />;
 }

@@ -31,7 +31,7 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
   return (
     <>
       <header className="sticky top-0 z-50 border-b border-border bg-surface/90 backdrop-blur">
-        <div className="mx-auto flex h-[60px] max-w-(--content-max) items-center gap-4 px-4 sm:px-6">
+        <div className="mx-auto flex h-(--topbar-h) max-w-(--content-max) items-center gap-4 px-4 sm:px-6">
           <Link href="/" className="flex shrink-0 items-center gap-2">
             <Image
               src="/img/logo-color.png"
@@ -72,7 +72,7 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
           </div>
         </div>
       </header>
-      <nav className="sticky top-[60px] z-40 border-b border-border bg-surface/90 backdrop-blur" aria-label="Primary">
+      <nav className="sticky top-(--topbar-h) z-40 border-b border-border bg-surface/90 backdrop-blur" aria-label="Primary">
         <div className="mx-auto flex h-12 max-w-(--content-max) items-center justify-between gap-4 px-4 sm:px-6">
           <div className="hidden items-center gap-1 md:flex">
             {sitePages.map((p) => (

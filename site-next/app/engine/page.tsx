@@ -80,7 +80,7 @@ export default function EnginePage() {
   return (
     <>
       <Header crumbs={[{ label: "Engine" }]} />
-      <main id="main" className="flex-1">
+      <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
             <span className="text-xs font-semibold uppercase tracking-[0.08em] text-brand-700">How it works</span>

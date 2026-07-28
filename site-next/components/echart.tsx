@@ -1,9 +1,33 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import * as echarts from "echarts";
+import type * as EChartsNS from "echarts";
 import type { EChartsOption } from "echarts";
 import { getChartTokens, type ChartTokens } from "@/lib/chart-tokens";
+
+// ECharts is a large runtime (~1MB) -- loaded on demand via dynamic import
+// instead of a static one, so routes with no charts (e.g. /reference) never
+// pay for it. One shared in-flight promise so every chart on a page (bar,
+// donut, ...) triggers a single fetch, not one each.
+let echartsModulePromise: Promise<typeof EChartsNS> | null = null;
+function loadEcharts(): Promise<typeof EChartsNS> {
+  if (!echartsModulePromise) echartsModulePromise = import("echarts");
+  return echartsModulePromise;
+}
+
+export function useEcharts(): typeof EChartsNS | null {
+  const [mod, setMod] = useState<typeof EChartsNS | null>(null);
+  useEffect(() => {
+    let cancelled = false;
+    loadEcharts().then((m) => {
+      if (!cancelled) setMod(m);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+  return mod;
+}
 
 // Reactive chart-token palette -- recomputed on mount and whenever the
 // theme toggle fires `lt:themechange` (see ThemeToggle), so every chart
@@ -43,12 +67,13 @@ export function EChart({
   ariaLabel?: string;
 }) {
   const ref = useRef<HTMLDivElement>(null);
-  const chartRef = useRef<echarts.ECharts | null>(null);
+  const chartRef = useRef<EChartsNS.ECharts | null>(null);
   const optionRef = useRef(option);
+  const echartsMod = useEcharts();
 
   useEffect(() => {
     const el = ref.current;
-    if (!el) return;
+    if (!el || !echartsMod) return;
 
     // Defer init until the container actually has a size -- calling
     // echarts.init() into a still-0x0 box (e.g. a grid cell whose size
@@ -59,7 +84,7 @@ export function EChart({
       if (disposed) return;
       if (!chartRef.current) {
         if (el.clientWidth === 0 || el.clientHeight === 0) return;
-        chartRef.current = echarts.init(el);
+        chartRef.current = echartsMod.init(el);
         if (optionRef.current) chartRef.current.setOption(optionRef.current, true);
       } else {
         chartRef.current.resize();
@@ -73,7 +98,7 @@ export function EChart({
       chartRef.current?.dispose();
       chartRef.current = null;
     };
-  }, []);
+  }, [echartsMod]);
 
   useEffect(() => {
     optionRef.current = option;

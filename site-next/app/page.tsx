@@ -44,7 +44,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main id="main" className="flex-1">
+      <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           {/* Hero */}
           <div className="relative grid grid-cols-1 gap-10 py-14 lg:grid-cols-[1.1fr_1fr] lg:items-center lg:py-20">
