@@ -68,7 +68,7 @@ export function SectionNav({ sections }: { sections: Section[] }) {
     <div className="sticky top-[calc(var(--topbar-h)+var(--appbar-h))] z-30 -mx-4 sm:mx-0">
       <nav
         ref={navRef}
-        className="flex gap-1 overflow-x-auto border-b border-border bg-bg/95 px-4 py-2 backdrop-blur sm:px-0"
+        className="no-scrollbar flex gap-1 overflow-x-auto border-b border-border bg-bg/95 px-4 py-2 backdrop-blur sm:px-0"
         aria-label="On this page"
       >
         {sections.map((s) => (

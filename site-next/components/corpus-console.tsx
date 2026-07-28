@@ -162,7 +162,7 @@ export function CorpusConsole() {
       ) : (
         <>
           {/* Desktop/tablet: sticky-header table. */}
-          <div className="hidden overflow-x-auto rounded-2xl border border-border bg-surface sm:block">
+          <div className="no-scrollbar hidden overflow-x-auto rounded-2xl border border-border bg-surface sm:block">
             <table className="w-full min-w-[720px] border-collapse text-sm">
               <thead>
                 <tr className="border-b border-border text-left text-xs font-medium uppercase tracking-wide text-text-subtle">

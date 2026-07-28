@@ -91,7 +91,7 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
               </Link>
             ))}
           </div>
-          <div className="flex items-center gap-1.5 overflow-x-auto text-xs text-text-subtle">
+          <div className="no-scrollbar flex items-center gap-1.5 overflow-x-auto text-xs text-text-subtle">
             <Link href="/" className="shrink-0 hover:text-text">
               Home
             </Link>

@@ -127,7 +127,7 @@ export default function EnginePage() {
               tabIndex={0}
               role="region"
               aria-label="Pipeline flow diagram, scrollable horizontally"
-              className="overflow-x-auto rounded-2xl border border-border bg-surface p-6"
+              className="no-scrollbar overflow-x-auto rounded-2xl border border-border bg-surface p-6"
             >
               <div className="flex min-w-max items-center gap-1">
                 {o.flow.map((step, i) => (

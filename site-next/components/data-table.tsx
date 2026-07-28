@@ -12,7 +12,7 @@ export function DataTable({
 }) {
   const cols = columns.map((c) => (typeof c === "string" ? { label: c } : c));
   return (
-    <div className="overflow-x-auto rounded-xl border border-border">
+    <div className="no-scrollbar overflow-x-auto rounded-xl border border-border">
       <table className="w-full min-w-[480px] border-collapse text-sm">
         <thead>
           <tr className="border-b border-border bg-surface-2 text-left text-xs font-medium uppercase tracking-wide text-text-subtle">
