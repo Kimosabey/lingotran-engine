@@ -497,3 +497,55 @@ html::-webkit-scrollbar {
     opacity: 0;
   }
 }
+
+/* FidelityCard (hero signature) -- the scan specimen gets a faint print/scan
+   grain and a dog-eared corner so it reads as a physical artifact rather
+   than a flat UI rectangle; the data readout stages in as if each field is
+   being verified in turn, ending on the "Verified" badge. */
+.paper-grain::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.4) 0.5px, transparent 0.5px);
+  background-size: 3px 3px;
+  opacity: 0.12;
+  pointer-events: none;
+}
+.paper-fold::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 16px;
+  height: 16px;
+  background: linear-gradient(135deg, transparent 50%, var(--paper-2) 50%);
+  border-bottom-left-radius: 3px;
+  box-shadow: -1px 1px 2px rgba(20, 16, 30, 0.08);
+  pointer-events: none;
+}
+@keyframes fidelity-row-in {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fidelity-badge-in {
+  from {
+    opacity: 0;
+    transform: scale(0.75);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.fidelity-row {
+  animation: fidelity-row-in var(--dur-3) var(--ease-out) both;
+}
+.fidelity-badge {
+  animation: fidelity-badge-in var(--dur-3) var(--ease-spring) both;
+}
