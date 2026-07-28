@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     siteName: DEFAULT_TITLE,
     type: "website",
     locale: "en_US",
-    images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+    images: [{ url: "/img/logo-color.png", width: 1819, height: 571, alt: "Lingotran" }],
   },
   twitter: {
     card: "summary",

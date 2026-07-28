@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       description,
       url: `/french/${slug}`,
       type: "article",
-      images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+      images: [{ url: "/img/logo-color.png", width: 1819, height: 571, alt: "Lingotran" }],
     },
     twitter: { card: "summary", title, description, images: ["/img/logo-color.png"] },
   };

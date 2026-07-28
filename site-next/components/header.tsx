@@ -36,17 +36,17 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
             <Image
               src="/img/logo-color.png"
               alt="Lingotran"
-              width={118}
+              width={80}
               height={25}
-              className="block h-[25px] w-[118px] dark:hidden"
+              className="block h-[25px] w-[80px] dark:hidden"
               priority
             />
             <Image
               src="/img/logo-white.png"
               alt="Lingotran"
-              width={118}
+              width={80}
               height={25}
-              className="hidden h-[25px] w-[118px] dark:block"
+              className="hidden h-[25px] w-[80px] dark:block"
               priority
             />
             <span className="hidden text-xs font-medium uppercase tracking-[0.08em] text-text-subtle sm:inline">

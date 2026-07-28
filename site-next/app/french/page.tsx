@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     description: DESCRIPTION,
     url: "/french",
     type: "website",
-    images: [{ url: "/img/logo-color.png", width: 118, height: 25, alt: "Lingotran" }],
+    images: [{ url: "/img/logo-color.png", width: 1819, height: 571, alt: "Lingotran" }],
   },
   twitter: { card: "summary", title: TITLE, description: DESCRIPTION, images: ["/img/logo-color.png"] },
 };
