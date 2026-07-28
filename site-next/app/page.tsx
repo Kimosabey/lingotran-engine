@@ -204,13 +204,13 @@ export default function Home() {
                     <span
                       className={
                         "inline-flex h-9 w-9 items-center justify-center rounded-lg font-mono text-xs font-semibold " +
-                        (active ? "bg-brand-100 text-brand-700" : "bg-surface-2 text-text-subtle")
+                        (active ? "bg-brand-100 text-brand-700" : "bg-surface-2 text-text-muted")
                       }
                     >
                       {l.code}
                     </span>
                     <h3 className="mt-3 font-display text-lg text-text">{l.name}</h3>
-                    <p className="mt-1 text-sm text-text-subtle">
+                    <p className="mt-1 text-sm text-text-muted">
                       {active ? l.meta || `${l.books} books · ${l.spreads} spreads` : "Planned target"}
                     </p>
                     <div className="mt-4 flex items-center justify-between">
@@ -220,8 +220,8 @@ export default function Home() {
                           active
                         </span>
                       ) : (
-                        <span className="inline-flex items-center gap-1.5 rounded-full bg-surface-2 px-2.5 py-1 text-xs font-medium text-text-subtle">
-                          <span className="h-1.5 w-1.5 rounded-full bg-text-subtle" />
+                        <span className="inline-flex items-center gap-1.5 rounded-full bg-surface-2 px-2.5 py-1 text-xs font-medium text-text-muted">
+                          <span className="h-1.5 w-1.5 rounded-full bg-text-muted" />
                           planned
                         </span>
                       )}
@@ -243,7 +243,7 @@ export default function Home() {
                     {content}
                   </Link>
                 ) : (
-                  <div key={l.slug} className="rounded-2xl border border-border-faint bg-surface-inset p-5 opacity-70">
+                  <div key={l.slug} className="rounded-2xl border border-border-faint bg-surface-inset p-5">
                     {content}
                   </div>
                 );
@@ -262,7 +262,7 @@ export default function Home() {
               <Icon name="layers" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
               <div>
                 <b>Want the full pipeline?</b> The{" "}
-                <Link href="/engine" className="text-link hover:underline">
+                <Link href="/engine" className="text-link underline underline-offset-2">
                   Engine page
                 </Link>{" "}
                 covers every layer, the model tiers, the cost breakdown, and the exact prompts used at each

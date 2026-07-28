@@ -32,7 +32,7 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
     <>
       <header className="sticky top-0 z-50 border-b border-border bg-surface/90 backdrop-blur">
         <div className="mx-auto flex h-[60px] max-w-(--content-max) items-center gap-4 px-4 sm:px-6">
-          <Link href="/" aria-label="Lingotran — home" className="flex shrink-0 items-center gap-2">
+          <Link href="/" className="flex shrink-0 items-center gap-2">
             <Image
               src="/img/logo-color.png"
               alt="Lingotran"

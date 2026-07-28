@@ -25,7 +25,10 @@ export function CodeBlock({ label, code }: { label: string; code: string }) {
           {copied ? "Copied ✓" : "Copy"}
         </button>
       </div>
-      <pre className="max-h-[420px] overflow-auto whitespace-pre-wrap break-words p-4 font-mono text-xs leading-relaxed">
+      <pre
+        tabIndex={0}
+        className="max-h-[420px] overflow-auto whitespace-pre-wrap break-words p-4 font-mono text-xs leading-relaxed"
+      >
         {code}
       </pre>
     </div>

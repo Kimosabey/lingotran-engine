@@ -171,7 +171,9 @@ export function CorpusConsole() {
                   <th className="px-4 py-3 text-right">Pages</th>
                   <th className="px-4 py-3">QA progress</th>
                   <th className="px-4 py-3">Status</th>
-                  <th className="w-9 px-2 py-3" />
+                  <th className="w-9 px-2 py-3">
+                    <span className="sr-only">Expand row details</span>
+                  </th>
                 </tr>
               </thead>
               <tbody>

@@ -202,7 +202,7 @@ export default function GermanPage() {
               <Icon name="layers" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
               <div>
                 Want the layer-by-layer detail? The{" "}
-                <a href="/engine" className="text-link hover:underline">
+                <a href="/engine" className="text-link underline underline-offset-2">
                   Engine page
                 </a>{" "}
                 covers every layer, the model tiers, and the cost breakdown for the full pipeline (both

@@ -112,7 +112,12 @@ export default function EnginePage() {
             title="One page, end to end"
             lead="Work moves left to right. Each step writes a file the next step reads, so any step re-runs on its own and the whole job resumes after an interruption."
           >
-            <div className="overflow-x-auto rounded-2xl border border-border bg-surface p-6">
+            <div
+              tabIndex={0}
+              role="region"
+              aria-label="Pipeline flow diagram, scrollable horizontally"
+              className="overflow-x-auto rounded-2xl border border-border bg-surface p-6"
+            >
               <div className="flex min-w-max items-center gap-1">
                 {o.flow.map((step, i) => (
                   <div key={step.title} className="flex items-center gap-1">
@@ -125,7 +130,7 @@ export default function EnginePage() {
                     >
                       <Icon name={step.icon as IconName} size={20} />
                       <span className="text-xs font-semibold">{step.title}</span>
-                      <span className="text-[10px] opacity-80">{step.sub}</span>
+                      <span className="text-[10px]">{step.sub}</span>
                     </div>
                   </div>
                 ))}
