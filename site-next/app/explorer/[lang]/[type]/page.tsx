@@ -124,7 +124,10 @@ export default async function ExplorerPage({
 
   return (
     <>
-      <Header crumbs={[{ label: "Explorer", href: "/explorer/french/catalog" }, { label: LANG_LABEL[lang] }]} />
+      <Header
+        wide
+        crumbs={[{ label: "Explorer", href: "/explorer/french/catalog" }, { label: LANG_LABEL[lang] }]}
+      />
       <main
         id="main"
         tabIndex={-1}
@@ -187,7 +190,7 @@ export default async function ExplorerPage({
           </div>
         </div>
       </main>
-      <Footer brand="Lingotran Engine · Extraction Knowledge Base" />
+      <Footer wide brand="Lingotran Engine · Extraction Knowledge Base" />
     </>
   );
 }

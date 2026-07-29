@@ -21,17 +21,18 @@ export interface Crumb {
   href?: string;
 }
 
-export function Header({ crumbs }: { crumbs?: Crumb[] }) {
+export function Header({ crumbs, wide }: { crumbs?: Crumb[]; wide?: boolean }) {
   const pathname = usePathname();
   const active = activeSlugFor(pathname);
   const activePage = sitePages.find((p) => p.slug === active);
   const defaultCrumbs: Crumb[] = activePage && active !== "dashboard" ? [{ label: activePage.label }] : [];
   const trail = crumbs ?? defaultCrumbs;
+  const maxW = wide ? "max-w-(--content-max-wide)" : "max-w-(--content-max)";
 
   return (
     <>
       <header className="sticky top-0 z-50 border-b border-border bg-surface/90 backdrop-blur">
-        <div className="mx-auto flex h-(--topbar-h) max-w-(--content-max) items-center gap-4 px-4 sm:px-6">
+        <div className={"mx-auto flex h-(--topbar-h) items-center gap-4 px-4 sm:px-6 " + maxW}>
           <Link href="/" className="flex shrink-0 items-center gap-2">
             <Image
               src="/img/logo-color.png"
@@ -73,7 +74,7 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
         </div>
       </header>
       <nav className="sticky top-(--topbar-h) z-40 border-b border-border bg-surface/90 backdrop-blur" aria-label="Primary">
-        <div className="mx-auto flex h-12 max-w-(--content-max) items-center justify-between gap-4 px-4 sm:px-6">
+        <div className={"mx-auto flex h-12 items-center justify-between gap-4 px-4 sm:px-6 " + maxW}>
           <div className="hidden items-center gap-1 md:flex">
             {sitePages.map((p) => (
               <Link
