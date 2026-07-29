@@ -24,7 +24,7 @@ export function FidelityCard() {
   return (
     <div
       aria-hidden="true"
-      className="group relative flex flex-col gap-3 rounded-2xl border border-border bg-surface p-5 shadow-lg sm:flex-row sm:items-center"
+      className="glow-border-hover group relative flex flex-col gap-3 rounded-2xl border border-border bg-surface p-5 shadow-lg sm:flex-row sm:items-center"
     >
       <span className="fidelity-badge absolute -top-3 left-5 inline-flex items-center gap-1.5 rounded-full bg-verified-badge px-3 py-1 text-xs font-semibold text-white shadow-sm" style={{ animationDelay: `${BADGE_DELAY_MS}ms` }}>
         <Icon name="checkSeal" size={13} />

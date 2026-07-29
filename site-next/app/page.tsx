@@ -74,7 +74,7 @@ export default function Home() {
               <div className="mt-8 flex flex-wrap gap-3">
                 <Link
                   href="#corpus"
-                  className="inline-flex h-10 items-center rounded-full bg-brand-700 px-5 text-sm font-medium text-white transition-colors hover:bg-brand-900"
+                  className="glow-border-hover inline-flex h-10 items-center rounded-full bg-brand-700 px-5 text-sm font-medium text-white transition-colors hover:bg-brand-900"
                 >
                   Explore the corpus
                 </Link>
