@@ -4,7 +4,6 @@ import { notFound } from "next/navigation";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { CsvExplorerTable } from "@/components/csv-explorer-table";
-import { KpiGrid, type KpiCardData } from "@/components/kpi-card";
 import { loadCsv } from "@/lib/csv-data";
 import {
   EXPLORER_LANGS,
@@ -48,41 +47,6 @@ const PRIMARY_COLUMNS: Record<ExplorerType, string[]> = {
   questions: ["collection", "section", "item_type", "question", "correct_answer"],
   vocabulary: ["collection", "word", "article", "topic"],
 };
-
-function computeStats(type: ExplorerType, rows: Record<string, string>[]): KpiCardData[] {
-  const total = rows.length;
-  const collections = new Set(rows.map((r) => r.collection)).size;
-  if (type === "catalog") {
-    const verified = rows.filter((r) => r.qa === "pass").length;
-    return [
-      { num: total, lab: "Rows", icon: "doc" },
-      { num: collections, lab: "Collections", icon: "layers" },
-      { num: `${Math.round((verified / total) * 100)}%`, lab: "QA pass rate", icon: "checkSeal", verified: true },
-      { num: new Set(rows.map((r) => r.activity_type)).size, lab: "Activity types", icon: "grid" },
-    ];
-  }
-  if (type === "questions") {
-    const withAnswer = rows.filter((r) => r.correct_answer).length;
-    return [
-      { num: total, lab: "Rows", icon: "doc" },
-      { num: collections, lab: "Collections", icon: "layers" },
-      {
-        num: `${Math.round((withAnswer / total) * 100)}%`,
-        lab: "With answer key",
-        icon: "checkSeal",
-        verified: true,
-      },
-      { num: new Set(rows.map((r) => r.item_type)).size, lab: "Item types", icon: "grid" },
-    ];
-  }
-  const withExample = rows.filter((r) => r.example).length;
-  return [
-    { num: total, lab: "Rows", icon: "doc" },
-    { num: collections, lab: "Collections", icon: "layers" },
-    { num: `${Math.round((withExample / total) * 100)}%`, lab: "With example", icon: "checkSeal", verified: true },
-    { num: new Set(rows.map((r) => r.topic)).size, lab: "Topics", icon: "grid" },
-  ];
-}
 
 export function generateStaticParams() {
   return EXPLORER_LANGS.flatMap((lang) => EXPLORER_TYPES.map((type) => ({ lang, type })));
@@ -171,12 +135,9 @@ export default async function ExplorerPage({
             <span className="text-xs text-text-subtle">{columns.length} columns</span>
           </div>
 
-          <div className="mb-6">
-            <KpiGrid cards={computeStats(type, rows)} />
-          </div>
-
           <div className="pb-16">
             <CsvExplorerTable
+              type={type}
               columns={columns}
               rows={rows}
               downloadHref={publicCsvHref(lang, type)}

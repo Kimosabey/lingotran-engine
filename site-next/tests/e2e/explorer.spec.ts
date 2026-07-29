@@ -43,6 +43,49 @@ test.describe("CSV Data Explorer", () => {
     expect(count).not.toContain("584 of 584");
   });
 
+  test("KPI stat cards update to reflect the currently filtered rows", async ({ page }) => {
+    // Regression test: stats used to be computed server-side from the full
+    // unfiltered dataset and never changed no matter what you filtered --
+    // a "584 rows" card sitting above a table filtered down to 335 rows.
+    await page.goto("/explorer/french/catalog");
+    await page.waitForLoadState("networkidle");
+    await page.waitForTimeout(300);
+    const rowsCard = page.getByText("Rows", { exact: true }).locator("..");
+    const before = await rowsCard.locator("div").first().textContent();
+
+    await page.getByRole("combobox", { name: "Filter by Level", exact: true }).click();
+    await page.getByRole("option", { name: "A1", exact: true }).click();
+    await page.waitForTimeout(1200); // CountUp animates the card's number over 900ms
+
+    const tableCount = await page.locator("text=/\\d+ of \\d+ rows/").first().textContent();
+    const n = parseInt(tableCount!.match(/(\d+) of/)![1], 10);
+    const after = await rowsCard.locator("div").first().textContent();
+
+    expect(after).not.toBe(before);
+    expect(parseInt(after!, 10)).toBe(n);
+  });
+
+  test("quick-filter dropdown matches the exact value, not a substring of it", async ({ page }) => {
+    // Regression test: "level" has values like "A2", "A2 (inferred)", and
+    // "A2+B1" where one is a literal substring of the others. The default
+    // TanStack filterFn (includesString) let picking "A2" also match rows
+    // whose level was "A2 (inferred)" or "A2+B1" -- silently over-including
+    // rows instead of narrowing to just the chosen value.
+    await page.goto("/explorer/french/catalog");
+    await page.waitForLoadState("networkidle");
+    await page.getByRole("combobox", { name: "Filter by Level", exact: true }).click();
+    await page.getByRole("option", { name: "A2", exact: true }).click();
+    await page.waitForTimeout(300);
+    // Every visible row's Level cell must read exactly "A2", never a
+    // longer value that merely contains "A2" as a substring.
+    const levelCells = page.locator("tbody tr td:nth-child(4)");
+    const count = await levelCells.count();
+    expect(count).toBeGreaterThan(0);
+    for (let i = 0; i < count; i++) {
+      await expect(levelCells.nth(i)).toHaveText("A2");
+    }
+  });
+
   test("sortable column header changes row order", async ({ page }) => {
     await page.goto("/explorer/french/vocabulary");
     await page.waitForLoadState("networkidle");

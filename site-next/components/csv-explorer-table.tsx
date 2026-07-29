@@ -20,12 +20,48 @@ import autoTable from "jspdf-autotable";
 import { Icon } from "@/components/icon";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { CsvRowDetailDialog } from "@/components/csv-row-detail-dialog";
-import { humanizeColumn } from "@/lib/csv-explorer-shared";
+import { KpiGrid, type KpiCardData } from "@/components/kpi-card";
+import { humanizeColumn, type ExplorerType } from "@/lib/csv-explorer-shared";
 
 const ALL_VALUE = "__all__";
 
 const PDF_ROW_CAP = 500;
 const PAGE_SIZE = 50;
+
+// Computed from whatever rows are CURRENTLY visible (post search + quick
+// filters), not the full dataset -- otherwise these numbers silently stop
+// meaning anything the moment you filter (a "584 rows" card sitting above a
+// table you've filtered down to 12 rows reads as broken, not "corpus-wide").
+function computeStats(type: ExplorerType, rows: Record<string, string>[]): KpiCardData[] {
+  const total = rows.length;
+  const collections = new Set(rows.map((r) => r.collection)).size;
+  const pct = (n: number) => (total === 0 ? "—" : `${Math.round((n / total) * 100)}%`);
+  if (type === "catalog") {
+    const verified = rows.filter((r) => r.qa === "pass").length;
+    return [
+      { num: total, lab: "Rows", icon: "doc" },
+      { num: collections, lab: "Collections", icon: "layers" },
+      { num: pct(verified), lab: "QA pass rate", icon: "checkSeal", verified: true },
+      { num: new Set(rows.map((r) => r.activity_type)).size, lab: "Activity types", icon: "grid" },
+    ];
+  }
+  if (type === "questions") {
+    const withAnswer = rows.filter((r) => r.correct_answer).length;
+    return [
+      { num: total, lab: "Rows", icon: "doc" },
+      { num: collections, lab: "Collections", icon: "layers" },
+      { num: pct(withAnswer), lab: "With answer key", icon: "checkSeal", verified: true },
+      { num: new Set(rows.map((r) => r.item_type)).size, lab: "Item types", icon: "grid" },
+    ];
+  }
+  const withExample = rows.filter((r) => r.example).length;
+  return [
+    { num: total, lab: "Rows", icon: "doc" },
+    { num: collections, lab: "Collections", icon: "layers" },
+    { num: pct(withExample), lab: "With example", icon: "checkSeal", verified: true },
+    { num: new Set(rows.map((r) => r.topic)).size, lab: "Topics", icon: "grid" },
+  ];
+}
 
 // Left-edge accent color by row status -- reuses the exact accent-bar
 // pattern already shipped on the appbar/mobile-nav active state, driven by
@@ -56,6 +92,7 @@ function download(blob: Blob, filename: string) {
 }
 
 export function CsvExplorerTable({
+  type,
   columns: rawColumns,
   rows,
   downloadHref,
@@ -63,6 +100,7 @@ export function CsvExplorerTable({
   quickFilterColumns = [],
   primaryColumns,
 }: {
+  type: ExplorerType;
   columns: string[];
   rows: Record<string, string>[];
   downloadHref: string;
@@ -85,6 +123,13 @@ export function CsvExplorerTable({
       rawColumns.map((key) => ({
         accessorKey: key,
         header: humanizeColumn(key),
+        // Quick filters pick one exact value from a closed dropdown list, so
+        // column filtering must be exact-match -- the default (includesString,
+        // substring) made picking "A2" also match "A2 (inferred)" and
+        // "A2+B1", silently over-including rows instead of narrowing to just
+        // the chosen value. Global search (the free-text box) is unaffected:
+        // it uses its own separate globalFilterFn, not this per-column one.
+        filterFn: "equalsString",
         cell: (info) => {
           const v = info.getValue<string>();
           return v || <span className="text-text-subtle">—</span>;
@@ -115,6 +160,11 @@ export function CsvExplorerTable({
   });
 
   const filteredRows = table.getFilteredRowModel().rows;
+
+  const statCards = useMemo(
+    () => computeStats(type, filteredRows.map((r) => r.original)),
+    [type, filteredRows]
+  );
 
   // Quick-filter dropdown options are the real distinct values in each
   // column (computed from the full dataset, not the currently-filtered
@@ -164,6 +214,8 @@ export function CsvExplorerTable({
 
   return (
     <div className="flex flex-col gap-4">
+      <KpiGrid cards={statCards} />
+
       <div className="flex flex-wrap items-center gap-2">
         <div className="flex h-9 min-w-[220px] flex-1 items-center gap-2 rounded-full border border-border bg-surface px-3">
           <Icon name="search" size={15} className="text-text-subtle" />
