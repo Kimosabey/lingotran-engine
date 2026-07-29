@@ -43,6 +43,9 @@ french/extracted/*/images/
 french/extracted/_tools/*.png
 *.png
 !site/assets/img/*.png
+!site-next/public/img/*.png
+!site-next/app/icon.png
+!site-next/app/apple-icon.png
 
 # German raw source materials (officially-published PDFs/audio) — structure
 # and READMEs are tracked, the binaries themselves are not.

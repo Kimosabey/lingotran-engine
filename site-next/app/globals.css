@@ -459,8 +459,14 @@
    content) -- this is lighting, not a repeating decorative pattern, and
    stays well clear of the confined paper motif reserved for the scan
    card. Both brand + verified are already the site's two signal colors;
-   this just extends them from "badges/fills" to "the room itself". */
-body {
+   this just extends them from "badges/fills" to "the room itself".
+   Scoped to `main` (present on every page, starts below the sticky
+   header) rather than `body` -- the header is a translucent
+   backdrop-blur surface, and painting this behind it too shifted its
+   effective composited color enough to fail contrast in WebKit. `main`
+   starts below the header in normal flow, so nothing paints behind it
+   regardless of scroll position. */
+main {
   background-image: radial-gradient(ellipse 900px 500px at 12% -10%, color-mix(in srgb, var(--brand-500) 10%, transparent), transparent 60%),
     radial-gradient(ellipse 700px 480px at 100% 10%, color-mix(in srgb, var(--verified) 7%, transparent), transparent 55%);
   background-repeat: no-repeat;

@@ -29,13 +29,10 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: DEFAULT_TITLE,
   description: DEFAULT_DESCRIPTION,
-  icons: {
-    icon: [
-      { url: "/favicon.ico", sizes: "any" },
-      { url: "/img/icon.png", type: "image/png", sizes: "512x512" },
-    ],
-    apple: "/img/icon.png",
-  },
+  // Favicon/apple-touch-icon are served via the app/icon.png + app/apple-icon.png
+  // file-convention (Next.js auto-generates the <link> tags) rather than this
+  // field -- keeps a single source of truth instead of a manual icons block
+  // that could drift out of sync with the actual files on disk.
   openGraph: {
     title: DEFAULT_TITLE,
     description: DEFAULT_DESCRIPTION,

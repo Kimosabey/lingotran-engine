@@ -18,6 +18,14 @@ test.describe("Automated WCAG scan (axe-core)", () => {
       expect(lightSevere, JSON.stringify(lightSevere, null, 2)).toEqual([]);
 
       await page.evaluate(() => document.documentElement.setAttribute("data-theme", "dark"));
+      // Same reasoning as the light-mode wait above: several components use
+      // transition-colors/transition-all for their own hover states, and
+      // toggling data-theme changes the CSS custom properties those
+      // transitions are watching, so colors briefly interpolate rather than
+      // snapping. Scanning immediately can sample a genuinely mid-flight,
+      // neither-light-nor-dark color -- a false positive, not a real
+      // accessibility bug (no real user perceives contrast mid-transition).
+      await page.waitForTimeout(650);
       const dark = await new AxeBuilder({ page })
         .withTags(["wcag2a", "wcag2aa", "wcag21a", "wcag21aa"])
         .analyze();

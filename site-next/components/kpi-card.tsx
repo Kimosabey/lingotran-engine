@@ -20,7 +20,7 @@ export function KpiGrid({ cards }: { cards: KpiCardData[] }) {
         <div
           key={i}
           className={
-            "flex flex-col gap-2 rounded-2xl border p-5 shadow-sm transition-all duration-(--dur-3) hover:-translate-y-0.5 hover:shadow-md " +
+            "flex flex-col gap-2 rounded-2xl border p-5 shadow-sm transition-[transform,box-shadow] duration-(--dur-3) hover:-translate-y-0.5 hover:shadow-md " +
             (c.verified ? "border-verified-strong/20 bg-verified-soft" : "border-border bg-surface")
           }
         >
