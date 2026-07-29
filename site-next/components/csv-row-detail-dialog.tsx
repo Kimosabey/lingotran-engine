@@ -17,6 +17,8 @@ const FEATURED_KEYS = new Set([
   "example",
   "title",
   "summary",
+  "item_type",
+  "section",
 ]);
 
 export function CsvRowDetailDialog({
@@ -40,6 +42,29 @@ export function CsvRowDetailDialog({
           <DialogTitle className="font-display text-lg">{data.collection || "Row detail"}</DialogTitle>
           {data.source_page && <DialogDescription>Source page {data.source_page}</DialogDescription>}
         </DialogHeader>
+
+        {(data.item_type || data.section) && (
+          <div className="flex flex-wrap items-center gap-1.5">
+            {data.item_type && (
+              <span
+                className={
+                  "inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-medium " +
+                  (data.correct_answer
+                    ? "bg-verified-soft text-verified-strong"
+                    : "bg-amber-soft text-amber-strong")
+                }
+              >
+                {data.correct_answer && <Icon name="checkSeal" size={12} />}
+                {data.item_type}
+              </span>
+            )}
+            {data.section && (
+              <span className="inline-flex items-center rounded-full border border-border-strong px-2.5 py-1 text-xs font-medium text-text-muted">
+                {data.section}
+              </span>
+            )}
+          </div>
+        )}
 
         {isQuestion && (
           <div className="flex flex-col gap-3">
