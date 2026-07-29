@@ -3,6 +3,7 @@
 import { useMemo } from "react";
 import type { EChartsOption } from "echarts";
 import { EChart, useChartTokens } from "@/components/echart";
+import { CountUp } from "@/components/count-up";
 
 // Replaces the static site's two duplicate hand-rolled CSS-conic donuts
 // (render.js's qaDonut() and corpus.js's drawMiniDonut()) with one real
@@ -54,13 +55,17 @@ export function QaDonut({
       <EChart option={option} height={dim} ariaLabel={`${label}: ${pct}%, ${pass} of ${total}`} />
       {size === "md" && (
         <div className="pointer-events-none absolute inset-0 flex flex-col items-center justify-center">
-          <span className="font-display text-2xl font-medium text-text">{pct}%</span>
+          <span className="font-display text-2xl font-medium text-text">
+            <CountUp value={`${pct}%`} />
+          </span>
           <span className="text-[11px] text-text-subtle">{label}</span>
         </div>
       )}
       {size === "detail" && (
         <div className="pointer-events-none absolute inset-0 flex flex-col items-center justify-center">
-          <span className="text-lg font-semibold text-text">{pct}%</span>
+          <span className="text-lg font-semibold text-text">
+            <CountUp value={`${pct}%`} />
+          </span>
           <span className="text-[10px] text-text-subtle">clean</span>
         </div>
       )}

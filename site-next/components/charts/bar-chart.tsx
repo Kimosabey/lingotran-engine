@@ -120,6 +120,15 @@ export function BarChart({
           ),
           barMaxWidth: 18,
           itemStyle: { color: fill, borderRadius: [0, 4, 4, 0] },
+          // Explicit on-brand hover glow -- without this, ECharts' default
+          // emphasis style (a generic lighten/highlight overlay) fights the
+          // brand gradient fill instead of reinforcing it.
+          emphasis: {
+            itemStyle: {
+              shadowBlur: 10,
+              shadowColor: gradient === "cost" ? tokens.flag : tokens.brand500,
+            },
+          },
           label: {
             show: true,
             position: "right",

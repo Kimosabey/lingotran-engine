@@ -36,11 +36,23 @@ export function ThemeToggle() {
       aria-label="Toggle light or dark theme"
       className="inline-flex h-9 w-9 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
     >
-      <span className={theme === "dark" ? "hidden" : "inline-flex"}>
-        <Icon name="sun" size={18} />
-      </span>
-      <span className={theme === "dark" ? "inline-flex" : "hidden"}>
-        <Icon name="moon" size={18} />
+      <span className="relative inline-flex h-[18px] w-[18px] items-center justify-center">
+        <Icon
+          name="sun"
+          size={18}
+          className={
+            "absolute transition-[opacity,rotate] duration-(--dur-3) ease-out " +
+            (theme === "dark" ? "rotate-90 opacity-0" : "rotate-0 opacity-100")
+          }
+        />
+        <Icon
+          name="moon"
+          size={18}
+          className={
+            "absolute transition-[opacity,rotate] duration-(--dur-3) ease-out " +
+            (theme === "dark" ? "rotate-0 opacity-100" : "-rotate-90 opacity-0")
+          }
+        />
       </span>
     </button>
   );
