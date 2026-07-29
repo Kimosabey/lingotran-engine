@@ -6,6 +6,7 @@ import { SectionNav } from "@/components/section-nav";
 import { Chip } from "@/components/chip";
 import { Icon, type IconName } from "@/components/icon";
 import { KpiGrid, type KpiCardData } from "@/components/kpi-card";
+import { FlowDiagram } from "@/components/flow-diagram";
 import { CodeBlock } from "@/components/code-block";
 import { CostDonut } from "@/components/charts/cost-donut";
 import { BarChart } from "@/components/charts/bar-chart";
@@ -62,7 +63,12 @@ function TierPill({ kind }: { kind: string }) {
 function NumberedRow({ n, title, pill, children }: { n: number | string; title: React.ReactNode; pill?: string; children: React.ReactNode }) {
   return (
     <div className="flex gap-4 border-b border-border-faint py-3.5 last:border-0">
-      <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-surface-2 font-mono text-xs text-text-subtle">
+      <span
+        className={
+          "flex h-7 w-7 shrink-0 items-center justify-center rounded-full font-mono text-xs " +
+          (pill && KIND_BG[pill] ? KIND_BG[pill] : "bg-surface-2 text-text-subtle")
+        }
+      >
         {n}
       </span>
       <div className="min-w-0 flex-1">
@@ -133,23 +139,7 @@ export default function EnginePage() {
               aria-label="Pipeline flow diagram, scrollable horizontally"
               className="no-scrollbar overflow-x-auto rounded-2xl border border-border bg-surface p-6"
             >
-              <div className="flex min-w-max items-center gap-1">
-                {o.flow.map((step, i) => (
-                  <div key={step.title} className="flex items-center gap-1">
-                    {i > 0 && <span className="h-px w-6 shrink-0 bg-border-strong" />}
-                    <div
-                      className={
-                        "flex w-32 shrink-0 flex-col items-center gap-1.5 rounded-xl px-3 py-4 text-center " +
-                        KIND_BG[step.kind]
-                      }
-                    >
-                      <Icon name={step.icon as IconName} size={20} />
-                      <span className="text-xs font-semibold">{step.title}</span>
-                      <span className="text-[10px]">{step.sub}</span>
-                    </div>
-                  </div>
-                ))}
-              </div>
+              <FlowDiagram steps={o.flow} />
               <div className="mt-5 flex flex-wrap gap-4 text-xs text-text-muted">
                 <span className="inline-flex items-center gap-1.5">
                   <span className="h-2 w-2 rounded-full bg-brand-500" /> Vision model (Opus)
