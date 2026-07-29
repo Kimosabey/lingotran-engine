@@ -133,7 +133,9 @@ export function EChart({
       ref={ref}
       role="img"
       aria-label={ariaLabel}
-      className={className}
+      className={
+        (className ? className + " " : "") + (!option ? "animate-pulse rounded-lg bg-surface-2" : "")
+      }
       style={{ width: "100%", height }}
     />
   );

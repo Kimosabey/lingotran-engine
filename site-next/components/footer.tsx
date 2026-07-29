@@ -8,7 +8,7 @@ interface FooterProps {
 }
 
 export function Footer({ brand, variant = "top", backHref = "/french" }: FooterProps) {
-  const year = new Date(2026, 0).getFullYear();
+  const year = new Date().getFullYear();
   return (
     <footer className="border-t border-border">
       <div className="mx-auto flex max-w-(--content-max) flex-col gap-1 px-4 py-6 text-xs text-text-subtle sm:flex-row sm:items-center sm:justify-between sm:px-6">

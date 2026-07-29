@@ -136,5 +136,18 @@ export function BarChart({
     };
   }, [tokens, echarts, data, gradient, valuesArePercent]);
 
-  return <EChart option={option} height={height ?? Math.max(120, rowCount * 28)} ariaLabel="Breakdown chart" />;
+  const resolvedHeight = height ?? Math.max(120, rowCount * 28);
+
+  if (tokens && echarts && !data.length) {
+    return (
+      <div
+        className="flex items-center justify-center rounded-lg border border-dashed border-border-strong text-sm text-text-subtle"
+        style={{ height: resolvedHeight }}
+      >
+        No data yet
+      </div>
+    );
+  }
+
+  return <EChart option={option} height={resolvedHeight} ariaLabel="Breakdown chart" />;
 }

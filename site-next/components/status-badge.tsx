@@ -25,7 +25,7 @@ export function StatusBadge({ state, qaFail = 0 }: { state: BookState; qaFail?: 
   }
   return (
     <span className="inline-flex items-center gap-1.5 rounded-full bg-amber-soft px-2.5 py-1 text-xs font-medium text-amber-strong">
-      <span className="h-1.5 w-1.5 rounded-full bg-amber-strong" />
+      <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-amber-strong" />
       in progress{extra}
     </span>
   );
