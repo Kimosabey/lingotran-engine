@@ -44,7 +44,11 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
+      <main
+        id="main"
+        tabIndex={-1}
+        className="flex-1 scroll-mt-[calc(var(--topbar-h)+var(--appbar-h))] focus:outline-none"
+      >
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           {/* Hero */}
           <div className="relative grid grid-cols-1 gap-10 overflow-x-hidden overflow-y-clip py-14 lg:grid-cols-[1.1fr_1fr] lg:items-center lg:py-20">

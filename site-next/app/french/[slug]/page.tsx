@@ -82,7 +82,11 @@ export default async function FrenchBookPage({ params }: { params: Promise<{ slu
   return (
     <>
       <Header crumbs={[{ label: "French", href: "/french" }, { label: book.title.split(" — ")[0] }]} />
-      <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
+      <main
+        id="main"
+        tabIndex={-1}
+        className="flex-1 scroll-mt-[calc(var(--topbar-h)+var(--appbar-h))] focus:outline-none"
+      >
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
             <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">

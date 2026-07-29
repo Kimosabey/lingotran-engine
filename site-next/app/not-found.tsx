@@ -12,7 +12,11 @@ export default function NotFound() {
   return (
     <>
       <Header crumbs={[{ label: "Not found" }]} />
-      <main id="main" tabIndex={-1} className="flex-1 focus:outline-none">
+      <main
+        id="main"
+        tabIndex={-1}
+        className="flex-1 scroll-mt-[calc(var(--topbar-h)+var(--appbar-h))] focus:outline-none"
+      >
         <div className="mx-auto flex max-w-(--content-max) flex-col items-center gap-3 px-4 py-24 text-center sm:px-6">
           <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-surface-2 text-text-subtle">
             <Icon name="search" size={26} />
