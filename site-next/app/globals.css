@@ -170,6 +170,7 @@
   --topbar-h: 60px;
   --appbar-h: 48px;
   --content-max: 1200px;
+  --content-max-wide: 1600px;
   --prose-max: 72ch;
 
   /* ---- Z-index ------------------------------------------------------------ */
@@ -568,4 +569,82 @@ html::-webkit-scrollbar {
 }
 .fidelity-badge {
   animation: fidelity-badge-in var(--dur-3) var(--ease-spring) both;
+}
+
+/* Card spotlight -- a cursor-following glow for KPI/Explorer/collection
+   cards. The element's own JS only ever writes --spot-x/--spot-y (set on
+   pointer move); the radial-gradient paint below reads them, so hovering
+   costs a paint, not a re-render. Brand-violet only, no neon -- same
+   color budget as the rest of the site, just a livelier hover state. */
+.spotlight {
+  isolation: isolate;
+}
+.spotlight::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    220px circle at var(--spot-x, 50%) var(--spot-y, 50%),
+    color-mix(in srgb, var(--brand-500) 14%, transparent),
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity var(--dur-3) var(--ease-out);
+  pointer-events: none;
+}
+.spotlight:hover::before {
+  opacity: 1;
+}
+.spotlight > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Glow-on-hover border -- extends the existing --grad-brand token (already
+   used for the appbar active-nav underline) to a hairline border-glow on
+   the primary CTA and the FidelityCard, via a padding-box/border-box
+   gradient mask rather than an actual box-shadow blur (crisper, and
+   respects border-radius exactly). */
+.glow-border-hover {
+  position: relative;
+  isolation: isolate;
+}
+.glow-border-hover::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  z-index: -1;
+  border-radius: inherit;
+  padding: 1px;
+  background: var(--grad-brand);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: 0;
+  transition: opacity var(--dur-3) var(--ease-out);
+  pointer-events: none;
+}
+.glow-border-hover:hover::after,
+.glow-border-hover:focus-visible::after {
+  opacity: 1;
+}
+
+/* Tracing beam -- see components/flow-diagram.tsx for the trigger logic.
+   Each connector rail gets a gradient overlay that wipes in left-to-right,
+   staggered per step via the --beam-delay custom property (set inline per
+   span, read here so the delay reaches this pseudo-element). */
+.tracing-line::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--grad-brand-90);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform var(--dur-4) var(--ease-spring);
+  transition-delay: var(--beam-delay, 0ms);
+}
+.tracing-line.is-lit::after {
+  transform: scaleX(1);
 }
