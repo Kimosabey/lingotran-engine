@@ -27,6 +27,25 @@ const ALL_VALUE = "__all__";
 const PDF_ROW_CAP = 500;
 const PAGE_SIZE = 50;
 
+// Left-edge accent color by row status -- reuses the exact accent-bar
+// pattern already shipped on the appbar/mobile-nav active state, driven by
+// whichever status-shaped column this dataset actually has (catalog's `qa`,
+// questions' `correct_answer`, either dataset's `status`). No accent when a
+// row carries no real status signal (e.g. vocabulary rows).
+function rowAccentColor(row: Record<string, string>): string | undefined {
+  if (row.qa === "pass") return "var(--verified-strong)";
+  if (row.qa === "fail") return "var(--flag-strong)";
+  if (row.correct_answer) return "var(--verified-strong)";
+  const status = row.status?.toLowerCase();
+  if (status) {
+    if (status.includes("fail")) return "var(--flag-strong)";
+    if (status.includes("pass") || status.includes("verified") || status.includes("done")) {
+      return "var(--verified-strong)";
+    }
+  }
+  return undefined;
+}
+
 function download(blob: Blob, filename: string) {
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
@@ -273,27 +292,34 @@ export function CsvExplorerTable({
                 ))}
               </thead>
               <tbody>
-                {table.getRowModel().rows.map((row) => (
-                  <tr
-                    key={row.id}
-                    role="button"
-                    tabIndex={0}
-                    onClick={() => setSelectedRow(row.original)}
-                    onKeyDown={(e) => {
-                      if (e.key === "Enter" || e.key === " ") {
-                        e.preventDefault();
-                        setSelectedRow(row.original);
+                {table.getRowModel().rows.map((row) => {
+                  const accent = rowAccentColor(row.original);
+                  return (
+                    <tr
+                      key={row.id}
+                      role="button"
+                      tabIndex={0}
+                      onClick={() => setSelectedRow(row.original)}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter" || e.key === " ") {
+                          e.preventDefault();
+                          setSelectedRow(row.original);
+                        }
+                      }}
+                      style={accent ? { borderLeftColor: accent } : undefined}
+                      className={
+                        "cursor-pointer border-b border-border-faint transition-colors last:border-0 hover:bg-surface-2 " +
+                        (accent ? "border-l-[3px]" : "")
                       }
-                    }}
-                    className="cursor-pointer border-b border-border-faint transition-colors last:border-0 hover:bg-surface-2"
-                  >
-                    {row.getVisibleCells().map((cell) => (
-                      <td key={cell.id} className="max-w-[320px] truncate px-4 py-2.5 text-text-muted">
-                        {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                      </td>
-                    ))}
-                  </tr>
-                ))}
+                    >
+                      {row.getVisibleCells().map((cell) => (
+                        <td key={cell.id} className="max-w-[320px] truncate px-4 py-2.5 text-text-muted">
+                          {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                        </td>
+                      ))}
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </div>
