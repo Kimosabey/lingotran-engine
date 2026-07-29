@@ -21,6 +21,7 @@ export const sitePages: SitePage[] = [
   { slug: "german", label: "German", path: "german" },
   { slug: "engine", label: "Engine", path: "engine" },
   { slug: "reference", label: "Reference", path: "reference" },
+  { slug: "explorer", label: "Explorer", path: "explorer" },
 ];
 
 export interface EngineLanguage {

@@ -1,7 +1,15 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 
-const ROUTES = ["/", "/engine", "/french", "/french/cosmopolite-a1-methode", "/german", "/reference"];
+const ROUTES = [
+  "/",
+  "/engine",
+  "/french",
+  "/french/cosmopolite-a1-methode",
+  "/german",
+  "/reference",
+  "/explorer/french/catalog",
+];
 
 test.describe("Automated WCAG scan (axe-core)", () => {
   for (const path of ROUTES) {
