@@ -247,7 +247,7 @@ export default function Home() {
                     {content}
                   </Link>
                 ) : (
-                  <div key={l.slug} className="rounded-2xl border border-border-faint bg-surface-inset p-5">
+                  <div key={l.slug} className="rounded-2xl border border-border bg-surface-inset p-5">
                     {content}
                   </div>
                 );
