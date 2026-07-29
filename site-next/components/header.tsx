@@ -81,13 +81,20 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
                 href={"/" + p.path}
                 aria-disabled={p.disabled}
                 className={
-                  "rounded-full px-3 py-1.5 text-sm font-medium transition-colors " +
+                  "relative rounded-full px-3 py-1.5 text-sm font-medium transition-colors " +
                   (p.slug === active
                     ? "bg-brand-100 text-link"
                     : "text-text-muted hover:bg-surface-2 hover:text-text")
                 }
               >
                 {p.label}
+                {p.slug === active && (
+                  <span
+                    aria-hidden="true"
+                    className="absolute inset-x-3 -bottom-px h-0.5 rounded-full"
+                    style={{ background: "var(--grad-brand-90)" }}
+                  />
+                )}
               </Link>
             ))}
           </div>

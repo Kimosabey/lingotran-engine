@@ -45,11 +45,18 @@ export function MobileNav({ active }: { active: string }) {
                 onClick={() => setOpen(false)}
                 aria-disabled={p.disabled}
                 className={
-                  "rounded-lg px-3 py-2 text-sm font-medium transition-colors " +
+                  "relative rounded-lg px-3 py-2 text-sm font-medium transition-colors " +
                   (on ? "bg-brand-100 text-link" : "text-text-muted hover:bg-surface-2 hover:text-text")
                 }
               >
                 {p.label}
+                {on && (
+                  <span
+                    aria-hidden="true"
+                    className="absolute inset-y-1.5 -left-px w-0.5 rounded-full"
+                    style={{ background: "var(--grad-brand)" }}
+                  />
+                )}
               </Link>
             );
           })}
