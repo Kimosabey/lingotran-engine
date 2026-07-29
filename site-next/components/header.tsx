@@ -32,24 +32,25 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
     <>
       <header className="sticky top-0 z-50 border-b border-border bg-surface/90 backdrop-blur">
         <div className="mx-auto flex h-(--topbar-h) max-w-(--content-max) items-center gap-4 px-4 sm:px-6">
-          <Link href="/" className="flex shrink-0 items-center gap-2">
+          <Link href="/" className="flex shrink-0 items-center gap-3">
             <Image
               src="/img/logo-color.png"
               alt="Lingotran"
-              width={80}
-              height={25}
-              className="block h-[25px] w-[80px] dark:hidden"
+              width={102}
+              height={32}
+              className="block h-8 w-auto dark:hidden"
               priority
             />
             <Image
               src="/img/logo-white.png"
               alt="Lingotran"
-              width={80}
-              height={25}
-              className="hidden h-[25px] w-[80px] dark:block"
+              width={102}
+              height={32}
+              className="hidden h-8 w-auto dark:block"
               priority
             />
-            <span className="hidden text-xs font-medium uppercase tracking-[0.08em] text-text-subtle sm:inline">
+            <span aria-hidden="true" className="hidden h-5 w-px bg-border-strong sm:block" />
+            <span className="hidden text-[11px] font-semibold uppercase tracking-[0.14em] text-text-subtle sm:inline">
               Extraction Engine
             </span>
           </Link>
