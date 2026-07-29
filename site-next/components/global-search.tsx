@@ -92,7 +92,7 @@ export function GlobalSearch() {
                     onSelect={() => go(entry.href)}
                   >
                     {entry.badge && (
-                      <span className="rounded border border-border-strong px-1 text-[10px] font-semibold uppercase tracking-wide text-text-subtle">
+                      <span className="rounded border border-brand-300 bg-brand-100 px-1 text-[10px] font-semibold uppercase tracking-wide text-link">
                         {entry.badge}
                       </span>
                     )}
