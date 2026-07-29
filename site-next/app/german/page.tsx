@@ -78,7 +78,7 @@ export default function GermanPage() {
             lead="Two acquisition channels feed one corpus: vision transcription of the Goethe-Institut A1 practice PDFs and scanned textbooks, and adapter-driven extraction of public pages from deutsch-pruefung.de."
           >
             <KpiGrid cards={kpiCards} />
-            <div className="mt-4 flex items-start gap-3 rounded-xl border border-verified-strong/20 bg-verified-soft px-4 py-3.5 text-sm text-text">
+            <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-verified-strong/20 bg-verified-soft px-4 py-3.5 text-sm text-text">
               <Icon name="checkSeal" size={18} className="mt-0.5 shrink-0 text-verified-strong" />
               <div>
                 <b>Every page is level A1</b> — fixed, not inferred, since all sources are single-level by
@@ -195,7 +195,7 @@ export default function GermanPage() {
             title="How it was built"
             lead="Twelve layers, from raw PDF to export sheet — the expensive vision layers run once, everything downstream regenerates for free."
           >
-            <div className="rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted">
+            <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted">
               <p>
                 Pages are rendered at 300 DPI, transcribed by a vision agent, then checked by an{" "}
                 <strong className="text-text">independent adversarial QA agent</strong> that may not edit —
@@ -213,7 +213,7 @@ export default function GermanPage() {
                 .
               </p>
             </div>
-            <div className="mt-4 flex items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
+            <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
               <Icon name="layers" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
               <div>
                 Want the layer-by-layer detail? The{" "}

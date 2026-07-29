@@ -5,15 +5,13 @@ interface FooterProps {
   brand: string;
   variant?: "top" | "book";
   backHref?: string;
-  wide?: boolean;
 }
 
-export function Footer({ brand, variant = "top", backHref = "/french", wide }: FooterProps) {
+export function Footer({ brand, variant = "top", backHref = "/french" }: FooterProps) {
   const year = new Date().getFullYear();
-  const maxW = wide ? "max-w-(--content-max-wide)" : "max-w-(--content-max)";
   return (
     <footer className="border-t border-border">
-      <div className={"mx-auto flex flex-col gap-1 px-4 py-6 text-xs text-text-subtle sm:flex-row sm:items-center sm:justify-between sm:px-6 " + maxW}>
+      <div className="mx-auto flex max-w-(--content-max) flex-col gap-1 px-4 py-6 text-xs text-text-subtle sm:flex-row sm:items-center sm:justify-between sm:px-6">
         <span>
           {brand} · <span>{year}</span> · Built by Harshan Aiyappa, Full Stack / AI Engineer
         </span>

@@ -111,7 +111,7 @@ export default function ReferencePage() {
           </Section>
 
           <Section id="naming" eyebrow="Conventions" title="Naming">
-            <div className="rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted">
+            <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted">
               {conventions.naming}
             </div>
           </Section>

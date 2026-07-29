@@ -80,7 +80,7 @@ export default function FrenchIndexPage() {
             lead="Coursebooks and verb/vocabulary revision workbooks, each run through the same transcribe → QA → repair cycle."
           >
             <KpiGrid cards={kpiCards} />
-            <div className="mt-4 flex items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
+            <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
               <Icon name="tag" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
               <div>
                 <b>Level convention differs by book.</b> Cosmopolite 1 is fixed — the whole book is A1,

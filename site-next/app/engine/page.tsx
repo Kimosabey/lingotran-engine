@@ -117,7 +117,7 @@ export default function EnginePage() {
           <SectionNav sections={SECTIONS} />
 
           <Section id="overview" eyebrow="How it works" title="Only pay a model where it must think" lead={o.intro}>
-            <div className="flex items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
+            <div className="flex max-w-3xl items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
               <Icon name="eye" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
               <div>
                 <b>The one rule.</b> A model is used only for <i>eyes</i> (reading a scan) or{" "}
@@ -152,7 +152,7 @@ export default function EnginePage() {
                 </span>
               </div>
             </div>
-            <div className="mt-4 flex items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
+            <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
               <Icon name="zap" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
               <div>
                 <b>Example — Kursbuch page 66 (a chat screen).</b> Python renders the image → Opus reads
@@ -297,7 +297,7 @@ export default function EnginePage() {
                 </div>
               ))}
             </div>
-            <div className="mt-5 flex items-start gap-3 rounded-xl border border-flag/20 bg-flag-soft px-4 py-3.5 text-sm text-text">
+            <div className="mt-5 flex max-w-3xl items-start gap-3 rounded-xl border border-flag/20 bg-flag-soft px-4 py-3.5 text-sm text-text">
               <Icon name="zap" size={18} className="mt-0.5 shrink-0 text-flag-strong" />
               <div>
                 <b>Biggest single win:</b> detect a text layer first. Digital-born PDFs already contain

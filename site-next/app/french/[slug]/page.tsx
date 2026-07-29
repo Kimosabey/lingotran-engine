@@ -104,7 +104,7 @@ export default async function FrenchBookPage({ params }: { params: Promise<{ slu
           <SectionNav sections={sections} />
 
           <Section id="overview" eyebrow="Overview" title="About this book">
-            <div className="rounded-2xl border border-border bg-surface p-6">
+            <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6">
               <p className="text-sm leading-relaxed text-text-muted">{book.about.intro}</p>
               <dl className="mt-4 grid grid-cols-[auto_1fr] gap-x-3 gap-y-1.5 text-sm">
                 <dt className="text-text-subtle">source</dt>
@@ -155,7 +155,7 @@ export default async function FrenchBookPage({ params }: { params: Promise<{ slu
                 </div>
               )}
               {book.nextUpNote && (
-                <div className="mt-4 flex items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
+                <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
                   <Icon name="tag" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
                   <div>
                     <b>Next up.</b> {book.nextUpNote}
@@ -189,7 +189,7 @@ export default async function FrenchBookPage({ params }: { params: Promise<{ slu
               {book.qaNote && (
                 <div
                   className={
-                    "mt-4 flex items-start gap-3 rounded-xl px-4 py-3.5 text-sm text-text " +
+                    "mt-4 flex max-w-3xl items-start gap-3 rounded-xl px-4 py-3.5 text-sm text-text " +
                     (book.qaNote.flag ? "border border-flag/20 bg-flag-soft" : "border border-border bg-surface-2")
                   }
                 >
@@ -211,7 +211,7 @@ export default async function FrenchBookPage({ params }: { params: Promise<{ slu
               <div className="rounded-2xl border border-border bg-surface p-6">
                 <BarChart data={book.charts!.answerCoverage!} />
               </div>
-              <div className="mt-4 flex items-start gap-3 rounded-xl border border-flag/20 bg-flag-soft px-4 py-3.5 text-sm text-text">
+              <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-flag/20 bg-flag-soft px-4 py-3.5 text-sm text-text">
                 <Icon name="doc" size={18} className="mt-0.5 shrink-0 text-flag-strong" />
                 <div>{book.answerNote.body}</div>
               </div>

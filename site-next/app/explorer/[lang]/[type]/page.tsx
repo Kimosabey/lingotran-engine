@@ -124,16 +124,13 @@ export default async function ExplorerPage({
 
   return (
     <>
-      <Header
-        wide
-        crumbs={[{ label: "Explorer", href: "/explorer/french/catalog" }, { label: LANG_LABEL[lang] }]}
-      />
+      <Header crumbs={[{ label: "Explorer", href: "/explorer/french/catalog" }, { label: LANG_LABEL[lang] }]} />
       <main
         id="main"
         tabIndex={-1}
         className="flex-1 scroll-mt-[calc(var(--topbar-h)+var(--appbar-h))] focus:outline-none"
       >
-        <div className="mx-auto max-w-(--content-max-wide) px-4 sm:px-6">
+        <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
             <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">Explorer</span>
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
@@ -190,7 +187,7 @@ export default async function ExplorerPage({
           </div>
         </div>
       </main>
-      <Footer wide brand="Lingotran Engine · Extraction Knowledge Base" />
+      <Footer brand="Lingotran Engine · Extraction Knowledge Base" />
     </>
   );
 }

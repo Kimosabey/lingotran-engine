@@ -97,7 +97,7 @@ export default function Home() {
             title="What this engine does"
             lead="A scalable workflow for extracting structured linguistic data from language-learning PDFs and authorized websites — converting textbook and exam content into clean, faithful material for study tools."
           >
-            <div className="rounded-2xl border border-border bg-surface p-6">
+            <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6">
               <p className="text-sm leading-relaxed text-text-muted">
                 Sources differ, so each gets the right acquisition path. Scanned workbooks have{" "}
                 <strong className="text-text">no text layer</strong>, so content is recovered by
@@ -112,7 +112,7 @@ export default function Home() {
                 Portuguese, Romanian, Russian and Spanish.
               </p>
             </div>
-            <div className="mt-4 flex items-start gap-3 rounded-xl border border-verified-strong/20 bg-verified-soft px-4 py-3.5 text-sm text-text">
+            <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-verified-strong/20 bg-verified-soft px-4 py-3.5 text-sm text-text">
               <Icon name="checkSeal" size={18} className="mt-0.5 shrink-0 text-verified-strong" />
               <div>
                 <b>Faithful, not interpreted.</b> Transcriptions are verbatim. The only added labels are
@@ -262,7 +262,7 @@ export default function Home() {
             lead={orchestration.effort.summary}
           >
             <KpiGrid cards={journeyCards} />
-            <div className="mt-4 flex items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
+            <div className="mt-4 flex max-w-3xl items-start gap-3 rounded-xl border border-border bg-surface-2 px-4 py-3.5 text-sm text-text">
               <Icon name="layers" size={18} className="mt-0.5 shrink-0 text-text-subtle" />
               <div>
                 <b>Want the full pipeline?</b> The{" "}
