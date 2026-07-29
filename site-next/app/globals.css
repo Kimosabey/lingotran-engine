@@ -453,6 +453,20 @@
   }
 }
 
+/* Ambient background wash -- a faint violet/emerald bloom fixed behind
+   every page (both themes), so the flat --bg reads as atmosphere rather
+   than a blank sheet. Deliberately subtle and fixed (doesn't scroll with
+   content) -- this is lighting, not a repeating decorative pattern, and
+   stays well clear of the confined paper motif reserved for the scan
+   card. Both brand + verified are already the site's two signal colors;
+   this just extends them from "badges/fills" to "the room itself". */
+body {
+  background-image: radial-gradient(ellipse 900px 500px at 12% -10%, color-mix(in srgb, var(--brand-500) 10%, transparent), transparent 60%),
+    radial-gradient(ellipse 700px 480px at 100% 10%, color-mix(in srgb, var(--verified) 7%, transparent), transparent 55%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 /* Hide the page's vertical scrollbar chrome -- scrolling itself (wheel,
    touch, keyboard) is untouched, only the visible track/thumb is removed. */
 html {
