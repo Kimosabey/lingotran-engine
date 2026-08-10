@@ -5,7 +5,7 @@ page: 132
 orientation: 0
 content_type: [lesson, reading-text, exercise]
 level: A1
-section: lesen
+section: reading
 status: verified
 qa: pass
 ---

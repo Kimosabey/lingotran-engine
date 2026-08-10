@@ -5,7 +5,7 @@ page: 144
 orientation: 0
 content_type: [lesson, exercise, speaking-prompt]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---

@@ -5,7 +5,7 @@ page: 24
 orientation: 0
 content_type: [instructions, writing-prompt]
 level: A1
-section: schreiben
+section: writing
 status: verified
 qa: pass
 ---

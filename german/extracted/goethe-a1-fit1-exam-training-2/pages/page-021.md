@@ -5,7 +5,7 @@ page: 21
 orientation: 0
 content_type: [instructions]
 level: A1
-section: schreiben
+section: writing
 status: verified
 qa: pass
 ---

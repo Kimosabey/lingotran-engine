@@ -5,7 +5,7 @@ page: 62
 orientation: 0
 content_type: [lesson, exercise, listening-sheet, picture-story]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---

@@ -5,7 +5,7 @@ page: 46
 orientation: 0
 content_type: [audio-script, listening-sheet]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---

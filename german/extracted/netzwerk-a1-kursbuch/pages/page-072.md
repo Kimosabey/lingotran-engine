@@ -5,7 +5,7 @@ page: 72
 orientation: 0
 content_type: [exercise, listening-sheet, vocabulary, dialogue]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---

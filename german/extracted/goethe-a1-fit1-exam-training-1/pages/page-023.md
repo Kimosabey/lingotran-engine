@@ -5,7 +5,7 @@ page: 23
 orientation: 0
 content_type: [intro, instructions]
 level: A1
-section: sprechen
+section: speaking
 status: verified
 qa: pass
 ---

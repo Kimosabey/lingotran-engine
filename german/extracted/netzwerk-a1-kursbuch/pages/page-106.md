@@ -5,7 +5,7 @@ page: 106
 orientation: 0
 content_type: [lesson, exercise]
 level: A1
-section: sprechen
+section: speaking
 status: verified
 qa: pass
 ---

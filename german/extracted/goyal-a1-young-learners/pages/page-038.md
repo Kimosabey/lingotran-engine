@@ -5,7 +5,7 @@ page: 38
 orientation: 0
 content_type: [exercise, grammar-box]
 level: A1
-section: schreiben
+section: writing
 status: verified
 qa: pass
 ---

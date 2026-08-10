@@ -5,7 +5,7 @@ page: 80
 orientation: 0
 content_type: [chapter-opener, instructions, listening-sheet, exercise]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---

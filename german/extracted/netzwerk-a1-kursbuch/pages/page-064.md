@@ -5,7 +5,7 @@ page: 64
 orientation: 0
 content_type: [chapter-opener, speaking-prompt]
 level: A1
-section: sprechen
+section: speaking
 status: verified
 qa: pass
 ---

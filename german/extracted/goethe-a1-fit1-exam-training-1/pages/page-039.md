@@ -5,7 +5,7 @@ page: 39
 orientation: 0
 content_type: [speaking-prompt, instructions]
 level: A1
-section: sprechen
+section: speaking
 status: verified
 qa: pass
 ---

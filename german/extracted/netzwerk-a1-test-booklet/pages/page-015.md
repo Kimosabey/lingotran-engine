@@ -5,7 +5,7 @@ page: 15
 orientation: 0
 content_type: [chapter-opener, exercise, listening-sheet, vocabulary, grammar-box]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---

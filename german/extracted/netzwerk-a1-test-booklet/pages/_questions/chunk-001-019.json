@@ -2,7 +2,7 @@
   "collection": "netzwerk-a1-test-booklet",
   "items": [
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
@@ -15,7 +15,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
@@ -28,7 +28,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
@@ -41,7 +41,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
@@ -54,7 +54,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
@@ -67,7 +67,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "1",
       "item_type": "true-false",
@@ -80,7 +80,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "2",
       "item_type": "true-false",
@@ -93,7 +93,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "3",
       "item_type": "true-false",
@@ -106,7 +106,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "4",
       "item_type": "true-false",
@@ -119,7 +119,7 @@
       "source_page": "006"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "5",
       "item_type": "true-false",
@@ -392,7 +392,7 @@
       "source_page": "007"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 7",
       "item": "1",
       "item_type": "short-answer",
@@ -405,7 +405,7 @@
       "source_page": "008"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 7",
       "item": "2",
       "item_type": "short-answer",
@@ -418,7 +418,7 @@
       "source_page": "008"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 7",
       "item": "3",
       "item_type": "short-answer",
@@ -431,7 +431,7 @@
       "source_page": "008"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 7",
       "item": "4",
       "item_type": "short-answer",
@@ -444,7 +444,7 @@
       "source_page": "008"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 7",
       "item": "5",
       "item_type": "short-answer",
@@ -457,7 +457,7 @@
       "source_page": "008"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 8",
       "item": "1",
       "item_type": "writing-task",
@@ -470,7 +470,7 @@
       "source_page": "008"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 8",
       "item": "2",
       "item_type": "writing-task",
@@ -483,7 +483,7 @@
       "source_page": "008"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 8",
       "item": "3",
       "item_type": "writing-task",
@@ -496,7 +496,7 @@
       "source_page": "008"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 8",
       "item": "4",
       "item_type": "writing-task",
@@ -509,7 +509,7 @@
       "source_page": "008"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 8",
       "item": "5",
       "item_type": "writing-task",
@@ -522,7 +522,7 @@
       "source_page": "008"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "1",
       "item_type": "true-false",
@@ -535,7 +535,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "2",
       "item_type": "true-false",
@@ -548,7 +548,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "3",
       "item_type": "true-false",
@@ -561,7 +561,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "4",
       "item_type": "true-false",
@@ -574,7 +574,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "5",
       "item_type": "true-false",
@@ -587,7 +587,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
@@ -600,7 +600,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
@@ -613,7 +613,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
@@ -626,7 +626,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
@@ -639,7 +639,7 @@
       "source_page": "009"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
@@ -912,7 +912,7 @@
       "source_page": "010"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
@@ -925,7 +925,7 @@
       "source_page": "011"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "2",
       "item_type": "writing-task",
@@ -938,7 +938,7 @@
       "source_page": "011"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "3",
       "item_type": "writing-task",
@@ -951,7 +951,7 @@
       "source_page": "011"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "4",
       "item_type": "writing-task",
@@ -964,7 +964,7 @@
       "source_page": "011"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "5",
       "item_type": "writing-task",
@@ -977,7 +977,7 @@
       "source_page": "011"
     },
     {
-      "section": "sprechen",
+      "section": "speaking",
       "teil": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
@@ -990,7 +990,7 @@
       "source_page": "011"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "1",
       "item_type": "short-answer",
@@ -1003,7 +1003,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "2",
       "item_type": "short-answer",
@@ -1016,7 +1016,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "3",
       "item_type": "short-answer",
@@ -1029,7 +1029,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "4",
       "item_type": "short-answer",
@@ -1042,7 +1042,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "5",
       "item_type": "short-answer",
@@ -1055,7 +1055,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
@@ -1068,7 +1068,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
@@ -1081,7 +1081,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
@@ -1094,7 +1094,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
@@ -1107,7 +1107,7 @@
       "source_page": "012"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
@@ -1120,7 +1120,7 @@
       "source_page": "012"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
@@ -1133,7 +1133,7 @@
       "source_page": "012"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
@@ -1146,7 +1146,7 @@
       "source_page": "012"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
@@ -1159,7 +1159,7 @@
       "source_page": "012"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
@@ -1172,7 +1172,7 @@
       "source_page": "012"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
@@ -1458,7 +1458,7 @@
       "source_page": "014"
     },
     {
-      "section": "sprechen",
+      "section": "speaking",
       "teil": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
@@ -1471,7 +1471,7 @@
       "source_page": "014"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
@@ -1484,7 +1484,7 @@
       "source_page": "015"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
@@ -1497,7 +1497,7 @@
       "source_page": "015"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
@@ -1510,7 +1510,7 @@
       "source_page": "015"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
@@ -1523,7 +1523,7 @@
       "source_page": "015"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
@@ -1666,7 +1666,7 @@
       "source_page": "015"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 4",
       "item": "1",
       "item_type": "true-false",
@@ -1679,7 +1679,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 4",
       "item": "2",
       "item_type": "true-false",
@@ -1692,7 +1692,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 4",
       "item": "3",
       "item_type": "true-false",
@@ -1705,7 +1705,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 4",
       "item": "4",
       "item_type": "true-false",
@@ -1718,7 +1718,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 4",
       "item": "5",
       "item_type": "true-false",
@@ -1731,7 +1731,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 5",
       "item": "1",
       "item_type": "short-answer",
@@ -1744,7 +1744,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 5",
       "item": "2",
       "item_type": "short-answer",
@@ -1757,7 +1757,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 5",
       "item": "3",
       "item_type": "short-answer",
@@ -1770,7 +1770,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 5",
       "item": "4",
       "item_type": "short-answer",
@@ -1783,7 +1783,7 @@
       "source_page": "016"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 5",
       "item": "5",
       "item_type": "short-answer",
@@ -1861,7 +1861,7 @@
       "source_page": "017"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
@@ -1874,7 +1874,7 @@
       "source_page": "017"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "2",
       "item_type": "writing-task",
@@ -1887,7 +1887,7 @@
       "source_page": "017"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "3",
       "item_type": "writing-task",
@@ -1900,7 +1900,7 @@
       "source_page": "017"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "4",
       "item_type": "writing-task",
@@ -1913,7 +1913,7 @@
       "source_page": "017"
     },
     {
-      "section": "schreiben",
+      "section": "writing",
       "teil": "Übung 7",
       "item": "5",
       "item_type": "writing-task",
@@ -1926,7 +1926,7 @@
       "source_page": "017"
     },
     {
-      "section": "sprechen",
+      "section": "speaking",
       "teil": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
@@ -1939,7 +1939,7 @@
       "source_page": "017"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
@@ -1952,7 +1952,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
@@ -1965,7 +1965,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
@@ -1978,7 +1978,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
@@ -1991,7 +1991,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
@@ -2004,7 +2004,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "A",
       "item_type": "matching",
@@ -2017,7 +2017,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "B",
       "item_type": "matching",
@@ -2030,7 +2030,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "C",
       "item_type": "matching",
@@ -2043,7 +2043,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "D",
       "item_type": "matching",
@@ -2056,7 +2056,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "E",
       "item_type": "matching",
@@ -2069,7 +2069,7 @@
       "source_page": "018"
     },
     {
-      "section": "hoeren",
+      "section": "listening",
       "teil": "Übung 2",
       "item": "F",
       "item_type": "matching",
@@ -2082,7 +2082,7 @@
       "source_page": "018"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "1",
       "item_type": "multiple-choice",
@@ -2095,7 +2095,7 @@
       "source_page": "019"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "2",
       "item_type": "multiple-choice",
@@ -2108,7 +2108,7 @@
       "source_page": "019"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "3",
       "item_type": "multiple-choice",
@@ -2121,7 +2121,7 @@
       "source_page": "019"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "4",
       "item_type": "multiple-choice",
@@ -2134,7 +2134,7 @@
       "source_page": "019"
     },
     {
-      "section": "lesen",
+      "section": "reading",
       "teil": "Übung 3",
       "item": "5",
       "item_type": "multiple-choice",

@@ -5,7 +5,7 @@ page: 17
 orientation: 0
 content_type: [instructions, exercise]
 level: A1
-section: lesen
+section: reading
 status: verified
 qa: pass
 ---

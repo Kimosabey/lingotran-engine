@@ -26,7 +26,10 @@ Write to `BASE/<collection>/pages/_class/chunk-<first>-<last>.json`:
 Scan the pages for discrete practice items (exercise questions, MC items,
 matching pairs, true/false statements, fill-in items, writing/speaking prompts).
 For EACH item output:
-- `section`: hoeren|lesen|schreiben|sprechen|vocabulary|answer-key or "" (best guess)
+- `section`: listening|reading|writing|speaking|vocabulary|answer-key or "" (best guess) —
+  ALWAYS in English regardless of source language, matching the shared _engine/'s
+  convention (see french/extracted's agent_enrich.md) — never write German/French/
+  target-language words as taxonomy values here.
 - `teil`: the part/Teil or exercise-group label if printed (e.g. "Teil 1", "Übung 3"), else ""
 - `item`: the printed item number/letter (e.g. "1", "2a"), else a running index
 - `item_type`: multiple-choice, matching, true-false, fill-in, ordering, short-answer, writing-task, speaking-task, open-ended

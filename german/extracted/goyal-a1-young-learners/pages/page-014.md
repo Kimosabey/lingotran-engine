@@ -5,7 +5,7 @@ page: 14
 orientation: 0
 content_type: [exercise, reading-text, writing-prompt]
 level: A1
-section: lesen
+section: reading
 status: verified
 qa: pass
 ---

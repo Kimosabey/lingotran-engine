@@ -5,7 +5,7 @@ page: 59
 orientation: 0
 content_type: [reading-text, grammar-box, exercise, dialogue, speaking-prompt]
 level: A1
-section: lesen
+section: reading
 status: verified
 qa: pass
 ---

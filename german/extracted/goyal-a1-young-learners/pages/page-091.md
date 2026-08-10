@@ -5,7 +5,7 @@ page: 91
 orientation: 0
 content_type: [exercise]
 level: A1
-section: schreiben
+section: writing
 status: verified
 qa: pass
 ---

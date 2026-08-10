@@ -5,7 +5,7 @@ page: 42
 orientation: 0
 content_type: [answer-key]
 level: A1
-section: sprechen
+section: speaking
 status: verified
 qa: pass
 ---

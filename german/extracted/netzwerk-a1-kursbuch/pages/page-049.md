@@ -5,7 +5,7 @@ page: 49
 orientation: 0
 content_type: [exercise, reading-text, grammar-box, writing-prompt, speaking-prompt]
 level: A1
-section: sprechen
+section: speaking
 status: verified
 qa: pass
 ---

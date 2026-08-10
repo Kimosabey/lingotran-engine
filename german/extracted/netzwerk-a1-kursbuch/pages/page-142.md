@@ -5,7 +5,7 @@ page: 142
 orientation: 0
 content_type: [exercise, instructions, reading-text, vocabulary, speaking-prompt]
 level: A1
-section: lesen
+section: reading
 status: verified
 qa: pass
 ---

@@ -5,7 +5,7 @@ page: 9
 orientation: 0
 content_type: [exercise]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---

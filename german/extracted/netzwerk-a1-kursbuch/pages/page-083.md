@@ -5,7 +5,7 @@ page: 83
 orientation: 0
 content_type: [lesson, exercise, grammar-box]
 level: A1
-section: hoeren
+section: listening
 status: verified
 qa: pass
 ---
