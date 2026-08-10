@@ -216,7 +216,7 @@ Return the final verdict.`
   /* ---- French corpus --------------------------------------------------- */
   const french = {
     slug: "french", name: "French", code: "FR", level: "A1 / A2 (CEFR)",
-    aggregate: { books: 5, spreads: 871, transcribed: 686, verified: 606, qaPass: 597, qaFail: 54, questions: 6914, words: 5566 },
+    aggregate: { books: 5, spreads: 871, transcribed: 686, verified: 608, qaPass: 599, qaFail: 52, questions: 6914, words: 5566 },
     books: {
 
       "cosmopolite-a1-methode": {
@@ -433,18 +433,18 @@ Return the final verdict.`
           "each with “Au choix” extra practice, plus a back-of-book grammar reference, “Preparing for " +
           "tests” exam-skills section, and a two-way (French–English / English–French) glossary. Third of " +
           "the 5 new French PDFs processed via the shared _engine/ pipeline.",
-        spreads: 180, transcribed: 180, verified: 169, pending: 0,
-        qaTotal: 180, qaPass: 169, qaFail: 11,
+        spreads: 180, transcribed: 180, verified: 171, pending: 0,
+        qaTotal: 180, qaPass: 171, qaFail: 9,
         questions: 2750, words: 1663,
-        status: "complete (11 disclosed gaps)",
+        status: "complete (9 disclosed gaps)",
         meters: [
           { name: "Transcribed", value: 180, of: 180, cls: "" },
-          { name: "QA-verified", value: 169, of: 180, cls: "green" }
+          { name: "QA-verified", value: 171, of: 180, cls: "green" }
         ],
         charts: {
           contentType: [
             { k: "Exercise", v: 135 }, { k: "Vocabulary", v: 77 }, { k: "Grammar box", v: 69 },
-            { k: "Listening sheet", v: 51 }, { k: "Speaking prompt", v: 45 }, { k: "Reading text", v: 40 },
+            { k: "Listening sheet", v: 51 }, { k: "Speaking prompt", v: 45 }, { k: "Reading text", v: 41 },
             { k: "Chapter opener", v: 39 }, { k: "Writing prompt", v: 34 }, { k: "Lesson", v: 32 },
             { k: "Dialogue", v: 31 }, { k: "Picture story", v: 26 }, { k: "Wordlist", v: 22 },
             { k: "Explanation", v: 20 }, { k: "Review", v: 15 }, { k: "Comprehension questions", v: 9 },
