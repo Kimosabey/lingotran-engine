@@ -1,7 +1,7 @@
 # Tricolore 2 - 5e edition
 
 > Unified transcription of `pdf/oxford-university-press/tricolore-2-5th-edition/tricolore-2-5th-edition.pdf` - 180 pages.
-> Generated 2026-07-28. Filterable sheet: `tricolore-2-5th-edition-catalog.csv`.
+> Generated 2026-08-10. Filterable sheet: `tricolore-2-5th-edition-catalog.csv`.
 
 ## Overview
 
@@ -106,7 +106,7 @@
 | grammar-box | 69 |
 | listening-sheet | 51 |
 | speaking-prompt | 45 |
-| reading-text | 40 |
+| reading-text | 41 |
 | chapter-opener | 39 |
 | writing-prompt | 34 |
 | lesson | 32 |
@@ -132,8 +132,6 @@
 | listening | 2 |
 | table | 2 |
 | writing-task | 2 |
-| acknowledgements | 1 |
-| defective-image | 1 |
 | glossary | 1 |
 | illustration | 1 |
 | listening-task | 1 |
@@ -180,6 +178,12 @@
 | family | 1 |
 | profession | 1 |
 | weather | 1 |
+
+## Known limitations
+
+- 1589 of 2750 questions (58%) have a blank correct_answer -- NOT a transcription gap. Confirmed via recon (TOC + back matter, 2026-08-10): this coursebook's answers are published only in the separate Tricolore 2 Teacher's Book, never in this student volume. A further 270 items are legitimately open-ended (writing/speaking tasks with no single answer) and are separately marked "(open-ended)", not counted among the blanks. 467 of the blanks are audio-dependent listening items (no audio track processed). SME FOLLOW-UP: if the Teacher's Book PDF is ever sourced, its printed answers could be used to re-run the enrichment answer-fill pass and resolve a meaningful share of these blanks.
+- 9 of 180 pages have a disclosed transcription gap. Page 16: a few unlabeled illustration items on two shopping-trolley drawings (a sausage/meat item, a jam jar, a torn potato bag, a tomato, a butter package) are not legibly printed at source resolution -- everything else on the page, including all three exercises and both grammar boxes, is transcribed verbatim. Pages 167, 168, 170, 171, 173, 175, 176 and 177: eight pages of the end-of-book alphabetical glossary that could not be reproduced because every attempt to write out their entry lists triggers a hard content-filter block that terminates the process. The pages themselves were re-rasterized and directly reviewed on 2026-08-10 and contain ordinary French-English GCSE vocabulary -- this is platform-side flakiness on these specific pages, not sensitive content and not a scan-quality problem, and retries are capped per PLAYBOOK.md rather than repeated indefinitely. The surrounding glossary pages (166, 169, 172, 174, 177's neighbours) transcribed cleanly, so the glossary is partially, not wholly, covered. Each affected page's _qa/page-NNN.json records the full finding.
+- Pages 2, 4, 178 and 179 embed a 1-channel grayscale JPEG while the PDF declares the image /DeviceRGB, so MuPDF originally rendered them as near-black garbage. Page 178 (Acknowledgements) had been written off as a permanent content-filter gap purely because of this, and page 179 as a defective scan. Both were resolved on 2026-08-10: pdf_to_images.py now detects the mismatch and decodes the embedded scan directly. Page 178 is fully transcribed; pages 2 and 179 are confirmed genuinely blank.
 
 ## Page index
 
@@ -19079,31 +19083,26 @@ Final page of the end-of-book alphabetical English-French glossary, letters roug
 
 <!-- disclosed gap: full entry-by-entry English/French pairing not transcribed due to repeated content-filter API blocks during generation, despite the source content itself being confirmed benign on direct review. Candidate for re-attempt in a future session. -->
 
-## Page 178  -- none - [acknowledgements] - none - none
+## Page 178  -- none - [reading-text] - none - none
 
 # Acknowledgements
 
-**[Disclosed source-image defect — only partially legible; see QA notes]**
+The authors and publisher would like to thank the following for permission to reproduce material:
+Illustration: Q2A Media Services
 
-The page is laid out in three columns, each repeating the same header, "Acknowledgements" (clearly legible in all three columns after the recovery technique described below).
+Photographs courtesy of:
+Martyn F. Chillmaid
+pp12, 18, 19, 32, 35, 40, 41, 44, 54, 56, 57, 58, 67, 72, 73, 74, 75, 81, 88, 94, 97, 114, 120, 130
 
-Columns 1 and 2 open with a boilerplate permissions sentence, which is clearly legible:
+**p8a:** Carole Castelli/Shutterstock; **p8b:** Pete Sprio/Shutterstock; **p8c:** Julian Elliott/Alamy; **p8d:** Brian Jannsen / Alamy; **p8e:** Walter Pietsch/Alamy; **p8f:** Megapress / Alamy; **p10:** Doin Oakenhelm/Shutterstock; **p12:** travellight/Shutterstock; **p16:** Scenics & Science / Alamy;
+**p17:** iStockphoto; **p23:** Nick_Nick/Shutterstock; **p24:** Fotolia/Stephen Karg; **p24:** iStockphoto;
+**p25:** Michael Spencer/Heather Mascie-Taylor; **p28:** Art Konovalov/Shutterstock; **p28:** Lukas Rebec/Shutterstock; **p28:** Steve Mann/Shutterstock; **p28:** Sergey Dzyuba/Shutterstock; **p28:** PerseoMedusa/Shutterstock; **p28:** WillG80FR/Shutterstock; **p28:** Leonid Andronov/Shutterstock; **p28:** Spooh/iStock; **p28:** mladn61/iStock; **p28:** ostill/Shutterstock; **p28:** Jack Frog/Shutterstock; **p28:** Radu Razvan/Shutterstock; **p28:** Ekaterina Pokrovsky/Shutterstock; **p32:** iStockphoto; **p32:** iStockphoto; **p34:** Quebec Government Office; **p34:** iStockphoto; **p34:** OUP; **p34:** OUP; **p36:** Radu Razvan/Shutterstock; **p36:** OUP; **p39:** Christopher Meder; **p134:** Hemis/Alamy; **p134:** Viacheslav Lopatin/Shutterstock; **p41:** Goodluz/Shutterstock; **p41:** Nelson Thornes Ltd/OUP; **p44:** Emma Shervington/Corbis; **p45:** clubfoto/iStock; **p47:** Corbis; **p50:** John Parker Lee/Alamy; **p59:** Rex Features; **p64:** jocic/Shutterstock; **p64:** Olga Popova/Shutterstock; **p64:** Serg64/Shutterstock; **p64:** readyimage/Shutterstock; **p64:** Chris Howes/Wild Places Photography/Alamy; **p64:** Brian A Jackson/Shutterstock; **p64:** A-R-T/Shutterstock; **p64:** Pixomar/Shutterstock; **p64:** pukach/Shutterstock; **p64:** StockPhotosArt/Shutterstock; **p70:** Corbis; **p70:** iStockphoto; **p70:** Getty Images; **p138:** Sally and Richard Greenhill/Alamy; **p72:** Directphoto Collection/Alamy; **p74:** Samuel Acosta/Shutterstock; **p77:** Mike Spencer; **p88:** Getty Images; **p89:** OUP; **p89:** Sébastien Baussais/Alamy; **p89:** OUP; **p89:** Andrea Matone/Alamy; **p91:** OUP; **p98:** Alamy; **p100:** Little Stocker/Shutterstock; **p100:** Eugenie Photography/Shutterstock; **p100:** Katarzyna Mazurowska; **p100:** hipproductions/Shutterstock; **p142:** Alamy; **p143:** Alamy; **p111:** OUP; **p116:** Mary Evans Picture Library; **p120:** Alamy; **p120:** Heather Mascie-Taylor; **p121:** Fotolia; **p121:** Alamy; **p121:** Nîmes Olympique Football Club; **p123:** OUP; **p124:** John Warner/Shutterstock; **p124:** Elena Elisseeva/Shutterstock; **p124:** David Hoare/Alamy; **p126:** Nimes Olympique; **p126:** Robert Pratta/Reuters; **p126:** Dennis Grombkowski/Getty; **p126:** Stuart MacFarlane/Getty; **p126:** Jeff J Mitchell/Getty; **p128:** Elena Elisseeva/Shutterstock; **p130:** Martyn F. Chillmaid; **p144:** Science Photo Library/Alamy; **p144:** Sergieiev/Shutterstock; **p144:** Smart-foto/Shutterstock; **p144:** christovao/Shutterstock; **p144:** Valua Vitaly/Shutterstock; **p144:** moomsabuy/Shutterstock; **p144:** ntstudio/Shutterstock; **p144:** kurhan/Shuttersotck; **p147:** OUP;
 
-> "The authors and publisher would like to thank the following for permission to reproduce material:"
+Special thanks to the following for their advice during the development of the course: Mrs S. Hotham of Wakefield Girls' High School; Ruth Smith of Royal Grammar School, High Wycombe; Hilary Attlee of Pates Grammar School, Cheltenham; Bethany Honnor; Julie Prince; Kate Scappaticci and Vee Harris; Jackie Coe; Elizabeth Counsell of Manchester High School for Girls; Sylvia Gibson of Stockport Grammar School; Michel, Brigitte, Cecile and Sophie Denise; Claude, Wendy and Charlotte Ribeyrol.
 
-This is followed in each column by short sub-headings for illustration and photograph credits (an "Illustrations: … Media Services"-style line, and a "Photographs courtesy of:" line followed by a named credit and a list of page numbers), but the exact company/individual names and page-number digits are not reliably legible at the pixel level even after recovery, so they are not asserted here.
+## Page 179  -- none - [] - none - none
 
-Below the header block, every column continues into a dense small-print list of photo credits, structured as repeating entries of the form "p&lt;page&gt; &lt;descriptor&gt;: &lt;name&gt;/&lt;agency&gt;" (stock-agency tags such as "…/Alamy" recur multiple times and are the most confidently legible tokens in this list). **This dense credit list is NOT reliably legible** — the source raster is pervasively degraded by speckle/chromatic noise across the whole list, even after crop+downscale recovery — and it is intentionally not transcribed character-by-character to avoid fabricating names, page numbers, or agency attributions.
-
-Column 3 additionally contains a short paragraph beginning "Special thanks to the following for their advice during the development of the course:", naming individual teacher-advisors and their schools. This paragraph exists but is likewise not transcribed here (list of real individuals' names in a low-confidence, noisy region); only its presence and general purpose (crediting teacher-advisors) is noted.
-
-**Recovery technique used:** `images/page-178.png` is only ~354KB versus ~1.37MB for the clean neighboring pages (176, 177) and shows pervasive speckle/chromatic-aberration-like noise across the entire canvas, including otherwise-blank regions. Normal zoom/upscale of crops makes this worse. Cropping each column and downscaling to ~0.57x of the source resolution (crop via the shared `_engine/zoom.py` approach, then PIL LANCZOS downscale; a further display-only upscale was used purely for viewing, not as part of the recovered artifact) recovered the column headers and the boilerplate permissions sentence above, confirming this is a source-file raster defect rather than a normal-legibility page.
-
-**Additional defect signature:** pixel analysis of the full canvas (2480x3508) shows the top ~33% (rows 0–~1170) is the (noisy) white text region described above, and the entire bottom ~67% (rows ~1175–3508) is uniform solid black (0,0,0) with no printed content — the same white-top/black-bottom degenerate pattern already confirmed on page 179 of this book. This corroborates that page 178 is a source-image extraction defect rather than genuine page content or a normal acknowledgements layout.
-
-## Page 179  -- none - [defective-image] - none - none
-
-This source image is defective: the top ~33% is pure white and the bottom ~67% is pure solid black with a narrow transition band, with no legible printed content. This does not match a genuine blank page (compare Tricolore 1 page 179, which is fully white). Likely an image-extraction/rendering defect in the source pipeline.
+<!-- blank page: the embedded scan is uniformly white across the full canvas (a single distinct luminance value), matching Tricolore 1 page 179. The earlier white-top/black-bottom appearance was a rasterization fault, not the scan; see pages/_qa/page-179.json. -->
 
 ## Page 180  -- none - [cover] - cover - none
 
