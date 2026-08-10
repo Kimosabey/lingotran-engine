@@ -68,7 +68,9 @@ def page_title(body):
         s = ' '.join(s.split())
         if not s or re.match(r'^Seite\s+\d+$', s, re.I) or re.match(r'^\d+$', s):
             continue
-        return s[:90]
+        # Strip again after truncating: cutting at 90 chars can land mid-gap and
+        # leave a trailing space in the cell.
+        return s[:90].strip()
     return ''
 
 

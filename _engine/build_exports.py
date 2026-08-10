@@ -72,11 +72,44 @@ def split_frontmatter(txt):
 
 
 def page_title(body):
+    """First real heading/line of a page, for the catalog's `title` column.
+
+    Skips HTML comments (single- and multi-line), bare page-number markers and
+    decorative-only lines, any of which would otherwise become the page's
+    "title" -- a transcriber's `<!-- this page is blank -->` note is a comment
+    about the page, not its heading. Mirrors the same fix already made in
+    german/extracted/_tools/catalog.py (commit 5ac5020); the shared engine
+    never received it, so French exports still carried comment text and
+    ragged whitespace in `title`.
+    """
+    in_comment = False
     for ln in body.splitlines():
-        s = re.sub(r'^#+\s*', '', ln.strip())
-        s = re.sub(r'[*_`>|\[\]]', '', s).strip()
-        if s:
-            return s[:90]
+        s = ln.strip()
+        if in_comment:
+            if '-->' in s:
+                in_comment = False
+            continue
+        if not s:
+            continue
+        if s.startswith('<!--'):
+            if '-->' not in s:
+                in_comment = True
+            continue
+        # Strip an inline trailing comment before it can pad the title.
+        s = re.sub(r'<!--.*?-->', ' ', s)
+        s = re.sub(r'^#+\s*', '', s)
+        s = re.sub(r'[*_`>|\[\]]', '', s)
+        # &nbsp; and friends are markup, not printed text -- collapse to spaces
+        # so they don't survive as literal entities in a spreadsheet cell.
+        s = re.sub(r'&(nbsp|#160|thinsp|ensp|emsp);', ' ', s)
+        s = ' '.join(s.split())
+        # A bare page number ("14", "Page 14", "Seite 14") is a running footer,
+        # not a heading.
+        if not s or re.match(r'^(page|seite|p)\s*\.?\s*\d+$', s, re.I) or re.match(r'^\d+$', s):
+            continue
+        # Strip again after truncating: cutting at 90 chars can land mid-gap and
+        # leave a trailing space in the cell.
+        return s[:90].strip()
     return ''
 
 
