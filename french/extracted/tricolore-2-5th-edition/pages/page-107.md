@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 107
 orientation: 0
-content_type: [reading, exercise, listening-sheet, speaking-prompt, writing-prompt, vocabulary, explanation]
+content_type: [reading-text, exercise, listening-sheet, speaking-prompt, writing-prompt, vocabulary, explanation]
 level: A2
 section: reading
 chapter: 7A Qu'est-ce qu'on met?

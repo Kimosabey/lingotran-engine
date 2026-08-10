@@ -103,12 +103,12 @@
 |---|---|
 | exercise | 135 |
 | vocabulary | 77 |
-| grammar-box | 69 |
-| listening-sheet | 51 |
+| grammar-box | 73 |
+| listening-sheet | 54 |
+| reading-text | 45 |
 | speaking-prompt | 45 |
-| reading-text | 41 |
 | chapter-opener | 39 |
-| writing-prompt | 34 |
+| writing-prompt | 36 |
 | lesson | 32 |
 | dialogue | 31 |
 | picture-story | 26 |
@@ -118,24 +118,15 @@
 | comprehension-questions | 9 |
 | strategy-box | 8 |
 | reference | 7 |
-| grammar | 6 |
 | phonetics | 6 |
 | conjugation-table | 5 |
 | cover | 4 |
 | instructions | 4 |
-| reading | 4 |
-| matching | 3 |
 | song | 3 |
 | toc | 3 |
-| grammar-table | 2 |
 | intro | 2 |
-| listening | 2 |
 | table | 2 |
-| writing-task | 2 |
-| glossary | 1 |
 | illustration | 1 |
-| listening-task | 1 |
-| logic-puzzle | 1 |
 
 **By activity type**
 
@@ -10142,7 +10133,7 @@ tant pis! *too bad, never mind*
 
 98 quatre-vingt-dix-huit
 
-## Page 101  -- reading - 6F C'était bien? - [exercise, writing-prompt, grammar-box, phonetics, reading-text, listening-task, comprehension-questions] - short-answer - mixed
+## Page 101  -- reading - 6F C'était bien? - [exercise, writing-prompt, grammar-box, phonetics, reading-text, listening-sheet, comprehension-questions] - short-answer - mixed
 
 # 6 En voyage
 
@@ -10801,7 +10792,7 @@ mon pull, ==ma jupe==, [[mes bottes]] <!-- "mon pull" is printed in the same pla
 
 104 cent-quatre
 
-## Page 107  -- reading - 7A Qu'est-ce qu'on met? - [reading, exercise, listening-sheet, speaking-prompt, writing-prompt, vocabulary, explanation] - reading-comprehension - shopping
+## Page 107  -- reading - 7A Qu'est-ce qu'on met? - [reading-text, exercise, listening-sheet, speaking-prompt, writing-prompt, vocabulary, explanation] - reading-comprehension - shopping
 
 *(header, top right)* 7 Ça va?
 
@@ -12410,7 +12401,7 @@ Les footballeurs du club de football de Nîmes (Nîmes Olympique) sont surnommé
 
 120 cent-vingt
 
-## Page 123  -- grammar - 8A À ne pas manquer - [exercise, grammar-table, reading-text, listening-sheet, speaking-prompt] - true-false - city-places
+## Page 123  -- grammar - 8A À ne pas manquer - [exercise, grammar-box, reading-text, listening-sheet, speaking-prompt] - true-false - city-places
 
 *(header, top right)* 8 On va s'amuser
 
@@ -12535,7 +12526,7 @@ Trouve les paires. **Exemple: 1b**
 
 cent-vingt-et-un 121
 
-## Page 124  -- reading - 8B Tu aimes sortir? - [chapter-opener, picture-story, dialogue, exercise, grammar-table, listening-sheet] - reading-comprehension - hobby
+## Page 124  -- reading - 8B Tu aimes sortir? - [chapter-opener, picture-story, dialogue, exercise, grammar-box, listening-sheet] - reading-comprehension - hobby
 
 # 8B Tu aimes sortir?
 
@@ -14345,7 +14336,7 @@ Mets les verbes au passé composé (**avoir** + participe passé) et écris les 
 
 138 cent-trente-huit
 
-## Page 141  -- none - 4 Au choix - [exercise, writing-task] - fill-in - mixed
+## Page 141  -- none - 4 Au choix - [exercise, writing-prompt] - fill-in - mixed
 
 **[A2 (inferred)]**
 ### 4 Des questions et des réponses
@@ -14575,7 +14566,7 @@ Mets les phrases dans l'ordre pour faire un résumé de l'histoire à la page 78
 
 140 cent-quarante
 
-## Page 143  -- none - 5 Au choix - [exercise, speaking-prompt, listening, logic-puzzle] - fill-in - restaurant
+## Page 143  -- none - 5 Au choix - [exercise, speaking-prompt, listening-sheet] - fill-in - restaurant
 
 **[A2 (inferred)]**
 ### 6 Réponds sans dire 'oui' ou 'non'
@@ -14787,7 +14778,7 @@ Ce matin, Luc est allé à un grand magasin. Mets les phrases dans le bon ordre 
 
 142 cent-quarante-deux
 
-## Page 145  -- none - 6 Au choix - [exercise, matching, listening, writing-task] - fill-in - travel
+## Page 145  -- none - 6 Au choix - [exercise, listening-sheet, writing-prompt] - fill-in - travel
 
 **[A2 (inferred)]**
 ### 5 Je suis enfin arrivé(e)
@@ -14927,7 +14918,7 @@ les doigts une oreille le cou le pied
 
 144 cent-quarante-quatre
 
-## Page 147  -- none - Unité 7 Au choix - [exercise, reading] - matching - health
+## Page 147  -- none - Unité 7 Au choix - [exercise, reading-text] - matching - health
 
 **[A2 (inferred)]**
 ### 4 Ils sont malades!
@@ -15000,7 +14991,7 @@ allez prenez restez ouvrez demandez venez
 
 cent-quarante-cinq 145
 
-## Page 148  -- none - Unité 8 Au choix - [exercise, reading] - fill-in - mixed
+## Page 148  -- none - Unité 8 Au choix - [exercise, reading-text] - fill-in - mixed
 
 # unité 8 — Au choix
 
@@ -15094,7 +15085,7 @@ Tu as une bonne mémoire? Isabelle est beaucoup sortie mais où, et avec qui? Co
 
 146 cent-quarante-six
 
-## Page 149  -- none - Unité 8 Au choix - [exercise, reading] - fill-in - mixed
+## Page 149  -- none - Unité 8 Au choix - [exercise, reading-text] - fill-in - mixed
 
 **[A2 (inferred)]**
 ### 5 Trois élèves
@@ -15192,7 +15183,7 @@ Pour 5–8, utilise **avoir** comme verbe auxiliaire.
 
 cent-quarante-sept 147
 
-## Page 150  -- none - Au choix extra: Perfect tense practice - [exercise, grammar] - fill-in - mixed
+## Page 150  -- none - Au choix extra: Perfect tense practice - [exercise, grammar-box] - fill-in - mixed
 
 # Au choix extra: Perfect tense practice
 
@@ -15321,7 +15312,7 @@ Si la question est au passé composé, réponds au passé composé.
 
 148 cent-quarante-huit
 
-## Page 151  -- none - Au choix extra: Perfect tense practice - [exercise, grammar] - fill-in - vacation
+## Page 151  -- none - Au choix extra: Perfect tense practice - [exercise, grammar-box] - fill-in - vacation
 
 ### The perfect tense with *être* and both auxiliary verbs
 
@@ -15425,7 +15416,7 @@ Le crocodile est le plus dangereux.
 
 cent-quarante-neuf 149
 
-## Page 152  -- none - Tu comprends? - [chapter-opener, exercise, listening-sheet, picture-story, matching] - listening-comprehension - mixed
+## Page 152  -- none - Tu comprends? - [chapter-opener, exercise, listening-sheet, picture-story] - listening-comprehension - mixed
 
 *(top banner: dark blue bar spanning the full page width; bold red title text, white-outlined, set against the blue bar)*
 
@@ -15522,7 +15513,7 @@ cent-quarante-neuf 149
 
 150 cent-cinquante
 
-## Page 153  -- none - Tu comprends? - [exercise, listening-sheet, picture-story, matching] - listening-comprehension - mixed
+## Page 153  -- none - Tu comprends? - [exercise, listening-sheet, picture-story] - listening-comprehension - mixed
 
 **[A2 (inferred)]**
 ### 5 Vous avez choisi?
@@ -16347,7 +16338,7 @@ Il est minuit et demi.
 
 154 cent-cinquante-quatre
 
-## Page 157  -- none - Grammaire: 1 Nouns and articles - [grammar, reference, grammar-box] - instructions - none
+## Page 157  -- none - Grammaire: 1 Nouns and articles - [grammar-box, reference] - instructions - none
 
 *(top-right corner banner: red-white-blue gradient stripe with "Grammaire" in bold white text; page background is pale pink)*
 
@@ -16497,7 +16488,7 @@ The word for 'some' or 'any' changes according to the noun it is used with.
 
 cent-cinquante-cinq **155**
 
-## Page 158  -- none - Grammaire - [grammar, reference, grammar-box] - instructions - none
+## Page 158  -- none - Grammaire - [grammar-box, reference] - instructions - none
 
 *(banner, top-left this time (page 157's banner was top-right): "Grammaire" in bold white text on a red-white-blue gradient stripe; page background pale pink, continuing from page 157)*
 
@@ -16656,7 +16647,7 @@ In French the subject pronouns are:
 
 156 cent-cinquante-six
 
-## Page 159  -- none - Grammaire - [grammar, reference, grammar-box] - instructions - none
+## Page 159  -- none - Grammaire - [grammar-box, reference] - instructions - none
 
 *(banner, top-right (matching page 157, not page 158): "Grammaire" in bold white text on a red-white-blue gradient stripe; page background pale pink, continuing from page 158)*
 
@@ -16788,7 +16779,7 @@ The word **à** can mean 'to' or 'at'. When it is used with **le, la, l'** and *
 
 cent-cinquante-sept 157
 
-## Page 160  -- none - Grammaire - [grammar, reference, grammar-box] - instructions - none
+## Page 160  -- none - Grammaire - [grammar-box, reference] - instructions - none
 
 *(banner, top-left (matching page 158, not page 159): "Grammaire" in bold white text on a red-white-blue gradient stripe; page background pale pink, continuing from page 159)*
 
@@ -18396,7 +18387,7 @@ Continuation of the end-of-book alphabetical French–English glossary, between 
 
 <!-- disclosed gap: not transcribed -->
 
-## Page 172  -- none - Glossaire: Français-anglais - [glossary, wordlist] - vocabulary - none
+## Page 172  -- none - Glossaire: Français-anglais - [wordlist] - vocabulary - none
 
 *(banner, top-left: "Glossaire" in white italic script on a tricolour (blue-white-red) ribbon background; top-right, large black title:)*
 

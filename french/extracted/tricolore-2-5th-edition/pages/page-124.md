@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 124
 orientation: 0
-content_type: [chapter-opener, picture-story, dialogue, exercise, grammar-table, listening-sheet]
+content_type: [chapter-opener, picture-story, dialogue, exercise, grammar-box, listening-sheet]
 level: A2
 section: reading
 chapter: 8B Tu aimes sortir?

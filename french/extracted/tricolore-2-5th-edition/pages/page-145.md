@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 145
 orientation: 0
-content_type: [exercise, matching, listening, writing-task]
+content_type: [exercise, listening-sheet, writing-prompt]
 level: A2
 section: none
 chapter: 6 Au choix

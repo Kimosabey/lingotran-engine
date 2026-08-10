@@ -176,6 +176,29 @@ def verify_collection(root, c):
             issues.append('inferred-level book: %d item(s) carry a `level` outside level_options %s '
                           '(e.g. %s)' % (len(level_invalid), sorted(level_options), bad[:8]))
 
+    # Cross-check the blank-answer rate against what the book CLAIMS about its
+    # own answer key. A high blank rate is entirely correct for a student
+    # coursebook whose corriges live in a separate teacher's guide (Cosmopolite
+    # 1 is 35%, Tricolore 2 is 58%) -- and entirely wrong for a book that
+    # prints its own key, where it means the answers were there to extract and
+    # were missed. Nothing compared the two before, so either reading looked
+    # the same from the outside.
+    ak = (c.get('answer_key') or {}).get('status')
+    answerable = [it for it in items
+                  if (it.get('item_type') or '') not in OPEN_ENDED_TYPES]
+    if ak and answerable:
+        blank = sum(1 for it in answerable if not (it.get('correct_answer') or '').strip())
+        rate = 100.0 * blank / len(answerable)
+        if ak == 'printed' and rate > 20:
+            issues.append('answer_key.status is "printed" but %.0f%% of answerable items '
+                          '(%d/%d) have a blank correct_answer - either the key was not '
+                          'extracted, or the status is wrong'
+                          % (rate, blank, len(answerable)))
+        elif ak in ('separate-guide', 'none') and rate < 5:
+            issues.append('answer_key.status is "%s" but only %.0f%% of answerable items are '
+                          'blank - answers were found somewhere, so the status is likely wrong'
+                          % (ak, rate))
+
     if fixed:
         atomic_write_text(path, json.dumps(data, ensure_ascii=False, indent=1))
 

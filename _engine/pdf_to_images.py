@@ -15,7 +15,12 @@ Usage:
     python _engine/pdf_to_images.py --root french/extracted --all
     python _engine/pdf_to_images.py --root french/extracted <slug> [<slug>...]
     python _engine/pdf_to_images.py --root french/extracted --dpi 200 --all
+    python _engine/pdf_to_images.py --root french/extracted --audit --all
+
+Every render is screened for blank/degenerate pages before any vision budget
+is spent on them; --audit re-runs that screen alone, without re-rasterizing.
 """
+import glob
 import io
 import os
 import sys
@@ -62,6 +67,62 @@ def _miscoloured_full_page_image(doc, page):
     return info if actual != expected else None
 
 
+def image_health(path):
+    """Classify a rendered page image as 'ok', 'blank' or 'degenerate'.
+
+    Transcription is the single most expensive stage in this engine (~45% of
+    spend, and QA re-reading the same image is another ~35%), so dispatching a
+    vision agent at a page that carries no recoverable content is pure waste --
+    and worse, it comes back as a mysterious "gap" that costs more cycles to
+    investigate. Tricolore 2 lost four pages to exactly that: two genuinely
+    blank, two rendered black by a colorspace bug, all four investigated by
+    hand months later.
+
+    Cheap, deterministic screen, no model involved:
+      - blank      : one or two distinct luminance values, or effectively no
+                     ink at all (a truly empty scan)
+      - degenerate : a large solid-black region swallowing the page
+
+    The discriminator for 'degenerate' is the share of pixels in the darkest
+    16 levels, NOT mean brightness. Mean alone cannot tell a broken decode from
+    a legitimately dark photographic cover -- measured on this corpus, the
+    known-broken renders sit at 66.6% solid black while real covers (which can
+    be darker than average overall) sit between 0% and 10.7%. Thresholding on
+    mean flagged every cover in the corpus; this separates them cleanly.
+    """
+    with Image.open(path) as im:
+        hist = im.convert('L').histogram()
+    total = sum(hist) or 1
+    distinct = sum(1 for c in hist if c)
+    mean = sum(i * c for i, c in enumerate(hist)) / float(total)
+    solid_black = sum(hist[:16]) / float(total)
+    ink = sum(c for i, c in enumerate(hist) if i < 200) / float(total)
+    # Order matters: a page that is half solid black has only two distinct
+    # luminance values, so a "few distinct values => blank" test would claim it
+    # is empty. Rule out the broken/black case first, and require blankness to
+    # actually be WHITE rather than merely low-variety.
+    if solid_black > 0.35:
+        return 'degenerate', mean, solid_black
+    if (distinct <= 2 and mean > 240) or ink < 0.0005:
+        return 'blank', mean, solid_black
+    return 'ok', mean, solid_black
+
+
+def audit_images(out_dir):
+    """Screen already-rendered page images; returns {page_number: reason}."""
+    flagged = {}
+    for fp in sorted(glob.glob(os.path.join(out_dir, 'page-*.png'))):
+        try:
+            state, mean, solid = image_health(fp)
+        except Exception as e:
+            flagged[os.path.basename(fp)] = 'unreadable (%s)' % e
+            continue
+        if state != 'ok':
+            flagged[os.path.basename(fp)] = '%s (mean luminance %.0f, %.0f%% solid black)' % (
+                state, mean, 100 * solid)
+    return flagged
+
+
 def render(pdf_path, out_dir, dpi=300):
     """Render every page of pdf_path to out_dir/page-NNN.png at the given DPI."""
     os.makedirs(out_dir, exist_ok=True)
@@ -91,6 +152,11 @@ def render(pdf_path, out_dir, dpi=300):
 
 def main(argv):
     root = parse_root(argv)
+    # --audit screens already-rendered images without re-rasterizing, so a
+    # book whose images predate this check can still be swept.
+    audit_only = '--audit' in argv
+    if audit_only:
+        argv.remove('--audit')
     dpi = 300
     if '--dpi' in argv:
         k = argv.index('--dpi')
@@ -119,11 +185,26 @@ def main(argv):
         if not os.path.exists(pdf_path):
             print('MISSING pdf, skipping %s: %s' % (c['slug'], pdf_path))
             continue
+        if audit_only:
+            flagged = audit_images(out_dir)
+            print('%-32s %3d image(s) screened, %d flagged'
+                  % (c['slug'], len(glob.glob(os.path.join(out_dir, 'page-*.png'))), len(flagged)))
+            for name, why in sorted(flagged.items()):
+                print('%-32s   %s: %s' % ('', name, why))
+            continue
         n, repaired = render(pdf_path, out_dir, dpi)
         print('%-32s %3d pages @ %d DPI -> %s' % (c['slug'], n, dpi, out_dir))
         if repaired:
             print('%-32s   %d page(s) decoded from the embedded scan (declared /ColorSpace '
                   'contradicts the JPEG): %s' % ('', len(repaired), repaired))
+        # Screen before anyone spends vision budget on these pages.
+        flagged = audit_images(out_dir)
+        if flagged:
+            print('%-32s   %d page(s) look blank or degenerate - review BEFORE dispatching'
+                  % ('', len(flagged)))
+            print('%-32s   transcription agents at them (see PLAYBOOK.md):' % '')
+            for name, why in sorted(flagged.items()):
+                print('%-32s     %s: %s' % ('', name, why))
 
 
 if __name__ == '__main__':

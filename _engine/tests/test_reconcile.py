@@ -12,6 +12,7 @@ import tempfile
 import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import reconcile
 from reconcile import _qa_ok, _partition_accepted_gaps
 
 
@@ -85,3 +86,41 @@ class AcceptedGapPartitionTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class MetadataCompletenessTests(unittest.TestCase):
+    """tricolore-2 reached a shipped deliverable with no book_type, answer_key,
+    caveats or accepted_qa_gaps -- so its unified .md had no "Known
+    limitations" section and its 11 gaps were disclosed nowhere a recipient
+    would look. Delivery-time metadata is exactly what gets forgotten."""
+
+    def _c(self, **kw):
+        base = {'slug': 'b', 'book_type': 'student-coursebook',
+                'answer_key': {'status': 'separate-guide'},
+                'caveats': [], 'accepted_qa_gaps': []}
+        base.update(kw)
+        return base
+
+    def test_fully_described_book_passes(self):
+        self.assertEqual(reconcile.check_metadata(self._c()), [])
+
+    def test_missing_book_type_is_reported(self):
+        c = self._c()
+        del c['book_type']
+        self.assertIn('book_type', reconcile.check_metadata(c))
+
+    def test_missing_answer_key_is_reported(self):
+        c = self._c()
+        del c['answer_key']
+        self.assertTrue(any('answer_key' in m for m in reconcile.check_metadata(c)))
+
+    def test_unknown_answer_key_status_is_reported(self):
+        c = self._c(answer_key={'status': 'maybe'})
+        self.assertTrue(any('expected printed' in m for m in reconcile.check_metadata(c)))
+
+    def test_empty_lists_are_an_explicit_answer_not_a_gap(self):
+        """[] means "reviewed, there are none" -- absent means "never asked"."""
+        self.assertEqual(reconcile.check_metadata(self._c(caveats=[], accepted_qa_gaps=[])), [])
+        c = self._c()
+        del c['caveats']
+        self.assertTrue(any('caveats' in m for m in reconcile.check_metadata(c)))

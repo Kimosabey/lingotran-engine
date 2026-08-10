@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 148
 orientation: 0
-content_type: [exercise, reading]
+content_type: [exercise, reading-text]
 level: A2
 section: none
 chapter: Unité 8 Au choix

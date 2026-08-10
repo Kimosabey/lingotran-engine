@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 101
 orientation: 0
-content_type: [exercise, writing-prompt, grammar-box, phonetics, reading-text, listening-task, comprehension-questions]
+content_type: [exercise, writing-prompt, grammar-box, phonetics, reading-text, listening-sheet, comprehension-questions]
 level: mixed
 section: reading
 chapter: 6F C'était bien?

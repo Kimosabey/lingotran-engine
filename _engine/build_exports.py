@@ -71,6 +71,23 @@ def split_frontmatter(txt):
     return fm, body
 
 
+# Han, Hiragana, Katakana, Hangul: scripts that do not separate words with
+# spaces. Counting whitespace-delimited tokens in Japanese reports roughly one
+# "word" per LINE, which would make a Japanese book look almost empty next to a
+# French one in the same catalog column. Counted per character instead, which
+# is the normal convention for these scripts.
+CJK = re.compile(r'[぀-ヿ㐀-䶿一-鿿豈-﫿가-힯]')
+
+
+def word_count(body):
+    """Words for space-separated scripts, characters for CJK, mixed handled by
+    counting each part in its own convention. Language-agnostic by
+    construction, so a new language needs no change here."""
+    cjk = len(CJK.findall(body))
+    latin = len(re.findall(r'\S+', CJK.sub(' ', body)))
+    return cjk + latin
+
+
 def page_title(body):
     """First real heading/line of a page, for the catalog's `title` column.
 
@@ -204,7 +221,7 @@ def build_catalog(root, c):
             'activity_type': cl.get('activity_type', ''), 'topic': cl.get('topic', ''),
             'level': fm.get('level', c.get('level', '')),
             'status': fm.get('status', ''), 'qa': fm.get('qa', ''),
-            'word_count': len(re.findall(r'\S+', body)),
+            'word_count': word_count(body),
             'summary': cl.get('summary', ''), 'title': page_title(body),
         }
         rows.append(row)

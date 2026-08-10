@@ -297,6 +297,22 @@ book. Delivery (Drive upload + notify) happens here; see a language's
    looks at what the recipient sees.
 5. `git status --porcelain -- <frozen-lang>/` is empty.
 
+And two gates that run *earlier* than "done", where they still save money:
+
+- **After rasterizing, before dispatching any transcription agent**,
+  `pdf_to_images.py` screens every page for blank/degenerate images and prints
+  what it found (re-runnable alone via `--audit`). Vision is ~80% of spend, so
+  a page with nothing on it is the most expensive thing to hand an agent — and
+  it comes back as a "gap" that costs more cycles to diagnose. Review the list
+  and record genuine blanks as `accepted_qa_gaps` instead of transcribing them.
+- **`reconcile.py` refuses to call a fully-transcribed book CLEAN** until its
+  `collections.json` entry carries `book_type`, `answer_key.status`, `caveats`
+  and `accepted_qa_gaps`. Use `[]` for the two lists when a book genuinely has
+  none — absent means "never asked", `[]` means "reviewed, there are none".
+  Without this a book ships with no "Known limitations" section at all.
+  `verify_answers.py` additionally cross-checks the blank-answer rate against
+  the declared `answer_key.status`, so "printed" plus 58% blanks is caught.
+
 ---
 
 ## 5. Onboarding a brand-new language

@@ -137,6 +137,34 @@ def check_classification(root, slug, n):
     return True, missing
 
 
+def check_metadata(c):
+    """A finished book must describe itself in collections.json.
+
+    tricolore-2-5th-edition reached a packaged, shipped deliverable carrying
+    none of these: no book_type, no answer_key, no caveats, no
+    accepted_qa_gaps. The consequence was invisible until someone opened the
+    output -- its unified .md had no "Known limitations" section at all, so its
+    11 disclosed gaps were disclosed nowhere a recipient would look, while the
+    other two French books both documented theirs. Metadata that only matters
+    at delivery time is exactly the kind that gets forgotten, so it is checked
+    here rather than trusted.
+    """
+    missing = []
+    if not c.get('book_type'):
+        missing.append('book_type')
+    ak = c.get('answer_key')
+    if not isinstance(ak, dict) or not ak.get('status'):
+        missing.append('answer_key.status')
+    elif ak['status'] not in ('printed', 'separate-guide', 'partial', 'none'):
+        missing.append('answer_key.status=%r (expected printed|separate-guide|partial|none)'
+                       % ak['status'])
+    if 'caveats' not in c:
+        missing.append('caveats (use [] if the book genuinely has none)')
+    if 'accepted_qa_gaps' not in c:
+        missing.append('accepted_qa_gaps (use [] if there are none)')
+    return missing
+
+
 def _info_counts(root, slug):
     q_path = os.path.join(root, slug, 'pages', '_questions.json')
     q_count = 0
@@ -193,8 +221,15 @@ def main(argv):
         started, class_missing = check_classification(root, slug, n)
         q_count, v_count = _info_counts(root, slug)
 
-        clean = not transcription_gaps and not class_missing and not gap
+        # Only demand delivery metadata once a book is actually transcribed --
+        # a collection registered but not started has nothing to describe yet.
+        meta_missing = check_metadata(c) if not transcription_gaps else []
+        clean = not transcription_gaps and not class_missing and not gap and not meta_missing
         print('%-32s %3d pages | %s' % (slug, n, 'CLEAN' if clean else 'GAPS FOUND'))
+        if meta_missing:
+            print('  collections.json INCOMPLETE for a finished book (%d): %s'
+                  % (len(meta_missing), ', '.join(meta_missing)))
+            print('    -> without these the deliverable ships with no "Known limitations" section')
         if missing_md:
             print('  missing page-NNN.md      (%d): %s' % (len(missing_md), missing_md))
         if missing_qa:

@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 141
 orientation: 0
-content_type: [exercise, writing-task]
+content_type: [exercise, writing-prompt]
 level: A2
 section: none
 chapter: 4 Au choix

@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 159
 orientation: 0
-content_type: [grammar, reference, grammar-box]
+content_type: [grammar-box, reference]
 level: A2
 section: none
 chapter: Grammaire

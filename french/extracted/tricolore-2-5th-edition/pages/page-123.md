@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 123
 orientation: 0
-content_type: [exercise, grammar-table, reading-text, listening-sheet, speaking-prompt]
+content_type: [exercise, grammar-box, reading-text, listening-sheet, speaking-prompt]
 level: A2
 section: grammar
 chapter: 8A À ne pas manquer

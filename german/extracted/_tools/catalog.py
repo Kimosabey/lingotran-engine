@@ -49,6 +49,19 @@ def split_frontmatter(txt):
     return fm, body
 
 
+CJK = re.compile(r'[぀-ヿ㐀-䶿一-鿿豈-﫿가-힯]')
+
+
+def word_count(body):
+    """Words for space-separated scripts, characters for CJK. Counting
+    whitespace-delimited tokens in Japanese/Chinese/Korean reports about one
+    "word" per line, which would make such a book look nearly empty in this
+    column next to a German one."""
+    cjk = len(CJK.findall(body))
+    latin = len(re.findall(r'\S+', CJK.sub(' ', body)))
+    return cjk + latin
+
+
 def page_title(body):
     in_comment = False
     for ln in body.splitlines():
@@ -142,7 +155,7 @@ def build_collection(c):
             'activity_type': cl.get('activity_type', ''), 'topic': cl.get('topic', ''),
             'level': fm.get('level', c.get('level', '')),
             'status': fm.get('status', ''), 'qa': fm.get('qa', ''),
-            'word_count': len(re.findall(r'\S+', body)),
+            'word_count': word_count(body),
             'summary': cl.get('summary', ''), 'title': page_title(body),
         }
         rows.append(row)

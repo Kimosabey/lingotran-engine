@@ -82,7 +82,17 @@ OPEN_VOCAB = {
     'content_type': {'cover', 'toc', 'intro', 'instructions', 'reading-text', 'exercise',
                      'listening-sheet', 'writing-prompt', 'speaking-prompt', 'vocabulary',
                      'answer-key', 'lesson', 'grammar-box', 'dialogue', 'audio-script',
-                     'wordlist', 'chapter-opener', 'review', 'picture-story', 'song'},
+                     'wordlist', 'chapter-opener', 'review', 'picture-story', 'song',
+                     # Adopted 2026-08-10 after a drift review: each names a real
+                     # page element with no existing equivalent. Near-duplicates
+                     # found in the same pass were collapsed instead (reading ->
+                     # reading-text, listening/listening-task -> listening-sheet,
+                     # grammar/grammar-table -> grammar-box, glossary -> wordlist,
+                     # matching/logic-puzzle -> exercise, since those two are
+                     # item_types rather than page content types).
+                     'explanation', 'comprehension-questions', 'strategy-box',
+                     'reference', 'phonetics', 'conjugation-table', 'table',
+                     'illustration'},
     'activity_type': set(),
     'topic': set(),
 }

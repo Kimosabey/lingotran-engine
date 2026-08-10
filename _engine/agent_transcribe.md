@@ -74,7 +74,13 @@ source: <src>
 collection: <collection>
 page: <page>
 orientation: <0|90|180|270>
-content_type: [<one or more of: cover, toc, intro, instructions, reading-text, exercise, listening-sheet, writing-prompt, speaking-prompt, vocabulary, answer-key, lesson, grammar-box, dialogue, audio-script, wordlist, chapter-opener, review, picture-story, song>]
+content_type: [<one or more of: cover, toc, intro, instructions, reading-text, exercise, listening-sheet, writing-prompt, speaking-prompt, vocabulary, answer-key, lesson, grammar-box, dialogue, audio-script, wordlist, chapter-opener, review, picture-story, song, explanation, comprehension-questions, strategy-box, reference, phonetics, conjugation-table, table, illustration>]
+   This list is CLOSED — `verify_exports.py` fails on anything outside it. Do not coin a
+   synonym for a value already here (`reading` when `reading-text` exists, `grammar` when
+   `grammar-box` exists, `glossary` when `wordlist` exists), and do not put an *item_type*
+   here (`matching`, `logic-puzzle` describe an exercise, not a page). If a page genuinely
+   has no matching category, use the closest one and say so in the QA note rather than
+   inventing a value — 17 invented values had to be cleaned up on 2026-08-10.
 level: <LEVEL if LEVEL_MODE=fixed; the dominant/primary level for this page (or "mixed") if LEVEL_MODE=inferred>
 section: <one of SECTION_TAXONOMY, or empty>
 chapter: <the coursebook chapter/unit label as printed, e.g. "Unite 3", or empty if none printed>

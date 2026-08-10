@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 151
 orientation: 0
-content_type: [exercise, grammar]
+content_type: [exercise, grammar-box]
 level: A2
 section: none
 chapter: Au choix extra: Perfect tense practice

@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 143
 orientation: 0
-content_type: [exercise, speaking-prompt, listening, logic-puzzle]
+content_type: [exercise, speaking-prompt, listening-sheet]
 level: A2
 section: none
 chapter: 5 Au choix

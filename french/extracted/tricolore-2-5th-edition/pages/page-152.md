@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 152
 orientation: 0
-content_type: [chapter-opener, exercise, listening-sheet, picture-story, matching]
+content_type: [chapter-opener, exercise, listening-sheet, picture-story]
 level: A2
 section: none
 chapter: Tu comprends?

@@ -3,7 +3,7 @@ source: tricolore-2-5th-edition.pdf
 collection: tricolore-2-5th-edition
 page: 172
 orientation: 0
-content_type: [glossary, wordlist]
+content_type: [wordlist]
 level: A2
 section: none
 chapter: Glossaire: Français-anglais
