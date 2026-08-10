@@ -4,6 +4,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Corrige les erreurs.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Il n'est pas encore neuf heures.",
@@ -18,6 +19,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Corrige les erreurs.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Pierre et Sophie attendent devant le car.",
@@ -32,6 +34,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Corrige les erreurs.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Pierre arrive le dernier.",
@@ -46,6 +49,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Corrige les erreurs.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Martin a acheté les billets.",
@@ -60,6 +64,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Corrige les erreurs.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Ils cherchent le café.",
@@ -74,6 +79,7 @@
     {
       "section": "listening",
       "part": "Exercise 3c",
+      "instruction": "Écoute et complète le texte.",
       "item": "1",
       "item_type": "fill-in",
       "question": "(1) ___ allers-retours pour (2) ___, s'il vous plaît.",
@@ -88,6 +94,7 @@
     {
       "section": "listening",
       "part": "Exercise 3c",
+      "instruction": "Écoute et complète le texte.",
       "item": "2",
       "item_type": "fill-in",
       "question": "(1) ___ allers-retours pour (2) ___, s'il vous plaît.",
@@ -102,6 +109,7 @@
     {
       "section": "listening",
       "part": "Exercise 3c",
+      "instruction": "Écoute et complète le texte.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Voilà, (3) ___ euros.",
@@ -116,6 +124,7 @@
     {
       "section": "listening",
       "part": "Exercise 3c",
+      "instruction": "Écoute et complète le texte.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Le prochain train pour (4) ___ part à quelle heure?",
@@ -130,6 +139,7 @@
     {
       "section": "listening",
       "part": "Exercise 3c",
+      "instruction": "Écoute et complète le texte.",
       "item": "5",
       "item_type": "fill-in",
       "question": "À (5) ___ .",
@@ -144,6 +154,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue (être)",
+      "instruction": "Copy and complete the verb être. (All the parts of the present tense are on this page.)",
       "item": "1",
       "item_type": "fill-in",
       "question": "Copy and complete the verb être: je ___, tu ___, il/elle/on ___, nous ___, vous ___, ils/elles ___.",
@@ -158,6 +169,7 @@
     {
       "section": "reading",
       "part": "Exercise 3e",
+      "instruction": "Comment ça se dit en français?",
       "item": "1",
       "item_type": "short-answer",
       "question": "I don't know",
@@ -172,6 +184,7 @@
     {
       "section": "reading",
       "part": "Exercise 3e",
+      "instruction": "Comment ça se dit en français?",
       "item": "2",
       "item_type": "short-answer",
       "question": "before taking",
@@ -186,6 +199,7 @@
     {
       "section": "reading",
       "part": "Exercise 3e",
+      "instruction": "Comment ça se dit en français?",
       "item": "3",
       "item_type": "short-answer",
       "question": "over there",
@@ -200,6 +214,7 @@
     {
       "section": "reading",
       "part": "Exercise 3e",
+      "instruction": "Comment ça se dit en français?",
       "item": "4",
       "item_type": "short-answer",
       "question": "now",
@@ -214,6 +229,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "",
       "item": "a",
       "item_type": "speaking-task",
       "question": "À deux, lisez la conversation.",
@@ -228,6 +244,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "",
       "item": "b",
       "item_type": "speaking-task",
       "question": "Inventez d'autres conversations en changeant les détails surlignés.",
@@ -242,6 +259,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "",
       "item": "c",
       "item_type": "writing-task",
       "question": "Ajoutez deux questions et réponses à la conversation.",
@@ -256,6 +274,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "On peut acheter des billets",
@@ -270,6 +289,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "On peut acheter des magazines",
@@ -284,6 +304,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Pour acheter une boisson, il faut aller",
@@ -298,6 +319,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Pour déjeuner ou dîner, on va",
@@ -312,6 +334,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Pour laisser sa valise, il faut aller",
@@ -326,6 +349,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "On peut s'asseoir",
@@ -340,6 +364,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "7",
       "item_type": "matching",
       "question": "Pour prendre le train, on va",
@@ -354,6 +379,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les paires.",
       "item": "8",
       "item_type": "matching",
       "question": "Pour connaître les tarifs et les horaires, on va",
@@ -368,6 +394,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–6. Écoute et écris la bonne lettre.",
       "item": "1",
       "item_type": "matching",
       "question": "Écris 1–6. Écoute et écris la bonne lettre.",
@@ -382,6 +409,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–6. Écoute et écris la bonne lettre.",
       "item": "2",
       "item_type": "matching",
       "question": "Écoute et écris la bonne lettre.",
@@ -396,6 +424,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–6. Écoute et écris la bonne lettre.",
       "item": "3",
       "item_type": "matching",
       "question": "Écoute et écris la bonne lettre.",
@@ -410,6 +439,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–6. Écoute et écris la bonne lettre.",
       "item": "4",
       "item_type": "matching",
       "question": "Écoute et écris la bonne lettre.",
@@ -424,6 +454,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–6. Écoute et écris la bonne lettre.",
       "item": "5",
       "item_type": "matching",
       "question": "Écoute et écris la bonne lettre.",
@@ -438,6 +469,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–6. Écoute et écris la bonne lettre.",
       "item": "6",
       "item_type": "matching",
       "question": "Écoute et écris la bonne lettre.",
@@ -452,6 +484,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "Regarde les symboles. Qu'est-ce qu'on dit?",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Regarde les symboles. Qu'est-ce qu'on dit?",
@@ -466,6 +499,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "Use what you know about pronunciation to say these words correctly.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Use what you know about pronunciation to say these words correctly: heure, horloge, huître, horaire, haut / chocolat, théâtre, championnat, thé, sympathique.",
@@ -480,6 +514,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Il veut acheter un billet.",
@@ -494,6 +529,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Elle veut vérifier l'heure de départ de son train.",
@@ -508,6 +544,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Il veut attendre quelque part. Son train a du retard.",
@@ -522,6 +559,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Avant d'aller sur le quai, il faut composter son billet.",
@@ -536,6 +574,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Elles veulent aller sur le quai et monter dans le train.",
@@ -550,6 +589,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "On va quitter la gare, alors il faut chercher la sortie.",
@@ -564,6 +604,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Écris 1–5. Écoute et note l'heure de départ et le quai.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Écoute et note l'heure de départ et le quai.",
@@ -578,6 +619,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Écris 1–5. Écoute et note l'heure de départ et le quai.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Écoute et note l'heure de départ et le quai.",
@@ -592,6 +634,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Écris 1–5. Écoute et note l'heure de départ et le quai.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Écoute et note l'heure de départ et le quai.",
@@ -606,6 +649,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Écris 1–5. Écoute et note l'heure de départ et le quai.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Écoute et note l'heure de départ et le quai.",
@@ -620,6 +664,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Écris 1–5. Écoute et note l'heure de départ et le quai.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Écoute et note l'heure de départ et le quai.",
@@ -634,6 +679,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écris 1–5. Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
       "item": "1",
       "item_type": "matching",
       "question": "Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
@@ -648,6 +694,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écris 1–5. Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
       "item": "2",
       "item_type": "matching",
       "question": "Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
@@ -662,6 +709,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écris 1–5. Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
       "item": "3",
       "item_type": "matching",
       "question": "Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
@@ -676,6 +724,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écris 1–5. Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
       "item": "4",
       "item_type": "matching",
       "question": "Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
@@ -690,6 +739,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écris 1–5. Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
       "item": "5",
       "item_type": "matching",
       "question": "Écoute les voyageurs. Quel est le bon billet pour chaque voyageur?",
@@ -704,6 +754,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Trouve les contraires.",
       "item": "1",
       "item_type": "matching",
       "question": "bonjour",
@@ -718,6 +769,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Trouve les contraires.",
       "item": "2",
       "item_type": "matching",
       "question": "occupé",
@@ -732,6 +784,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Trouve les contraires.",
       "item": "3",
       "item_type": "matching",
       "question": "la sortie",
@@ -746,6 +799,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Trouve les contraires.",
       "item": "4",
       "item_type": "matching",
       "question": "l'arrivée",
@@ -760,6 +814,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Trouve les contraires.",
       "item": "5",
       "item_type": "matching",
       "question": "à l'heure",
@@ -774,6 +829,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Trouve les contraires.",
       "item": "6",
       "item_type": "matching",
       "question": "un aller simple",
@@ -788,6 +844,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute et lis. Choisis a ou b pour compléter la conversation.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Excusez-moi, (1) cette place est occupée?",
@@ -802,6 +859,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute et lis. Choisis a ou b pour compléter la conversation.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "(2) ...",
@@ -816,6 +874,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute et lis. Choisis a ou b pour compléter la conversation.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Tu préfères la fenêtre ou le couloir? (3)",
@@ -830,6 +889,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute et lis. Choisis a ou b pour compléter la conversation.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Il y a de la place pour (4) là-bas.",
@@ -844,6 +904,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute et lis. Choisis a ou b pour compléter la conversation.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Moi, je vais lire (5).",
@@ -858,6 +919,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute et lis. Choisis a ou b pour compléter la conversation.",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Et moi, je vais (6).",
@@ -872,6 +934,7 @@
     {
       "section": "speaking",
       "part": "Exercise 7",
+      "instruction": "",
       "item": "a",
       "item_type": "speaking-task",
       "question": "Lisez la conversation à deux.",
@@ -886,6 +949,7 @@
     {
       "section": "speaking",
       "part": "Exercise 7",
+      "instruction": "",
       "item": "b",
       "item_type": "speaking-task",
       "question": "Inventez d'autres conversations.",
@@ -900,6 +964,7 @@
     {
       "section": "writing",
       "part": "Exercise 7",
+      "instruction": "",
       "item": "c",
       "item_type": "writing-task",
       "question": "Inventez une conversation plus longue.",
@@ -914,6 +979,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Réponds en anglais.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Where did Max go?",
@@ -928,6 +994,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Réponds en anglais.",
       "item": "2",
       "item_type": "short-answer",
       "question": "How did he travel there?",
@@ -942,6 +1009,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Réponds en anglais.",
       "item": "3",
       "item_type": "short-answer",
       "question": "What did he do when he arrived?",
@@ -956,6 +1024,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Réponds en anglais.",
       "item": "4",
       "item_type": "short-answer",
       "question": "What happened later?",
@@ -970,6 +1039,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Réponds en anglais.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Is there a happy ending?",
@@ -984,6 +1054,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Traduis quatre phrases au choix en anglais.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Traduis quatre phrases au choix en anglais.",
@@ -998,6 +1069,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Guillaume le Conquérant est né en Normandie.",
@@ -1012,6 +1084,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Un oiseau est resté dans l'arbre.",
@@ -1026,6 +1099,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Le train est arrivé à l'heure.",
@@ -1040,6 +1114,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Le chat est entré dans la cuisine.",
@@ -1054,6 +1129,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "L'ascenseur est monté au dixième étage.",
@@ -1068,6 +1144,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Mon frère est allé en ville à deux heures.",
@@ -1082,6 +1159,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue (être)",
+      "instruction": "Copy and complete the present tense of être. Check this by looking at Grammaire 12.5.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Copy and complete the present tense of être: je …, tu es, il …, elle est, nous sommes, vous êtes, ils sont, elles sont.",
@@ -1096,6 +1174,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Quand Dani ___ à la maison vendredi dernier, il a trouvé ses parents très fatigués.",
@@ -1110,6 +1189,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "2a",
       "item_type": "fill-in",
       "question": "Samedi matin, Dani ___ très tôt.",
@@ -1124,6 +1204,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "2b",
       "item_type": "fill-in",
       "question": "Après une heure, il ___ avec un gros paquet.",
@@ -1138,6 +1219,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Puis il ___ chez un ami.",
@@ -1152,6 +1234,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "4",
       "item_type": "fill-in",
       "question": "D'abord, le robot ___ dans les chambres pour faire les lits.",
@@ -1166,6 +1249,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Puis il ___ à la cuisine pour chercher l'aspirateur.",
@@ -1180,6 +1264,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Un livre ___ par terre.",
@@ -1194,6 +1279,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "7a",
       "item_type": "fill-in",
       "question": "Dani ___ à six heures",
@@ -1208,6 +1294,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "7b",
       "item_type": "fill-in",
       "question": "il ___ dans le salon. Quelle horreur!",
@@ -1222,6 +1309,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète l'histoire avec les expressions de la case. Puis écoute l'histoire pour vérifier.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Lundi matin, Dani ___ très tôt, mais cette fois avec le robot.",
@@ -1236,6 +1324,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Il est ___ (sortir) de la maison à dix heures.",
@@ -1250,6 +1339,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Il est ___ (aller) à la gare à vélo.",
@@ -1264,6 +1354,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Le train est ___ (entrer) en gare.",
@@ -1278,6 +1369,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Kévin est ___ (monter) dans le train.",
@@ -1292,6 +1384,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Le train ___ (partir) à dix heures quarante.",
@@ -1306,6 +1399,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Vingt minutes après, le train ___ (tomber) en panne.",
@@ -1320,6 +1414,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Kévin ___ (rester) dans le train pendant trente minutes.",
@@ -1334,6 +1429,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Une heure plus tard, le train ___ (arriver) à la gare de Saint-Julien.",
@@ -1348,6 +1444,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Kévin ___ (descendre) du train.",
@@ -1362,6 +1459,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète les phrases.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Il ___ (arriver) au stade trente minutes après.",
@@ -1376,6 +1474,7 @@
     {
       "section": "reading",
       "part": "Exercise 4b",
+      "instruction": "Réponds aux questions.",
       "item": "1",
       "item_type": "short-answer",
       "question": "À quelle heure est-ce que Kévin est arrivé au stade?",
@@ -1390,6 +1489,7 @@
     {
       "section": "reading",
       "part": "Exercise 4b",
+      "instruction": "Réponds aux questions.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Le match a commencé à quatorze heures. Est-ce que Kévin est arrivé avant le match?",
@@ -1404,6 +1504,7 @@
     {
       "section": "reading",
       "part": "Exercise 4b",
+      "instruction": "Réponds aux questions.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Le voyage a duré combien de temps?",
@@ -1418,6 +1519,7 @@
     {
       "section": "writing",
       "part": "Exercise 4c",
+      "instruction": "Tu es Kévin. Change les phrases 1, 2, 4, 7, 9, 10.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Tu es Kévin. Change les phrases 1, 2, 4, 7, 9, 10.",
@@ -1432,6 +1534,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Écoute et choisis la bonne réponse.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Le matin, Martin est resté …",
@@ -1446,6 +1549,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Écoute et choisis la bonne réponse.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Il est sorti …",
@@ -1460,6 +1564,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Écoute et choisis la bonne réponse.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Il est allé …",
@@ -1474,6 +1579,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Écoute et choisis la bonne réponse.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Il est resté là-bas …",
@@ -1488,6 +1594,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Écoute et choisis la bonne réponse.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Il est rentré …",
@@ -1502,6 +1609,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Écoute et complète la réponse.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Le matin, Émilie est restée …",
@@ -1516,6 +1624,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Écoute et complète la réponse.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Elle est sortie …",
@@ -1530,6 +1639,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Écoute et complète la réponse.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Elle est allée …",
@@ -1544,6 +1654,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Écoute et complète la réponse.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Elle est restée là-bas … heures.",
@@ -1558,6 +1669,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Écoute et complète la réponse.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Elle est rentrée …",
@@ -1572,6 +1684,7 @@
     {
       "section": "writing",
       "part": "Exercise 2",
+      "instruction": "Si tu es une fille, copie le message de Zac, mais change les participes passés si nécessaire. (Attention! Il ne faut pas changer les verbes avec avoir.) Si tu es un garçon, copie le message de Marine, mais change les participes passés si nécessaire. Puis signe le message de ton nom.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Si tu es une fille, copie le message de Zac, mais change les participes passés si nécessaire. Si tu es un garçon, copie le message de Marine, mais change les participes passés si nécessaire. Puis signe le message de ton nom.",
@@ -1586,6 +1699,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3a",
+      "instruction": "La personne A pose des questions (a–d), la personne B répond. Puis changez de rôle.",
       "item": "a",
       "item_type": "speaking-task",
       "question": "La personne A pose des questions (a–d), la personne B répond. Puis changez de rôle.",
@@ -1600,6 +1714,7 @@
     {
       "section": "writing",
       "part": "Exercise 3b",
+      "instruction": "Copie les questions et écris tes réponses (vraies ou imaginaires).",
       "item": "b",
       "item_type": "writing-task",
       "question": "Copie les questions et écris tes réponses (vraies ou imaginaires).",
@@ -1614,6 +1729,7 @@
     {
       "section": "writing",
       "part": "Exercise 3c",
+      "instruction": "Écris une conversation plus longue avec deux questions en plus.",
       "item": "c",
       "item_type": "writing-task",
       "question": "Écris une conversation plus longue avec deux questions en plus.",
@@ -1628,6 +1744,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3 (panels)",
+      "instruction": "La personne A pose des questions (a–d), la personne B répond. Puis changez de rôle.",
       "item": "a",
       "item_type": "speaking-task",
       "question": "Quand es-tu sorti(e)?",
@@ -1642,6 +1759,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3 (panels)",
+      "instruction": "La personne A pose des questions (a–d), la personne B répond. Puis changez de rôle.",
       "item": "b",
       "item_type": "speaking-task",
       "question": "Où es-tu allé(e)?",
@@ -1656,6 +1774,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3 (panels)",
+      "instruction": "La personne A pose des questions (a–d), la personne B répond. Puis changez de rôle.",
       "item": "c",
       "item_type": "speaking-task",
       "question": "Tu es resté(e) longtemps là-bas?",
@@ -1670,6 +1789,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3 (panels)",
+      "instruction": "La personne A pose des questions (a–d), la personne B répond. Puis changez de rôle.",
       "item": "d",
       "item_type": "speaking-task",
       "question": "Comment es-tu rentré(e)?",
@@ -1684,6 +1804,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "a",
       "item_type": "matching",
       "question": "Pendant le vol, Lucie a regardé un film, elle a lu son livre et elle a mangé un repas.",
@@ -1698,6 +1819,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "b",
       "item_type": "matching",
       "question": "Un peu plus tard, ils sont allés à la porte numéro huit pour le vol pour Montréal.",
@@ -1712,6 +1834,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "c",
       "item_type": "matching",
       "question": "Après six heures de vol, ils sont arrivés à Montréal. Il faisait nuit quand ils sont descendus de l'avion.",
@@ -1726,6 +1849,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "d",
       "item_type": "matching",
       "question": "Lucie est allée à l'aéroport en car avec les autres membres du club.",
@@ -1740,6 +1864,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "e",
       "item_type": "matching",
       "question": "Ils sont montés dans l'avion et l'avion est parti à l'heure.",
@@ -1754,6 +1879,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "f",
       "item_type": "matching",
       "question": "Ils sont allés au guichet d'Air France pour les formalités et pour laisser les bagages.",
@@ -1768,6 +1894,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue",
+      "instruction": "Find some examples of the past participle in the feminine and the plural on this page.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Find some examples of the past participle in the feminine and the plural on this page.",
@@ -1782,6 +1909,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Moi, je",
@@ -1796,6 +1924,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Tu",
@@ -1810,6 +1939,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Il",
@@ -1824,6 +1954,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Elle",
@@ -1838,6 +1969,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Nous",
@@ -1852,6 +1984,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Vous",
@@ -1866,6 +1999,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "7",
       "item_type": "matching",
       "question": "Ils",
@@ -1880,6 +2014,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Trouve les paires.",
       "item": "8",
       "item_type": "matching",
       "question": "Elles",
@@ -1894,6 +2029,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6",
+      "instruction": "Complète les bulles avec le passé composé du verbe aller.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Tu (1) ___ au match hier soir, Jean-Pierre?",
@@ -1908,6 +2044,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6",
+      "instruction": "Complète les bulles avec le passé composé du verbe aller.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Oui, monsieur, bien sûr, je (2) ___ au match.",
@@ -1922,6 +2059,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6",
+      "instruction": "Complète les bulles avec le passé composé du verbe aller.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Nous aussi, monsieur, nous (3) ___ au match. C'était notre équipe favorite!",
@@ -1936,6 +2074,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6",
+      "instruction": "Complète les bulles avec le passé composé du verbe aller.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Moi aussi, monsieur, je (4) ___ au match. C'était fantastique!",
@@ -1950,6 +2089,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6",
+      "instruction": "Complète les bulles avec le passé composé du verbe aller.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Vous (5) ___ tous ___ au match? C'est curieux, ça.",
@@ -1964,6 +2104,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6",
+      "instruction": "Complète les bulles avec le passé composé du verbe aller.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Moi aussi, je (6) ___ au match.",
@@ -1978,6 +2119,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Je suis ___ (1 arriver) au collège avec Claire à 6h30.",
@@ -1992,6 +2134,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "2",
       "item_type": "fill-in",
       "question": "je suis ___ (2 monter) dans le car avec les autres élèves.",
@@ -2006,6 +2149,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Le car est ___ (3 partir) à 7h00.",
@@ -2020,6 +2164,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "4",
       "item_type": "fill-in",
       "question": "nous sommes ___ (4 arriver) à Calais avec une heure de retard.",
@@ -2034,6 +2179,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "5",
       "item_type": "fill-in",
       "question": "nous sommes ___ (5 descendre) du car",
@@ -2048,6 +2194,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "6",
       "item_type": "fill-in",
       "question": "nous sommes ___ (6 monter) sur le bateau.",
@@ -2062,6 +2209,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "7",
       "item_type": "fill-in",
       "question": "nous sommes ___ (7 arriver) à Douvres.",
@@ -2076,6 +2224,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "8",
       "item_type": "fill-in",
       "question": "nous sommes ___ (8 aller) au château.",
@@ -2090,6 +2239,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Nous sommes ___ (9 rester) une heure au château.",
@@ -2104,6 +2254,7 @@
     {
       "section": "writing",
       "part": "Exercise 1a",
+      "instruction": "André décrit son voyage dans son blog. Complète sa description.",
       "item": "10",
       "item_type": "fill-in",
       "question": "nous sommes ___ (10 aller) à Canterbury, où nous avons rencontré les familles anglaises.",
@@ -2118,6 +2269,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Complète le message de Claire avec la bonne forme du verbe être.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Nous (1) ___ partis à l'heure",
@@ -2132,6 +2284,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Complète le message de Claire avec la bonne forme du verbe être.",
       "item": "2",
       "item_type": "fill-in",
       "question": "nous (2) ___ arrivés à Canterbury à cinq heures du soir.",
@@ -2146,6 +2299,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Complète le message de Claire avec la bonne forme du verbe être.",
       "item": "3",
       "item_type": "fill-in",
       "question": "André (3) ___ parti chez Daniel,",
@@ -2160,6 +2314,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Complète le message de Claire avec la bonne forme du verbe être.",
       "item": "4",
       "item_type": "fill-in",
       "question": "moi, je (4) ___ rentrée ici avec Katy.",
@@ -2174,6 +2329,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Complète le message de Claire avec la bonne forme du verbe être.",
       "item": "5",
       "item_type": "fill-in",
       "question": "nous (5) ___ sortis ensemble",
@@ -2188,6 +2344,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Complète le message de Claire avec la bonne forme du verbe être.",
       "item": "6",
       "item_type": "fill-in",
       "question": "hier soir, les garçons (6) ___ venus ici pour une petite soirée.",
@@ -2202,6 +2359,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "1",
       "item_type": "matching",
       "question": "Écris 1–8. Écoute et note la bonne lettre.",
@@ -2216,6 +2374,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "2",
       "item_type": "matching",
       "question": "Écoute et note la bonne lettre.",
@@ -2230,6 +2389,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "3",
       "item_type": "matching",
       "question": "Écoute et note la bonne lettre.",
@@ -2244,6 +2404,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "4",
       "item_type": "matching",
       "question": "Écoute et note la bonne lettre.",
@@ -2258,6 +2419,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "5",
       "item_type": "matching",
       "question": "Écoute et note la bonne lettre.",
@@ -2272,6 +2434,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "6",
       "item_type": "matching",
       "question": "Écoute et note la bonne lettre.",
@@ -2286,6 +2449,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "7",
       "item_type": "matching",
       "question": "Écoute et note la bonne lettre.",
@@ -2300,6 +2464,7 @@
     {
       "section": "listening",
       "part": "Exercise 2a",
+      "instruction": "Écris 1–8. Écoute et note la bonne lettre.",
       "item": "8",
       "item_type": "matching",
       "question": "Écoute et note la bonne lettre.",
@@ -2314,6 +2479,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "À deux: la personne A décrit un dessin de son choix, la personne B devine le dessin décrit.",
       "item": "b",
       "item_type": "speaking-task",
       "question": "À deux: la personne A décrit un dessin de son choix, la personne B devine le dessin décrit.",
@@ -2328,6 +2494,7 @@
     {
       "section": "writing",
       "part": "Exercise 2c",
+      "instruction": "Écris une phrase pour décrire quatre dessins au choix.",
       "item": "c",
       "item_type": "writing-task",
       "question": "Écris une phrase pour décrire quatre dessins au choix.",
@@ -2342,6 +2509,7 @@
     {
       "section": "writing",
       "part": "Exercise 2d",
+      "instruction": "Écris une phrase pour chaque dessin.",
       "item": "d",
       "item_type": "writing-task",
       "question": "Écris une phrase pour chaque dessin.",
@@ -2356,6 +2524,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Un jour, nous sommes ___ très tôt. (sortir)",
@@ -2370,6 +2539,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Nous sommes ___ à Londres en car. (aller)",
@@ -2384,6 +2554,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Nous sommes ___ près de Buckingham Palace. (descendre)",
@@ -2398,6 +2569,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ensuite, nous sommes ___ à Westminster à pied. (aller)",
@@ -2412,6 +2584,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Nous avons ___ le Parlement et Big Ben. (voir)",
@@ -2426,6 +2599,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "6",
       "item_type": "fill-in",
       "question": "À midi, nous avons ___ un piquenique dans un parc. (faire)",
@@ -2440,6 +2614,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Puis nous sommes ___ à la Tour de Londres en bateau. (aller)",
@@ -2454,6 +2629,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Nous sommes ___ là-bas tout l'après-midi. (rester)",
@@ -2468,6 +2644,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Enfin, nous sommes ___ dans le car. (remonter)",
@@ -2482,6 +2659,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Un jour, les élèves sont allés à Londres. Complète les phrases.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Et nous sommes ___ à Canterbury. (rentrer)",
@@ -2496,6 +2674,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute la conversation et choisis la bonne réponse.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Où est-ce que Claire est allée?",
@@ -2510,6 +2689,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute la conversation et choisis la bonne réponse.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Quand est-elle partie?",
@@ -2524,6 +2704,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute la conversation et choisis la bonne réponse.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Qui est venu aussi?",
@@ -2538,6 +2719,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute la conversation et choisis la bonne réponse.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Ils sont restés là-bas longtemps?",
@@ -2552,6 +2734,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute la conversation et choisis la bonne réponse.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Ils sont rentrés à quelle heure?",
@@ -2566,6 +2749,7 @@
     {
       "section": "speaking",
       "part": "Exercise 5a",
+      "instruction": "À deux, lisez la conversation, puis changez les mots en couleur.",
       "item": "a",
       "item_type": "speaking-task",
       "question": "À deux, lisez la conversation, puis changez les mots en couleur.",
@@ -2580,6 +2764,7 @@
     {
       "section": "writing",
       "part": "Exercise 5b",
+      "instruction": "Tu as passé une journée dans une ville différente. Écris cinq phrases.",
       "item": "b",
       "item_type": "writing-task",
       "question": "Tu as passé une journée dans une ville différente. Écris cinq phrases.",
@@ -2594,6 +2779,7 @@
     {
       "section": "writing",
       "part": "Exercise 5c",
+      "instruction": "Écris une description plus longue avec beaucoup de détails.",
       "item": "c",
       "item_type": "writing-task",
       "question": "Écris une description plus longue avec beaucoup de détails.",
@@ -2608,6 +2794,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Lis le résumé, puis écoute la conversation. Choisis le bon mot.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Ils ont voyagé en (1) ___ .",
@@ -2622,6 +2809,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Lis le résumé, puis écoute la conversation. Choisis le bon mot.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "ils sont partis vers (2) ___ heures.",
@@ -2636,6 +2824,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Lis le résumé, puis écoute la conversation. Choisis le bon mot.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Ils ont vu (3) ___ .",
@@ -2650,6 +2839,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Lis le résumé, puis écoute la conversation. Choisis le bon mot.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "ils y sont restés environ (4) ___ heures.",
@@ -2664,6 +2854,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Lis le résumé, puis écoute la conversation. Choisis le bon mot.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "ils ont fait un piquenique (5) ___ .",
@@ -2678,6 +2869,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Lis le résumé, puis écoute la conversation. Choisis le bon mot.",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Les élèves sont rentrés à Canterbury vers (6) ___ heures.",
@@ -2692,6 +2884,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Traduis en anglais le paragraphe qui commence par 'Le matin…'",
       "item": "1",
       "item_type": "short-answer",
       "question": "Traduis en anglais le paragraphe qui commence par 'Le matin…'",
@@ -2706,6 +2899,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Qui est allé à Bayeux?",
@@ -2720,6 +2914,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Qui est beaucoup tombé en faisant du ski?",
@@ -2734,6 +2929,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Qui a fait demi-tour pour aller chercher les billets de train?",
@@ -2748,6 +2944,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Qui a visité un musée?",
@@ -2762,6 +2959,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Qui a participé à un concours de natation?",
@@ -2776,6 +2974,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "6",
       "item_type": "short-answer",
       "question": "Qui a manqué le train?",
@@ -2790,6 +2989,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "7",
       "item_type": "short-answer",
       "question": "Qui a pris beaucoup de photos?",
@@ -2804,6 +3004,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis les cartes postales et réponds aux questions.",
       "item": "8",
       "item_type": "short-answer",
       "question": "Qui est rentré tôt à Paris?",
@@ -2818,6 +3019,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Écris une carte postale.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris une carte postale.",
@@ -2832,6 +3034,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "1",
       "item_type": "short-answer",
       "question": "Where was he from?",
@@ -2846,6 +3049,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "2",
       "item_type": "short-answer",
       "question": "How old was he when he became a duke?",
@@ -2860,6 +3064,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "3",
       "item_type": "short-answer",
       "question": "What was the name of his wife?",
@@ -2874,6 +3079,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "4",
       "item_type": "short-answer",
       "question": "When did he invade England?",
@@ -2888,6 +3094,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "5",
       "item_type": "short-answer",
       "question": "How big was his army?",
@@ -2902,6 +3109,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "6",
       "item_type": "short-answer",
       "question": "On what day was he crowned king of England?",
@@ -2916,6 +3124,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "7",
       "item_type": "short-answer",
       "question": "How many children did he have?",
@@ -2930,6 +3139,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "What do you know about William the Conqueror?",
       "item": "8",
       "item_type": "short-answer",
       "question": "How many of his sons became king of England after William's death?",
@@ -2944,6 +3154,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Practise the letter 'g': gentil, girafe, gymnastique / gare, goûter, Guillaume.",
@@ -2958,6 +3169,7 @@
     {
       "section": "speaking",
       "part": "Exercise 1",
+      "instruction": "À deux, parlez d'un voyage vrai ou imaginaire. La personne A pose des questions, la personne B répond.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Qui a fait le voyage?",
@@ -2972,6 +3184,7 @@
     {
       "section": "speaking",
       "part": "Exercise 1",
+      "instruction": "À deux, parlez d'un voyage vrai ou imaginaire. La personne A pose des questions, la personne B répond.",
       "item": "2",
       "item_type": "speaking-task",
       "question": "Quand êtes-vous partis?",
@@ -2986,6 +3199,7 @@
     {
       "section": "speaking",
       "part": "Exercise 1",
+      "instruction": "À deux, parlez d'un voyage vrai ou imaginaire. La personne A pose des questions, la personne B répond.",
       "item": "3",
       "item_type": "speaking-task",
       "question": "Comment avez-vous voyagé?",
@@ -3000,6 +3214,7 @@
     {
       "section": "speaking",
       "part": "Exercise 1",
+      "instruction": "À deux, parlez d'un voyage vrai ou imaginaire. La personne A pose des questions, la personne B répond.",
       "item": "4",
       "item_type": "speaking-task",
       "question": "Où êtes-vous allés?",
@@ -3014,6 +3229,7 @@
     {
       "section": "speaking",
       "part": "Exercise 1",
+      "instruction": "À deux, parlez d'un voyage vrai ou imaginaire. La personne A pose des questions, la personne B répond.",
       "item": "5",
       "item_type": "speaking-task",
       "question": "C'était comment?",
@@ -3028,6 +3244,7 @@
     {
       "section": "speaking",
       "part": "Exercise 1",
+      "instruction": "À deux, parlez d'un voyage vrai ou imaginaire. La personne A pose des questions, la personne B répond.",
       "item": "6",
       "item_type": "speaking-task",
       "question": "Qu'est-ce que vous avez fait?",
@@ -3042,6 +3259,7 @@
     {
       "section": "writing",
       "part": "Exercise 2",
+      "instruction": "Écris un article sur un voyage que tu as fait. Si possible ajoute des photos.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris un article sur un voyage que tu as fait. Si possible ajoute des photos.",
@@ -3056,6 +3274,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Why did M. Dugrand telephone Louis Laloupe?",
@@ -3070,6 +3289,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "2",
       "item_type": "short-answer",
       "question": "What clue did Louis Laloupe find in the shop?",
@@ -3084,6 +3304,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Did Louis Laloupe and his dog stay in the town?",
@@ -3098,6 +3319,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Where did the dog stop?",
@@ -3112,6 +3334,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "5",
       "item_type": "short-answer",
       "question": "What did Louis Laloupe do next?",
@@ -3126,6 +3349,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "6",
       "item_type": "short-answer",
       "question": "What did the burglar do when he saw Louis Laloupe?",
@@ -3140,6 +3364,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "7",
       "item_type": "short-answer",
       "question": "How did the dog help?",
@@ -3154,6 +3379,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "8",
       "item_type": "short-answer",
       "question": "What happened in the end?",
@@ -3168,6 +3394,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Dans le texte, trouve les mots qui veulent dire le contraire.",
       "item": "1",
       "item_type": "short-answer",
       "question": "tard",
@@ -3182,6 +3409,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Dans le texte, trouve les mots qui veulent dire le contraire.",
       "item": "2",
       "item_type": "short-answer",
       "question": "derrière",
@@ -3196,6 +3424,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Dans le texte, trouve les mots qui veulent dire le contraire.",
       "item": "3",
       "item_type": "short-answer",
       "question": "à gauche",
@@ -3210,6 +3439,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Dans le texte, trouve les mots qui veulent dire le contraire.",
       "item": "4",
       "item_type": "short-answer",
       "question": "lentement",
@@ -3224,6 +3454,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Dans le texte, trouve les mots qui veulent dire le contraire.",
       "item": "5",
       "item_type": "short-answer",
       "question": "il est entré",
@@ -3238,6 +3469,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Dans le texte, trouve les mots qui veulent dire le contraire.",
       "item": "6",
       "item_type": "short-answer",
       "question": "il s'est levé",
@@ -3252,6 +3484,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "la frontière",
@@ -3266,6 +3499,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "rouler",
@@ -3280,6 +3514,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "une correspondance",
@@ -3294,6 +3529,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "moins vite",
@@ -3308,6 +3544,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "en moyenne",
@@ -3322,6 +3559,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "la vitesse",
@@ -3336,6 +3574,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Tu as bien compris?",
       "item": "1",
       "item_type": "short-answer",
       "question": "Which three capitals does Eurostar serve?",
@@ -3350,6 +3589,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Tu as bien compris?",
       "item": "2",
       "item_type": "short-answer",
       "question": "What is the top speed?",
@@ -3364,6 +3604,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Tu as bien compris?",
       "item": "3",
       "item_type": "short-answer",
       "question": "Do the trains travel faster or slower when they go through the tunnels?",
@@ -3378,6 +3619,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Tu as bien compris?",
       "item": "4",
       "item_type": "short-answer",
       "question": "About how long does it take to travel from London to Paris?",
@@ -3392,6 +3634,7 @@
     {
       "section": "reading",
       "part": "Les sigles",
+      "instruction": "French people often use the initials to refer to long names. Can you match these up with the correct definition?",
       "item": "1",
       "item_type": "matching",
       "question": "la SNCF",
@@ -3406,6 +3649,7 @@
     {
       "section": "reading",
       "part": "Les sigles",
+      "instruction": "French people often use the initials to refer to long names. Can you match these up with the correct definition?",
       "item": "2",
       "item_type": "matching",
       "question": "l'EPS",
@@ -3420,6 +3664,7 @@
     {
       "section": "reading",
       "part": "Les sigles",
+      "instruction": "French people often use the initials to refer to long names. Can you match these up with the correct definition?",
       "item": "3",
       "item_type": "matching",
       "question": "GB",
@@ -3434,6 +3679,7 @@
     {
       "section": "reading",
       "part": "Les sigles",
+      "instruction": "French people often use the initials to refer to long names. Can you match these up with the correct definition?",
       "item": "4",
       "item_type": "matching",
       "question": "un TGV",
@@ -3448,6 +3694,7 @@
     {
       "section": "reading",
       "part": "Les sigles",
+      "instruction": "French people often use the initials to refer to long names. Can you match these up with the correct definition?",
       "item": "5",
       "item_type": "matching",
       "question": "une BD",
@@ -3462,6 +3709,7 @@
     {
       "section": "reading",
       "part": "Les sigles (wordplay)",
+      "instruction": "The groups of letters below make words when pronounced in French. Can you work them out?",
       "item": "1",
       "item_type": "short-answer",
       "question": "The groups of letters below make words when pronounced in French. Can you work them out? NRJ / ID",
@@ -3476,6 +3724,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "J'ai mon billet, faut le ___.",
@@ -3490,6 +3739,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Encore cinq minutes dans la salle ___.",
@@ -3504,6 +3754,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Pardon monsieur, de quel quai part le ___?",
@@ -3518,6 +3769,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Je prends du pain, bois une ___,",
@@ -3532,6 +3784,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Oh ben, dis donc! Où est ma ___?",
@@ -3546,6 +3799,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "La fille en face – c'est une ___!",
@@ -3560,6 +3814,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Nous y allons en ___,",
@@ -3574,6 +3829,7 @@
     {
       "section": "reading",
       "part": "Chanson Paris-Genève",
+      "instruction": "Complète la chanson avec un mot de la case.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Nous arrivons à Genève en ___.",
@@ -3588,6 +3844,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ma (1)___ verte avec mon (2)___ bleu? Non.",
@@ -3602,6 +3859,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ma (1)___ verte avec mon (2)___ bleu? Non.",
@@ -3616,6 +3874,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ma (3)___ noire avec mon (4)___ jaune? Oh non, pas ça!",
@@ -3630,6 +3889,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ma (3)___ noire avec mon (4)___ jaune? Oh non, pas ça!",
@@ -3644,6 +3904,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Mes (5)___ blanches? Non.",
@@ -3658,6 +3919,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Tu aimes mon (6)___ rouge avec la (7)___ noire?",
@@ -3672,6 +3934,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Tu aimes mon (6)___ rouge avec la (7)___ noire?",
@@ -3686,6 +3949,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Voici mon nouveau (8)___.",
@@ -3700,6 +3964,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "9",
       "item_type": "fill-in",
       "question": "J'ai des (9)___ noires.",
@@ -3714,6 +3979,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et complète le texte avec les mots de la case.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Voici ma (10)___ grise.",
@@ -3728,6 +3994,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Écoute et vérifie.",
       "item": "b",
       "item_type": "open-ended",
       "question": "Écoute et vérifie.",
@@ -3742,6 +4009,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2",
+      "instruction": "À deux, choisissez quatre nombres et inventez des conversations.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Qu'est-ce que tu vas mettre pour la fête? (À deux, choisissez quatre nombres et inventez des conversations.)",
@@ -3756,6 +4024,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis la discussion et regarde les images. Trouve les bonnes images pour chaque personne et écris une liste de vêtements.",
       "item": "Laura",
       "item_type": "short-answer",
       "question": "Trouve les bonnes images pour Laura et écris une liste de vêtements.",
@@ -3770,6 +4039,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis la discussion et regarde les images. Trouve les bonnes images pour chaque personne et écris une liste de vêtements.",
       "item": "Hassan",
       "item_type": "short-answer",
       "question": "Trouve les bonnes images pour Hassan et écris une liste de vêtements.",
@@ -3784,6 +4054,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis la discussion et regarde les images. Trouve les bonnes images pour chaque personne et écris une liste de vêtements.",
       "item": "Noé",
       "item_type": "short-answer",
       "question": "Trouve les bonnes images pour Noé et écris une liste de vêtements.",
@@ -3798,6 +4069,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis la discussion et regarde les images. Trouve les bonnes images pour chaque personne et écris une liste de vêtements.",
       "item": "Leila",
       "item_type": "short-answer",
       "question": "Trouve les bonnes images pour Leila et écris une liste de vêtements.",
@@ -3812,6 +4084,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "1",
       "item_type": "matching",
       "question": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle.",
@@ -3826,6 +4099,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "2",
       "item_type": "matching",
       "question": "Décide qui parle.",
@@ -3840,6 +4114,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "3",
       "item_type": "matching",
       "question": "Décide qui parle.",
@@ -3854,6 +4129,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "4",
       "item_type": "matching",
       "question": "Décide qui parle.",
@@ -3868,6 +4144,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "5",
       "item_type": "matching",
       "question": "Décide qui parle.",
@@ -3882,6 +4159,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "6",
       "item_type": "matching",
       "question": "Décide qui parle.",
@@ -3896,6 +4174,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "7",
       "item_type": "matching",
       "question": "Décide qui parle.",
@@ -3910,6 +4189,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Regarde ta liste (exercice 3a) et écoute. Décide qui parle (1–8).",
       "item": "8",
       "item_type": "matching",
       "question": "Décide qui parle.",
@@ -3924,6 +4204,7 @@
     {
       "section": "writing",
       "part": "Exercise 3c",
+      "instruction": "Écris les vêtements de l'exercice 3a.",
       "item": "c",
       "item_type": "writing-task",
       "question": "Écris les vêtements de l'exercice 3a.",
@@ -3938,6 +4219,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4a",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "a",
       "item_type": "speaking-task",
       "question": "Qu'est-ce que tu mets pour aller à la piscine? quand il fait chaud/froid? quand il pleut? Qu'est-ce que tu as mis pour aller au collège? hier matin/soir? samedi dernier? pour aller à la fête?",
@@ -3952,6 +4234,7 @@
     {
       "section": "writing",
       "part": "Exercise 4b",
+      "instruction": "Écris tes réponses.",
       "item": "b",
       "item_type": "writing-task",
       "question": "Écris tes réponses.",
@@ -3966,6 +4249,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue (mettre)",
+      "instruction": "With clothing, mettre means 'to put on' or 'to wear'. How is it slightly different from regular -re verbs (e.g. vendre) in the present tense? (You can check in Grammaire 12.5.)",
       "item": "1",
       "item_type": "fill-in",
       "question": "je met___ nous mettons",
@@ -3980,6 +4264,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue (mettre)",
+      "instruction": "With clothing, mettre means 'to put on' or 'to wear'. How is it slightly different from regular -re verbs (e.g. vendre) in the present tense? (You can check in Grammaire 12.5.)",
       "item": "2",
       "item_type": "fill-in",
       "question": "tu met___ vous mett___",
@@ -3994,6 +4279,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue (mettre)",
+      "instruction": "With clothing, mettre means 'to put on' or 'to wear'. How is it slightly different from regular -re verbs (e.g. vendre) in the present tense? (You can check in Grammaire 12.5.)",
       "item": "3",
       "item_type": "fill-in",
       "question": "il/elle/on met ils/elles mett___",
@@ -4008,6 +4294,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et les descriptions. Il y a des erreurs! Écris la bonne description pour chaque personne.",
       "item": "Arthur",
       "item_type": "short-answer",
       "question": "J'ai les cheveux noirs, courts et raides. J'ai les yeux marron et je porte des lunettes. Je suis assez grand. Je porte un pull vert.",
@@ -4022,6 +4309,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et les descriptions. Il y a des erreurs! Écris la bonne description pour chaque personne.",
       "item": "Gabriel",
       "item_type": "short-answer",
       "question": "Je suis de taille moyenne. J'ai les cheveux courts et frisés, en queue de cheval, et j'ai les yeux verts. Je porte un sweat blanc avec le logo de mon club de VTT. Je ne porte pas de lunettes.",
@@ -4036,6 +4324,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Regarde les images et les descriptions. Il y a des erreurs! Écris la bonne description pour chaque personne.",
       "item": "Rabiah",
       "item_type": "short-answer",
       "question": "Je suis très petite. J'ai les cheveux blonds et frisés en queue de cheval. J'ai les yeux bleus. Je porte des lunettes et j'ai mis un tee-shirt jaune.",
@@ -4050,6 +4339,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Relis les descriptions et regarde Théa. Complète sa description.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Je suis ___. J'ai les cheveux ___ et ___ en ___. Je ne porte pas de ___. J'ai mis ___.",
@@ -4064,6 +4354,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Tu comprends ces adjectifs? Non? Devine (ou cherche les mots dans le dictionnaire)!",
       "item": "1",
       "item_type": "short-answer",
       "question": "carré",
@@ -4078,6 +4369,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Tu comprends ces adjectifs? Non? Devine (ou cherche les mots dans le dictionnaire)!",
       "item": "2",
       "item_type": "short-answer",
       "question": "mince",
@@ -4092,6 +4384,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Tu comprends ces adjectifs? Non? Devine (ou cherche les mots dans le dictionnaire)!",
       "item": "3",
       "item_type": "short-answer",
       "question": "petit",
@@ -4106,6 +4399,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Tu comprends ces adjectifs? Non? Devine (ou cherche les mots dans le dictionnaire)!",
       "item": "4",
       "item_type": "short-answer",
       "question": "rond",
@@ -4120,6 +4414,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Tu comprends ces adjectifs? Non? Devine (ou cherche les mots dans le dictionnaire)!",
       "item": "5",
       "item_type": "short-answer",
       "question": "gros",
@@ -4134,6 +4429,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Invente des dessins comme ça pour illustrer ces mots.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente des dessins comme ça pour illustrer ces mots: grand/grande, jeune, fort/forte, long/longue, vieux/vieille.",
@@ -4148,6 +4444,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue",
+      "instruction": "From pages 104–106 find two adjectives which are …",
       "item": "1",
       "item_type": "short-answer",
       "question": "From pages 104–106 find two adjectives which are masculine singular, masculine plural, feminine singular, feminine plural.",
@@ -4162,6 +4459,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Il est ___ .",
@@ -4176,6 +4474,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Il a les yeux ___ .",
@@ -4190,6 +4489,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Il a les cheveux ___ .",
@@ -4204,6 +4504,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Il a un visage ___ .",
@@ -4218,6 +4519,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Il porte un imper ___ .",
@@ -4232,6 +4534,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Elle est ___ .",
@@ -4246,6 +4549,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "7",
       "item_type": "multiple-choice",
       "question": "Elle a les yeux ___ .",
@@ -4260,6 +4564,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "8",
       "item_type": "multiple-choice",
       "question": "Elle porte une tenue ___ .",
@@ -4274,6 +4579,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "9",
       "item_type": "multiple-choice",
       "question": "Elle a les cheveux ___ .",
@@ -4288,6 +4594,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Lis le texte et les descriptions. Choisis le bon mot.",
       "item": "10",
       "item_type": "multiple-choice",
       "question": "Elle porte des chaussures ___ .",
@@ -4302,6 +4609,7 @@
     {
       "section": "writing",
       "part": "Exercise 3b",
+      "instruction": "Dessine une affiche pour rechercher un voleur ou une voleuse.",
       "item": "b",
       "item_type": "writing-task",
       "question": "Dessine une affiche pour rechercher un voleur ou une voleuse.",
@@ -4316,6 +4624,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "1a",
       "item_type": "fill-in",
       "question": "Anne-Marie a les cheveux (a) ___",
@@ -4330,6 +4639,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "1b",
       "item_type": "fill-in",
       "question": "et (b) ___",
@@ -4344,6 +4654,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "1c",
       "item_type": "fill-in",
       "question": "et les yeux (c) ___.",
@@ -4358,6 +4669,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "1d",
       "item_type": "fill-in",
       "question": "Elle va mettre un pantalon (d) ___,",
@@ -4372,6 +4684,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "1e",
       "item_type": "fill-in",
       "question": "un pull (e) ___",
@@ -4386,6 +4699,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "1f",
       "item_type": "fill-in",
       "question": "et un imper (f) ___.",
@@ -4400,6 +4714,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "2g",
       "item_type": "fill-in",
       "question": "Charlotte porte une robe (g) ___",
@@ -4414,6 +4729,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "2h",
       "item_type": "fill-in",
       "question": "et un chapeau (h) ___.",
@@ -4428,6 +4744,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "3i",
       "item_type": "fill-in",
       "question": "David porte un jean, un (i) ___ bleu",
@@ -4442,6 +4759,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "On va arriver à la gare. Écoute les trois conversations et complète les descriptions.",
       "item": "3j",
       "item_type": "fill-in",
       "question": "et un anorak (j) ___.",
@@ -4456,6 +4774,7 @@
     {
       "section": "speaking",
       "part": "Exercise 5a",
+      "instruction": "À deux: la personne A décrit quelqu'un des pages 104–106. La personne B devine qui c'est.",
       "item": "a",
       "item_type": "speaking-task",
       "question": "À deux: la personne A décrit quelqu'un des pages 104–106. La personne B devine qui c'est.",
@@ -4470,6 +4789,7 @@
     {
       "section": "writing",
       "part": "Exercise 5b",
+      "instruction": "Écris la description d'un(e) ami(e) ou d'un membre de ta famille.",
       "item": "b",
       "item_type": "writing-task",
       "question": "Écris la description d'un(e) ami(e) ou d'un membre de ta famille.",
@@ -4484,6 +4804,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "1",
       "item_type": "short-answer",
       "question": "On le met quand on va à la piscine.",
@@ -4498,6 +4819,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Beaucoup de personnes le mettent quand il pleut.",
@@ -4512,6 +4834,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "3",
       "item_type": "short-answer",
       "question": "On les achète en paires, mais ce ne sont pas des chaussures.",
@@ -4526,6 +4849,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "4",
       "item_type": "short-answer",
       "question": "On l'achète souvent comme cadeau d'anniversaire pour son père ou son oncle. Ça existe dans toutes les couleurs.",
@@ -4540,6 +4864,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "5",
       "item_type": "short-answer",
       "question": "C'est une sorte de chapeau. Mon frère la met souvent.",
@@ -4554,6 +4879,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "6",
       "item_type": "short-answer",
       "question": "On les met aux pieds, surtout quand il fait froid, mais ce ne sont pas des chaussettes.",
@@ -4568,6 +4894,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "7",
       "item_type": "short-answer",
       "question": "On la met avec un jean et quelquefois avec une jupe ou un pantalon.",
@@ -4582,6 +4909,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Trouve les réponses dans le sac.",
       "item": "8",
       "item_type": "short-answer",
       "question": "On les met quand il y a du soleil, même si on ne porte pas de lunettes normalement.",
@@ -4596,6 +4924,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "C'est ma casquette.",
@@ -4610,6 +4939,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Voici mon maillot de bain.",
@@ -4624,6 +4954,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "J'adore les bandes dessinées.",
@@ -4638,6 +4969,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Tu aimes le coca?",
@@ -4652,6 +4984,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Je cherche mes baskets.",
@@ -4666,6 +4999,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Je n'aime pas le poisson.",
@@ -4680,6 +5014,7 @@
     {
       "section": "grammar",
       "part": "Dossier-langue",
+      "instruction": "In the definitions in task 1, le, la, l' and les are used without a noun. Can you work out their meaning?",
       "item": "1",
       "item_type": "short-answer",
       "question": "Can you work out the meaning of le, la, l' and les as used in these definitions?",
@@ -4694,6 +5029,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Ces jeunes partent en vacances, mais avec quelle valise? Écoute les conversations et trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Patrick part demain à Nice, au bord de la mer.",
@@ -4708,6 +5044,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Ces jeunes partent en vacances, mais avec quelle valise? Écoute les conversations et trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Claire part à la montagne.",
@@ -4722,6 +5059,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Ces jeunes partent en vacances, mais avec quelle valise? Écoute les conversations et trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Roxane va chez sa tante et son oncle aux États-Unis.",
@@ -4736,6 +5074,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Ces jeunes partent en vacances, mais avec quelle valise? Écoute les conversations et trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Thomas part chez son correspondant anglais à Manchester.",
@@ -4750,6 +5089,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Ces jeunes partent en vacances, mais avec quelle valise? Écoute les conversations et trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Mathieu va à un stage d'informatique.",
@@ -4764,6 +5104,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Où est mon jean?",
@@ -4778,6 +5119,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "2",
       "item_type": "speaking-task",
       "question": "Où est mon tee-shirt?",
@@ -4792,6 +5134,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "3",
       "item_type": "speaking-task",
       "question": "Où est ma montre?",
@@ -4806,6 +5149,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "4",
       "item_type": "speaking-task",
       "question": "Où est ma ceinture?",
@@ -4820,6 +5164,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "5",
       "item_type": "speaking-task",
       "question": "Où sont mes chaussettes?",
@@ -4834,6 +5179,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "6",
       "item_type": "speaking-task",
       "question": "Où est mon sweat?",
@@ -4848,6 +5194,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "7",
       "item_type": "speaking-task",
       "question": "Où sont mes baskets?",
@@ -4862,6 +5209,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "8",
       "item_type": "speaking-task",
       "question": "Où est ma casquette?",
@@ -4876,6 +5224,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "9",
       "item_type": "speaking-task",
       "question": "Où est mon portable?",
@@ -4890,6 +5239,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "Hier soir, Dani est allé à une fête. Ce matin, il ne trouve pas ses affaires. Travaillez à deux. Une personne est Dani. L'autre personne l'aide à trouver ses affaires. Changez de rôle toutes les deux questions.",
       "item": "10",
       "item_type": "speaking-task",
       "question": "Et où sont mes lunettes de soleil?",
@@ -4904,6 +5254,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Écoute et écris le numéro des parties du corps.",
       "item": "1",
       "item_type": "matching",
       "question": "Écoute et écris le numéro des parties du corps.",
@@ -4918,6 +5269,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "1",
       "item_type": "fill-in",
       "question": "On marche avec les ___ et les pieds.",
@@ -4932,6 +5284,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "2",
       "item_type": "fill-in",
       "question": "On mange avec les ___ .",
@@ -4946,6 +5299,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "3",
       "item_type": "fill-in",
       "question": "On parle avec la ___ .",
@@ -4960,6 +5314,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "4",
       "item_type": "fill-in",
       "question": "On regarde la télé avec ___ .",
@@ -4974,6 +5329,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "5",
       "item_type": "fill-in",
       "question": "On écoute de la musique avec ___ .",
@@ -4988,6 +5344,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "6",
       "item_type": "fill-in",
       "question": "On joue du piano avec ___ .",
@@ -5002,6 +5359,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "7",
       "item_type": "fill-in",
       "question": "La tête est sur ___ .",
@@ -5016,6 +5374,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2",
+      "instruction": "Trouve les mots qui manquent.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Le cou est sur ___ .",
@@ -5030,6 +5389,7 @@
     {
       "section": "reading",
       "part": "Exercise 3 (lap-chien)",
+      "instruction": "Dans ce zoo, il y a des animaux vraiment extraordinaires. Lis et complète les descriptions.",
       "item": "2a",
       "item_type": "fill-in",
       "question": "Il a la ___ d'un lapin,",
@@ -5044,6 +5404,7 @@
     {
       "section": "reading",
       "part": "Exercise 3 (lap-chien)",
+      "instruction": "Dans ce zoo, il y a des animaux vraiment extraordinaires. Lis et complète les descriptions.",
       "item": "2b",
       "item_type": "fill-in",
       "question": "et les ___ d'un lapin,",
@@ -5058,6 +5419,7 @@
     {
       "section": "reading",
       "part": "Exercise 3 (lap-chien)",
+      "instruction": "Dans ce zoo, il y a des animaux vraiment extraordinaires. Lis et complète les descriptions.",
       "item": "2c",
       "item_type": "fill-in",
       "question": "et le corps, la queue et les ___ d'un chien.",
@@ -5072,6 +5434,7 @@
     {
       "section": "writing",
       "part": "Exercise 3 (pois-souris)",
+      "instruction": "Dans ce zoo, il y a des animaux vraiment extraordinaires. Lis et complète les descriptions.",
       "item": "3",
       "item_type": "writing-task",
       "question": "Peux-tu décrire une pois-souris?",
@@ -5086,6 +5449,7 @@
     {
       "section": "writing",
       "part": "Exercise 3 (monstre Tricolore)",
+      "instruction": "Dans ce zoo, il y a des animaux vraiment extraordinaires. Lis et complète les descriptions.",
       "item": "4",
       "item_type": "writing-task",
       "question": "Et voici la description d'un animal plus étrange que tous les autres. C'est le «monstre Tricolore». Peux-tu le dessiner?",
@@ -5100,6 +5464,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Invente un animal très étrange. Écris la description de ton animal, puis échange la description avec un(e) partenaire. Chaque personne doit dessiner l'animal inventé par l'autre.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente un animal très étrange. Écris la description de ton animal, puis échange la description avec un(e) partenaire.",
@@ -5114,6 +5479,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Complète les phrases avec les bons mots.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Le cou de la girafe est très ___ .",
@@ -5128,6 +5494,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Complète les phrases avec les bons mots.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Les girafes mangent des ___ .",
@@ -5142,6 +5509,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Complète les phrases avec les bons mots.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Une girafe est plus ___ que les autres animaux.",
@@ -5156,6 +5524,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Complète les phrases avec les bons mots.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Quand la girafe marche, son ___ l'aide à rester en équilibre.",
@@ -5170,6 +5539,7 @@
     {
       "section": "reading",
       "part": "Exercise a",
+      "instruction": "Complète les phrases avec les bons mots.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Avec son long cou, il est ___ de voir ses ennemis.",
@@ -5184,6 +5554,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Are scientists certain why zebras have stripes?",
@@ -5198,6 +5569,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "2",
       "item_type": "short-answer",
       "question": "What effect do the stripes have on lions' vision?",
@@ -5212,6 +5584,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "3",
       "item_type": "short-answer",
       "question": "What do you know about zebras' eyesight?",
@@ -5226,6 +5599,7 @@
     {
       "section": "reading",
       "part": "Exercise b",
+      "instruction": "Réponds aux questions en anglais.",
       "item": "4",
       "item_type": "short-answer",
       "question": "What makes it possible for a baby zebra to recognise its mother?",
@@ -5240,6 +5614,7 @@
     {
       "section": "speaking",
       "part": "Exercise c",
+      "instruction": "À tour de rôle, lisez les articles à haute voix. Faites attention à la prononciation.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À tour de rôle, lisez les articles à haute voix. Faites attention à la prononciation.",
@@ -5254,6 +5629,7 @@
     {
       "section": "writing",
       "part": "Exercise d",
+      "instruction": "Écris quelques phrases sur un autre animal un peu différent. Regarde les images pour trouver des idées.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris quelques phrases sur un autre animal un peu différent.",
@@ -5268,6 +5644,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "Find the words that rhyme with these animals and parts of the body, then listen to check.",
       "item": "1",
       "item_type": "short-answer",
       "question": "oiseau",
@@ -5282,6 +5659,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "Find the words that rhyme with these animals and parts of the body, then listen to check.",
       "item": "2",
       "item_type": "short-answer",
       "question": "éléphant",
@@ -5296,6 +5674,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "Find the words that rhyme with these animals and parts of the body, then listen to check.",
       "item": "3",
       "item_type": "short-answer",
       "question": "cou",
@@ -5310,6 +5689,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "Find the words that rhyme with these animals and parts of the body, then listen to check.",
       "item": "4",
       "item_type": "short-answer",
       "question": "nez",
@@ -5324,6 +5704,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "Find the words that rhyme with these animals and parts of the body, then listen to check.",
       "item": "5",
       "item_type": "short-answer",
       "question": "pied",
@@ -5338,6 +5719,7 @@
     {
       "section": "speaking",
       "part": "Phonétique",
+      "instruction": "Find the words that rhyme with these animals and parts of the body, then listen to check.",
       "item": "6",
       "item_type": "short-answer",
       "question": "bras",
@@ -5352,6 +5734,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "a",
       "item_type": "fill-in",
       "question": "Didier (4) a mal au (a)___.",
@@ -5366,6 +5749,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "b",
       "item_type": "fill-in",
       "question": "Sébastien (5) a mal au (b)___.",
@@ -5380,6 +5764,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "c",
       "item_type": "fill-in",
       "question": "Mathieu (6) a mal à l'(c)___ droit.",
@@ -5394,6 +5779,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "d",
       "item_type": "fill-in",
       "question": "Malik (7) a mal à la (d)___ droite.",
@@ -5408,6 +5794,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "e",
       "item_type": "fill-in",
       "question": "Arthur (8) a mal à l'(e)___ gauche.",
@@ -5422,6 +5809,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "f",
       "item_type": "fill-in",
       "question": "Clément (9) a mal au (f)___.",
@@ -5436,6 +5824,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "g",
       "item_type": "fill-in",
       "question": "Fabien (10) a mal au (g)___ – il a un nez aussi gros que le ballon de rugby!",
@@ -5450,6 +5839,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "h",
       "item_type": "fill-in",
       "question": "Même la mascotte, Mêlée (11), a mal à la (h)___!",
@@ -5464,6 +5854,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "i",
       "item_type": "fill-in",
       "question": "Et l'arbitre (12)? Il a mal à la tête, à la (i)___, aux bras, à la main et au (j)___.",
@@ -5478,6 +5869,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Regarde l'image des joueurs blessés après un match 'amical'. Complète la description.",
       "item": "j",
       "item_type": "fill-in",
       "question": "Et l'arbitre (12)? Il a mal à la tête, à la (i)___, aux bras, à la main et au (j)___.",
@@ -5492,6 +5884,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète les phrases.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Sébastien ___ au genou.",
@@ -5506,6 +5899,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète les phrases.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Léon ___ aux dents.",
@@ -5520,6 +5914,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète les phrases.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Clément et l'arbitre ___ au bras.",
@@ -5534,6 +5929,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète les phrases.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Malik et l'arbitre ___ à la main.",
@@ -5548,6 +5944,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète les phrases.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Maxime dit: «Aïe, j'___ à la jambe.»",
@@ -5562,6 +5959,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète les phrases.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Mêlée, la chienne, ___ à la queue.",
@@ -5576,6 +5974,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "Tous les joueurs blessés sont allés chez le médecin. Qu'est-ce qu'ils lui ont dit?",
       "item": "1",
       "item_type": "short-answer",
       "question": "Didier a dit: «J'ai mal ___ .»",
@@ -5590,6 +5989,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "Tous les joueurs blessés sont allés chez le médecin. Qu'est-ce qu'ils lui ont dit?",
       "item": "2",
       "item_type": "short-answer",
       "question": "Arthur a dit: «J'ai mal ___ .»",
@@ -5604,6 +6004,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "Tous les joueurs blessés sont allés chez le médecin. Qu'est-ce qu'ils lui ont dit?",
       "item": "3",
       "item_type": "short-answer",
       "question": "Fabien a dit: «___ .»",
@@ -5618,6 +6019,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "Tous les joueurs blessés sont allés chez le médecin. Qu'est-ce qu'ils lui ont dit?",
       "item": "4",
       "item_type": "short-answer",
       "question": "Et Mathieu (4)?",
@@ -5632,6 +6034,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "Tous les joueurs blessés sont allés chez le médecin. Qu'est-ce qu'ils lui ont dit?",
       "item": "5",
       "item_type": "short-answer",
       "question": "et Marius (5)?",
@@ -5646,6 +6049,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2b",
+      "instruction": "Tous les joueurs blessés sont allés chez le médecin. Qu'est-ce qu'ils lui ont dit?",
       "item": "6",
       "item_type": "short-answer",
       "question": "et l'arbitre (6)?",
@@ -5660,6 +6064,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne description pour chaque image.",
       "item": "1",
       "item_type": "matching",
       "question": "Image 1: a dog gazing hungrily at hams and sausages in a shop window.",
@@ -5674,6 +6079,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne description pour chaque image.",
       "item": "2",
       "item_type": "matching",
       "question": "Image 2: a sheep with a compress on its head, sweating heavily.",
@@ -5688,6 +6094,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne description pour chaque image.",
       "item": "3",
       "item_type": "matching",
       "question": "Image 3: two flame-red figures dancing energetically.",
@@ -5702,6 +6109,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne description pour chaque image.",
       "item": "4",
       "item_type": "matching",
       "question": "Image 4: a blue bird shivering on ice.",
@@ -5716,6 +6124,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne description pour chaque image.",
       "item": "5",
       "item_type": "matching",
       "question": "Image 5: a camel drinking from a trough under a hot sun.",
@@ -5730,6 +6139,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne description pour chaque image.",
       "item": "6",
       "item_type": "matching",
       "question": "Image 6: two bird-creatures outside a closed café, thought bubble of a drink.",
@@ -5744,6 +6154,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Écris les phrases.",
       "item": "1",
       "item_type": "short-answer",
       "question": "An older, balding man with rosy cheeks, tongue hanging out - what does he say?",
@@ -5758,6 +6169,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Écris les phrases.",
       "item": "2",
       "item_type": "short-answer",
       "question": "A person with spiky red hair, sweating, looking anxious - what does he say?",
@@ -5772,6 +6184,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Écris les phrases.",
       "item": "3",
       "item_type": "short-answer",
       "question": "A woman with long red hair, tongue hanging out - what does she say?",
@@ -5786,6 +6199,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Écris les phrases.",
       "item": "4",
       "item_type": "short-answer",
       "question": "A girl with blonde pigtails, tongue out, smiling - what does she say?",
@@ -5800,6 +6214,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Écris les phrases.",
       "item": "5",
       "item_type": "short-answer",
       "question": "A person in a striped hat, shivering, chattering teeth - what does he say?",
@@ -5814,6 +6229,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5828,6 +6244,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5842,6 +6259,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5856,6 +6274,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5870,6 +6289,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5884,6 +6304,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "6",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5898,6 +6319,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "7",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5912,6 +6334,7 @@
     {
       "section": "listening",
       "part": "Exercise 5",
+      "instruction": "Écoute (1–8) et note la bonne image.",
       "item": "8",
       "item_type": "short-answer",
       "question": "Écoute et note la bonne image, puis écris une phrase pour décrire le problème.",
@@ -5926,6 +6349,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6",
+      "instruction": "À deux, choisissez deux nombres (1–6) et inventez des conversations.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Quel est le problème? (À deux, choisissez deux nombres (1–6) et inventez des conversations.)",
@@ -5940,6 +6364,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète le résumé avec des mots de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ce matin, Charles (1) ___ très bien.",
@@ -5954,6 +6379,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète le résumé avec des mots de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Il a mal (2) ___ .",
@@ -5968,6 +6394,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète le résumé avec des mots de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "et il a mal (3) ___ .",
@@ -5982,6 +6409,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète le résumé avec des mots de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Alors, il boit (4) ___",
@@ -5996,6 +6424,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète le résumé avec des mots de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "et il prend (5) ___ .",
@@ -6010,6 +6439,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète le résumé avec des mots de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Plus tard, il a mal (6) ___ aussi",
@@ -6024,6 +6454,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète le résumé avec des mots de la case.",
       "item": "7",
       "item_type": "fill-in",
       "question": "et il croit qu'il a (7) ___ .",
@@ -6038,6 +6469,7 @@
     {
       "section": "listening",
       "part": "Exercise 2",
+      "instruction": "Écoute les dialogues et note l'ordre des expressions (1–12).",
       "item": "1",
       "item_type": "ordering",
       "question": "Écoute les dialogues et note l'ordre des expressions (1–12): 1 ça ne va pas très bien, 2 je ne vais pas très bien, 3 ça ne va pas mieux, 4 je suis asthmatique, 5 j'ai mal au cœur, 6 je suis allergique au poisson, 7 bois ce verre d'eau, 8 ne mange rien, 9 prends ton inhalateur, 10 prends ce médicament, 11 repose-toi, 12 reste au lit.",
@@ -6052,6 +6484,7 @@
     {
       "section": "grammar",
       "part": "Exercise 3",
+      "instruction": "Complète avec un verbe à l'impératif.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Alors (manger) ces sandwichs.",
@@ -6066,6 +6499,7 @@
     {
       "section": "grammar",
       "part": "Exercise 3",
+      "instruction": "Complète avec un verbe à l'impératif.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Alors (boire) cette limonade.",
@@ -6080,6 +6514,7 @@
     {
       "section": "grammar",
       "part": "Exercise 3",
+      "instruction": "Complète avec un verbe à l'impératif.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Alors (ouvrir) la fenêtre.",
@@ -6094,6 +6529,7 @@
     {
       "section": "grammar",
       "part": "Exercise 3",
+      "instruction": "Complète avec un verbe à l'impératif.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Si tu as froid, (mettre) ton sweat.",
@@ -6108,6 +6544,7 @@
     {
       "section": "grammar",
       "part": "Exercise 3",
+      "instruction": "Complète avec un verbe à l'impératif.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Alors ne (aller) pas à l'école,",
@@ -6122,6 +6559,7 @@
     {
       "section": "grammar",
       "part": "Exercise 3",
+      "instruction": "Complète avec un verbe à l'impératif.",
       "item": "6",
       "item_type": "fill-in",
       "question": "(rester) à la maison.",
@@ -6136,6 +6574,7 @@
     {
       "section": "grammar",
       "part": "Exercise 3",
+      "instruction": "Complète avec un verbe à l'impératif.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Alors, (aller) au collège ce matin!",
@@ -6150,6 +6589,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4b",
+      "instruction": "À deux, inventez d'autres conversations.",
       "item": "b",
       "item_type": "speaking-task",
       "question": "À deux, inventez d'autres conversations.",
@@ -6164,6 +6604,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Lis l'histoire et les phrases. Écris vrai ou faux.",
       "item": "1",
       "item_type": "true-false",
       "question": "Il est onze heures du matin.",
@@ -6178,6 +6619,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Lis l'histoire et les phrases. Écris vrai ou faux.",
       "item": "2",
       "item_type": "true-false",
       "question": "Le docteur dort.",
@@ -6192,6 +6634,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Lis l'histoire et les phrases. Écris vrai ou faux.",
       "item": "3",
       "item_type": "true-false",
       "question": "Il fait chaud.",
@@ -6206,6 +6649,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Lis l'histoire et les phrases. Écris vrai ou faux.",
       "item": "4",
       "item_type": "true-false",
       "question": "Dans la salle d'attente, presque tout le monde parle.",
@@ -6220,6 +6664,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Lis l'histoire et les phrases. Écris vrai ou faux.",
       "item": "5",
       "item_type": "true-false",
       "question": "La fille et sa mère dorment.",
@@ -6234,6 +6679,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "1",
       "item_type": "fill-in",
       "question": "(Manger) bien … mais ne (manger) pas trop!",
@@ -6248,6 +6694,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "2",
       "item_type": "fill-in",
       "question": "(Boire) beaucoup d'eau … mais pas trop de boissons sucrées!",
@@ -6262,6 +6709,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "3",
       "item_type": "fill-in",
       "question": "(Dormir) bien … pour être en forme!",
@@ -6276,6 +6724,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "4",
       "item_type": "fill-in",
       "question": "N'(oublier) pas de bien vous brosser les dents! Voici une bonne idée: (écouter) votre chanson favorite et (brosser)-vous les dents le temps qu'elle dure.",
@@ -6290,6 +6739,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Tous les jours, (marcher) un peu en plein air … assez vite, mais pas trop!",
@@ -6304,6 +6754,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Chaque weekend, (faire) un peu de «vrai» exercice!",
@@ -6318,6 +6769,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Ne (fumer) pas! ... alors ne (commencer) pas!",
@@ -6332,6 +6784,7 @@
     {
       "section": "grammar",
       "part": "Exercise 6a",
+      "instruction": "Voici une affiche dans la salle d'attente du médecin. Complète les conseils avec des verbes à l'impératif.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Ne (rester) pas trop longtemps à la maison! S'il fait beau, ne (regarder) pas la télé, ne (jouer) pas sur l'ordinateur, (faire) une randonnée à la campagne.",
@@ -6346,6 +6799,7 @@
     {
       "section": "writing",
       "part": "Exercise 6b",
+      "instruction": "Invente une affiche avec des conseils différents. Ça peut être amusant … mais pas dangereux!",
       "item": "b",
       "item_type": "writing-task",
       "question": "Invente une affiche avec des conseils différents. Ça peut être amusant … mais pas dangereux!",
@@ -6360,6 +6814,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis le texte et réponds aux questions en anglais.",
       "item": "1",
       "item_type": "short-answer",
       "question": "In which country is Alouette popular?",
@@ -6374,6 +6829,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis le texte et réponds aux questions en anglais.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Which country did it come from originally?",
@@ -6388,6 +6844,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis le texte et réponds aux questions en anglais.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Which people might not enjoy the lark's singing?",
@@ -6402,6 +6859,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis le texte et réponds aux questions en anglais.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Why did the fur traders sing the song? (2 reasons)",
@@ -6416,6 +6874,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Lis le texte et réponds aux questions en anglais.",
       "item": "5",
       "item_type": "short-answer",
       "question": "What is the purpose of the song now? (2 reasons)",
@@ -6430,6 +6889,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "1",
       "item_type": "fill-in",
       "question": "l_ g_r_",
@@ -6444,6 +6904,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "2",
       "item_type": "fill-in",
       "question": "l_ q___",
@@ -6458,6 +6919,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "3",
       "item_type": "fill-in",
       "question": "l_ g__ch_t",
@@ -6472,6 +6934,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "4",
       "item_type": "fill-in",
       "question": "l_ b_ll_t",
@@ -6486,6 +6949,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "5",
       "item_type": "fill-in",
       "question": "l'h_r__r_",
@@ -6500,6 +6964,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "6",
       "item_type": "fill-in",
       "question": "l_ c_ns_gn_",
@@ -6514,6 +6979,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "7",
       "item_type": "fill-in",
       "question": "l_ d_p_rt",
@@ -6528,6 +6994,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Complète les mots avec des voyelles, puis écris l'équivalent en anglais.",
       "item": "8",
       "item_type": "fill-in",
       "question": "l_ k__sq__",
@@ -6542,6 +7009,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "1",
       "item_type": "matching",
       "question": "bonjour",
@@ -6556,6 +7024,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "2",
       "item_type": "matching",
       "question": "occupé",
@@ -6570,6 +7039,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "3",
       "item_type": "matching",
       "question": "la sortie",
@@ -6584,6 +7054,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "4",
       "item_type": "matching",
       "question": "l'arrivée",
@@ -6598,6 +7069,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "5",
       "item_type": "matching",
       "question": "à l'heure",
@@ -6612,6 +7084,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "6",
       "item_type": "matching",
       "question": "un aller simple",
@@ -6626,6 +7099,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "7",
       "item_type": "matching",
       "question": "ensemble",
@@ -6640,6 +7114,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve les contraires.",
       "item": "8",
       "item_type": "matching",
       "question": "devant",
@@ -6654,6 +7129,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "1",
       "item_type": "fill-in",
       "question": "– On peut vous aider? – (1) ___",
@@ -6668,6 +7144,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "2",
       "item_type": "fill-in",
       "question": "– Voilà. – (2) ___",
@@ -6682,6 +7159,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "3",
       "item_type": "fill-in",
       "question": "– À onze heures trente-cinq. – (3) ___",
@@ -6696,6 +7174,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "4",
       "item_type": "fill-in",
       "question": "– Tu es sortie à quelle heure, Alice? – (4) ___",
@@ -6710,6 +7189,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "5",
       "item_type": "fill-in",
       "question": "– Où es-tu allée? – (5) ___",
@@ -6724,6 +7204,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "6",
       "item_type": "fill-in",
       "question": "– Tu es rentrée comment? – (6) ___",
@@ -6738,6 +7219,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "7",
       "item_type": "fill-in",
       "question": "– Et toi, Léo, où es-tu allé? – (7) ___",
@@ -6752,6 +7234,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Complète les conversations avec les bonnes phrases (a–h).",
       "item": "8",
       "item_type": "fill-in",
       "question": "– Tu es rentré comment? – (8) ___",
@@ -6766,6 +7249,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3b",
+      "instruction": "À deux, lisez les conversations.",
       "item": "b",
       "item_type": "speaking-task",
       "question": "À deux, lisez les conversations.",
@@ -6780,6 +7264,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Hier, nous avons (1) ___ la journée à Londres.",
@@ -6794,6 +7279,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Le matin, nous avons (2) ___ les principaux monuments.",
@@ -6808,6 +7294,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "À midi, nous avons (3) ___ un piquenique dans un parc.",
@@ -6822,6 +7309,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "L'après-midi, nous sommes (4) ___ à la Tour de Londres en (5) ___.",
@@ -6836,6 +7324,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "en (5) ___.",
@@ -6850,6 +7339,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Puis nous sommes (6) ___ à Canterbury en (7) ___.",
@@ -6864,6 +7354,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "7",
       "item_type": "multiple-choice",
       "question": "en (7) ___.",
@@ -6878,6 +7369,7 @@
     {
       "section": "writing",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot pour compléter la carte postale.",
       "item": "8",
       "item_type": "multiple-choice",
       "question": "Le soir, j'ai (8) ___ sur l'ordinateur.",
@@ -6892,6 +7384,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Julie ___ à la plage à vélo.",
@@ -6906,6 +7399,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "2",
       "item_type": "fill-in",
       "question": "David ___ au cinéma (bus).",
@@ -6920,6 +7414,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Martine, tu ___ au marché (métro)?",
@@ -6934,6 +7429,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Nous ___ au stade (train).",
@@ -6948,6 +7444,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ma copine ___ au match de tennis (à pied).",
@@ -6962,6 +7459,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Max et Léa, vous ___ aux magasins (voiture)?",
@@ -6976,6 +7474,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Mes parents ___ à la gare (car).",
@@ -6990,6 +7489,7 @@
     {
       "section": "grammar",
       "part": "Exercise 5",
+      "instruction": "Complète les phrases. Écris la bonne forme du verbe aller au passé composé et le moyen de transport.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Les filles ___ au théâtre (taxi).",
