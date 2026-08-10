@@ -51,8 +51,9 @@ from _common import (parse_root, lang_slug, load_collection_list, atomic_open,
 KINDS = ['catalog', 'questions', 'vocabulary']
 CATALOG_COLUMNS = ['collection', 'unit', 'section', 'chapter', 'content_type', 'activity_type',
                     'topic', 'level', 'status', 'qa', 'word_count', 'summary', 'title']
-QUESTIONS_COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'question',
-                      'option_a', 'option_b', 'option_c', 'correct_answer', 'level', 'topic', 'source_page']
+QUESTIONS_COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'instruction',
+                      'question', 'option_a', 'option_b', 'option_c', 'correct_answer',
+                      'level', 'topic', 'source_page']
 VOCAB_COLUMNS = ['collection', 'word', 'article', 'plural', 'word_class', 'example', 'topic', 'source_page']
 
 
@@ -176,6 +177,7 @@ def build_questions(root, c):
         'collection': slug,
         'section': _flat(it.get('section', '')), 'part': _flat(it.get('part', it.get('teil', ''))),
         'item': _flat(it.get('item', '')), 'item_type': _flat(it.get('item_type', '')),
+        'instruction': _flat(it.get('instruction', '')),
         'question': _flat(it.get('question', '')),
         'option_a': _flat(it.get('option_a', '')), 'option_b': _flat(it.get('option_b', '')),
         'option_c': _flat(it.get('option_c', '')),

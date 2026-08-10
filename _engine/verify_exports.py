@@ -45,21 +45,25 @@ from _common import parse_root, lang_slug
 # the one legitimate per-language difference: German books carry no chapter
 # frontmatter, and a permanently-empty column reads worse than an absent one.
 CANON = {
-    'questions': ['collection', 'section', 'part', 'item', 'item_type', 'question',
-                  'option_a', 'option_b', 'option_c', 'correct_answer', 'level',
-                  'topic', 'source_page'],
+    'questions': ['collection', 'section', 'part', 'item', 'item_type', 'instruction',
+                  'question', 'option_a', 'option_b', 'option_c', 'correct_answer',
+                  'level', 'topic', 'source_page'],
     'vocabulary': ['collection', 'word', 'article', 'plural', 'word_class', 'example',
                    'topic', 'source_page'],
     'catalog': ['collection', 'unit', 'section', 'chapter', 'content_type',
                 'activity_type', 'topic', 'level', 'status', 'qa', 'word_count',
                 'summary', 'title'],
 }
-OPTIONAL = {'catalog': {'chapter'}}
+# `chapter` exists only in French (German books carry no chapter frontmatter).
+# `instruction` is French-only until German's rubrics are backfilled the same
+# way; making it optional keeps German from shipping an empty column, exactly
+# the defect that removing the header-only CSVs fixed.
+OPTIONAL = {'catalog': {'chapter'}, 'questions': {'instruction'}}
 
 # Cells a human reads. Machine/enum columns are covered by the taxonomy rules
 # in agent_enrich.md and by verify_answers.py.
-TEXT_COLS = ('question', 'option_a', 'option_b', 'option_c', 'correct_answer',
-             'word', 'example', 'summary', 'title', 'part', 'chapter')
+TEXT_COLS = ('instruction', 'question', 'option_a', 'option_b', 'option_c',
+             'correct_answer', 'word', 'example', 'summary', 'title', 'part', 'chapter')
 
 # --- taxonomy ------------------------------------------------------------
 # Closed enums: a value outside the set is a defect, not a new category.
