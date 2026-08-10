@@ -1,5 +1,13 @@
 # Pipeline & Exports Handoff v1.0 — "Tricolore 2 + Cross-Language Taxonomy Fix"
 
+> **SUPERSEDED 2026-08-10 by Pipeline & Exports Handoff v1.1**
+> (`_engine/HANDOFF-2026-08-10-pipelines-exports.md`). Read v1.1 first for
+> current book status, the verification gates and the standards. This
+> document remains accurate as the history of the German run and the
+> Tricolore 2 transcription, and for the reasoning behind decisions made
+> on 2026-07-28.
+
+
 **Name:** Pipeline & Exports Handoff
 **Version:** v1.0
 **Date:** 2026-07-28
