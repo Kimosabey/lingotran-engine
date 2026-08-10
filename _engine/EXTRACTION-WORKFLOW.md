@@ -242,9 +242,19 @@ Writes the per-book unified `.md` + per-book CSVs, and rebuilds the merged
 python _engine/package_exports.py --root french/extracted
 ```
 
-Assembles the clean `_exports/` tree: `README.md` + `_combined/` (roll-ups) +
-one folder per book (its CSVs + `.md`). In-place, atomic per file, prunes
-stale files — safe to re-run.
+Assembles the clean `_exports/` tree: `README.md` + `START-HERE.md` +
+`_combined/` (roll-ups) + one folder per book (its CSVs + `.md`). In-place,
+atomic per file, prunes stale files — safe to re-run.
+
+The two loose docs are the only files allowed at the top, and they do different
+jobs: `README.md` is the reference (column lists, row counts, known
+limitations), `START-HERE.md` is the content team's entry point — a "what do I
+open?" page. **`START-HERE.md` is generated for every language** by the shared
+builder in `_engine/_common.py`, from the real per-book counts collected during
+packaging, so it cannot drift from what actually shipped and every language's
+deliverable has the same shape. Don't hand-edit it. If a language genuinely
+needs bespoke wording, write `<root>/_tools/START-HERE.source.md` and that file
+is copied in verbatim instead.
 
 ### Step 11b — Verify the deliverable [py]
 
