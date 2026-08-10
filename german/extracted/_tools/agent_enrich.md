@@ -30,7 +30,12 @@ For EACH item output:
   ALWAYS in English regardless of source language, matching the shared _engine/'s
   convention (see french/extracted's agent_enrich.md) — never write German/French/
   target-language words as taxonomy values here.
-- `teil`: the part/Teil or exercise-group label if printed (e.g. "Teil 1", "Übung 3"), else ""
+- `part`: the exercise-group label if printed (e.g. "Teil 1", "Übung 3"), else "".
+  The FIELD NAME is English (it was `teil` until 2026-08-10, which left German's
+  exported sheet misaligned with French's `part` for the identical concept); the
+  VALUE stays exactly as printed, so "Teil 1" is correct content for it. Existing
+  records that still use the old `teil` key are read as a fallback, so no page
+  data had to be rewritten — but emit `part` for anything new.
 - `item`: the printed item number/letter (e.g. "1", "2a"), else a running index
 - `item_type`: multiple-choice, matching, true-false, fill-in, ordering, short-answer, writing-task, speaking-task, open-ended
 - `question`: the item stem/prompt VERBATIM (German; umlauts/ß exact). For matching, state the left element.

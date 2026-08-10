@@ -23,10 +23,19 @@ which source language they were extracted from:
   2026-07-28: German's `section` column used German words — `hoeren`/`lesen`/`sprechen`/
   `schreiben` — instead of `listening`/`reading`/`speaking`/`writing`, across all
   non-frozen German books; each language's `agent_enrich.md` now states this explicitly.)
+- **All column names are English, always, and identical across languages** — the header
+  row is part of the schema, not the source material. (Found and fixed 2026-08-10:
+  German's questions sheet named its exercise-group column `teil` where French named the
+  same concept `part`, so the two languages' sheets did not line up for anyone reading
+  both. Renamed to `part`; German's questions sheet also gained the `level` column French
+  already had, so both languages now emit a byte-identical header.) A column that exists
+  in one language and genuinely has no source data in another — `chapter`, which German
+  books do not carry — is simply absent there rather than shipped permanently empty.
 - **Verbatim/quoted fields stay in the source language** — the `question` text itself,
-  answer options, examples, printed part/unit labels (e.g. German's `teil` column keeping
-  values like "Teil 1", French keeping "Unité 3") — these are direct quotes from the book
-  and must not be translated or reworded, unlike the taxonomy columns above.
+  answer options, examples, and printed part/unit labels — these are direct quotes from
+  the book and must not be translated or reworded, unlike the taxonomy columns above.
+  Note the distinction from the rule above: the `part` *column name* is English, while
+  the *values* in it stay exactly as printed ("Teil 1", "Übung 2", "Unité 3").
 - Before adding a new language's pipeline, re-check its `agent_enrich.md`/equivalent
   enrichment prompt for this rule, and spot-check a sample export for stray non-English
   taxonomy values before considering that language's export "done."
