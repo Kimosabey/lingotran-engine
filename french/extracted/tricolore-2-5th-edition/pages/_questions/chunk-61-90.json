@@ -4,6 +4,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Elle aime faire (1) ___ pour les autres et après le dîner, elle fait (2) ___.",
@@ -18,6 +19,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Elle aime faire (1) ___ pour les autres et après le dîner, elle fait (2) ___.",
@@ -32,6 +34,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Il ne passe pas (3) ___ et il ne range pas (4) ___ des garçons.",
@@ -46,6 +49,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Il ne passe pas (3) ___ et il ne range pas (4) ___ des garçons.",
@@ -60,6 +64,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Et en été, j'aime (5) ___, et je (6) ___ de ma mère une fois par mois.",
@@ -74,6 +79,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Et en été, j'aime (5) ___, et je (6) ___ de ma mère une fois par mois.",
@@ -88,6 +94,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Chez moi, je (7) ___ tous les jours. Quelquefois, je (8) ___ au supermarché. J'aime bien ça.",
@@ -102,6 +109,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "Lis la conversation et complète les phrases avec les mots de la case. Puis écoute et vérifie.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Chez moi, je (7) ___ tous les jours. Quelquefois, je (8) ___ au supermarché. J'aime bien ça.",
@@ -116,6 +124,7 @@
     {
       "section": "writing",
       "part": "Exercise 4b",
+      "instruction": "Invente une personne pour la maison de Secret Story. Comment est-elle? Qu'est-ce qu'elle (ne) fait (pas)? Écris quelques phrases.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente une personne pour la maison de Secret Story. Comment est-elle? Qu'est-ce qu'elle (ne) fait (pas)? Écris quelques phrases.",
@@ -130,6 +139,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ma (1) ___ chez les Martin est super! J'ai un grand (2) ___ confortable et il y a un (3) ___ et une télé dans la chambre. La famille a un (4) ___, il est mignon et j'aime (5) ___ le chien.",
@@ -144,6 +154,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ma (1) ___ chez les Martin est super! J'ai un grand (2) ___ confortable et il y a un (3) ___ et une télé dans la chambre. La famille a un (4) ___, il est mignon et j'aime (5) ___ le chien.",
@@ -158,6 +169,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ma (1) ___ chez les Martin est super! J'ai un grand (2) ___ confortable et il y a un (3) ___ et une télé dans la chambre. La famille a un (4) ___, il est mignon et j'aime (5) ___ le chien.",
@@ -172,6 +184,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ma (1) ___ chez les Martin est super! J'ai un grand (2) ___ confortable et il y a un (3) ___ et une télé dans la chambre. La famille a un (4) ___, il est mignon et j'aime (5) ___ le chien.",
@@ -186,6 +199,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ma (1) ___ chez les Martin est super! J'ai un grand (2) ___ confortable et il y a un (3) ___ et une télé dans la chambre. La famille a un (4) ___, il est mignon et j'aime (5) ___ le chien.",
@@ -200,6 +214,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Je n'ai pas de (6) ___ dans ma chambre, mais ce n'est pas (7) ___ . Nous regardons la télé dans le (8) ___. J'aime bien la maison. Il y a un très beau (9) ___, mais il n'y a pas d'(10) ___.",
@@ -214,6 +229,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Je n'ai pas de (6) ___ dans ma chambre, mais ce n'est pas (7) ___ . Nous regardons la télé dans le (8) ___. J'aime bien la maison. Il y a un très beau (9) ___, mais il n'y a pas d'(10) ___.",
@@ -228,6 +244,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Je n'ai pas de (6) ___ dans ma chambre, mais ce n'est pas (7) ___ . Nous regardons la télé dans le (8) ___. J'aime bien la maison. Il y a un très beau (9) ___, mais il n'y a pas d'(10) ___.",
@@ -242,6 +259,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Je n'ai pas de (6) ___ dans ma chambre, mais ce n'est pas (7) ___ . Nous regardons la télé dans le (8) ___. J'aime bien la maison. Il y a un très beau (9) ___, mais il n'y a pas d'(10) ___.",
@@ -256,6 +274,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Complète les textos avec les mots de la case.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Je n'ai pas de (6) ___ dans ma chambre, mais ce n'est pas (7) ___ . Nous regardons la télé dans le (8) ___. J'aime bien la maison. Il y a un très beau (9) ___, mais il n'y a pas d'(10) ___.",
@@ -270,6 +289,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6a",
+      "instruction": "À deux, lisez la conversation puis changez des détails pour inventer une autre conversation sur la maison.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux, lisez la conversation puis changez des détails pour inventer une autre conversation sur la maison (chambre, jardin, aide à la maison).",
@@ -284,6 +304,7 @@
     {
       "section": "writing",
       "part": "Exercise 6b",
+      "instruction": "Écris un paragraphe sur ta chambre ou ta maison. Regarde les réponses (B) de la conversation.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris un paragraphe sur ta chambre ou ta maison. Regarde les réponses (B) de la conversation.",
@@ -298,6 +319,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "C'est faux! Corrige les phrases.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Hier matin, Julie a visité la ville avec son frère.",
@@ -312,6 +334,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "C'est faux! Corrige les phrases.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Elle a acheté des jeux vidéo.",
@@ -326,6 +349,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "C'est faux! Corrige les phrases.",
       "item": "3",
       "item_type": "short-answer",
       "question": "À midi, ils ont mangé à la maison.",
@@ -340,6 +364,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "C'est faux! Corrige les phrases.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Hier après-midi, ils ont joué au football.",
@@ -354,6 +379,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "C'est faux! Corrige les phrases.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Hier soir, ils ont regardé un film à la télé.",
@@ -368,6 +394,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "C'est faux! Corrige les phrases.",
       "item": "6",
       "item_type": "short-answer",
       "question": "Julie a trouvé l'équipe canadienne super.",
@@ -382,6 +409,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve l'équivalent en français pour ces phrases. Utilise une des phrases en français deux fois.",
       "item": "1",
       "item_type": "matching",
       "question": "Did you buy something?",
@@ -396,6 +424,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve l'équivalent en français pour ces phrases. Utilise une des phrases en français deux fois.",
       "item": "2",
       "item_type": "matching",
       "question": "Have you bought something?",
@@ -410,6 +439,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve l'équivalent en français pour ces phrases. Utilise une des phrases en français deux fois.",
       "item": "3",
       "item_type": "matching",
       "question": "I bought something this morning.",
@@ -424,6 +454,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve l'équivalent en français pour ces phrases. Utilise une des phrases en français deux fois.",
       "item": "4",
       "item_type": "matching",
       "question": "Have you eaten?",
@@ -438,6 +469,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve l'équivalent en français pour ces phrases. Utilise une des phrases en français deux fois.",
       "item": "5",
       "item_type": "matching",
       "question": "Did you eat in a café?",
@@ -452,6 +484,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve l'équivalent en français pour ces phrases. Utilise une des phrases en français deux fois.",
       "item": "6",
       "item_type": "matching",
       "question": "He ate a sandwich.",
@@ -466,6 +499,7 @@
     {
       "section": "listening",
       "part": "Exercise 3a",
+      "instruction": "Écoute la conversation et mets les images dans l'ordre.",
       "item": "1",
       "item_type": "ordering",
       "question": "Écoute la conversation et mets les neuf images (activités quotidiennes) dans le bon ordre.",
@@ -480,6 +514,7 @@
     {
       "section": "writing",
       "part": "Exercise 3b",
+      "instruction": "Tu as passé une journée très chargée d'activités. Qu'est-ce que tu as fait? Écris au moins huit choses.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Tu as passé une journée très chargée d'activités. Qu'est-ce que tu as fait? Écris au moins huit choses.",
@@ -494,6 +529,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "last week",
@@ -508,6 +544,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "yesterday morning",
@@ -522,6 +559,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Sunday afternoon",
@@ -536,6 +574,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "last weekend",
@@ -550,6 +589,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "today",
@@ -564,6 +604,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "this afternoon",
@@ -578,6 +619,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "7",
       "item_type": "matching",
       "question": "yesterday",
@@ -592,6 +634,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "8",
       "item_type": "matching",
       "question": "this evening",
@@ -606,6 +649,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "9",
       "item_type": "matching",
       "question": "last Friday",
@@ -620,6 +664,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les paires.",
       "item": "10",
       "item_type": "matching",
       "question": "last night",
@@ -634,6 +679,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "1",
       "item_type": "matching",
       "question": "Conversation 1: quelle expression de temps (a–j) utilise-t-on?",
@@ -648,6 +694,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "2",
       "item_type": "matching",
       "question": "Conversation 2: quelle expression de temps (a–j) utilise-t-on?",
@@ -662,6 +709,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "3",
       "item_type": "matching",
       "question": "Conversation 3: quelle expression de temps (a–j) utilise-t-on?",
@@ -676,6 +724,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "4",
       "item_type": "matching",
       "question": "Conversation 4: quelle expression de temps (a–j) utilise-t-on?",
@@ -690,6 +739,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "5",
       "item_type": "matching",
       "question": "Conversation 5: quelle expression de temps (a–j) utilise-t-on?",
@@ -704,6 +754,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "6",
       "item_type": "matching",
       "question": "Conversation 6: quelle expression de temps (a–j) utilise-t-on?",
@@ -718,6 +769,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "7",
       "item_type": "matching",
       "question": "Conversation 7: quelle expression de temps (a–j) utilise-t-on?",
@@ -732,6 +784,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "8",
       "item_type": "matching",
       "question": "Conversation 8: quelle expression de temps (a–j) utilise-t-on?",
@@ -746,6 +799,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "9",
       "item_type": "matching",
       "question": "Conversation 9: quelle expression de temps (a–j) utilise-t-on?",
@@ -760,6 +814,7 @@
     {
       "section": "listening",
       "part": "Exercise 4b",
+      "instruction": "Écoute les conversations (1–10). On utilise une des expressions a–j dans chaque conversation. Note la bonne expression.",
       "item": "10",
       "item_type": "matching",
       "question": "Conversation 10: quelle expression de temps (a–j) utilise-t-on?",
@@ -774,6 +829,7 @@
     {
       "section": "writing",
       "part": "Exercise 5",
+      "instruction": "Choisis cinq nombres entre 1 et 6 ou jette un dé. Trouve dans chaque section (A–E) l'expression qui correspond. Écris la phrase complète dans l'ordre.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Choisis cinq nombres entre 1 et 6 ou jette un dé. Trouve dans chaque section (A–E) l'expression qui correspond. Écris la phrase complète dans l'ordre.",
@@ -788,6 +844,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Mets les images dans le bon ordre.",
       "item": "1",
       "item_type": "ordering",
       "question": "Le téléphone sonne chez les Martin. Écoute la conversation et mets les huit images dans le bon ordre.",
@@ -802,6 +859,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Ce matin, Daniel a visité",
@@ -816,6 +874,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Il a acheté un",
@@ -830,6 +889,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Thomas a décidé d'acheter",
@@ -844,6 +904,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "À midi, Daniel et Thomas ont déjeuné",
@@ -858,6 +919,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "L'après-midi, ils ont écouté de la",
@@ -872,6 +934,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Puis ils ont joué",
@@ -886,6 +949,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve les paires.",
       "item": "7",
       "item_type": "matching",
       "question": "Daniel a regardé",
@@ -900,6 +964,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "1",
       "item_type": "matching",
       "question": "Image 1: une fille en jaune mélange une pâte dans un grand bol vert.",
@@ -914,6 +979,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "2",
       "item_type": "matching",
       "question": "Image 2: un garçon sort/met un plat au micro-ondes.",
@@ -928,6 +994,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "3",
       "item_type": "matching",
       "question": "Image 3: une fille et un garçon traversent la rue avec des sacs de courses en papier.",
@@ -942,6 +1009,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "4",
       "item_type": "matching",
       "question": "Image 4: un garçon passe l'aspirateur orange sur le sol.",
@@ -956,6 +1024,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "5",
       "item_type": "matching",
       "question": "Image 5: deux enfants sur un escabeau décorent une clôture de jardin avec des ballons.",
@@ -970,6 +1039,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "6",
       "item_type": "matching",
       "question": "Image 6: une fille range le salon (canapé rose, tableau, aspirateur).",
@@ -984,6 +1054,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "7",
       "item_type": "matching",
       "question": "Image 7: un garçon avec un casque danse, bras levés, notes de musique autour de lui.",
@@ -998,6 +1069,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Pour préparer une fête, la famille Martin et des amis ont travaillé tout l'après-midi. Trouve la bonne phrase pour chaque image.",
       "item": "8",
       "item_type": "matching",
       "question": "Image 8: une table avec une nappe jaune, couverte de plats et de bouteilles, un chien dessous.",
@@ -1012,6 +1084,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Pour la fête, Thomas a ___ son nouveau jean et un tee-shirt.",
@@ -1026,6 +1099,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Moi, j'ai ___ un jogging et mon tee-shirt favori.",
@@ -1040,6 +1114,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Thomas a ___ ma sœur, Julie, et sa correspondante, Nicole, à la fête.",
@@ -1054,6 +1129,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "La fête a ___ à huit heures.",
@@ -1068,6 +1144,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "On a ___ de la bonne musique.",
@@ -1082,6 +1159,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Nous avons ___ de la pizza et du gâteau.",
@@ -1096,6 +1174,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Quelques personnes ont ___ sur la musique.",
@@ -1110,6 +1189,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Daniel parle de la fête. Complète les phrases avec le participe passé d'un verbe de la case.",
       "item": "8",
       "item_type": "fill-in",
       "question": "J'ai ___ avec beaucoup de personnes.",
@@ -1124,6 +1204,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Samedi dernier, Thomas ___ invité Nicole, et moi aussi, à sa fête.",
@@ -1138,6 +1219,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Nous ___ cherché un cadeau pour Thomas en ville.",
@@ -1152,6 +1234,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Finalement, nous ___ trouvé une BD (bande dessinée).",
@@ -1166,6 +1249,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Thomas ___ aimé le livre.",
@@ -1180,6 +1264,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Les filles ___ dansé.",
@@ -1194,6 +1279,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Mais Daniel, tu ___ refusé de danser. Pourquoi?",
@@ -1208,6 +1294,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Moi, j' ___ rencontré Marc, le frère de Thomas. Il est sympa.",
@@ -1222,6 +1309,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Julie parle de la fête. Complète les phrases avec la bonne forme du verbe avoir.",
       "item": "8",
       "item_type": "fill-in",
       "question": "La fête ___ duré jusqu'à onze heures.",
@@ -1236,6 +1324,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "On a acheté beaucoup de cadeaux pour Thomas. Écoute et trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Daniel",
@@ -1250,6 +1339,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "On a acheté beaucoup de cadeaux pour Thomas. Écoute et trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Nicole et Julie",
@@ -1264,6 +1354,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "On a acheté beaucoup de cadeaux pour Thomas. Écoute et trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "son frère Marc",
@@ -1278,6 +1369,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "On a acheté beaucoup de cadeaux pour Thomas. Écoute et trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Sébastien, son meilleur copain",
@@ -1292,6 +1384,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "On a acheté beaucoup de cadeaux pour Thomas. Écoute et trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "ses parents",
@@ -1306,6 +1399,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "On a acheté beaucoup de cadeaux pour Thomas. Écoute et trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "ses grands-parents",
@@ -1320,6 +1414,7 @@
     {
       "section": "listening",
       "part": "Exercise 4a",
+      "instruction": "On a acheté beaucoup de cadeaux pour Thomas. Écoute et trouve les paires.",
       "item": "7",
       "item_type": "matching",
       "question": "moi",
@@ -1334,6 +1429,7 @@
     {
       "section": "writing",
       "part": "Exercise 4b",
+      "instruction": "Écris des phrases complètes.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris des phrases complètes sur les cadeaux achetés (voir 4a). Exemple: Daniel a acheté un tee-shirt.",
@@ -1348,6 +1444,7 @@
     {
       "section": "speaking",
       "part": "Exercise 5a",
+      "instruction": "À deux, parlez des activités récentes.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux, parlez des activités récentes: Qu'est-ce que tu as fait l'autre jour?",
@@ -1362,6 +1459,7 @@
     {
       "section": "writing",
       "part": "Exercise 5b",
+      "instruction": "Écris quelques phrases pour décrire une journée récente.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris quelques phrases pour décrire une journée récente.",
@@ -1376,6 +1474,7 @@
     {
       "section": "writing",
       "part": "Exercise 5c",
+      "instruction": "Écris un paragraphe pour décrire un weekend chargé d'activités.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris un paragraphe pour décrire un weekend chargé d'activités.",
@@ -1390,6 +1489,7 @@
     {
       "section": "writing",
       "part": "Exercise 1",
+      "instruction": "Tu as reçu de l'argent pour ton anniversaire et tu as cherché des cadeaux en ville. Qu'est-ce que tu as choisi? Écris cinq phrases complètes.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Tu as reçu de l'argent pour ton anniversaire et tu as cherché des cadeaux en ville. Qu'est-ce que tu as choisi? Écris cinq phrases complètes.",
@@ -1404,6 +1504,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve la bonne phrase pour chaque image.",
       "item": "1",
       "item_type": "matching",
       "question": "Panel 1: un garçon a le visage très rouge devant deux femmes qui discutent dans un magasin.",
@@ -1418,6 +1519,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve la bonne phrase pour chaque image.",
       "item": "2",
       "item_type": "matching",
       "question": "Panel 2: une vendeuse montre des chaussures à une cliente qui tient deux paires différentes.",
@@ -1432,6 +1534,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve la bonne phrase pour chaque image.",
       "item": "3",
       "item_type": "matching",
       "question": "Panel 3: un garçon est assis à table devant un pot renversé et un chat derrière lui.",
@@ -1446,6 +1549,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Trouve la bonne phrase pour chaque image.",
       "item": "4",
       "item_type": "matching",
       "question": "Panel 4: un garçon fête devant la télé, un aquarium déborde à ses pieds.",
@@ -1460,6 +1564,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Choisir, finir and remplir are regular -ir verbs. Look at the past participle of these verbs and compare it with the infinitive. Work out the rule for forming the past participle of -ir verbs.",
       "item": "1",
       "item_type": "short-answer",
       "question": "What is the past participle of réussir (to succeed)?",
@@ -1474,6 +1579,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "1",
       "item_type": "matching",
       "question": "Julie et Hélène ont choisi ___ . (le matin)",
@@ -1488,6 +1594,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "2",
       "item_type": "matching",
       "question": "André a choisi ___ . (le matin)",
@@ -1502,6 +1609,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "3",
       "item_type": "matching",
       "question": "Daniel et Christophe ont choisi ___ . (le matin)",
@@ -1516,6 +1624,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "4",
       "item_type": "matching",
       "question": "Émilie a choisi ___ . (le matin)",
@@ -1530,6 +1639,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "5",
       "item_type": "matching",
       "question": "Émilie, tu as choisi ___ . (l'après-midi)",
@@ -1544,6 +1654,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "6",
       "item_type": "matching",
       "question": "Julie a choisi ___ . (l'après-midi)",
@@ -1558,6 +1669,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "7",
       "item_type": "matching",
       "question": "Hélène a choisi ___ . (l'après-midi)",
@@ -1572,6 +1684,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Mardi, il y a un choix d'activités pour les jeunes. Regarde le programme, écoute les conversations et note les détails. Puis complète les phrases.",
       "item": "8",
       "item_type": "matching",
       "question": "Et vous, les garçons, vous avez choisi ___ . (l'après-midi)",
@@ -1586,6 +1699,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4",
+      "instruction": "À deux. Chaque personne choisit une activité du matin et une activité de l'après-midi puis note les détails. Pose des questions pour trouver le choix de ton/ta partenaire. Note le nombre de questions.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux. Chaque personne choisit une activité du matin et une activité de l'après-midi puis note les détails. Pose des questions pour trouver le choix de ton/ta partenaire.",
@@ -1600,6 +1714,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Complète les questions.",
       "item": "1",
       "item_type": "matching",
       "question": "Tu",
@@ -1614,6 +1729,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Complète les questions.",
       "item": "2",
       "item_type": "matching",
       "question": "Est-ce que Julie",
@@ -1628,6 +1744,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Complète les questions.",
       "item": "3",
       "item_type": "matching",
       "question": "Vous avez perdu",
@@ -1642,6 +1759,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Complète les questions.",
       "item": "4",
       "item_type": "matching",
       "question": "Est-ce qu'on a",
@@ -1656,6 +1774,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Complète les questions.",
       "item": "5",
       "item_type": "matching",
       "question": "Vous",
@@ -1670,6 +1789,7 @@
     {
       "section": "reading",
       "part": "Exercise 5b",
+      "instruction": "Complète les réponses.",
       "item": "a",
       "item_type": "matching",
       "question": "Oui, j'",
@@ -1684,6 +1804,7 @@
     {
       "section": "reading",
       "part": "Exercise 5b",
+      "instruction": "Complète les réponses.",
       "item": "b",
       "item_type": "matching",
       "question": "Oui, nous",
@@ -1698,6 +1819,7 @@
     {
       "section": "reading",
       "part": "Exercise 5b",
+      "instruction": "Complète les réponses.",
       "item": "c",
       "item_type": "matching",
       "question": "Non, mais on",
@@ -1712,6 +1834,7 @@
     {
       "section": "reading",
       "part": "Exercise 5b",
+      "instruction": "Complète les réponses.",
       "item": "d",
       "item_type": "matching",
       "question": "Oui, elle a rendu",
@@ -1726,6 +1849,7 @@
     {
       "section": "reading",
       "part": "Exercise 5b",
+      "instruction": "Complète les réponses.",
       "item": "e",
       "item_type": "matching",
       "question": "J'ai perdu",
@@ -1740,6 +1864,7 @@
     {
       "section": "reading",
       "part": "Exercise 5c",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Question 1 (5a) matched to its response (5b)",
@@ -1754,6 +1879,7 @@
     {
       "section": "reading",
       "part": "Exercise 5c",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Question 2 (5a) matched to its response (5b)",
@@ -1768,6 +1894,7 @@
     {
       "section": "reading",
       "part": "Exercise 5c",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Question 3 (5a) matched to its response (5b)",
@@ -1782,6 +1909,7 @@
     {
       "section": "reading",
       "part": "Exercise 5c",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Question 4 (5a) matched to its response (5b)",
@@ -1796,6 +1924,7 @@
     {
       "section": "reading",
       "part": "Exercise 5c",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Question 5 (5a) matched to its response (5b)",
@@ -1810,6 +1939,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute les conversations et complète les phrases avec des mots de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Nicole a perdu ses ___, mais elles sont dans la ___ .",
@@ -1824,6 +1954,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute les conversations et complète les phrases avec des mots de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Luc a perdu son ___, mais il est sur la ___ .",
@@ -1838,6 +1969,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute les conversations et complète les phrases avec des mots de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Sophie a perdu sa ___, mais elle est dans la ___ .",
@@ -1852,6 +1984,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute les conversations et complète les phrases avec des mots de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Charles a perdu son ___, mais il est sous son ___ .",
@@ -1866,6 +1999,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute les conversations et complète les phrases avec des mots de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Les garçons ont perdu leur nouveau ___, mais il est dans ___ .",
@@ -1880,6 +2014,7 @@
     {
       "section": "listening",
       "part": "Exercise 6",
+      "instruction": "Écoute les conversations et complète les phrases avec des mots de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Les filles ont perdu leurs ___, mais elles sont dans la ___ .",
@@ -1894,6 +2029,7 @@
     {
       "section": "reading",
       "part": "Exercise 7a",
+      "instruction": "Choisis le bon verbe.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Cette petite fille a (vendu/perdu/entendu) le chien de la famille.",
@@ -1908,6 +2044,7 @@
     {
       "section": "reading",
       "part": "Exercise 7a",
+      "instruction": "Choisis le bon verbe.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "J'ai (vendu/attendu/perdu) mes lettres, mais heureusement, je n'ai pas (rendu/perdu/entendu) le pied!",
@@ -1922,6 +2059,7 @@
     {
       "section": "reading",
       "part": "Exercise 7a",
+      "instruction": "Choisis le bon verbe.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Attention, attention! Le zoo a (perdu/attendu/vendu) un tigre très dangereux.",
@@ -1936,6 +2074,7 @@
     {
       "section": "reading",
       "part": "Exercise 7a",
+      "instruction": "Choisis le bon verbe.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Le policier a (vendu/perdu/attendu) devant la banque.",
@@ -1950,6 +2089,7 @@
     {
       "section": "reading",
       "part": "Exercise 7a",
+      "instruction": "Choisis le bon verbe.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Tu as (vendu/entendu/attendu) quelque chose?",
@@ -1964,6 +2104,7 @@
     {
       "section": "writing",
       "part": "Exercise 7b",
+      "instruction": "Traduis les textes en anglais.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Traduis les textes (1–5) en anglais.",
@@ -1978,6 +2119,7 @@
     {
       "section": "writing",
       "part": "Exercise 7c",
+      "instruction": "Écris un paragraphe sur un objet que tu as acheté, perdu et retrouvé.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris un paragraphe sur un objet que tu as acheté, perdu et retrouvé.",
@@ -1992,6 +2134,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Regarde ce magazine, il est (1) ___ . Il y a des photos et des articles sur la mode.",
@@ -2006,6 +2149,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Oui, mais moi, je préfère (2) ___ . Dans ce magazine, il y a des articles intéressants sur les nouvelles applis. Je vais acheter ça.",
@@ -2020,6 +2164,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Daniel cherche une casquette pour son (3) ___ .",
@@ -2034,6 +2179,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ah oui, j'aime bien cette casquette tricolore. Je (4) ___ l'acheter.",
@@ -2048,6 +2194,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Nicole veut acheter des chaussettes pour sa petite (5) ___ .",
@@ -2062,6 +2209,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "J'aime bien ces chaussettes avec les petits (6) ___ . Elles sont mignonnes.",
@@ -2076,6 +2224,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Ma cousine aime bien les chats, alors je vais (7) ___ ces chaussettes avec les chats.",
@@ -2090,6 +2239,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Christophe a oublié son anorak à la (8) ___, alors il va acheter un nouvel anorak.",
@@ -2104,6 +2254,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Cet anorak rouge n'est pas (9) ___.",
@@ -2118,6 +2269,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Complète les phrases. Choisis le bon mot de la case.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Je vais acheter cet anorak bleu. C'est le même (10) ___ et je préfère la couleur.",
@@ -2132,6 +2284,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Qu'est-ce qu'ils ont acheté? Écoute et écris la bonne lettre.",
       "item": "1",
       "item_type": "matching",
       "question": "Qu'est-ce qu'Hélène a acheté?",
@@ -2146,6 +2299,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Qu'est-ce qu'ils ont acheté? Écoute et écris la bonne lettre.",
       "item": "2",
       "item_type": "matching",
       "question": "Qu'est-ce que Daniel a acheté?",
@@ -2160,6 +2314,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Qu'est-ce qu'ils ont acheté? Écoute et écris la bonne lettre.",
       "item": "3",
       "item_type": "matching",
       "question": "Qu'est-ce que Nicole a acheté?",
@@ -2174,6 +2329,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Qu'est-ce qu'ils ont acheté? Écoute et écris la bonne lettre.",
       "item": "4",
       "item_type": "matching",
       "question": "Qu'est-ce que Christophe a acheté?",
@@ -2188,6 +2344,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète ces phrases avec ce ou cet.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Regardez ___ sac de sport pratique.",
@@ -2202,6 +2359,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète ces phrases avec ce ou cet.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Goûtez ___ délicieux gâteau.",
@@ -2216,6 +2374,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète ces phrases avec ce ou cet.",
       "item": "3",
       "item_type": "fill-in",
       "question": "___ appareil n'est pas cher.",
@@ -2230,6 +2389,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète ces phrases avec ce ou cet.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Achetez ___ ordinateur portable.",
@@ -2244,6 +2404,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Complète ces phrases avec ce ou cet.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Regardez ___ instrument de musique.",
@@ -2258,6 +2419,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2b",
+      "instruction": "Complète ces phrases avec cette ou ces.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Achetez ___ lunettes de soleil.",
@@ -2272,6 +2434,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2b",
+      "instruction": "Complète ces phrases avec cette ou ces.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Envoyez ___ carte amusante.",
@@ -2286,6 +2449,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2b",
+      "instruction": "Complète ces phrases avec cette ou ces.",
       "item": "8",
       "item_type": "fill-in",
       "question": "___ chaussures sont très pratiques.",
@@ -2300,6 +2464,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2b",
+      "instruction": "Complète ces phrases avec cette ou ces.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Regardez ___ raquettes fantastiques.",
@@ -2314,6 +2479,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2b",
+      "instruction": "Complète ces phrases avec cette ou ces.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Écoutez ___ belle musique.",
@@ -2328,6 +2494,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "1",
       "item_type": "fill-in",
       "question": "Mardi dernier, le groupe ___ la journée à Paris. (passer)",
@@ -2342,6 +2509,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "2",
       "item_type": "fill-in",
       "question": "Le matin, nous ___ la tour Eiffel. (visiter)",
@@ -2356,6 +2524,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "3",
       "item_type": "fill-in",
       "question": "On ___ des souvenirs tout près. (regarder)",
@@ -2370,6 +2539,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "4",
       "item_type": "fill-in",
       "question": "Moi, j'___ une petite tour Eiffel. (acheter)",
@@ -2384,6 +2554,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "5",
       "item_type": "fill-in",
       "question": "À midi, on ___ au restaurant. (manger)",
@@ -2398,6 +2569,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "6",
       "item_type": "fill-in",
       "question": "Moi, j'___ du poulet et des frites. (choisir)",
@@ -2412,6 +2584,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "7",
       "item_type": "fill-in",
       "question": "L'après-midi, nous ___ de faire une excursion en bateau. (décider)",
@@ -2426,6 +2599,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "8",
       "item_type": "fill-in",
       "question": "Nous ___ Daniel et Julie pendant dix minutes. (attendre)",
@@ -2440,6 +2614,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "9",
       "item_type": "fill-in",
       "question": "Daniel ___ son billet. (perdre)",
@@ -2454,6 +2629,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Christophe décrit une visite à Paris. Complète la description avec la bonne forme du verbe au passé composé. (N'oublie pas: avoir + participe passé.)",
       "item": "10",
       "item_type": "fill-in",
       "question": "Mais Julie ___ le billet par terre. (retrouver)",
@@ -2468,6 +2644,7 @@
     {
       "section": "writing",
       "part": "Exercise 3b",
+      "instruction": "Écris six phrases pour décrire la visite d'une ville la semaine dernière.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris six phrases pour décrire la visite d'une ville la semaine dernière.",
@@ -2482,6 +2659,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation. Attention: il y a des mots en trop dans la case!",
       "item": "1",
       "item_type": "fill-in",
       "question": "C'est le (1) ___ jour des vacances.",
@@ -2496,6 +2674,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation. Attention: il y a des mots en trop dans la case!",
       "item": "2",
       "item_type": "fill-in",
       "question": "Hier, Daniel a acheté (2) ___ pour Mme Martin.",
@@ -2510,6 +2689,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation. Attention: il y a des mots en trop dans la case!",
       "item": "3",
       "item_type": "fill-in",
       "question": "Merci bien pour (3) ___, Daniel.",
@@ -2524,6 +2704,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation. Attention: il y a des mots en trop dans la case!",
       "item": "4",
       "item_type": "fill-in",
       "question": "J'espère que tu as passé de bonnes vacances ici (4) ___ .",
@@ -2538,6 +2719,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation. Attention: il y a des mots en trop dans la case!",
       "item": "5",
       "item_type": "fill-in",
       "question": "Alors, au revoir et bon retour (5) ___ !",
@@ -2552,6 +2734,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Lis l'e-mail de Julie et réponds aux questions.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Julie a passé ses vacances où?",
@@ -2566,6 +2749,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Lis l'e-mail de Julie et réponds aux questions.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Qu'est-ce qu'elle a surtout aimé?",
@@ -2580,6 +2764,7 @@
     {
       "section": "reading",
       "part": "Exercise 5a",
+      "instruction": "Lis l'e-mail de Julie et réponds aux questions.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Qu'est-ce que ses parents ont aimé?",
@@ -2594,6 +2779,7 @@
     {
       "section": "writing",
       "part": "Exercise 5b",
+      "instruction": "Écris un message comme celui de Julie, mais avec des détails différents. Voici des idées:",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris un message comme celui de Julie, mais avec des détails différents.",
@@ -2608,6 +2794,7 @@
     {
       "section": "listening",
       "part": "Exercise 1",
+      "instruction": "On parle de la télé et des livres. Écoute la conversation et mets les images dans le bon ordre.",
       "item": "1",
       "item_type": "ordering",
       "question": "On parle de la télé et des livres. Écoute la conversation et mets les images dans le bon ordre.",
@@ -2622,6 +2809,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Lis l'article et trouve le bon titre (a–c) pour chaque paragraphe (1–3).",
       "item": "1",
       "item_type": "matching",
       "question": "Paragraphe 1: La télé-réalité a commencé il y a longtemps aux États-Unis...",
@@ -2636,6 +2824,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Lis l'article et trouve le bon titre (a–c) pour chaque paragraphe (1–3).",
       "item": "2",
       "item_type": "matching",
       "question": "Paragraphe 2: On pose des caméras vidéo dans toute la maison...",
@@ -2650,6 +2839,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Lis l'article et trouve le bon titre (a–c) pour chaque paragraphe (1–3).",
       "item": "3",
       "item_type": "matching",
       "question": "Paragraphe 3: Une série récente diffusée en France s'appelle Secret Story...",
@@ -2664,6 +2854,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "1",
       "item_type": "short-answer",
       "question": "a long time ago",
@@ -2678,6 +2869,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "2",
       "item_type": "short-answer",
       "question": "it still works well",
@@ -2692,6 +2884,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "3",
       "item_type": "short-answer",
       "question": "who don't know one another",
@@ -2706,6 +2899,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "4",
       "item_type": "short-answer",
       "question": "a lot of countries",
@@ -2720,6 +2914,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "5",
       "item_type": "short-answer",
       "question": "their daily life",
@@ -2734,6 +2929,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "6",
       "item_type": "short-answer",
       "question": "their arguments",
@@ -2748,6 +2944,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "7",
       "item_type": "short-answer",
       "question": "video cameras",
@@ -2762,6 +2959,7 @@
     {
       "section": "reading",
       "part": "Exercise 2b",
+      "instruction": "Comment ça se dit en français?",
       "item": "8",
       "item_type": "short-answer",
       "question": "to keep a secret",
@@ -2776,6 +2974,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Cherche des détails sur l'émission Secret Story et fais une présentation ou un dossier.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Cherche des détails sur l'émission Secret Story et fais une présentation ou un dossier.",
@@ -2790,6 +2989,7 @@
     {
       "section": "reading",
       "part": "Exercise 4a",
+      "instruction": "Trouve les phrases au passé composé.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Trouve les phrases au passé composé dans le texte sur Suzanne Collins.",
@@ -2804,6 +3004,7 @@
     {
       "section": "writing",
       "part": "Exercise 4b",
+      "instruction": "Écris quelques phrases sur un livre, un film ou une émission à la télé que tu aimes.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris quelques phrases sur un livre, un film ou une émission à la télé que tu aimes.",
@@ -2818,6 +3019,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Read the article about Louis XIV and answer the questions in English.",
       "item": "1",
       "item_type": "short-answer",
       "question": "How old was Louis when he became king?",
@@ -2832,6 +3034,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Read the article about Louis XIV and answer the questions in English.",
       "item": "2",
       "item_type": "short-answer",
       "question": "For how long was he king?",
@@ -2846,6 +3049,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Read the article about Louis XIV and answer the questions in English.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Which famous building did he have built?",
@@ -2860,6 +3064,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Read the article about Louis XIV and answer the questions in English.",
       "item": "4",
       "item_type": "short-answer",
       "question": "About how many people lived there during his reign?",
@@ -2874,6 +3079,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Read the article about Louis XIV and answer the questions in English.",
       "item": "5",
       "item_type": "short-answer",
       "question": "What was France like at the end of his reign?",
@@ -2888,6 +3094,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Read the article about Louis XIV and answer the questions in English.",
       "item": "6",
       "item_type": "short-answer",
       "question": "Give three facts about La galerie des Glaces.",
@@ -2902,6 +3109,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Answer the questions in English.",
       "item": "1",
       "item_type": "short-answer",
       "question": "What does the singer think of maths?",
@@ -2916,6 +3124,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Answer the questions in English.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Which is his favourite day at school and why?",
@@ -2930,6 +3139,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Answer the questions in English.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Which is his least favourite subject?",
@@ -2944,6 +3154,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Answer the questions in English.",
       "item": "4",
       "item_type": "short-answer",
       "question": "When does he have German?",
@@ -2958,6 +3169,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Answer the questions in English.",
       "item": "5",
       "item_type": "short-answer",
       "question": "What is bad about Thursdays?",
@@ -2972,6 +3184,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "a",
       "item_type": "short-answer",
       "question": "Home",
@@ -2986,6 +3199,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "b",
       "item_type": "short-answer",
       "question": "Help",
@@ -3000,6 +3214,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "c",
       "item_type": "short-answer",
       "question": "Search",
@@ -3014,6 +3229,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "d",
       "item_type": "short-answer",
       "question": "link",
@@ -3028,6 +3244,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "e",
       "item_type": "short-answer",
       "question": "chatroom",
@@ -3042,6 +3259,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "keskec?",
@@ -3056,6 +3274,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "jtm",
@@ -3070,6 +3289,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "chuis ErEz",
@@ -3084,6 +3304,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "kelkun",
@@ -3098,6 +3319,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "t Gnial",
@@ -3112,6 +3334,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "1viT",
@@ -3126,6 +3349,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "7",
       "item_type": "matching",
       "question": "7semN",
@@ -3140,6 +3364,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "8",
       "item_type": "matching",
       "question": "koi29",
@@ -3154,6 +3379,7 @@
     {
       "section": "reading",
       "part": "Exercise 3b",
+      "instruction": "Trouve les paires.",
       "item": "9",
       "item_type": "matching",
       "question": "OQP",
@@ -3168,6 +3394,7 @@
     {
       "section": "writing",
       "part": "Exercise 3c",
+      "instruction": "Traduis en anglais les expressions a–i de l'exercice 3b.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Traduis en anglais les expressions a–i de l'exercice 3b.",
@@ -3182,6 +3409,7 @@
     {
       "section": "writing",
       "part": "Exercise 3d",
+      "instruction": "Écris un petit message en «vrai» français et en français «SMS».",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris un petit message en «vrai» français et en français «SMS».",
@@ -3196,6 +3424,7 @@
     {
       "section": "grammar",
       "part": "Grammar box (boire)",
+      "instruction": "Use the text about cafés in France to complete the present tense.",
       "item": "je",
       "item_type": "fill-in",
       "question": "Complète le présent du verbe boire: je ___ .",
@@ -3210,6 +3439,7 @@
     {
       "section": "grammar",
       "part": "Grammar box (boire)",
+      "instruction": "Use the text about cafés in France to complete the present tense.",
       "item": "nous",
       "item_type": "fill-in",
       "question": "Complète le présent du verbe boire: nous ___ .",
@@ -3224,6 +3454,7 @@
     {
       "section": "grammar",
       "part": "Grammar box (boire)",
+      "instruction": "Use the text about cafés in France to complete the present tense.",
       "item": "vous",
       "item_type": "fill-in",
       "question": "Complète le présent du verbe boire: vous ___ .",
@@ -3238,6 +3469,7 @@
     {
       "section": "grammar",
       "part": "Grammar box (boire)",
+      "instruction": "Use the text about cafés in France to complete the present tense.",
       "item": "il/elle/on",
       "item_type": "fill-in",
       "question": "Complète le présent du verbe boire: il/elle/on ___ .",
@@ -3252,6 +3484,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète les phrases.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Les cafés sont ouverts ___ ___ ___ .",
@@ -3266,6 +3499,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète les phrases.",
       "item": "2",
       "item_type": "fill-in",
       "question": "On peut prendre des boissons froides, comme l'___ et les ___ ___ ___ .",
@@ -3280,6 +3514,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète les phrases.",
       "item": "3",
       "item_type": "fill-in",
       "question": "On sert des ___ ___ , comme le café et le thé.",
@@ -3294,6 +3529,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète les phrases.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Pour faire une menthe à l'eau, on prend du ___ de menthe et de ___ .",
@@ -3308,6 +3544,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète les phrases.",
       "item": "5",
       "item_type": "fill-in",
       "question": "La limonade est une boisson ___ et ___ .",
@@ -3322,6 +3559,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète les phrases.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Un citron pressé est fait avec du citron, du ___ et de ___ .",
@@ -3336,6 +3574,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète les phrases.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Un croque-monsieur est fait avec du ___ , du ___ et du ___ .",
@@ -3350,6 +3589,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 1?",
@@ -3364,6 +3604,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 2?",
@@ -3378,6 +3619,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 3?",
@@ -3392,6 +3634,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 4?",
@@ -3406,6 +3649,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 5?",
@@ -3420,6 +3664,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 6?",
@@ -3434,6 +3679,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 7?",
@@ -3448,6 +3694,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 8?",
@@ -3462,6 +3709,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 9?",
@@ -3476,6 +3724,7 @@
     {
       "section": "listening",
       "part": "Exercise 3",
+      "instruction": "Au café, des clients commandent des boissons. Écris 1–10, écoute bien et écris le numéro de l'image qui correspond.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Quelle photo correspond à la commande numéro 10?",
@@ -3490,6 +3739,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation avec la bonne forme du verbe boire.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Qu'est-ce que tu aimes (1) ___ ?",
@@ -3504,6 +3754,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation avec la bonne forme du verbe boire.",
       "item": "2",
       "item_type": "fill-in",
       "question": "J'aime les jus de fruit, je (2) ___ beaucoup de jus d'orange.",
@@ -3518,6 +3769,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation avec la bonne forme du verbe boire.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Et toi, qu'est-ce que tu (3) ___ normalement?",
@@ -3532,6 +3784,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation avec la bonne forme du verbe boire.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Alors, moi, je (4) ___ souvent du coca,",
@@ -3546,6 +3799,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation avec la bonne forme du verbe boire.",
       "item": "5",
       "item_type": "fill-in",
       "question": "mais à la maison, nous (5) ___ surtout de l'eau minérale.",
@@ -3560,6 +3814,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation avec la bonne forme du verbe boire.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Ah bon, qu'est-ce que vous (6) ___ comme eau minérale, gazeuse ou non gazeuse?",
@@ -3574,6 +3829,7 @@
     {
       "section": "grammar",
       "part": "Exercise 4a",
+      "instruction": "Complète la conversation avec la bonne forme du verbe boire.",
       "item": "7",
       "item_type": "fill-in",
       "question": "On (7) ___ les deux, mais moi, je préfère l'eau gazeuse.",
@@ -3588,6 +3844,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4b",
+      "instruction": "À deux, changez les détails pour inventer une conversation différente. Parlez de vos préférences et donnez votre opinion.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux, changez les détails pour inventer une conversation différente. Parlez de vos préférences et donnez votre opinion.",
@@ -3602,6 +3859,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Les copains arrivent au café. Qu'est-ce qu'ils ont commandé? Écoute la conversation et trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Claire",
@@ -3616,6 +3874,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Les copains arrivent au café. Qu'est-ce qu'ils ont commandé? Écoute la conversation et trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Élise",
@@ -3630,6 +3889,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Les copains arrivent au café. Qu'est-ce qu'ils ont commandé? Écoute la conversation et trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Tiffaine",
@@ -3644,6 +3904,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Les copains arrivent au café. Qu'est-ce qu'ils ont commandé? Écoute la conversation et trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Jean-Pierre",
@@ -3658,6 +3919,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Les copains arrivent au café. Qu'est-ce qu'ils ont commandé? Écoute la conversation et trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Paul",
@@ -3672,6 +3934,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Les copains arrivent au café. Qu'est-ce qu'ils ont commandé? Écoute la conversation et trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Marc",
@@ -3686,6 +3949,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Écris des phrases complètes.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris des phrases complètes pour les six personnes (voir 1a). Exemple: Claire a commandé/choisi/demandé un jus d'orange.",
@@ -3700,6 +3964,7 @@
     {
       "section": "speaking",
       "part": "Exercise 2",
+      "instruction": "À deux: la personne A commande pour cinq personnes, la personne B (le serveur ou la serveuse) répète les commandes. Puis changez de rôle.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux: la personne A commande pour cinq personnes, la personne B (le serveur ou la serveuse) répète les commandes. Puis changez de rôle.",
@@ -3714,6 +3979,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3",
+      "instruction": "À deux, lisez la conversation, puis changez les détails.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Tu veux une glace? À deux, lisez la conversation, puis changez les détails (boules, parfums).",
@@ -3728,6 +3994,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4a",
+      "instruction": "À deux, lisez la conversation.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux, lisez la conversation au café (commander un Orangina, un sandwich, demander les toilettes, l'addition).",
@@ -3742,6 +4009,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4b",
+      "instruction": "Inventez des conversations différentes. Changez de rôle.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Inventez des conversations différentes. Changez de rôle.",
@@ -3756,6 +4024,7 @@
     {
       "section": "speaking",
       "part": "Exercise 4c",
+      "instruction": "Enregistrez vos conversations.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Enregistrez vos conversations.",
@@ -3770,6 +4039,7 @@
     {
       "section": "writing",
       "part": "Exercise 4d",
+      "instruction": "Tu as mangé au café avec des amis. Écris un blog.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Tu as mangé au café avec des amis. Écris un blog.",
@@ -3784,6 +4054,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Vrai ou faux?",
       "item": "1",
       "item_type": "true-false",
       "question": "Charles habite à Carcassonne.",
@@ -3798,6 +4069,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Vrai ou faux?",
       "item": "2",
       "item_type": "true-false",
       "question": "Dans le cassoulet, il y a des haricots blancs.",
@@ -3812,6 +4084,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Vrai ou faux?",
       "item": "3",
       "item_type": "true-false",
       "question": "Élise a découvert une nouvelle spécialité anglaise.",
@@ -3826,6 +4099,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Vrai ou faux?",
       "item": "4",
       "item_type": "true-false",
       "question": "Elle n'aime pas le chocolat belge.",
@@ -3840,6 +4114,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Vrai ou faux?",
       "item": "5",
       "item_type": "true-false",
       "question": "Richard a mangé au collège en France.",
@@ -3854,6 +4129,7 @@
     {
       "section": "reading",
       "part": "Exercise 1a",
+      "instruction": "Vrai ou faux?",
       "item": "6",
       "item_type": "true-false",
       "question": "Le menu est comme le menu à son collège anglais.",
@@ -3868,6 +4144,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "1",
       "item_type": "short-answer",
       "question": "a large casserole dish",
@@ -3882,6 +4159,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "2",
       "item_type": "short-answer",
       "question": "some duck",
@@ -3896,6 +4174,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "3",
       "item_type": "short-answer",
       "question": "all afternoon",
@@ -3910,6 +4189,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "4",
       "item_type": "short-answer",
       "question": "a very successful event",
@@ -3924,6 +4204,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "5",
       "item_type": "short-answer",
       "question": "as a dessert",
@@ -3938,6 +4219,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "6",
       "item_type": "short-answer",
       "question": "a Belgian dish",
@@ -3952,6 +4234,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "7",
       "item_type": "short-answer",
       "question": "when I was in France",
@@ -3966,6 +4249,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "8",
       "item_type": "short-answer",
       "question": "first of all",
@@ -3980,6 +4264,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "9",
       "item_type": "short-answer",
       "question": "almost every day",
@@ -3994,6 +4279,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "2",
       "item_type": "fill-in",
       "question": "boire (to drink) — j'ai ___",
@@ -4008,6 +4294,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "3",
       "item_type": "fill-in",
       "question": "lire (to read) — j'ai ___",
@@ -4022,6 +4309,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "4",
       "item_type": "fill-in",
       "question": "pouvoir (to be able) — j'ai ___",
@@ -4036,6 +4324,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "5",
       "item_type": "fill-in",
       "question": "voir (to see) — j'ai ___",
@@ -4050,6 +4339,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "6",
       "item_type": "fill-in",
       "question": "dire (to say) — j'ai ___",
@@ -4064,6 +4354,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "7",
       "item_type": "fill-in",
       "question": "écrire (to write) — j'ai ___",
@@ -4078,6 +4369,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "8",
       "item_type": "fill-in",
       "question": "mettre (to put) — j'ai ___",
@@ -4092,6 +4384,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "9",
       "item_type": "fill-in",
       "question": "prendre (to take) — j'ai ___",
@@ -4106,6 +4399,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "10",
       "item_type": "fill-in",
       "question": "être (to be) — j'ai ___",
@@ -4120,6 +4414,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "11",
       "item_type": "fill-in",
       "question": "faire (to do, make) — j'ai ___",
@@ -4134,6 +4429,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Some verbs have irregular past participles. Find the past participles to complete the list.",
       "item": "12",
       "item_type": "fill-in",
       "question": "découvrir (to discover) — j'ai ___",
@@ -4148,6 +4444,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Trouve les participes passés.",
       "item": "1",
       "item_type": "fill-in",
       "question": "apprendre (to learn) j'ai …",
@@ -4162,6 +4459,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Trouve les participes passés.",
       "item": "2",
       "item_type": "fill-in",
       "question": "comprendre (to understand) j'ai …",
@@ -4176,6 +4474,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Trouve les participes passés.",
       "item": "3",
       "item_type": "fill-in",
       "question": "offrir (to offer, give) j'ai …",
@@ -4190,6 +4489,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Trouve les participes passés.",
       "item": "4",
       "item_type": "fill-in",
       "question": "ouvrir (to open) j'ai …",
@@ -4204,6 +4504,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Trouve les participes passés.",
       "item": "5",
       "item_type": "fill-in",
       "question": "recevoir (to receive) j'ai …",
@@ -4218,6 +4519,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Trouve les participes passés.",
       "item": "6",
       "item_type": "fill-in",
       "question": "vouloir (to want, wish) j'ai …",
@@ -4232,6 +4534,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Écris deux phrases avec ces verbes.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris deux phrases avec ces verbes (apprendre, comprendre, offrir, ouvrir, recevoir, vouloir).",
@@ -4246,6 +4549,7 @@
     {
       "section": "writing",
       "part": "Exercise 2c",
+      "instruction": "Invente des phrases avec tous les verbes. Traduis les phrases en anglais.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente des phrases avec tous les verbes. Traduis les phrases en anglais.",
@@ -4260,6 +4564,7 @@
     {
       "section": "reading",
       "part": "Exercise 3a",
+      "instruction": "Voici une sélection de sandwichs surprises. Lis les détails. Quel sandwich préfères-tu?",
       "item": "1",
       "item_type": "short-answer",
       "question": "Voici une sélection de sandwichs surprises. Lis les détails. Quel sandwich préfères-tu?",
@@ -4274,6 +4579,7 @@
     {
       "section": "listening",
       "part": "Exercise 3b",
+      "instruction": "Écoute les résultats pour savoir qui a gagné!",
       "item": "1",
       "item_type": "short-answer",
       "question": "Écoute les résultats pour savoir qui a gagné le concours du sandwich surprise!",
@@ -4288,6 +4594,7 @@
     {
       "section": "writing",
       "part": "Exercise 4a",
+      "instruction": "Fais une liste d'au moins cinq ingrédients.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente un sandwich surprise. Fais une liste d'au moins cinq ingrédients.",
@@ -4302,6 +4609,7 @@
     {
       "section": "writing",
       "part": "Exercise 4b",
+      "instruction": "Décris comment tu as fait ton sandwich. Fais un dessin (ou une photo!) si tu veux.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Décris comment tu as fait ton sandwich. Fais un dessin (ou une photo!) si tu veux.",
@@ -4316,6 +4624,7 @@
     {
       "section": "writing",
       "part": "Exercise 4c",
+      "instruction": "Invente un repas surprise et décris ton repas.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente un repas surprise et décris ton repas.",
@@ -4330,6 +4639,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "1",
       "item_type": "matching",
       "question": "Image 1: M. et Mme Corot à table préparent des sandwichs, le chat guette une sardine.",
@@ -4344,6 +4654,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "2",
       "item_type": "matching",
       "question": "Image 2: Mme Corot conduit M. Corot dans une petite voiture rouge devant la gare.",
@@ -4358,6 +4669,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "3",
       "item_type": "matching",
       "question": "Image 3: l'épicier arrive avec des provisions, le chat le regarde, devant le garage.",
@@ -4372,6 +4684,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "4",
       "item_type": "matching",
       "question": "Image 4: Mme Corot a l'air inquiète à la maison, elle tient un bol et un papier.",
@@ -4386,6 +4699,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "5",
       "item_type": "matching",
       "question": "Image 5: le chat est allongé dehors près d'un mur, l'air malade, Mme Corot accourt.",
@@ -4400,6 +4714,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "6",
       "item_type": "matching",
       "question": "Image 6: Mme Corot au téléphone à la maison, elle crie, choquée.",
@@ -4414,6 +4729,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "7",
       "item_type": "matching",
       "question": "Image 7: M. Corot à l'hôpital entre une infirmière et un médecin, choqués.",
@@ -4428,6 +4744,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "8",
       "item_type": "matching",
       "question": "Image 8: M. Corot allongé dans un lit d'hôpital, souriant.",
@@ -4442,6 +4759,7 @@
     {
       "section": "listening",
       "part": "Exercise 1b",
+      "instruction": "Mets les textes dans l'ordre.",
       "item": "9",
       "item_type": "matching",
       "question": "Image 9: M. Corot furieux au téléphone, cheveux dressés.",
@@ -4456,6 +4774,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Lundi soir, M. Corot a (1)___ des sandwichs aux sardines.",
@@ -4470,6 +4789,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Le chat a (2)___ des sardines.",
@@ -4484,6 +4804,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Mardi à 8h15, les Corot ont (3)___ la maison.",
@@ -4498,6 +4819,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Pendant leur absence, l'épicier a (4)___ des provisions à la maison.",
@@ -4512,6 +4834,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "5",
       "item_type": "fill-in",
       "question": "À son retour, Mme Corot a (5)___ le chat dans le garage. Il était malade.",
@@ -4526,6 +4849,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Elle a (6)___ à son mari.",
@@ -4540,6 +4864,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Il a dit qu'il avait déjà (7)___ ses sandwichs aux sardines.",
@@ -4554,6 +4879,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "8",
       "item_type": "fill-in",
       "question": "M. Corot a (8)___ la nuit à l'hôpital.",
@@ -4568,6 +4894,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Mercredi matin, l'épicier a (9)___ à la porte.",
@@ -4582,6 +4909,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète le résumé avec les mots de la case.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Il a tout (10)___.",
@@ -4596,6 +4924,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne réponse aux questions.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Quand est-ce que les Corot ont préparé les sandwichs?",
@@ -4610,6 +4939,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne réponse aux questions.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Qu'est-ce que M. Corot a fait?",
@@ -4624,6 +4954,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne réponse aux questions.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Qui a mangé des sardines lundi soir?",
@@ -4638,6 +4969,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne réponse aux questions.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Où est-ce que Mme Corot a trouvé le chat?",
@@ -4652,6 +4984,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne réponse aux questions.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Pourquoi est-ce que M. Corot a passé la nuit à l'hôpital?",
@@ -4666,6 +4999,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Choisis la bonne réponse aux questions.",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Qui a expliqué à Mme Corot pourquoi le chat a été malade?",
@@ -4680,6 +5014,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Mercredi au bureau, on a posé beaucoup de questions à M. Corot. Écoute les questions et choisis la bonne réponse (a ou b).",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Question 1 posée à M. Corot au bureau.",
@@ -4694,6 +5029,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Mercredi au bureau, on a posé beaucoup de questions à M. Corot. Écoute les questions et choisis la bonne réponse (a ou b).",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Question 2 posée à M. Corot au bureau.",
@@ -4708,6 +5044,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Mercredi au bureau, on a posé beaucoup de questions à M. Corot. Écoute les questions et choisis la bonne réponse (a ou b).",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Question 3 posée à M. Corot au bureau.",
@@ -4722,6 +5059,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Mercredi au bureau, on a posé beaucoup de questions à M. Corot. Écoute les questions et choisis la bonne réponse (a ou b).",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Question 4 posée à M. Corot au bureau.",
@@ -4736,6 +5074,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Mercredi au bureau, on a posé beaucoup de questions à M. Corot. Écoute les questions et choisis la bonne réponse (a ou b).",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Question 5 posée à M. Corot au bureau.",
@@ -4750,6 +5089,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Mercredi au bureau, on a posé beaucoup de questions à M. Corot. Écoute les questions et choisis la bonne réponse (a ou b).",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Question 6 posée à M. Corot au bureau.",
@@ -4764,6 +5104,7 @@
     {
       "section": "writing",
       "part": "Exercise 5a",
+      "instruction": "Écris ces questions (1–6) correctement.",
       "item": "1",
       "item_type": "ordering",
       "question": "[[tu as]] [[aujourd'hui]] [[au collège]] [[déjeuné]] [[Est-ce]] [[que]] [[?]]",
@@ -4778,6 +5119,7 @@
     {
       "section": "writing",
       "part": "Exercise 5a",
+      "instruction": "Écris ces questions (1–6) correctement.",
       "item": "2",
       "item_type": "ordering",
       "question": "[[mangé]] [[tu as]] [[ce matin]] [[Qu'est-ce que]] [[?]]",
@@ -4792,6 +5134,7 @@
     {
       "section": "writing",
       "part": "Exercise 5a",
+      "instruction": "Écris ces questions (1–6) correctement.",
       "item": "3",
       "item_type": "ordering",
       "question": "[[Qu'est-ce que]] [[bu]] [[tu as]] [[?]]",
@@ -4806,6 +5149,7 @@
     {
       "section": "writing",
       "part": "Exercise 5a",
+      "instruction": "Écris ces questions (1–6) correctement.",
       "item": "4",
       "item_type": "ordering",
       "question": "[[vous avez]] [[vos vacances]] [[est-ce que]] [[Où]] [[cet]] [[été]] [[passé]] [[?]]",
@@ -4820,6 +5164,7 @@
     {
       "section": "writing",
       "part": "Exercise 5a",
+      "instruction": "Écris ces questions (1–6) correctement.",
       "item": "5",
       "item_type": "ordering",
       "question": "[[Est-ce qu'il]] [[beau]] [[pendant vos vacances]] [[a fait]] [[?]]",
@@ -4834,6 +5179,7 @@
     {
       "section": "writing",
       "part": "Exercise 5a",
+      "instruction": "Écris ces questions (1–6) correctement.",
       "item": "6",
       "item_type": "ordering",
       "question": "[[tous vos devoirs]] [[Vous avez]] [[hier soir]] [[fait]] [[?]]",
@@ -4848,6 +5194,7 @@
     {
       "section": "speaking",
       "part": "Exercise 5b",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux, posez des questions et répondez (voir 5a).",
@@ -4862,6 +5209,7 @@
     {
       "section": "writing",
       "part": "Exercise 5c",
+      "instruction": "Écris tes réponses.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris tes réponses.",
@@ -4876,6 +5224,7 @@
     {
       "section": "writing",
       "part": "Exercise 5d",
+      "instruction": "Écris encore quatre questions différentes au passé composé avec des réponses.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Écris encore quatre questions différentes au passé composé avec des réponses.",
@@ -4890,6 +5239,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "1",
       "item_type": "short-answer",
       "question": "my computer worked well",
@@ -4904,6 +5254,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "2",
       "item_type": "short-answer",
       "question": "the memory stick",
@@ -4918,6 +5269,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "3",
       "item_type": "short-answer",
       "question": "I saved it",
@@ -4932,6 +5284,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "4",
       "item_type": "short-answer",
       "question": "the printer",
@@ -4946,6 +5299,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "5",
       "item_type": "short-answer",
       "question": "to print",
@@ -4960,6 +5314,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Trouve l'équivalent en français.",
       "item": "6",
       "item_type": "short-answer",
       "question": "he deleted all my work",
@@ -4974,6 +5329,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Emmanuel ___ trouvé les devoirs trop difficiles.",
@@ -4988,6 +5344,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Il ___ perdu la clé USB.",
@@ -5002,6 +5359,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Il ___ mis la clé USB dans la machine.",
@@ -5016,6 +5374,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "4",
       "item_type": "fill-in",
       "question": "L'ordinateur ___ bien marché.",
@@ -5030,6 +5389,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Il ___ sauvegardé son travail.",
@@ -5044,6 +5404,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "6",
       "item_type": "fill-in",
       "question": "L'imprimante ___ bien marché.",
@@ -5058,6 +5419,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Emmanuel ___ transféré son travail sur la clé USB.",
@@ -5072,6 +5434,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Emmanuel ___ réussi à imprimer son travail.",
@@ -5086,6 +5449,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "9",
       "item_type": "fill-in",
       "question": "Le chat ___ sauté sur l'ordinateur.",
@@ -5100,6 +5464,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "10",
       "item_type": "fill-in",
       "question": "César ___ effacé le travail d'Emmanuel.",
@@ -5114,6 +5479,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "11",
       "item_type": "fill-in",
       "question": "Emmanuel ___ raconté son histoire très calmement.",
@@ -5128,6 +5494,7 @@
     {
       "section": "reading",
       "part": "Exercise 2",
+      "instruction": "Complète l'histoire avec a ou n'a pas.",
       "item": "12",
       "item_type": "fill-in",
       "question": "Caroline ___ posé beaucoup de questions.",
@@ -5142,6 +5509,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Look at the conversation (task 1) and complete the sentences below.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Complète avec ne (n')...pas: Je n'___ ___ perdu la clé USB.",
@@ -5156,6 +5524,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Look at the conversation (task 1) and complete the sentences below.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Complète avec ne (n')...pas: Tu ___ ___ pas sauvegardé ton travail.",
@@ -5170,6 +5539,7 @@
     {
       "section": "grammar",
       "part": "Grammar box",
+      "instruction": "Look at the conversation (task 1) and complete the sentences below.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Complète avec ne (n')...pas: Tu ___ as ___ compris.",
@@ -5184,6 +5554,7 @@
     {
       "section": "writing",
       "part": "Exercise 3",
+      "instruction": "Où sont tes devoirs? Invente des excuses!",
       "item": "1",
       "item_type": "writing-task",
       "question": "Où sont tes devoirs? Invente des excuses!",
@@ -5198,6 +5569,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute les conversations (1–7). Si on répond à la forme négative, écris Non.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Conversation 1: Tu as lu ce journal? — Je n'ai pas lu ce journal. Je ne l'aime pas beaucoup.",
@@ -5212,6 +5584,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute les conversations (1–7). Si on répond à la forme négative, écris Non.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Conversation 2: réponse à la forme négative?",
@@ -5226,6 +5599,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute les conversations (1–7). Si on répond à la forme négative, écris Non.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Conversation 3: réponse à la forme négative?",
@@ -5240,6 +5614,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute les conversations (1–7). Si on répond à la forme négative, écris Non.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Conversation 4: réponse à la forme négative?",
@@ -5254,6 +5629,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute les conversations (1–7). Si on répond à la forme négative, écris Non.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Conversation 5: réponse à la forme négative?",
@@ -5268,6 +5644,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute les conversations (1–7). Si on répond à la forme négative, écris Non.",
       "item": "6",
       "item_type": "short-answer",
       "question": "Conversation 6: réponse à la forme négative?",
@@ -5282,6 +5659,7 @@
     {
       "section": "listening",
       "part": "Exercise 4",
+      "instruction": "Écoute les conversations (1–7). Si on répond à la forme négative, écris Non.",
       "item": "7",
       "item_type": "short-answer",
       "question": "Conversation 7: réponse à la forme négative?",
@@ -5296,6 +5674,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ils ___ pris le petit déjeuner à sept heures du matin.",
@@ -5310,6 +5689,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ils ___ beaucoup travaillé.",
@@ -5324,6 +5704,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ils ___ déjeuné à la cantine.",
@@ -5338,6 +5719,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Élise ___ lu son livre de maths, elle a lu un magazine.",
@@ -5352,6 +5734,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Marc ___ fait ses devoirs d'informatique, mais il a essayé son nouveau jeu vidéo.",
@@ -5366,6 +5749,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Élise ___ préparé ses affaires pour demain.",
@@ -5380,6 +5764,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "7",
       "item_type": "fill-in",
       "question": "Marc ___ mis ses crayons et ses livres dans son sac.",
@@ -5394,6 +5779,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "8",
       "item_type": "fill-in",
       "question": "Mais les enfants, vous ___ fait grand-chose!",
@@ -5408,6 +5794,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "9",
       "item_type": "fill-in",
       "question": "C'est vrai, Mamie, nous ___ fait grand-chose!",
@@ -5422,6 +5809,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Voici Élise et Marc. Qu'est-ce qu'ils n'ont pas fait hier? Complète les phrases à la forme négative.",
       "item": "10",
       "item_type": "fill-in",
       "question": "Ne t'inquiète pas, Mamie! Hier, nous ___ fait grand-chose parce que c'était le premier jour des vacances!",
@@ -5436,6 +5824,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6a",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Est-ce que tu as visité la Chine/l'Antarctique/le Taj Mahal/l'Australie/l'Afrique du Nord?",
@@ -5450,6 +5839,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6a",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "2",
       "item_type": "speaking-task",
       "question": "Est-ce que tu as appris l'esperanto/le chinois/le grec/l'arabe à l'école?",
@@ -5464,6 +5854,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6a",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "3",
       "item_type": "speaking-task",
       "question": "Est-ce que ta famille a déjà gagné à la loterie?",
@@ -5478,6 +5869,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6a",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "4",
       "item_type": "speaking-task",
       "question": "Est-ce que tu as fini tes devoirs en avance cette semaine?",
@@ -5492,6 +5884,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6a",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "5",
       "item_type": "speaking-task",
       "question": "Est-ce que tu as fait toutes les courses pour la famille cette semaine?",
@@ -5506,6 +5899,7 @@
     {
       "section": "speaking",
       "part": "Exercise 6a",
+      "instruction": "À deux, posez des questions et répondez.",
       "item": "6",
       "item_type": "speaking-task",
       "question": "Est-ce que tu as préparé le déjeuner dimanche dernier?",
@@ -5520,6 +5914,7 @@
     {
       "section": "writing",
       "part": "Exercise 6b",
+      "instruction": "Choisis cinq questions et écris tes réponses.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Choisis cinq questions et écris tes réponses.",
@@ -5534,6 +5929,7 @@
     {
       "section": "writing",
       "part": "Exercise 6c",
+      "instruction": "Invente cinq questions différentes et écris tes réponses.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente cinq questions différentes et écris tes réponses.",
@@ -5548,6 +5944,7 @@
     {
       "section": "speaking",
       "part": "Exercise 1a",
+      "instruction": "À deux, regardez les idées de menus. Posez des questions et répondez.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux, regardez les idées de menus. Posez des questions et répondez (Est-ce que tu aimes le pâté? etc.).",
@@ -5562,6 +5959,7 @@
     {
       "section": "writing",
       "part": "Exercise 1b",
+      "instruction": "Note les réponses et invente un menu pour ton/ta partenaire.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Note les réponses et invente un menu pour ton/ta partenaire.",
@@ -5576,6 +5974,7 @@
     {
       "section": "writing",
       "part": "Exercise 1c",
+      "instruction": "Invente un menu pour une personne de la liste:",
       "item": "1",
       "item_type": "writing-task",
       "question": "Invente un menu pour une personne de la liste (végétarien(ne), enfant de 5/6 ans, ami(e) allergique au poisson, ou une personne de ton choix).",
@@ -5590,6 +5989,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "1",
       "item_type": "short-answer",
       "question": "assiette de charcuterie",
@@ -5604,6 +6004,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "2",
       "item_type": "short-answer",
       "question": "pâté maison",
@@ -5618,6 +6019,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "3",
       "item_type": "short-answer",
       "question": "en supplément",
@@ -5632,6 +6034,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "4",
       "item_type": "short-answer",
       "question": "prix nets",
@@ -5646,6 +6049,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "5",
       "item_type": "short-answer",
       "question": "garni",
@@ -5660,6 +6064,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "6",
       "item_type": "short-answer",
       "question": "fruits de saison",
@@ -5674,6 +6079,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "7",
       "item_type": "short-answer",
       "question": "plat du jour",
@@ -5688,6 +6094,7 @@
     {
       "section": "reading",
       "part": "Strategies",
+      "instruction": "Menus often contain unfamiliar vocabulary. Try to work out the meaning of the phrases below (1–8).",
       "item": "8",
       "item_type": "short-answer",
       "question": "rôti",
@@ -5702,6 +6109,7 @@
     {
       "section": "listening",
       "part": "Exercise 2",
+      "instruction": "Mme Dubois a dîné au restaurant Le Perroquet Vert. Qu'est-ce qu'elle a choisi? Écoute, regarde le menu et complète la liste.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Pour commencer, elle a choisi …",
@@ -5716,6 +6124,7 @@
     {
       "section": "listening",
       "part": "Exercise 2",
+      "instruction": "Mme Dubois a dîné au restaurant Le Perroquet Vert. Qu'est-ce qu'elle a choisi? Écoute, regarde le menu et complète la liste.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Comme plat principal, …",
@@ -5730,6 +6139,7 @@
     {
       "section": "listening",
       "part": "Exercise 2",
+      "instruction": "Mme Dubois a dîné au restaurant Le Perroquet Vert. Qu'est-ce qu'elle a choisi? Écoute, regarde le menu et complète la liste.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Comme légumes, …",
@@ -5744,6 +6154,7 @@
     {
       "section": "listening",
       "part": "Exercise 2",
+      "instruction": "Mme Dubois a dîné au restaurant Le Perroquet Vert. Qu'est-ce qu'elle a choisi? Écoute, regarde le menu et complète la liste.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Comme dessert, …",
@@ -5758,6 +6169,7 @@
     {
       "section": "listening",
       "part": "Exercise 2",
+      "instruction": "Mme Dubois a dîné au restaurant Le Perroquet Vert. Qu'est-ce qu'elle a choisi? Écoute, regarde le menu et complète la liste.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Comme boisson, …",
@@ -5772,6 +6184,7 @@
     {
       "section": "listening",
       "part": "Exercise 3a",
+      "instruction": "Regarde le menu, écoute et complète la conversation.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Cliente: Pour commencer, je voudrais (1)___, s'il vous plaît.",
@@ -5786,6 +6199,7 @@
     {
       "section": "listening",
       "part": "Exercise 3a",
+      "instruction": "Regarde le menu, écoute et complète la conversation.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Serveur: Et comme plat principal? Cliente: (2)___.",
@@ -5800,6 +6214,7 @@
     {
       "section": "listening",
       "part": "Exercise 3a",
+      "instruction": "Regarde le menu, écoute et complète la conversation.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Serveur: Et comme légumes? Cliente: Comme légumes, je vais prendre (3)___.",
@@ -5814,6 +6229,7 @@
     {
       "section": "listening",
       "part": "Exercise 3a",
+      "instruction": "Regarde le menu, écoute et complète la conversation.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Cliente: Comme dessert, je voudrais (4)___, s'il vous plaît.",
@@ -5828,6 +6244,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3b",
+      "instruction": "À deux, inventez d'autres conversations au restaurant.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "À deux, inventez d'autres conversations au restaurant.",
@@ -5842,6 +6259,7 @@
     {
       "section": "speaking",
       "part": "Exercise 3c",
+      "instruction": "Tu es un(e) client(e) très difficile! Invente une conversation au restaurant.",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Tu es un(e) client(e) très difficile! Invente une conversation au restaurant.",
@@ -5856,6 +6274,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Lis la chanson, puis copie la grille et complète les commandes.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Que désire le frère à boire?",
@@ -5870,6 +6289,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Lis la chanson, puis copie la grille et complète les commandes.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Que désire 'moi' (la chanteuse/le chanteur) à boire et à manger?",
@@ -5884,6 +6304,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Lis la chanson, puis copie la grille et complète les commandes.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Que désire Paul à boire?",
@@ -5898,6 +6319,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Lis la chanson, puis copie la grille et complète les commandes.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Que désire Marc à boire?",
@@ -5912,6 +6334,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Lis la chanson, puis copie la grille et complète les commandes.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Que désire Anne à boire?",
@@ -5926,6 +6349,7 @@
     {
       "section": "listening",
       "part": "Exercise 1a",
+      "instruction": "Lis la chanson, puis copie la grille et complète les commandes.",
       "item": "6",
       "item_type": "fill-in",
       "question": "Que désire Claire à boire?",
@@ -5940,6 +6364,7 @@
     {
       "section": "writing",
       "part": "Exercise 1c",
+      "instruction": "Tout le monde va manger quelque chose – ils ont enfin décidé! Qu'est-ce qu'ils ont choisi? Écris la suite de la chanson.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Tout le monde va manger quelque chose – ils ont enfin décidé! Qu'est-ce qu'ils ont choisi? Écris la suite de la chanson.",
@@ -5954,6 +6379,7 @@
     {
       "section": "writing",
       "part": "Exercise 2a",
+      "instruction": "Cherche la carte de quelques restaurants en France. Choisis une ville ou une région que tu voudrais visiter ou que tu connais (ta ville jumelle, par exemple).",
       "item": "1",
       "item_type": "writing-task",
       "question": "Cherche la carte de quelques restaurants en France. Choisis une ville ou une région que tu voudrais visiter ou que tu connais.",
@@ -5968,6 +6394,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Choisis un repas et écris ton choix en français et en anglais. Cherche dans un dictionnaire si nécessaire.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Choisis un repas et écris ton choix en français et en anglais.",
@@ -5982,6 +6409,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Maman fait la cuisine.",
@@ -5996,6 +6424,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Léa et Olivier travaillent dans le jardin.",
@@ -6010,6 +6439,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Sébastien fait la vaisselle.",
@@ -6024,6 +6454,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Laura range sa chambre.",
@@ -6038,6 +6469,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Lucile passe l'aspirateur.",
@@ -6052,6 +6484,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Amélie lave la voiture.",
@@ -6066,6 +6499,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "7",
       "item_type": "matching",
       "question": "Mathilde et Max font les courses.",
@@ -6080,6 +6514,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "8",
       "item_type": "matching",
       "question": "Suzanne fait une promenade avec le chien.",
@@ -6094,6 +6529,7 @@
     {
       "section": "reading",
       "part": "Exercise 1",
+      "instruction": "Lis les phrases et trouve les paires.",
       "item": "9",
       "item_type": "matching",
       "question": "Éric et Malik sont fatigués. Ils regardent la télé.",
@@ -6108,6 +6544,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Tu as fait bon voyage?",
@@ -6122,6 +6559,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Tu as bien dormi?",
@@ -6136,6 +6574,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Tu as assez mangé?",
@@ -6150,6 +6589,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Tu as téléphoné à tes parents?",
@@ -6164,6 +6604,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Tu as acheté des cartes postales?",
@@ -6178,6 +6619,7 @@
     {
       "section": "reading",
       "part": "Exercise 2a",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Tu as déjà visité la France?",
@@ -6192,6 +6634,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Traduis les réponses (a–f) en anglais.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Traduis les réponses (a–f) en anglais.",
@@ -6206,6 +6649,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Dimanche dernier, nous avons (1 décider) d'aller au cinéma.",
@@ -6220,6 +6664,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Nous avons (2 réussir) à réserver des places pour le film Douze souris rouges.",
@@ -6234,6 +6679,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "3",
       "item_type": "fill-in",
       "question": "J'ai (3 trouver) le film très amusant, mais un peu ridicule.",
@@ -6248,6 +6694,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Le film a (4 finir) à sept heures.",
@@ -6262,6 +6709,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Puis nous avons (5 dîner) dans une pizzeria.",
@@ -6276,6 +6724,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "6",
       "item_type": "fill-in",
       "question": "J'ai (6 choisir) une pizza au jambon, mais Émilie, qui n'aime pas les pizzas, a (7 commander) des spaghettis.",
@@ -6290,6 +6739,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "7",
       "item_type": "fill-in",
       "question": "J'ai (6 choisir) une pizza au jambon, mais Émilie, qui n'aime pas les pizzas, a (7 commander) des spaghettis.",
@@ -6304,6 +6754,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "8",
       "item_type": "fill-in",
       "question": "À la pizzeria, nous avons (8 rencontrer) Christophe et André.",
@@ -6318,6 +6769,7 @@
     {
       "section": "reading",
       "part": "Exercise 3",
+      "instruction": "Complète le message avec le participe passé des verbes.",
       "item": "9",
       "item_type": "fill-in",
       "question": "On a (9 passer) une très bonne soirée.",
@@ -6332,6 +6784,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Vendredi soir, nous avons (1a descendu 1b perdu 1c aboli) notre chat, Hercule.",
@@ -6346,6 +6799,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "On (2a ont 2b as 2c a) cherché partout.",
@@ -6360,6 +6814,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "J'ai (3a appelé 3b choisi 3c acheté) Hercule pendant une demi-heure.",
@@ -6374,6 +6829,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Ma mère a (4a attend[u] 4b entendu 4c vendu) quelque chose, mais ce n'était pas notre chat.",
@@ -6388,6 +6844,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Mon frère et ma sœur (5a ont 5b avons 5c avez) aidé aussi.",
@@ -6402,6 +6859,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Mon frère a (6a préparé 6b mangé 6c imaginé) le chat dans l'arbre, mais c'était un oiseau.",
@@ -6416,6 +6874,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "7",
       "item_type": "multiple-choice",
       "question": "Ma sœur a (7a oublié 7b trouvé 7c lavé) une souris dans le jardin.",
@@ -6430,6 +6889,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "8",
       "item_type": "multiple-choice",
       "question": "Enfin, mes parents (8a ai 8b a 8c ont) pensé à ouvrir la porte du garage.",
@@ -6444,6 +6904,7 @@
     {
       "section": "reading",
       "part": "Exercise 4",
+      "instruction": "Choisis le bon mot.",
       "item": "9",
       "item_type": "multiple-choice",
       "question": "Et voilà: nous avons (9a commandé 9b dessiné 9c trouvé) notre chat.",
@@ -6458,6 +6919,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Regarde les pages 72–73 et trouve au moins (at least) deux boissons pour chaque catégorie (1–4).",
       "item": "1",
       "item_type": "short-answer",
       "question": "des boissons chaudes (au moins deux)",
@@ -6472,6 +6934,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Regarde les pages 72–73 et trouve au moins (at least) deux boissons pour chaque catégorie (1–4).",
       "item": "2",
       "item_type": "short-answer",
       "question": "des boissons froides et non alcoolisées (au moins deux)",
@@ -6486,6 +6949,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Regarde les pages 72–73 et trouve au moins (at least) deux boissons pour chaque catégorie (1–4).",
       "item": "3",
       "item_type": "short-answer",
       "question": "des boissons alcoolisées (au moins deux)",
@@ -6500,6 +6964,7 @@
     {
       "section": "reading",
       "part": "Exercise 5",
+      "instruction": "Regarde les pages 72–73 et trouve au moins (at least) deux boissons pour chaque catégorie (1–4).",
       "item": "4",
       "item_type": "short-answer",
       "question": "des boissons gazeuses (au moins deux)",
@@ -6514,6 +6979,7 @@
     {
       "section": "writing",
       "part": "Exercise 6",
+      "instruction": "Décris des repas récents.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Décris des repas récents (hier, au café, au petit déjeuner, pour ton anniversaire).",
@@ -6528,6 +6994,7 @@
     {
       "section": "writing",
       "part": "Exercise 7a",
+      "instruction": "Écris ces questions correctement.",
       "item": "1",
       "item_type": "ordering",
       "question": "[[passé]] [[est-ce que]] [[cette année]] [[tu as]] [[tes]] [[vacances]] [[Où]] [[?]]",
@@ -6542,6 +7009,7 @@
     {
       "section": "writing",
       "part": "Exercise 7a",
+      "instruction": "Écris ces questions correctement.",
       "item": "2",
       "item_type": "ordering",
       "question": "[[tu as]] [[des cartes postales]] [[Est-ce que]] [[écrit]] [[?]]",
@@ -6556,6 +7024,7 @@
     {
       "section": "writing",
       "part": "Exercise 7a",
+      "instruction": "Écris ces questions correctement.",
       "item": "3",
       "item_type": "ordering",
       "question": "[[des sandwichs]] [[a]] [[Qui]] [[mangé]] [[?]]",
@@ -6570,6 +7039,7 @@
     {
       "section": "writing",
       "part": "Exercise 7a",
+      "instruction": "Écris ces questions correctement.",
       "item": "4",
       "item_type": "ordering",
       "question": "[[café]] [[Qu'est-ce que]] [[bu]] [[vous avez]] [[au]] [[?]]",
@@ -6584,6 +7054,7 @@
     {
       "section": "writing",
       "part": "Exercise 7a",
+      "instruction": "Écris ces questions correctement.",
       "item": "5",
       "item_type": "ordering",
       "question": "[[vu]] [[Est-ce que]] [[hier soir]] [[le match]] [[tu as]] [[?]]",
@@ -6598,6 +7069,7 @@
     {
       "section": "writing",
       "part": "Exercise 7a",
+      "instruction": "Écris ces questions correctement.",
       "item": "6",
       "item_type": "ordering",
       "question": "[[en vacances]] [[Vous avez]] [[du beau temps]] [[eu]] [[?]]",
@@ -6612,6 +7084,7 @@
     {
       "section": "writing",
       "part": "Exercise 7b",
+      "instruction": "Écris ces réponses correctement.",
       "item": "a",
       "item_type": "ordering",
       "question": "[[mangé]] [[Nous]] [[sandwichs]] [[des]] [[avons]] [[.]]",
@@ -6626,6 +7099,7 @@
     {
       "section": "writing",
       "part": "Exercise 7b",
+      "instruction": "Écris ces réponses correctement.",
       "item": "b",
       "item_type": "ordering",
       "question": "[[n'ai pas]] [[Non,]] [[je]] [[le match]] [[vu]] [[.]]",
@@ -6640,6 +7114,7 @@
     {
       "section": "writing",
       "part": "Exercise 7b",
+      "instruction": "Écris ces réponses correctement.",
       "item": "c",
       "item_type": "ordering",
       "question": "[[du coca]] [[bu]] [[on a]] [[Au café,]] [[.]]",
@@ -6654,6 +7129,7 @@
     {
       "section": "writing",
       "part": "Exercise 7b",
+      "instruction": "Écris ces réponses correctement.",
       "item": "d",
       "item_type": "ordering",
       "question": "[[J'ai]] [[en Bretagne]] [[une belle île]] [[découvert]] [[.]]",
@@ -6668,6 +7144,7 @@
     {
       "section": "writing",
       "part": "Exercise 7b",
+      "instruction": "Écris ces réponses correctement.",
       "item": "e",
       "item_type": "ordering",
       "question": "[[toute la semaine]] [[mauvais]] [[fait]] [[Non,]] [[il a]] [[.]]",
@@ -6682,6 +7159,7 @@
     {
       "section": "writing",
       "part": "Exercise 7b",
+      "instruction": "Écris ces réponses correctement.",
       "item": "f",
       "item_type": "ordering",
       "question": "[[beaucoup]] [[Oui,]] [[envoyé]] [[de]] [[j'ai]] [[cartes]] [[.]]",
@@ -6696,6 +7174,7 @@
     {
       "section": "reading",
       "part": "Exercise 7c",
+      "instruction": "Trouve les paires.",
       "item": "1",
       "item_type": "matching",
       "question": "Où est-ce que tu as passé tes vacances cette année?",
@@ -6710,6 +7189,7 @@
     {
       "section": "reading",
       "part": "Exercise 7c",
+      "instruction": "Trouve les paires.",
       "item": "2",
       "item_type": "matching",
       "question": "Est-ce que tu as écrit des cartes postales?",
@@ -6724,6 +7204,7 @@
     {
       "section": "reading",
       "part": "Exercise 7c",
+      "instruction": "Trouve les paires.",
       "item": "3",
       "item_type": "matching",
       "question": "Qui a mangé des sandwichs?",
@@ -6738,6 +7219,7 @@
     {
       "section": "reading",
       "part": "Exercise 7c",
+      "instruction": "Trouve les paires.",
       "item": "4",
       "item_type": "matching",
       "question": "Qu'est-ce que vous avez bu au café?",
@@ -6752,6 +7234,7 @@
     {
       "section": "reading",
       "part": "Exercise 7c",
+      "instruction": "Trouve les paires.",
       "item": "5",
       "item_type": "matching",
       "question": "Est-ce que tu as vu le match hier soir?",
@@ -6766,6 +7249,7 @@
     {
       "section": "reading",
       "part": "Exercise 7c",
+      "instruction": "Trouve les paires.",
       "item": "6",
       "item_type": "matching",
       "question": "Vous avez eu du beau temps en vacances?",
@@ -6780,6 +7264,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes le melon?",
@@ -6794,6 +7279,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes le chocolat?",
@@ -6808,6 +7294,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes les hot-dogs?",
@@ -6822,6 +7309,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes le déjeuner du dimanche?",
@@ -6836,6 +7324,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes les glaces?",
@@ -6850,6 +7339,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "6",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes le gâteau au chocolat?",
@@ -6864,6 +7354,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "7",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes l'omelette aux champignons?",
@@ -6878,6 +7369,7 @@
     {
       "section": "writing",
       "part": "Exercise 8",
+      "instruction": "Réponds avec une des expressions de la case.",
       "item": "8",
       "item_type": "short-answer",
       "question": "Est-ce que tu aimes les repas au collège?",
@@ -6892,6 +7384,7 @@
     {
       "section": "reading",
       "part": "Exercise 9a",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "1",
       "item_type": "matching",
       "question": "Image 1: deux pêches jaunes entières côte à côte.",
@@ -6906,6 +7399,7 @@
     {
       "section": "reading",
       "part": "Exercise 9a",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "2",
       "item_type": "matching",
       "question": "Image 2: un couteau coupe une pêche en tranches.",
@@ -6920,6 +7414,7 @@
     {
       "section": "reading",
       "part": "Exercise 9a",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "3",
       "item_type": "matching",
       "question": "Image 3: un verre à sundae avec du sirop rouge versé dedans.",
@@ -6934,6 +7429,7 @@
     {
       "section": "reading",
       "part": "Exercise 9a",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "4",
       "item_type": "matching",
       "question": "Image 4: une boule de glace, des tranches de pêche ajoutées.",
@@ -6948,6 +7444,7 @@
     {
       "section": "reading",
       "part": "Exercise 9a",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "5",
       "item_type": "matching",
       "question": "Image 5: de la crème, des framboises éparpillées dessus.",
@@ -6962,6 +7459,7 @@
     {
       "section": "reading",
       "part": "Exercise 9a",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "6",
       "item_type": "matching",
       "question": "Image 6: une fourchette saupoudre des amandes effilées sur le dessus.",
@@ -6976,6 +7474,7 @@
     {
       "section": "reading",
       "part": "Exercise 9a",
+      "instruction": "Trouve le bon texte pour chaque image.",
       "item": "7",
       "item_type": "matching",
       "question": "Image 7: deux enfants mangent la pêche Melba terminée ensemble.",
@@ -6990,6 +7489,7 @@
     {
       "section": "writing",
       "part": "Exercise 9b",
+      "instruction": "Tu as préparé la pêche Melba. Écris ce que tu as fait.",
       "item": "1",
       "item_type": "writing-task",
       "question": "Tu as préparé la pêche Melba. Écris ce que tu as fait.",
@@ -7004,6 +7504,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Pierre et Sophie vont …",
@@ -7018,6 +7519,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Ils partent …",
@@ -7032,6 +7534,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Ils prennent …",
@@ -7046,6 +7549,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Lucie va …",
@@ -7060,6 +7564,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "5",
       "item_type": "short-answer",
       "question": "Elle part …",
@@ -7074,6 +7579,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "6",
       "item_type": "short-answer",
       "question": "Elle prend …",
@@ -7088,6 +7594,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "7",
       "item_type": "short-answer",
       "question": "André et Claire vont …",
@@ -7102,6 +7609,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "8",
       "item_type": "short-answer",
       "question": "Ils partent …",
@@ -7116,6 +7624,7 @@
     {
       "section": "reading",
       "part": "Exercise 1b",
+      "instruction": "Complète les phrases. Pour réviser partir to leave et prendre to take, voir Grammaire 12.5.",
       "item": "9",
       "item_type": "short-answer",
       "question": "Ils prennent …",
@@ -7130,6 +7639,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Écris l'heure en chiffres.",
       "item": "1",
       "item_type": "fill-in",
       "question": "Il est quatorze heures vingt.",
@@ -7144,6 +7654,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Écris l'heure en chiffres.",
       "item": "2",
       "item_type": "fill-in",
       "question": "Il est vingt-et-une heures quinze.",
@@ -7158,6 +7669,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Écris l'heure en chiffres.",
       "item": "3",
       "item_type": "fill-in",
       "question": "Il est dix-huit heures cinquante.",
@@ -7172,6 +7684,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Écris l'heure en chiffres.",
       "item": "4",
       "item_type": "fill-in",
       "question": "Il est quinze heures trente-cinq.",
@@ -7186,6 +7699,7 @@
     {
       "section": "grammar",
       "part": "Exercise 2a",
+      "instruction": "Écris l'heure en chiffres.",
       "item": "5",
       "item_type": "fill-in",
       "question": "Il est dix-neuf heures douze.",
@@ -7200,6 +7714,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Traduis en anglais.",
       "item": "1",
       "item_type": "short-answer",
       "question": "Le train part à vingt heures dix.",
@@ -7214,6 +7729,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Traduis en anglais.",
       "item": "2",
       "item_type": "short-answer",
       "question": "Je prends l'avion à vingt-deux heures.",
@@ -7228,6 +7744,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Traduis en anglais.",
       "item": "3",
       "item_type": "short-answer",
       "question": "Il y a un bus à seize heures trente.",
@@ -7242,6 +7759,7 @@
     {
       "section": "writing",
       "part": "Exercise 2b",
+      "instruction": "Traduis en anglais.",
       "item": "4",
       "item_type": "short-answer",
       "question": "Nous prenons le bateau de treize heures quarante.",
