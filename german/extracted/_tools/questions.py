@@ -23,6 +23,10 @@ import sys
 from collections import defaultdict
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
+# Atomic writes are shared with _engine rather than reimplemented: a killed
+# process must never leave a truncated file where a completed one is expected.
+sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
+from _common import atomic_open, flat as _flat
 ROOT = os.path.dirname(TOOLS)  # german/extracted/
 CONFIG = os.path.join(TOOLS, 'collections.json')
 # Column NAMES are English in every language's exports, the same rule the
@@ -52,11 +56,6 @@ def load_questions(slug):
         return json.load(open(path, encoding='utf-8')).get('items', [])
     except Exception:
         return []
-
-
-def _flat(v):
-    """Collapse newlines/tabs so every value stays a single clean spreadsheet cell."""
-    return ' '.join(str(v).split())
 
 
 def row_for(slug, it, level=''):
@@ -106,7 +105,7 @@ def main(argv):
                 os.remove(out_path)
             print('%-32s   0 items - no questions CSV emitted (word-list booklet)' % slug)
             continue
-        with open(out_path, 'w', encoding='utf-8-sig', newline='') as f:
+        with atomic_open(out_path, 'w', encoding='utf-8-sig', newline='') as f:
             w = csv.DictWriter(f, fieldnames=COLUMNS)
             w.writeheader()
             w.writerows(rows)
@@ -116,7 +115,7 @@ def main(argv):
 
     for fam, rows in by_family.items():
         path = os.path.join(ROOT, '%s-a1-questions-all.csv' % fam)
-        with open(path, 'w', encoding='utf-8-sig', newline='') as cf:
+        with atomic_open(path, 'w', encoding='utf-8-sig', newline='') as cf:
             cw = csv.DictWriter(cf, fieldnames=COLUMNS)
             cw.writeheader()
             cw.writerows(rows)

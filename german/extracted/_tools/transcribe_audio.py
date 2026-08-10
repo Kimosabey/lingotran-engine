@@ -24,6 +24,10 @@ import os
 import sys
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
+# Atomic writes are shared with _engine rather than reimplemented: a killed
+# process must never leave a truncated file where a completed one is expected.
+sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
+from _common import atomic_open
 EXTRACTED = os.path.dirname(TOOLS)          # german/extracted/
 GERMAN = os.path.dirname(EXTRACTED)         # german/
 CONFIG = os.path.join(TOOLS, 'collections.json')
@@ -66,7 +70,7 @@ def transcribe_one(model, collection, audio_path):
             line += ' <!-- low-confidence -->'
         body.append(line)
 
-    with open(os.path.join(asr_dir, 'listening.json'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(asr_dir, 'listening.json'), 'w', encoding='utf-8') as f:
         json.dump({'source': os.path.basename(audio_path), 'language': info.language,
                    'duration': round(info.duration, 1), 'model': model_size,
                    'low_confidence_segments': low, 'segments': seg_rows}, f, ensure_ascii=False, indent=2)
@@ -85,7 +89,7 @@ def transcribe_one(model, collection, audio_path):
         'qa: pending',
         '---',
     ]
-    with open(os.path.join(out_dir, 'listening.md'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(out_dir, 'listening.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(fm) + '\n' + '\n'.join(body) + '\n')
 
     print('%-32s %5.0fs  %3d segments (%d low-confidence)' % (slug, info.duration, len(seg_rows), low))

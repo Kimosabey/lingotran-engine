@@ -24,6 +24,10 @@ import sys
 from collections import defaultdict
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
+# Atomic writes are shared with _engine rather than reimplemented: a killed
+# process must never leave a truncated file where a completed one is expected.
+sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
+from _common import atomic_open
 ROOT = os.path.dirname(TOOLS)  # german/extracted/
 CONFIG = os.path.join(TOOLS, 'collections.json')
 COLUMNS = ['collection', 'word', 'article', 'plural', 'word_class', 'example', 'topic', 'source_page']
@@ -79,7 +83,7 @@ def main(argv):
             'example': flat(e.get('example', '')), 'topic': flat(e.get('topic', '')),
             'source_page': flat(e.get('source_page', '')),
         } for e in entries]
-        with open(os.path.join(ROOT, slug, '%s-vocabulary.csv' % slug), 'w',
+        with atomic_open(os.path.join(ROOT, slug, '%s-vocabulary.csv' % slug), 'w',
                   encoding='utf-8-sig', newline='') as f:
             w = csv.DictWriter(f, fieldnames=COLUMNS)
             w.writeheader()
@@ -92,7 +96,7 @@ def main(argv):
 
     for fam, rows in by_family.items():
         path = os.path.join(ROOT, '%s-a1-vocabulary-all.csv' % fam)
-        with open(path, 'w', encoding='utf-8-sig', newline='') as cf:
+        with atomic_open(path, 'w', encoding='utf-8-sig', newline='') as cf:
             cw = csv.DictWriter(cf, fieldnames=COLUMNS)
             cw.writeheader()
             cw.writerows(rows)

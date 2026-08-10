@@ -19,6 +19,10 @@ import os
 import sys
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
+# Atomic writes are shared with _engine rather than reimplemented: a killed
+# process must never leave a truncated file where a completed one is expected.
+sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
+from _common import atomic_open
 ROOT = os.path.dirname(TOOLS)
 
 
@@ -44,7 +48,7 @@ def merge_class(slug):
             continue
         seen.add(pg)
         out.append(it)
-    with open(os.path.join(ROOT, slug, 'pages', '_class.json'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(ROOT, slug, 'pages', '_class.json'), 'w', encoding='utf-8') as f:
         json.dump({'collection': slug, 'items': out}, f, ensure_ascii=False, indent=1)
     return len(out)
 
@@ -54,7 +58,7 @@ def merge_questions(slug):
     if not items:
         return 0
     items.sort(key=lambda x: (str(x.get('source_page', '')), str(x.get('item', ''))))
-    with open(os.path.join(ROOT, slug, 'pages', '_questions.json'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(ROOT, slug, 'pages', '_questions.json'), 'w', encoding='utf-8') as f:
         json.dump({'collection': slug, 'items': items}, f, ensure_ascii=False, indent=1)
     return len(items)
 

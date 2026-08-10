@@ -14,8 +14,13 @@ Usage:
 import csv
 import glob
 import os
+import sys
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
+# Atomic writes are shared with _engine rather than reimplemented: a killed
+# process must never leave a truncated file where a completed one is expected.
+sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
+from _common import atomic_open
 ROOT = os.path.dirname(TOOLS)  # german/extracted/
 TYPES = ['catalog', 'questions', 'vocabulary']
 
@@ -39,7 +44,7 @@ def merge(kind):
         rows.extend(r[1:])
         sources.append('%s(%d)' % (os.path.basename(p).split('-a1-')[0], len(r) - 1))
     out = os.path.join(ROOT, 'german-a1-%s-all.csv' % kind)
-    with open(out, 'w', encoding='utf-8-sig', newline='') as f:
+    with atomic_open(out, 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.writer(f)
         w.writerow(header)
         w.writerows(rows)

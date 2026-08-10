@@ -1,0 +1,17 @@
+# Runtime dependencies for the extraction pipelines (_engine/ and
+# german/extracted/_tools/). Everything else they use is Python stdlib.
+#
+# Install:  python -m pip install -r requirements.txt
+# Verify :  python -m unittest discover -s _engine/tests
+#
+# Pinned to a minimum rather than an exact version: these are stable,
+# widely-used libraries and the engine uses only long-settled APIs. Known-good
+# as of 2026-08-10: PyMuPDF 1.27.2.3, Pillow 12.2.0, Python 3.12.3.
+
+# PDF page rendering and embedded-image extraction (pdf_to_images.py).
+# Imported as `fitz`.
+PyMuPDF>=1.24
+
+# Image decoding and the blank/degenerate page screen (pdf_to_images.py,
+# zoom.py, rotate.py). Imported as `PIL`.
+Pillow>=10.0

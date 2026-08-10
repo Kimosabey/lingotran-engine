@@ -26,6 +26,13 @@ from collections import defaultdict
 from datetime import datetime
 
 TOOLS = os.path.dirname(os.path.abspath(__file__))
+# Atomic writes are shared with _engine rather than reimplemented: a killed
+# process must never leave a truncated file where a completed one is expected.
+sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
+from _common import (atomic_open,
+                     # shared page/record helpers -- one definition, both pipelines
+                     split_frontmatter, word_count, page_title, read_pages,
+                     load_classification, human_title as _human_title)
 ROOT = os.path.dirname(TOOLS)  # german/extracted/
 CONFIG = os.path.join(TOOLS, 'collections.json')
 COLUMNS = ['collection', 'unit', 'section', 'content_type', 'activity_type', 'topic',
@@ -35,88 +42,6 @@ COLUMNS = ['collection', 'unit', 'section', 'content_type', 'activity_type', 'to
 def load_collections():
     with open(CONFIG, encoding='utf-8') as f:
         return json.load(f)['collections']
-
-
-def split_frontmatter(txt):
-    fm, body = {}, txt
-    m = re.match(r'^---\n(.*?)\n---\n?', txt, re.S)
-    if m:
-        for ln in m.group(1).splitlines():
-            if ':' in ln:
-                k, v = ln.split(':', 1)
-                fm[k.strip()] = v.strip()
-        body = txt[m.end():]
-    return fm, body
-
-
-CJK = re.compile(r'[぀-ヿ㐀-䶿一-鿿豈-﫿가-힯]')
-
-
-def word_count(body):
-    """Words for space-separated scripts, characters for CJK. Counting
-    whitespace-delimited tokens in Japanese/Chinese/Korean reports about one
-    "word" per line, which would make such a book look nearly empty in this
-    column next to a German one."""
-    cjk = len(CJK.findall(body))
-    latin = len(re.findall(r'\S+', CJK.sub(' ', body)))
-    return cjk + latin
-
-
-def page_title(body):
-    in_comment = False
-    for ln in body.splitlines():
-        s = ln.strip()
-        if in_comment:
-            if '-->' in s:
-                in_comment = False
-            continue
-        if not s:
-            continue
-        if s.startswith('<!--'):
-            if '-->' not in s:
-                in_comment = True
-            continue
-        s = re.sub(r'<!--.*?-->', ' ', s)
-        s = re.sub(r'^#+\s*', '', s)
-        s = re.sub(r'[*_`>|\[\]]', '', s).strip()
-        # &nbsp; and friends are markup, not printed text -- a title that reads
-        # "Arbeitsalltag &nbsp; 7" in a spreadsheet is a leaked entity, not a
-        # heading. Collapse to spaces before the whitespace run is squeezed.
-        s = re.sub(r'&(nbsp|#160|thinsp|ensp|emsp);', ' ', s)
-        s = ' '.join(s.split())
-        if not s or re.match(r'^Seite\s+\d+$', s, re.I) or re.match(r'^\d+$', s):
-            continue
-        # Strip again after truncating: cutting at 90 chars can land mid-gap and
-        # leave a trailing space in the cell.
-        return s[:90].strip()
-    return ''
-
-
-def human_title(c):
-    if c.get('title'):
-        return c['title']
-    variant = (c.get('variant') or '').replace('-', ' ').title()
-    doc = os.path.splitext(os.path.basename(c.get('pdf', c['slug'])))[0].replace('-', ' ').title()
-    return '%s · %s · %s' % (c.get('level', ''), variant, doc)
-
-
-def load_classification(slug):
-    path = os.path.join(ROOT, slug, 'pages', '_class.json')
-    cmap = {}
-    if os.path.exists(path):
-        try:
-            for it in json.load(open(path, encoding='utf-8')).get('items', []):
-                cmap[int(it['page'])] = it
-        except Exception:
-            pass
-    return cmap
-
-
-def read_pages(slug):
-    for md in sorted(glob.glob(os.path.join(ROOT, slug, 'pages', 'page-*.md'))):
-        unit = 'page-' + os.path.basename(md)[5:8]
-        fm, body = split_frontmatter(open(md, encoding='utf-8').read())
-        yield unit, fm, body.strip()
 
 
 def _counts(rows, key, split=False):
@@ -143,9 +68,9 @@ def build_collection(c):
     if c.get('frozen'):
         print('%-32s frozen — skipped' % slug)
         return None
-    cmap = load_classification(slug)
+    cmap = load_classification(ROOT, slug)
     rows, unified = [], []
-    for unit, fm, body in read_pages(slug):
+    for unit, fm, body in read_pages(ROOT, slug):
         pg = int(unit[5:])
         cl = cmap.get(pg, {})
         row = {
@@ -169,13 +94,13 @@ def build_collection(c):
         print('%-32s no pages yet, skipped' % slug)
         return None
 
-    with open(os.path.join(ROOT, slug, '%s-catalog.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
+    with atomic_open(os.path.join(ROOT, slug, '%s-catalog.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=COLUMNS)
         w.writeheader()
         w.writerows(rows)
 
     note = c.get('source_note', '')
-    ov = ['# %s\n' % human_title(c),
+    ov = ['# %s\n' % _human_title(c, ' · '),
           '> Unified transcription of `%s` — %d pages.%s' % (
               c.get('pdf', ''), len(rows), (' Source: %s.' % note) if note else ''),
           '> Generated %s. Filterable sheet: `%s-catalog.csv`.\n' % (datetime.now().strftime('%Y-%m-%d'), slug),
@@ -190,7 +115,7 @@ def build_collection(c):
             r['unit'].replace('page-', ''), r['section'] or '', r['activity_type'] or '',
             r['topic'] or '', (r['summary'] or r['title']).replace('|', '/')))
     ov.append('\n---\n')
-    with open(os.path.join(ROOT, slug, '%s.md' % slug), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(ROOT, slug, '%s.md' % slug), 'w', encoding='utf-8') as f:
         f.write('\n'.join(ov) + '\n' + '\n\n'.join(unified) + '\n')
 
     classified = sum(1 for r in rows if r['activity_type'])
@@ -199,7 +124,7 @@ def build_collection(c):
 
 
 def write_combined(path, rows):
-    with open(path, 'w', encoding='utf-8-sig', newline='') as f:
+    with atomic_open(path, 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=COLUMNS)
         w.writeheader()
         w.writerows(rows)

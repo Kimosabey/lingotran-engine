@@ -42,7 +42,11 @@ import sys
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import parse_root, lang_slug, load_collection_list, atomic_open, atomic_write_text
+from _common import (parse_root, lang_slug, load_collection_list, atomic_open,
+                     atomic_write_text, build_start_here,
+                     # shared page/record helpers -- one definition, both pipelines
+                     split_frontmatter, flat as _flat, word_count, page_title,
+                     human_title, read_pages, load_classification)
 
 KINDS = ['catalog', 'questions', 'vocabulary']
 CATALOG_COLUMNS = ['collection', 'unit', 'section', 'chapter', 'content_type', 'activity_type',
@@ -50,111 +54,6 @@ CATALOG_COLUMNS = ['collection', 'unit', 'section', 'chapter', 'content_type', '
 QUESTIONS_COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'question',
                       'option_a', 'option_b', 'option_c', 'correct_answer', 'level', 'topic', 'source_page']
 VOCAB_COLUMNS = ['collection', 'word', 'article', 'plural', 'word_class', 'example', 'topic', 'source_page']
-
-
-def _flat(v):
-    """Collapse newlines/tabs so every value stays a single clean spreadsheet cell."""
-    if v is None:
-        return ''
-    return ' '.join(str(v).split())
-
-
-def split_frontmatter(txt):
-    fm, body = {}, txt
-    m = re.match(r'^---\n(.*?)\n---\n?', txt, re.S)
-    if m:
-        for ln in m.group(1).splitlines():
-            if ':' in ln:
-                k, v = ln.split(':', 1)
-                fm[k.strip()] = v.strip()
-        body = txt[m.end():]
-    return fm, body
-
-
-# Han, Hiragana, Katakana, Hangul: scripts that do not separate words with
-# spaces. Counting whitespace-delimited tokens in Japanese reports roughly one
-# "word" per LINE, which would make a Japanese book look almost empty next to a
-# French one in the same catalog column. Counted per character instead, which
-# is the normal convention for these scripts.
-CJK = re.compile(r'[぀-ヿ㐀-䶿一-鿿豈-﫿가-힯]')
-
-
-def word_count(body):
-    """Words for space-separated scripts, characters for CJK, mixed handled by
-    counting each part in its own convention. Language-agnostic by
-    construction, so a new language needs no change here."""
-    cjk = len(CJK.findall(body))
-    latin = len(re.findall(r'\S+', CJK.sub(' ', body)))
-    return cjk + latin
-
-
-def page_title(body):
-    """First real heading/line of a page, for the catalog's `title` column.
-
-    Skips HTML comments (single- and multi-line), bare page-number markers and
-    decorative-only lines, any of which would otherwise become the page's
-    "title" -- a transcriber's `<!-- this page is blank -->` note is a comment
-    about the page, not its heading. Mirrors the same fix already made in
-    german/extracted/_tools/catalog.py (commit 5ac5020); the shared engine
-    never received it, so French exports still carried comment text and
-    ragged whitespace in `title`.
-    """
-    in_comment = False
-    for ln in body.splitlines():
-        s = ln.strip()
-        if in_comment:
-            if '-->' in s:
-                in_comment = False
-            continue
-        if not s:
-            continue
-        if s.startswith('<!--'):
-            if '-->' not in s:
-                in_comment = True
-            continue
-        # Strip an inline trailing comment before it can pad the title.
-        s = re.sub(r'<!--.*?-->', ' ', s)
-        s = re.sub(r'^#+\s*', '', s)
-        s = re.sub(r'[*_`>|\[\]]', '', s)
-        # &nbsp; and friends are markup, not printed text -- collapse to spaces
-        # so they don't survive as literal entities in a spreadsheet cell.
-        s = re.sub(r'&(nbsp|#160|thinsp|ensp|emsp);', ' ', s)
-        s = ' '.join(s.split())
-        # A bare page number ("14", "Page 14", "Seite 14") is a running footer,
-        # not a heading.
-        if not s or re.match(r'^(page|seite|p)\s*\.?\s*\d+$', s, re.I) or re.match(r'^\d+$', s):
-            continue
-        # Strip again after truncating: cutting at 90 chars can land mid-gap and
-        # leave a trailing space in the cell.
-        return s[:90].strip()
-    return ''
-
-
-def human_title(c):
-    if c.get('title'):
-        return c['title']
-    variant = (c.get('variant') or '').replace('-', ' ').title()
-    doc = os.path.splitext(os.path.basename(c.get('pdf', c['slug'])))[0].replace('-', ' ').title()
-    return '%s - %s - %s' % (c.get('level', ''), variant, doc)
-
-
-def read_pages(root, slug):
-    for md in sorted(glob.glob(os.path.join(root, slug, 'pages', 'page-*.md'))):
-        unit = 'page-' + os.path.basename(md)[5:8]
-        fm, body = split_frontmatter(open(md, encoding='utf-8').read())
-        yield unit, fm, body.strip()
-
-
-def load_classification(root, slug):
-    path = os.path.join(root, slug, 'pages', '_class.json')
-    cmap = {}
-    if os.path.exists(path):
-        try:
-            for it in json.load(open(path, encoding='utf-8')).get('items', []):
-                cmap[int(it['page'])] = it
-        except Exception:
-            pass
-    return cmap
 
 
 def load_questions(root, slug):
