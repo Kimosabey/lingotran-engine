@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 39
 orientation: 0
 content_type: [wordlist, review]
-level: A2+B1
+level: mixed
 section: none
 chapter: 2 On fait des projets
 status: verified

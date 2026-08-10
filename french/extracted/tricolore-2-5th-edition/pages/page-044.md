@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 44
 orientation: 0
 content_type: [chapter-opener, dialogue, exercise, grammar-box, conjugation-table]
-level: A2 (inferred)
+level: A2
 section: none
 chapter: 3B En classe
 status: verified

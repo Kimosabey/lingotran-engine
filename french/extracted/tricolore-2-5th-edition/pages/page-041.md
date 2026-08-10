@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 41
 orientation: 0
 content_type: [reading-text, exercise, vocabulary]
-level: A2+B1 (inferred)
+level: mixed
 section: none
 chapter: 2 On fait des projets
 status: verified

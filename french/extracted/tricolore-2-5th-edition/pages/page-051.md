@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 51
 orientation: 0
 content_type: [grammar-box, exercise, speaking-prompt]
-level: A2 (inferred)
+level: A2
 section: none
 chapter: 3E C'est mercredi
 status: verified

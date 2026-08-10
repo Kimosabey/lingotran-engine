@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 47
 orientation: 0
 content_type: [exercise, listening-sheet, grammar-box, speaking-prompt, writing-prompt]
-level: A2 (inferred)
+level: A2
 section: none
 chapter: 3C La routine
 status: verified

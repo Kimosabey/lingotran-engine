@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 49
 orientation: 0
 content_type: [exercise, reading-text, speaking-prompt, listening-sheet]
-level: A2+B1 (inferred)
+level: mixed
 section: none
 chapter: 3D Comment ça se passe?
 status: verified

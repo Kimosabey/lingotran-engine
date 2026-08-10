@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 54
 orientation: 0
 content_type: [lesson, reading-text, exercise, grammar-box, writing-prompt]
-level: A2+B1 (inferred)
+level: mixed
 section: none
 chapter: 3G C'est extra!
 status: verified

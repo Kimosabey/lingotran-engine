@@ -96,7 +96,21 @@ def verify_collection(root, c):
             continue
 
         if it.get('item_type') == 'true-false':
-            if ans in ('vrai', 'faux'):
+            if re.match(r'^(pas|non)\s+mentionn', ans, re.I):
+                # Three-way "Vrai, faux ou pas mentionné?" exercises are a real,
+                # printed French coursebook format (Tricolore 2 p123 sets it out
+                # verbatim, with "pas mentionné" as its own worked example), so
+                # "pas mentionné" is a legitimate true-false answer, not a
+                # mistyped item_type. Normalize the leading word's case the same
+                # way Vrai/Faux are handled, then stop -- without this the whole
+                # exercise reads as malformed and NEEDS REPAIR PASS never clears.
+                if not re.match(r'^(Pas|Non)\b', it['correct_answer']):
+                    it['correct_answer'] = re.sub(
+                        r'^(\s*)(pas|non)\b',
+                        lambda m: m.group(1) + m.group(2).capitalize(),
+                        it['correct_answer'], count=1, flags=re.I)
+                    fixed += 1
+            elif ans in ('vrai', 'faux'):
                 # `ans` IS the whole answer already (the `in` check above only
                 # matches when the stripped value is exactly "vrai"/"faux",
                 # nothing trails it) -- use it directly rather than slicing

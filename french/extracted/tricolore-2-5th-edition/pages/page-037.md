@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 37
 orientation: 0
 content_type: [exercise, writing-prompt, vocabulary, listening-sheet, speaking-prompt]
-level: A2+B1
+level: mixed
 section: writing
 chapter: 2 On fait des projets
 status: verified

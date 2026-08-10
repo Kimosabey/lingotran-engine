@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 45
 orientation: 0
 content_type: [exercise, grammar-box, explanation, speaking-prompt, writing-prompt]
-level: A2 (inferred)
+level: A2
 section: none
 chapter: 3B En classe
 status: verified

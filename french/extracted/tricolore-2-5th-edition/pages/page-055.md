@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 55
 orientation: 0
 content_type: [wordlist, review]
-level: A2+B1 (inferred)
+level: mixed
 section: none
 chapter: 3 De jour en jour
 status: verified

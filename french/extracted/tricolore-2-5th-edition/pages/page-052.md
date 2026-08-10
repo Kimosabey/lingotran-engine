@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 52
 orientation: 0
 content_type: [lesson, dialogue, exercise, grammar-box, conjugation-table]
-level: A2 (inferred)
+level: A2
 section: none
 chapter: 3F À mon avis
 status: verified

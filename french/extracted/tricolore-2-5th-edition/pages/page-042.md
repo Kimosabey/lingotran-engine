@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 42
 orientation: 0
 content_type: [chapter-opener, dialogue, exercise, explanation]
-level: A2 (inferred)
+level: A2
 section: none
 chapter: 3A Au collège
 status: verified

@@ -4,7 +4,7 @@ collection: tricolore-2-5th-edition
 page: 53
 orientation: 0
 content_type: [reading-text, exercise, speaking-prompt, vocabulary]
-level: A2+B1 (inferred)
+level: mixed
 section: none
 chapter: 3F À mon avis
 status: verified
