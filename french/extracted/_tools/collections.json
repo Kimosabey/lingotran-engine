@@ -49,7 +49,19 @@
       "level": "A2-B1",
       "level_mode": "inferred",
       "level_options": ["A2", "B1"],
-      "pdf": "pdf/oxford-university-press/tricolore-2-5th-edition/tricolore-2-5th-edition.pdf"
+      "pdf": "pdf/oxford-university-press/tricolore-2-5th-edition/tricolore-2-5th-edition.pdf",
+      "book_type": "student-coursebook",
+      "answer_key": {
+        "status": "separate-guide",
+        "checked": "2026-08-10: TOC (pages 3/5) and full back matter reviewed - grammar reference, Francais-anglais / anglais-francais glossary, acknowledgements; no Answers/Corriges section anywhere, and no page in the book carries an answer-key content_type",
+        "note": "Student coursebook (Livre de l'eleve), same series and structure as tricolore-1-5th-edition. Answers/corriges are published only in the separate Tricolore 2 Teacher's Book. Expect many blank correct_answer fields as a result -- not a transcription gap. SME follow-up: if the Teacher's Book PDF is sourced, re-run the enrichment answer-fill pass."
+      },
+      "caveats": [
+        "1589 of 2750 questions (58%) have a blank correct_answer -- NOT a transcription gap. Confirmed via recon (TOC + back matter, 2026-08-10): this coursebook's answers are published only in the separate Tricolore 2 Teacher's Book, never in this student volume. A further 270 items are legitimately open-ended (writing/speaking tasks with no single answer) and are separately marked \"(open-ended)\", not counted among the blanks. 467 of the blanks are audio-dependent listening items (no audio track processed). SME FOLLOW-UP: if the Teacher's Book PDF is ever sourced, its printed answers could be used to re-run the enrichment answer-fill pass and resolve a meaningful share of these blanks.",
+        "9 of 180 pages have a disclosed transcription gap. Page 16: a few unlabeled illustration items on two shopping-trolley drawings (a sausage/meat item, a jam jar, a torn potato bag, a tomato, a butter package) are not legibly printed at source resolution -- everything else on the page, including all three exercises and both grammar boxes, is transcribed verbatim. Pages 167, 168, 170, 171, 173, 175, 176 and 177: eight pages of the end-of-book alphabetical glossary that could not be reproduced because every attempt to write out their entry lists triggers a hard content-filter block that terminates the process. The pages themselves were re-rasterized and directly reviewed on 2026-08-10 and contain ordinary French-English GCSE vocabulary -- this is platform-side flakiness on these specific pages, not sensitive content and not a scan-quality problem, and retries are capped per PLAYBOOK.md rather than repeated indefinitely. The surrounding glossary pages (166, 169, 172, 174, 177's neighbours) transcribed cleanly, so the glossary is partially, not wholly, covered. Each affected page's _qa/page-NNN.json records the full finding.",
+        "Pages 2, 4, 178 and 179 embed a 1-channel grayscale JPEG while the PDF declares the image /DeviceRGB, so MuPDF originally rendered them as near-black garbage. Page 178 (Acknowledgements) had been written off as a permanent content-filter gap purely because of this, and page 179 as a defective scan. Both were resolved on 2026-08-10: pdf_to_images.py now detects the mismatch and decodes the embedded scan directly. Page 178 is fully transcribed; pages 2 and 179 are confirmed genuinely blank."
+      ],
+      "accepted_qa_gaps": [16, 167, 168, 170, 171, 173, 175, 176, 177]
     },
     {
       "slug": "saison-2-methode",
