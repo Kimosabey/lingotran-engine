@@ -216,7 +216,7 @@ Return the final verdict.`
   /* ---- French corpus --------------------------------------------------- */
   const french = {
     slug: "french", name: "French", code: "FR", level: "A1 / A2 (CEFR)",
-    aggregate: { books: 3, spreads: 511, transcribed: 326, verified: 263, qaPass: 254, qaFail: 37 },
+    aggregate: { books: 5, spreads: 871, transcribed: 686, verified: 606, qaPass: 597, qaFail: 54, questions: 6914, words: 5566 },
     books: {
 
       "cosmopolite-a1-methode": {
@@ -231,6 +231,7 @@ Return the final verdict.`
           "processed via the shared _engine/ pipeline.",
         spreads: 224, transcribed: 224, verified: 203, pending: 0,
         qaTotal: 224, qaPass: 203, qaFail: 21,
+        questions: 1751, words: 1175,
         status: "complete (21 disclosed gaps)",
         meters: [
           { name: "Transcribed", value: 224, of: 224, cls: "" },
@@ -360,6 +361,134 @@ Return the final verdict.`
             [26, "L'impératif", null], [27, "Le futur proche", null], [28, "Le passé composé", null]
           ]
         }
+      },
+
+      "tricolore-1-5th-edition": {
+        slug: "tricolore-1-5th-edition",
+        title: "Tricolore 1 — 5e édition",
+        subtitle: "10 units + Au choix extra practice + grammar reference · A1-A2",
+        source: "tricolore-1-5th-edition.pdf",
+        author: "", publisher: "Oxford University Press",
+        blurb: "A 180-page A1-A2 coursebook built around 10 thematic units (greetings, home, animals, " +
+          "festivals, hobbies, town, school, food, fun days out), each with an “Au choix” extra-practice " +
+          "section and a grammar reference appendix + vocabulary glossary at the back. Second of the 5 new " +
+          "French PDFs processed via the shared _engine/ pipeline.",
+        spreads: 180, transcribed: 180, verified: 174, pending: 0,
+        qaTotal: 180, qaPass: 174, qaFail: 6,
+        questions: 2413, words: 2728,
+        status: "complete (6 disclosed gaps)",
+        meters: [
+          { name: "Transcribed", value: 180, of: 180, cls: "" },
+          { name: "QA-verified", value: 174, of: 180, cls: "green" }
+        ],
+        charts: {
+          contentType: [
+            { k: "Exercise", v: 138 }, { k: "Vocabulary", v: 86 }, { k: "Grammar box", v: 74 },
+            { k: "Reading text", v: 56 }, { k: "Instructions", v: 51 }, { k: "Dialogue", v: 40 },
+            { k: "Listening sheet", v: 33 }, { k: "Picture story", v: 31 }, { k: "Lesson", v: 30 },
+            { k: "Writing prompt", v: 25 }, { k: "Chapter opener", v: 23 }, { k: "Review", v: 23 },
+            { k: "Wordlist", v: 16 }, { k: "Speaking prompt", v: 13 }, { k: "Song", v: 7 },
+            { k: "Cover", v: 3 }, { k: "Intro", v: 3 }, { k: "TOC", v: 3 }, { k: "Answer key", v: 2 }
+          ],
+          cefr: [ { k: "A1", v: 2118 }, { k: "A2", v: 295 } ],
+          orientation: [ { k: "0° (upright)", v: 180 } ],
+          answerCoverage: [
+            { k: "Resolved answer", v: 1126 }, { k: "Open-ended (no single answer)", v: 196 },
+            { k: "Blank — no printed key / audio-only", v: 1091 }
+          ]
+        },
+        chapters: [
+          [1, "Unité 1 — Bonjour! (greetings, name, age, numbers)", 10],
+          [2, "Unité 2 — J'habite ici (where you live, spelling, addresses)", 16],
+          [3, "Unité 3 — Chez moi (home, rooms, family)", 22],
+          [4, "Unité 4 — Les animaux (pets, animals, likes/dislikes)", 34],
+          [5, "Unité 5 — Des fêtes et des festivals (festivals, birthdays, clothes)", 46],
+          [6, "Unité 6 — Qu'est-ce que tu fais? (hobbies, free time)", 64],
+          [7, "Unité 7 — En ville (places in town, directions)", 80],
+          [8, "Unité 8 — Une journée scolaire (school day, timetable, subjects)", 96],
+          [9, "Unité 9 — C'est bon, ça! (food, meals, healthy eating)", 114],
+          [10, "Unité 10 — Amuse-toi bien! (past tense, days out, theme parks)", 128],
+          [11, "Au choix (extra practice, Units 1-10)", 144],
+          [12, "Grammaire (grammar reference appendix + vocabulary glossary)", 162]
+        ],
+        caveats: [
+          "6 pages (11, 53, 54, 80, 136, 161) have one small decorative/illustration element that stayed " +
+          "unreadable even after a closer second pass (e.g. a blurry photo caption, a stylized cursive font " +
+          "on a small ticket graphic) — never exercise or answer content; everything else on those pages is " +
+          "complete.",
+          "1,091 of 2,413 questions have a blank answer column: this book's answers are sold separately in a " +
+          "teacher's guide, never printed here (same as Cosmopolite 1). A further 196 are open-ended writing/" +
+          "speaking tasks with no single answer, marked differently rather than counted as blanks."
+        ]
+      },
+
+      "tricolore-2-5th-edition": {
+        slug: "tricolore-2-5th-edition",
+        title: "Tricolore 2 — 5e édition",
+        subtitle: "8 units + Au choix extra practice + grammar & exam-skills reference · A2-B1",
+        source: "tricolore-2-5th-edition.pdf",
+        author: "", publisher: "Oxford University Press",
+        blurb: "A 180-page A2-B1 coursebook continuing from Tricolore 1 across 8 thematic units (shopping and " +
+          "city life, making plans, daily routine, family life, food, travel, clothes and health, going out), " +
+          "each with “Au choix” extra practice, plus a back-of-book grammar reference, “Preparing for " +
+          "tests” exam-skills section, and a two-way (French–English / English–French) glossary. Third of " +
+          "the 5 new French PDFs processed via the shared _engine/ pipeline.",
+        spreads: 180, transcribed: 180, verified: 169, pending: 0,
+        qaTotal: 180, qaPass: 169, qaFail: 11,
+        questions: 2750, words: 1663,
+        status: "complete (11 disclosed gaps)",
+        meters: [
+          { name: "Transcribed", value: 180, of: 180, cls: "" },
+          { name: "QA-verified", value: 169, of: 180, cls: "green" }
+        ],
+        charts: {
+          contentType: [
+            { k: "Exercise", v: 135 }, { k: "Vocabulary", v: 77 }, { k: "Grammar box", v: 69 },
+            { k: "Listening sheet", v: 51 }, { k: "Speaking prompt", v: 45 }, { k: "Reading text", v: 40 },
+            { k: "Chapter opener", v: 39 }, { k: "Writing prompt", v: 34 }, { k: "Lesson", v: 32 },
+            { k: "Dialogue", v: 31 }, { k: "Picture story", v: 26 }, { k: "Wordlist", v: 22 },
+            { k: "Explanation", v: 20 }, { k: "Review", v: 15 }, { k: "Comprehension questions", v: 9 },
+            { k: "Strategy box", v: 8 }, { k: "Reference", v: 7 }, { k: "Phonetics", v: 6 },
+            { k: "Grammar", v: 6 }, { k: "Conjugation table", v: 5 }, { k: "Cover", v: 4 },
+            { k: "Instructions", v: 4 }, { k: "Reading", v: 4 }, { k: "TOC", v: 3 }, { k: "Song", v: 3 },
+            { k: "Matching", v: 3 }
+          ],
+          cefr: [ { k: "A2", v: 2633 }, { k: "B1", v: 117 } ],
+          orientation: [ { k: "0° (upright)", v: 180 } ],
+          answerCoverage: [
+            { k: "Resolved answer", v: 891 }, { k: "Open-ended (no single answer)", v: 270 },
+            { k: "Blank — no printed key / audio-only", v: 1589 }
+          ]
+        },
+        chapters: [
+          [1, "Unité 1 — En ville (shopping, prices, quantities)", 10],
+          [2, "Unité 2 — On fait des projets (making plans, invitations)", 26],
+          [3, "Unité 3 — De jour en jour (school, daily routine)", 42],
+          [4, "Unité 4 — En famille (family life, celebrations)", 58],
+          [5, "Unité 5 — Bon appétit! (cafés, restaurants, food)", 74],
+          [6, "Unité 6 — En voyage (travel, trains, holidays)", 90],
+          [7, "Unité 7 — Ça va? (clothes, body, health)", 106],
+          [8, "Unité 8 — On va s'amuser (going out, sport, leisure)", 122],
+          [9, "Au choix (extra practice, Units 1-8) + Au choix extra: perfect tense", 134],
+          [10, "Tu comprends? (extra listening/reading practice)", 152],
+          [11, "Vocabulaire par thèmes (thematic vocabulary reference)", 154],
+          [12, "Grammaire (grammar reference appendix)", 157],
+          [13, "Preparing for tests (study skills / exam strategy)", 165],
+          [14, "Glossaire (French–English / English–French dictionary) + back cover", 166]
+        ],
+        caveats: [
+          "10 back-of-book glossary/reference pages (167, 168, 170, 171, 173, 175, 176, 177, 178, 179) hit a " +
+          "persistent content-safety processing error on every attempt despite the actual content being " +
+          "confirmed ordinary, benign vocabulary — flagged as disclosed gaps rather than blocking the rest of " +
+          "the book; candidates for a future re-attempt.",
+          "Page 16 has a small number of unlabeled illustration items (a shopping-trolley image) that " +
+          "couldn't be read at source resolution — a pre-existing, individually-reviewed gap unrelated to " +
+          "the glossary-page issue above.",
+          "1,589 of 2,750 questions have a blank answer column: this book's answers are sold separately in a " +
+          "teacher's guide, never printed here (same as Tricolore 1 and Cosmopolite 1). A further 270 are " +
+          "open-ended writing/speaking tasks with no single answer, marked differently rather than counted " +
+          "as blanks."
+        ]
       }
     }
   };
@@ -587,7 +716,7 @@ Return the final verdict.`
         qaPass: b.qaPass || 0, qaFail: b.qaFail || 0,
         state: stateOf(b.status, b.transcribed, b.spreads),
         pct: b.spreads ? Math.round((b.verified / b.spreads) * 100) : 0,
-        href: "french/" + slug + "/", book: b
+        href: "french/" + slug + "/", questions: b.questions, words: b.words, book: b
       });
     });
     Object.keys(german.collections).forEach(function (slug) {
