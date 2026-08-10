@@ -80,6 +80,39 @@
       "level_mode": "inferred",
       "level_options": ["C1", "C2"],
       "pdf": "pdf/hachette-fle/cosmopolite-5-c1c2/cosmopolite-5-c1c2.pdf"
+    },
+    {
+      "slug": "reussir-delf-prim-a1",
+      "family": "didier",
+      "title": "Reussir le DELF Prim A1.1 - A1",
+      "level": "A1.1-A1",
+      "level_mode": "inferred",
+      "level_options": ["A1.1", "A1"],
+      "pdf": "pdf/didier/reussir-delf-prim-a1/reussir-delf-prim-a1.pdf",
+      "audio": "audio/didier/reussir-delf-prim-a1/reussir-delf-prim-a1-audio.rar",
+      "book_type": "exam-preparation",
+      "status": "registered-not-started",
+      "recon": {
+        "checked": "2026-08-10: cover, full Sommaire (pdf p2-3), sample interior pages and page-number footers reviewed; no rasterization or transcription performed",
+        "authors": "Dorothee Dupleix, Christine Tagliante",
+        "publisher": "Didier, in partnership with CIEP (Commission nationale DELF DALF) - official DELF preparation",
+        "audience": "primary-school children (DELF Prim), not adult learners",
+        "intent": "exam preparation, not a coursebook: training activities organised by DELF competence (comprehension de l'oral / des ecrits, production ecrite / orale) for A1.1 then A1, a cultural section 'Ca se passe en France', then full mock papers ('epreuves blanches') for each level",
+        "pdf_pages": 71,
+        "text_layer": "YES - ABBYY FineReader 12 OCR layer, ~1000 chars/page. First French book with any text layer, so the vision pipeline may be avoidable or reducible for it. BUT the OCR is visibly imperfect (spurious intra-word spaces such as 'l'o ra l', 'sim ple', 'A l . l'), so it must be quality-assessed against the page images before being trusted - see PLAYBOOK.md question 1.",
+        "page_offset": "printed page number = PDF page + 4 (verified across pdf p60-71); PDF p71 is printed p75",
+        "audio": "37 .wma listening tracks in the companion RAR (52 MB uncompressed). Filenames are cp866-mojibake Cyrillic ('Track N'). No extractor is installed on this machine - 7-Zip/WinRAR/unrar are all absent - so the archive is filed as-is and will need unpacking before any listening work."
+      },
+      "answer_key": {
+        "status": "unknown",
+        "checked": "2026-08-10: full-text search for corriges/solutions/reponses across all 71 PDF pages returned nothing, and the Sommaire lists no answer-key section. Cannot be resolved because the pages that would carry it are missing (see caveats).",
+        "note": "Listening TRANSCRIPTS are printed inline with the exercises (confirmed on several pages), which is useful even without a key. Re-check once a complete copy of the book is sourced."
+      },
+      "caveats": [
+        "SOURCE PDF IS INCOMPLETE - roughly the last 20 printed pages are absent. The book's own Sommaire runs to at least printed page 93, but the PDF stops at printed page 75 (PDF page 71; printed = PDF + 4, verified). Missing: the remainder of 'Les epreuves blanches A1.1' (Comprehension des ecrits p77, Production ecrite p80, Production orale p83) and the ENTIRE 'Les epreuves blanches A1' section (p85-93+), plus anything printed after it. Since the title promises both A1.1 and A1, the missing part is a substantial share of the book's stated purpose. DECIDE BEFORE STARTING: source a complete copy, or process this one and disclose the truncation as a permanent, documented gap.",
+        "The 37-track audio archive has not been unpacked or verified against the exercises; no listening content is processed yet."
+      ],
+      "accepted_qa_gaps": []
     }
   ]
 }
