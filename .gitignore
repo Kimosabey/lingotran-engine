@@ -35,6 +35,9 @@ vendor
 *.bak
 *.log
 
+# Playwright run artifacts (site-next e2e) — regenerated on every run.
+test-results/
+
 # Large source binaries & scan artifacts — kept on disk, not tracked in git.
 # (Source PDFs, 300-DPI page renders, and zoom-crop scratch images.)
 french/*.pdf
