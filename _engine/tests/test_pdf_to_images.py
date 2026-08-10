@@ -14,6 +14,7 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import fitz
+from PIL import Image
 from pdf_to_images import render
 
 
@@ -32,8 +33,9 @@ class RenderCrashSafetyTests(unittest.TestCase):
         shutil.rmtree(self.tmpdir, ignore_errors=True)
 
     def test_renders_every_page(self):
-        n = render(self.pdf_path, self.out_dir, dpi=72)
+        n, repaired = render(self.pdf_path, self.out_dir, dpi=72)
         self.assertEqual(n, 2)
+        self.assertEqual(repaired, [])
         self.assertTrue(os.path.exists(os.path.join(self.out_dir, 'page-001.png')))
         self.assertTrue(os.path.exists(os.path.join(self.out_dir, 'page-002.png')))
 
@@ -58,6 +60,64 @@ class RenderCrashSafetyTests(unittest.TestCase):
         render(self.pdf_path, self.out_dir, dpi=72)
         leftovers = [f for f in os.listdir(self.out_dir) if '.tmp' in f]
         self.assertEqual(leftovers, [])
+
+
+class MiscolouredEmbeddedImageTests(unittest.TestCase):
+    """A page embedding a 1-channel grayscale JPEG while declaring /DeviceRGB
+    renders as dark garbage under MuPDF even though the scan is legible.
+    render() must notice the contradiction and decode the embedded image
+    instead. Regression cover for tricolore-2-5th-edition pages 2/4/178/179 --
+    page 178 was written off as a permanent transcription gap because of it.
+    """
+
+    def setUp(self):
+        self.tmpdir = tempfile.mkdtemp()
+        self.out_dir = os.path.join(self.tmpdir, 'images')
+        self.pdf_path = os.path.join(self.tmpdir, 'gray.pdf')
+
+        # A mostly-white grayscale JPEG with a dark band -- stands in for a
+        # scanned text page (light overall, some ink).
+        img = Image.new('L', (120, 160), color=255)
+        img.paste(0, (10, 20, 110, 40))
+        jpeg_path = os.path.join(self.tmpdir, 'scan.jpg')
+        img.save(jpeg_path, 'JPEG', quality=90)
+
+        doc = fitz.open()
+        page = doc.new_page(width=120, height=160)
+        page.insert_image(page.rect, filename=jpeg_path)
+        doc.save(self.pdf_path)
+        doc.close()
+
+        # Force the malformed condition: relabel the 1-channel JPEG /DeviceRGB.
+        doc = fitz.open(self.pdf_path)
+        xref = doc[0].get_images(full=True)[0][0]
+        doc.xref_set_key(xref, 'ColorSpace', '/DeviceRGB')
+        doc.save(os.path.join(self.tmpdir, 'gray2.pdf'))
+        doc.close()
+        self.pdf_path = os.path.join(self.tmpdir, 'gray2.pdf')
+
+    def tearDown(self):
+        shutil.rmtree(self.tmpdir, ignore_errors=True)
+
+    def test_reports_and_repairs_the_mismatched_page(self):
+        n, repaired = render(self.pdf_path, self.out_dir, dpi=72)
+        self.assertEqual(n, 1)
+        self.assertEqual(repaired, [1], 'the mismatched page should be repaired and reported')
+
+    def test_repaired_page_keeps_the_scan_legible(self):
+        """The whole point: the output must look like the light scan it is,
+        not the dark garbage MuPDF produces from the bad declaration."""
+        render(self.pdf_path, self.out_dir, dpi=72)
+        with Image.open(os.path.join(self.out_dir, 'page-001.png')) as out:
+            mean = sum(out.convert('L').getdata()) / float(out.width * out.height)
+        self.assertGreater(mean, 170, 'repaired page should stay light, like the source scan')
+
+    def test_repaired_page_matches_requested_dpi_dimensions(self):
+        """Downstream zoom/crop maths assumes page pixel size tracks DPI, so
+        the embedded scan must be scaled to the same size a render would be."""
+        render(self.pdf_path, self.out_dir, dpi=144)
+        with Image.open(os.path.join(self.out_dir, 'page-001.png')) as out:
+            self.assertEqual(out.size, (240, 320))
 
 
 if __name__ == '__main__':
