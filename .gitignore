@@ -42,7 +42,16 @@ test-results/
 # (Source PDFs, 300-DPI page renders, and zoom-crop scratch images.)
 french/*.pdf
 french/pdf/**/*.pdf
+french/audio/**/*.rar
+french/audio/**/*.wma
+french/audio/**/*.mp3
+french/audio/**/*.mp4
 french/extracted/*/images/
+
+# Intake inbox — staging only. Its README is tracked, the material is not;
+# everything gets moved into <language>/pdf/ or <language>/audio/ at intake.
+_inbox/*
+!_inbox/README.md
 french/extracted/_tools/*.png
 *.png
 !site/assets/img/*.png

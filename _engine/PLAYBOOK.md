@@ -243,9 +243,37 @@ or language doesn't rediscover it from scratch.
 
 ---
 
+## Step 0 — identify the book BEFORE it is filed or touched
+
+Intake comes before everything below. When new material arrives (in
+`_inbox/` — see that folder's README for the full checklist), the first
+action is to establish **what the book is and what it is for**, from the
+document itself, never from the filename.
+
+Answer and *record in `collections.json`'s `recon` block*: title/authors/
+publisher (render page 1 and look at the cover), audience, intent (coursebook
+vs workbook vs exam prep vs reference — the table of contents is the book's own
+statement of purpose), level and `level_mode`, **whether the file is complete**
+(compare the highest page number in the TOC against the real page count, and
+map printed numbers to PDF pages — they are usually offset), text layer,
+printed answer key, and companion media.
+
+This is not ceremony. Filenames have been wrong (Saison 2 was assumed CLE
+International; it is Didier). And this check caught `reussir-delf-prim-a1`
+missing its last ~20 printed pages — an entire advertised mock-exam level —
+which would otherwise have surfaced ~60 pages into a paid transcription run.
+Anything already known to be wrong with the source goes into `caveats` at
+intake, not after extraction rediscovers it.
+
+Registering a book does not start it.
+
 ## Before starting any new book, ask these six questions
 
 1. Is there a text layer we can read for free instead of vision-transcribing?
+   Note the difference between a **born-digital** text layer (trustworthy, use
+   it) and an **OCR** layer such as ABBYY's (must be spot-checked against the
+   page images first — `reussir-delf-prim-a1` has one, and it visibly breaks
+   words apart: "l'o ra l", "sim ple", "A l . l").
 2. What's `level_mode` for this book — fixed or inferred — and is that
    confirmed by actually looking at a few pages, not guessed from the title?
 3. Is the account/session window fresh enough to run a real batch, or should
