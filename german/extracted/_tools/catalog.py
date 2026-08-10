@@ -50,11 +50,25 @@ def split_frontmatter(txt):
 
 
 def page_title(body):
+    in_comment = False
     for ln in body.splitlines():
-        s = re.sub(r'^#+\s*', '', ln.strip())
+        s = ln.strip()
+        if in_comment:
+            if '-->' in s:
+                in_comment = False
+            continue
+        if not s:
+            continue
+        if s.startswith('<!--'):
+            if '-->' not in s:
+                in_comment = True
+            continue
+        s = re.sub(r'^#+\s*', '', s)
         s = re.sub(r'[*_`>|\[\]]', '', s).strip()
-        if s:
-            return s[:90]
+        s = ' '.join(s.split())
+        if not s or re.match(r'^Seite\s+\d+$', s, re.I) or re.match(r'^\d+$', s):
+            continue
+        return s[:90]
     return ''
 
 
@@ -117,7 +131,7 @@ def build_collection(c):
         row = {
             'collection': slug, 'unit': unit,
             'section': fm.get('section', '').strip('"') or '',
-            'content_type': fm.get('content_type', '') or '',
+            'content_type': (fm.get('content_type', '') or '').strip('[]'),
             'activity_type': cl.get('activity_type', ''), 'topic': cl.get('topic', ''),
             'level': fm.get('level', c.get('level', '')),
             'status': fm.get('status', ''), 'qa': fm.get('qa', ''),

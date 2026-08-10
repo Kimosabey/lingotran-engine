@@ -1,7 +1,7 @@
 # Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 2
 
 > Unified transcription of `pdf/goethe-institut/a1-start-deutsch-1/exam-training-2.pdf` — 47 pages. Source: Goethe-Institut (official free practice material).
-> Generated 2026-07-21. Filterable sheet: `goethe-a1-sd1-exam-training-2-catalog.csv`.
+> Generated 2026-08-10. Filterable sheet: `goethe-a1-sd1-exam-training-2-catalog.csv`.
 
 ## Overview
 
@@ -10,10 +10,10 @@
 | skill section | Count |
 |---|---|
 | (none) | 11 |
-| hoeren | 11 |
-| sprechen | 10 |
-| lesen | 9 |
-| schreiben | 5 |
+| listening | 11 |
+| speaking | 10 |
+| reading | 9 |
+| writing | 5 |
 | answer-key | 1 |
 
 **By content type**
@@ -71,51 +71,51 @@
 | 004 |  | none | none | Blank page. |
 | 005 |  | instructions | none | Foreword describing the A1 exam scope and structure. |
 | 006 |  | none | none | Blank page. |
-| 007 | hoeren | instructions | none | Listening section intro and general instructions. |
-| 008 | hoeren | multiple-choice | personal-info | Listening Teil 1 instructions with worked example about room number. |
-| 009 | hoeren | multiple-choice | mixed | Listening multiple-choice questions on clothing, food, museum hours. |
-| 010 | hoeren | multiple-choice | mixed | Listening multiple-choice on sport, holiday, flight duration. |
-| 011 | hoeren | true-false | travel | Listening Teil 2 true-false announcements at station and airport. |
-| 012 | hoeren | multiple-choice | communication | Listening Teil 3 multiple-choice on phone calls and plans. |
-| 013 | hoeren | multiple-choice | hobby | Listening multiple-choice on meeting place and time. |
+| 007 | listening | instructions | none | Listening section intro and general instructions. |
+| 008 | listening | multiple-choice | personal-info | Listening Teil 1 instructions with worked example about room number. |
+| 009 | listening | multiple-choice | mixed | Listening multiple-choice questions on clothing, food, museum hours. |
+| 010 | listening | multiple-choice | mixed | Listening multiple-choice on sport, holiday, flight duration. |
+| 011 | listening | true-false | travel | Listening Teil 2 true-false announcements at station and airport. |
+| 012 | listening | multiple-choice | communication | Listening Teil 3 multiple-choice on phone calls and plans. |
+| 013 | listening | multiple-choice | hobby | Listening multiple-choice on meeting place and time. |
 | 014 |  | none | none | Blank page with only footer and logos. |
-| 015 | lesen | instructions | none | Reading and Writing section intro and instructions. |
-| 016 | lesen | reading-comprehension | travel | Reading Teil 1 true-false about email planning a Weimar meeting. |
-| 017 | lesen | reading-comprehension | hobby | Reading true-false about a sports club summer excursion. |
-| 018 | lesen | reading-comprehension | home | Reading Teil 2 matching websites for weather and housing. |
-| 019 | lesen | reading-comprehension | travel | Reading matching websites for airport transport and holiday trips. |
-| 020 | lesen | reading-comprehension | home | Reading matching websites for holiday rentals and football. |
-| 021 | lesen | reading-comprehension | city-places | Reading Teil 3 true-false on public notices, tickets. |
-| 022 | lesen | reading-comprehension | city-places | Reading true-false about hotel door and restaurant hours. |
-| 023 | lesen | reading-comprehension | city-places | Reading true-false about club film night and station counters. |
-| 024 | schreiben | fill-in | personal-info | Writing Teil 1 filling a language-school registration form. |
-| 025 | schreiben | writing-task | communication | Writing Teil 2 email inviting a friend to a birthday. |
+| 015 | reading | instructions | none | Reading and Writing section intro and instructions. |
+| 016 | reading | reading-comprehension | travel | Reading Teil 1 true-false about email planning a Weimar meeting. |
+| 017 | reading | reading-comprehension | hobby | Reading true-false about a sports club summer excursion. |
+| 018 | reading | reading-comprehension | home | Reading Teil 2 matching websites for weather and housing. |
+| 019 | reading | reading-comprehension | travel | Reading matching websites for airport transport and holiday trips. |
+| 020 | reading | reading-comprehension | home | Reading matching websites for holiday rentals and football. |
+| 021 | reading | reading-comprehension | city-places | Reading Teil 3 true-false on public notices, tickets. |
+| 022 | reading | reading-comprehension | city-places | Reading true-false about hotel door and restaurant hours. |
+| 023 | reading | reading-comprehension | city-places | Reading true-false about club film night and station counters. |
+| 024 | writing | fill-in | personal-info | Writing Teil 1 filling a language-school registration form. |
+| 025 | writing | writing-task | communication | Writing Teil 2 email inviting a friend to a birthday. |
 | 026 |  | none | none | Blank page. |
-| 027 | sprechen | instructions | none | Speaking section intro and general instructions. |
-| 028 | sprechen | speaking-task | personal-info | Speaking Teil 1 self-introduction prompt keywords. |
-| 029 | sprechen | speaking-task | hobby | Speaking Teil 2 word cards on weekend theme. |
-| 030 | sprechen | speaking-task | school | Speaking Teil 2 word cards on school theme. |
-| 031 | sprechen | speaking-task | mixed | Speaking Teil 3 picture cards for making requests. |
-| 032 | sprechen | speaking-task | mixed | Speaking Teil 3 further picture cards for requests. |
+| 027 | speaking | instructions | none | Speaking section intro and general instructions. |
+| 028 | speaking | speaking-task | personal-info | Speaking Teil 1 self-introduction prompt keywords. |
+| 029 | speaking | speaking-task | hobby | Speaking Teil 2 word cards on weekend theme. |
+| 030 | speaking | speaking-task | school | Speaking Teil 2 word cards on school theme. |
+| 031 | speaking | speaking-task | mixed | Speaking Teil 3 picture cards for making requests. |
+| 032 | speaking | speaking-task | mixed | Speaking Teil 3 further picture cards for requests. |
 | 033 |  | instructions | none | Examiner pages table of contents. |
-| 034 | hoeren | listening-comprehension | none | Listening transcript Teil 1 example and items 1-3. |
-| 035 | hoeren | listening-comprehension | none | Listening transcript items 4-6. |
-| 036 | hoeren | listening-comprehension | none | Listening transcript Teil 2 announcements items 7-10. |
-| 037 | hoeren | listening-comprehension | none | Listening transcript Teil 3 messages items 11-15. |
+| 034 | listening | listening-comprehension | none | Listening transcript Teil 1 example and items 1-3. |
+| 035 | listening | listening-comprehension | none | Listening transcript items 4-6. |
+| 036 | listening | listening-comprehension | none | Listening transcript Teil 2 announcements items 7-10. |
+| 037 | listening | listening-comprehension | none | Listening transcript Teil 3 messages items 11-15. |
 | 038 | answer-key | answer-key | none | Answer key for Listening, Reading, Writing tasks. |
-| 039 | schreiben | answer-key | none | Writing assessment criteria and scoring guide. |
-| 040 | schreiben | answer-key | communication | Sample writing responses with awarded points. |
-| 041 | sprechen | instructions | none | Oral exam guidance and Teil 1 introduction script. |
-| 042 | sprechen | instructions | personal-info | Oral exam script for spelling and Teil 2 information exchange. |
-| 043 | sprechen | instructions | none | Oral exam Teil 3 request-formulation guidance and closing. |
-| 044 | sprechen | answer-key | none | Speaking assessment criteria and scoring guide. |
+| 039 | writing | answer-key | none | Writing assessment criteria and scoring guide. |
+| 040 | writing | answer-key | communication | Sample writing responses with awarded points. |
+| 041 | speaking | instructions | none | Oral exam guidance and Teil 1 introduction script. |
+| 042 | speaking | instructions | personal-info | Oral exam script for spelling and Teil 2 information exchange. |
+| 043 | speaking | instructions | none | Oral exam Teil 3 request-formulation guidance and closing. |
+| 044 | speaking | answer-key | none | Speaking assessment criteria and scoring guide. |
 | 045 |  | answer-key | none | Answer sheet grid for Listening, Reading, Writing scoring. |
-| 046 | schreiben | answer-key | none | Answer sheet for Writing Teil 2 text and scoring. |
+| 046 | writing | answer-key | none | Answer sheet for Writing Teil 2 text and scoring. |
 | 047 |  | cover | none | Back cover with publisher address and ISBN. |
 
 ---
 
-## Page 001  — [cover] · cover · none
+## Page 001  — cover · cover · none
 
 A1
 
@@ -133,7 +133,7 @@ INSTITUT
 
 Sprache. Kultur. Deutschland.
 
-## Page 002  — [intro] · none · none
+## Page 002  — intro · none · none
 
 © Goethe-Institut e.V.
 
@@ -146,7 +146,7 @@ Oskar-von-Miller-Ring 18, 80333 München
 
 Umschlagsgestaltung: Druckhaus Kastner | Wolnzach
 
-## Page 003  — [cover, toc] · cover · none
+## Page 003  — cover, toc · cover · none
 
 **Start Deutsch 1**
 
@@ -179,11 +179,11 @@ GOETHE INSTITUT
 
 Seite 1
 
-## Page 004  — [] · none · none
+## Page 004  — none · none
 
 Seite 2
 
-## Page 005  — [intro] · instructions · none
+## Page 005  — intro · instructions · none
 
 # Start Deutsch 1
 
@@ -208,11 +208,11 @@ Die Prüfung wurde gemeinschaftlich vom Goethe-Institut und der telc GmbH entwic
 
 Seite 3
 
-## Page 006  — [] · none · none
+## Page 006  — none · none
 
 Seite 4
 
-## Page 007  — hoeren · [intro, instructions] · instructions · none
+## Page 007  — listening · intro, instructions · instructions · none
 
 Start Deutsch 1
 
@@ -241,7 +241,7 @@ Seite 5
 
 GOETHE INSTITUT
 
-## Page 008  — hoeren · [instructions, exercise] · multiple-choice · personal-info
+## Page 008  — listening · instructions, exercise · multiple-choice · personal-info
 
 # Start Deutsch 1
 
@@ -271,7 +271,7 @@ Seite 6
 
 GOETHE-INSTITUT
 
-## Page 009  — hoeren · [exercise] · multiple-choice · mixed
+## Page 009  — listening · exercise · multiple-choice · mixed
 
 # Hören
 
@@ -305,7 +305,7 @@ Seite 7
 
 GOETHE-INSTITUT
 
-## Page 010  — hoeren · [exercise] · multiple-choice · mixed
+## Page 010  — listening · exercise · multiple-choice · mixed
 
 **Start Deutsch 1**
 
@@ -333,7 +333,7 @@ Seite 8
 
 GOETHE-INSTITUT
 
-## Page 011  — hoeren · [exercise, listening-sheet] · true-false · travel
+## Page 011  — listening · exercise, listening-sheet · true-false · travel
 
 # Hören
 
@@ -358,7 +358,7 @@ Seite 9
 
 GOETHE INSTITUT
 
-## Page 012  — hoeren · [exercise] · multiple-choice · communication
+## Page 012  — listening · exercise · multiple-choice · communication
 
 **Start Deutsch 1**
 
@@ -392,7 +392,7 @@ Seite 10
 
 GOETHE INSTITUT
 
-## Page 013  — hoeren · [exercise] · multiple-choice · hobby
+## Page 013  — listening · exercise · multiple-choice · hobby
 
 # Hören
 
@@ -417,7 +417,7 @@ Seite 11
 
 GOETHE INSTITUT
 
-## Page 014  — [] · none · none
+## Page 014  — none · none
 
 <!-- This page is essentially blank. Only footer, page banner, and Goethe-Institut logos are present. -->
 
@@ -426,7 +426,7 @@ Seite 12
 <!-- Goethe-Institut logo (top right) -->
 <!-- Goethe-Institut logo with "GOETHE INSTITUT" wordmark (bottom right) -->
 
-## Page 015  — lesen · [intro, instructions] · instructions · none
+## Page 015  — reading · intro, instructions · instructions · none
 
 **Start Deutsch 1**
 
@@ -461,7 +461,7 @@ Seite 13
 
 GOETHE INSTITUT
 
-## Page 016  — lesen · [instructions, reading-text, exercise] · reading-comprehension · travel
+## Page 016  — reading · instructions, reading-text, exercise · reading-comprehension · travel
 
 # Start Deutsch 1
 
@@ -505,7 +505,7 @@ Seite 14
 
 [Logo: GOETHE INSTITUT]
 
-## Page 017  — lesen · [reading-text, exercise] · reading-comprehension · hobby
+## Page 017  — reading · reading-text, exercise · reading-comprehension · hobby
 
 # Lesen
 
@@ -538,7 +538,7 @@ Seite 15
 
 GOETHE INSTITUT
 
-## Page 018  — lesen · [instructions, exercise, reading-text] · reading-comprehension · home
+## Page 018  — reading · instructions, exercise, reading-text · reading-comprehension · home
 
 # Start Deutsch 1
 
@@ -601,7 +601,7 @@ Seite 16
 
 GOETHE INSTITUT
 
-## Page 019  — lesen · [exercise] · reading-comprehension · travel
+## Page 019  — reading · exercise · reading-comprehension · travel
 
 # Lesen
 
@@ -667,7 +667,7 @@ GOETHE INSTITUT
 
 Seite 17
 
-## Page 020  — lesen · [exercise, reading-text] · reading-comprehension · home
+## Page 020  — reading · exercise, reading-text · reading-comprehension · home
 
 # Start Deutsch 1
 
@@ -724,7 +724,7 @@ Seite 18
 
 GOETHE-INSTITUT
 
-## Page 021  — lesen · [instructions, exercise, reading-text] · reading-comprehension · city-places
+## Page 021  — reading · instructions, exercise, reading-text · reading-comprehension · city-places
 
 # Lesen
 
@@ -765,7 +765,7 @@ Seite 19
 
 GOETHE-INSTITUT
 
-## Page 022  — lesen · [exercise, reading-text] · reading-comprehension · city-places
+## Page 022  — reading · exercise, reading-text · reading-comprehension · city-places
 
 # Start Deutsch 1
 
@@ -798,7 +798,7 @@ Seite 20
 
 GOETHE INSTITUT
 
-## Page 023  — lesen · [exercise, reading-text] · reading-comprehension · city-places
+## Page 023  — reading · exercise, reading-text · reading-comprehension · city-places
 
 # Lesen
 
@@ -827,7 +827,7 @@ Fahrkarten können Sie an allen Schaltern bekommen.
 
 Seite 21
 
-## Page 024  — schreiben · [instructions, writing-prompt] · fill-in · personal-info
+## Page 024  — writing · instructions, writing-prompt · fill-in · personal-info
 
 # Start Deutsch 1
 
@@ -869,7 +869,7 @@ Seite 22
 
 GOETHE-INSTITUT
 
-## Page 025  — schreiben · [writing-prompt] · writing-task · communication
+## Page 025  — writing · writing-prompt · writing-task · communication
 
 # Schreiben
 
@@ -890,11 +890,11 @@ Seite 23
 
 GOETHE INSTITUT
 
-## Page 026  — [] · none · none
+## Page 026  — none · none
 
 Seite 24
 
-## Page 027  — sprechen · [instructions] · instructions · none
+## Page 027  — speaking · instructions · instructions · none
 
 Start Deutsch 1
 
@@ -914,7 +914,7 @@ Seite 25
 
 GOETHE INSTITUT
 
-## Page 028  — sprechen · [speaking-prompt] · speaking-task · personal-info
+## Page 028  — speaking · speaking-prompt · speaking-task · personal-info
 
 Start Deutsch 1
 
@@ -940,7 +940,7 @@ Seite 26
 
 GOETHE INSTITUT
 
-## Page 029  — sprechen · [speaking-prompt] · speaking-task · hobby
+## Page 029  — speaking · speaking-prompt · speaking-task · hobby
 
 # Sprechen
 
@@ -973,7 +973,7 @@ Die sechs Karten enthalten folgende Stichwörter:
 
 Seite 27
 
-## Page 030  — sprechen · [speaking-prompt] · speaking-task · school
+## Page 030  — speaking · speaking-prompt · speaking-task · school
 
 # Start Deutsch 1
 
@@ -1000,7 +1000,7 @@ Sechs Wortkarten für **Sprechen Teil 2**. Jede Karte trägt oben die folgende K
 
 Seite 28
 
-## Page 031  — sprechen · [speaking-prompt] · speaking-task · mixed
+## Page 031  — speaking · speaking-prompt · speaking-task · mixed
 
 # Sprechen
 
@@ -1023,7 +1023,7 @@ Bildkarten (Kandidatenblätter). Sechs Karten mit jeweils folgender Kopfzeile:
 
 Seite 29
 
-## Page 032  — sprechen · [speaking-prompt] · speaking-task · mixed
+## Page 032  — speaking · speaking-prompt · speaking-task · mixed
 
 # Start Deutsch 1
 
@@ -1051,7 +1051,7 @@ Kopfzeile jeder Karte:
 
 Seite 30
 
-## Page 033  — [toc] · instructions · none
+## Page 033  — toc · instructions · none
 
 # Start Deutsch 1
 
@@ -1072,7 +1072,7 @@ GOETHE INSTITUT
 
 Seite 31
 
-## Page 034  — hoeren · [instructions, listening-sheet] · listening-comprehension · none
+## Page 034  — listening · instructions, listening-sheet · listening-comprehension · none
 
 # Start Deutsch 1
 
@@ -1117,7 +1117,7 @@ Seite 32
 
 GOETHE INSTITUT
 
-## Page 035  — hoeren · [listening-sheet] · listening-comprehension · none
+## Page 035  — listening · listening-sheet · listening-comprehension · none
 
 # Hören
 
@@ -1151,7 +1151,7 @@ Seite 33
 
 GOETHE INSTITUT
 
-## Page 036  — hoeren · [exercise, listening-sheet] · listening-comprehension · none
+## Page 036  — listening · exercise, listening-sheet · listening-comprehension · none
 
 # Start Deutsch 1
 
@@ -1181,7 +1181,7 @@ Seite 34
 
 GOETHE-INSTITUT
 
-## Page 037  — hoeren · [instructions, listening-sheet] · listening-comprehension · none
+## Page 037  — listening · instructions, listening-sheet · listening-comprehension · none
 
 # Hören
 
@@ -1218,7 +1218,7 @@ Schreiben Sie jetzt Ihre Lösungen 1 bis 15 auf den Antwortbogen.
 
 Seite 35
 
-## Page 038  — answer-key · [answer-key] · answer-key · none
+## Page 038  — answer-key · answer-key · answer-key · none
 
 18929
 
@@ -1309,7 +1309,7 @@ GOETHE-INSTITUT
 Version R04SWV01.01
 18929-LoeBo-ÜS001-02/2024
 
-## Page 039  — schreiben · [answer-key, instructions] · answer-key · none
+## Page 039  — writing · answer-key, instructions · answer-key · none
 
 # Schreiben
 
@@ -1337,7 +1337,7 @@ Seite 37
 
 GOETHE INSTITUT
 
-## Page 040  — schreiben · [writing-prompt, answer-key] · answer-key · communication
+## Page 040  — writing · writing-prompt, answer-key · answer-key · communication
 
 # Start Deutsch 1
 
@@ -1411,7 +1411,7 @@ Seite 38
 
 GOETHE-INSTITUT
 
-## Page 041  — sprechen · [instructions, speaking-prompt] · instructions · none
+## Page 041  — speaking · instructions, speaking-prompt · instructions · none
 
 # Sprechen
 
@@ -1475,7 +1475,7 @@ Seite 39
 
 GOETHE-INSTITUT
 
-## Page 042  — sprechen · [speaking-prompt, instructions] · instructions · personal-info
+## Page 042  — speaking · speaking-prompt, instructions · instructions · personal-info
 
 # Start Deutsch 1
 
@@ -1548,7 +1548,7 @@ Seite 40
 
 GOETHE-INSTITUT
 
-## Page 043  — sprechen · [instructions, speaking-prompt] · instructions · none
+## Page 043  — speaking · instructions, speaking-prompt · instructions · none
 
 # Sprechen
 
@@ -1598,7 +1598,7 @@ Seite 41
 
 GOETHE-INSTITUT
 
-## Page 044  — sprechen · [instructions, answer-key] · answer-key · none
+## Page 044  — speaking · instructions, answer-key · answer-key · none
 
 # Start Deutsch 1
 
@@ -1620,7 +1620,7 @@ Kandidatenbeispiele finden Sie auf dem Trainingsvideo für Prüfende.
 
 Seite 42
 
-## Page 045  — [answer-key] · answer-key · none
+## Page 045  — answer-key · answer-key · none
 
 Entwurf
 
@@ -1792,7 +1792,7 @@ Paraphe Bew.
 
 Seite 1 von 2
 
-## Page 046  — schreiben · [writing-prompt, answer-key] · answer-key · none
+## Page 046  — writing · writing-prompt, answer-key · answer-key · none
 
 Entwurf
 
@@ -1832,7 +1832,7 @@ Datum
 
 Seite 2 von 2
 
-## Page 047  — [cover] · cover · none
+## Page 047  — cover · cover · none
 
 Goethe-Institut e.V.
 Oskar-von-Miller-Ring 18,

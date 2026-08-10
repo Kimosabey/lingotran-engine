@@ -1,7 +1,7 @@
 # Goethe-Zertifikat A1 · Fit In Deutsch 1 · Exam Training 2
 
 > Unified transcription of `pdf/goethe-institut/a1-fit-in-deutsch-1/exam-training-2.pdf` — 52 pages. Source: Goethe-Institut (official free practice material).
-> Generated 2026-07-21. Filterable sheet: `goethe-a1-fit1-exam-training-2-catalog.csv`.
+> Generated 2026-08-10. Filterable sheet: `goethe-a1-fit1-exam-training-2-catalog.csv`.
 
 ## Overview
 
@@ -10,10 +10,10 @@
 | skill section | Count |
 |---|---|
 | (none) | 18 |
-| sprechen | 14 |
-| hoeren | 9 |
-| lesen | 5 |
-| schreiben | 4 |
+| speaking | 14 |
+| listening | 9 |
+| reading | 5 |
+| writing | 4 |
 | answer-key | 2 |
 
 **By content type**
@@ -71,46 +71,46 @@
 | 004 |  | none | none | Blank page with footer only |
 | 005 |  | instructions | none | Foreword describing the Fit in Deutsch 1 exam |
 | 006 |  | none | none | Blank page with footer only |
-| 007 | hoeren | instructions | none | Listening section intro and instructions |
-| 008 | hoeren | listening-comprehension | communication | Listening Part 1 instructions with phone-message example task |
-| 009 | hoeren | listening-comprehension | hobby | Listening tasks 1-2 on plans and availability, multiple choice |
-| 010 | hoeren | listening-comprehension | travel | Listening tasks 3-4 on transport and party items, multiple choice |
-| 011 | hoeren | listening-comprehension | hobby | Listening tasks 5-6 on music and music school location |
-| 012 | hoeren | listening-comprehension | school | Listening Part 2 true-false tasks 7-9 on schoolwork help |
-| 013 | hoeren | listening-comprehension | personal-info | Listening true-false tasks 10-12 on moving and birthday |
+| 007 | listening | instructions | none | Listening section intro and instructions |
+| 008 | listening | listening-comprehension | communication | Listening Part 1 instructions with phone-message example task |
+| 009 | listening | listening-comprehension | hobby | Listening tasks 1-2 on plans and availability, multiple choice |
+| 010 | listening | listening-comprehension | travel | Listening tasks 3-4 on transport and party items, multiple choice |
+| 011 | listening | listening-comprehension | hobby | Listening tasks 5-6 on music and music school location |
+| 012 | listening | listening-comprehension | school | Listening Part 2 true-false tasks 7-9 on schoolwork help |
+| 013 | listening | listening-comprehension | personal-info | Listening true-false tasks 10-12 on moving and birthday |
 | 014 |  | none | none | Blank page with footer only |
-| 015 | lesen | instructions | none | Reading section intro and instructions |
-| 016 | lesen | reading-comprehension | hobby | Reading Part 1 two newspaper ads: film casting and school club |
-| 017 | lesen | multiple-choice | hobby | Reading tasks 1-6 multiple choice on the two ads |
-| 018 | lesen | reading-comprehension | personal-info | Reading Part 2 two teenager self-descriptions |
-| 019 | lesen | true-false | daily-routine | Reading true-false tasks 7-12 on the descriptions |
+| 015 | reading | instructions | none | Reading section intro and instructions |
+| 016 | reading | reading-comprehension | hobby | Reading Part 1 two newspaper ads: film casting and school club |
+| 017 | reading | multiple-choice | hobby | Reading tasks 1-6 multiple choice on the two ads |
+| 018 | reading | reading-comprehension | personal-info | Reading Part 2 two teenager self-descriptions |
+| 019 | reading | true-false | daily-routine | Reading true-false tasks 7-12 on the descriptions |
 | 020 |  | none | none | Blank page with footer only |
-| 021 | schreiben | instructions | none | Writing section intro and instructions |
-| 022 | schreiben | writing-task | vacation | Writing prompt: reply to email about holidays, min 30 words |
-| 023 | sprechen | instructions | none | Speaking section intro and instructions |
+| 021 | writing | instructions | none | Writing section intro and instructions |
+| 022 | writing | writing-task | vacation | Writing prompt: reply to email about holidays, min 30 words |
+| 023 | speaking | instructions | none | Speaking section intro and instructions |
 | 024 |  | none | none | Blank page with footer only |
-| 025 | sprechen | speaking-task | personal-info | Speaking Part 1 self-introduction prompt card with cues |
-| 026 | sprechen | speaking-task | travel | Speaking Part 2 topic card: travel |
-| 027 | sprechen | speaking-task | travel | Speaking Part 2 word cards on the theme of travel |
-| 028 | sprechen | speaking-task | health | Speaking Part 2 topic card: health |
-| 029 | sprechen | speaking-task | health | Speaking Part 2 word cards on the theme of health |
-| 030 | sprechen | speaking-task | mixed | Speaking Part 3 picture cards for requests and questions |
-| 031 | sprechen | speaking-task | mixed | Speaking Part 3 more picture cards for requests and questions |
+| 025 | speaking | speaking-task | personal-info | Speaking Part 1 self-introduction prompt card with cues |
+| 026 | speaking | speaking-task | travel | Speaking Part 2 topic card: travel |
+| 027 | speaking | speaking-task | travel | Speaking Part 2 word cards on the theme of travel |
+| 028 | speaking | speaking-task | health | Speaking Part 2 topic card: health |
+| 029 | speaking | speaking-task | health | Speaking Part 2 word cards on the theme of health |
+| 030 | speaking | speaking-task | mixed | Speaking Part 3 picture cards for requests and questions |
+| 031 | speaking | speaking-task | mixed | Speaking Part 3 more picture cards for requests and questions |
 | 032 |  | none | none | Blank page with footer only |
 | 033 |  | instructions | none | Examiner sheets table of contents |
-| 034 | hoeren | listening-comprehension | mixed | Listening transcripts Part 1 phone messages |
-| 035 | hoeren | listening-comprehension | mixed | Listening transcripts Part 2 dialogues |
+| 034 | listening | listening-comprehension | mixed | Listening transcripts Part 1 phone messages |
+| 035 | listening | listening-comprehension | mixed | Listening transcripts Part 2 dialogues |
 | 036 | answer-key | answer-key | none | Answer key for listening, reading and writing rating |
-| 037 | schreiben | instructions | none | Writing assessment criteria and scoring guide |
-| 038 | sprechen | instructions | none | Speaking exam administration notes and moderator script |
-| 039 | sprechen | instructions | personal-info | Speaking Part 1 examiner guidance for self-introduction |
-| 040 | sprechen | instructions | travel | Speaking Part 2 examiner guidance and example card |
-| 041 | sprechen | instructions | mixed | Speaking Part 3 examiner guidance and closing script |
-| 042 | sprechen | instructions | none | Speaking assessment criteria and scoring guide |
+| 037 | writing | instructions | none | Writing assessment criteria and scoring guide |
+| 038 | speaking | instructions | none | Speaking exam administration notes and moderator script |
+| 039 | speaking | instructions | personal-info | Speaking Part 1 examiner guidance for self-introduction |
+| 040 | speaking | instructions | travel | Speaking Part 2 examiner guidance and example card |
+| 041 | speaking | instructions | mixed | Speaking Part 3 examiner guidance and closing script |
+| 042 | speaking | instructions | none | Speaking assessment criteria and scoring guide |
 | 043 |  | instructions | none | Overall scoring overview across all exam parts |
 | 044 |  | answer-key | none | Answer sheet for listening, reading and writing |
-| 045 | schreiben | answer-key | none | Writing answer sheet with rating grid |
-| 046 | sprechen | answer-key | none | Speaking assessment sheet for six participants |
+| 045 | writing | answer-key | none | Writing answer sheet with rating grid |
+| 046 | speaking | answer-key | none | Speaking assessment sheet for six participants |
 | 047 | answer-key | answer-key | none | Overall result sheet with grade scale |
 | 048 |  | none | none | Blank page with footer only |
 | 049 |  | none | none | Blank page with footer only |
@@ -120,7 +120,7 @@
 
 ---
 
-## Page 001  — [cover] · cover · none
+## Page 001  — cover · cover · none
 
 A1
 
@@ -138,13 +138,13 @@ INSTITUT
 
 Sprache. Kultur. Deutschland.
 
-## Page 002  — [intro] · none · none
+## Page 002  — intro · none · none
 
 überarbeitete Auflage von 2017
 
 © Goethe-Institut September 2025
 
-## Page 003  — [toc] · instructions · none
+## Page 003  — toc · instructions · none
 
 Fit in Deutsch · 1
 
@@ -181,11 +181,11 @@ Fit in Deutsch · 1
 
 Seite 1
 
-## Page 004  — [] · none · none
+## Page 004  — none · none
 
 Seite 2
 
-## Page 005  — [intro] · instructions · none
+## Page 005  — intro · instructions · none
 
 # Fit in Deutsch · 1
 
@@ -208,11 +208,11 @@ Nach Bestehen dieser Prüfung kann man sich auf ganz einfache Weise auf Deutsch 
 
 Seite 3
 
-## Page 006  — [] · none · none
+## Page 006  — none · none
 
 Seite 4
 
-## Page 007  — hoeren · [intro, instructions] · instructions · none
+## Page 007  — listening · intro, instructions · instructions · none
 
 Fit in Deutsch · 1
 
@@ -235,7 +235,7 @@ Lösungen auf den **Antwortbogen**.
 
 Seite 5
 
-## Page 008  — hoeren · [instructions, exercise] · listening-comprehension · communication
+## Page 008  — listening · instructions, exercise · listening-comprehension · communication
 
 # Fit in Deutsch · 1
 
@@ -262,7 +262,7 @@ Du hörst jede Nachricht **zweimal**.
 
 Seite 6
 
-## Page 009  — hoeren · [instructions, exercise, listening-sheet] · listening-comprehension · hobby
+## Page 009  — listening · instructions, exercise, listening-sheet · listening-comprehension · hobby
 
 # Hören
 
@@ -297,7 +297,7 @@ Markiere **dann** die Lösung zu Aufgabe 1 und 2.
 
 Seite 7
 
-## Page 010  — hoeren · [exercise, listening-sheet] · listening-comprehension · travel
+## Page 010  — listening · exercise, listening-sheet · listening-comprehension · travel
 
 # Fit in Deutsch · 1
 
@@ -328,7 +328,7 @@ Markiere **dann** die Lösung zu Aufgabe 3 und 4.
 
 Seite 8
 
-## Page 011  — hoeren · [exercise, listening-sheet] · listening-comprehension · hobby
+## Page 011  — listening · exercise, listening-sheet · listening-comprehension · hobby
 
 # Hören
 
@@ -359,7 +359,7 @@ Markiere **dann** die Lösung zu Aufgabe 5 und 6.
 
 Seite 9
 
-## Page 012  — hoeren · [instructions, exercise] · listening-comprehension · school
+## Page 012  — listening · instructions, exercise · listening-comprehension · school
 
 **Fit in Deutsch · 1**
 
@@ -392,7 +392,7 @@ richtig oder falsch.
 
 Seite 10
 
-## Page 013  — hoeren · [exercise, listening-sheet, instructions] · listening-comprehension · personal-info
+## Page 013  — listening · exercise, listening-sheet, instructions · listening-comprehension · personal-info
 
 # Hören
 
@@ -419,11 +419,11 @@ auf den **Antwortbogen**.
 
 Seite 11
 
-## Page 014  — [] · none · none
+## Page 014  — none · none
 
 Seite 12
 
-## Page 015  — lesen · [intro, instructions] · instructions · none
+## Page 015  — reading · intro, instructions · instructions · none
 
 Fit in Deutsch · 1
 
@@ -449,7 +449,7 @@ Wörterbücher sind **nicht** erlaubt.
 
 Seite 13
 
-## Page 016  — lesen · [instructions, reading-text, exercise] · reading-comprehension · hobby
+## Page 016  — reading · instructions, reading-text, exercise · reading-comprehension · hobby
 
 # Fit in Deutsch · 1
 
@@ -481,7 +481,7 @@ Interessiert? Dann komm zu uns und mach mit! Wir treffen uns jeden Tag um 13.30 
 
 Seite 14
 
-## Page 017  — lesen · [exercise, instructions] · multiple-choice · hobby
+## Page 017  — reading · exercise, instructions · multiple-choice · hobby
 
 # Lesen
 
@@ -533,7 +533,7 @@ Kreuze an: a, b oder c.
 
 Seite 15
 
-## Page 018  — lesen · [reading-text, exercise] · reading-comprehension · personal-info
+## Page 018  — reading · reading-text, exercise · reading-comprehension · personal-info
 
 Fit in Deutsch · 1
 
@@ -558,7 +558,7 @@ Meine Hobbys sind: Schwimmen, Rad fahren und ins Kino gehen. Manchmal muss ich m
 
 Seite 16
 
-## Page 019  — lesen · [exercise] · true-false · daily-routine
+## Page 019  — reading · exercise · true-false · daily-routine
 
 # Lesen
 
@@ -591,13 +591,13 @@ auf den **Antwortbogen.**
 
 Seite 17
 
-## Page 020  — [] · none · none
+## Page 020  — none · none
 
 <!-- This page is blank apart from the page footer. -->
 
 Seite 18
 
-## Page 021  — schreiben · [instructions] · instructions · none
+## Page 021  — writing · instructions · instructions · none
 
 Fit in Deutsch · 1
 
@@ -619,7 +619,7 @@ Wörterbücher sind **nicht** erlaubt.
 
 Seite 19
 
-## Page 022  — schreiben · [writing-prompt] · writing-task · vacation
+## Page 022  — writing · writing-prompt · writing-task · vacation
 
 # Fit in Deutsch · 1
 
@@ -638,7 +638,7 @@ Schreibe bitte nicht mit Bleistift.
 
 Seite 20
 
-## Page 023  — sprechen · [instructions, speaking-prompt] · instructions · none
+## Page 023  — speaking · instructions, speaking-prompt · instructions · none
 
 Fit in Deutsch · 1
 
@@ -656,13 +656,13 @@ Dieser Test hat drei Teile.
 
 Seite 21
 
-## Page 024  — [] · none · none
+## Page 024  — none · none
 
 <!-- This page is intentionally blank apart from the footer. -->
 
 Seite 22
 
-## Page 025  — sprechen · [speaking-prompt] · speaking-task · personal-info
+## Page 025  — speaking · speaking-prompt · speaking-task · personal-info
 
 # Sprechen
 
@@ -704,7 +704,7 @@ FIT1_ÜS02_Sprechen_Teil1
 
 Seite 23
 
-## Page 026  — sprechen · [speaking-prompt] · speaking-task · travel
+## Page 026  — speaking · speaking-prompt · speaking-task · travel
 
 Fit in Deutsch · 1
 
@@ -734,7 +734,7 @@ FIT1_ÜS02_Spr_Teil2_Reisen
 
 Seite 24
 
-## Page 027  — sprechen · [speaking-prompt] · speaking-task · travel
+## Page 027  — speaking · speaking-prompt · speaking-task · travel
 
 # Sprechen
 
@@ -819,7 +819,7 @@ Fragen stellen und auf Fragen antworten.
 
 Seite 25
 
-## Page 028  — sprechen · [speaking-prompt] · speaking-task · health
+## Page 028  — speaking · speaking-prompt · speaking-task · health
 
 Fit in Deutsch · 1
 
@@ -849,7 +849,7 @@ FIT1_ÜS02_Spr_Teil2_Gesund
 
 Seite 26
 
-## Page 029  — sprechen · [speaking-prompt] · speaking-task · health
+## Page 029  — speaking · speaking-prompt · speaking-task · health
 
 # Sprechen
 
@@ -870,7 +870,7 @@ Sechs Wortkarten (Bildkartenformat) für das Kartenspiel, Thema: Gesundheit. Jed
 
 Seite 27
 
-## Page 030  — sprechen · [speaking-prompt] · speaking-task · mixed
+## Page 030  — speaking · speaking-prompt · speaking-task · mixed
 
 # Fit in Deutsch · 1
 
@@ -913,7 +913,7 @@ antworten oder reagieren.
 
 Seite 28
 
-## Page 031  — sprechen · [speaking-prompt] · speaking-task · mixed
+## Page 031  — speaking · speaking-prompt · speaking-task · mixed
 
 # Sprechen
 
@@ -936,11 +936,11 @@ Bildkarten (jede Karte trägt oben links "Fit in Deutsch · 1" und oben rechts "
 
 Seite 29
 
-## Page 032  — [] · none · none
+## Page 032  — none · none
 
 Seite 30
 
-## Page 033  — [toc] · instructions · none
+## Page 033  — toc · instructions · none
 
 # Fit in Deutsch · 1
 
@@ -964,7 +964,7 @@ Prüferblätter
 
 Seite 31
 
-## Page 034  — hoeren · [listening-sheet] · listening-comprehension · mixed
+## Page 034  — listening · listening-sheet · listening-comprehension · mixed
 
 # Fit in Deutsch · 1
 
@@ -1000,7 +1000,7 @@ Hallo Jana, hier spricht Paul. Wir haben doch morgen in der Musikschule ein Konz
 
 Seite 32
 
-## Page 035  — hoeren · [instructions, listening-sheet] · listening-comprehension · mixed
+## Page 035  — listening · instructions, listening-sheet · listening-comprehension · mixed
 
 # Hören
 
@@ -1046,7 +1046,7 @@ Du hörst jedes Gespräch zweimal.
 
 Seite 33
 
-## Page 036  — answer-key · [answer-key] · answer-key · none
+## Page 036  — answer-key · answer-key · answer-key · none
 
 16298
 
@@ -1129,7 +1129,7 @@ Version R04SWV01.01
 
 Seite 34
 
-## Page 037  — schreiben · [instructions] · instructions · none
+## Page 037  — writing · instructions · instructions · none
 
 # Schreiben
 
@@ -1168,7 +1168,7 @@ Zur Ermittlung des Ergebnisses des Prüfungsteils Schreiben werden die Punktwert
 
 Seite 35
 
-## Page 038  — sprechen · [instructions] · instructions · none
+## Page 038  — speaking · instructions · instructions · none
 
 # Fit in Deutsch · 1
 
@@ -1199,7 +1199,7 @@ Vor Beginn der Prüfung erklärt der/die Moderator/-in den Ablauf folgendermaße
 
 Seite 36
 
-## Page 039  — sprechen · [instructions, speaking-prompt] · instructions · personal-info
+## Page 039  — speaking · instructions, speaking-prompt · instructions · personal-info
 
 # Sprechen
 
@@ -1246,7 +1246,7 @@ Und du, wer bist du, bitte?
 
 Seite 37
 
-## Page 040  — sprechen · [speaking-prompt, instructions] · instructions · travel
+## Page 040  — speaking · speaking-prompt, instructions · instructions · travel
 
 # Fit in Deutsch · 1
 
@@ -1293,7 +1293,7 @@ Bitte nimm eine Karte und frag deinen Mitschüler/deine Mitschülerin.
 
 Seite 38
 
-## Page 041  — sprechen · [instructions, speaking-prompt] · instructions · mixed
+## Page 041  — speaking · instructions, speaking-prompt · instructions · mixed
 
 # Sprechen
 
@@ -1330,7 +1330,7 @@ Tschüss!
 
 Seite 39
 
-## Page 042  — sprechen · [instructions] · instructions · none
+## Page 042  — speaking · instructions · instructions · none
 
 Fit in Deutsch · 1
 
@@ -1362,7 +1362,7 @@ Die Gesamtpunkte werden mit 1,5 multipliziert.
 
 Seite 40
 
-## Page 043  — [intro] · instructions · none
+## Page 043  — intro · instructions · none
 
 # Fit in Deutsch · 1
 
@@ -1383,7 +1383,7 @@ In den einzelnen Prüfungsteilen werden maximal folgende Punkte vergeben:
 
 Seite 41
 
-## Page 044  — [listening-sheet] · answer-key · none
+## Page 044  — listening-sheet · answer-key · none
 
 26855
 
@@ -1500,7 +1500,7 @@ Version R04ERPV01.03
 
 Seite 42
 
-## Page 045  — schreiben · [writing-prompt, answer-key] · answer-key · none
+## Page 045  — writing · writing-prompt, answer-key · answer-key · none
 
 [Barcode-Symbol oben links] 26855
 
@@ -1544,7 +1544,7 @@ Version R04ERPV01.03
 
 Seite 43
 
-## Page 046  — sprechen · [answer-key] · answer-key · none
+## Page 046  — speaking · answer-key · answer-key · none
 
 # Fit in Deutsch 1
 
@@ -1638,7 +1638,7 @@ _(Barcode und Datamatrix-Code unten links; zusätzliches Eintragungsfeld mit Kä
 
 Seite 44
 
-## Page 047  — answer-key · [answer-key] · answer-key · none
+## Page 047  — answer-key · answer-key · answer-key · none
 
 24545
 
@@ -1695,23 +1695,23 @@ Version R04SWV01.01
 
 Seite 45
 
-## Page 048  — [] · none · none
+## Page 048  — none · none
 
 Seite 46
 
-## Page 049  — [] · none · none
+## Page 049  — none · none
 
 Seite 47
 
-## Page 050  — [] · none · none
+## Page 050  — none · none
 
 Seite 48
 
-## Page 051  — [] · none · none
+## Page 051  — none · none
 
 <!-- This page is blank (no printed content). -->
 
-## Page 052  — [cover] · cover · none
+## Page 052  — cover · cover · none
 
 Goethe-Institut e.V.
 Oskar-von-Miller-Ring 18
