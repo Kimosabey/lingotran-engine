@@ -13,7 +13,8 @@
       "correct_answer": "✓",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Écoute et écris ✓ ou 〜 ou ✗ pour chaque personne."
     },
     {
       "section": "listening",
@@ -27,7 +28,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Écoute et écris ✓ ou 〜 ou ✗ pour chaque personne."
     },
     {
       "section": "listening",
@@ -41,7 +43,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Écoute et écris ✓ ou 〜 ou ✗ pour chaque personne."
     },
     {
       "section": "listening",
@@ -55,7 +58,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Écoute et écris ✓ ou 〜 ou ✗ pour chaque personne."
     },
     {
       "section": "listening",
@@ -69,7 +73,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Écoute et écris ✓ ou 〜 ou ✗ pour chaque personne."
     },
     {
       "section": "listening",
@@ -83,7 +88,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Écoute et écris ✓ ou 〜 ou ✗ pour chaque personne."
     },
     {
       "section": "speaking",
@@ -97,7 +103,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Travaillez à deux."
     },
     {
       "section": "writing",
@@ -111,7 +118,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "À deux, complétez la conversation."
     },
     {
       "section": "speaking",
@@ -125,7 +133,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "À deux, inventez une longue conversation."
     },
     {
       "section": "speaking",
@@ -139,7 +148,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "school",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Jouez à deux."
     },
     {
       "section": "writing",
@@ -153,7 +163,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie les bonnes phrases."
     },
     {
       "section": "writing",
@@ -167,7 +178,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie les bonnes phrases."
     },
     {
       "section": "writing",
@@ -181,7 +193,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie les bonnes phrases."
     },
     {
       "section": "writing",
@@ -195,7 +208,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie les bonnes phrases."
     },
     {
       "section": "writing",
@@ -209,7 +223,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie les bonnes phrases."
     },
     {
       "section": "writing",
@@ -223,7 +238,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie les bonnes phrases."
     },
     {
       "section": "writing",
@@ -237,7 +253,8 @@
       "correct_answer": "un",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie et complète."
     },
     {
       "section": "writing",
@@ -251,7 +268,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie et complète."
     },
     {
       "section": "writing",
@@ -265,7 +283,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie et complète."
     },
     {
       "section": "writing",
@@ -279,7 +298,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie et complète."
     },
     {
       "section": "writing",
@@ -293,7 +313,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie et complète."
     },
     {
       "section": "writing",
@@ -307,7 +328,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Copie et complète."
     },
     {
       "section": "writing",
@@ -321,7 +343,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "school",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Regarde le sac de Léa. Écris six phrases."
     },
     {
       "section": "listening",
@@ -335,7 +358,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "C'est l'anniversaire de Carine. Voici les cadeaux. Écoute la conversation et regarde les cadeaux. Qu'est-ce qui manque?"
     },
     {
       "section": "reading",
@@ -349,7 +373,8 @@
       "correct_answer": "C",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -363,7 +388,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -377,7 +403,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -391,7 +418,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -405,7 +433,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -419,7 +448,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -433,7 +463,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -447,7 +478,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -461,7 +493,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -475,7 +508,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "writing",
@@ -489,7 +523,8 @@
       "correct_answer": "chanson",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -503,7 +538,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -517,7 +553,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -531,7 +568,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -545,7 +583,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -559,7 +598,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -573,7 +613,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -587,7 +628,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "reading",
@@ -601,7 +643,8 @@
       "correct_answer": "Find the pairs.",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -615,7 +658,8 @@
       "correct_answer": "Look at the pictures.",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -629,7 +673,8 @@
       "correct_answer": "Listen and repeat.",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -643,7 +688,8 @@
       "correct_answer": "Listen and write …",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -657,7 +703,8 @@
       "correct_answer": "Copy and fill in …",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "writing",
@@ -671,7 +718,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Dessine un poster pour la classe."
     },
     {
       "section": "reading",
@@ -685,7 +733,8 @@
       "correct_answer": "à Paris",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -699,7 +748,8 @@
       "correct_answer": "dans un appartement",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -713,7 +763,8 @@
       "correct_answer": "en ville",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -727,7 +778,8 @@
       "correct_answer": "dans une ferme",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -741,7 +793,8 @@
       "correct_answer": "dans une maison",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -755,7 +808,8 @@
       "correct_answer": "un port en France",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -769,7 +823,8 @@
       "correct_answer": "à la montagne",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -783,7 +838,8 @@
       "correct_answer": "dans les Alpes",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -797,7 +853,8 @@
       "correct_answer": "près de La Rochelle",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Trouve le français."
     },
     {
       "section": "reading",
@@ -811,7 +868,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -825,7 +883,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -839,7 +898,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -853,7 +913,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -867,7 +928,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -881,7 +943,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -895,7 +958,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -909,7 +973,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -923,7 +988,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -937,7 +1003,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Lis les phrases 1–10. Vrai ou faux?"
     },
     {
       "section": "writing",
@@ -951,7 +1018,8 @@
       "correct_answer": "3 Camille habite dans un appartement en France (à Lille). 4 M. Lebrun habite dans une ferme. 5 M. Lebrun habite dans une ferme près de Trouville. 7 Lucas habite à Paris. 9 Julie habite à l'Île de Ré, près de La Rochelle.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Corrige les cinq phrases qui sont fausses."
     },
     {
       "section": "writing",
@@ -965,7 +1033,8 @@
       "correct_answer": "à Cherbourg.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "writing",
@@ -979,7 +1048,8 @@
       "correct_answer": "une maison.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "writing",
@@ -993,7 +1063,8 @@
       "correct_answer": "un appartement.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "writing",
@@ -1007,7 +1078,8 @@
       "correct_answer": "une ferme.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "writing",
@@ -1021,7 +1093,8 @@
       "correct_answer": "près de Toulouse.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "writing",
@@ -1035,7 +1108,8 @@
       "correct_answer": "une ville.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "writing",
@@ -1049,7 +1123,8 @@
       "correct_answer": "un village.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "writing",
@@ -1063,7 +1138,8 @@
       "correct_answer": "en France.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "speaking",
@@ -1077,7 +1153,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Écoute et lis. À deux, inventez des conversations. Changez les mots surlignés."
     },
     {
       "section": "listening",
@@ -1091,7 +1168,8 @@
       "correct_answer": "7",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "listening",
@@ -1105,7 +1183,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "listening",
@@ -1119,7 +1198,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "listening",
@@ -1133,7 +1213,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "listening",
@@ -1147,7 +1228,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "listening",
@@ -1161,7 +1243,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "listening",
@@ -1175,7 +1258,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "listening",
@@ -1189,7 +1273,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écoute et trouve les paires."
     },
     {
       "section": "reading",
@@ -1203,7 +1288,8 @@
       "correct_answer": "Sonia Charbonnier.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -1217,7 +1303,8 @@
       "correct_answer": "douze ans.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -1231,7 +1318,8 @@
       "correct_answer": "dans une maison.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -1245,7 +1333,8 @@
       "correct_answer": "un petit village.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -1259,7 +1348,8 @@
       "correct_answer": "de La Rochelle.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -1273,7 +1363,8 @@
       "correct_answer": "une ville en France.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "writing",
@@ -1287,7 +1378,8 @@
       "correct_answer": "Je m'appelle Sonia Charbonnier. J'ai douze ans. J'habite dans une maison. Ma maison est dans un petit village. Le village est près de La Rochelle. La Rochelle est une ville en France.",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Écris des phrases complètes."
     },
     {
       "section": "speaking",
@@ -1301,7 +1393,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "À deux, changez les mots surlignés."
     },
     {
       "section": "speaking",
@@ -1315,7 +1408,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "À deux, inventez une autre conversation. Ajoutez encore deux détails."
     },
     {
       "section": "reading",
@@ -1329,7 +1423,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1343,7 +1438,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1357,7 +1453,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1371,7 +1468,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1385,7 +1483,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1399,7 +1498,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1413,7 +1513,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1427,7 +1528,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les cinq phrases qui sont vraies."
     },
     {
       "section": "reading",
@@ -1441,7 +1543,8 @@
       "correct_answer": "lundi, Monday",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les paires et écris l'équivalent en anglais."
     },
     {
       "section": "reading",
@@ -1455,7 +1558,8 @@
       "correct_answer": "mardi, Tuesday",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les paires et écris l'équivalent en anglais."
     },
     {
       "section": "reading",
@@ -1469,7 +1573,8 @@
       "correct_answer": "mercredi, Wednesday",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les paires et écris l'équivalent en anglais."
     },
     {
       "section": "reading",
@@ -1483,7 +1588,8 @@
       "correct_answer": "jeudi, Thursday",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les paires et écris l'équivalent en anglais."
     },
     {
       "section": "reading",
@@ -1497,7 +1603,8 @@
       "correct_answer": "vendredi, Friday",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les paires et écris l'équivalent en anglais."
     },
     {
       "section": "reading",
@@ -1511,7 +1618,8 @@
       "correct_answer": "samedi, Saturday",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les paires et écris l'équivalent en anglais."
     },
     {
       "section": "reading",
@@ -1525,7 +1633,8 @@
       "correct_answer": "dimanche, Sunday",
       "level": "A1",
       "topic": "time-dates",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Trouve les paires et écris l'équivalent en anglais."
     },
     {
       "section": "speaking",
@@ -1539,7 +1648,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "mixed",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "À deux, inventez des conversations."
     },
     {
       "section": "reading",
@@ -1553,7 +1663,8 @@
       "correct_answer": "Thomas",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "reading",
@@ -1567,7 +1678,8 @@
       "correct_answer": "Louise",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "reading",
@@ -1581,7 +1693,8 @@
       "correct_answer": "Daniel",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "reading",
@@ -1595,7 +1708,8 @@
       "correct_answer": "M. Jean-Pierre Laurent",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "reading",
@@ -1609,7 +1723,8 @@
       "correct_answer": "Louise",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "reading",
@@ -1623,7 +1738,8 @@
       "correct_answer": "Mme Claire Laurent",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "reading",
@@ -1637,7 +1753,8 @@
       "correct_answer": "M. Jean-Pierre Laurent",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "reading",
@@ -1651,7 +1768,8 @@
       "correct_answer": "Louise",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Qui est-ce? Lis les phrases et écris les noms."
     },
     {
       "section": "writing",
@@ -1665,7 +1783,8 @@
       "correct_answer": "père",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Complète la description avec les mots de la case."
     },
     {
       "section": "writing",
@@ -1679,7 +1798,8 @@
       "correct_answer": "mère",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Complète la description avec les mots de la case."
     },
     {
       "section": "writing",
@@ -1693,7 +1813,8 @@
       "correct_answer": "famille",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Complète la description avec les mots de la case."
     },
     {
       "section": "writing",
@@ -1707,7 +1828,8 @@
       "correct_answer": "fille",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Complète la description avec les mots de la case."
     },
     {
       "section": "writing",
@@ -1721,7 +1843,8 @@
       "correct_answer": "fils",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Complète la description avec les mots de la case."
     },
     {
       "section": "writing",
@@ -1735,7 +1858,8 @@
       "correct_answer": "frères",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Complète la description avec les mots de la case."
     },
     {
       "section": "writing",
@@ -1749,7 +1873,8 @@
       "correct_answer": "sœur",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Complète la description avec les mots de la case."
     },
     {
       "section": "writing",
@@ -1763,7 +1888,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "family",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Invente une famille. Fais des dessins et écris une présentation."
     },
     {
       "section": "reading",
@@ -1777,7 +1903,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1791,7 +1918,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1805,7 +1933,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1819,7 +1948,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1833,7 +1963,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1847,7 +1978,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1861,7 +1993,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1875,7 +2008,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1889,7 +2023,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -1903,7 +2038,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "grammar",
@@ -1917,7 +2053,8 @@
       "correct_answer": "j'ai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "grammar",
@@ -1931,7 +2068,8 @@
       "correct_answer": "tu as",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "grammar",
@@ -1945,7 +2083,8 @@
       "correct_answer": "il a",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "grammar",
@@ -1959,7 +2098,8 @@
       "correct_answer": "elle a",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "grammar",
@@ -1973,7 +2113,8 @@
       "correct_answer": "ai",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "grammar",
@@ -1987,7 +2128,8 @@
       "correct_answer": "as",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "grammar",
@@ -2001,7 +2143,8 @@
       "correct_answer": "a",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "grammar",
@@ -2015,7 +2158,8 @@
       "correct_answer": "a",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Complète."
     },
     {
       "section": "writing",
@@ -2029,7 +2173,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "family",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Tu es Martin Martien. Décris ta famille. Imagine les détails."
     },
     {
       "section": "writing",
@@ -2043,7 +2188,8 @@
       "correct_answer": "Ma; mon",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète la description de la famille avec mon, ma ou mes."
     },
     {
       "section": "writing",
@@ -2057,7 +2203,8 @@
       "correct_answer": "mes",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète la description de la famille avec mon, ma ou mes."
     },
     {
       "section": "writing",
@@ -2071,7 +2218,8 @@
       "correct_answer": "Mon; mon",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète la description de la famille avec mon, ma ou mes."
     },
     {
       "section": "writing",
@@ -2085,7 +2233,8 @@
       "correct_answer": "Ma; ma",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète la description de la famille avec mon, ma ou mes."
     },
     {
       "section": "writing",
@@ -2099,7 +2248,8 @@
       "correct_answer": "mes; ma",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète la description de la famille avec mon, ma ou mes."
     },
     {
       "section": "writing",
@@ -2113,7 +2263,8 @@
       "correct_answer": "ta; ma",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète les questions et les réponses."
     },
     {
       "section": "writing",
@@ -2127,7 +2278,8 @@
       "correct_answer": "ta; ma",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète les questions et les réponses."
     },
     {
       "section": "writing",
@@ -2141,7 +2293,8 @@
       "correct_answer": "tes; mes",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète les questions et les réponses."
     },
     {
       "section": "writing",
@@ -2155,7 +2308,8 @@
       "correct_answer": "ton; mon",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète les questions et les réponses."
     },
     {
       "section": "writing",
@@ -2169,7 +2323,8 @@
       "correct_answer": "ton; mon",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Complète les questions et les réponses."
     },
     {
       "section": "listening",
@@ -2183,7 +2338,8 @@
       "correct_answer": "ma guitare",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Écoute quatre personnes qui parlent des choses importantes. Écris une liste pour chaque personne."
     },
     {
       "section": "listening",
@@ -2197,7 +2353,8 @@
       "correct_answer": "ma peluche",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Écoute quatre personnes qui parlent des choses importantes. Écris une liste pour chaque personne."
     },
     {
       "section": "listening",
@@ -2211,7 +2368,8 @@
       "correct_answer": "mon smartphone",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Écoute quatre personnes qui parlent des choses importantes. Écris une liste pour chaque personne."
     },
     {
       "section": "listening",
@@ -2225,7 +2383,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Écoute quatre personnes qui parlent des choses importantes. Écris une liste pour chaque personne."
     },
     {
       "section": "writing",
@@ -2239,7 +2398,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Écris ta liste personnelle."
     },
     {
       "section": "speaking",
@@ -2253,7 +2413,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "À deux, inventez une conversation avec les listes personnelles."
     },
     {
       "section": "reading",
@@ -2267,7 +2428,8 @@
       "correct_answer": "b",
       "level": "A1",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Choisis la bonne phrase."
     },
     {
       "section": "reading",
@@ -2281,7 +2443,8 @@
       "correct_answer": "b",
       "level": "A1",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Choisis la bonne phrase."
     },
     {
       "section": "reading",
@@ -2295,7 +2458,8 @@
       "correct_answer": "b",
       "level": "A1",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Choisis la bonne phrase."
     },
     {
       "section": "reading",
@@ -2309,7 +2473,8 @@
       "correct_answer": "a",
       "level": "A1",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Choisis la bonne phrase."
     },
     {
       "section": "reading",
@@ -2323,7 +2488,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Choisis la bonne phrase."
     },
     {
       "section": "reading",
@@ -2337,7 +2503,8 @@
       "correct_answer": "b",
       "level": "A1",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Choisis la bonne phrase."
     },
     {
       "section": "reading",
@@ -2351,7 +2518,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -2365,7 +2533,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -2379,7 +2548,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -2393,7 +2563,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -2407,7 +2578,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -2421,7 +2593,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -2435,7 +2608,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "reading",
@@ -2449,7 +2623,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Vrai ou faux?"
     },
     {
       "section": "writing",
@@ -2463,7 +2638,8 @@
       "correct_answer": "suis",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Complète le message."
     },
     {
       "section": "writing",
@@ -2477,7 +2653,8 @@
       "correct_answer": "est",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Complète le message."
     },
     {
       "section": "writing",
@@ -2491,7 +2668,8 @@
       "correct_answer": "est",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Complète le message."
     },
     {
       "section": "writing",
@@ -2505,7 +2683,8 @@
       "correct_answer": "Es",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Complète le message."
     },
     {
       "section": "writing",
@@ -2519,7 +2698,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Réponds à Yvan ou à Karine. Écris un paragraphe."
     },
     {
       "section": "writing",
@@ -2533,7 +2713,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Écris deux paragraphes – donne plus de détails."
     },
     {
       "section": "reading",
@@ -2547,7 +2728,8 @@
       "correct_answer": "J",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2561,7 +2743,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2575,7 +2758,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2589,7 +2773,8 @@
       "correct_answer": "I",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2603,7 +2788,8 @@
       "correct_answer": "A",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2617,7 +2803,8 @@
       "correct_answer": "B",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2631,7 +2818,8 @@
       "correct_answer": "C",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2645,7 +2833,8 @@
       "correct_answer": "D",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2659,7 +2848,8 @@
       "correct_answer": "E",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2673,7 +2863,8 @@
       "correct_answer": "F",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "C'est où?"
     },
     {
       "section": "reading",
@@ -2687,7 +2878,8 @@
       "correct_answer": "il y a huit pièces.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2701,7 +2893,8 @@
       "correct_answer": "dans la chambre de M. et Mme Laurent et dans la cuisine.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2715,7 +2908,8 @@
       "correct_answer": "dans la chambre de Louise.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2729,7 +2923,8 @@
       "correct_answer": "il y a cinq chaises et une table.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2743,7 +2938,8 @@
       "correct_answer": "il y a une station d'accueil MP3 et un portable.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2757,7 +2953,8 @@
       "correct_answer": "dans la chambre de Thomas et Daniel.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2771,7 +2968,8 @@
       "correct_answer": "il y a une télé.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2785,7 +2983,8 @@
       "correct_answer": "il y a un lecteur CD et un téléphone.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2799,7 +2998,8 @@
       "correct_answer": "il y a une radio et un téléphone.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2813,7 +3013,8 @@
       "correct_answer": "il y a deux lits, une console de jeux et une télé.",
       "level": "A1",
       "topic": "home",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "writing",
@@ -2827,7 +3028,8 @@
       "correct_answer": "dans",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "writing",
@@ -2841,7 +3043,8 @@
       "correct_answer": "sur",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "writing",
@@ -2855,7 +3058,8 @@
       "correct_answer": "dans",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "writing",
@@ -2869,7 +3073,8 @@
       "correct_answer": "sur",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "writing",
@@ -2883,7 +3088,8 @@
       "correct_answer": "dans (les crayons); (position de la boîte non précisée dans le texte)",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "writing",
@@ -2897,7 +3103,8 @@
       "correct_answer": "dans",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "writing",
@@ -2911,7 +3118,8 @@
       "correct_answer": "sous",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "writing",
@@ -2925,7 +3133,8 @@
       "correct_answer": "",
       "level": "A1",
       "topic": "home",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Complète les phrases avec sous, sur ou dans."
     },
     {
       "section": "grammar",
@@ -2939,7 +3148,8 @@
       "correct_answer": "a/an feminine = une; the masculine = le; my feminine = ma; your before a vowel = ton/ton",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Copy and complete:"
     },
     {
       "section": "reading",
@@ -2953,7 +3163,8 @@
       "correct_answer": "Il est sur la table.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2967,7 +3178,8 @@
       "correct_answer": "Elle est sous la table.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2981,7 +3193,8 @@
       "correct_answer": "Il est sous le lit.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -2995,7 +3208,8 @@
       "correct_answer": "Il est dans le jardin.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -3009,7 +3223,8 @@
       "correct_answer": "Elle est dans le jardin.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -3023,7 +3238,8 @@
       "correct_answer": "Elle est sur le lit.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -3037,7 +3253,8 @@
       "correct_answer": "Il est sur la chaise.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "reading",
@@ -3051,7 +3268,8 @@
       "correct_answer": "Il est dans le dragon.",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Trouve les paires."
     },
     {
       "section": "writing",
@@ -3065,7 +3283,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Écris trois phrases ou plus sur ta chambre. La description peut être vraie ou imaginaire."
     },
     {
       "section": "writing",
@@ -3079,7 +3298,8 @@
       "correct_answer": "(open-ended)",
       "level": "A1",
       "topic": "home",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Fais une présentation (électronique) sur ta maison ou ton appartement, avec des photos ou des dessins, si possible. Pour t'aider, regarde La maison de la famille Laurent (page 25)."
     },
     {
       "section": "reading",
@@ -3093,7 +3313,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Vrai ✓ ou faux ✗ ?"
     },
     {
       "section": "reading",
@@ -3107,7 +3328,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Vrai ✓ ou faux ✗ ?"
     },
     {
       "section": "reading",
@@ -3121,7 +3343,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Vrai ✓ ou faux ✗ ?"
     },
     {
       "section": "reading",
@@ -3135,7 +3358,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Vrai ✓ ou faux ✗ ?"
     },
     {
       "section": "reading",
@@ -3149,7 +3373,8 @@
       "correct_answer": "faux",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Vrai ✓ ou faux ✗ ?"
     },
     {
       "section": "reading",
@@ -3163,7 +3388,8 @@
       "correct_answer": "vrai",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Vrai ✓ ou faux ✗ ?"
     },
     {
       "section": "writing",
@@ -3177,7 +3403,8 @@
       "correct_answer": "an",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -3191,7 +3418,8 @@
       "correct_answer": "jeux vidéo",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -3205,7 +3433,8 @@
       "correct_answer": "trente; sœurs",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -3219,7 +3448,8 @@
       "correct_answer": "télé",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Complète les phrases."
     },
     {
       "section": "writing",
@@ -3233,7 +3463,8 @@
       "correct_answer": "sous",
       "level": "A1",
       "topic": "family",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Complète les phrases."
     }
   ]
 }
