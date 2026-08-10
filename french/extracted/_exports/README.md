@@ -24,9 +24,9 @@ and the per-book folders.
 
 | Sheet | Rows |
 |---|---|
-| `french-catalog-all.csv` | 404 |
-| `french-questions-all.csv` | 4164 |
-| `french-vocabulary-all.csv` | 3903 |
+| `french-catalog-all.csv` | 584 |
+| `french-questions-all.csv` | 6914 |
+| `french-vocabulary-all.csv` | 5566 |
 
 ## Books
 
@@ -34,7 +34,7 @@ and the per-book folders.
 |---|---|---|---|---|---|
 | Cosmopolite 1 - Methode de francais A1 * | `cosmopolite-a1-methode/` | included | 224 | 1751 | 1175 |
 | Tricolore 1 - 5e edition * | `tricolore-1-5th-edition/` | included | 180 | 2413 | 2728 |
-| Tricolore 2 - 5e edition | — | not yet processed | — | — | — |
+| Tricolore 2 - 5e edition | `tricolore-2-5th-edition/` | included | 180 | 2750 | 1663 |
 | Saison 2 - Methode de francais A2-B1 | — | not yet processed | — | — | — |
 | Cosmopolite 5 - Methode de francais C1-C2 | — | not yet processed | — | — | — |
 
