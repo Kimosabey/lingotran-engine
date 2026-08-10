@@ -246,6 +246,31 @@ Assembles the clean `_exports/` tree: `README.md` + `_combined/` (roll-ups) +
 one folder per book (its CSVs + `.md`). In-place, atomic per file, prunes
 stale files — safe to re-run.
 
+### Step 11b — Verify the deliverable [py]
+
+```bash
+python _engine/verify_exports.py --root french/extracted
+```
+
+The last gate before anything leaves the repo, and the only one that reads the
+CSVs a recipient actually opens. Non-zero exit = do not deliver. Checks:
+
+- **schema** — column names are English and identical across languages for the
+  same sheet, in canonical order (this is what `teil` vs `part` violated);
+- **taxonomy** — closed enums (`section`, `item_type`, `word_class`, `status`,
+  `qa`, `level`) hold only documented values, and **no taxonomy value contains
+  a non-ASCII letter in any language** — the generic form of German's
+  `section: hoeren`, which works unchanged for Japanese, Russian or Arabic;
+- **cell hygiene** — no HTML comments/entities, mojibake, embedded newlines,
+  control characters or ragged whitespace in human-read columns;
+- **structure** — every file parses, no ragged rows, no header-only files;
+- **references** — every `source_page` exists in that book's catalog;
+- **packaging** — each packaged file still matches its per-book source.
+
+Open vocabularies (`content_type`, `activity_type`, `topic`) are *reported* as
+drift rather than failed, since genuinely new categories are expected — but
+review the list, that is how `defective-image` reached a shipped catalog.
+
 ### Step 12 — Safety check, commit, report [py]
 
 ```bash
@@ -266,7 +291,11 @@ book. Delivery (Drive upload + notify) happens here; see a language's
 3. Row counts in the delivered CSVs match the source (row-count reconciliation
    is built into `build_exports.py`/`package_exports.py`; a `!! MISMATCH`
    line means stop).
-4. `git status --porcelain -- <frozen-lang>/` is empty.
+4. `verify_exports.py` reports `exports are clean and deliverable` (schema,
+   taxonomy, cell hygiene, page references, packaging drift). The first three
+   gates all pass on a book whose CSVs are unreadable — this is the one that
+   looks at what the recipient sees.
+5. `git status --porcelain -- <frozen-lang>/` is empty.
 
 ---
 

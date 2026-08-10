@@ -14,7 +14,7 @@
 | speaking | 10 |
 | reading | 9 |
 | writing | 5 |
-| answer-key | 1 |
+| none | 1 |
 
 **By content type**
 
@@ -102,7 +102,7 @@
 | 035 | listening | listening-comprehension | none | Listening transcript items 4-6. |
 | 036 | listening | listening-comprehension | none | Listening transcript Teil 2 announcements items 7-10. |
 | 037 | listening | listening-comprehension | none | Listening transcript Teil 3 messages items 11-15. |
-| 038 | answer-key | answer-key | none | Answer key for Listening, Reading, Writing tasks. |
+| 038 | none | answer-key | none | Answer key for Listening, Reading, Writing tasks. |
 | 039 | writing | answer-key | none | Writing assessment criteria and scoring guide. |
 | 040 | writing | answer-key | communication | Sample writing responses with awarded points. |
 | 041 | speaking | instructions | none | Oral exam guidance and Teil 1 introduction script. |
@@ -1218,7 +1218,7 @@ Schreiben Sie jetzt Ihre Lösungen 1 bis 15 auf den Antwortbogen.
 
 Seite 35
 
-## Page 038  — answer-key · answer-key · answer-key · none
+## Page 038  — none · answer-key · answer-key · none
 
 18929
 

@@ -14,7 +14,7 @@
 | listening | 10 |
 | reading | 5 |
 | writing | 4 |
-| answer-key | 1 |
+| none | 1 |
 
 **By content type**
 
@@ -100,7 +100,7 @@
 | 033 |  | instructions | none | Examiner sheets table of contents. |
 | 034 | listening | listening-comprehension | none | Listening transcripts for Part 1 phone messages. |
 | 035 | listening | listening-comprehension | none | Listening transcripts for Part 2 dialogues. |
-| 036 | answer-key | answer-key | none | Answer key for listening and reading plus writing rubric. |
+| 036 | none | answer-key | none | Answer key for listening and reading plus writing rubric. |
 | 037 | writing | instructions | none | Writing assessment criteria and scoring guidance. |
 | 038 | speaking | instructions | none | Speaking exam procedure notes and moderator introduction. |
 | 039 | speaking | instructions | personal-info | Speaking Part 1 examiner guidance for self-introduction. |
@@ -1025,7 +1025,7 @@ Du hörst jedes Gespräch zweimal.
 
 Seite 33
 
-## Page 036  — answer-key · answer-key · answer-key · none
+## Page 036  — none · answer-key · answer-key · none
 
 # Fit in Deutsch 1
 

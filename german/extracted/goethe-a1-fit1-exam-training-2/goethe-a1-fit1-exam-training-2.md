@@ -14,7 +14,7 @@
 | listening | 9 |
 | reading | 5 |
 | writing | 4 |
-| answer-key | 2 |
+| none | 2 |
 
 **By content type**
 
@@ -100,7 +100,7 @@
 | 033 |  | instructions | none | Examiner sheets table of contents |
 | 034 | listening | listening-comprehension | mixed | Listening transcripts Part 1 phone messages |
 | 035 | listening | listening-comprehension | mixed | Listening transcripts Part 2 dialogues |
-| 036 | answer-key | answer-key | none | Answer key for listening, reading and writing rating |
+| 036 | none | answer-key | none | Answer key for listening, reading and writing rating |
 | 037 | writing | instructions | none | Writing assessment criteria and scoring guide |
 | 038 | speaking | instructions | none | Speaking exam administration notes and moderator script |
 | 039 | speaking | instructions | personal-info | Speaking Part 1 examiner guidance for self-introduction |
@@ -111,7 +111,7 @@
 | 044 |  | answer-key | none | Answer sheet for listening, reading and writing |
 | 045 | writing | answer-key | none | Writing answer sheet with rating grid |
 | 046 | speaking | answer-key | none | Speaking assessment sheet for six participants |
-| 047 | answer-key | answer-key | none | Overall result sheet with grade scale |
+| 047 | none | answer-key | none | Overall result sheet with grade scale |
 | 048 |  | none | none | Blank page with footer only |
 | 049 |  | none | none | Blank page with footer only |
 | 050 |  | none | none | Blank page with footer only |
@@ -1046,7 +1046,7 @@ Du hörst jedes Gespräch zweimal.
 
 Seite 33
 
-## Page 036  — answer-key · answer-key · answer-key · none
+## Page 036  — none · answer-key · answer-key · none
 
 16298
 
@@ -1638,7 +1638,7 @@ _(Barcode und Datamatrix-Code unten links; zusätzliches Eintragungsfeld mit Kä
 
 Seite 44
 
-## Page 047  — answer-key · answer-key · answer-key · none
+## Page 047  — none · answer-key · answer-key · none
 
 24545
 

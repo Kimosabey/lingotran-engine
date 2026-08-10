@@ -12,7 +12,7 @@
 | (none) | 31 |
 | listening | 9 |
 | reading | 6 |
-| answer-key | 5 |
+| none | 5 |
 | writing | 5 |
 
 **By content type**
@@ -125,11 +125,11 @@
 | 046 | listening | none | none | Audio transcripts for chapters 6-8 (invitations, office day, doctor messages). |
 | 047 | listening | none | none | Audio transcripts for chapters 8-10 (doctor, apartments, moving, jobs). |
 | 048 | listening | none | none | Audio transcripts for chapters 11-12 (shopping talk, station announcements, travel questions). |
-| 049 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 1-3. |
-| 050 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 4-6. |
-| 051 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 6-8. |
-| 052 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 8-11. |
-| 053 | answer-key | answer-key | none | Answer key (Lösungen) for chapters 11-12. |
+| 049 | none | answer-key | none | Answer key (Lösungen) for chapters 1-3. |
+| 050 | none | answer-key | none | Answer key (Lösungen) for chapters 4-6. |
+| 051 | none | answer-key | none | Answer key (Lösungen) for chapters 6-8. |
+| 052 | none | answer-key | none | Answer key (Lösungen) for chapters 8-11. |
+| 053 | none | answer-key | none | Answer key (Lösungen) for chapters 11-12. |
 | 054 |  | instructions | none | Scoring guide: points-to-percent scale and Start Deutsch 1 writing/speaking criteria. |
 | 055 |  | instructions | none | Scoring guide: ÖSD Zertifikat A1 writing/speaking criteria, pass marks, grade bands. |
 | 056 |  | none | none | Picture credits and source list (Quellenverzeichnis). |
@@ -3206,7 +3206,7 @@ siebenundvierzig 47
 
 48 achtundvierzig
 
-## Page 049  — answer-key · answer-key · answer-key · none
+## Page 049  — none · answer-key · answer-key · none
 
 Lösungen  L
 
@@ -3329,7 +3329,7 @@ links. Dort ist die U-Bahn.
 
 neunundvierzig 49
 
-## Page 050  — answer-key · answer-key · answer-key · none
+## Page 050  — none · answer-key · answer-key · none
 
 **L** Lösungen
 
@@ -3429,7 +3429,7 @@ A2; B1; C5; D3; F4
 
 **50** fünfzig
 
-## Page 051  — answer-key · answer-key · answer-key · none
+## Page 051  — none · answer-key · answer-key · none
 
 # Lösungen · L
 
@@ -3527,7 +3527,7 @@ A3; B6; C4; D2; E1
 
 einundfünfzig 51
 
-## Page 052  — answer-key · answer-key · answer-key · none
+## Page 052  — none · answer-key · answer-key · none
 
 # L — Lösungen
 
@@ -3624,7 +3624,7 @@ Ich habe einen Bruder, Leon. Mein Lieblingsessen ist Pizza. Ich spreche Englisch
 
 52 zweiundfünfzig
 
-## Page 053  — answer-key · answer-key · answer-key · none
+## Page 053  — none · answer-key · answer-key · none
 
 Lösungen
 

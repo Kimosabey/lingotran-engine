@@ -63,8 +63,13 @@ def page_title(body):
             if '-->' not in s:
                 in_comment = True
             continue
+        s = re.sub(r'<!--.*?-->', ' ', s)
         s = re.sub(r'^#+\s*', '', s)
         s = re.sub(r'[*_`>|\[\]]', '', s).strip()
+        # &nbsp; and friends are markup, not printed text -- a title that reads
+        # "Arbeitsalltag &nbsp; 7" in a spreadsheet is a leaked entity, not a
+        # heading. Collapse to spaces before the whitespace run is squeezed.
+        s = re.sub(r'&(nbsp|#160|thinsp|ensp|emsp);', ' ', s)
         s = ' '.join(s.split())
         if not s or re.match(r'^Seite\s+\d+$', s, re.I) or re.match(r'^\d+$', s):
             continue

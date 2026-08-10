@@ -13,7 +13,7 @@
 | listening | 11 |
 | reading | 10 |
 | speaking | 10 |
-| answer-key | 2 |
+| none | 2 |
 | writing | 2 |
 
 **By content type**
@@ -100,8 +100,8 @@
 | 034 | listening | listening-comprehension | none | Listening transcripts for Part 1 items 4-6. |
 | 035 | listening | listening-comprehension | none | Listening transcripts for Part 2 announcements 7-10. |
 | 036 | listening | listening-comprehension | none | Listening transcripts for Part 3 phone messages 11-15. |
-| 037 | answer-key | answer-key | none | Answer key for Listening, Reading, and Writing Part 1. |
-| 038 | answer-key | answer-key | none | Writing scoring criteria with sample candidate texts and grades. |
+| 037 | none | answer-key | none | Answer key for Listening, Reading, and Writing Part 1. |
+| 038 | none | answer-key | none | Writing scoring criteria with sample candidate texts and grades. |
 | 039 | speaking | instructions | none | Examiner notes and scripts for oral exam Part 1. |
 | 040 | speaking | instructions | none | Examiner scripts for spelling, numbers, and Speaking Part 2. |
 | 041 | speaking | instructions | none | Examiner notes and scripts for Speaking Part 3 requests. |
@@ -1304,7 +1304,7 @@ Schreiben Sie jetzt Ihre Lösungen 1 bis 15 auf den **Antwortbogen**.
 
 Seite 37
 
-## Page 037  — answer-key · answer-key · answer-key · none
+## Page 037  — none · answer-key · answer-key · none
 
 19795
 
@@ -1395,7 +1395,7 @@ PS | M | S |
 Version R04SWV01.01
 19795-LoeBo-MS-02/2024
 
-## Page 038  — answer-key · answer-key · answer-key · none
+## Page 038  — none · answer-key · answer-key · none
 
 # Lösungen
 

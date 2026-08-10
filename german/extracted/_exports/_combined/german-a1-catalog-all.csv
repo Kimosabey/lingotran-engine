@@ -35,8 +35,8 @@ goethe-a1-sd1-exam-training-1,page-033,listening,listening-sheet,listening-compr
 goethe-a1-sd1-exam-training-1,page-034,listening,listening-sheet,listening-comprehension,none,A1,verified,pass,143,Listening transcripts for Part 1 items 4-6.,Hören
 goethe-a1-sd1-exam-training-1,page-035,listening,"exercise, listening-sheet",listening-comprehension,none,A1,verified,pass,188,Listening transcripts for Part 2 announcements 7-10.,Start Deutsch 1
 goethe-a1-sd1-exam-training-1,page-036,listening,"instructions, listening-sheet",listening-comprehension,none,A1,verified,pass,193,Listening transcripts for Part 3 phone messages 11-15.,Hören
-goethe-a1-sd1-exam-training-1,page-037,answer-key,answer-key,answer-key,none,A1,verified,pass,354,"Answer key for Listening, Reading, and Writing Part 1.",Start Deutsch 1
-goethe-a1-sd1-exam-training-1,page-038,answer-key,answer-key,answer-key,none,A1,verified,pass,332,Writing scoring criteria with sample candidate texts and grades.,Lösungen
+goethe-a1-sd1-exam-training-1,page-037,none,answer-key,answer-key,none,A1,verified,pass,354,"Answer key for Listening, Reading, and Writing Part 1.",Start Deutsch 1
+goethe-a1-sd1-exam-training-1,page-038,none,answer-key,answer-key,none,A1,verified,pass,332,Writing scoring criteria with sample candidate texts and grades.,Lösungen
 goethe-a1-sd1-exam-training-1,page-039,speaking,"instructions, speaking-prompt",instructions,none,A1,verified,pass,232,Examiner notes and scripts for oral exam Part 1.,Start Deutsch 1
 goethe-a1-sd1-exam-training-1,page-040,speaking,"instructions, speaking-prompt",instructions,none,A1,verified,pass,345,"Examiner scripts for spelling, numbers, and Speaking Part 2.",Sprechen
 goethe-a1-sd1-exam-training-1,page-041,speaking,"speaking-prompt, instructions",instructions,none,A1,verified,pass,184,Examiner notes and scripts for Speaking Part 3 requests.,Start Deutsch 1
@@ -83,7 +83,7 @@ goethe-a1-sd1-exam-training-2,page-034,listening,"instructions, listening-sheet"
 goethe-a1-sd1-exam-training-2,page-035,listening,listening-sheet,listening-comprehension,none,A1,verified,pass,157,Listening transcript items 4-6.,Hören
 goethe-a1-sd1-exam-training-2,page-036,listening,"exercise, listening-sheet",listening-comprehension,none,A1,verified,pass,219,Listening transcript Teil 2 announcements items 7-10.,Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-037,listening,"instructions, listening-sheet",listening-comprehension,none,A1,verified,pass,241,Listening transcript Teil 3 messages items 11-15.,Hören
-goethe-a1-sd1-exam-training-2,page-038,answer-key,answer-key,answer-key,none,A1,verified,pass,354,"Answer key for Listening, Reading, Writing tasks.",Start Deutsch 1
+goethe-a1-sd1-exam-training-2,page-038,none,answer-key,answer-key,none,A1,verified,pass,354,"Answer key for Listening, Reading, Writing tasks.",Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-039,writing,"answer-key, instructions",answer-key,none,A1,verified,pass,93,Writing assessment criteria and scoring guide.,Schreiben
 goethe-a1-sd1-exam-training-2,page-040,writing,"writing-prompt, answer-key",answer-key,communication,A1,verified,pass,266,Sample writing responses with awarded points.,Start Deutsch 1
 goethe-a1-sd1-exam-training-2,page-041,speaking,"instructions, speaking-prompt",instructions,none,A1,verified,pass,220,Oral exam guidance and Teil 1 introduction script.,Sprechen
@@ -130,7 +130,7 @@ goethe-a1-sd1-exam-training-3,page-034,listening,listening-sheet,listening-compr
 goethe-a1-sd1-exam-training-3,page-035,listening,listening-sheet,listening-comprehension,mixed,A1,verified,pass,159,Listening transcripts for items 4-6.,Hören
 goethe-a1-sd1-exam-training-3,page-036,listening,"instructions, listening-sheet",listening-comprehension,travel,A1,verified,pass,205,"Listening transcripts Part 2 announcements, items 7-10.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-037,listening,"instructions, listening-sheet",listening-comprehension,mixed,A1,verified,pass,262,"Listening transcripts Part 3 phone messages, items 11-15.",Hören
-goethe-a1-sd1-exam-training-3,page-038,answer-key,answer-key,answer-key,none,A1,verified,pass,345,"Answer key for Listening, Reading, and Writing sections.",Start Deutsch 1
+goethe-a1-sd1-exam-training-3,page-038,none,answer-key,answer-key,none,A1,verified,pass,345,"Answer key for Listening, Reading, and Writing sections.",Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-039,writing,"instructions, answer-key",answer-key,none,A1,verified,pass,93,Writing assessment criteria and scoring scale.,Schreiben
 goethe-a1-sd1-exam-training-3,page-040,writing,"writing-prompt, answer-key",answer-key,communication,A1,verified,pass,246,Sample writing answers with scores for the email task.,Start Deutsch 1
 goethe-a1-sd1-exam-training-3,page-041,speaking,"instructions, speaking-prompt",instructions,none,A1,verified,pass,218,Oral exam guidance and Part 1 self-introduction script.,Sprechen
@@ -204,7 +204,7 @@ goethe-a1-fit1-exam-training-1,page-032,,,none,none,A1,verified,pass,2,Blank pag
 goethe-a1-fit1-exam-training-1,page-033,,toc,instructions,none,A1,verified,pass,75,Examiner sheets table of contents.,Fit in Deutsch · 1
 goethe-a1-fit1-exam-training-1,page-034,listening,"instructions, listening-sheet",listening-comprehension,none,A1,verified,pass,218,Listening transcripts for Part 1 phone messages.,Fit in Deutsch · 1
 goethe-a1-fit1-exam-training-1,page-035,listening,"instructions, listening-sheet",listening-comprehension,none,A1,verified,pass,293,Listening transcripts for Part 2 dialogues.,Hören
-goethe-a1-fit1-exam-training-1,page-036,answer-key,answer-key,answer-key,none,A1,verified,pass,392,Answer key for listening and reading plus writing rubric.,Fit in Deutsch 1
+goethe-a1-fit1-exam-training-1,page-036,none,answer-key,answer-key,none,A1,verified,pass,392,Answer key for listening and reading plus writing rubric.,Fit in Deutsch 1
 goethe-a1-fit1-exam-training-1,page-037,writing,"instructions, answer-key",instructions,none,A1,verified,pass,300,Writing assessment criteria and scoring guidance.,Schreiben
 goethe-a1-fit1-exam-training-1,page-038,speaking,"instructions, speaking-prompt",instructions,none,A1,verified,pass,195,Speaking exam procedure notes and moderator introduction.,Fit in Deutsch · 1
 goethe-a1-fit1-exam-training-1,page-039,speaking,"speaking-prompt, instructions",instructions,personal-info,A1,verified,pass,116,Speaking Part 1 examiner guidance for self-introduction.,Sprechen
@@ -256,7 +256,7 @@ goethe-a1-fit1-exam-training-2,page-032,,,none,none,A1,verified,pass,2,Blank pag
 goethe-a1-fit1-exam-training-2,page-033,,toc,instructions,none,A1,verified,pass,75,Examiner sheets table of contents,Fit in Deutsch · 1
 goethe-a1-fit1-exam-training-2,page-034,listening,listening-sheet,listening-comprehension,mixed,A1,verified,pass,262,Listening transcripts Part 1 phone messages,Fit in Deutsch · 1
 goethe-a1-fit1-exam-training-2,page-035,listening,"instructions, listening-sheet",listening-comprehension,mixed,A1,verified,pass,357,Listening transcripts Part 2 dialogues,Hören
-goethe-a1-fit1-exam-training-2,page-036,answer-key,answer-key,answer-key,none,A1,verified,pass,394,"Answer key for listening, reading and writing rating",Fit in Deutsch 1
+goethe-a1-fit1-exam-training-2,page-036,none,answer-key,answer-key,none,A1,verified,pass,394,"Answer key for listening, reading and writing rating",Fit in Deutsch 1
 goethe-a1-fit1-exam-training-2,page-037,writing,instructions,instructions,none,A1,verified,pass,297,Writing assessment criteria and scoring guide,Schreiben
 goethe-a1-fit1-exam-training-2,page-038,speaking,instructions,instructions,none,A1,verified,pass,195,Speaking exam administration notes and moderator script,Fit in Deutsch · 1
 goethe-a1-fit1-exam-training-2,page-039,speaking,"instructions, speaking-prompt",instructions,personal-info,A1,verified,pass,108,Speaking Part 1 examiner guidance for self-introduction,Sprechen
@@ -267,7 +267,7 @@ goethe-a1-fit1-exam-training-2,page-043,,intro,instructions,none,A1,verified,pas
 goethe-a1-fit1-exam-training-2,page-044,,listening-sheet,answer-key,none,A1,verified,pass,426,"Answer sheet for listening, reading and writing",Fit in Deutsch 1
 goethe-a1-fit1-exam-training-2,page-045,writing,"writing-prompt, answer-key",answer-key,none,A1,verified,pass,142,Writing answer sheet with rating grid,Barcode-Symbol oben links 26855
 goethe-a1-fit1-exam-training-2,page-046,speaking,answer-key,answer-key,none,A1,verified,pass,464,Speaking assessment sheet for six participants,Fit in Deutsch 1
-goethe-a1-fit1-exam-training-2,page-047,answer-key,answer-key,answer-key,none,A1,verified,pass,193,Overall result sheet with grade scale,Fit in Deutsch 1
+goethe-a1-fit1-exam-training-2,page-047,none,answer-key,answer-key,none,A1,verified,pass,193,Overall result sheet with grade scale,Fit in Deutsch 1
 goethe-a1-fit1-exam-training-2,page-048,,,none,none,A1,verified,pass,2,Blank page with footer only,
 goethe-a1-fit1-exam-training-2,page-049,,,none,none,A1,verified,pass,2,Blank page with footer only,
 goethe-a1-fit1-exam-training-2,page-050,,,none,none,A1,verified,pass,2,Blank page with footer only,
@@ -415,7 +415,7 @@ netzwerk-a1-test-booklet,page-007,,exercise,fill-in,personal-info,A1,verified,pa
 netzwerk-a1-test-booklet,page-008,,"exercise, reading-text, writing-prompt, instructions",fill-in,personal-info,A1,verified,pass,120,Chapter 1: read profiles to note info; fill a course registration form.,1 Guten Tag!
 netzwerk-a1-test-booklet,page-009,,"chapter-opener, exercise, listening-sheet, vocabulary",listening-comprehension,profession,A1,verified,pass,290,"Chapter 2: listening true/false, correct phone numbers, and odd-one-out vocabulary.","Freunde, Kollegen und ich 2"
 netzwerk-a1-test-booklet,page-010,,exercise,fill-in,profession,A1,verified,pass,202,"Chapter 2: form yes/no questions, conjugate verbs, articles and plural forms.","2 Freunde, Kollegen und ich"
-netzwerk-a1-test-booklet,page-011,,"exercise, writing-prompt, speaking-prompt",fill-in,personal-info,A1,verified,pass,152,Chapter 2: fill a yoga-course registration form; speaking task introducing yourself.,"Freunde, Kollegen und ich&emsp;&emsp;2"
+netzwerk-a1-test-booklet,page-011,,"exercise, writing-prompt, speaking-prompt",fill-in,personal-info,A1,verified,pass,152,Chapter 2: fill a yoga-course registration form; speaking task introducing yourself.,"Freunde, Kollegen und ich 2"
 netzwerk-a1-test-booklet,page-012,,"chapter-opener, listening-sheet, exercise, reading-text",listening-comprehension,city-places,A1,verified,pass,283,"Chapter 3 Hamburg: listening notes, listening choice, and reading gap-fill.",3 In Hamburg
 netzwerk-a1-test-booklet,page-013,,exercise,fill-in,city-places,A1,verified,pass,278,"Chapter 3: crossword, choose ein/kein articles, write imperative directions.",In Hamburg 3
 netzwerk-a1-test-booklet,page-014,,"exercise, vocabulary, speaking-prompt",vocabulary,city-places,A1,verified,pass,116,Chapter 3: transport words with articles; speaking task asking for directions.,3 In Hamburg
@@ -429,7 +429,7 @@ netzwerk-a1-test-booklet,page-021,,"chapter-opener, listening-sheet, exercise, v
 netzwerk-a1-test-booklet,page-022,reading,"exercise, reading-text, dialogue",reading-comprehension,mixed,A1,verified,pass,380,"Separable verbs, past tense of haben/sein, and true/false reading of public signs.",6 · Zeit mit Freunden
 netzwerk-a1-test-booklet,page-023,writing,"exercise, writing-prompt, speaking-prompt, picture-story",writing-task,hobby,A1,verified,pass,190,Write a birthday invitation and speak to arrange four meet-ups with a partner.,Zeit mit Freunden 6
 netzwerk-a1-test-booklet,page-024,,"chapter-opener, exercise, listening-sheet, review",listening-comprehension,profession,A1,verified,pass,331,"Chapter 7 opener: office listening choices, computer verb vocabulary, workday preposition gap-fill.",7 Arbeitsalltag
-netzwerk-a1-test-booklet,page-025,reading,"exercise, reading-text",reading-comprehension,profession,A1,verified,pass,419,Connectors und/oder/aber and reading three job-related ads with yes/no questions.,Arbeitsalltag &nbsp; 7
+netzwerk-a1-test-booklet,page-025,reading,"exercise, reading-text",reading-comprehension,profession,A1,verified,pass,419,Connectors und/oder/aber and reading three job-related ads with yes/no questions.,Arbeitsalltag 7
 netzwerk-a1-test-booklet,page-026,writing,"exercise, reading-text, writing-prompt",writing-task,profession,A1,verified,pass,182,Write a roughly 30-word email reply arranging a farewell for an intern.,7 Arbeitsalltag
 netzwerk-a1-test-booklet,page-027,writing,"exercise, writing-prompt, speaking-prompt",fill-in,profession,A1,verified,pass,222,"Fill a newsletter form from a text, then practise office small talk.",Arbeitsalltag 7
 netzwerk-a1-test-booklet,page-028,,"chapter-opener, exercise, listening-sheet, vocabulary, review",listening-comprehension,health,A1,verified,pass,282,"Chapter 8 opener: medical listening choices, health odd-one-out vocabulary, naming body parts.",8 Fit und gesund
@@ -453,11 +453,11 @@ netzwerk-a1-test-booklet,page-045,listening,"audio-script, dialogue",none,none,A
 netzwerk-a1-test-booklet,page-046,listening,"audio-script, listening-sheet",none,none,A1,verified,pass,743,"Audio transcripts for chapters 6-8 (invitations, office day, doctor messages).",T Transkripte
 netzwerk-a1-test-booklet,page-047,listening,audio-script,none,none,A1,verified,pass,687,"Audio transcripts for chapters 8-10 (doctor, apartments, moving, jobs).",Transkripte
 netzwerk-a1-test-booklet,page-048,listening,audio-script,none,none,A1,verified,pass,631,"Audio transcripts for chapters 11-12 (shopping talk, station announcements, travel questions).",T Transkripte
-netzwerk-a1-test-booklet,page-049,answer-key,answer-key,answer-key,none,A1,verified,pass,455,Answer key (Lösungen) for chapters 1-3.,Lösungen L
-netzwerk-a1-test-booklet,page-050,answer-key,answer-key,answer-key,none,A1,verified,pass,534,Answer key (Lösungen) for chapters 4-6.,L Lösungen
-netzwerk-a1-test-booklet,page-051,answer-key,answer-key,answer-key,none,A1,verified,pass,508,Answer key (Lösungen) for chapters 6-8.,Lösungen · L
-netzwerk-a1-test-booklet,page-052,answer-key,answer-key,answer-key,none,A1,verified,pass,490,Answer key (Lösungen) for chapters 8-11.,L — Lösungen
-netzwerk-a1-test-booklet,page-053,answer-key,answer-key,answer-key,none,A1,verified,pass,574,Answer key (Lösungen) for chapters 11-12.,Lösungen
+netzwerk-a1-test-booklet,page-049,none,answer-key,answer-key,none,A1,verified,pass,455,Answer key (Lösungen) for chapters 1-3.,Lösungen L
+netzwerk-a1-test-booklet,page-050,none,answer-key,answer-key,none,A1,verified,pass,534,Answer key (Lösungen) for chapters 4-6.,L Lösungen
+netzwerk-a1-test-booklet,page-051,none,answer-key,answer-key,none,A1,verified,pass,508,Answer key (Lösungen) for chapters 6-8.,Lösungen · L
+netzwerk-a1-test-booklet,page-052,none,answer-key,answer-key,none,A1,verified,pass,490,Answer key (Lösungen) for chapters 8-11.,L — Lösungen
+netzwerk-a1-test-booklet,page-053,none,answer-key,answer-key,none,A1,verified,pass,574,Answer key (Lösungen) for chapters 11-12.,Lösungen
 netzwerk-a1-test-booklet,page-054,,instructions,instructions,none,A1,verified,pass,447,Scoring guide: points-to-percent scale and Start Deutsch 1 writing/speaking criteria.,Bewertung und Benotung
 netzwerk-a1-test-booklet,page-055,,instructions,instructions,none,A1,verified,pass,484,"Scoring guide: ÖSD Zertifikat A1 writing/speaking criteria, pass marks, grade bands.",Bewertung und Benotung
 netzwerk-a1-test-booklet,page-056,,toc,none,none,A1,verified,pass,311,Picture credits and source list (Quellenverzeichnis).,Quellenverzeichnis
