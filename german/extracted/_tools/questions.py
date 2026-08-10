@@ -80,7 +80,19 @@ def main(argv):
             print('%-32s no _questions.json, skipped' % slug)
             continue
         rows = [row_for(slug, it) for it in items]
-        with open(os.path.join(ROOT, slug, '%s-questions.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
+        out_path = os.path.join(ROOT, slug, '%s-questions.csv' % slug)
+        if not rows:
+            # A pure word-list booklet has no exercises at all. Emitting a
+            # header-only CSV puts an empty file in the deliverable that reads
+            # as "questions are missing" rather than "this book has none" --
+            # and it is already inconsistent with the exam-training booklets,
+            # which simply have no vocabulary CSV. Skip it, and clear any
+            # header-only file left behind by an earlier run.
+            if os.path.exists(out_path):
+                os.remove(out_path)
+            print('%-32s   0 items - no questions CSV emitted (word-list booklet)' % slug)
+            continue
+        with open(out_path, 'w', encoding='utf-8-sig', newline='') as f:
             w = csv.DictWriter(f, fieldnames=COLUMNS)
             w.writeheader()
             w.writerows(rows)
