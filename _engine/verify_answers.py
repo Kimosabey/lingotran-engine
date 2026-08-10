@@ -44,7 +44,45 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import parse_root, load_collection_list, atomic_write_text
+from _common import parse_root, load_collections, load_collection_list, atomic_write_text
+
+# A true/false item is answered in the BOOK's language, so the words to expect
+# are a per-language fact, not a constant. They lived hardcoded as French
+# vrai/faux until 2026-08-10, which meant pointing this gate at German produced
+# 70 false "doesn't start with Vrai/Faux" flags against perfectly correct
+# Richtig/Falsch answers -- and would have done the same for every language
+# added later. Override per language in collections.json:
+#
+#   "true_false_terms": {"true": ["richtig"], "false": ["falsch"],
+#                        "not_mentioned": ["nicht genannt"]}
+#
+# `not_mentioned` covers the three-way "Vrai, faux ou pas mentionné?" format,
+# which is a real printed exercise type, not a malformed answer.
+DEFAULT_TF_TERMS = {
+    'french': {'true': ['vrai'], 'false': ['faux'],
+               'not_mentioned': ['pas mentionne', 'pas mentionné', 'non mentionne',
+                                 'non mentionné']},
+    'german': {'true': ['richtig'], 'false': ['falsch'],
+               'not_mentioned': ['nicht genannt', 'nicht im text']},
+}
+FALLBACK_TF_TERMS = {'true': ['true'], 'false': ['false'], 'not_mentioned': ['not mentioned']}
+
+
+def tf_terms(root, cfg):
+    """Resolve the true/false vocabulary for this language."""
+    explicit = cfg.get('true_false_terms')
+    if explicit:
+        return {k: [str(v).lower() for v in explicit.get(k, [])] for k in
+                ('true', 'false', 'not_mentioned')}
+    lang = os.path.basename(os.path.dirname(root)).lower()
+    return DEFAULT_TF_TERMS.get(lang, FALLBACK_TF_TERMS)
+
+
+def _starts_with_any(text, words):
+    for w in words:
+        if w and re.match(r'^\s*%s\b' % re.escape(w), text, re.I):
+            return w
+    return None
 
 LETTER_RE = re.compile(r'^[a-dA-D]\.?$')
 OPEN_ENDED_TYPES = {'writing-task', 'speaking-task', 'open-ended'}
@@ -56,11 +94,12 @@ def _letter_option(item, letter):
     return item.get('option_' + letter.lower().rstrip('.'), '')
 
 
-def verify_collection(root, c):
+def verify_collection(root, c, cfg=None):
     # `c` is a collection dict from collections.json; a bare slug string is
     # also accepted (treated as a fixed-level collection) for back-compat.
     if isinstance(c, str):
         c = {'slug': c}
+    cfg = cfg or {}
     slug = c['slug']
     level_mode = c.get('level_mode', 'fixed')
     level_options = set(c.get('level_options', []))
@@ -96,52 +135,40 @@ def verify_collection(root, c):
             continue
 
         if it.get('item_type') == 'true-false':
-            if re.match(r'^(pas|non)\s+mentionn', ans, re.I):
-                # Three-way "Vrai, faux ou pas mentionné?" exercises are a real,
-                # printed French coursebook format (Tricolore 2 p123 sets it out
-                # verbatim, with "pas mentionné" as its own worked example), so
-                # "pas mentionné" is a legitimate true-false answer, not a
-                # mistyped item_type. Normalize the leading word's case the same
-                # way Vrai/Faux are handled, then stop -- without this the whole
-                # exercise reads as malformed and NEEDS REPAIR PASS never clears.
-                if not re.match(r'^(Pas|Non)\b', it['correct_answer']):
-                    it['correct_answer'] = re.sub(
-                        r'^(\s*)(pas|non)\b',
-                        lambda m: m.group(1) + m.group(2).capitalize(),
-                        it['correct_answer'], count=1, flags=re.I)
-                    fixed += 1
-            elif ans in ('vrai', 'faux'):
-                # `ans` IS the whole answer already (the `in` check above only
-                # matches when the stripped value is exactly "vrai"/"faux",
-                # nothing trails it) -- use it directly rather than slicing
-                # the ORIGINAL unstripped string by the STRIPPED string's
-                # length, which corrupts the result whenever correct_answer
-                # had leading whitespace (" vrai" -> wrongly became "Vraii").
-                it['correct_answer'] = ans.capitalize()
-                fixed += 1
-            elif re.match(r'^(vrai|faux)\b', ans):
-                # A common, genuinely valid true-false pattern: "faux -- <the
-                # actual correct statement>" (the item is false, and the real
-                # answer is given as a correction). Only the leading word's
-                # capitalization is wrong -- capitalize just that word in
-                # place via a count=1 substitution on the ORIGINAL string (not
-                # a slice-and-concatenate, which is exactly what corrupted
-                # this same field once already -- see IT2-P1-2). Everything
-                # after the leading word, including any leading whitespace
-                # before it, is left byte-for-byte untouched.
-                it['correct_answer'] = re.sub(
-                    r'^(\s*)(vrai|faux)\b',
-                    lambda m: m.group(1) + m.group(2).capitalize(),
-                    it['correct_answer'], count=1)
-                fixed += 1
-            elif not re.match(r'^(Vrai|Faux)\b', it['correct_answer']):
-                # \b (not "(\s|$)") so an already-correct "Faux. <explanation>"
-                # or "Faux, ..." -- punctuation immediately after the word,
-                # no space -- isn't falsely flagged as malformed. \b matches
-                # at any letter/non-letter boundary, whitespace or otherwise.
-                issues.append('%s/%s: true-false correct_answer "%s" doesn\'t start with Vrai/Faux - '
-                              'likely mistyped as true-false (looks like category-sorting), check item_type'
-                              % (it.get('source_page'), it.get('item'), ans[:50]))
+            # The expected words come from the language config, not a constant.
+            # Three-way "true / false / not mentioned" exercises are a real
+            # printed format (Tricolore 2 p123 sets it out verbatim, with "pas
+            # mentionne" as its own worked example), so a not-mentioned answer
+            # is legitimate rather than a mistyped item_type.
+            terms = tf_terms(root, cfg)
+            allowed = terms['true'] + terms['false'] + terms['not_mentioned']
+            hit = _starts_with_any(ans, allowed)
+            if hit:
+                if ans.lower() == hit:
+                    # The answer is EXACTLY the term and nothing else, so use
+                    # the stripped value directly. Never slice the ORIGINAL
+                    # string by the STRIPPED string's length -- that is what
+                    # turned " vrai" into "Vraii" once already; see IT2-P1-2.
+                    if it['correct_answer'] != ans.capitalize():
+                        it['correct_answer'] = ans.capitalize()
+                        fixed += 1
+                else:
+                    # "faux -- <the actual correct statement>": the item is
+                    # false and the real answer follows it. Only the leading
+                    # word's capitalisation can be wrong, so fix that in place
+                    # and leave everything else, including any leading
+                    # whitespace, byte-for-byte untouched.
+                    m = re.match(r'^(\s*)(%s)' % re.escape(hit), it['correct_answer'], re.I)
+                    if m and not m.group(2)[:1].isupper():
+                        it['correct_answer'] = (m.group(1) + m.group(2).capitalize()
+                                                + it['correct_answer'][m.end():])
+                        fixed += 1
+            else:
+                issues.append('%s/%s: true-false correct_answer "%s" does not start with any '
+                              'expected term for this language (%s) - likely mistyped as '
+                              'true-false, check item_type'
+                              % (it.get('source_page'), it.get('item'), ans[:50],
+                                 '/'.join(w.capitalize() for w in terms['true'] + terms['false'])))
 
         if it.get('item_type') == 'multiple-choice':
             if LETTER_RE.match(ans):
@@ -211,7 +238,8 @@ def verify_collection(root, c):
 
 def main(argv):
     root = parse_root(argv)
-    cols = load_collection_list(root)
+    cfg = load_collections(root)
+    cols = cfg['collections']
     targets = cols if '--all' in argv else [c for c in cols if c['slug'] in set(argv)]
     if not targets:
         print('No matching collections. Use --all or a slug from collections.json.')
@@ -220,7 +248,7 @@ def main(argv):
         if c.get('frozen'):
             print('%-32s frozen - skipped' % c['slug'])
             continue
-        verify_collection(root, c)
+        verify_collection(root, c, cfg)
 
 
 if __name__ == '__main__':

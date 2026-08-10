@@ -1,17 +1,17 @@
 ﻿collection,section,part,item,item_type,question,option_a,option_b,option_c,correct_answer,level,topic,source_page
-netzwerk-a1-test-booklet,listening,Übung 1,1,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Danke, sehr gut!",Guten Morgen.,,a,A1,personal-info,006
+netzwerk-a1-test-booklet,listening,Übung 1,1,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Danke, sehr gut!",Guten Morgen.,,"Danke, sehr gut!",A1,personal-info,006
 netzwerk-a1-test-booklet,listening,Übung 2,1,true-false,Der Mann heißt Boris Schmidt.,Richtig,Falsch,,Falsch,A1,personal-info,006
 netzwerk-a1-test-booklet,,Übung 3,1,fill-in,○ ___ ist das? ● Das ist Viktoria Kurz.,,,,Wer,A1,personal-info,006
-netzwerk-a1-test-booklet,listening,Übung 1,2,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Ich bin Niklas.,"Auch gut, danke.",,b,A1,personal-info,006
+netzwerk-a1-test-booklet,listening,Übung 1,2,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Ich bin Niklas.,"Auch gut, danke.",,"Auch gut, danke.",A1,personal-info,006
 netzwerk-a1-test-booklet,listening,Übung 2,2,true-false,Er kommt aus der Schweiz.,Richtig,Falsch,,Falsch,A1,personal-info,006
 netzwerk-a1-test-booklet,,Übung 3,2,fill-in,"○ ___ Sprachen spricht sie? ● Spanisch, Englisch und Deutsch.",,,,Welche,A1,personal-info,006
-netzwerk-a1-test-booklet,listening,Übung 1,3,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Tschüs! Bis bald!,Entschuldigung!,,a,A1,personal-info,006
+netzwerk-a1-test-booklet,listening,Übung 1,3,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Tschüs! Bis bald!,Entschuldigung!,,Tschüs! Bis bald!,A1,personal-info,006
 netzwerk-a1-test-booklet,listening,Übung 2,3,true-false,Er wohnt in Salzburg.,Richtig,Falsch,,Richtig,A1,personal-info,006
 netzwerk-a1-test-booklet,,Übung 3,3,fill-in,○ ___ kommt sie? ● Aus Deutschland.,,,,Woher,A1,personal-info,006
-netzwerk-a1-test-booklet,listening,Übung 1,4,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Guten Morgen, Frau Weber!",Auf Wiedersehen!,,a,A1,personal-info,006
+netzwerk-a1-test-booklet,listening,Übung 1,4,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Guten Morgen, Frau Weber!",Auf Wiedersehen!,,"Guten Morgen, Frau Weber!",A1,personal-info,006
 netzwerk-a1-test-booklet,listening,Übung 2,4,true-false,Er spricht Deutsch und Italienisch.,Richtig,Falsch,,Falsch,A1,personal-info,006
 netzwerk-a1-test-booklet,,Übung 3,4,fill-in,○ ___ wohnt sie? ● In Frankfurt.,,,,Wo,A1,personal-info,006
-netzwerk-a1-test-booklet,listening,Übung 1,5,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Danke, sehr gut.","Entschuldigung, wie heißen Sie?",,b,A1,personal-info,006
+netzwerk-a1-test-booklet,listening,Übung 1,5,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Danke, sehr gut.","Entschuldigung, wie heißen Sie?",,"Entschuldigung, wie heißen Sie?",A1,personal-info,006
 netzwerk-a1-test-booklet,listening,Übung 2,5,true-false,Er lernt Arabisch.,Richtig,Falsch,,Richtig,A1,personal-info,006
 netzwerk-a1-test-booklet,,Übung 3,5,fill-in,○ Und er? ___ heißt er? ● Martin Berg.,,,,Wie,A1,personal-info,006
 netzwerk-a1-test-booklet,,Übung 4,1,ordering,Schreiben Sie W-Fragen und Aussagesätze: Sie / wie / heißen / ?,,,,Wie heißen Sie?,A1,personal-info,007
@@ -40,19 +40,19 @@ netzwerk-a1-test-booklet,writing,Übung 8,4,writing-task,Ergänzen Sie das Formu
 netzwerk-a1-test-booklet,reading,Übung 7,5,short-answer,Lesen Sie und notieren Sie die Informationen. Kateb – Sprachen: ___,,,,"Arabisch, Französisch, Deutsch",A1,personal-info,008
 netzwerk-a1-test-booklet,writing,Übung 8,5,writing-task,Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): E-Mail-Adresse,,,,(open-ended),A1,personal-info,008
 netzwerk-a1-test-booklet,listening,Übung 1,1,true-false,Cem und Elias spielen zusammen Fußball.,Richtig,Falsch,,Richtig,A1,profession,009
-netzwerk-a1-test-booklet,listening,Übung 2,1,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0421 89 75 54,0421 89 74 45,,b,A1,communication,009
+netzwerk-a1-test-booklet,listening,Übung 2,1,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0421 89 75 54,0421 89 74 45,,0421 89 74 45,A1,communication,009
 netzwerk-a1-test-booklet,vocabulary,Übung 3,1,multiple-choice,Was passt nicht? Streichen Sie durch: lesen – schwimmen – kochen – arbeiten,,,,arbeiten,A1,profession,009
 netzwerk-a1-test-booklet,listening,Übung 1,2,true-false,Paula hat am Montag frei.,Richtig,Falsch,,Richtig,A1,profession,009
-netzwerk-a1-test-booklet,listening,Übung 2,2,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0165 886 732 14,0156 887 632 14,,b,A1,communication,009
+netzwerk-a1-test-booklet,listening,Übung 2,2,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0165 886 732 14,0156 887 632 14,,0156 887 632 14,A1,communication,009
 netzwerk-a1-test-booklet,vocabulary,Übung 3,2,multiple-choice,Was passt nicht? Streichen Sie durch: die Ärztin – die Freundin – die Ingenieurin – die Journalistin,,,,die Freundin,A1,profession,009
 netzwerk-a1-test-booklet,listening,Übung 1,3,true-false,Lena ist Studentin.,Richtig,Falsch,,Richtig,A1,profession,009
-netzwerk-a1-test-booklet,listening,Übung 2,3,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,030 787 65 42,030 786 75 42,,a,A1,communication,009
+netzwerk-a1-test-booklet,listening,Übung 2,3,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,030 787 65 42,030 786 75 42,,030 787 65 42,A1,communication,009
 netzwerk-a1-test-booklet,vocabulary,Übung 3,3,multiple-choice,Was passt nicht? Streichen Sie durch: der Wohnort – der Club – das Geburtsdatum – die Straße,,,,der Club,A1,profession,009
 netzwerk-a1-test-booklet,listening,Übung 1,4,true-false,Herr Wenzel ist Journalist.,Richtig,Falsch,,Falsch,A1,profession,009
-netzwerk-a1-test-booklet,listening,Übung 2,4,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,07171 88 34 01,01717 88 34 01,,a,A1,communication,009
+netzwerk-a1-test-booklet,listening,Übung 2,4,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,07171 88 34 01,01717 88 34 01,,07171 88 34 01,A1,communication,009
 netzwerk-a1-test-booklet,vocabulary,Übung 3,4,multiple-choice,Was passt nicht? Streichen Sie durch: der Mittwoch – der Dienstag – der Donnerstag – das Wochenende,,,,das Wochenende,A1,profession,009
 netzwerk-a1-test-booklet,listening,Übung 1,5,true-false,Anna Schulte ist Ärztin.,Richtig,Falsch,,Falsch,A1,profession,009
-netzwerk-a1-test-booklet,listening,Übung 2,5,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0221 16 20 137,0221 16 20 173,,a,A1,communication,009
+netzwerk-a1-test-booklet,listening,Übung 2,5,multiple-choice,Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.,0221 16 20 137,0221 16 20 173,,0221 16 20 137,A1,communication,009
 netzwerk-a1-test-booklet,vocabulary,Übung 3,5,multiple-choice,Was passt nicht? Streichen Sie durch: das Krankenhaus – das Theater – das Kino – das Museum,,,,das Krankenhaus,A1,profession,009
 netzwerk-a1-test-booklet,,Übung 4,1,ordering,Schreiben Sie Ja-/Nein-Fragen: Studenten / ihr / seid / ?,,,,Seid ihr Studenten?,A1,profession,010
 netzwerk-a1-test-booklet,,Übung 5,1,fill-in,___ (sein) du Polizistin?,,,,Bist,A1,profession,010
@@ -76,19 +76,19 @@ netzwerk-a1-test-booklet,writing,Übung 7,3,writing-task,Füllen Sie das Anmelde
 netzwerk-a1-test-booklet,writing,Übung 7,4,writing-task,"Füllen Sie das Anmeldeformular (Yogakurs) aus: Straße, Hausnummer",,,,(open-ended),A1,personal-info,011
 netzwerk-a1-test-booklet,writing,Übung 7,5,writing-task,"Füllen Sie das Anmeldeformular (Yogakurs) aus: Postleitzahl, Wohnort",,,,(open-ended),A1,personal-info,011
 netzwerk-a1-test-booklet,listening,Übung 1,1,short-answer,Hören Sie und notieren Sie: Was: ins ___ gehen,,,,Kino,A1,city-places,012
-netzwerk-a1-test-booklet,listening,Übung 2,1,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Das ist keine Kirche.,Gehen Sie geradeaus und dann rechts.,,b,A1,city-places,012
+netzwerk-a1-test-booklet,listening,Übung 2,1,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Das ist keine Kirche.,Gehen Sie geradeaus und dann rechts.,,Gehen Sie geradeaus und dann rechts.,A1,city-places,012
 netzwerk-a1-test-booklet,reading,Übung 3,1,fill-in,"Ich bin im Sommer gern am ___, da fahren viele Schiffe.",,,,Hafen,A1,city-places,012
 netzwerk-a1-test-booklet,listening,Übung 1,2,short-answer,Hören Sie und notieren Sie: Wann: am ___,,,,Freitag,A1,city-places,012
-netzwerk-a1-test-booklet,listening,Übung 2,2,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Am Sonntag.,Ich habe kein Ticket.,,a,A1,city-places,012
+netzwerk-a1-test-booklet,listening,Übung 2,2,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Am Sonntag.,Ich habe kein Ticket.,,Am Sonntag.,A1,city-places,012
 netzwerk-a1-test-booklet,reading,Übung 3,2,fill-in,Ich ___ die Elbphilharmonie sehr gern.,,,,fotografiere,A1,city-places,012
 netzwerk-a1-test-booklet,listening,Übung 1,3,short-answer,Hören Sie und notieren Sie: Wo: im ___,,,,Park/Sommerkino,A1,city-places,012
-netzwerk-a1-test-booklet,listening,Übung 2,3,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Das ist ein Fluss.,"Ja, das ist ein Fluss.",,a,A1,city-places,012
+netzwerk-a1-test-booklet,listening,Übung 2,3,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,Das ist ein Fluss.,"Ja, das ist ein Fluss.",,Das ist ein Fluss.,A1,city-places,012
 netzwerk-a1-test-booklet,reading,Übung 3,3,fill-in,Im September und ___ ist das Filmfest.,,,,Oktober,A1,city-places,012
 netzwerk-a1-test-booklet,listening,Übung 1,4,short-answer,Hören Sie und notieren Sie: Wie: U-Bahn und dann ___,,,,zu Fuß,A1,city-places,012
-netzwerk-a1-test-booklet,listening,Übung 2,4,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Ja, das ist ein Festival.","Nein, das sind keine Konzertkarten.",,b,A1,city-places,012
+netzwerk-a1-test-booklet,listening,Übung 2,4,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Ja, das ist ein Festival.","Nein, das sind keine Konzertkarten.",,"Nein, das sind keine Konzertkarten.",A1,city-places,012
 netzwerk-a1-test-booklet,reading,Übung 3,4,fill-in,Da gibt es über 100 ___.,,,,Filme,A1,city-places,012
 netzwerk-a1-test-booklet,listening,Übung 1,5,short-answer,Hören Sie und notieren Sie: Telefonnummer: ___,,,,4879983,A1,city-places,012
-netzwerk-a1-test-booklet,listening,Übung 2,5,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Ja, sehr gern.","Ja, das ist ein See.",,a,A1,city-places,012
+netzwerk-a1-test-booklet,listening,Übung 2,5,multiple-choice,Hören Sie. Welche Antwort passt? Kreuzen Sie an.,"Ja, sehr gern.","Ja, das ist ein See.",,"Ja, sehr gern.",A1,city-places,012
 netzwerk-a1-test-booklet,reading,Übung 3,5,fill-in,Das ist einfach super und sehr ___.,,,,interessant,A1,city-places,012
 netzwerk-a1-test-booklet,vocabulary,Übung 4,1,fill-in,Ergänzen Sie (Lösungswort-Rätsel): 250 km/h. Der Zug fährt sehr …,,,,schnell,A1,city-places,013
 netzwerk-a1-test-booklet,,Übung 5,1,fill-in,○ Was ist das? ● Das ist ___ Kirche.,,,,eine,A1,city-places,013
@@ -112,19 +112,19 @@ netzwerk-a1-test-booklet,vocabulary,Übung 7,2,short-answer,Schreiben Sie das Wo
 netzwerk-a1-test-booklet,vocabulary,Übung 7,3,short-answer,Schreiben Sie das Wort mit Artikel: Bild 3: Straßenbahn,,,,die Straßenbahn,A1,city-places,014
 netzwerk-a1-test-booklet,vocabulary,Übung 7,4,short-answer,Schreiben Sie das Wort mit Artikel: Bild 4: Bus,,,,der Bus,A1,city-places,014
 netzwerk-a1-test-booklet,vocabulary,Übung 7,5,short-answer,Schreiben Sie das Wort mit Artikel: Bild 5: Fahrrad,,,,das Fahrrad,A1,city-places,014
-netzwerk-a1-test-booklet,listening,Übung 1,1,multiple-choice,Was kosten die drei Limonaden?,"2,30 €.","6,60 €.","6,90 €.",c,A1,food,015
+netzwerk-a1-test-booklet,listening,Übung 1,1,multiple-choice,Was kosten die drei Limonaden?,"2,30 €.","6,60 €.","6,90 €.","6,90 €.",A1,food,015
 netzwerk-a1-test-booklet,vocabulary,Übung 2,1,multiple-choice,Was passt nicht? Streichen Sie durch: die Gurke – die Tomate – die Zwiebel – die Schokolade,,,,die Schokolade,A1,food,015
 netzwerk-a1-test-booklet,,Übung 3,1,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: (1) ___ Tomaten brauche ich für die Nudeln.,,,,Die,A1,food,015
-netzwerk-a1-test-booklet,listening,Übung 1,2,multiple-choice,Was isst die Frau?,Suppe.,Fisch.,Salat.,c,A1,food,015
+netzwerk-a1-test-booklet,listening,Übung 1,2,multiple-choice,Was isst die Frau?,Suppe.,Fisch.,Salat.,Salat.,A1,food,015
 netzwerk-a1-test-booklet,vocabulary,Übung 2,2,multiple-choice,Was passt nicht? Streichen Sie durch: die Flasche – das Gramm – die Packung – die Dose,,,,das Gramm,A1,food,015
 netzwerk-a1-test-booklet,,Übung 3,2,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Ich mache noch (2) ___ Suppe.,,,,eine,A1,food,015
-netzwerk-a1-test-booklet,listening,Übung 1,3,multiple-choice,Was braucht der Mann?,Eine Tüte.,Den Kassenzettel.,Orangen.,a,A1,food,015
+netzwerk-a1-test-booklet,listening,Übung 1,3,multiple-choice,Was braucht der Mann?,Eine Tüte.,Den Kassenzettel.,Orangen.,Eine Tüte.,A1,food,015
 netzwerk-a1-test-booklet,vocabulary,Übung 2,3,multiple-choice,Was passt nicht? Streichen Sie durch: der Apfel – der Salat – die Birne – die Banane,,,,der Salat,A1,food,015
 netzwerk-a1-test-booklet,,Übung 3,3,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Und (3) ___ Kuchen essen wir später zum Kaffee.,,,,den,A1,food,015
-netzwerk-a1-test-booklet,listening,Übung 1,4,multiple-choice,Wo kauft Lilli das Brot?,Im Supermarkt.,Auf dem Markt.,In der Bäckerei.,c,A1,food,015
+netzwerk-a1-test-booklet,listening,Übung 1,4,multiple-choice,Wo kauft Lilli das Brot?,Im Supermarkt.,Auf dem Markt.,In der Bäckerei.,In der Bäckerei.,A1,food,015
 netzwerk-a1-test-booklet,vocabulary,Übung 2,4,multiple-choice,Was passt nicht? Streichen Sie durch: das Brot – die Butter – das Brötchen – der Kuchen,,,,die Butter,A1,food,015
 netzwerk-a1-test-booklet,,Übung 3,4,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Hast du auch (4) ___ Tee?,,,,einen,A1,food,015
-netzwerk-a1-test-booklet,listening,Übung 1,5,multiple-choice,Wie viel Schinken kauft Herr Anvers?,100 Gramm.,150 Gramm.,200 Gramm.,c,A1,food,015
+netzwerk-a1-test-booklet,listening,Übung 1,5,multiple-choice,Wie viel Schinken kauft Herr Anvers?,100 Gramm.,150 Gramm.,200 Gramm.,200 Gramm.,A1,food,015
 netzwerk-a1-test-booklet,vocabulary,Übung 2,5,multiple-choice,Was passt nicht? Streichen Sie durch: die Cola – der/das Joghurt – der Käse – die Milch,,,,die Cola,A1,food,015
 netzwerk-a1-test-booklet,,Übung 3,5,fill-in,Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Ich trinke so spät (5) ___ Kaffee.,,,,keinen,A1,food,015
 netzwerk-a1-test-booklet,reading,Übung 4,1,true-false,Ela mag den Kartoffelsalat von Tina.,Richtig,Falsch,,Richtig,A1,food,016
@@ -148,30 +148,30 @@ netzwerk-a1-test-booklet,,Übung 6,4,fill-in,Ergänzen Sie (Position und Form be
 netzwerk-a1-test-booklet,writing,Übung 7,4,writing-task,Was essen Sie heute Abend?,,,,(open-ended),A1,food,017
 netzwerk-a1-test-booklet,,Übung 6,5,fill-in,Ergänzen Sie (Position und Form beachten): Am Nachmittag ___ gern ein Stück Kuchen. (mein Mann / mögen),,,,mag mein Mann,A1,food,017
 netzwerk-a1-test-booklet,writing,Übung 7,5,writing-task,Was kochen Sie gern?,,,,(open-ended),A1,food,017
-netzwerk-a1-test-booklet,listening,Übung 1,1,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,16:45 Uhr.,17:15 Uhr.,16:15 Uhr.,a,A1,time-dates,018
-netzwerk-a1-test-booklet,listening,Übung 1,2,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,18:00 Uhr.,18:30 Uhr.,17:30 Uhr.,c,A1,time-dates,018
-netzwerk-a1-test-booklet,listening,Übung 1,3,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,08:25 Uhr.,09:25 Uhr.,09:35 Uhr.,a,A1,time-dates,018
-netzwerk-a1-test-booklet,listening,Übung 1,4,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,12:35 Uhr.,11:35 Uhr.,11:25 Uhr.,b,A1,time-dates,018
-netzwerk-a1-test-booklet,listening,Übung 1,5,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,15:40 Uhr.,14:15 Uhr.,14:50 Uhr.,b,A1,time-dates,018
+netzwerk-a1-test-booklet,listening,Übung 1,1,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,16:45 Uhr.,17:15 Uhr.,16:15 Uhr.,16:45 Uhr.,A1,time-dates,018
+netzwerk-a1-test-booklet,listening,Übung 1,2,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,18:00 Uhr.,18:30 Uhr.,17:30 Uhr.,17:30 Uhr.,A1,time-dates,018
+netzwerk-a1-test-booklet,listening,Übung 1,3,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,08:25 Uhr.,09:25 Uhr.,09:35 Uhr.,08:25 Uhr.,A1,time-dates,018
+netzwerk-a1-test-booklet,listening,Übung 1,4,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,12:35 Uhr.,11:35 Uhr.,11:25 Uhr.,11:35 Uhr.,A1,time-dates,018
+netzwerk-a1-test-booklet,listening,Übung 1,5,multiple-choice,Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.,15:40 Uhr.,14:15 Uhr.,14:50 Uhr.,14:15 Uhr.,A1,time-dates,018
 netzwerk-a1-test-booklet,listening,Übung 2,A,matching,Foto A (Leute betrachten ein Foto / Fotoalbum am Tisch) — Text Nr. ___,,,,2,A1,daily-routine,018
 netzwerk-a1-test-booklet,listening,Übung 2,B,matching,Foto B (ältere Frau und junger Mann zeigen nach draußen) — Text Nr. ___,,,,1,A1,daily-routine,018
 netzwerk-a1-test-booklet,listening,Übung 2,C,matching,Foto C (Frau und Mann kochen in der Küche) — Text Nr. ___,,,,5,A1,daily-routine,018
 netzwerk-a1-test-booklet,listening,Übung 2,D,matching,Foto D (Frau und Mann sprechen auf einer Treppe) — Text Nr. ___,,,,3,A1,daily-routine,018
 netzwerk-a1-test-booklet,listening,Übung 2,E,matching,Foto E (Mann und Frau kaufen Gemüse im Supermarkt) — Text Nr. ___,,,,(kein Text – Bild ist zu viel),A1,daily-routine,018
 netzwerk-a1-test-booklet,listening,Übung 2,F,matching,Foto F (Mann im Auto reicht etwas über den Sitz) — Text Nr. ___,,,,4,A1,daily-routine,018
-netzwerk-a1-test-booklet,reading,Übung 3,1,multiple-choice,Welche Reaktion passt? Ich hätte gern einen Termin am Dienstag. Geht das?,"Nein, macht nichts.","Ja, da geht es um 10:30 Uhr.",,b,A1,daily-routine,019
+netzwerk-a1-test-booklet,reading,Übung 3,1,multiple-choice,Welche Reaktion passt? Ich hätte gern einen Termin am Dienstag. Geht das?,"Nein, macht nichts.","Ja, da geht es um 10:30 Uhr.",,"Ja, da geht es um 10:30 Uhr.",A1,daily-routine,019
 netzwerk-a1-test-booklet,,Übung 4,1,fill-in,Ergänzen Sie den Possessivartikel: Mein Sohn und (1) ___ Freundin spielen Saxofon.,,,,seine/meine,A1,family,019
 netzwerk-a1-test-booklet,,Übung 5,1,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: Noah / heute / bis 20 Uhr / arbeiten / müssen / .",,,,Heute muss Noah bis 20 Uhr arbeiten.,A1,daily-routine,019
-netzwerk-a1-test-booklet,reading,Übung 3,2,multiple-choice,Welche Reaktion passt? Können Sie am Freitag um 15:00 Uhr kommen?,"Nein, da kann ich leider nicht.",Bitte entschuldigen Sie.,,a,A1,daily-routine,019
+netzwerk-a1-test-booklet,reading,Übung 3,2,multiple-choice,Welche Reaktion passt? Können Sie am Freitag um 15:00 Uhr kommen?,"Nein, da kann ich leider nicht.",Bitte entschuldigen Sie.,,"Nein, da kann ich leider nicht.",A1,daily-routine,019
 netzwerk-a1-test-booklet,,Übung 4,2,fill-in,Ergänzen Sie den Possessivartikel: Die Kinder müssen (2) ___ Hausaufgaben machen.,,,,ihre,A1,family,019
 netzwerk-a1-test-booklet,,Übung 5,2,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: meine Kinder / am Nachmittag / Hausaufgaben / machen / müssen / .",,,,Meine Kinder müssen am Nachmittag Hausaufgaben machen.,A1,daily-routine,019
-netzwerk-a1-test-booklet,reading,Übung 3,3,multiple-choice,Welche Reaktion passt? Wie spät ist es?,Um kurz vor vier.,Es ist Viertel vor vier.,,b,A1,daily-routine,019
+netzwerk-a1-test-booklet,reading,Übung 3,3,multiple-choice,Welche Reaktion passt? Wie spät ist es?,Um kurz vor vier.,Es ist Viertel vor vier.,,Es ist Viertel vor vier.,A1,daily-routine,019
 netzwerk-a1-test-booklet,,Übung 4,3,fill-in,Ergänzen Sie den Possessivartikel: Kann (3) ___ Mann das nicht machen?,,,,dein,A1,family,019
 netzwerk-a1-test-booklet,,Übung 5,3,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: ich / am Freitag / ins Kino / gehen / wollen / .",,,,Am Freitag will ich ins Kino gehen.,A1,daily-routine,019
-netzwerk-a1-test-booklet,reading,Übung 3,4,multiple-choice,Welche Reaktion passt? Was machst du morgen?,Ich muss arbeiten.,Halb sieben ist super.,,a,A1,daily-routine,019
+netzwerk-a1-test-booklet,reading,Übung 3,4,multiple-choice,Welche Reaktion passt? Was machst du morgen?,Ich muss arbeiten.,Halb sieben ist super.,,Ich muss arbeiten.,A1,daily-routine,019
 netzwerk-a1-test-booklet,,Übung 4,4,fill-in,Ergänzen Sie den Possessivartikel: Wir treffen (4) ___ Freund Milan.,,,,unseren/seinen/meinen,A1,family,019
 netzwerk-a1-test-booklet,,Übung 5,4,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: wir / morgen / nicht / tanzen / können / .",,,,Wir können morgen nicht tanzen.,A1,daily-routine,019
-netzwerk-a1-test-booklet,reading,Übung 3,5,multiple-choice,Welche Reaktion passt? Hast du am Wochenende Zeit?,"Nein, leider nicht.",Gute Idee!,,a,A1,daily-routine,019
+netzwerk-a1-test-booklet,reading,Übung 3,5,multiple-choice,Welche Reaktion passt? Hast du am Wochenende Zeit?,"Nein, leider nicht.",Gute Idee!,,"Nein, leider nicht.",A1,daily-routine,019
 netzwerk-a1-test-booklet,,Übung 4,5,fill-in,Ergänzen Sie den Possessivartikel: Da besuche ich (5) ___ Schwester.,,,,meine,A1,family,019
 netzwerk-a1-test-booklet,,Übung 5,5,ordering,"Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: du / deine Familie / am Wochenende / besuchen / wollen / ?",,,,Willst du am Wochenende deine Familie besuchen?,A1,daily-routine,019
 netzwerk-a1-test-booklet,reading,Übung 6,1,true-false,Diego möchte Karin um halb vier treffen.,Richtig,Falsch,,Richtig,A1,family,020

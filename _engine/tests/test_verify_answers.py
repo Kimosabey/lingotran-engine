@@ -15,7 +15,12 @@ import tempfile
 import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from verify_answers import verify_collection
+from verify_answers import verify_collection, DEFAULT_TF_TERMS
+
+# These assertions are French-specific (vrai/faux). The tests run from a temp
+# directory, so the language cannot be derived from the path -- declare it,
+# the same way a real collections.json would.
+FR = {'true_false_terms': DEFAULT_TF_TERMS['french']}
 
 
 class TrueFalseWhitespaceTests(unittest.TestCase):
@@ -38,7 +43,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
         path = self._write_items([
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false', 'correct_answer': ' vrai'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Vrai')
 
@@ -46,7 +51,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
         path = self._write_items([
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false', 'correct_answer': '  faux'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Faux')
 
@@ -54,7 +59,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
         path = self._write_items([
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false', 'correct_answer': 'vrai'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Vrai')
 
@@ -65,7 +70,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
         path = self._write_items([
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false', 'correct_answer': 'Vrai'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Vrai')
 
@@ -81,7 +86,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
              'correct_answer': 'faux — Seule Jojo mange le fromage.'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Faux — Seule Jojo mange le fromage.')
 
@@ -90,7 +95,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
              'correct_answer': 'vrai (elle a sept ans)'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'Vrai (elle a sept ans)')
 
@@ -99,7 +104,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
              'correct_answer': "faux. C'est à Pâques."},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], "Faux. C'est à Pâques.")
 
@@ -110,7 +115,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
              'correct_answer': '  faux - not quite'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], '  Faux - not quite')
 
@@ -125,7 +130,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
                 {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
                  'correct_answer': "Faux. C'est à Pâques."},
             ])
-            verify_collection(self.tmpdir, self.slug)
+            verify_collection(self.tmpdir, self.slug, FR)
         self.assertNotIn('!', buf.getvalue())
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], "Faux. C'est à Pâques.")
@@ -138,7 +143,7 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
             {'source_page': 1, 'item': 'a', 'item_type': 'true-false',
              'correct_answer': 'fauxword unrelated'},
         ])
-        verify_collection(self.tmpdir, self.slug)
+        verify_collection(self.tmpdir, self.slug, FR)
         data = json.load(open(path, encoding='utf-8'))
         self.assertEqual(data['items'][0]['correct_answer'], 'fauxword unrelated')
 
@@ -213,3 +218,53 @@ class InferredLevelTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class LanguageAgnosticTrueFalseTests(unittest.TestCase):
+    """The true/false vocabulary is a per-LANGUAGE fact, not a constant.
+
+    It was hardcoded French until 2026-08-10, so pointing this gate at German
+    produced 70 false "doesn't start with Vrai/Faux" flags against perfectly
+    correct Richtig/Falsch answers -- and would have done the same for every
+    language added afterwards.
+    """
+
+    def setUp(self):
+        self.tmpdir = tempfile.mkdtemp()
+        self.slug = 'test-collection'
+        self.pages = os.path.join(self.tmpdir, self.slug, 'pages')
+        os.makedirs(self.pages)
+
+    def tearDown(self):
+        shutil.rmtree(self.tmpdir, ignore_errors=True)
+
+    def _run(self, answer, cfg):
+        path = os.path.join(self.pages, '_questions.json')
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump({'items': [{'source_page': 1, 'item': 'a',
+                                  'item_type': 'true-false',
+                                  'correct_answer': answer}]}, f)
+        verify_collection(self.tmpdir, self.slug, cfg)
+        with open(path, encoding='utf-8') as f:
+            return json.load(f)['items'][0]['correct_answer']
+
+    def test_german_richtig_falsch_are_accepted_and_normalised(self):
+        de = {'true_false_terms': DEFAULT_TF_TERMS['german']}
+        self.assertEqual(self._run('richtig', de), 'Richtig')
+        self.assertEqual(self._run('falsch', de), 'Falsch')
+
+    def test_french_terms_are_not_valid_for_a_german_book(self):
+        de = {'true_false_terms': DEFAULT_TF_TERMS['german']}
+        self.assertEqual(self._run('vrai', de), 'vrai', 'must not be silently "fixed"')
+
+    def test_a_language_can_declare_its_own_terms(self):
+        es = {'true_false_terms': {'true': ['verdadero'], 'false': ['falso'],
+                                   'not_mentioned': []}}
+        self.assertEqual(self._run('verdadero', es), 'Verdadero')
+
+    def test_three_way_not_mentioned_is_legitimate_not_malformed(self):
+        fr = {'true_false_terms': DEFAULT_TF_TERMS['french']}
+        self.assertEqual(self._run('pas mentionné', fr), 'Pas mentionné')
+
+    def test_unknown_language_falls_back_to_english_terms(self):
+        self.assertEqual(self._run('true', {}), 'True')
