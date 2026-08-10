@@ -34,12 +34,20 @@ matching pairs, true/false statements, fill-in items, writing/speaking prompts).
 For EACH item output:
 - `section`: one of SECTION_TAXONOMY, or "" (best guess)
 - `part`: the part or exercise-group label if printed (e.g. "Part 1", "Exercise 3"), else ""
+- `instruction`: the exercise's printed RUBRIC — the sentence telling the learner what to
+  do — VERBATIM, for the group this item belongs to (e.g. "Lis les publicités. Vrai, faux
+  ou pas mentionné?", "Complète avec l'article correct."). Every item in the same `part`
+  repeats the same rubric. Without it a stem like "Il y a ___ taille-crayon." is
+  unreadable on its own — the reader cannot tell whether the task is to insert an
+  article, conjugate a verb, or translate. If a group prints no rubric at all, use "".
+  Do NOT paraphrase, invent, or translate it, and do NOT copy an exercise CONTENT line
+  (a sentence to be completed) here — the rubric is the instruction, not the material.
 - `item`: the printed item number/letter (e.g. "1", "2a"), else a running index
 - `item_type`: multiple-choice, matching, true-false, fill-in, ordering, short-answer, writing-task, speaking-task, open-ended
 - `question`: the item stem/prompt VERBATIM (LANGUAGE spelling/accents exact). For matching, state the left element.
 - `option_a`,`option_b`,`option_c`: MC/choice options verbatim (else "")
 - `correct_answer`: fill ONLY if resolvable — a marked answer on the page, or from an answer-key page you were given. Use "(open-ended)" for free writing/speaking tasks. Else "".
-- `level`: if LEVEL_MODE=fixed, the collection's single level, always. If LEVEL_MODE=inferred, the level this specific item belongs to (use the inline tag left during transcription, e.g. "A1 (inferred)", or judge it yourself from LEVEL_OPTIONS if no tag is present — never leave blank).
+- `level`: if LEVEL_MODE=fixed, the collection's single level, always. If LEVEL_MODE=inferred, the level this specific item belongs to (read the inline tag left during transcription, which is written `[A1 (inferred)]`, or judge it yourself from LEVEL_OPTIONS if no tag is present — never leave blank). **Write the BARE level only — `A1`, `A2`, `B1`.** `level` is a taxonomy column, so its values are a fixed enum; never carry the transcription tag's "(inferred)" suffix into the record, and never combine two levels ("A2+B1") — use `mixed` if an item genuinely spans both. (This exact leak shipped once: tricolore-2-5th-edition recorded all 2,750 items as "A2 (inferred)"/"B1 (inferred)", so a level filter on the combined sheet silently missed every one of its rows.)
 - `topic`: from the STEP 2 topic list
 - `source_page`: 3-digit page string (e.g. "049")
 Pages with NO discrete items (covers, pure wordlists, image-only, transcripts) contribute NO question rows — that is correct, do not invent items.

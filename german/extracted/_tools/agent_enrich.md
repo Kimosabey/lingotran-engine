@@ -36,11 +36,22 @@ For EACH item output:
   VALUE stays exactly as printed, so "Teil 1" is correct content for it. Existing
   records that still use the old `teil` key are read as a fallback, so no page
   data had to be rewritten — but emit `part` for anything new.
+- `instruction`: the exercise's printed RUBRIC — the sentence telling the learner what to
+  do — VERBATIM in German, for the group this item belongs to (e.g. "Ergänze den Dialog.",
+  "Kreuzen Sie an: richtig oder falsch?"). Every item in the same `part` repeats the same
+  rubric. Without it a stem like "Er ___ in Zürich." is unreadable on its own — the reader
+  cannot tell whether the task is to conjugate the verb or fill in a preposition. If a
+  group prints no rubric, use "". Do NOT paraphrase, invent or translate it, and do NOT
+  copy an exercise CONTENT line (a sentence to be completed) here.
 - `item`: the printed item number/letter (e.g. "1", "2a"), else a running index
 - `item_type`: multiple-choice, matching, true-false, fill-in, ordering, short-answer, writing-task, speaking-task, open-ended
 - `question`: the item stem/prompt VERBATIM (German; umlauts/ß exact). For matching, state the left element.
 - `option_a`,`option_b`,`option_c`: MC/choice options verbatim (else "")
 - `correct_answer`: fill ONLY if resolvable — a marked answer on the page, or from a Lösungen/answer-key page you were given. Use "(open-ended)" for free writing/speaking tasks. Else "".
+- `level`: the collection's CEFR level, BARE — `A1`, never a decorated variant like
+  "A1 (inferred)". `level` is a taxonomy column with a fixed enum; the French side
+  shipped "(inferred)"-suffixed values once and it silently broke level filtering on the
+  combined sheet.
 - `topic`: from the STEP 2 topic list
 - `source_page`: 3-digit page string (e.g. "049")
 Pages with NO discrete items (covers, pure wordlists, image-only, transcripts) contribute NO question rows — that is correct, do not invent items.
