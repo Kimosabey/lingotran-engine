@@ -63,7 +63,8 @@ import shutil
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import parse_root, lang_slug, load_collection_list, atomic_write_text
+from _common import (parse_root, lang_slug, load_collection_list, atomic_write_text,
+                     build_start_here)
 
 KINDS = ['catalog', 'questions', 'vocabulary']
 COMBINED_DIR = '_combined'
@@ -219,11 +220,25 @@ def main(argv):
     atomic_write_text(readme, '\n'.join(lines))
     keep.add(os.path.abspath(readme))
 
+    # START-HERE.md -- the content team's orientation page. Generated for EVERY
+    # language from the same shared builder and the same real numbers, so all
+    # languages' deliverables have the same shape and the page cannot drift
+    # from what actually shipped. A hand-written _tools/START-HERE.source.md
+    # still wins if one exists, for a language that needs bespoke wording.
+    start_here = os.path.join(final_out, 'START-HERE.md')
     src_start_here = os.path.join(root, '_tools', 'START-HERE.source.md')
     if os.path.exists(src_start_here):
-        dest = os.path.join(final_out, 'START-HERE.md')
-        _atomic_copy(src_start_here, dest)
-        keep.add(os.path.abspath(dest))
+        _atomic_copy(src_start_here, start_here)
+    else:
+        atomic_write_text(start_here, build_start_here(
+            lang,
+            [{'title': title, 'folder': slug, 'pages': counts['catalog'],
+              'questions': counts['questions'], 'words': counts['vocabulary'],
+              'caveats': caveats, 'frozen': frozen}
+             for slug, title, frozen, has_md, counts, caveats in manifest],
+            combined=combined,
+            generator='_engine/package_exports.py'))
+    keep.add(os.path.abspath(start_here))
 
     # Prune stale files LAST — only now that every new file is safely in place.
     _prune(final_out, keep)

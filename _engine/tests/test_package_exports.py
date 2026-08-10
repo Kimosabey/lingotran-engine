@@ -65,12 +65,14 @@ class StageThenSwapTests(unittest.TestCase):
         self.assertTrue(os.path.exists(os.path.join(out, '_combined', 'testlang-catalog-all.csv')))
         self.assertFalse(os.path.exists(os.path.join(out, 'testlang-catalog-all.csv')),
                          'combined CSVs must live only in _combined/, not loose at the top')
-        # nothing floating: the ONLY loose file at the top is README.md;
-        # everything else is a directory.
+        # Nothing floating. The only loose files at the top are the two
+        # orientation docs -- README.md (the column/row-count reference) and
+        # START-HERE.md (the content team's entry point, generated for every
+        # language). Everything else must be a directory.
         top = sorted(os.listdir(out))
         loose_files = [n for n in top if os.path.isfile(os.path.join(out, n))]
-        self.assertEqual(loose_files, ['README.md'],
-                         'README.md must be the only loose file at the top of _exports/')
+        self.assertEqual(loose_files, ['README.md', 'START-HERE.md'],
+                         'only README.md and START-HERE.md may be loose at the top')
         # a second run must swap cleanly over the first, not error or duplicate
         package_exports.main(['--root', self.root])
         self.assertTrue(os.path.exists(os.path.join(out, 'README.md')))
@@ -131,7 +133,7 @@ class StageThenSwapTests(unittest.TestCase):
                          'a stale loose top-level file must be pruned')
         # the only loose file left at the top is README.md
         loose = sorted(n for n in os.listdir(out) if os.path.isfile(os.path.join(out, n)))
-        self.assertEqual(loose, ['README.md'])
+        self.assertEqual(loose, ['README.md', 'START-HERE.md'])
 
 
 class SingleBookNoCombinedTests(unittest.TestCase):

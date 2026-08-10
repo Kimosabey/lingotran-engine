@@ -1,45 +1,43 @@
-# START HERE — German A1 datasets
+# START HERE — German datasets
 
-Welcome! This folder is the finished, ready-to-use German A1 material: **636 pages**
-from 10 books, turned into clean spreadsheets. Everything was transcribed word-for-word
-and independently double-checked, so what you see matches the printed page.
+This folder is the finished, ready-to-use German material: **636 pages** from **10 books**, turned into clean spreadsheets. Every page was transcribed word-for-word from the printed book and independently re-checked, so what you see matches the source.
 
-## Just want to get going?
+**In total:** 636 pages · 2,830 practice questions · 3,751 vocabulary entries.
 
-- **Need practice questions?** Open `_combined/german-a1-questions-all.csv`
-  (every question from every book, 2,500+ items). Filter the `collection` column
-  to pick a book, or `item_type` for a format (multiple-choice, fill-in, matching…),
-  or `topic` for a theme (family, food, travel…).
-- **Need vocabulary?** Open `_combined/german-a1-vocabulary-all.csv`
-  (3,700+ words with article, plural and example). Filter `topic` or `source_page`.
-- **Want to read a whole book?** Open the `<publisher>/<book>/<book>.md` file —
-  the entire book as clean text.
-- **Want just one book's data?** Go to `<publisher>/<book>/` and open its
-  `-questions.csv` / `-vocabulary.csv` / `-catalog.csv`.
+## What do I open?
 
-## The three sheet types
+| I want to... | Open |
+|---|---|
+| Work across every book at once | `_combined/` — one sheet per data type; filter the `collection` column to narrow to one book |
+| Work with a single book | that book's folder below — its three CSVs, no filtering needed |
+| Read a book as continuous text | the `.md` file inside that book's folder |
+| Know what a column means | `README.md` in this folder |
+| Know what is missing or imperfect | the **Known limitations** section of `README.md` |
 
-| Sheet | One row = | Use it to… |
-|---|---|---|
-| **-questions.csv** | one exercise / exam item | build quizzes, drills, item banks |
-| **-vocabulary.csv** | one word | build word lists, flashcards, glossaries |
-| **-catalog.csv** | one page | see what's on each page at a glance (topic, activity, summary) |
+## What is in each sheet
 
-## Good to know
+- **catalog** — one row per page: what is on it and how it is classified.
+- **questions** — one row per practice item: the question, its options, the answer where the book prints one.
+- **vocabulary** — one row per word: the word, its article and plural, its part of speech, an example where the book gives one.
 
-- **Umlauts render correctly.** Just double-click any CSV — ä ö ü ß show properly in Excel / Google Sheets.
-- **Answers:** `correct_answer` is filled where the book prints an answer key (Lösungen).
-  Free writing/speaking tasks show `(open-ended)` (there's no single right answer).
-  A blank means the answer depends on a listening track we didn't process.
-- **Topic & activity labels** are helpful tags we added for filtering — they're not
-  official publisher categories.
-- **Two Goyal pages (13, 16)** note a small caveat: all the *printed* content is captured,
-  but a previous owner's faint pencil answers were partly unreadable in the scan (flagged, not guessed).
+## The books
 
-## What's inside
+| Book | Folder | Pages | Questions | Words |
+|---|---|---|---|---|
+| Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 1 | `goethe/goethe-a1-sd1-exam-training-1/` | 47 | 61 | — |
+| Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 2 | `goethe/goethe-a1-sd1-exam-training-2/` | 47 | 41 | — |
+| Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 3 | `goethe/goethe-a1-sd1-exam-training-3/` | 47 | 66 | — |
+| Goethe-Zertifikat A1 · Start Deutsch 1 · Vocabulary List | `goethe/goethe-a1-sd1-vocabulary-list/` | 29 | — | 808 |
+| Goethe-Zertifikat A1 · Fit In Deutsch 1 · Exam Training 1 | `goethe/goethe-a1-fit1-exam-training-1/` | 52 | 29 | — |
+| Goethe-Zertifikat A1 · Fit In Deutsch 1 · Exam Training 2 | `goethe/goethe-a1-fit1-exam-training-2/` | 52 | 50 | — |
+| Goethe-Zertifikat A1 · Fit In Deutsch 1 · Vocabulary List | `goethe/goethe-a1-fit1-vocabulary-list/` | 28 | — | 756 |
+| Netzwerk neu A1 · Chapterwise Test Booklet | `netzwerk/netzwerk-a1-test-booklet/` | 56 | 415 | 98 |
+| Netzwerk neu A1 · Kursbuch | `netzwerk/netzwerk-a1-kursbuch/` | 174 | 1119 | 1971 |
+| German for Young Learners · A1 | `goyal/goyal-a1-young-learners/` | 104 | 1049 | 118 |
 
-- Netzwerk neu A1 **Kursbuch** (coursebook) and **Test Booklet** — Klett
-- **German for Young Learners A1** — Goyal
-- **Goethe-Zertifikat A1** exam practice (Start Deutsch 1 + Fit in Deutsch 1) — delivered earlier
+## Two things worth knowing
 
-See `README.md` for the exact column list and row counts. Questions welcome!
+1. **A blank answer is usually not a mistake.** Many coursebooks print their answer keys in a separate teacher's guide, and listening items depend on audio. Where that is the case it is stated per book in `README.md`.
+2. **Gaps are disclosed, never silently dropped.** Anything that could not be read from the source is listed in **Known limitations** with the reason.
+
+_Generated by `_tools/package_exports.py` — re-run to refresh, do not hand-edit._
