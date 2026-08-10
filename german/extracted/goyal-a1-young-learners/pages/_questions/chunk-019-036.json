@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "München",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Um welche Städte handelt es sich? Hör zu und schreib die Namen in die entsprechenden Lücken."
     },
     {
       "section": "listening",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "Berlin",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Um welche Städte handelt es sich? Hör zu und schreib die Namen in die entsprechenden Lücken."
     },
     {
       "section": "listening",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "Wien",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Um welche Städte handelt es sich? Hör zu und schreib die Namen in die entsprechenden Lücken."
     },
     {
       "section": "listening",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "Frankfurt",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Um welche Städte handelt es sich? Hör zu und schreib die Namen in die entsprechenden Lücken."
     },
     {
       "section": "listening",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "Hamburg",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Um welche Städte handelt es sich? Hör zu und schreib die Namen in die entsprechenden Lücken."
     },
     {
       "section": "listening",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "Zürich",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Um welche Städte handelt es sich? Hör zu und schreib die Namen in die entsprechenden Lücken."
     },
     {
       "section": "",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "München",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "Frankfurt",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "Berlin",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "Hamburg",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "Köln",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "Düsseldorf",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "Innsbruck",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "Wien",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "Salzburg",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "Zürich",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "Bern",
       "topic": "city-places",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Ordne die Autokennzeichen den entsprechenden Städten zu."
     },
     {
       "section": "writing",
@@ -233,7 +250,8 @@
       "option_c": "",
       "correct_answer": "Jakob, wo wohnst du? – Ich wohne in Augsburg. – Und wo liegt das denn? – In Süddeutschland! – Wohnst du gern in Augsburg? – Ja, ich wohne sehr gern dort.",
       "topic": "personal-info",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Schreib kurze Dialoge."
     },
     {
       "section": "writing",
@@ -246,7 +264,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Schreib kurze Dialoge."
     },
     {
       "section": "writing",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Schreib kurze Dialoge."
     },
     {
       "section": "writing",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Schreib kurze Dialoge."
     },
     {
       "section": "writing",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Schreib kurze Dialoge."
     },
     {
       "section": "vocabulary",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "sechs",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "fünfzehn",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "vier",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "vierzig",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "vierundsechzig",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "einhundertzehn",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "elf",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "zwölf",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "vierzehn",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "fünfunddreißig",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "dreiundachtzig",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "zweihundertzweiundzwanzig",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Buchstaben."
     },
     {
       "section": "vocabulary",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "36",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "112",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "70",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "42",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "85",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "22",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "63",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "87",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "vocabulary",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "123",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Schreib die Zahlen in Ziffern."
     },
     {
       "section": "listening",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die Zahlen an."
     },
     {
       "section": "listening",
@@ -584,7 +628,8 @@
       "option_c": "22",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "listening",
@@ -597,7 +642,8 @@
       "option_c": "33",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "listening",
@@ -610,7 +656,8 @@
       "option_c": "44",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "listening",
@@ -623,7 +670,8 @@
       "option_c": "55",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "listening",
@@ -636,7 +684,8 @@
       "option_c": "66",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "listening",
@@ -649,7 +698,8 @@
       "option_c": "77",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "listening",
@@ -662,7 +712,8 @@
       "option_c": "88",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "listening",
@@ -675,7 +726,8 @@
       "option_c": "99",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hör zu und kreuz die richtige Zahl an."
     },
     {
       "section": "vocabulary",
@@ -688,7 +740,8 @@
       "option_c": "",
       "correct_answer": "fünfzehn",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "fünfzig",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "vierzehn",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "neunzig",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "siebzig",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "dreizehn",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "achtzehn",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "neunzehn",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "sechzig",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "sechzehn",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "achtzig",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "siebzehn",
       "topic": "none",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "-zehn oder -zig? Ergänze."
     },
     {
       "section": "listening",
@@ -844,7 +908,8 @@
       "option_c": "€ 30,20",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Wie viel kostet das?"
     },
     {
       "section": "listening",
@@ -857,7 +922,8 @@
       "option_c": "€ 40,30",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Wie viel kostet das?"
     },
     {
       "section": "listening",
@@ -870,7 +936,8 @@
       "option_c": "€ 105,00",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Wie viel kostet das?"
     },
     {
       "section": "listening",
@@ -883,7 +950,8 @@
       "option_c": "€ 7,20",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Wie viel kostet das?"
     },
     {
       "section": "listening",
@@ -896,7 +964,8 @@
       "option_c": "€ 52,00",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Wie viel kostet das?"
     },
     {
       "section": "listening",
@@ -909,7 +978,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Hör zu und schreib die Handynummern zu den entsprechenden Personen."
     },
     {
       "section": "listening",
@@ -922,7 +992,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Hör zu und schreib die Handynummern zu den entsprechenden Personen."
     },
     {
       "section": "listening",
@@ -935,7 +1006,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Hör zu und schreib die Handynummern zu den entsprechenden Personen."
     },
     {
       "section": "listening",
@@ -948,7 +1020,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Hör zu und schreib die Handynummern zu den entsprechenden Personen."
     },
     {
       "section": "",
@@ -961,7 +1034,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Finde die versteckten Zahlen."
     },
     {
       "section": "",
@@ -974,7 +1048,8 @@
       "option_c": "",
       "correct_answer": "wohne, wohnst, wohnt, wohnen, wohnt, wohnen",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänze die Tabelle."
     },
     {
       "section": "",
@@ -987,7 +1062,8 @@
       "option_c": "",
       "correct_answer": "heiße, heißt, heißt, heißen, heißt, heißen",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänze die Tabelle."
     },
     {
       "section": "",
@@ -1000,7 +1076,8 @@
       "option_c": "",
       "correct_answer": "mache, machst, macht, machen, macht, machen",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänze die Tabelle."
     },
     {
       "section": "",
@@ -1013,7 +1090,8 @@
       "option_c": "",
       "correct_answer": "spiele, spielst, spielt, spielen, spielt, spielen",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänze die Tabelle."
     },
     {
       "section": "",
@@ -1026,7 +1104,8 @@
       "option_c": "",
       "correct_answer": "bin, bist, ist, sind, seid, sind",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänze die Tabelle."
     },
     {
       "section": "",
@@ -1039,7 +1118,8 @@
       "option_c": "",
       "correct_answer": "sind",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb sein. Ergänze."
     },
     {
       "section": "",
@@ -1052,7 +1132,8 @@
       "option_c": "",
       "correct_answer": "bist / bin",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb sein. Ergänze."
     },
     {
       "section": "",
@@ -1065,7 +1146,8 @@
       "option_c": "",
       "correct_answer": "sind",
       "topic": "family",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb sein. Ergänze."
     },
     {
       "section": "",
@@ -1078,7 +1160,8 @@
       "option_c": "",
       "correct_answer": "ist / ist",
       "topic": "family",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb sein. Ergänze."
     },
     {
       "section": "",
@@ -1091,7 +1174,8 @@
       "option_c": "",
       "correct_answer": "seid",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb sein. Ergänze."
     },
     {
       "section": "",
@@ -1104,7 +1188,8 @@
       "option_c": "",
       "correct_answer": "sind / bin",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb sein. Ergänze."
     },
     {
       "section": "",
@@ -1117,7 +1202,8 @@
       "option_c": "",
       "correct_answer": "heißt / heißt",
       "topic": "family",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb heißen. Ergänze."
     },
     {
       "section": "",
@@ -1130,7 +1216,8 @@
       "option_c": "",
       "correct_answer": "heiße / heißt",
       "topic": "family",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb heißen. Ergänze."
     },
     {
       "section": "",
@@ -1143,7 +1230,8 @@
       "option_c": "",
       "correct_answer": "heißen / heiße",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb heißen. Ergänze."
     },
     {
       "section": "",
@@ -1156,7 +1244,8 @@
       "option_c": "",
       "correct_answer": "heißen",
       "topic": "family",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb heißen. Ergänze."
     },
     {
       "section": "",
@@ -1169,7 +1258,8 @@
       "option_c": "",
       "correct_answer": "heißt / heißt",
       "topic": "family",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb heißen. Ergänze."
     },
     {
       "section": "",
@@ -1182,7 +1272,8 @@
       "option_c": "",
       "correct_answer": "heißen",
       "topic": "family",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb heißen. Ergänze."
     },
     {
       "section": "",
@@ -1195,7 +1286,8 @@
       "option_c": "",
       "correct_answer": "wohnen / wohnt",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb wohnen. Ergänze."
     },
     {
       "section": "",
@@ -1208,7 +1300,8 @@
       "option_c": "",
       "correct_answer": "wohnen",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb wohnen. Ergänze."
     },
     {
       "section": "",
@@ -1221,7 +1314,8 @@
       "option_c": "",
       "correct_answer": "Wohnst / wohne",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb wohnen. Ergänze."
     },
     {
       "section": "",
@@ -1234,7 +1328,8 @@
       "option_c": "",
       "correct_answer": "Wohnt / wohnen",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb wohnen. Ergänze."
     },
     {
       "section": "",
@@ -1247,7 +1342,8 @@
       "option_c": "",
       "correct_answer": "wohnen",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb wohnen. Ergänze."
     },
     {
       "section": "",
@@ -1260,7 +1356,8 @@
       "option_c": "",
       "correct_answer": "wohnt / wohnt",
       "topic": "personal-info",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Verb wohnen. Ergänze."
     },
     {
       "section": "",
@@ -1273,7 +1370,8 @@
       "option_c": "",
       "correct_answer": "Er",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1286,7 +1384,8 @@
       "option_c": "",
       "correct_answer": "Sie",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1299,7 +1398,8 @@
       "option_c": "",
       "correct_answer": "Sie / ich",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1312,7 +1412,8 @@
       "option_c": "",
       "correct_answer": "Wir",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1325,7 +1426,8 @@
       "option_c": "",
       "correct_answer": "sie",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1338,7 +1440,8 @@
       "option_c": "",
       "correct_answer": "ihr / Wir",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1351,7 +1454,8 @@
       "option_c": "",
       "correct_answer": "Sie",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1364,7 +1468,8 @@
       "option_c": "",
       "correct_answer": "Er",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänze die passenden Personalpronomen."
     },
     {
       "section": "",
@@ -1377,7 +1482,8 @@
       "option_c": "",
       "correct_answer": "er",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ersetze das Subjekt mit dem passenden Pronomen (er, sie)."
     },
     {
       "section": "",
@@ -1390,7 +1496,8 @@
       "option_c": "",
       "correct_answer": "sie",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ersetze das Subjekt mit dem passenden Pronomen (er, sie)."
     },
     {
       "section": "",
@@ -1403,7 +1510,8 @@
       "option_c": "",
       "correct_answer": "sie",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ersetze das Subjekt mit dem passenden Pronomen (er, sie)."
     },
     {
       "section": "",
@@ -1416,7 +1524,8 @@
       "option_c": "",
       "correct_answer": "er",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ersetze das Subjekt mit dem passenden Pronomen (er, sie)."
     },
     {
       "section": "",
@@ -1429,7 +1538,8 @@
       "option_c": "",
       "correct_answer": "sie",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ersetze das Subjekt mit dem passenden Pronomen (er, sie)."
     },
     {
       "section": "",
@@ -1442,7 +1552,8 @@
       "option_c": "",
       "correct_answer": "sie",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ersetze das Subjekt mit dem passenden Pronomen (er, sie)."
     },
     {
       "section": "",
@@ -1455,7 +1566,8 @@
       "option_c": "",
       "correct_answer": "ER",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1468,7 +1580,8 @@
       "option_c": "",
       "correct_answer": "SIE",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1481,7 +1594,8 @@
       "option_c": "",
       "correct_answer": "SIE",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1494,7 +1608,8 @@
       "option_c": "",
       "correct_answer": "SIE",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1507,7 +1622,8 @@
       "option_c": "",
       "correct_answer": "ER",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1520,7 +1636,8 @@
       "option_c": "",
       "correct_answer": "ER",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1533,7 +1650,8 @@
       "option_c": "",
       "correct_answer": "SIE",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1546,7 +1664,8 @@
       "option_c": "",
       "correct_answer": "SIE",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1559,7 +1678,8 @@
       "option_c": "",
       "correct_answer": "ER",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Er oder sie? Verbinde die Namen mit den Pronomen."
     },
     {
       "section": "",
@@ -1572,7 +1692,8 @@
       "option_c": "",
       "correct_answer": "Wohnt Herr Meier in München?",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1585,7 +1706,8 @@
       "option_c": "",
       "correct_answer": "Wohnen Sie in Berlin?",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1598,7 +1720,8 @@
       "option_c": "",
       "correct_answer": "Heißt deine Schwester Karin?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1611,7 +1734,8 @@
       "option_c": "",
       "correct_answer": "Ist dein Bruder verheiratet?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1624,7 +1748,8 @@
       "option_c": "",
       "correct_answer": "Ist Tina die Schwester von Stefan?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1637,7 +1762,8 @@
       "option_c": "",
       "correct_answer": "Hast du einen Bruder?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1650,7 +1776,8 @@
       "option_c": "",
       "correct_answer": "Ist Max Einzelkind?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1663,7 +1790,8 @@
       "option_c": "",
       "correct_answer": "Ist unser Deutschlehrer sympathisch?",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Forme die Sätze in Fragesätze um."
     },
     {
       "section": "",
@@ -1676,7 +1804,8 @@
       "option_c": "",
       "correct_answer": "Wer ist das?",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1689,7 +1818,8 @@
       "option_c": "",
       "correct_answer": "Wo liegt Graz?",
       "topic": "city-places",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1702,7 +1832,8 @@
       "option_c": "",
       "correct_answer": "Wie heißt dein Bruder?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1715,7 +1846,8 @@
       "option_c": "",
       "correct_answer": "Wie alt bist du?",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1728,7 +1860,8 @@
       "option_c": "",
       "correct_answer": "Wo wohnen die Weigels?",
       "topic": "city-places",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1741,7 +1874,8 @@
       "option_c": "",
       "correct_answer": "Wer ist die Schwester von Susi?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1754,7 +1888,8 @@
       "option_c": "",
       "correct_answer": "Wer ist der Vater von Stefan?",
       "topic": "family",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1767,7 +1902,8 @@
       "option_c": "",
       "correct_answer": "Wie ist deine E-Mail-Adresse?",
       "topic": "communication",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Bilde Fragen mit Wer?, Wie? und Wo?"
     },
     {
       "section": "",
@@ -1780,7 +1916,8 @@
       "option_c": "",
       "correct_answer": "Wer bist du?",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1793,7 +1930,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1806,7 +1944,8 @@
       "option_c": "",
       "correct_answer": "Bist du der Bruder von Markus?",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1819,7 +1958,8 @@
       "option_c": "",
       "correct_answer": "Wie alt ist er?",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1832,7 +1972,8 @@
       "option_c": "",
       "correct_answer": "Wer ist das?",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1845,7 +1986,8 @@
       "option_c": "",
       "correct_answer": "Wo wohnt ihr?",
       "topic": "city-places",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1858,7 +2000,8 @@
       "option_c": "",
       "correct_answer": "Wie viele Personen seid ihr zu Hause?",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1871,7 +2014,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Stell die passenden Fragen."
     },
     {
       "section": "",
@@ -1884,7 +2028,8 @@
       "option_c": "",
       "correct_answer": "Meine Freunde wohnen in München.",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1897,7 +2042,8 @@
       "option_c": "",
       "correct_answer": "Ich wohne auch in München.",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1910,7 +2056,8 @@
       "option_c": "",
       "correct_answer": "Das ist mein Freund Thomas.",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1923,7 +2070,8 @@
       "option_c": "",
       "correct_answer": "Brigitte ist die Freundin von Tina.",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1936,7 +2084,8 @@
       "option_c": "",
       "correct_answer": "Wir sind vier Personen zu Hause.",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1949,7 +2098,8 @@
       "option_c": "",
       "correct_answer": "Der Freund von Stefan heißt Markus.",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1962,7 +2112,8 @@
       "option_c": "",
       "correct_answer": "Mein Vater ist 44 Jahre alt.",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1975,7 +2126,8 @@
       "option_c": "",
       "correct_answer": "Hanau liegt bei Frankfurt.",
       "topic": "city-places",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "",
@@ -1988,7 +2140,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2001,7 +2154,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2014,7 +2168,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2027,7 +2182,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2040,7 +2196,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2053,7 +2210,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2066,7 +2224,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2079,7 +2238,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2092,7 +2252,8 @@
       "option_c": "",
       "correct_answer": "in / bei",
       "topic": "city-places",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2105,7 +2266,8 @@
       "option_c": "",
       "correct_answer": "von",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2118,7 +2280,8 @@
       "option_c": "",
       "correct_answer": "in",
       "topic": "city-places",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2131,7 +2294,8 @@
       "option_c": "",
       "correct_answer": "von",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2144,7 +2308,8 @@
       "option_c": "",
       "correct_answer": "von",
       "topic": "communication",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2157,7 +2322,8 @@
       "option_c": "",
       "correct_answer": "in / bei",
       "topic": "city-places",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2170,7 +2336,8 @@
       "option_c": "",
       "correct_answer": "von",
       "topic": "family",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2183,7 +2350,8 @@
       "option_c": "",
       "correct_answer": "in",
       "topic": "city-places",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Ergänze die Präpositionen in, bei, von."
     },
     {
       "section": "",
@@ -2196,7 +2364,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2209,7 +2378,8 @@
       "option_c": "",
       "correct_answer": "In Süddeutschland.",
       "topic": "city-places",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2222,7 +2392,8 @@
       "option_c": "",
       "correct_answer": "In Österreich.",
       "topic": "city-places",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2235,7 +2406,8 @@
       "option_c": "",
       "correct_answer": "Ja, Hanau liegt bei Frankfurt.",
       "topic": "city-places",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2248,7 +2420,8 @@
       "option_c": "",
       "correct_answer": "Stefan ist der Bruder von Tina.",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "",
@@ -2261,7 +2434,8 @@
       "option_c": "",
       "correct_answer": "Ja, Brigitte ist die Freundin von Tina.",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Beantworte die Fragen."
     },
     {
       "section": "vocabulary",
@@ -2274,7 +2448,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2287,7 +2462,8 @@
       "option_c": "",
       "correct_answer": "Die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2300,7 +2476,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2313,7 +2490,8 @@
       "option_c": "",
       "correct_answer": "Die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2326,7 +2504,8 @@
       "option_c": "",
       "correct_answer": "Die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2339,7 +2518,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2352,7 +2532,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2365,7 +2546,8 @@
       "option_c": "",
       "correct_answer": "Der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2378,7 +2560,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2391,7 +2574,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2404,7 +2588,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2417,7 +2602,8 @@
       "option_c": "",
       "correct_answer": "Der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2430,7 +2616,8 @@
       "option_c": "",
       "correct_answer": "Der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2443,7 +2630,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2456,7 +2644,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "vocabulary",
@@ -2469,7 +2658,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Der oder die? Ergänze."
     },
     {
       "section": "",
@@ -2482,7 +2672,8 @@
       "option_c": "",
       "correct_answer": "Mein / Er",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Mein, meine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2495,7 +2686,8 @@
       "option_c": "",
       "correct_answer": "Meine / Sie",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Mein, meine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2508,7 +2700,8 @@
       "option_c": "",
       "correct_answer": "Meine / Sie",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Mein, meine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2521,7 +2714,8 @@
       "option_c": "",
       "correct_answer": "Mein / Er",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Mein, meine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2534,7 +2728,8 @@
       "option_c": "",
       "correct_answer": "Meine / Sie",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Mein, meine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2547,7 +2742,8 @@
       "option_c": "",
       "correct_answer": "Meine / Sie",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Mein, meine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2560,7 +2756,8 @@
       "option_c": "",
       "correct_answer": "deine / sie",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Dein, deine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2573,7 +2770,8 @@
       "option_c": "",
       "correct_answer": "dein / er",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Dein, deine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2586,7 +2784,8 @@
       "option_c": "",
       "correct_answer": "deine / sie",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Dein, deine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2599,7 +2798,8 @@
       "option_c": "",
       "correct_answer": "dein / er",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Dein, deine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2612,7 +2812,8 @@
       "option_c": "",
       "correct_answer": "deine / sie",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Dein, deine? Er, sie? Ergänze."
     },
     {
       "section": "",
@@ -2625,7 +2826,8 @@
       "option_c": "",
       "correct_answer": "dein / er",
       "topic": "family",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Dein, deine? Er, sie? Ergänze."
     },
     {
       "section": "speaking",
@@ -2638,7 +2840,8 @@
       "option_c": "",
       "correct_answer": "Ja, das ist Stefan.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2651,7 +2854,8 @@
       "option_c": "",
       "correct_answer": "Ja, das ist Tina.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2664,7 +2868,8 @@
       "option_c": "",
       "correct_answer": "Ja, das ist Herr Meier.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2677,7 +2882,8 @@
       "option_c": "",
       "correct_answer": "Ja, das ist mein Vater.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2690,7 +2896,8 @@
       "option_c": "",
       "correct_answer": "Ja, das ist meine Schwester.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2703,7 +2910,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich bin 12.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2716,7 +2924,8 @@
       "option_c": "",
       "correct_answer": "Ja, er ist 13.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2729,7 +2938,8 @@
       "option_c": "",
       "correct_answer": "Ja, er ist 38.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2742,7 +2952,8 @@
       "option_c": "",
       "correct_answer": "Ja, sie ist 76.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2755,7 +2966,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich bin 34.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2768,7 +2980,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich habe einen Bruder.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2781,7 +2994,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich habe eine Schwester.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2794,7 +3008,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich habe einen Onkel.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2807,7 +3022,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich habe eine Tante.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2820,7 +3036,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich habe einen Cousin.",
       "topic": "family",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2833,7 +3050,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich wohne in München.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2846,7 +3064,8 @@
       "option_c": "",
       "correct_answer": "Nein, er wohnt in Hamburg.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2859,7 +3078,8 @@
       "option_c": "",
       "correct_answer": "Nein, sie wohnt in Augsburg.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2872,7 +3092,8 @@
       "option_c": "",
       "correct_answer": "Nein, sie wohnen in Nürnberg.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2885,7 +3106,8 @@
       "option_c": "",
       "correct_answer": "Nein, wir wohnen in Frankfurt.",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "speaking",
@@ -2898,7 +3120,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Hör zu und wiederhole die Sätze mit der richtigen Intonation."
     }
   ]
 }

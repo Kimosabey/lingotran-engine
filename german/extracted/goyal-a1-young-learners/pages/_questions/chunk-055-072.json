@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "dir",
       "topic": "health",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: mir, dir oder Ihnen?"
     },
     {
       "section": "",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "mir",
       "topic": "health",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: mir, dir oder Ihnen?"
     },
     {
       "section": "",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "Ihnen",
       "topic": "health",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: mir, dir oder Ihnen?"
     },
     {
       "section": "",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "Ihnen",
       "topic": "health",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: mir, dir oder Ihnen?"
     },
     {
       "section": "",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "mir",
       "topic": "health",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: mir, dir oder Ihnen?"
     },
     {
       "section": "",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "dir",
       "topic": "health",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: mir, dir oder Ihnen?"
     },
     {
       "section": "",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "hobby",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "hobby",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "eine / einen",
       "topic": "hobby",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "hobby",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "ein / eine",
       "topic": "hobby",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "einen / einen",
       "topic": "hobby",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "eine / ein",
       "topic": "food",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "ein / einen",
       "topic": "food",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "food",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "ein",
       "topic": "food",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "eine / eine",
       "topic": "food",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -233,7 +250,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "food",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -246,7 +264,8 @@
       "option_c": "",
       "correct_answer": "ein",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "ein",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "ein",
       "topic": "home",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "einen / eine",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "ein",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "eine / einen",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "einen / einen / eine",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "family",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Ergänze: einen, eine, ein?"
     },
     {
       "section": "",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "Wo?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "Woher?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "Woher?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "Wo?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "Wo?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "Woher?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "Woher?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "Wo?",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher?"
     },
     {
       "section": "",
@@ -584,7 +628,8 @@
       "option_c": "",
       "correct_answer": "Wo / in",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -597,7 +642,8 @@
       "option_c": "",
       "correct_answer": "Woher / aus",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -610,7 +656,8 @@
       "option_c": "",
       "correct_answer": "Woher / aus",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -623,7 +670,8 @@
       "option_c": "",
       "correct_answer": "Wo / in",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -636,7 +684,8 @@
       "option_c": "",
       "correct_answer": "Wo / in",
       "topic": "city-places",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -649,7 +698,8 @@
       "option_c": "",
       "correct_answer": "Woher / aus",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -662,7 +712,8 @@
       "option_c": "",
       "correct_answer": "Wo / In / in",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -675,7 +726,8 @@
       "option_c": "",
       "correct_answer": "Woher / Aus",
       "topic": "personal-info",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wo? oder Woher? In oder aus? Ergänze."
     },
     {
       "section": "",
@@ -688,7 +740,8 @@
       "option_c": "",
       "correct_answer": "Nein, er ist nicht toll.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "Nein, es ist nicht bequem.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "Nein, er ist nicht groß.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "Nein, sie ist nicht modern.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "Nein, er ist nicht schön.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "Nein, sie ist nicht hell.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "Nein, es ist nicht klein.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "Nein, sie ist nicht altmodisch.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Sofa.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Bett.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Hund.",
       "topic": "hobby",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Computer.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -844,7 +908,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Stuhl.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -857,7 +922,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist keine Flasche.",
       "topic": "food",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -870,7 +936,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Papagei.",
       "topic": "hobby",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -883,7 +950,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist keine Dusche.",
       "topic": "home",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -896,7 +964,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe keinen Bruder.",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -909,7 +978,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe keine Cousine.",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -922,7 +992,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe kein Pferd.",
       "topic": "hobby",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -935,7 +1006,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe keine Schwester.",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -948,7 +1020,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe keinen Freund.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -961,7 +1034,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe keinen Computer.",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -974,7 +1048,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe kein Handy.",
       "topic": "communication",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -987,7 +1062,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe kein Glas.",
       "topic": "food",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -1000,7 +1076,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe keinen CD-Player.",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -1013,7 +1090,8 @@
       "option_c": "",
       "correct_answer": "Nein, ich habe kein Kaninchen.",
       "topic": "hobby",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Antworte mit Negation wie im Beispiel."
     },
     {
       "section": "",
@@ -1026,7 +1104,8 @@
       "option_c": "",
       "correct_answer": "kein",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1039,7 +1118,8 @@
       "option_c": "",
       "correct_answer": "nicht",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1052,7 +1132,8 @@
       "option_c": "",
       "correct_answer": "nicht",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1065,7 +1146,8 @@
       "option_c": "",
       "correct_answer": "keine",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1078,7 +1160,8 @@
       "option_c": "",
       "correct_answer": "nicht",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1091,7 +1174,8 @@
       "option_c": "",
       "correct_answer": "kein",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1104,7 +1188,8 @@
       "option_c": "",
       "correct_answer": "nicht",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1117,7 +1202,8 @@
       "option_c": "",
       "correct_answer": "kein",
       "topic": "food",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1130,7 +1216,8 @@
       "option_c": "",
       "correct_answer": "nicht",
       "topic": "food",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1143,7 +1230,8 @@
       "option_c": "",
       "correct_answer": "kein",
       "topic": "home",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze: nicht oder kein, keine?"
     },
     {
       "section": "",
@@ -1156,7 +1244,8 @@
       "option_c": "",
       "correct_answer": "In der Schweiz spricht man Deutsch.",
       "topic": "communication",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1169,7 +1258,8 @@
       "option_c": "",
       "correct_answer": "In Augsburg wohnen die Weigels.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1182,7 +1272,8 @@
       "option_c": "",
       "correct_answer": "Aus Spanien kommt Pedro.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1195,7 +1286,8 @@
       "option_c": "",
       "correct_answer": "Mir geht es nicht so gut.",
       "topic": "health",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1208,7 +1300,8 @@
       "option_c": "",
       "correct_answer": "In Deutschland möchte ich leben.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1221,7 +1314,8 @@
       "option_c": "",
       "correct_answer": "Zwei Kinder haben die Meiers.",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1234,7 +1328,8 @@
       "option_c": "",
       "correct_answer": "Italienisch spricht Herr Rossi.",
       "topic": "communication",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1247,7 +1342,8 @@
       "option_c": "",
       "correct_answer": "Vier Brüder habe ich.",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Ergänze die Sätze wie im Beispiel."
     },
     {
       "section": "",
@@ -1260,7 +1356,8 @@
       "option_c": "",
       "correct_answer": "Ja, in München wohne ich.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "",
@@ -1273,7 +1370,8 @@
       "option_c": "",
       "correct_answer": "Ja, in Augsburg wohnt Tina.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "",
@@ -1286,7 +1384,8 @@
       "option_c": "",
       "correct_answer": "Ja, aus Neapel kommt Herr Mancuso.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "",
@@ -1299,7 +1398,8 @@
       "option_c": "",
       "correct_answer": "Ja, in Mailand arbeitet mein Vater.",
       "topic": "profession",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "",
@@ -1312,7 +1412,8 @@
       "option_c": "",
       "correct_answer": "Ja, aus Italien komme ich.",
       "topic": "personal-info",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "",
@@ -1325,7 +1426,8 @@
       "option_c": "",
       "correct_answer": "Ja, gut geht's mir.",
       "topic": "health",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "",
@@ -1338,7 +1440,8 @@
       "option_c": "",
       "correct_answer": "Ja, gern trinke ich einen Kaffee.",
       "topic": "food",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "",
@@ -1351,7 +1454,8 @@
       "option_c": "",
       "correct_answer": "Ja, Tiere mag ich.",
       "topic": "hobby",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Beantworte die Fragen wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1364,7 +1468,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1377,7 +1482,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1390,7 +1496,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1403,7 +1510,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1416,7 +1524,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1429,7 +1538,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1442,7 +1552,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1455,7 +1566,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1468,7 +1580,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1481,7 +1594,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1494,7 +1608,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1507,7 +1622,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1520,7 +1636,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1533,7 +1650,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1546,7 +1664,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1559,7 +1678,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1572,7 +1692,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1585,7 +1706,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1598,7 +1720,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1611,7 +1734,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -1624,7 +1748,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "mixed",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Hör zu und wiederhole die Sätze mit der richtigen Intonation."
     },
     {
       "section": "vocabulary",
@@ -1637,7 +1762,8 @@
       "option_c": "",
       "correct_answer": "schön.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "vocabulary",
@@ -1650,7 +1776,8 @@
       "option_c": "",
       "correct_answer": "gemütlich.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "vocabulary",
@@ -1663,7 +1790,8 @@
       "option_c": "",
       "correct_answer": "praktisch.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "vocabulary",
@@ -1676,7 +1804,8 @@
       "option_c": "",
       "correct_answer": "nicht sehr groß.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "vocabulary",
@@ -1689,7 +1818,8 @@
       "option_c": "",
       "correct_answer": "klein.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "vocabulary",
@@ -1702,7 +1832,8 @@
       "option_c": "",
       "correct_answer": "hell.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "vocabulary",
@@ -1715,7 +1846,8 @@
       "option_c": "",
       "correct_answer": "sehr groß.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "vocabulary",
@@ -1728,7 +1860,8 @@
       "option_c": "",
       "correct_answer": "nützlich.",
       "topic": "home",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare. Viel Spaß!"
     },
     {
       "section": "writing",
@@ -1741,7 +1874,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "mixed",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze."
     },
     {
       "section": "writing",
@@ -1754,7 +1888,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "063"
+      "source_page": "063",
+      "instruction": "Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze."
     },
     {
       "section": "vocabulary",
@@ -1767,7 +1902,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "065"
+      "source_page": "065",
+      "instruction": "Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen."
     },
     {
       "section": "vocabulary",
@@ -1780,7 +1916,8 @@
       "option_c": "",
       "correct_answer": "b (das Brötchen)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1793,7 +1930,8 @@
       "option_c": "",
       "correct_answer": "f (die Butter)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1806,7 +1944,8 @@
       "option_c": "",
       "correct_answer": "d (der Honig)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1819,7 +1958,8 @@
       "option_c": "",
       "correct_answer": "a (der Tee)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1832,7 +1972,8 @@
       "option_c": "",
       "correct_answer": "e (die Milch)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1845,7 +1986,8 @@
       "option_c": "",
       "correct_answer": "j (der Orangensaft)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1858,7 +2000,8 @@
       "option_c": "",
       "correct_answer": "c (die Marmelade)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1871,7 +2014,8 @@
       "option_c": "",
       "correct_answer": "h (der Kaffee)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1884,7 +2028,8 @@
       "option_c": "",
       "correct_answer": "l (das Croissant)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1897,7 +2042,8 @@
       "option_c": "",
       "correct_answer": "k (das Ei)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1910,7 +2056,8 @@
       "option_c": "",
       "correct_answer": "g (das Brot)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1923,7 +2070,8 @@
       "option_c": "",
       "correct_answer": "m (der Schinken)",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was gibt es zum Frühstück? Schreib die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -1936,7 +2084,8 @@
       "option_c": "",
       "correct_answer": "Der Käse (i) fehlt.",
       "topic": "food",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Was fehlt?"
     },
     {
       "section": "vocabulary",
@@ -1949,7 +2098,8 @@
       "option_c": "",
       "correct_answer": "der: Tee, Honig, Kaffee, Käse, Orangensaft, Schinken; die: Marmelade, Milch, Butter; das: Brötchen, Brot, Ei, Croissant",
       "topic": "food",
-      "source_page": "068"
+      "source_page": "068",
+      "instruction": "Sortiere die Wörter aus Übung 1 in die Tabelle ein."
     },
     {
       "section": "writing",
@@ -1962,7 +2112,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "068"
+      "source_page": "068",
+      "instruction": "Bilde Sätze, die einen Sinn ergeben."
     },
     {
       "section": "writing",
@@ -1975,7 +2126,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "068"
+      "source_page": "068",
+      "instruction": "Was essen und trinken die Kinder in der Pause?"
     },
     {
       "section": "",
@@ -1988,7 +2140,8 @@
       "option_c": "",
       "correct_answer": "c. Nein danke, keinen Schokoriegel.",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "",
@@ -2001,7 +2154,8 @@
       "option_c": "",
       "correct_answer": "e. Einen Apfelsaft.",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "",
@@ -2014,7 +2168,8 @@
       "option_c": "",
       "correct_answer": "a. Einen Apfel.",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "",
@@ -2027,7 +2182,8 @@
       "option_c": "",
       "correct_answer": "f. Ja, gern!",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "",
@@ -2040,7 +2196,8 @@
       "option_c": "",
       "correct_answer": "d. Nein, ich habe Hunger.",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "",
@@ -2053,7 +2210,8 @@
       "option_c": "",
       "correct_answer": "b. Ich möchte ein Stück Kuchen.",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "",
@@ -2066,7 +2224,8 @@
       "option_c": "",
       "correct_answer": "Nein danke, keinen Apfel!",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Antworte mit Negation."
     },
     {
       "section": "",
@@ -2079,7 +2238,8 @@
       "option_c": "",
       "correct_answer": "Nein danke, kein Käsebrot!",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Antworte mit Negation."
     },
     {
       "section": "",
@@ -2092,7 +2252,8 @@
       "option_c": "",
       "correct_answer": "Nein danke, keine Banane!",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Antworte mit Negation."
     },
     {
       "section": "",
@@ -2105,7 +2266,8 @@
       "option_c": "",
       "correct_answer": "Nein danke, keinen Schokoriegel!",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Antworte mit Negation."
     },
     {
       "section": "",
@@ -2118,7 +2280,8 @@
       "option_c": "",
       "correct_answer": "Nein danke, kein Croissant!",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Antworte mit Negation."
     },
     {
       "section": "",
@@ -2131,7 +2294,8 @@
       "option_c": "",
       "correct_answer": "Nein danke, keinen Kuchen!",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Antworte mit Negation."
     },
     {
       "section": "",
@@ -2144,7 +2308,8 @@
       "option_c": "",
       "correct_answer": "in der Pause; möchte … essen; keinen; ein Käsebrot; haben … mehr; Möchtest; keinen Apfel; Hast; habe",
       "topic": "food",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "reading",
@@ -2157,7 +2322,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "food",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Lies, was Doktor Bönisch über das Frühstück sagt. Mach dann die Aufgabe."
     },
     {
       "section": "reading",
@@ -2170,7 +2336,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "food",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Lies, was Doktor Bönisch über das Frühstück sagt. Mach dann die Aufgabe."
     },
     {
       "section": "reading",
@@ -2183,7 +2350,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "food",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Lies, was Doktor Bönisch über das Frühstück sagt. Mach dann die Aufgabe."
     },
     {
       "section": "reading",
@@ -2196,7 +2364,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "food",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Lies, was Doktor Bönisch über das Frühstück sagt. Mach dann die Aufgabe."
     },
     {
       "section": "reading",
@@ -2209,7 +2378,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "food",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Lies, was Doktor Bönisch über das Frühstück sagt. Mach dann die Aufgabe."
     },
     {
       "section": "vocabulary",
@@ -2222,7 +2392,8 @@
       "option_c": "",
       "correct_answer": "e (das Mäppchen)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2235,7 +2406,8 @@
       "option_c": "",
       "correct_answer": "g (das Heft)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2248,7 +2420,8 @@
       "option_c": "",
       "correct_answer": "d (das Englischbuch)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2261,7 +2434,8 @@
       "option_c": "",
       "correct_answer": "b (die Schultasche)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2274,7 +2448,8 @@
       "option_c": "",
       "correct_answer": "f (der Radiergummi)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2287,7 +2462,8 @@
       "option_c": "",
       "correct_answer": "l (der Kugelschreiber)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2300,7 +2476,8 @@
       "option_c": "",
       "correct_answer": "i (der Textmarker)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2313,7 +2490,8 @@
       "option_c": "",
       "correct_answer": "a (der Taschenrechner)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2326,7 +2504,8 @@
       "option_c": "",
       "correct_answer": "c (das Lineal)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "vocabulary",
@@ -2339,7 +2518,8 @@
       "option_c": "",
       "correct_answer": "h (die Schere)",
       "topic": "school",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was ist das? Schreibe die Buchstaben in die Kästchen."
     },
     {
       "section": "",
@@ -2352,7 +2532,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist eine Mappe.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "",
@@ -2365,7 +2546,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist ein Radiergummi.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "",
@@ -2378,7 +2560,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist ein Textmarker.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "",
@@ -2391,7 +2574,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist eine Schere.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "",
@@ -2404,7 +2588,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist ein Mäppchen.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "",
@@ -2417,7 +2602,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist eine Weltkarte.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "",
@@ -2430,7 +2616,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist ein Kugelschreiber.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "",
@@ -2443,7 +2630,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist eine Mappe.",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "listening",
@@ -2456,7 +2644,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "school",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu und schreib Sätze, die einen Sinn ergeben."
     },
     {
       "section": "listening",
@@ -2469,7 +2658,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "listening",
@@ -2482,7 +2672,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "listening",
@@ -2495,7 +2686,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "listening",
@@ -2508,7 +2700,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "listening",
@@ -2521,7 +2714,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "listening",
@@ -2534,7 +2728,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "listening",
@@ -2547,7 +2742,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "listening",
@@ -2560,7 +2756,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "shopping",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hör zu. Was kostet das?"
     },
     {
       "section": "",
@@ -2573,7 +2770,8 @@
       "option_c": "",
       "correct_answer": "zwei Bücher",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2586,7 +2784,8 @@
       "option_c": "",
       "correct_answer": "zwei Kugelschreiber",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2599,7 +2798,8 @@
       "option_c": "",
       "correct_answer": "zwei Scheren",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2612,7 +2812,8 @@
       "option_c": "",
       "correct_answer": "zwei Hefte",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2625,7 +2826,8 @@
       "option_c": "",
       "correct_answer": "zwei Lineale",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2638,7 +2840,8 @@
       "option_c": "",
       "correct_answer": "zwei Bleistifte",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2651,7 +2854,8 @@
       "option_c": "",
       "correct_answer": "zwei Mäppchen",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2664,7 +2868,8 @@
       "option_c": "",
       "correct_answer": "zwei Radiergummis",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Wie heißt der Plural?"
     },
     {
       "section": "",
@@ -2677,7 +2882,8 @@
       "option_c": "",
       "correct_answer": "den / den",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Hast du alles? Ergänze wie im Beispiel."
     },
     {
       "section": "",
@@ -2690,7 +2896,8 @@
       "option_c": "",
       "correct_answer": "das / das",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Hast du alles? Ergänze wie im Beispiel."
     },
     {
       "section": "",
@@ -2703,7 +2910,8 @@
       "option_c": "",
       "correct_answer": "die / die",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Hast du alles? Ergänze wie im Beispiel."
     },
     {
       "section": "",
@@ -2716,7 +2924,8 @@
       "option_c": "",
       "correct_answer": "das / das",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Hast du alles? Ergänze wie im Beispiel."
     },
     {
       "section": "",
@@ -2729,7 +2938,8 @@
       "option_c": "",
       "correct_answer": "die / die",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Hast du alles? Ergänze wie im Beispiel."
     },
     {
       "section": "",
@@ -2742,7 +2952,8 @@
       "option_c": "",
       "correct_answer": "das / das",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Hast du alles? Ergänze wie im Beispiel."
     },
     {
       "section": "",
@@ -2755,7 +2966,8 @@
       "option_c": "",
       "correct_answer": "den / den",
       "topic": "school",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Hast du alles? Ergänze wie im Beispiel."
     }
   ]
 }

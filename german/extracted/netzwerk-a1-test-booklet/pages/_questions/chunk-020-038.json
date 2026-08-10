@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "family",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie die beiden Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "family",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie die beiden Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "family",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie die beiden Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "family",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie die beiden Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "family",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie die beiden Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "writing",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "Zeit",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Eine E-Mail schreiben. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "morgen",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Eine E-Mail schreiben. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "Wie lange",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Eine E-Mail schreiben. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "telefonieren",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Eine E-Mail schreiben. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "Grüße",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Eine E-Mail schreiben. Ergänzen Sie."
     },
     {
       "section": "speaking",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "mixed",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Wählen Sie ein Bild. Sie sind in der Situation des gewählten Bildes. Spielen Sie diese Situation mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner."
     },
     {
       "section": "listening",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "Freitag",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "18.",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "20",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "Kramladen",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "12",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "Leibniz",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -233,7 +250,8 @@
       "option_c": "",
       "correct_answer": "2",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -246,7 +264,8 @@
       "option_c": "",
       "correct_answer": "17:30",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "Buch",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "listening",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "61447738",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie die Aufgabe A gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal. Bearbeiten Sie dann Aufgabe B."
     },
     {
       "section": "vocabulary",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "das Glas",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "bestellen",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "die Mail",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "teuer",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "das Trinkgeld",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "Sie",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Wer bekommt was? Ergänzen Sie die Personalpronomen im Akkusativ."
     },
     {
       "section": "",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "dich",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Wer bekommt was? Ergänzen Sie die Personalpronomen im Akkusativ."
     },
     {
       "section": "",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "euch",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Wer bekommt was? Ergänzen Sie die Personalpronomen im Akkusativ."
     },
     {
       "section": "",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "uns",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Wer bekommt was? Ergänzen Sie die Personalpronomen im Akkusativ."
     },
     {
       "section": "",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "mich",
       "topic": "restaurant",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Wer bekommt was? Ergänzen Sie die Personalpronomen im Akkusativ."
     },
     {
       "section": "",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "fängt … an",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Ergänzen Sie die trennbaren Verben."
     },
     {
       "section": "",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "holt … ab",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Ergänzen Sie die trennbaren Verben."
     },
     {
       "section": "",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "kommen … mit",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Ergänzen Sie die trennbaren Verben."
     },
     {
       "section": "",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "bringt … mit",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Ergänzen Sie die trennbaren Verben."
     },
     {
       "section": "",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "Rufst … an",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Ergänzen Sie die trennbaren Verben."
     },
     {
       "section": "",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "war",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Präteritum: haben und sein. Ergänzen Sie den Dialog."
     },
     {
       "section": "",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "waren",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Präteritum: haben und sein. Ergänzen Sie den Dialog."
     },
     {
       "section": "",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "hatten",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Präteritum: haben und sein. Ergänzen Sie den Dialog."
     },
     {
       "section": "",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "warst",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Präteritum: haben und sein. Ergänzen Sie den Dialog."
     },
     {
       "section": "",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "hatte",
       "topic": "hobby",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Präteritum: haben und sein. Ergänzen Sie den Dialog."
     },
     {
       "section": "reading",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "city-places",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "city-places",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "city-places",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -584,7 +628,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "city-places",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "reading",
@@ -597,7 +642,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "city-places",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1 bis 5. Kreuzen Sie an: Richtig oder Falsch."
     },
     {
       "section": "writing",
@@ -610,7 +656,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Schreiben Sie eine Einladung."
     },
     {
       "section": "speaking",
@@ -623,7 +670,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Sprechen Sie. Machen Sie vier Verabredungen. Sie nehmen zwei Karten, Ihr Partner / Ihre Partnerin auch zwei. Zweimal fangen Sie an, zweimal Ihr Partner / Ihre Partnerin."
     },
     {
       "section": "listening",
@@ -636,7 +684,8 @@
       "option_c": "Zur Bank.",
       "correct_answer": "Zur Bank.",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -649,7 +698,8 @@
       "option_c": "Um 16 Uhr.",
       "correct_answer": "Um 16 Uhr.",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -662,7 +712,8 @@
       "option_c": "Einen Saft.",
       "correct_answer": "Einen Tee.",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -675,7 +726,8 @@
       "option_c": "Mit seiner Schwester.",
       "correct_answer": "Mit einer Freundin.",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -688,7 +740,8 @@
       "option_c": "Die Arbeitszeiten.",
       "correct_answer": "Die Kollegen.",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "vocabulary",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "lesen",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Im Büro. Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "schicken",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Im Büro. Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "öffnen",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Im Büro. Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "drucken",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Im Büro. Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "ausmachen",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Im Büro. Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "mit der",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänzen Sie die Präpositionen und den bestimmten Artikel."
     },
     {
       "section": "",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "zur",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänzen Sie die Präpositionen und den bestimmten Artikel."
     },
     {
       "section": "",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "im",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänzen Sie die Präpositionen und den bestimmten Artikel."
     },
     {
       "section": "",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "vom",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänzen Sie die Präpositionen und den bestimmten Artikel."
     },
     {
       "section": "",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "aus dem",
       "topic": "profession",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Ergänzen Sie die Präpositionen und den bestimmten Artikel."
     },
     {
       "section": "",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "oder",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänzen Sie und, oder, aber."
     },
     {
       "section": "",
@@ -844,7 +908,8 @@
       "option_c": "",
       "correct_answer": "und",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänzen Sie und, oder, aber."
     },
     {
       "section": "",
@@ -857,7 +922,8 @@
       "option_c": "",
       "correct_answer": "aber",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänzen Sie und, oder, aber."
     },
     {
       "section": "",
@@ -870,7 +936,8 @@
       "option_c": "",
       "correct_answer": "oder",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänzen Sie und, oder, aber."
     },
     {
       "section": "",
@@ -883,7 +950,8 @@
       "option_c": "",
       "correct_answer": "aber",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Ergänzen Sie und, oder, aber."
     },
     {
       "section": "reading",
@@ -896,7 +964,8 @@
       "option_c": "",
       "correct_answer": "NEIN",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Sie lesen drei Anzeigen. Dazu gibt es je zwei Fragen. Antworten Sie mit JA oder NEIN."
     },
     {
       "section": "reading",
@@ -909,7 +978,8 @@
       "option_c": "",
       "correct_answer": "NEIN",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Sie lesen drei Anzeigen. Dazu gibt es je zwei Fragen. Antworten Sie mit JA oder NEIN."
     },
     {
       "section": "reading",
@@ -922,7 +992,8 @@
       "option_c": "",
       "correct_answer": "JA",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Sie lesen drei Anzeigen. Dazu gibt es je zwei Fragen. Antworten Sie mit JA oder NEIN."
     },
     {
       "section": "reading",
@@ -935,7 +1006,8 @@
       "option_c": "",
       "correct_answer": "NEIN",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Sie lesen drei Anzeigen. Dazu gibt es je zwei Fragen. Antworten Sie mit JA oder NEIN."
     },
     {
       "section": "reading",
@@ -948,7 +1020,8 @@
       "option_c": "",
       "correct_answer": "NEIN",
       "topic": "profession",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Sie lesen drei Anzeigen. Dazu gibt es je zwei Fragen. Antworten Sie mit JA oder NEIN."
     },
     {
       "section": "writing",
@@ -961,7 +1034,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Lesen Sie die E-Mail und antworten Sie."
     },
     {
       "section": "writing",
@@ -974,7 +1048,8 @@
       "option_c": "",
       "correct_answer": "Deutsch",
       "topic": "personal-info",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Ergänzen Sie die fünf Informationen aus dem Text im Formular."
     },
     {
       "section": "writing",
@@ -987,7 +1062,8 @@
       "option_c": "",
       "correct_answer": "Italienisch",
       "topic": "personal-info",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Ergänzen Sie die fünf Informationen aus dem Text im Formular."
     },
     {
       "section": "writing",
@@ -1000,7 +1076,8 @@
       "option_c": "",
       "correct_answer": "Sport und Musik",
       "topic": "personal-info",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Ergänzen Sie die fünf Informationen aus dem Text im Formular."
     },
     {
       "section": "writing",
@@ -1013,7 +1090,8 @@
       "option_c": "",
       "correct_answer": "Kinofilme",
       "topic": "personal-info",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Ergänzen Sie die fünf Informationen aus dem Text im Formular."
     },
     {
       "section": "writing",
@@ -1026,7 +1104,8 @@
       "option_c": "",
       "correct_answer": "abends und am Wochenende",
       "topic": "personal-info",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Ergänzen Sie die fünf Informationen aus dem Text im Formular."
     },
     {
       "section": "speaking",
@@ -1039,7 +1118,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "mixed",
-      "source_page": "027"
+      "source_page": "027",
+      "instruction": "Small Talk im Büro. Wählen Sie ein Thema und sprechen Sie."
     },
     {
       "section": "listening",
@@ -1052,7 +1132,8 @@
       "option_c": "Um 16:00 Uhr.",
       "correct_answer": "Um 16:00 Uhr.",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c? Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1065,7 +1146,8 @@
       "option_c": "Zu Hause.",
       "correct_answer": "Zu Hause.",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c? Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1078,7 +1160,8 @@
       "option_c": "Seine Mutter anrufen.",
       "correct_answer": "Milch mit Honig trinken.",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c? Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1091,7 +1174,8 @@
       "option_c": "In der Arbeit.",
       "correct_answer": "Beim Arzt.",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c? Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1104,7 +1188,8 @@
       "option_c": "Einen Hustensaft.",
       "correct_answer": "Ein Rezept.",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c? Sie hören jeden Text zweimal."
     },
     {
       "section": "vocabulary",
@@ -1117,7 +1202,8 @@
       "option_c": "",
       "correct_answer": "glücklich",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1130,7 +1216,8 @@
       "option_c": "",
       "correct_answer": "die Ohrenschmerzen",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1143,7 +1230,8 @@
       "option_c": "",
       "correct_answer": "trinken",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1156,7 +1244,8 @@
       "option_c": "",
       "correct_answer": "der Hausmeister",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1169,7 +1258,8 @@
       "option_c": "",
       "correct_answer": "der Verband",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1182,7 +1272,8 @@
       "option_c": "",
       "correct_answer": "der Bauch",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Schreiben Sie die Körperteile mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1195,7 +1286,8 @@
       "option_c": "",
       "correct_answer": "das Bein",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Schreiben Sie die Körperteile mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1208,7 +1300,8 @@
       "option_c": "",
       "correct_answer": "der Kopf / die Haare",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Schreiben Sie die Körperteile mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1221,7 +1314,8 @@
       "option_c": "",
       "correct_answer": "der Arm",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Schreiben Sie die Körperteile mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1234,7 +1328,8 @@
       "option_c": "",
       "correct_answer": "die Hand",
       "topic": "health",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Schreiben Sie die Körperteile mit Artikel."
     },
     {
       "section": "",
@@ -1247,7 +1342,8 @@
       "option_c": "",
       "correct_answer": "müssen",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Ergänzen Sie müssen, dürfen oder sollen in der richtigen Form."
     },
     {
       "section": "",
@@ -1260,7 +1356,8 @@
       "option_c": "",
       "correct_answer": "müssen",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Ergänzen Sie müssen, dürfen oder sollen in der richtigen Form."
     },
     {
       "section": "",
@@ -1273,7 +1370,8 @@
       "option_c": "",
       "correct_answer": "Darf",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Ergänzen Sie müssen, dürfen oder sollen in der richtigen Form."
     },
     {
       "section": "",
@@ -1286,7 +1384,8 @@
       "option_c": "",
       "correct_answer": "soll",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Ergänzen Sie müssen, dürfen oder sollen in der richtigen Form."
     },
     {
       "section": "",
@@ -1299,7 +1398,8 @@
       "option_c": "",
       "correct_answer": "dürfen",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Ergänzen Sie müssen, dürfen oder sollen in der richtigen Form."
     },
     {
       "section": "",
@@ -1312,7 +1412,8 @@
       "option_c": "",
       "correct_answer": "Bleiben Sie im Bett und essen Sie Hühnersuppe.",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Schreiben Sie Sätze im Imperativ mit du, ihr oder Sie."
     },
     {
       "section": "",
@@ -1325,7 +1426,8 @@
       "option_c": "",
       "correct_answer": "Geh ins Krankenhaus und beweg den Arm nicht.",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Schreiben Sie Sätze im Imperativ mit du, ihr oder Sie."
     },
     {
       "section": "",
@@ -1338,7 +1440,8 @@
       "option_c": "",
       "correct_answer": "Macht eine Pause und arbeitet nicht so viel.",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Schreiben Sie Sätze im Imperativ mit du, ihr oder Sie."
     },
     {
       "section": "",
@@ -1351,7 +1454,8 @@
       "option_c": "",
       "correct_answer": "Steh vom Sofa auf und hol die Kinder ab.",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Schreiben Sie Sätze im Imperativ mit du, ihr oder Sie."
     },
     {
       "section": "",
@@ -1364,7 +1468,8 @@
       "option_c": "",
       "correct_answer": "Seid aktiv und macht fünf Minuten Sport.",
       "topic": "health",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Schreiben Sie Sätze im Imperativ mit du, ihr oder Sie."
     },
     {
       "section": "reading",
@@ -1377,7 +1482,8 @@
       "option_c": "",
       "correct_answer": "3",
       "topic": "health",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Sie lesen fünf kurze Texte (Text A–E). Zu jedem Text gibt es je ein Bild (Bild 1–6). Welches Bild passt zu welchem Text? Achtung: Ein Bild ist zu viel. Schreiben Sie die Nummer des passenden Bildes unter den Text."
     },
     {
       "section": "reading",
@@ -1390,7 +1496,8 @@
       "option_c": "",
       "correct_answer": "6",
       "topic": "health",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Sie lesen fünf kurze Texte (Text A–E). Zu jedem Text gibt es je ein Bild (Bild 1–6). Welches Bild passt zu welchem Text? Achtung: Ein Bild ist zu viel. Schreiben Sie die Nummer des passenden Bildes unter den Text."
     },
     {
       "section": "reading",
@@ -1403,7 +1510,8 @@
       "option_c": "",
       "correct_answer": "4",
       "topic": "health",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Sie lesen fünf kurze Texte (Text A–E). Zu jedem Text gibt es je ein Bild (Bild 1–6). Welches Bild passt zu welchem Text? Achtung: Ein Bild ist zu viel. Schreiben Sie die Nummer des passenden Bildes unter den Text."
     },
     {
       "section": "reading",
@@ -1416,7 +1524,8 @@
       "option_c": "",
       "correct_answer": "2",
       "topic": "health",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Sie lesen fünf kurze Texte (Text A–E). Zu jedem Text gibt es je ein Bild (Bild 1–6). Welches Bild passt zu welchem Text? Achtung: Ein Bild ist zu viel. Schreiben Sie die Nummer des passenden Bildes unter den Text."
     },
     {
       "section": "reading",
@@ -1429,7 +1538,8 @@
       "option_c": "",
       "correct_answer": "1",
       "topic": "health",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Sie lesen fünf kurze Texte (Text A–E). Zu jedem Text gibt es je ein Bild (Bild 1–6). Welches Bild passt zu welchem Text? Achtung: Ein Bild ist zu viel. Schreiben Sie die Nummer des passenden Bildes unter den Text."
     },
     {
       "section": "writing",
@@ -1442,7 +1552,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "health",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Schreiben Sie eine Entschuldigung."
     },
     {
       "section": "speaking",
@@ -1455,7 +1566,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "health",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Sprechen Sie zu zweit. Nehmen Sie zwei Karten. Formulieren Sie Bitten und reagieren Sie."
     },
     {
       "section": "listening",
@@ -1468,7 +1580,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Hören Sie die Gespräche. Sind die Sätze Richtig oder Falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1481,7 +1594,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Hören Sie die Gespräche. Sind die Sätze Richtig oder Falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1494,7 +1608,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Hören Sie die Gespräche. Sind die Sätze Richtig oder Falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1507,7 +1622,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Hören Sie die Gespräche. Sind die Sätze Richtig oder Falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1520,7 +1636,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Hören Sie die Gespräche. Sind die Sätze Richtig oder Falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1533,7 +1650,8 @@
       "option_c": "",
       "correct_answer": "2",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -1546,7 +1664,8 @@
       "option_c": "",
       "correct_answer": "1",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -1559,7 +1678,8 @@
       "option_c": "",
       "correct_answer": "4",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -1572,7 +1692,8 @@
       "option_c": "",
       "correct_answer": "5",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -1585,7 +1706,8 @@
       "option_c": "",
       "correct_answer": "3",
       "topic": "home",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "",
@@ -1598,7 +1720,8 @@
       "option_c": "",
       "correct_answer": "zwischen",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ergänzen Sie die Präpositionen."
     },
     {
       "section": "",
@@ -1611,7 +1734,8 @@
       "option_c": "",
       "correct_answer": "in",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ergänzen Sie die Präpositionen."
     },
     {
       "section": "",
@@ -1624,7 +1748,8 @@
       "option_c": "",
       "correct_answer": "Neben",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ergänzen Sie die Präpositionen."
     },
     {
       "section": "",
@@ -1637,7 +1762,8 @@
       "option_c": "",
       "correct_answer": "An",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ergänzen Sie die Präpositionen."
     },
     {
       "section": "",
@@ -1650,7 +1776,8 @@
       "option_c": "",
       "correct_answer": "hinter",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ergänzen Sie die Präpositionen."
     },
     {
       "section": "",
@@ -1663,7 +1790,8 @@
       "option_c": "",
       "correct_answer": "Sehr praktisch. Er ist super für die Arbeit.",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "",
@@ -1676,7 +1804,8 @@
       "option_c": "",
       "correct_answer": "Ja, die Farbe ist toll!",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "",
@@ -1689,7 +1818,8 @@
       "option_c": "",
       "correct_answer": "Ja, ich finde sie auch zu dunkel.",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "",
@@ -1702,7 +1832,8 @@
       "option_c": "",
       "correct_answer": "Doch, er ist von Oma.",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "",
@@ -1715,7 +1846,8 @@
       "option_c": "",
       "correct_answer": "Ja, sie ist nicht groß, aber das macht nichts.",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1728,7 +1860,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Lesen Sie die E-Mails und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1741,7 +1874,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Lesen Sie die E-Mails und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1754,7 +1888,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Lesen Sie die E-Mails und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1767,7 +1902,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Lesen Sie die E-Mails und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1780,7 +1916,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "home",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Lesen Sie die E-Mails und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "writing",
@@ -1793,7 +1930,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Und Sie? Schreiben Sie über Ihre Wohnung. Schreiben Sie zu jedem Punkt einen Satz."
     },
     {
       "section": "writing",
@@ -1806,7 +1944,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Und Sie? Schreiben Sie über Ihre Wohnung. Schreiben Sie zu jedem Punkt einen Satz."
     },
     {
       "section": "writing",
@@ -1819,7 +1958,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Und Sie? Schreiben Sie über Ihre Wohnung. Schreiben Sie zu jedem Punkt einen Satz."
     },
     {
       "section": "writing",
@@ -1832,7 +1972,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Und Sie? Schreiben Sie über Ihre Wohnung. Schreiben Sie zu jedem Punkt einen Satz."
     },
     {
       "section": "writing",
@@ -1845,7 +1986,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Und Sie? Schreiben Sie über Ihre Wohnung. Schreiben Sie zu jedem Punkt einen Satz."
     },
     {
       "section": "writing",
@@ -1858,7 +2000,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Lesen Sie die E-Mail und antworten Sie."
     },
     {
       "section": "speaking",
@@ -1871,7 +2014,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "home",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Nehmen Sie eine Karte zum Thema Wohnen und eine Karte zum Thema Feste. Fragen Sie Ihren Partner / Ihre Partnerin. Ihr Partner / Ihre Partnerin antwortet und stellt dann die nächste Frage."
     },
     {
       "section": "listening",
@@ -1884,7 +2028,8 @@
       "option_c": "",
       "correct_answer": "reisen",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben zehn Sekunden Zeit. Situation: Sie hören jetzt fünf Personen, die befragt werden. Hören Sie gut zu und kreuzen Sie die richtigen Antworten an. Pro Person gibt es nur eine Antwort. Sie hören die Texte ein Mal."
     },
     {
       "section": "listening",
@@ -1897,7 +2042,8 @@
       "option_c": "",
       "correct_answer": "Aufgaben interessant",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben zehn Sekunden Zeit. Situation: Sie hören jetzt fünf Personen, die befragt werden. Hören Sie gut zu und kreuzen Sie die richtigen Antworten an. Pro Person gibt es nur eine Antwort. Sie hören die Texte ein Mal."
     },
     {
       "section": "listening",
@@ -1910,7 +2056,8 @@
       "option_c": "",
       "correct_answer": "Bezahlung",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben zehn Sekunden Zeit. Situation: Sie hören jetzt fünf Personen, die befragt werden. Hören Sie gut zu und kreuzen Sie die richtigen Antworten an. Pro Person gibt es nur eine Antwort. Sie hören die Texte ein Mal."
     },
     {
       "section": "listening",
@@ -1923,7 +2070,8 @@
       "option_c": "",
       "correct_answer": "Kontakt mit Menschen",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben zehn Sekunden Zeit. Situation: Sie hören jetzt fünf Personen, die befragt werden. Hören Sie gut zu und kreuzen Sie die richtigen Antworten an. Pro Person gibt es nur eine Antwort. Sie hören die Texte ein Mal."
     },
     {
       "section": "listening",
@@ -1936,7 +2084,8 @@
       "option_c": "",
       "correct_answer": "Bezahlung",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben zehn Sekunden Zeit. Situation: Sie hören jetzt fünf Personen, die befragt werden. Hören Sie gut zu und kreuzen Sie die richtigen Antworten an. Pro Person gibt es nur eine Antwort. Sie hören die Texte ein Mal."
     },
     {
       "section": "vocabulary",
@@ -1949,7 +2098,8 @@
       "option_c": "",
       "correct_answer": "machen",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -1962,7 +2112,8 @@
       "option_c": "",
       "correct_answer": "verbinden",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -1975,7 +2126,8 @@
       "option_c": "",
       "correct_answer": "Prüfung",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -1988,7 +2140,8 @@
       "option_c": "",
       "correct_answer": "geben",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -2001,7 +2154,8 @@
       "option_c": "",
       "correct_answer": "Protokoll",
       "topic": "profession",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Welches Wort passt? Unterstreichen Sie."
     },
     {
       "section": "",
@@ -2014,7 +2168,8 @@
       "option_c": "",
       "correct_answer": "gekommen",
       "topic": "hobby",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Ergänzen Sie das Partizip II."
     },
     {
       "section": "",
@@ -2027,7 +2182,8 @@
       "option_c": "",
       "correct_answer": "gefahren",
       "topic": "hobby",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Ergänzen Sie das Partizip II."
     },
     {
       "section": "",
@@ -2040,7 +2196,8 @@
       "option_c": "",
       "correct_answer": "gefunden",
       "topic": "hobby",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Ergänzen Sie das Partizip II."
     },
     {
       "section": "",
@@ -2053,7 +2210,8 @@
       "option_c": "",
       "correct_answer": "getrunken",
       "topic": "hobby",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Ergänzen Sie das Partizip II."
     },
     {
       "section": "",
@@ -2066,7 +2224,8 @@
       "option_c": "",
       "correct_answer": "gegangen",
       "topic": "hobby",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Ergänzen Sie das Partizip II."
     },
     {
       "section": "",
@@ -2079,7 +2238,8 @@
       "option_c": "",
       "correct_answer": "Gestern hat Felix zwei Stunden gelernt.",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Schreiben Sie Sätze im Perfekt. Beginnen Sie mit dem markierten Wort. Achten Sie auf haben und sein."
     },
     {
       "section": "",
@@ -2092,7 +2252,8 @@
       "option_c": "",
       "correct_answer": "Wohin bist du letztes Jahr geflogen?",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Schreiben Sie Sätze im Perfekt. Beginnen Sie mit dem markierten Wort. Achten Sie auf haben und sein."
     },
     {
       "section": "",
@@ -2105,7 +2266,8 @@
       "option_c": "",
       "correct_answer": "Jana hat vier Jahre Architektur studiert.",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Schreiben Sie Sätze im Perfekt. Beginnen Sie mit dem markierten Wort. Achten Sie auf haben und sein."
     },
     {
       "section": "",
@@ -2118,7 +2280,8 @@
       "option_c": "",
       "correct_answer": "Heute hat er mit einer Kundin telefoniert.",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Schreiben Sie Sätze im Perfekt. Beginnen Sie mit dem markierten Wort. Achten Sie auf haben und sein."
     },
     {
       "section": "",
@@ -2131,7 +2294,8 @@
       "option_c": "",
       "correct_answer": "Leider hat sie noch keine Arbeit gefunden.",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Schreiben Sie Sätze im Perfekt. Beginnen Sie mit dem markierten Wort. Achten Sie auf haben und sein."
     },
     {
       "section": "",
@@ -2144,7 +2308,8 @@
       "option_c": "",
       "correct_answer": "Hamann sprechen?",
       "topic": "communication",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Am Telefon. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -2157,7 +2322,8 @@
       "option_c": "",
       "correct_answer": "heute leider nicht da.",
       "topic": "communication",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Am Telefon. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -2170,7 +2336,8 @@
       "option_c": "",
       "correct_answer": "nicht verstanden.",
       "topic": "communication",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Am Telefon. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -2183,7 +2350,8 @@
       "option_c": "",
       "correct_answer": "bitte wiederholen?",
       "topic": "communication",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Am Telefon. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -2196,7 +2364,8 @@
       "option_c": "",
       "correct_answer": "auf Wiederhören.",
       "topic": "communication",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Am Telefon. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "writing",
@@ -2209,7 +2378,8 @@
       "option_c": "",
       "correct_answer": "Eisverkäufer",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Eine Anmeldung bei der Jobbörse. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -2222,7 +2392,8 @@
       "option_c": "",
       "correct_answer": "1. August bis 30. September",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Eine Anmeldung bei der Jobbörse. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -2235,7 +2406,8 @@
       "option_c": "",
       "correct_answer": "ja",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Eine Anmeldung bei der Jobbörse. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -2248,7 +2420,8 @@
       "option_c": "",
       "correct_answer": "Leipzig",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Eine Anmeldung bei der Jobbörse. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -2261,7 +2434,8 @@
       "option_c": "",
       "correct_answer": "+39 377 45 45 678",
       "topic": "profession",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Eine Anmeldung bei der Jobbörse. Ergänzen Sie."
     },
     {
       "section": "reading",
@@ -2274,7 +2448,8 @@
       "option_c": "",
       "correct_answer": "2",
       "topic": "profession",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Sie suchen verschiedene Dinge in der Zeitung. Finden Sie zu jeder Situation (A–E) die passende Anzeige (1–6). Achtung: Eine Anzeige ist zu viel. Schreiben Sie die Nummer der passenden Anzeige neben die Sätze."
     },
     {
       "section": "reading",
@@ -2287,7 +2462,8 @@
       "option_c": "",
       "correct_answer": "5",
       "topic": "profession",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Sie suchen verschiedene Dinge in der Zeitung. Finden Sie zu jeder Situation (A–E) die passende Anzeige (1–6). Achtung: Eine Anzeige ist zu viel. Schreiben Sie die Nummer der passenden Anzeige neben die Sätze."
     },
     {
       "section": "reading",
@@ -2300,7 +2476,8 @@
       "option_c": "",
       "correct_answer": "4",
       "topic": "profession",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Sie suchen verschiedene Dinge in der Zeitung. Finden Sie zu jeder Situation (A–E) die passende Anzeige (1–6). Achtung: Eine Anzeige ist zu viel. Schreiben Sie die Nummer der passenden Anzeige neben die Sätze."
     },
     {
       "section": "reading",
@@ -2313,7 +2490,8 @@
       "option_c": "",
       "correct_answer": "6",
       "topic": "profession",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Sie suchen verschiedene Dinge in der Zeitung. Finden Sie zu jeder Situation (A–E) die passende Anzeige (1–6). Achtung: Eine Anzeige ist zu viel. Schreiben Sie die Nummer der passenden Anzeige neben die Sätze."
     },
     {
       "section": "reading",
@@ -2326,7 +2504,8 @@
       "option_c": "",
       "correct_answer": "3",
       "topic": "profession",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Sie suchen verschiedene Dinge in der Zeitung. Finden Sie zu jeder Situation (A–E) die passende Anzeige (1–6). Achtung: Eine Anzeige ist zu viel. Schreiben Sie die Nummer der passenden Anzeige neben die Sätze."
     },
     {
       "section": "speaking",
@@ -2339,7 +2518,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Über etwas sprechen (sich vorstellen). Situation: Ihre Gesprächspartnerin / Ihr Gesprächspartner möchte Sie gerne kennenlernen. Wählen Sie vier Themen aus und sprechen Sie zu jedem Thema ein paar Sätze. Ihre Gesprächspartnerin / Ihr Gesprächspartner kann Ihnen zu diesen Themen auch Fragen stellen."
     },
     {
       "section": "listening",
@@ -2352,7 +2532,8 @@
       "option_c": "Im dritten Stock.",
       "correct_answer": "Im dritten Stock.",
       "topic": "shopping",
-      "source_page": "037"
+      "source_page": "037",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -2365,7 +2546,8 @@
       "option_c": "Einen Pulli.",
       "correct_answer": "Einen Pulli.",
       "topic": "shopping",
-      "source_page": "037"
+      "source_page": "037",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -2378,7 +2560,8 @@
       "option_c": "Eine Tasche.",
       "correct_answer": "Ein Tuch.",
       "topic": "shopping",
-      "source_page": "037"
+      "source_page": "037",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -2391,7 +2574,8 @@
       "option_c": "Um 16:00 Uhr.",
       "correct_answer": "Um 16:00 Uhr.",
       "topic": "shopping",
-      "source_page": "037"
+      "source_page": "037",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -2404,7 +2588,8 @@
       "option_c": "Der Preis.",
       "correct_answer": "Der Preis.",
       "topic": "shopping",
-      "source_page": "037"
+      "source_page": "037",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "vocabulary",
@@ -2417,7 +2602,8 @@
       "option_c": "",
       "correct_answer": "helfen",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Welches Verb passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -2430,7 +2616,8 @@
       "option_c": "",
       "correct_answer": "steht",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Welches Verb passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -2443,7 +2630,8 @@
       "option_c": "",
       "correct_answer": "finde",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Welches Verb passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -2456,7 +2644,8 @@
       "option_c": "",
       "correct_answer": "empfehlen",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Welches Verb passt? Unterstreichen Sie."
     },
     {
       "section": "vocabulary",
@@ -2469,7 +2658,8 @@
       "option_c": "",
       "correct_answer": "Gefällt",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Welches Verb passt? Unterstreichen Sie."
     },
     {
       "section": "",
@@ -2482,7 +2672,8 @@
       "option_c": "",
       "correct_answer": "Welche",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie Welch- und dies- in der richtigen Form."
     },
     {
       "section": "",
@@ -2495,7 +2686,8 @@
       "option_c": "",
       "correct_answer": "Diese",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie Welch- und dies- in der richtigen Form."
     },
     {
       "section": "",
@@ -2508,7 +2700,8 @@
       "option_c": "",
       "correct_answer": "diesen",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie Welch- und dies- in der richtigen Form."
     },
     {
       "section": "",
@@ -2521,7 +2714,8 @@
       "option_c": "",
       "correct_answer": "Welches",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie Welch- und dies- in der richtigen Form."
     },
     {
       "section": "",
@@ -2534,7 +2728,8 @@
       "option_c": "",
       "correct_answer": "dieses",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie Welch- und dies- in der richtigen Form."
     },
     {
       "section": "",
@@ -2547,7 +2742,8 @@
       "option_c": "",
       "correct_answer": "mir",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie die Personalpronomen im Dativ oder Akkusativ."
     },
     {
       "section": "",
@@ -2560,7 +2756,8 @@
       "option_c": "",
       "correct_answer": "ihn",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie die Personalpronomen im Dativ oder Akkusativ."
     },
     {
       "section": "",
@@ -2573,7 +2770,8 @@
       "option_c": "",
       "correct_answer": "Sie",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie die Personalpronomen im Dativ oder Akkusativ."
     },
     {
       "section": "",
@@ -2586,7 +2784,8 @@
       "option_c": "",
       "correct_answer": "Ihnen",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie die Personalpronomen im Dativ oder Akkusativ."
     },
     {
       "section": "",
@@ -2599,7 +2798,8 @@
       "option_c": "",
       "correct_answer": "sie",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Ergänzen Sie die Personalpronomen im Dativ oder Akkusativ."
     },
     {
       "section": "reading",
@@ -2612,7 +2812,8 @@
       "option_c": "",
       "correct_answer": "2. Stock",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Im Kaufhaus. Wo finden Sie das? Lesen Sie die Tafel und notieren Sie."
     },
     {
       "section": "reading",
@@ -2625,7 +2826,8 @@
       "option_c": "",
       "correct_answer": "Untergeschoss",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Im Kaufhaus. Wo finden Sie das? Lesen Sie die Tafel und notieren Sie."
     },
     {
       "section": "reading",
@@ -2638,7 +2840,8 @@
       "option_c": "",
       "correct_answer": "4. Stock",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Im Kaufhaus. Wo finden Sie das? Lesen Sie die Tafel und notieren Sie."
     },
     {
       "section": "reading",
@@ -2651,7 +2854,8 @@
       "option_c": "",
       "correct_answer": "Erdgeschoss",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Im Kaufhaus. Wo finden Sie das? Lesen Sie die Tafel und notieren Sie."
     },
     {
       "section": "reading",
@@ -2664,7 +2868,8 @@
       "option_c": "",
       "correct_answer": "3. Stock",
       "topic": "shopping",
-      "source_page": "038"
+      "source_page": "038",
+      "instruction": "Im Kaufhaus. Wo finden Sie das? Lesen Sie die Tafel und notieren Sie."
     }
   ]
 }

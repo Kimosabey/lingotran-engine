@@ -12,7 +12,8 @@
       "option_c": "Grüß dick!",
       "correct_answer": "Grüß dich!",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Was ist richtig? Kreuz an."
     },
     {
       "section": "vocabulary",
@@ -25,7 +26,8 @@
       "option_c": "Hallow!",
       "correct_answer": "Hallo!",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Was ist richtig? Kreuz an."
     },
     {
       "section": "vocabulary",
@@ -38,7 +40,8 @@
       "option_c": "Tschüs!",
       "correct_answer": "Tschüs!",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Was ist richtig? Kreuz an."
     },
     {
       "section": "vocabulary",
@@ -51,7 +54,8 @@
       "option_c": "Gooden Tag!",
       "correct_answer": "Guten Tag!",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Was ist richtig? Kreuz an."
     },
     {
       "section": "vocabulary",
@@ -64,7 +68,8 @@
       "option_c": "Auf Wiedersehen!",
       "correct_answer": "Auf Wiedersehen!",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Was ist richtig? Kreuz an."
     },
     {
       "section": "vocabulary",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "Guten Tag",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge."
     },
     {
       "section": "vocabulary",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "Hallo",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge."
     },
     {
       "section": "vocabulary",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "Auf Wiedersehen",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge."
     },
     {
       "section": "vocabulary",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "Tschüs",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge."
     },
     {
       "section": "vocabulary",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "Grüß dich",
       "topic": "communication",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge."
     },
     {
       "section": "writing",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt du diese Personen? Wie verabschiedest du diese Personen?"
     },
     {
       "section": "writing",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt du diese Personen? Wie verabschiedest du diese Personen?"
     },
     {
       "section": "writing",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt du diese Personen? Wie verabschiedest du diese Personen?"
     },
     {
       "section": "vocabulary",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "Guten Morgen!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "vocabulary",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "Guten Morgen!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "vocabulary",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "Guten Abend!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "vocabulary",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "Guten Morgen!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "vocabulary",
@@ -233,7 +250,8 @@
       "option_c": "",
       "correct_answer": "Guten Abend!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "vocabulary",
@@ -246,7 +264,8 @@
       "option_c": "",
       "correct_answer": "Gute Nacht!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "vocabulary",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "Guten Tag!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "vocabulary",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "Gute Nacht!",
       "topic": "communication",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Wie begrüßt man sich im Verlauf des Tages?"
     },
     {
       "section": "reading",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "b. Ich heiße Timo.",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "a. Nein, ich bin Claudia.",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "e. Nein, ich heiße Melanie.",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "c. Ich bin Monika.",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "d. Ja, ich bin Jakob.",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "writing",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "Wie",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "du",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "Ich heiße",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "alt",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "bin 15",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "15",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "Tschüs",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "Lukas",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Ergänze den Dialog."
     },
     {
       "section": "writing",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "Und wie heißt du?",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Stell die Fragen."
     },
     {
       "section": "writing",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "Wie alt bist du?",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Stell die Fragen."
     },
     {
       "section": "writing",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "wo wohnst du?",
       "topic": "personal-info",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Stell die Fragen."
     },
     {
       "section": "writing",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "Wo liegt das?",
       "topic": "city-places",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Stell die Fragen."
     },
     {
       "section": "writing",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "Mit wem wohnt ihr zu Hause?",
       "topic": "family",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Stell die Fragen."
     },
     {
       "section": "writing",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänze den Steckbrief mit deinen persönlichen Daten. Stell dich anschließend vor."
     },
     {
       "section": "listening",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "Dirk Wulf",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "Willy",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "Techno-DJ (singt auch in einer Techno-Band)",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -584,7 +628,8 @@
       "option_c": "",
       "correct_answer": "Berlin",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -597,7 +642,8 @@
       "option_c": "",
       "correct_answer": "20",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -610,7 +656,8 @@
       "option_c": "",
       "correct_answer": "Hamburger mit Pommes",
       "topic": "food",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -623,7 +670,8 @@
       "option_c": "",
       "correct_answer": "Cola mit Zitrone",
       "topic": "food",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "listening",
@@ -636,7 +684,8 @@
       "option_c": "",
       "correct_answer": "Stop now",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge. Ergänze dann den Steckbrief."
     },
     {
       "section": "writing",
@@ -649,7 +698,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Beim Surfen im Internet hast du folgende E-Mails gefunden. Schreib eine ähnliche E-Mail."
     },
     {
       "section": "vocabulary",
@@ -662,7 +712,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -675,7 +726,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -688,7 +740,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "family",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Wie ist der deutsche Artikel? Und wie sagst du in deiner Sprache?"
     },
     {
       "section": "vocabulary",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "die Mutter, der Vater",
       "topic": "family",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Schreib die entsprechenden Verwandtschaftsbezeichnungen in die Tabelle. Vergiss den Artikel nicht."
     },
     {
       "section": "vocabulary",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "der Opa, die Oma",
       "topic": "family",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Schreib die entsprechenden Verwandtschaftsbezeichnungen in die Tabelle. Vergiss den Artikel nicht."
     },
     {
       "section": "vocabulary",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "der Bruder, die Schwester",
       "topic": "family",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Schreib die entsprechenden Verwandtschaftsbezeichnungen in die Tabelle. Vergiss den Artikel nicht."
     },
     {
       "section": "vocabulary",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "die Tante, der Onkel, der Cousin, die Cousine",
       "topic": "family",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Schreib die entsprechenden Verwandtschaftsbezeichnungen in die Tabelle. Vergiss den Artikel nicht."
     },
     {
       "section": "speaking",
@@ -844,7 +908,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "family",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Stell die Familie Beckmann vor."
     },
     {
       "section": "reading",
@@ -857,7 +922,8 @@
       "option_c": "",
       "correct_answer": "Elfriede Beckmann",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -870,7 +936,8 @@
       "option_c": "",
       "correct_answer": "Markus Beckmann",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -883,7 +950,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -896,7 +964,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -909,7 +978,8 @@
       "option_c": "",
       "correct_answer": "Renate Richter",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -922,7 +992,8 @@
       "option_c": "",
       "correct_answer": "Hans Richter",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -935,7 +1006,8 @@
       "option_c": "",
       "correct_answer": "Markus Beckmann",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -948,7 +1020,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -961,7 +1034,8 @@
       "option_c": "",
       "correct_answer": "Renate Richter",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "reading",
@@ -974,7 +1048,8 @@
       "option_c": "",
       "correct_answer": "Sophie Beckmann",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist."
     },
     {
       "section": "writing",
@@ -987,7 +1062,8 @@
       "option_c": "",
       "correct_answer": "Lena hat einen Bruder.",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Finde heraus, wer wie viele Geschwister hat."
     },
     {
       "section": "writing",
@@ -1000,7 +1076,8 @@
       "option_c": "",
       "correct_answer": "Steffi hat zwei Schwestern.",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Finde heraus, wer wie viele Geschwister hat."
     },
     {
       "section": "writing",
@@ -1013,7 +1090,8 @@
       "option_c": "",
       "correct_answer": "Sebastian hat zwei Brüder.",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Finde heraus, wer wie viele Geschwister hat."
     },
     {
       "section": "writing",
@@ -1026,7 +1104,8 @@
       "option_c": "",
       "correct_answer": "Markus ist Einzelkind.",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Finde heraus, wer wie viele Geschwister hat."
     },
     {
       "section": "writing",
@@ -1039,7 +1118,8 @@
       "option_c": "",
       "correct_answer": "Florian hat einen Bruder und eine Schwester.",
       "topic": "family",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Finde heraus, wer wie viele Geschwister hat."
     },
     {
       "section": "writing",
@@ -1052,7 +1132,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "family",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Hast du Geschwister?"
     },
     {
       "section": "reading",
@@ -1065,7 +1146,8 @@
       "option_c": "",
       "correct_answer": "Vier Personen.",
       "topic": "family",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lies den folgenden Text und beantworte die Fragen."
     },
     {
       "section": "reading",
@@ -1078,7 +1160,8 @@
       "option_c": "",
       "correct_answer": "Michaela ist 14 und Melanie ist 10.",
       "topic": "family",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lies den folgenden Text und beantworte die Fragen."
     },
     {
       "section": "reading",
@@ -1091,7 +1174,8 @@
       "option_c": "",
       "correct_answer": "Ja, sie haben einen Hund.",
       "topic": "family",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lies den folgenden Text und beantworte die Fragen."
     },
     {
       "section": "reading",
@@ -1104,7 +1188,8 @@
       "option_c": "",
       "correct_answer": "In Graz, in Österreich.",
       "topic": "city-places",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lies den folgenden Text und beantworte die Fragen."
     },
     {
       "section": "reading",
@@ -1117,7 +1202,8 @@
       "option_c": "",
       "correct_answer": "Herr Zidek ist Fotograf, Frau Zidek ist Lehrerin.",
       "topic": "profession",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lies den folgenden Text und beantworte die Fragen."
     },
     {
       "section": "reading",
@@ -1130,7 +1216,8 @@
       "option_c": "",
       "correct_answer": "Michaela geht aufs Gymnasium, Melanie geht in die Grundschule.",
       "topic": "school",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lies den folgenden Text und beantworte die Fragen."
     },
     {
       "section": "speaking",
@@ -1143,7 +1230,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Stell die folgenden Personen vor."
     },
     {
       "section": "listening",
@@ -1156,7 +1244,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Interview mit dem Schuldirektor."
     },
     {
       "section": "writing",
@@ -1169,7 +1258,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Ein Artikel für die Schülerzeitung."
     },
     {
       "section": "reading",
@@ -1182,7 +1272,8 @@
       "option_c": "",
       "correct_answer": "c. Ich bin Herr Weiß.",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -1195,7 +1286,8 @@
       "option_c": "",
       "correct_answer": "d. Ja, ich bin verheiratet.",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -1208,7 +1300,8 @@
       "option_c": "",
       "correct_answer": "f. Ja, einen Sohn.",
       "topic": "family",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -1221,7 +1314,8 @@
       "option_c": "",
       "correct_answer": "a. Ich bin 37.",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -1234,7 +1328,8 @@
       "option_c": "",
       "correct_answer": "b. In Berlin.",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "reading",
@@ -1247,7 +1342,8 @@
       "option_c": "",
       "correct_answer": "e. Natürlich habe ich eine E-Mail-Adresse.",
       "topic": "communication",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Verbinde die Fragen mit den passenden Antworten."
     },
     {
       "section": "writing",
@@ -1260,7 +1356,8 @@
       "option_c": "",
       "correct_answer": "Wie heißen Sie?",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Stell Fragen in der Höflichkeitsform."
     },
     {
       "section": "writing",
@@ -1273,7 +1370,8 @@
       "option_c": "",
       "correct_answer": "Was sind Sie von Beruf?",
       "topic": "profession",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Stell Fragen in der Höflichkeitsform."
     },
     {
       "section": "writing",
@@ -1286,7 +1384,8 @@
       "option_c": "",
       "correct_answer": "Wo wohnen Sie?",
       "topic": "city-places",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Stell Fragen in der Höflichkeitsform."
     },
     {
       "section": "writing",
@@ -1299,7 +1398,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Stell Fragen in der Höflichkeitsform."
     },
     {
       "section": "writing",
@@ -1312,7 +1412,8 @@
       "option_c": "",
       "correct_answer": "Sind Sie verheiratet?",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Stell Fragen in der Höflichkeitsform."
     },
     {
       "section": "writing",
@@ -1325,7 +1426,8 @@
       "option_c": "",
       "correct_answer": "Was sind Ihre Hobbys?",
       "topic": "hobby",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Stell Fragen in der Höflichkeitsform."
     },
     {
       "section": "listening",
@@ -1338,7 +1440,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Hör das Interview an und ergänze den Steckbrief."
     },
     {
       "section": "writing",
@@ -1351,7 +1454,8 @@
       "option_c": "",
       "correct_answer": "München liegt in Süddeutschland.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1364,7 +1468,8 @@
       "option_c": "",
       "correct_answer": "Berlin liegt in Norddeutschland.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1377,7 +1482,8 @@
       "option_c": "",
       "correct_answer": "Innsbruck liegt in Österreich.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1390,7 +1496,8 @@
       "option_c": "",
       "correct_answer": "Frankfurt liegt in Mitteldeutschland.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1403,7 +1510,8 @@
       "option_c": "",
       "correct_answer": "Lugano liegt in der Schweiz.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1416,7 +1524,8 @@
       "option_c": "",
       "correct_answer": "Wien liegt in Österreich.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1429,7 +1538,8 @@
       "option_c": "",
       "correct_answer": "Zürich liegt in der Schweiz.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1442,7 +1552,8 @@
       "option_c": "",
       "correct_answer": "Augsburg liegt in Süddeutschland.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1455,7 +1566,8 @@
       "option_c": "",
       "correct_answer": "Hamburg liegt in Norddeutschland.",
       "topic": "city-places",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Schau auf der Karte, wo die Städte liegen und schreib dann Sätze wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1468,7 +1580,8 @@
       "option_c": "",
       "correct_answer": "Dresden liegt in Ostdeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Und wo liegen diese Städte?"
     },
     {
       "section": "writing",
@@ -1481,7 +1594,8 @@
       "option_c": "",
       "correct_answer": "Konstanz liegt in Süddeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Und wo liegen diese Städte?"
     },
     {
       "section": "writing",
@@ -1494,7 +1608,8 @@
       "option_c": "",
       "correct_answer": "Flensburg liegt in Norddeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Und wo liegen diese Städte?"
     },
     {
       "section": "writing",
@@ -1507,7 +1622,8 @@
       "option_c": "",
       "correct_answer": "Aachen liegt in Westdeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Und wo liegen diese Städte?"
     },
     {
       "section": "writing",
@@ -1520,7 +1636,8 @@
       "option_c": "",
       "correct_answer": "Erfurt liegt in Mitteldeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Und wo liegen diese Städte?"
     },
     {
       "section": "writing",
@@ -1533,7 +1650,8 @@
       "option_c": "",
       "correct_answer": "Ja, Hamburg liegt in Norddeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1546,7 +1664,8 @@
       "option_c": "",
       "correct_answer": "Nein, Konstanz liegt in Süddeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1559,7 +1678,8 @@
       "option_c": "",
       "correct_answer": "Ja, München liegt in Süddeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1572,7 +1692,8 @@
       "option_c": "",
       "correct_answer": "Nein, Zürich liegt in der Schweiz.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1585,7 +1706,8 @@
       "option_c": "",
       "correct_answer": "Ja, Wien liegt in Österreich.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Antworte wie im Beispiel."
     },
     {
       "section": "writing",
@@ -1598,7 +1720,8 @@
       "option_c": "",
       "correct_answer": "Nein, Dresden liegt in Ostdeutschland.",
       "topic": "city-places",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Antworte wie im Beispiel."
     }
   ]
 }

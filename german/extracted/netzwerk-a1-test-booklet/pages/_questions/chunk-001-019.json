@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie zweimal. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie zweimal. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie zweimal. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie zweimal. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Hören Sie zweimal. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "Wer",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Ergänzen Sie das richtige Fragewort."
     },
     {
       "section": "",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "Welche",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Ergänzen Sie das richtige Fragewort."
     },
     {
       "section": "",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "Woher",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Ergänzen Sie das richtige Fragewort."
     },
     {
       "section": "",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "Wo",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Ergänzen Sie das richtige Fragewort."
     },
     {
       "section": "",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "Wie",
       "topic": "personal-info",
-      "source_page": "006"
+      "source_page": "006",
+      "instruction": "Ergänzen Sie das richtige Fragewort."
     },
     {
       "section": "",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "Wie heißen Sie?",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Schreiben Sie W-Fragen und Aussagesätze."
     },
     {
       "section": "",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "Ich komme aus der Schweiz.",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Schreiben Sie W-Fragen und Aussagesätze."
     },
     {
       "section": "",
@@ -233,7 +250,8 @@
       "option_c": "",
       "correct_answer": "Woher kommst du?",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Schreiben Sie W-Fragen und Aussagesätze."
     },
     {
       "section": "",
@@ -246,7 +264,8 @@
       "option_c": "",
       "correct_answer": "Mein Name ist Luca Mendoza.",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Schreiben Sie W-Fragen und Aussagesätze."
     },
     {
       "section": "",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "Welche Sprachen sprechen Sie?",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Schreiben Sie W-Fragen und Aussagesätze."
     },
     {
       "section": "",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "ist",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "spricht/sprechen",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "heißt",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "wohnt",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "kommen",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "vocabulary",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "Russisch",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "Polen",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "Japanisch",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "Französisch",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "Italien",
       "topic": "personal-info",
-      "source_page": "007"
+      "source_page": "007",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "reading",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "Japan",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Lesen Sie und notieren Sie die Informationen."
     },
     {
       "section": "reading",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "Berlin",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Lesen Sie und notieren Sie die Informationen."
     },
     {
       "section": "reading",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "Kateb Brahim",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Lesen Sie und notieren Sie die Informationen."
     },
     {
       "section": "reading",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "Paris",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Lesen Sie und notieren Sie die Informationen."
     },
     {
       "section": "reading",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "Arabisch, Französisch, Deutsch",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Lesen Sie und notieren Sie die Informationen."
     },
     {
       "section": "writing",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Ergänzen Sie das Formular. Fiktive Antworten sind auch gut."
     },
     {
       "section": "writing",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Ergänzen Sie das Formular. Fiktive Antworten sind auch gut."
     },
     {
       "section": "writing",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Ergänzen Sie das Formular. Fiktive Antworten sind auch gut."
     },
     {
       "section": "writing",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Ergänzen Sie das Formular. Fiktive Antworten sind auch gut."
     },
     {
       "section": "writing",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Ergänzen Sie das Formular. Fiktive Antworten sind auch gut."
     },
     {
       "section": "listening",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -584,7 +628,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -597,7 +642,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "communication",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -610,7 +656,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "communication",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -623,7 +670,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "communication",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -636,7 +684,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "communication",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -649,7 +698,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "communication",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
     },
     {
       "section": "vocabulary",
@@ -662,7 +712,8 @@
       "option_c": "",
       "correct_answer": "arbeiten",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -675,7 +726,8 @@
       "option_c": "",
       "correct_answer": "die Freundin",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -688,7 +740,8 @@
       "option_c": "",
       "correct_answer": "der Club",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "das Wochenende",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "das Krankenhaus",
       "topic": "profession",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "Seid ihr Studenten?",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Schreiben Sie Ja-/Nein-Fragen."
     },
     {
       "section": "",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "Singt Julia gut?",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Schreiben Sie Ja-/Nein-Fragen."
     },
     {
       "section": "",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "Gehen wir am Samstag ins Museum?",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Schreiben Sie Ja-/Nein-Fragen."
     },
     {
       "section": "",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "Arbeitet sie morgen? / Arbeiten Sie morgen?",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Schreiben Sie Ja-/Nein-Fragen."
     },
     {
       "section": "",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "Spielt er am Sonntag Fußball?",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Schreiben Sie Ja-/Nein-Fragen."
     },
     {
       "section": "",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "Bist",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "liest",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "Hat",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "arbeitet",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "",
@@ -844,7 +908,8 @@
       "option_c": "",
       "correct_answer": "sprechen",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Verben in der richtigen Form."
     },
     {
       "section": "vocabulary",
@@ -857,7 +922,8 @@
       "option_c": "",
       "correct_answer": "das Foto – die Fotos",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Artikel und die Pluralformen."
     },
     {
       "section": "vocabulary",
@@ -870,7 +936,8 @@
       "option_c": "",
       "correct_answer": "das Buch – die Bücher",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Artikel und die Pluralformen."
     },
     {
       "section": "vocabulary",
@@ -883,7 +950,8 @@
       "option_c": "",
       "correct_answer": "die Stunde – die Stunden",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Artikel und die Pluralformen."
     },
     {
       "section": "vocabulary",
@@ -896,7 +964,8 @@
       "option_c": "",
       "correct_answer": "der Lehrer – die Lehrer",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Artikel und die Pluralformen."
     },
     {
       "section": "vocabulary",
@@ -909,7 +978,8 @@
       "option_c": "",
       "correct_answer": "der Tag – die Tage",
       "topic": "profession",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Ergänzen Sie die Artikel und die Pluralformen."
     },
     {
       "section": "writing",
@@ -922,7 +992,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Sie möchten einen Yogakurs besuchen. Bei der Anmeldung müssen Sie ein Formular ausfüllen. Bitte füllen Sie das Formular aus. Sie können die Antworten auch erfinden (z. B. anderer Name, anderes Geburtsdatum ...)."
     },
     {
       "section": "writing",
@@ -935,7 +1006,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Sie möchten einen Yogakurs besuchen. Bei der Anmeldung müssen Sie ein Formular ausfüllen. Bitte füllen Sie das Formular aus. Sie können die Antworten auch erfinden (z. B. anderer Name, anderes Geburtsdatum ...)."
     },
     {
       "section": "writing",
@@ -948,7 +1020,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Sie möchten einen Yogakurs besuchen. Bei der Anmeldung müssen Sie ein Formular ausfüllen. Bitte füllen Sie das Formular aus. Sie können die Antworten auch erfinden (z. B. anderer Name, anderes Geburtsdatum ...)."
     },
     {
       "section": "writing",
@@ -961,7 +1034,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Sie möchten einen Yogakurs besuchen. Bei der Anmeldung müssen Sie ein Formular ausfüllen. Bitte füllen Sie das Formular aus. Sie können die Antworten auch erfinden (z. B. anderer Name, anderes Geburtsdatum ...)."
     },
     {
       "section": "writing",
@@ -974,7 +1048,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Sie möchten einen Yogakurs besuchen. Bei der Anmeldung müssen Sie ein Formular ausfüllen. Bitte füllen Sie das Formular aus. Sie können die Antworten auch erfinden (z. B. anderer Name, anderes Geburtsdatum ...)."
     },
     {
       "section": "speaking",
@@ -987,7 +1062,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Sprechen Sie: Wer sind Sie?"
     },
     {
       "section": "listening",
@@ -1000,7 +1076,8 @@
       "option_c": "",
       "correct_answer": "Kino",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal."
     },
     {
       "section": "listening",
@@ -1013,7 +1090,8 @@
       "option_c": "",
       "correct_answer": "Freitag",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal."
     },
     {
       "section": "listening",
@@ -1026,7 +1104,8 @@
       "option_c": "",
       "correct_answer": "Park/Sommerkino",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal."
     },
     {
       "section": "listening",
@@ -1039,7 +1118,8 @@
       "option_c": "",
       "correct_answer": "zu Fuß",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal."
     },
     {
       "section": "listening",
@@ -1052,7 +1132,8 @@
       "option_c": "",
       "correct_answer": "4879983",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie die Aufgabe gut durch. Sie haben 30 Sekunden Zeit. Situation: Sie hören folgende Nachricht. Hören Sie gut zu und schreiben Sie die wichtigsten Informationen auf das Notizblatt. Sie hören den Text zwei Mal."
     },
     {
       "section": "listening",
@@ -1065,7 +1146,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1078,7 +1160,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1091,7 +1174,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1104,7 +1188,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1117,7 +1202,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1130,7 +1216,8 @@
       "option_c": "",
       "correct_answer": "Hafen",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie den Text. Ergänzen Sie die Wörter."
     },
     {
       "section": "reading",
@@ -1143,7 +1230,8 @@
       "option_c": "",
       "correct_answer": "fotografiere",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie den Text. Ergänzen Sie die Wörter."
     },
     {
       "section": "reading",
@@ -1156,7 +1244,8 @@
       "option_c": "",
       "correct_answer": "Oktober",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie den Text. Ergänzen Sie die Wörter."
     },
     {
       "section": "reading",
@@ -1169,7 +1258,8 @@
       "option_c": "",
       "correct_answer": "Filme",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie den Text. Ergänzen Sie die Wörter."
     },
     {
       "section": "reading",
@@ -1182,7 +1272,8 @@
       "option_c": "",
       "correct_answer": "interessant",
       "topic": "city-places",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie den Text. Ergänzen Sie die Wörter."
     },
     {
       "section": "vocabulary",
@@ -1195,7 +1286,8 @@
       "option_c": "",
       "correct_answer": "schnell",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Ergänzen Sie. Wie heißt das Lösungswort?"
     },
     {
       "section": "vocabulary",
@@ -1208,7 +1300,8 @@
       "option_c": "",
       "correct_answer": "hoch",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Ergänzen Sie. Wie heißt das Lösungswort?"
     },
     {
       "section": "vocabulary",
@@ -1221,7 +1314,8 @@
       "option_c": "",
       "correct_answer": "alt",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Ergänzen Sie. Wie heißt das Lösungswort?"
     },
     {
       "section": "vocabulary",
@@ -1234,7 +1328,8 @@
       "option_c": "",
       "correct_answer": "breit",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Ergänzen Sie. Wie heißt das Lösungswort?"
     },
     {
       "section": "vocabulary",
@@ -1247,7 +1342,8 @@
       "option_c": "",
       "correct_answer": "lang",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Ergänzen Sie. Wie heißt das Lösungswort?"
     },
     {
       "section": "vocabulary",
@@ -1260,7 +1356,8 @@
       "option_c": "",
       "correct_answer": "das Hotel",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Ergänzen Sie. Wie heißt das Lösungswort?"
     },
     {
       "section": "",
@@ -1273,7 +1370,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Welcher Artikel passt? Schreiben Sie."
     },
     {
       "section": "",
@@ -1286,7 +1384,8 @@
       "option_c": "",
       "correct_answer": "keine",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Welcher Artikel passt? Schreiben Sie."
     },
     {
       "section": "",
@@ -1299,7 +1398,8 @@
       "option_c": "",
       "correct_answer": "Der",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Welcher Artikel passt? Schreiben Sie."
     },
     {
       "section": "",
@@ -1312,7 +1412,8 @@
       "option_c": "",
       "correct_answer": "kein",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Welcher Artikel passt? Schreiben Sie."
     },
     {
       "section": "",
@@ -1325,7 +1426,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Welcher Artikel passt? Schreiben Sie."
     },
     {
       "section": "",
@@ -1338,7 +1440,8 @@
       "option_c": "",
       "correct_answer": "Gehen Sie geradeaus und dann rechts.",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Wo ist …? Schreiben Sie die Sätze im Imperativ."
     },
     {
       "section": "",
@@ -1351,7 +1454,8 @@
       "option_c": "",
       "correct_answer": "Fahren Sie rechts und dann links.",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Wo ist …? Schreiben Sie die Sätze im Imperativ."
     },
     {
       "section": "",
@@ -1364,7 +1468,8 @@
       "option_c": "",
       "correct_answer": "Gehen Sie rechts und dann geradeaus.",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Wo ist …? Schreiben Sie die Sätze im Imperativ."
     },
     {
       "section": "",
@@ -1377,7 +1482,8 @@
       "option_c": "",
       "correct_answer": "Fahren Sie geradeaus und dann links.",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Wo ist …? Schreiben Sie die Sätze im Imperativ."
     },
     {
       "section": "",
@@ -1390,7 +1496,8 @@
       "option_c": "",
       "correct_answer": "Gehen Sie links und dann geradeaus.",
       "topic": "city-places",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Wo ist …? Schreiben Sie die Sätze im Imperativ."
     },
     {
       "section": "vocabulary",
@@ -1403,7 +1510,8 @@
       "option_c": "",
       "correct_answer": "die U-Bahn",
       "topic": "city-places",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Schreiben Sie die Wörter mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1416,7 +1524,8 @@
       "option_c": "",
       "correct_answer": "das Schiff",
       "topic": "city-places",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Schreiben Sie die Wörter mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1429,7 +1538,8 @@
       "option_c": "",
       "correct_answer": "die Straßenbahn",
       "topic": "city-places",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Schreiben Sie die Wörter mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1442,7 +1552,8 @@
       "option_c": "",
       "correct_answer": "der Bus",
       "topic": "city-places",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Schreiben Sie die Wörter mit Artikel."
     },
     {
       "section": "vocabulary",
@@ -1455,7 +1566,8 @@
       "option_c": "",
       "correct_answer": "das Fahrrad",
       "topic": "city-places",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Schreiben Sie die Wörter mit Artikel."
     },
     {
       "section": "speaking",
@@ -1468,7 +1580,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Sie sind am Hafen. Partner/in A fragt nach den Orten 1 und 2. Partner/in B fragt nach den Orten 3 und 4. Antworten Sie."
     },
     {
       "section": "listening",
@@ -1481,7 +1594,8 @@
       "option_c": "6,90 €.",
       "correct_answer": "c",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1494,7 +1608,8 @@
       "option_c": "Salat.",
       "correct_answer": "c",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1507,7 +1622,8 @@
       "option_c": "Orangen.",
       "correct_answer": "a",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1520,7 +1636,8 @@
       "option_c": "In der Bäckerei.",
       "correct_answer": "c",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "listening",
@@ -1533,7 +1650,8 @@
       "option_c": "200 Gramm.",
       "correct_answer": "c",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
     },
     {
       "section": "vocabulary",
@@ -1546,7 +1664,8 @@
       "option_c": "",
       "correct_answer": "die Schokolade",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1559,7 +1678,8 @@
       "option_c": "",
       "correct_answer": "das Gramm",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1572,7 +1692,8 @@
       "option_c": "",
       "correct_answer": "der Salat",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1585,7 +1706,8 @@
       "option_c": "",
       "correct_answer": "die Butter",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -1598,7 +1720,8 @@
       "option_c": "",
       "correct_answer": "die Cola",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "",
@@ -1611,7 +1734,8 @@
       "option_c": "",
       "correct_answer": "Die",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Nominativ oder Akkusativ? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1624,7 +1748,8 @@
       "option_c": "",
       "correct_answer": "eine",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Nominativ oder Akkusativ? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1637,7 +1762,8 @@
       "option_c": "",
       "correct_answer": "den",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Nominativ oder Akkusativ? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1650,7 +1776,8 @@
       "option_c": "",
       "correct_answer": "einen",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Nominativ oder Akkusativ? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1663,7 +1790,8 @@
       "option_c": "",
       "correct_answer": "keinen",
       "topic": "food",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Nominativ oder Akkusativ? Ergänzen Sie die Artikel."
     },
     {
       "section": "reading",
@@ -1676,7 +1804,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "food",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie die Einladung und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1689,7 +1818,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "food",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie die Einladung und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1702,7 +1832,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "food",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie die Einladung und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1715,7 +1846,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "food",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie die Einladung und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1728,7 +1860,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "food",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie die Einladung und die Aufgaben. Sind die Sätze richtig oder falsch? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -1741,7 +1874,8 @@
       "option_c": "",
       "correct_answer": "Er arbeitet im Restaurant Villa.",
       "topic": "profession",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Fragen mit ganzen Sätzen."
     },
     {
       "section": "reading",
@@ -1754,7 +1888,8 @@
       "option_c": "",
       "correct_answer": "Er arbeitet am Dienstag, Mittwoch, Donnerstag und am Wochenende.",
       "topic": "profession",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Fragen mit ganzen Sätzen."
     },
     {
       "section": "reading",
@@ -1767,7 +1902,8 @@
       "option_c": "",
       "correct_answer": "Er kauft Gemüse, Fleisch und Wurst.",
       "topic": "profession",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Fragen mit ganzen Sätzen."
     },
     {
       "section": "reading",
@@ -1780,7 +1916,8 @@
       "option_c": "",
       "correct_answer": "Eine Kollegin macht die Desserts.",
       "topic": "profession",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Fragen mit ganzen Sätzen."
     },
     {
       "section": "reading",
@@ -1793,7 +1930,8 @@
       "option_c": "",
       "correct_answer": "Nino mag seine Arbeit.",
       "topic": "profession",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Lesen Sie den Text und beantworten Sie die Fragen mit ganzen Sätzen."
     },
     {
       "section": "",
@@ -1806,7 +1944,8 @@
       "option_c": "",
       "correct_answer": "Er möchte",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Ergänzen Sie die Sätze. Achten Sie auf die Position und die richtige Form."
     },
     {
       "section": "",
@@ -1819,7 +1958,8 @@
       "option_c": "",
       "correct_answer": "trinken meine Kinder",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Ergänzen Sie die Sätze. Achten Sie auf die Position und die richtige Form."
     },
     {
       "section": "",
@@ -1832,7 +1972,8 @@
       "option_c": "",
       "correct_answer": "Ich nehme",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Ergänzen Sie die Sätze. Achten Sie auf die Position und die richtige Form."
     },
     {
       "section": "",
@@ -1845,7 +1986,8 @@
       "option_c": "",
       "correct_answer": "Möchtet ihr",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Ergänzen Sie die Sätze. Achten Sie auf die Position und die richtige Form."
     },
     {
       "section": "",
@@ -1858,7 +2000,8 @@
       "option_c": "",
       "correct_answer": "mag mein Mann",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Ergänzen Sie die Sätze. Achten Sie auf die Position und die richtige Form."
     },
     {
       "section": "writing",
@@ -1871,7 +2014,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Und Sie? Schreiben Sie zu jeder Frage ein bis zwei Sätze."
     },
     {
       "section": "writing",
@@ -1884,7 +2028,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Und Sie? Schreiben Sie zu jeder Frage ein bis zwei Sätze."
     },
     {
       "section": "writing",
@@ -1897,7 +2042,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Und Sie? Schreiben Sie zu jeder Frage ein bis zwei Sätze."
     },
     {
       "section": "writing",
@@ -1910,7 +2056,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Und Sie? Schreiben Sie zu jeder Frage ein bis zwei Sätze."
     },
     {
       "section": "writing",
@@ -1923,7 +2070,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Und Sie? Schreiben Sie zu jeder Frage ein bis zwei Sätze."
     },
     {
       "section": "speaking",
@@ -1936,7 +2084,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "food",
-      "source_page": "017"
+      "source_page": "017",
+      "instruction": "Nehmen Sie eine Karte zum Thema Essen und eine Karte zum Thema Einkaufen. Fragen Sie Ihren Partner / Ihre Partnerin. Ihr Partner / Ihre Partnerin antwortet und stellt dann die nächste Frage."
     },
     {
       "section": "listening",
@@ -1949,7 +2098,8 @@
       "option_c": "16:15 Uhr.",
       "correct_answer": "a",
       "topic": "time-dates",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
     },
     {
       "section": "listening",
@@ -1962,7 +2112,8 @@
       "option_c": "17:30 Uhr.",
       "correct_answer": "c",
       "topic": "time-dates",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
     },
     {
       "section": "listening",
@@ -1975,7 +2126,8 @@
       "option_c": "09:35 Uhr.",
       "correct_answer": "a",
       "topic": "time-dates",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
     },
     {
       "section": "listening",
@@ -1988,7 +2140,8 @@
       "option_c": "11:25 Uhr.",
       "correct_answer": "b",
       "topic": "time-dates",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
     },
     {
       "section": "listening",
@@ -2001,7 +2154,8 @@
       "option_c": "14:50 Uhr.",
       "correct_answer": "b",
       "topic": "time-dates",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
     },
     {
       "section": "listening",
@@ -2014,7 +2168,8 @@
       "option_c": "",
       "correct_answer": "2",
       "topic": "daily-routine",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -2027,7 +2182,8 @@
       "option_c": "",
       "correct_answer": "1",
       "topic": "daily-routine",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -2040,7 +2196,8 @@
       "option_c": "",
       "correct_answer": "5",
       "topic": "daily-routine",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -2053,7 +2210,8 @@
       "option_c": "",
       "correct_answer": "3",
       "topic": "daily-routine",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -2066,7 +2224,8 @@
       "option_c": "",
       "correct_answer": "(kein Text – Bild ist zu viel)",
       "topic": "daily-routine",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "listening",
@@ -2079,7 +2238,8 @@
       "option_c": "",
       "correct_answer": "4",
       "topic": "daily-routine",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Sehen Sie sich die Bilder gut an. Sie haben 30 Sekunden Zeit. Situation: Sie hören jetzt fünf verschiedene Texte zu den Fotos. Sie hören jeden Text ein Mal. Welcher Text passt zu welchem Foto? Schreiben Sie die Nummer des Textes unter das Foto. Achtung: Ein Bild ist zu viel."
     },
     {
       "section": "reading",
@@ -2092,7 +2252,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -2105,7 +2266,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -2118,7 +2280,8 @@
       "option_c": "",
       "correct_answer": "b",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -2131,7 +2294,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "reading",
@@ -2144,7 +2308,8 @@
       "option_c": "",
       "correct_answer": "a",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
     },
     {
       "section": "",
@@ -2157,7 +2322,8 @@
       "option_c": "",
       "correct_answer": "seine/meine",
       "topic": "family",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie die Nachrichten und ergänzen Sie die Possessivartikel."
     },
     {
       "section": "",
@@ -2170,7 +2336,8 @@
       "option_c": "",
       "correct_answer": "ihre",
       "topic": "family",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie die Nachrichten und ergänzen Sie die Possessivartikel."
     },
     {
       "section": "",
@@ -2183,7 +2350,8 @@
       "option_c": "",
       "correct_answer": "dein",
       "topic": "family",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie die Nachrichten und ergänzen Sie die Possessivartikel."
     },
     {
       "section": "",
@@ -2196,7 +2364,8 @@
       "option_c": "",
       "correct_answer": "unseren/seinen/meinen",
       "topic": "family",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie die Nachrichten und ergänzen Sie die Possessivartikel."
     },
     {
       "section": "",
@@ -2209,7 +2378,8 @@
       "option_c": "",
       "correct_answer": "meine",
       "topic": "family",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Lesen Sie die Nachrichten und ergänzen Sie die Possessivartikel."
     },
     {
       "section": "",
@@ -2222,7 +2392,8 @@
       "option_c": "",
       "correct_answer": "Heute muss Noah bis 20 Uhr arbeiten.",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Schreiben Sie die Sätze mit Modalverb. Beginnen Sie mit dem markierten Wort."
     },
     {
       "section": "",
@@ -2235,7 +2406,8 @@
       "option_c": "",
       "correct_answer": "Meine Kinder müssen am Nachmittag Hausaufgaben machen.",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Schreiben Sie die Sätze mit Modalverb. Beginnen Sie mit dem markierten Wort."
     },
     {
       "section": "",
@@ -2248,7 +2420,8 @@
       "option_c": "",
       "correct_answer": "Am Freitag will ich ins Kino gehen.",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Schreiben Sie die Sätze mit Modalverb. Beginnen Sie mit dem markierten Wort."
     },
     {
       "section": "",
@@ -2261,7 +2434,8 @@
       "option_c": "",
       "correct_answer": "Wir können morgen nicht tanzen.",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Schreiben Sie die Sätze mit Modalverb. Beginnen Sie mit dem markierten Wort."
     },
     {
       "section": "",
@@ -2274,7 +2448,8 @@
       "option_c": "",
       "correct_answer": "Willst du am Wochenende deine Familie besuchen?",
       "topic": "daily-routine",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Schreiben Sie die Sätze mit Modalverb. Beginnen Sie mit dem markierten Wort."
     }
   ]
 }

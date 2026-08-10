@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "091"
+      "source_page": "091",
+      "instruction": "Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze."
     },
     {
       "section": "writing",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "daily-routine",
-      "source_page": "093"
+      "source_page": "093",
+      "instruction": "Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze."
     },
     {
       "section": "vocabulary",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "095"
+      "source_page": "095",
+      "instruction": "Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen."
     }
   ]
 }

@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "Eine interessante Stadt",
       "topic": "city-places",
-      "source_page": "039"
+      "source_page": "039",
+      "instruction": "Düsseldorf. Lesen Sie die Texte. Welche Überschrift passt? Ordnen Sie zu."
     },
     {
       "section": "reading",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "Stadt am Fluss",
       "topic": "city-places",
-      "source_page": "039"
+      "source_page": "039",
+      "instruction": "Düsseldorf. Lesen Sie die Texte. Welche Überschrift passt? Ordnen Sie zu."
     },
     {
       "section": "reading",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "Shoppen in Düsseldorf",
       "topic": "city-places",
-      "source_page": "039"
+      "source_page": "039",
+      "instruction": "Düsseldorf. Lesen Sie die Texte. Welche Überschrift passt? Ordnen Sie zu."
     },
     {
       "section": "reading",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "Studium in Düsseldorf",
       "topic": "school",
-      "source_page": "039"
+      "source_page": "039",
+      "instruction": "Düsseldorf. Lesen Sie die Texte. Welche Überschrift passt? Ordnen Sie zu."
     },
     {
       "section": "reading",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "Essen und trinken",
       "topic": "food",
-      "source_page": "039"
+      "source_page": "039",
+      "instruction": "Düsseldorf. Lesen Sie die Texte. Welche Überschrift passt? Ordnen Sie zu."
     },
     {
       "section": "writing",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "shopping",
-      "source_page": "040"
+      "source_page": "040",
+      "instruction": "Schreiben Sie eine Antwort an Elias."
     },
     {
       "section": "speaking",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "shopping",
-      "source_page": "040"
+      "source_page": "040",
+      "instruction": "Nehmen Sie eine Karte zum Thema Kleidung und eine Karte zum Thema Geschäfte. Fragen Sie Ihren Partner / Ihre Partnerin. Ihr Partner / Ihre Partnerin antwortet und stellt dann die nächste Frage."
     },
     {
       "section": "listening",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Kreuzen Sie an: Richtig oder Falsch. Sie hören jeden Text einmal."
     },
     {
       "section": "listening",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Kreuzen Sie an: Richtig oder Falsch. Sie hören jeden Text einmal."
     },
     {
       "section": "listening",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Kreuzen Sie an: Richtig oder Falsch. Sie hören jeden Text einmal."
     },
     {
       "section": "listening",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "Falsch",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Kreuzen Sie an: Richtig oder Falsch. Sie hören jeden Text einmal."
     },
     {
       "section": "listening",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "Richtig",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Kreuzen Sie an: Richtig oder Falsch. Sie hören jeden Text einmal."
     },
     {
       "section": "listening",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "Nach Frankreich.",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Hören Sie die Fragen. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "Meine Familie.",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Hören Sie die Fragen. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "In drei Tagen.",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Hören Sie die Fragen. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "Seine Freunde.",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Hören Sie die Fragen. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "Einen Schlafsack.",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Hören Sie die Fragen. Welche Antwort passt? Kreuzen Sie an."
     },
     {
       "section": "vocabulary",
@@ -233,7 +250,8 @@
       "option_c": "umsteigen",
       "correct_answer": "umsteigen",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -246,7 +264,8 @@
       "option_c": "dauern",
       "correct_answer": "dauern",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -259,7 +278,8 @@
       "option_c": "einpacken",
       "correct_answer": "scheinen",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -272,7 +292,8 @@
       "option_c": "wecken",
       "correct_answer": "wecken",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "vocabulary",
@@ -285,7 +306,8 @@
       "option_c": "tragen",
       "correct_answer": "machen",
       "topic": "travel",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Was passt nicht? Streichen Sie durch."
     },
     {
       "section": "writing",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "Wie lange war Nora dort?",
       "topic": "vacation",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Lesen Sie die E-Mail. Schreiben Sie Fragen zu den Sätzen 1–5 wie im Beispiel."
     },
     {
       "section": "writing",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "Mit wem war sie unterwegs?",
       "topic": "vacation",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Lesen Sie die E-Mail. Schreiben Sie Fragen zu den Sätzen 1–5 wie im Beispiel."
     },
     {
       "section": "writing",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "Was hat sie gemacht?",
       "topic": "vacation",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Lesen Sie die E-Mail. Schreiben Sie Fragen zu den Sätzen 1–5 wie im Beispiel."
     },
     {
       "section": "writing",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "Wen hat sie getroffen?",
       "topic": "vacation",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Lesen Sie die E-Mail. Schreiben Sie Fragen zu den Sätzen 1–5 wie im Beispiel."
     },
     {
       "section": "writing",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "Wann hat Ruben sie angerufen?",
       "topic": "vacation",
-      "source_page": "041"
+      "source_page": "041",
+      "instruction": "Lesen Sie die E-Mail. Schreiben Sie Fragen zu den Sätzen 1–5 wie im Beispiel."
     },
     {
       "section": "reading",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "www.wetter48.de",
       "topic": "weather",
-      "source_page": "042"
+      "source_page": "042",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1–5. Auf welcher Webseite finden Sie die Information? Kreuzen Sie an: a oder b?"
     },
     {
       "section": "reading",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "www.fliegerline.de",
       "topic": "travel",
-      "source_page": "042"
+      "source_page": "042",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1–5. Auf welcher Webseite finden Sie die Information? Kreuzen Sie an: a oder b?"
     },
     {
       "section": "reading",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "www.züge-ankunft.de",
       "topic": "travel",
-      "source_page": "042"
+      "source_page": "042",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1–5. Auf welcher Webseite finden Sie die Information? Kreuzen Sie an: a oder b?"
     },
     {
       "section": "reading",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "www.studieren-hh.de",
       "topic": "school",
-      "source_page": "042"
+      "source_page": "042",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1–5. Auf welcher Webseite finden Sie die Information? Kreuzen Sie an: a oder b?"
     },
     {
       "section": "reading",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "www.wander-tour.de",
       "topic": "vacation",
-      "source_page": "042"
+      "source_page": "042",
+      "instruction": "Lesen Sie die Texte und die Aufgaben 1–5. Auf welcher Webseite finden Sie die Information? Kreuzen Sie an: a oder b?"
     },
     {
       "section": "writing",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "vacation",
-      "source_page": "043"
+      "source_page": "043",
+      "instruction": "Sie waren im Urlaub. Schreiben Sie eine E-Mail."
     },
     {
       "section": "speaking",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "vacation",
-      "source_page": "043"
+      "source_page": "043",
+      "instruction": "Sie bekommen drei Bilder. Wählen Sie ein Bild aus. Sprechen Sie über das Bild."
     },
     {
       "section": "speaking",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "vacation",
-      "source_page": "043"
+      "source_page": "043",
+      "instruction": "Sie sind nun in der Situation des gewählten Bildes. Spielen Sie diese Situation mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner."
     }
   ]
 }

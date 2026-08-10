@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "F",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "G",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "H",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "D",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "I",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "E",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "C",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "vocabulary",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "mixed",
-      "source_page": "008"
+      "source_page": "008",
+      "instruction": "Deutsch international. Was gehört zusammen? Ordnen Sie zu."
     },
     {
       "section": "speaking",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "mixed",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Wie heißen die Wörter in Ihrer Sprache?"
     },
     {
       "section": "speaking",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "mixed",
-      "source_page": "009"
+      "source_page": "009",
+      "instruction": "Kennen Sie andere deutsche Wörter? Sammeln Sie und machen Sie ein Kursplakat."
     },
     {
       "section": "listening",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "Nina, Niklas, Julia",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hallo! Wer bist du? Hören Sie und lesen Sie. Wie heißen die Personen?"
     },
     {
       "section": "speaking",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Hallo und tschüs. Spielen Sie die Situationen."
     },
     {
       "section": "speaking",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "010"
+      "source_page": "010",
+      "instruction": "Kennen Sie deutsche Namen oder bekannte deutsche Personen? Sammeln Sie."
     },
     {
       "section": "listening",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "Nina Weber, Oliver Hansen, Frau Kowalski",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Guten Tag. Wie heißen Sie? Hören Sie und lesen Sie. Wie heißen die Personen?"
     },
     {
       "section": "speaking",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "011"
+      "source_page": "011",
+      "instruction": "Guten Tag. Auf Wiedersehen. Spielen Sie die Situationen."
     },
     {
       "section": "reading",
@@ -220,7 +236,8 @@
       "option_c": "C Ich wohne in Frankfurt.",
       "correct_answer": "B",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie und hören Sie. Ordnen Sie die Antworten zu."
     },
     {
       "section": "reading",
@@ -233,7 +250,8 @@
       "option_c": "C Ich wohne in Frankfurt.",
       "correct_answer": "A",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie und hören Sie. Ordnen Sie die Antworten zu."
     },
     {
       "section": "reading",
@@ -246,7 +264,8 @@
       "option_c": "C Ich wohne in Frankfurt.",
       "correct_answer": "C",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie und hören Sie. Ordnen Sie die Antworten zu."
     },
     {
       "section": "speaking",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Variieren Sie den Dialog."
     },
     {
       "section": "reading",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "wohnt",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "kommt",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "wohnt",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "speaking",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Und Sie? Machen Sie zwei Interviews wie in 4b: formell und informell. Notieren Sie."
     },
     {
       "section": "speaking",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "012"
+      "source_page": "012",
+      "instruction": "Wer ist das? Stellen Sie einen Partner / eine Partnerin vor. Die anderen raten den Namen."
     },
     {
       "section": "listening",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Die Zahlen. Hören Sie die Zahlen und sprechen Sie dann laut mit."
     },
     {
       "section": "listening",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Hören Sie. Notieren Sie die Handynummern."
     },
     {
       "section": "speaking",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Fragen Sie Ihren Partner / Ihre Partnerin nach der Telefonnummer. Notieren Sie."
     },
     {
       "section": "listening",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Das Alphabet. Hören Sie zuerst und lesen Sie dann laut mit."
     },
     {
       "section": "listening",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Hören Sie das Gespräch. Notieren Sie die E-Mail-Adressen."
     },
     {
       "section": "speaking",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "013"
+      "source_page": "013",
+      "instruction": "Variieren Sie den Dialog."
     },
     {
       "section": "reading",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "kommt aus Brasilien, wohnt in Köln, spricht Portugiesisch, Deutsch und Englisch",
       "topic": "personal-info",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lesen Sie. Woher kommen die Personen? Wo wohnen sie? Welche Sprachen sprechen und lernen sie? Ergänzen Sie die Tabelle."
     },
     {
       "section": "reading",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "kommt aus der Schweiz, wohnt in Lugano, spricht Italienisch, Französisch und Deutsch",
       "topic": "personal-info",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lesen Sie. Woher kommen die Personen? Wo wohnen sie? Welche Sprachen sprechen und lernen sie? Ergänzen Sie die Tabelle."
     },
     {
       "section": "reading",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "kommt aus Österreich, wohnt in Salzburg, spricht Deutsch und Englisch, lernt Arabisch",
       "topic": "personal-info",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lesen Sie. Woher kommen die Personen? Wo wohnen sie? Welche Sprachen sprechen und lernen sie? Ergänzen Sie die Tabelle."
     },
     {
       "section": "reading",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "kommt aus Japan (Tokio), wohnt in Berlin, spricht Japanisch und Deutsch, lernt Englisch",
       "topic": "personal-info",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lesen Sie. Woher kommen die Personen? Wo wohnen sie? Welche Sprachen sprechen und lernen sie? Ergänzen Sie die Tabelle."
     },
     {
       "section": "reading",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "kommt aus Algerien, wohnt in Paris, spricht Arabisch und Französisch, lernt Deutsch",
       "topic": "personal-info",
-      "source_page": "014"
+      "source_page": "014",
+      "instruction": "Lesen Sie. Woher kommen die Personen? Wo wohnen sie? Welche Sprachen sprechen und lernen sie? Ergänzen Sie die Tabelle."
     },
     {
       "section": "vocabulary",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "Deutsch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "Deutsch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "Frankreich",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "Portugiesisch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "Italien",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "Spanisch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "Polen",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "Türkisch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -584,7 +628,8 @@
       "option_c": "",
       "correct_answer": "Russland",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -597,7 +642,8 @@
       "option_c": "",
       "correct_answer": "Arabisch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -610,7 +656,8 @@
       "option_c": "",
       "correct_answer": "Japanisch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "vocabulary",
@@ -623,7 +670,8 @@
       "option_c": "",
       "correct_answer": "Englisch",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Ergänzen Sie Land oder Sprache."
     },
     {
       "section": "speaking",
@@ -636,7 +684,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Sprechen Sie zu zweit. Woher kommen Sie? Welche Sprachen sprechen Sie? Welche Sprachen lernen Sie?"
     },
     {
       "section": "speaking",
@@ -649,7 +698,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Wie heißen die Länder aus 8b in Ihrer Sprache?"
     },
     {
       "section": "writing",
@@ -662,7 +712,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "015"
+      "source_page": "015",
+      "instruction": "Wer sind Sie? Schreiben Sie einen kurzen Text."
     },
     {
       "section": "listening",
@@ -675,7 +726,8 @@
       "option_c": "",
       "correct_answer": "Luca, Anna, Bea, Max",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Ich bin Anna. Sehen Sie Szene 1. Wer wohnt in der Netzwerk-WG? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -688,7 +740,8 @@
       "option_c": "",
       "correct_answer": "E",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Willkommen, Anna! Sehen Sie Szene 2. Was wissen Sie über die Personen? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Willkommen, Anna! Sehen Sie Szene 2. Was wissen Sie über die Personen? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Willkommen, Anna! Sehen Sie Szene 2. Was wissen Sie über die Personen? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Willkommen, Anna! Sehen Sie Szene 2. Was wissen Sie über die Personen? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Willkommen, Anna! Sehen Sie Szene 2. Was wissen Sie über die Personen? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Und deine Nummer? Sehen Sie Szene 3. Notieren Sie die Handynummern von Max und Anna und den Nachnamen von Bea."
     },
     {
       "section": "listening",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Was sagen die Personen? Ordnen Sie die Sprechblasen den Fotos zu. Sehen Sie dann noch einmal den ganzen Film und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Was sagen die Personen? Ordnen Sie die Sprechblasen den Fotos zu. Sehen Sie dann noch einmal den ganzen Film und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Was sagen die Personen? Ordnen Sie die Sprechblasen den Fotos zu. Sehen Sie dann noch einmal den ganzen Film und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Was sagen die Personen? Ordnen Sie die Sprechblasen den Fotos zu. Sehen Sie dann noch einmal den ganzen Film und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "personal-info",
-      "source_page": "016"
+      "source_page": "016",
+      "instruction": "Was sagen die Personen? Ordnen Sie die Sprechblasen den Fotos zu. Sehen Sie dann noch einmal den ganzen Film und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "hobby",
-      "source_page": "018"
+      "source_page": "018",
+      "instruction": "Was machen die Leute gern? Hören Sie und notieren Sie."
     }
   ]
 }

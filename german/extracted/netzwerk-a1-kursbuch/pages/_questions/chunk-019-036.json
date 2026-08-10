@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Was machen Sie gern? Was machen Sie nicht gern? Kreuzen Sie an."
     },
     {
       "section": "speaking",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "019"
+      "source_page": "019",
+      "instruction": "Arbeiten Sie zu zweit. Fragen und antworten Sie."
     },
     {
       "section": "reading",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "koche",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "reisen",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "liest",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "singt",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "joggen",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "spielen",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Lesen Sie und ergänzen Sie die Verben."
     },
     {
       "section": "reading",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "singst",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Ergänzen Sie die Endungen. Ordnen Sie dann die Kommentare den Fotos zu."
     },
     {
       "section": "reading",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "sprichst",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Ergänzen Sie die Endungen. Ordnen Sie dann die Kommentare den Fotos zu."
     },
     {
       "section": "reading",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "spielt",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Ergänzen Sie die Endungen. Ordnen Sie dann die Kommentare den Fotos zu."
     },
     {
       "section": "reading",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "Kochen",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Ergänzen Sie die Endungen. Ordnen Sie dann die Kommentare den Fotos zu."
     },
     {
       "section": "reading",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "lese",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Ergänzen Sie die Endungen. Ordnen Sie dann die Kommentare den Fotos zu."
     },
     {
       "section": "reading",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "joggt",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Ergänzen Sie die Endungen. Ordnen Sie dann die Kommentare den Fotos zu."
     },
     {
       "section": "speaking",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Arbeiten Sie zu dritt. Person A nennt ein Verb im Infinitiv, Person B nennt ein Personalpronomen (ich, du ...). Person C nennt die Form. Dann nennt Person C ein anderes Verb."
     },
     {
       "section": "speaking",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "020"
+      "source_page": "020",
+      "instruction": "Und Sie? Was machen Sie gern? Sprechen Sie mit fünf Personen und notieren Sie die Hobbys."
     },
     {
       "section": "listening",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Hören Sie das Gespräch. Wann gehen Sophie und Betty ins Kino?"
     },
     {
       "section": "",
@@ -233,7 +250,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Wie heißen die Wochentage in Ihrer Sprache? Notieren Sie in 4a."
     },
     {
       "section": "speaking",
@@ -246,7 +264,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Satzmelodie: Fragen und Antworten. Hören Sie und sprechen Sie nach."
     },
     {
       "section": "speaking",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Lesen Sie den Dialog zu zweit. Achten Sie auf die Satzmelodie."
     },
     {
       "section": "speaking",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "021"
+      "source_page": "021",
+      "instruction": "Spielen Sie Dialoge wie in 5a. Gehen Sie durch den Kursraum und machen Sie für jeden Tag eine Verabredung mit einer anderen Person. Notieren Sie Ihre Termine."
     },
     {
       "section": "",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Was passt zu den Berufen A–D? Ordnen Sie zu. Es gibt mehrere Möglichkeiten."
     },
     {
       "section": "",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Was passt zu den Berufen A–D? Ordnen Sie zu. Es gibt mehrere Möglichkeiten."
     },
     {
       "section": "",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Was passt zu den Berufen A–D? Ordnen Sie zu. Es gibt mehrere Möglichkeiten."
     },
     {
       "section": "",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Was passt zu den Berufen A–D? Ordnen Sie zu. Es gibt mehrere Möglichkeiten."
     },
     {
       "section": "",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "der: Stift, Computer, Schlüssel; das: Auto, Buch, Geld, Glas, Medikament; die: Straße, Rechnung, Spritze, Tablette",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Artikel. Markieren Sie die Artikel in 6a und notieren Sie die Nomen in einer Tabelle."
     },
     {
       "section": "",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Notieren Sie für jeden Artikel fünf weitere Nomen. Suchen Sie auf den Lernwortschatzseiten im Übungsbuch von Kapitel 1 und 2. Vergleichen Sie im Kurs."
     },
     {
       "section": "reading",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "Studentin",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte. Ergänzen Sie dann die Berufe aus 6a."
     },
     {
       "section": "reading",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "Kellner",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte. Ergänzen Sie dann die Berufe aus 6a."
     },
     {
       "section": "reading",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "Taxifahrer",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte. Ergänzen Sie dann die Berufe aus 6a."
     },
     {
       "section": "reading",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "Ärztin",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Lesen Sie die Texte. Ergänzen Sie dann die Berufe aus 6a."
     },
     {
       "section": "listening",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "22",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "24",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "46",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "100",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "480",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "920",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "1.250",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "25.000",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "listening",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "68.000",
       "topic": "profession",
-      "source_page": "022"
+      "source_page": "022",
+      "instruction": "Unterstreichen Sie alle Zahlen in den Texten in 7a. Welche Zahl passt zu welchem Wort? Notieren Sie. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "reading",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "Studentin; Seminare Mo–Fr, arbeitet am Samstag im Kino",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Arbeiten Sie zu zweit. Partner A sammelt Informationen aus Text A und B. Partner B sammelt Informationen aus Text C und D. Notieren Sie."
     },
     {
       "section": "reading",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "Kellner; arbeitet abends und am Wochenende; frei Montag und Dienstag",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Arbeiten Sie zu zweit. Partner A sammelt Informationen aus Text A und B. Partner B sammelt Informationen aus Text C und D. Notieren Sie."
     },
     {
       "section": "reading",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "Taxifahrer; frei am Freitag",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Arbeiten Sie zu zweit. Partner A sammelt Informationen aus Text A und B. Partner B sammelt Informationen aus Text C und D. Notieren Sie."
     },
     {
       "section": "reading",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "Ärztin; arbeitet nachts und am Wochenende",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Arbeiten Sie zu zweit. Partner A sammelt Informationen aus Text A und B. Partner B sammelt Informationen aus Text C und D. Notieren Sie."
     },
     {
       "section": "speaking",
@@ -584,7 +628,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Präsentieren Sie Ihre Personen. Ihr Partner / Ihre Partnerin notiert."
     },
     {
       "section": "",
@@ -597,7 +642,8 @@
       "option_c": "",
       "correct_answer": "die Kilometer",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Pluralformen. Lesen Sie die Texte in 7a noch einmal. Notieren Sie die Pluralformen."
     },
     {
       "section": "",
@@ -610,7 +656,8 @@
       "option_c": "",
       "correct_answer": "die Ärzte",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Pluralformen. Lesen Sie die Texte in 7a noch einmal. Notieren Sie die Pluralformen."
     },
     {
       "section": "",
@@ -623,7 +670,8 @@
       "option_c": "",
       "correct_answer": "die Stunden",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Pluralformen. Lesen Sie die Texte in 7a noch einmal. Notieren Sie die Pluralformen."
     },
     {
       "section": "",
@@ -636,7 +684,8 @@
       "option_c": "",
       "correct_answer": "die Bücher",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Pluralformen. Lesen Sie die Texte in 7a noch einmal. Notieren Sie die Pluralformen."
     },
     {
       "section": "",
@@ -649,7 +698,8 @@
       "option_c": "",
       "correct_answer": "die Restaurants",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Pluralformen. Lesen Sie die Texte in 7a noch einmal. Notieren Sie die Pluralformen."
     },
     {
       "section": "",
@@ -662,7 +712,8 @@
       "option_c": "",
       "correct_answer": "Kilometer → (¨)-, Arzt → (¨)-e, Stunde → -(e)n, Buch → (¨)-er, Restaurant → -s",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Markieren Sie die Pluralendungen in 8a. Welche Endungen gibt es? Ordnen Sie zu."
     },
     {
       "section": "writing",
@@ -675,7 +726,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Schreiben Sie sieben Lernkarten mit Artikel und Plural. Üben Sie dann zu zweit."
     },
     {
       "section": "",
@@ -688,7 +740,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Welche Berufe sind das? Ordnen Sie zu. Kennen Sie noch andere Berufe?"
     },
     {
       "section": "speaking",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Fragen Sie Ihren Partner / Ihre Partnerin und machen Sie Notizen. Berichten Sie dann im Kurs."
     },
     {
       "section": "writing",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "profession",
-      "source_page": "023"
+      "source_page": "023",
+      "instruction": "Mein Beruf. Schreiben Sie einen Text wie in 7a."
     },
     {
       "section": "vocabulary",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Wörterbücher. Sehen Sie die Beispiele an. Wo steht der Artikel, wo der Plural? Markieren Sie mit zwei Farben."
     },
     {
       "section": "vocabulary",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "der: Kilometer, Tag; das: Krankenhaus, Buch, Seminar; die: Woche",
       "topic": "none",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Schreiben Sie die Nomen in die Tabelle."
     },
     {
       "section": "vocabulary",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "none",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Das Artikelbild. Schreiben Sie die Wörter mit Artikel in die Zeichnung."
     },
     {
       "section": "vocabulary",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "none",
-      "source_page": "024"
+      "source_page": "024",
+      "instruction": "Machen Sie ein eigenes Artikelbild."
     },
     {
       "section": "writing",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "Miller",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Persönliche Angaben. Was passt zusammen? Notieren Sie."
     },
     {
       "section": "writing",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "Jonathan",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Persönliche Angaben. Was passt zusammen? Notieren Sie."
     },
     {
       "section": "writing",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "01.04.1994",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Persönliche Angaben. Was passt zusammen? Notieren Sie."
     },
     {
       "section": "writing",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "New York",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Persönliche Angaben. Was passt zusammen? Notieren Sie."
     },
     {
       "section": "writing",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "Goethestr. 7, 10711 Berlin",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Persönliche Angaben. Was passt zusammen? Notieren Sie."
     },
     {
       "section": "writing",
@@ -844,7 +908,8 @@
       "option_c": "",
       "correct_answer": "0171-12085614",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Persönliche Angaben. Was passt zusammen? Notieren Sie."
     },
     {
       "section": "writing",
@@ -857,7 +922,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "personal-info",
-      "source_page": "025"
+      "source_page": "025",
+      "instruction": "Sportclub „Fit\". Wählen Sie einen Kurs und ergänzen Sie dann das Formular mit Ihren Informationen."
     },
     {
       "section": "listening",
@@ -870,7 +936,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "hobby",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Gehen wir zusammen? Sehen Sie Szene 4. Was macht Anna gern? Was macht Max gern? Sprechen Sie im Kurs."
     },
     {
       "section": "listening",
@@ -883,7 +950,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "hobby",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Sehen Sie die Szene noch einmal. Wann gehen Anna und Max schwimmen?"
     },
     {
       "section": "speaking",
@@ -896,7 +964,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Arbeiten Sie zu zweit. Variieren Sie den Dialog und spielen Sie."
     },
     {
       "section": "listening",
@@ -909,7 +978,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Wo arbeitest du? Sehen Sie Szene 5. Was sind Luca und Anna von Beruf?"
     },
     {
       "section": "listening",
@@ -922,7 +992,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Sehen Sie die Szene noch einmal. Wer macht was? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -935,7 +1006,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Sehen Sie die Szene noch einmal. Wer macht was? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -948,7 +1020,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Sehen Sie die Szene noch einmal. Wer macht was? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -961,7 +1034,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Sehen Sie die Szene noch einmal. Wer macht was? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -974,7 +1048,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Sehen Sie die Szene noch einmal. Wer macht was? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -987,7 +1062,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "profession",
-      "source_page": "026"
+      "source_page": "026",
+      "instruction": "Sehen Sie die Szene noch einmal. Wer macht was? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1000,7 +1076,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Eine Stadttour in Hamburg. Hören Sie. Ordnen Sie die Stationen den Fotos zu."
     },
     {
       "section": "reading",
@@ -1013,7 +1090,8 @@
       "option_c": "",
       "correct_answer": "der Bahnhof",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Lesen Sie die Texte. Was ist das? Ordnen Sie die Wörter zu."
     },
     {
       "section": "reading",
@@ -1026,7 +1104,8 @@
       "option_c": "",
       "correct_answer": "das Konzerthaus",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Lesen Sie die Texte. Was ist das? Ordnen Sie die Wörter zu."
     },
     {
       "section": "reading",
@@ -1039,7 +1118,8 @@
       "option_c": "",
       "correct_answer": "120; 112",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Lesen Sie und ergänzen Sie die Zahlen."
     },
     {
       "section": "reading",
@@ -1052,7 +1132,8 @@
       "option_c": "",
       "correct_answer": "866 Millionen; 600",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Lesen Sie und ergänzen Sie die Zahlen."
     },
     {
       "section": "reading",
@@ -1065,7 +1146,8 @@
       "option_c": "",
       "correct_answer": "12.000; 175",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Lesen Sie und ergänzen Sie die Zahlen."
     },
     {
       "section": "reading",
@@ -1078,7 +1160,8 @@
       "option_c": "",
       "correct_answer": "2.500; 132",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Lesen Sie und ergänzen Sie die Zahlen."
     },
     {
       "section": "reading",
@@ -1091,7 +1174,8 @@
       "option_c": "",
       "correct_answer": "720; 2",
       "topic": "city-places",
-      "source_page": "028"
+      "source_page": "028",
+      "instruction": "Lesen Sie und ergänzen Sie die Zahlen."
     },
     {
       "section": "reading",
@@ -1104,7 +1188,8 @@
       "option_c": "",
       "correct_answer": "der Hafen",
       "topic": "city-places",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Lesen Sie die Texte. Was ist das? Ordnen Sie die Wörter zu."
     },
     {
       "section": "reading",
@@ -1117,7 +1202,8 @@
       "option_c": "",
       "correct_answer": "die Kirche",
       "topic": "city-places",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Lesen Sie die Texte. Was ist das? Ordnen Sie die Wörter zu."
     },
     {
       "section": "reading",
@@ -1130,7 +1216,8 @@
       "option_c": "",
       "correct_answer": "das Rathaus",
       "topic": "city-places",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Lesen Sie die Texte. Was ist das? Ordnen Sie die Wörter zu."
     },
     {
       "section": "",
@@ -1143,7 +1230,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "029"
+      "source_page": "029",
+      "instruction": "Sammeln Sie Informationen und Zahlen über Ihre Stadt oder Ihren Ort. Machen Sie eine Ausstellung im Kurs."
     },
     {
       "section": "listening",
@@ -1156,7 +1244,8 @@
       "option_c": "",
       "correct_answer": "ja",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Der Weg zum Hotel. Hören Sie. Welche Orte nennt der Taxifahrer? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1169,7 +1258,8 @@
       "option_c": "",
       "correct_answer": "nein",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Der Weg zum Hotel. Hören Sie. Welche Orte nennt der Taxifahrer? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1182,7 +1272,8 @@
       "option_c": "",
       "correct_answer": "ja",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Der Weg zum Hotel. Hören Sie. Welche Orte nennt der Taxifahrer? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1195,7 +1286,8 @@
       "option_c": "",
       "correct_answer": "nein",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Der Weg zum Hotel. Hören Sie. Welche Orte nennt der Taxifahrer? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1208,7 +1300,8 @@
       "option_c": "",
       "correct_answer": "ja",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Der Weg zum Hotel. Hören Sie. Welche Orte nennt der Taxifahrer? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1221,7 +1314,8 @@
       "option_c": "",
       "correct_answer": "ja",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Der Weg zum Hotel. Hören Sie. Welche Orte nennt der Taxifahrer? Kreuzen Sie an."
     },
     {
       "section": "speaking",
@@ -1234,7 +1328,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Lesen Sie das Gespräch. Zeichnen Sie den Weg in den Plan. Ist Ihre Lösung in 2a richtig?"
     },
     {
       "section": "",
@@ -1247,7 +1342,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "der, das oder die? Suchen Sie die Nomen in 2b und ergänzen Sie."
     },
     {
       "section": "",
@@ -1260,7 +1356,8 @@
       "option_c": "",
       "correct_answer": "das",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "der, das oder die? Suchen Sie die Nomen in 2b und ergänzen Sie."
     },
     {
       "section": "",
@@ -1273,7 +1370,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "der, das oder die? Suchen Sie die Nomen in 2b und ergänzen Sie."
     },
     {
       "section": "",
@@ -1286,7 +1384,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "der, das oder die? Suchen Sie die Nomen in 2b und ergänzen Sie."
     },
     {
       "section": "",
@@ -1299,7 +1398,8 @@
       "option_c": "",
       "correct_answer": "das",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "der, das oder die? Suchen Sie die Nomen in 2b und ergänzen Sie."
     },
     {
       "section": "",
@@ -1312,7 +1412,8 @@
       "option_c": "",
       "correct_answer": "die",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "der, das oder die? Suchen Sie die Nomen in 2b und ergänzen Sie."
     },
     {
       "section": "",
@@ -1325,7 +1426,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "der, das oder die? Suchen Sie die Nomen in 2b und ergänzen Sie."
     },
     {
       "section": "speaking",
@@ -1338,7 +1440,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "030"
+      "source_page": "030",
+      "instruction": "Artikel. Sammeln Sie Nomen aus Kapitel 1–3. Bilden Sie drei Gruppen: Gruppe der, Gruppe das, Gruppe die. Eine Person nennt ein Nomen, die Gruppe mit dem passenden Artikel steht auf und sagt den Artikel."
     },
     {
       "section": "",
@@ -1351,7 +1454,8 @@
       "option_c": "",
       "correct_answer": "der",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "ein, ein, eine oder der, das, die? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1364,7 +1468,8 @@
       "option_c": "",
       "correct_answer": "Das",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "ein, ein, eine oder der, das, die? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1377,7 +1482,8 @@
       "option_c": "",
       "correct_answer": "Die",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "ein, ein, eine oder der, das, die? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1390,7 +1496,8 @@
       "option_c": "",
       "correct_answer": "Die",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "ein, ein, eine oder der, das, die? Ergänzen Sie die Artikel."
     },
     {
       "section": "",
@@ -1403,7 +1510,8 @@
       "option_c": "",
       "correct_answer": "ein; Der",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Was ist das? Ergänzen Sie die bestimmten und unbestimmten Artikel."
     },
     {
       "section": "",
@@ -1416,7 +1524,8 @@
       "option_c": "",
       "correct_answer": "eine; Die",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Was ist das? Ergänzen Sie die bestimmten und unbestimmten Artikel."
     },
     {
       "section": "",
@@ -1429,7 +1538,8 @@
       "option_c": "",
       "correct_answer": "– (kein Artikel im Plural); Die",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Was ist das? Ergänzen Sie die bestimmten und unbestimmten Artikel."
     },
     {
       "section": "writing",
@@ -1442,7 +1552,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Was ist das? Schreiben Sie Sätze."
     },
     {
       "section": "listening",
@@ -1455,7 +1566,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Vokale. Lang oder kurz? Hören Sie die Wörter und markieren Sie _ für lang und . für kurz."
     },
     {
       "section": "listening",
@@ -1468,7 +1580,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "031"
+      "source_page": "031",
+      "instruction": "Hören Sie noch einmal. Langer Vokal: Kreisen Sie die Arme. Kurzer Vokal: Klopfen Sie auf den Tisch."
     },
     {
       "section": "",
@@ -1481,7 +1594,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Eine Bildgeschichte. Wo passen die Wörter? Zeigen Sie."
     },
     {
       "section": "",
@@ -1494,7 +1608,8 @@
       "option_c": "",
       "correct_answer": "C",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welches Bild passt? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -1507,7 +1622,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welches Bild passt? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -1520,7 +1636,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welches Bild passt? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -1533,7 +1650,8 @@
       "option_c": "",
       "correct_answer": "E",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welches Bild passt? Ordnen Sie zu."
     },
     {
       "section": "",
@@ -1546,7 +1664,8 @@
       "option_c": "",
       "correct_answer": "D",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Welches Bild passt? Ordnen Sie zu."
     },
     {
       "section": "writing",
@@ -1559,7 +1678,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Bus, das ist eine U-Bahn.",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ist das …? Schreiben Sie."
     },
     {
       "section": "writing",
@@ -1572,7 +1692,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist kein Auto, das ist ein Fahrrad.",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ist das …? Schreiben Sie."
     },
     {
       "section": "writing",
@@ -1585,7 +1706,8 @@
       "option_c": "",
       "correct_answer": "Nein, das ist keine Kirche, das ist ein Bahnhof.",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ist das …? Schreiben Sie."
     },
     {
       "section": "writing",
@@ -1598,7 +1720,8 @@
       "option_c": "",
       "correct_answer": "Nein, das sind keine Busse, das sind Fahrräder.",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ist das …? Schreiben Sie."
     },
     {
       "section": "writing",
@@ -1611,7 +1734,8 @@
       "option_c": "",
       "correct_answer": "Nein, das sind keine Konzertkarten, das sind Fahrkarten.",
       "topic": "city-places",
-      "source_page": "032"
+      "source_page": "032",
+      "instruction": "Ist das …? Schreiben Sie."
     },
     {
       "section": "listening",
@@ -1624,7 +1748,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Wegbeschreibungen. Hören Sie. Was suchen die Personen? Notieren Sie."
     },
     {
       "section": "listening",
@@ -1637,7 +1762,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Wegbeschreibungen. Hören Sie. Was suchen die Personen? Notieren Sie."
     },
     {
       "section": "listening",
@@ -1650,7 +1776,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Wegbeschreibungen. Hören Sie. Was suchen die Personen? Notieren Sie."
     },
     {
       "section": "listening",
@@ -1663,7 +1790,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Hören Sie noch einmal. Welche Wegbeschreibung passt? Ordnen Sie zu."
     },
     {
       "section": "speaking",
@@ -1676,7 +1804,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Arbeiten Sie zu zweit. Spielen Sie Dialoge."
     },
     {
       "section": "speaking",
@@ -1689,7 +1818,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "033"
+      "source_page": "033",
+      "instruction": "Nach dem Weg fragen. Spielen Sie zu zweit. Jede/r würfelt zweimal: das erste Mal für den Start, das zweite Mal für das Ziel."
     },
     {
       "section": "reading",
@@ -1702,7 +1832,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Theater – Musik – Film. Lesen Sie die Texte. Ordnen Sie die Fotos zu."
     },
     {
       "section": "reading",
@@ -1715,7 +1846,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Theater – Musik – Film. Lesen Sie die Texte. Ordnen Sie die Fotos zu."
     },
     {
       "section": "reading",
@@ -1728,7 +1860,8 @@
       "option_c": "",
       "correct_answer": "C",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Theater – Musik – Film. Lesen Sie die Texte. Ordnen Sie die Fotos zu."
     },
     {
       "section": "reading",
@@ -1741,7 +1874,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Welche Wörter sind in Ihrer Sprache oder in anderen Sprachen ähnlich? Markieren Sie."
     },
     {
       "section": "vocabulary",
@@ -1754,7 +1888,8 @@
       "option_c": "",
       "correct_answer": "das Theater",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Schreiben Sie die Wörter auf Deutsch und in Ihrer Sprache. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "vocabulary",
@@ -1767,7 +1902,8 @@
       "option_c": "",
       "correct_answer": "das Festival",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Schreiben Sie die Wörter auf Deutsch und in Ihrer Sprache. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "vocabulary",
@@ -1780,7 +1916,8 @@
       "option_c": "",
       "correct_answer": "das Orchester",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Schreiben Sie die Wörter auf Deutsch und in Ihrer Sprache. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "vocabulary",
@@ -1793,7 +1930,8 @@
       "option_c": "",
       "correct_answer": "der Chor",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Schreiben Sie die Wörter auf Deutsch und in Ihrer Sprache. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "vocabulary",
@@ -1806,7 +1944,8 @@
       "option_c": "",
       "correct_answer": "das Konzert",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Schreiben Sie die Wörter auf Deutsch und in Ihrer Sprache. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "vocabulary",
@@ -1819,7 +1958,8 @@
       "option_c": "",
       "correct_answer": "der Film",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Schreiben Sie die Wörter auf Deutsch und in Ihrer Sprache. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "vocabulary",
@@ -1832,7 +1972,8 @@
       "option_c": "",
       "correct_answer": "das Publikum",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Schreiben Sie die Wörter auf Deutsch und in Ihrer Sprache. Hören Sie dann und sprechen Sie nach."
     },
     {
       "section": "speaking",
@@ -1845,7 +1986,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "034"
+      "source_page": "034",
+      "instruction": "Welches Event finden Sie interessant?"
     },
     {
       "section": "vocabulary",
@@ -1858,7 +2000,8 @@
       "option_c": "",
       "correct_answer": "1 Januar, 2 Februar, 3 März, 4 April, 5 Mai, 6 Juni, 7 Juli, 8 August, 9 September, 10 Oktober, 11 November, 12 Dezember",
       "topic": "time-dates",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Notieren Sie die Monate auf Deutsch und in Ihrer Sprache."
     },
     {
       "section": "",
@@ -1871,7 +2014,8 @@
       "option_c": "",
       "correct_answer": "Winter",
       "topic": "time-dates",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Welche Jahreszeit sehen Sie auf den Fotos? Notieren Sie."
     },
     {
       "section": "",
@@ -1884,7 +2028,8 @@
       "option_c": "",
       "correct_answer": "Herbst",
       "topic": "time-dates",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Welche Jahreszeit sehen Sie auf den Fotos? Notieren Sie."
     },
     {
       "section": "",
@@ -1897,7 +2042,8 @@
       "option_c": "",
       "correct_answer": "Sommer",
       "topic": "time-dates",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Welche Jahreszeit sehen Sie auf den Fotos? Notieren Sie."
     },
     {
       "section": "",
@@ -1910,7 +2056,8 @@
       "option_c": "",
       "correct_answer": "Frühling",
       "topic": "time-dates",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Welche Jahreszeit sehen Sie auf den Fotos? Notieren Sie."
     },
     {
       "section": "listening",
@@ -1923,7 +2070,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Hören Sie. Was machen die Leute? Wann machen sie das? Notieren Sie."
     },
     {
       "section": "speaking",
@@ -1936,7 +2084,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "time-dates",
-      "source_page": "035"
+      "source_page": "035",
+      "instruction": "Arbeiten Sie zu zweit mit dem Wörterbuch. Was machen Sie wann? Machen Sie ein Plakat zu den Jahreszeiten. Präsentieren Sie es im Kurs."
     },
     {
       "section": "listening",
@@ -1949,7 +2098,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Die Stadttour in München. Wohin fahren Luca und Anna? Sehen Sie Szene 6 und nummerieren Sie die Stationen."
     },
     {
       "section": "",
@@ -1962,7 +2112,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Was passt zu welchem Foto? Ordnen Sie zu. Drei Überschriften passen nicht."
     },
     {
       "section": "",
@@ -1975,7 +2126,8 @@
       "option_c": "",
       "correct_answer": "I",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Was passt zu welchem Foto? Ordnen Sie zu. Drei Überschriften passen nicht."
     },
     {
       "section": "",
@@ -1988,7 +2140,8 @@
       "option_c": "",
       "correct_answer": "D",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Was passt zu welchem Foto? Ordnen Sie zu. Drei Überschriften passen nicht."
     },
     {
       "section": "",
@@ -2001,7 +2154,8 @@
       "option_c": "",
       "correct_answer": "H",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Was passt zu welchem Foto? Ordnen Sie zu. Drei Überschriften passen nicht."
     },
     {
       "section": "",
@@ -2014,7 +2168,8 @@
       "option_c": "",
       "correct_answer": "E",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Was passt zu welchem Foto? Ordnen Sie zu. Drei Überschriften passen nicht."
     },
     {
       "section": "",
@@ -2027,7 +2182,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Was passt zu welchem Foto? Ordnen Sie zu. Drei Überschriften passen nicht."
     },
     {
       "section": "",
@@ -2040,7 +2196,8 @@
       "option_c": "",
       "correct_answer": "1792",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Zahlen, Zahlen, Zahlen. Sehen Sie Szene 6 noch einmal. Ergänzen Sie die Zahlen im Text."
     },
     {
       "section": "",
@@ -2053,7 +2210,8 @@
       "option_c": "",
       "correct_answer": "375",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Zahlen, Zahlen, Zahlen. Sehen Sie Szene 6 noch einmal. Ergänzen Sie die Zahlen im Text."
     },
     {
       "section": "",
@@ -2066,7 +2224,8 @@
       "option_c": "",
       "correct_answer": "3,5",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Zahlen, Zahlen, Zahlen. Sehen Sie Szene 6 noch einmal. Ergänzen Sie die Zahlen im Text."
     },
     {
       "section": "",
@@ -2079,7 +2238,8 @@
       "option_c": "",
       "correct_answer": "25",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Zahlen, Zahlen, Zahlen. Sehen Sie Szene 6 noch einmal. Ergänzen Sie die Zahlen im Text."
     },
     {
       "section": "",
@@ -2092,7 +2252,8 @@
       "option_c": "",
       "correct_answer": "1901",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Zahlen, Zahlen, Zahlen. Sehen Sie Szene 6 noch einmal. Ergänzen Sie die Zahlen im Text."
     },
     {
       "section": "",
@@ -2105,7 +2266,8 @@
       "option_c": "",
       "correct_answer": "1969–1972",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Zahlen, Zahlen, Zahlen. Sehen Sie Szene 6 noch einmal. Ergänzen Sie die Zahlen im Text."
     },
     {
       "section": "",
@@ -2118,7 +2280,8 @@
       "option_c": "",
       "correct_answer": "137",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Zahlen, Zahlen, Zahlen. Sehen Sie Szene 6 noch einmal. Ergänzen Sie die Zahlen im Text."
     },
     {
       "section": "",
@@ -2131,7 +2294,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Recherchieren Sie: Welche Konzerte und Veranstaltungen gibt es bald im Olympiapark? Wohin möchten Sie gerne gehen?"
     },
     {
       "section": "",
@@ -2144,7 +2308,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "city-places",
-      "source_page": "036"
+      "source_page": "036",
+      "instruction": "Entschuldigung, wo ist der Viktualienmarkt? Sehen Sie Szene 7. Ordnen Sie die Ausdrücke in die richtige Reihenfolge und beschreiben Sie den Weg."
     }
   ]
 }
