@@ -11,8 +11,13 @@ To resume, reference this as **"Pipeline & Exports Handoff v1.1"**. v1.0 stays a
 only as history of the German run and the Tricolore 2 transcription; this document
 supersedes it for current state, gates and standards.
 
-**Head:** `7b3b07c` on `lingotran-engine-v1.1.0`, with `main` kept level. 41 commits and
-8 tags today. Everything below is verified from disk, not from memory.
+**Head:** `1628946` on `lingotran-engine-v1.1.0` (this document's own commit), tagged
+`v1.1.0-handoff`. 42 commits and 9 tags today. Everything below is verified from disk,
+not from memory.
+
+`main` tracks the version branch by fast-forward and had fallen 82 behind while this
+document claimed it was level; it is level again locally. `origin/main` still trails
+until someone pushes.
 
 ---
 
