@@ -44,10 +44,18 @@ test.describe("Corpus console (homepage)", () => {
     // SSR-painted input before React's onChange is wired up and get lost.
     await page.waitForLoadState("networkidle");
     const searchBox = page.getByPlaceholder("Search books, exams, sources…");
-    await searchBox.fill("zzzznonexistentbook");
-    await expect(page.getByText("No matches")).toBeVisible();
+    // networkidle is not proof of hydration -- under WebKit a fill() could land
+    // on the SSR-painted input before React's onChange was wired up and be
+    // silently dropped, which made this test flaky rather than failing
+    // honestly. Typing character by character and asserting on the live count
+    // exercises the same path a user does and waits for React to be listening.
+    await expect(searchBox).toBeEnabled();
+    await searchBox.click();
+    await searchBox.pressSequentially("zzzznonexistentbook", { delay: 15 });
+    await expect(page.getByText("No matches")).toBeVisible({ timeout: 10_000 });
 
-    await searchBox.fill("Cosmopolite");
-    await expect(page.getByText("Cosmopolite 1", { exact: false }).first()).toBeVisible();
+    await searchBox.fill("");
+    await searchBox.pressSequentially("Cosmopolite", { delay: 15 });
+    await expect(page.getByText("Cosmopolite 1", { exact: false }).first()).toBeVisible({ timeout: 10_000 });
   });
 });

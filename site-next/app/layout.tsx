@@ -73,8 +73,16 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
       </head>
       <body className="min-h-full flex flex-col bg-bg text-text font-sans" suppressHydrationWarning>
+        {/* tabIndex={0} is NOT redundant here, despite <a href> being natively
+            focusable. WebKit/Safari does not place links in the sequential
+            focus order by default ("Press Tab to highlight each item on a
+            webpage" is off), so without it the very first Tab skips straight
+            past the skip link and it becomes unreachable by keyboard in Safari
+            -- verified by the e2e suite, which caught exactly this after the
+            attribute was removed as cleanup. Leave it. */}
         <a
           href="#main"
+          tabIndex={0}
           className="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-100 focus:rounded-lg focus:bg-brand-700 focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-white"
         >
           Skip to content

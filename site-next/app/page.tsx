@@ -62,7 +62,7 @@ export default function Home() {
                 <br />
                 Nothing dropped.
               </h1>
-              <p className="mt-5 max-w-lg text-base leading-relaxed text-text-muted">
+              <p className="mt-5 max-w-(--prose-max) text-base leading-relaxed text-text-muted">
                 Scanned textbooks and exam PDFs, transcribed verbatim and adversarially re-checked until
                 every exercise, table, and answer key is accounted for.
               </p>
@@ -80,7 +80,7 @@ export default function Home() {
                 </Link>
                 <Link
                   href="/engine"
-                  className="inline-flex h-10 items-center rounded-full border border-border-strong px-5 text-sm font-medium text-text transition-colors hover:bg-surface-2"
+                  className="inline-flex h-10 items-center rounded-full border border-border-control px-5 text-sm font-medium text-text transition-colors hover:bg-surface-2"
                 >
                   See how it works
                 </Link>
@@ -98,7 +98,7 @@ export default function Home() {
             lead="A scalable workflow for extracting structured linguistic data from language-learning PDFs and authorized websites — converting textbook and exam content into clean, faithful material for study tools."
           >
             <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6">
-              <p className="text-sm leading-relaxed text-text-muted">
+              <p className="max-w-(--prose-max) text-sm leading-relaxed text-text-muted">
                 Sources differ, so each gets the right acquisition path. Scanned workbooks have{" "}
                 <strong className="text-text">no text layer</strong>, so content is recovered by
                 Claude-vision transcription of 300-DPI page renders; JavaScript-rendered websites are
@@ -107,7 +107,7 @@ export default function Home() {
                 instruction, table, exercise, blank, example, answer key, caption and page number is
                 captured verbatim, then independently verified and repaired until faithful.
               </p>
-              <p className="mt-4 text-sm leading-relaxed text-text-muted">
+              <p className="mt-4 max-w-(--prose-max) text-sm leading-relaxed text-text-muted">
                 French and German are both built out. The same pipeline is designed to extend to Japanese,
                 Portuguese, Romanian, Russian and Spanish.
               </p>

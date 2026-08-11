@@ -19,6 +19,8 @@
 
 # next.js
 /.next/
+# Isolated build tree used by NEXT_DIST_DIR (prod build alongside a live dev server)
+/.next-prod/
 /out/
 
 # production

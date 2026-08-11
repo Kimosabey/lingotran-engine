@@ -55,7 +55,7 @@ export default function ReferencePage() {
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               Conventions &amp; tools
             </h1>
-            <p className="mt-4 max-w-2xl text-base leading-relaxed text-text-muted">
+            <p className="mt-4 max-w-(--prose-max) text-base leading-relaxed text-text-muted">
               How the corpus is laid out on disk, how pages are named, the state each page moves through,
               and the scripts that orchestrate it all.
             </p>
@@ -111,7 +111,7 @@ export default function ReferencePage() {
           </Section>
 
           <Section id="naming" eyebrow="Conventions" title="Naming">
-            <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted">
+            <div className="max-w-(--prose-max) rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted">
               {conventions.naming}
             </div>
           </Section>

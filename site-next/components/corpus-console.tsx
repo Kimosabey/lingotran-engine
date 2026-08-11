@@ -17,7 +17,7 @@ function DetailPanel({ item }: { item: CorpusItem }) {
   const blurb = "blurb" in item.book ? item.book.blurb : undefined;
   const caveats = "caveats" in item.book ? item.book.caveats : undefined;
   return (
-    <div className="grid grid-cols-1 gap-6 border-t border-border bg-surface-inset p-5 sm:grid-cols-[1fr_auto]">
+    <div className="unfold grid grid-cols-1 gap-6 border-t border-border bg-surface-inset p-5 sm:grid-cols-[1fr_auto]">
       <div className="flex flex-col gap-3">
         {blurb && <p className="text-sm leading-relaxed text-text-muted">{blurb}</p>}
         <div className="flex flex-wrap gap-2">
@@ -220,7 +220,7 @@ export function CorpusConsole() {
                           <StatusBadge state={item.state} qaFail={item.qaFail} />
                         </td>
                         <td className="px-2 py-3 text-text-subtle">
-                          <span className={"inline-flex transition-transform " + (open ? "rotate-90" : "")}>
+                          <span className={"inline-flex transition-transform duration-(--dur-3) ease-(--ease-move) " + (open ? "rotate-90" : "")}>
                             <Icon name="chevron" size={16} />
                           </span>
                         </td>
@@ -258,7 +258,7 @@ export function CorpusConsole() {
                         <span className="font-medium text-text">{item.title}</span>
                         <span className="text-xs text-text-subtle">{item.subtitle || item.source}</span>
                       </div>
-                      <span className={"mt-0.5 shrink-0 text-text-subtle transition-transform " + (open ? "rotate-90" : "")}>
+                      <span className={"mt-0.5 shrink-0 text-text-subtle transition-transform duration-(--dur-3) ease-(--ease-move) " + (open ? "rotate-90" : "")}>
                         <Icon name="chevron" size={16} />
                       </span>
                     </div>

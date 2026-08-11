@@ -214,12 +214,30 @@
   --ls-caps: 0.08em;
 
   /* ---- Motion ------------------------------------------------------------ */
+  /* Curves have JOBS, not moods. They were previously used interchangeably,
+     which is the difference between "has animations" and "feels designed":
+       --ease-enter  things ARRIVING or expanding. Slight overshoot, so an
+                     element settles into place instead of stopping dead.
+       --ease-exit   things LEAVING or collapsing. No overshoot -- an object
+                     on its way out must not draw attention on the way.
+       --ease-move   position/size changes on something already present.
+     --ease-out / --ease-spring are kept as the historical aliases so nothing
+     that already references them changes behaviour. */
   --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
   --ease-spring: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-enter: cubic-bezier(0.16, 1.06, 0.3, 1);
+  --ease-exit: cubic-bezier(0.4, 0, 0.9, 0.35);
+  --ease-move: cubic-bezier(0.32, 0.72, 0, 1);
   --dur-1: 0.12s;
   --dur-2: 0.2s;
   --dur-3: 0.35s;
   --dur-4: 0.55s;
+  /* One authoritative length for the hero's verification loop. Every element
+     in the FidelityCard animates for exactly this long with the same
+     iteration count, and each one simply does nothing outside its own slice of
+     the timeline -- that is what keeps five independent animations in sync
+     forever with no JavaScript and no drift. */
+  --scan-cycle: 7.2s;
 
   /* ---- Layout ------------------------------------------------------------ */
   --topbar-h: 60px;
@@ -231,7 +249,15 @@
   --sectionnav-h: 45px;
   --sticky-stack: calc(var(--topbar-h) + var(--appbar-h) + var(--sectionnav-h));
   --content-max: 1600px;
-  --prose-max: 72ch;
+  /* Reading measure, in `em` rather than `ch` on purpose.
+     `ch` is the advance width of "0", which in Inter is ~0.6em -- noticeably
+     wider than the ~0.5em average character. So a `72ch` max-width actually
+     fits ~86 characters per line, well past the comfortable 45-75 band, and
+     it silently resolved against whichever element carried the max-width (on a
+     16px container that was 727px, not the 15px paragraph's measure).
+     34em is font-size-relative, so it yields ~68 characters at every step of
+     the type scale, and it must be set on the text element itself. */
+  --prose-max: 34em;
 
   /* ---- Z-index ------------------------------------------------------------ */
   --z-appbar: 40;
@@ -396,6 +422,15 @@
 :focus-visible {
   outline: 2px solid var(--ring);
   outline-offset: 2px;
+  /* Tailwind's `transition-colors` includes outline-color in its property
+     list, so on a control that also sets a text color the ring animates FROM
+     currentColor. On the primary CTA (white text on brand violet) that meant
+     the focus ring began life white-on-near-white -- measured at 1.08:1 for
+     the first ~150ms, i.e. effectively invisible exactly when a keyboard user
+     needs it. Re-declaring the property list here, without outline-color,
+     keeps every other transition on the element intact while making the
+     indicator appear instantly. */
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, rotate, translate, scale;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -509,31 +544,322 @@ html::-webkit-scrollbar {
   box-shadow: -1px 1px 2px rgba(20, 16, 30, 0.08);
   pointer-events: none;
 }
-@keyframes fidelity-row-in {
-  from {
+/* ==========================================================================
+   THE VERIFICATION PASS — the hero's signature loop.
+   ==========================================================================
+   Every other product hero shows a UI screenshot. This one can show the actual
+   claim being made, because the claim is a physical process: a 300-DPI scan is
+   read, and every field is confirmed present. So the card runs that pass on a
+   loop instead of staging in once and dying.
+
+   Five beats over --scan-cycle:
+     0–8%     the specimen settles into place (spring, slight rotation)
+     8–30%    a scan head sweeps top→bottom; the page text RESOLVES from blur
+              to sharp behind it -- the sharp copy is revealed by a clip-path
+              chasing the scan head, so content genuinely appears to be read
+     30–48%   the four output fields check in, overlapping (Disney's
+              follow-through: each row's tick lands slightly after its text)
+     48–56%   the Verified badge stamps in with an overshoot and a ring pulse
+     56–92%   hold, so the finished state is what you actually read
+     92–100%  the specimen releases and the next page takes its place
+
+   Sync strategy: every animated child shares the SAME duration and iteration
+   count, and does nothing outside its own slice. No JS, no timers, and no
+   possibility of drift between the five tracks.
+
+   `prefers-reduced-motion` is handled by the global reset above, which
+   collapses the duration and forces a single iteration -- the card lands on its
+   final, verified state and simply never moves. That is the correct reduced
+   state: the information is the point, the motion is the enhancement. */
+
+.scan-stage {
+  --scan-anim: var(--scan-cycle) linear infinite both;
+}
+/* Hover to inspect: freezing the pass is the affordance for actually reading
+   the specimen, which a permanently-moving hero would deny. */
+.scan-stage:hover *,
+.scan-stage:focus-within * {
+  animation-play-state: paused;
+}
+
+/* --- the specimen ------------------------------------------------------- */
+@keyframes scan-settle {
+  0% {
     opacity: 0;
-    transform: translateY(5px);
+    transform: translateY(10px) rotate(-5deg);
   }
-  to {
+  8% {
+    opacity: 1;
+    transform: translateY(0) rotate(-2deg);
+  }
+  92% {
+    opacity: 1;
+    transform: translateY(0) rotate(-2deg);
+  }
+  97% {
+    opacity: 0;
+    transform: translateY(-8px) rotate(-0.5deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(10px) rotate(-5deg);
+  }
+}
+.scan-paper {
+  animation: scan-settle var(--scan-anim);
+  animation-timing-function: var(--ease-enter);
+}
+
+/* --- the scan head ----------------------------------------------------- */
+@keyframes scan-head {
+  0%,
+  8% {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  10% {
+    opacity: 1;
+  }
+  28% {
+    opacity: 1;
+    transform: translateY(var(--scan-travel, 150px));
+  }
+  32%,
+  100% {
+    opacity: 0;
+    transform: translateY(var(--scan-travel, 150px));
+  }
+}
+.scan-head {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 26px;
+  pointer-events: none;
+  /* A soft leading glow with a hard bright edge at the bottom -- reads as a
+     sensor bar, not a generic gradient wipe. */
+  background: linear-gradient(to bottom, transparent, color-mix(in srgb, var(--brand-500) 22%, transparent) 78%, var(--brand-500) 100%);
+  box-shadow: 0 1px 10px -1px color-mix(in srgb, var(--brand-500) 55%, transparent);
+  animation: scan-head var(--scan-anim);
+}
+
+/* --- text resolving under the head ------------------------------------- */
+/* Two stacked copies: a blurred "unread" layer, and a sharp layer revealed by
+   a clip-path that tracks the scan head. The sharp text therefore materialises
+   exactly where the sensor has already passed. */
+@keyframes scan-resolve {
+  0%,
+  8% {
+    clip-path: inset(0 0 100% 0);
+  }
+  28% {
+    clip-path: inset(0 0 0 0);
+  }
+  92% {
+    clip-path: inset(0 0 0 0);
+  }
+  100% {
+    clip-path: inset(0 0 100% 0);
+  }
+}
+.scan-sharp {
+  /* Opaque plate, so the sharp text fully occludes the blurred copy beneath it
+     instead of double-imaging over it. This is also why the blurred layer needs
+     no animation at all: wherever the clip-path has revealed the sharp plate,
+     the unread version is simply covered. */
+  background: var(--paper);
+  animation: scan-resolve var(--scan-anim);
+  animation-timing-function: linear;
+}
+/* The unread state. Deliberately static: text that has not been read yet is
+   BLURRED, not absent -- fading it out made the lower half of the page look
+   empty, which says "there is nothing here" when the whole product claim is
+   that nothing gets missed. */
+.scan-blur {
+  filter: blur(1.4px);
+}
+
+/* --- output fields checking in ----------------------------------------- */
+/* Each row runs the FULL cycle -- that is what holds the five tracks in sync.
+   The stagger is a small positive animation-delay (--row-stagger, a fraction of
+   the cycle), never a shorter duration: a sub-cycle duration with `infinite`
+   would repeat every few hundred milliseconds and desynchronise immediately.
+   The whole field-check phase lives between 28% and 96% of the keyframes. */
+@keyframes scan-field {
+  0%,
+  28% {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  34% {
     opacity: 1;
     transform: translateY(0);
   }
-}
-@keyframes fidelity-badge-in {
-  from {
-    opacity: 0;
-    transform: scale(0.75);
+  90% {
+    opacity: 1;
+    transform: translateY(0);
   }
-  to {
+  96%,
+  100% {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}
+.scan-row {
+  animation: scan-field var(--scan-cycle) var(--ease-enter) infinite both;
+  animation-delay: calc(var(--scan-cycle) * var(--row-stagger, 0));
+}
+
+/* Follow-through (Disney, via Rauno's favourite principle): the tick does not
+   arrive with its text -- it lands a beat later and overshoots before settling,
+   so the row reads as being confirmed rather than merely appearing. */
+@keyframes scan-tick {
+  0%,
+  31% {
+    opacity: 0;
+    transform: scale(0.4);
+  }
+  37% {
+    opacity: 1;
+    transform: scale(1.3);
+  }
+  41% {
+    transform: scale(1);
+  }
+  90% {
     opacity: 1;
     transform: scale(1);
   }
+  96%,
+  100% {
+    opacity: 0;
+    transform: scale(1);
+  }
 }
-.fidelity-row {
-  animation: fidelity-row-in var(--dur-3) var(--ease-out) both;
+.scan-tick {
+  animation: scan-tick var(--scan-cycle) var(--ease-enter) infinite both;
+  animation-delay: calc(var(--scan-cycle) * var(--row-stagger, 0));
 }
-.fidelity-badge {
-  animation: fidelity-badge-in var(--dur-3) var(--ease-spring) both;
+
+/* --- the stamp --------------------------------------------------------- */
+@keyframes scan-badge {
+  0%,
+  46% {
+    opacity: 0;
+    transform: scale(0.7) rotate(-6deg);
+  }
+  52% {
+    opacity: 1;
+    transform: scale(1.1) rotate(1deg);
+  }
+  56% {
+    transform: scale(1) rotate(0deg);
+  }
+  92% {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+  }
+  97%,
+  100% {
+    opacity: 0;
+    transform: scale(0.9) rotate(0deg);
+  }
+}
+.scan-badge {
+  animation: scan-badge var(--scan-anim);
+  animation-timing-function: var(--ease-enter);
+}
+/* One ring pulse on the stamp -- the only "celebration" on the site, and it
+   fires once per pass on the single word the whole product is about. */
+@keyframes scan-ring {
+  0%,
+  50% {
+    opacity: 0.55;
+    transform: scale(1);
+  }
+  62%,
+  100% {
+    opacity: 0;
+    transform: scale(1.5);
+  }
+}
+.scan-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: 999px;
+  border: 1.5px solid var(--verified-badge);
+  pointer-events: none;
+  opacity: 0;
+  animation: scan-ring var(--scan-anim);
+  animation-timing-function: var(--ease-exit);
+}
+
+/* --- the reduced-motion resting state ---------------------------------- */
+/* This block is REQUIRED, not a nicety. The global reduced-motion reset above
+   forces `animation-duration: 0.001ms` and `iteration-count: 1`, and every
+   track here uses `both` fill -- so each one instantly snapped to its 100%
+   keyframe. For this loop, 100% is the *handoff* frame, where the specimen has
+   released and the next page has not arrived: the entire card rendered at
+   opacity 0. Verified empirically -- an empty box was what reduced-motion
+   users actually got.
+   So the resting state is declared explicitly, and it is the HOLD beat: page
+   read, all four fields checked in, badge stamped. Reduced motion should mean
+   "show me the outcome without the performance", never "show me nothing". */
+@media (prefers-reduced-motion: reduce) {
+  .scan-paper,
+  .scan-sharp,
+  .scan-row,
+  .scan-tick,
+  .scan-badge {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  .scan-paper {
+    transform: rotate(-2deg) !important;
+  }
+  .scan-sharp {
+    clip-path: inset(0 0 0 0) !important;
+  }
+  /* No sensor bar and no stamp pulse when nothing is moving -- both only mean
+     anything as motion. */
+  .scan-head,
+  .scan-ring {
+    display: none !important;
+  }
+}
+
+/* ==========================================================================
+   GROW FROM ORIGIN
+   ==========================================================================
+   "Premium interfaces treat interactions as physical: elements that animate in
+   come from a direction that makes sense." The corpus detail panel used to pop
+   into existence -- the single cheapest-feeling moment on the site.
+
+   It now unfolds downward out of the row that was clicked. clip-path rather
+   than scaleY, because scaling a box distorts the text inside it; clipping
+   reveals it at true size. Paired with a small upward offset so it reads as
+   emerging from under the row rather than sliding up from below.
+
+   Enter-only by design: the panel is conditionally rendered, so there is no
+   element left to animate on close, and a collapse tween would only delay
+   getting out of the way. Things arriving deserve weight; things leaving
+   should not detain you. */
+@keyframes unfold-from-row {
+  from {
+    opacity: 0;
+    clip-path: inset(0 0 100% 0);
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    clip-path: inset(0 0 0 0);
+    transform: translateY(0);
+  }
+}
+.unfold {
+  animation: unfold-from-row var(--dur-4) var(--ease-enter) both;
 }
 
 /* Card spotlight -- a cursor-following glow for KPI/Explorer/collection
@@ -601,6 +927,42 @@ html::-webkit-scrollbar {
   opacity: 1;
 }
 
+/* ==========================================================================
+   SCROLL-DRIVEN LAYER REVEAL  (/engine, "Thirteen layers, one job each")
+   ==========================================================================
+   Thirteen numbered rows describing a pipeline is exactly the content that
+   should arrive in order as you read it -- the scroll IS the pipeline.
+
+   Native scroll-driven animation, so it costs no JavaScript and runs off the
+   main thread. It is NOT Baseline: Chromium 115+, Firefox 132+ and Safari
+   support it (~84% global), but Firefox stable was still catching up, so the
+   whole thing sits behind @supports. Without support the rows are simply
+   there, fully legible, immediately -- which is the correct fallback for a
+   reference page.
+
+   `animation-range` ends at 55% of the element's own view progress so a row
+   finishes settling well before it reaches reading position, rather than
+   animating under the reader's eye. */
+@supports (animation-timeline: view()) {
+  @media not (prefers-reduced-motion: reduce) {
+    @keyframes layer-arrive {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .layer-row {
+      animation: layer-arrive linear both;
+      animation-timeline: view();
+      animation-range: entry 5% cover 55%;
+    }
+  }
+}
+
 /* Tracing beam -- see components/flow-diagram.tsx for the trigger logic.
    Each connector rail gets a gradient overlay that wipes in left-to-right,
    staggered per step via the --beam-delay custom property. */
@@ -615,6 +977,33 @@ html::-webkit-scrollbar {
   transition-delay: var(--beam-delay, 0ms);
 }
 .tracing-line.is-lit::after {
+  transform: scaleX(1);
+}
+
+/* Author byline (components/footer.tsx) -- a --grad-brand-90 hairline that
+   wipes in from the left on hover/focus. Same device as the appbar's active-nav
+   underline and the KPI accent bar, deliberately: the brand gradient already
+   means "this is the live thing" everywhere else on the site.
+   scaleX on a pseudo-element, so it composites on the GPU and never reflows. */
+.byline {
+  position: relative;
+  text-decoration: none;
+}
+.byline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 1.5px;
+  border-radius: 999px;
+  background: var(--grad-brand-90);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform var(--dur-3) var(--ease-spring);
+}
+.byline:hover::after,
+.byline:focus-visible::after {
   transform: scaleX(1);
 }
 

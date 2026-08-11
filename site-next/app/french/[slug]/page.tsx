@@ -96,7 +96,7 @@ export default async function FrenchBookPage({ params }: { params: Promise<{ slu
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               {book.title}
             </h1>
-            <p className="mt-4 max-w-2xl text-base leading-relaxed text-text-muted">
+            <p className="mt-4 max-w-(--prose-max) text-base leading-relaxed text-text-muted">
               {book.spreads} pages · {french.level.split(" (")[0]} — {book.subtitle}
             </p>
           </div>
@@ -105,7 +105,7 @@ export default async function FrenchBookPage({ params }: { params: Promise<{ slu
 
           <Section id="overview" eyebrow="Overview" title="About this book">
             <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6">
-              <p className="text-sm leading-relaxed text-text-muted">{book.about.intro}</p>
+              <p className="max-w-(--prose-max) text-sm leading-relaxed text-text-muted">{book.about.intro}</p>
               <dl className="mt-4 grid grid-cols-[auto_1fr] gap-x-3 gap-y-1.5 text-sm">
                 <dt className="text-text-subtle">source</dt>
                 <dd>

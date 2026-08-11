@@ -30,7 +30,14 @@ const CSP = [
   "base-uri 'self'",
   "form-action 'self'",
   "frame-ancestors 'none'",
-  "upgrade-insecure-requests",
+  // NO `upgrade-insecure-requests`. It rewrites every http:// subresource to
+  // https://, and WebKit applies that to localhost too (Chromium exempts
+  // localhost as a potentially-trustworthy origin). The result was that Safari
+  // -- and `next start` under Playwright's WebKit -- failed every asset with
+  // "SSL connect error": no CSS, no JS, a completely dead page, while Chromium
+  // looked perfect. It also buys nothing here: HSTS already forces HTTPS on the
+  // real domain, Vercel serves HTTPS only, and the site loads no third-party
+  // subresources at all.
 ].join("; ");
 
 const SECURITY_HEADERS = [
@@ -46,6 +53,21 @@ const SECURITY_HEADERS = [
 ];
 
 const nextConfig: NextConfig = {
+  // Lets a production build coexist with a running `next dev`.
+  //
+  // Both default to `.next`, and `next dev` keeps a *persistent Turbopack
+  // cache* open under `.next/dev/cache`. Running `next build` against the same
+  // directory while dev is live corrupts that cache -- the dev server then
+  // panics with "Unable to open static sorted file ... .sst / The system cannot
+  // find the path specified", because its database still references files the
+  // build replaced or removed. Set NEXT_DIST_DIR to give a build (or an e2e
+  // run) its own tree:
+  //
+  //   NEXT_DIST_DIR=.next-prod pnpm build
+  //   NEXT_DIST_DIR=.next-prod pnpm start
+  //
+  // Unset, behaviour is exactly as before.
+  distDir: process.env.NEXT_DIST_DIR || ".next",
   // Lets the dev server (pnpm dev) be reached from this machine's Tailscale IP
   // without the cross-origin dev-resource warning; production is unaffected.
   allowedDevOrigins: ["100.88.22.7"],

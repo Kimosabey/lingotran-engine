@@ -73,7 +73,7 @@ export default function GermanPage() {
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               German — A1
             </h1>
-            <p className="mt-4 max-w-2xl text-base leading-relaxed text-text-muted">
+            <p className="mt-4 max-w-(--prose-max) text-base leading-relaxed text-text-muted">
               Official Goethe-Zertifikat A1 practice material, three scanned A1 textbooks, and authorized
               public web pages — extracted to faithful Markdown, then exported as question and vocabulary
               datasets.
@@ -206,7 +206,7 @@ export default function GermanPage() {
             title="How it was built"
             lead="Twelve layers, from raw PDF to export sheet — the expensive vision layers run once, everything downstream regenerates for free."
           >
-            <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted">
+            <div className="max-w-3xl rounded-2xl border border-border bg-surface p-6 text-sm leading-relaxed text-text-muted [&>p]:max-w-(--prose-max)">
               <p>
                 Pages are rendered at 300 DPI, transcribed by a vision agent, then checked by an{" "}
                 <strong className="text-text">independent adversarial QA agent</strong> that may not edit —

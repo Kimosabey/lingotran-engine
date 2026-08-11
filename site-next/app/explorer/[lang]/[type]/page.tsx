@@ -96,7 +96,7 @@ export default async function ExplorerPage({
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               {LANG_LABEL[lang]} {TYPE_LABEL[type]}
             </h1>
-            <p className="mt-4 max-w-2xl text-base leading-relaxed text-text-muted">{TYPE_LEAD[type]}</p>
+            <p className="mt-4 max-w-(--prose-max) text-base leading-relaxed text-text-muted">{TYPE_LEAD[type]}</p>
           </div>
 
           <div className="mb-6 flex flex-wrap items-center gap-3">

@@ -3,6 +3,8 @@
 > **Scope:** `site-next/` — the Lingotran Engine marketing/reference site (Next.js 16 + React 19).
 > **Audience:** Claude Code (and any engineer, human or AI) making changes in this directory.
 > **Status:** Living document. This file is the root of authority for `docs/00`–`docs/15`. When any other doc in this set appears to conflict with this one, this one wins.
+>
+> **⚠️ Before your first change here, read [`_engine/HANDOFF-2026-08-11-site-next-ui-audit-motion.md`](../../_engine/HANDOFF-2026-08-11-site-next-ui-audit-motion.md).** It records the 2026-08-11 UI/UX audit and remediation: the `light-dark()` theming model, the motion system, two infrastructure changes made outside the repo, and a list of ~12 non-obvious decisions that look like redundancy and will break accessibility or the build if "cleaned up".
 
 This is not a style guide. It is the **operating system** this codebase runs on: who you are while working here, how you think, how you produce output, and how you verify you didn't just make things worse.
 

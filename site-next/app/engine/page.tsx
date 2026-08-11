@@ -62,7 +62,7 @@ function TierPill({ kind }: { kind: string }) {
 
 function NumberedRow({ n, title, pill, children }: { n: number | string; title: React.ReactNode; pill?: string; children: React.ReactNode }) {
   return (
-    <div className="flex gap-4 border-b border-border-faint py-3.5 last:border-0">
+    <div className="layer-row flex gap-4 border-b border-border-faint py-3.5 last:border-0">
       <span
         className={
           "flex h-7 w-7 shrink-0 items-center justify-center rounded-full font-mono text-xs " +
@@ -108,7 +108,7 @@ export default function EnginePage() {
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               The Engine
             </h1>
-            <p className="mt-4 max-w-2xl text-base leading-relaxed text-text-muted">
+            <p className="mt-4 max-w-(--prose-max) text-base leading-relaxed text-text-muted">
               The orchestration behind the corpus — the layers, the roles, the agents and the models that
               turn a raw PDF into faithful, verified, structured data without losing anything.
             </p>

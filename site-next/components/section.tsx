@@ -75,7 +75,11 @@ export function Section({
 
   return (
     <section id={id} ref={ref} className="scroll-mt-(--sticky-stack) py-14 first:pt-10">
-      <div className="mb-8 max-w-(--prose-max)">
+      {/* The measure is applied to the lead paragraph itself, not to this
+          wrapper: --prose-max is font-size-relative, so on a 16px container it
+          would resolve to a different width than the 15px text it's meant to
+          constrain. Headings are short and may run wider. */}
+      <div className="mb-8 max-w-3xl">
         <span
           className={"block text-xs font-semibold uppercase tracking-[0.08em] text-link " + eyebrowStage.className}
           style={eyebrowStage.style}
@@ -89,7 +93,10 @@ export function Section({
           {title}
         </h2>
         {lead && (
-          <p className={"mt-3 text-base leading-relaxed text-text-muted " + leadStage.className} style={leadStage.style}>
+          <p
+            className={"mt-3 max-w-(--prose-max) text-base leading-relaxed text-text-muted " + leadStage.className}
+            style={leadStage.style}
+          >
             {lead}
           </p>
         )}

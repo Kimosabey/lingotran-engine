@@ -37,7 +37,7 @@ export default function NotFound() {
             </Link>
             <Link
               href="/#corpus"
-              className="inline-flex h-10 items-center rounded-full border border-border-strong px-5 text-sm font-medium text-text transition-colors hover:bg-surface-2"
+              className="inline-flex h-10 items-center rounded-full border border-border-control px-5 text-sm font-medium text-text transition-colors hover:bg-surface-2"
             >
               Explore the corpus
             </Link>

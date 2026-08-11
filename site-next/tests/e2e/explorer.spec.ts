@@ -14,7 +14,7 @@ test.describe("CSV Data Explorer", () => {
     await expect(page.getByRole("cell", { name: "cosmopolite-a1-methode" }).first()).toBeVisible({
       timeout: 15_000,
     });
-    await expect(page.getByText(/\d+ of \d+ rows/)).toBeVisible();
+    await expect(page.getByText(/[\d,]+ of [\d,]+ rows/)).toBeVisible();
   });
 
   test("language and type switching navigates to real, distinct routes", async ({ page }) => {
@@ -30,12 +30,13 @@ test.describe("CSV Data Explorer", () => {
   test("global search filters the row count", async ({ page }) => {
     await page.goto("/explorer/french/vocabulary");
     await page.waitForLoadState("networkidle");
-    const before = await page.getByText(/of \d+ rows/).textContent();
+    const before = await page.getByText(/of [\d,]+ rows/).textContent();
     await page.getByPlaceholder("Search this dataset…").fill("Allemagne");
     await page.waitForTimeout(300);
-    const after = await page.getByText(/of \d+ rows/).textContent();
+    const after = await page.getByText(/of [\d,]+ rows/).textContent();
     expect(after).not.toBe(before);
-    expect(after).toMatch(/^[1-9]\d* of/);
+    // Counts are locale-formatted ("5,566"), hence [\d,] rather than \d.
+    expect(after).toMatch(/^[1-9][\d,]* of/);
   });
 
   test("quick-filter dropdown narrows results", async ({ page }) => {
@@ -44,7 +45,7 @@ test.describe("CSV Data Explorer", () => {
     await page
       .getByRole("combobox", { name: "Filter by Activity type" })
       .selectOption("cover");
-    await expect(page.getByText(/of 584 rows/)).toHaveText(/^\d+ of 584 rows$/);
+    await expect(page.getByText(/of 584 rows/)).toHaveText(/^[\d,]+ of 584 rows$/);
     const count = await page.getByText(/of 584 rows/).textContent();
     expect(count).not.toContain("584 of 584");
   });
@@ -63,7 +64,7 @@ test.describe("CSV Data Explorer", () => {
     await page.waitForTimeout(1200); // CountUp animates the card's number over 900ms
 
     const tableCount = await page.locator("text=/\\d+ of \\d+ rows/").first().textContent();
-    const n = parseInt(tableCount!.match(/(\d+) of/)![1], 10);
+    const n = parseInt(tableCount!.match(/([\d,]+) of/)![1].replace(/,/g, ''), 10);
     const after = await rowsCard.locator("div").first().textContent();
 
     expect(after).not.toBe(before);

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Byline } from "@/components/byline";
 import { REPO_URL } from "@/lib/data";
 
 interface FooterProps {
@@ -7,13 +8,16 @@ interface FooterProps {
   backHref?: string;
 }
 
+
 export function Footer({ brand, variant = "top", backHref = "/french" }: FooterProps) {
   const year = new Date().getFullYear();
   return (
     <footer className="border-t border-border">
       <div className="mx-auto flex max-w-(--content-max) flex-col gap-1 px-4 py-6 text-xs text-text-subtle sm:flex-row sm:items-center sm:justify-between sm:px-6">
         <span>
-          {brand} · <span>{year}</span> · Built by Harshan Aiyappa, Full Stack / AI Engineer
+          {brand} · <span>{year}</span> · Built by{" "}
+          <Byline name="Harshan Aiyappa" />
+          , Full Stack / AI Engineer
         </span>
         {variant === "top" ? (
           <span>

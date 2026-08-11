@@ -65,7 +65,7 @@ export default function FrenchIndexPage() {
             <h1 className="mt-3 font-display text-4xl font-medium tracking-tight text-text sm:text-5xl">
               French — A1 &amp; A2
             </h1>
-            <p className="mt-4 max-w-2xl text-base leading-relaxed text-text-muted">
+            <p className="mt-4 max-w-(--prose-max) text-base leading-relaxed text-text-muted">
               Coursebooks from Hachette FLE, CLE International, and Oxford University Press,
               vision-transcribed page by page and adversarially re-checked for anything a scan could hide.
             </p>
