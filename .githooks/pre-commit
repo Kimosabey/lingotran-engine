@@ -1,0 +1,52 @@
+#!/bin/sh
+# Refuse a commit that mixes pipeline work with site work.
+#
+# Two chats share this repo: one owns _engine/ + the language corpora, one owns
+# site-next/. `git add -A` in either sweeps the other's in-flight edits into the
+# commit. That has happened three times. The worst, 954dbab, was a `fix(ci):`
+# commit carrying 29 unrelated files including the deletion of the entire site/
+# tree -- and because main auto-deploys to Vercel, it shipped a half-finished
+# refactor that failed type checking and broke production.
+#
+# The blast radius is the problem, not the carelessness: a sweep is invisible in
+# a commit message and only shows up in someone else's build. So the check runs
+# where the mistake is made, not where it lands.
+#
+# Deliberate cross-cutting commits are legitimate (a data change plus the site
+# code that reads it). Use `git commit --no-verify` and say so in the message.
+
+# Only act in this repo. This hook may be installed globally; everywhere else it
+# must do nothing at all.
+toplevel=$(git rev-parse --show-toplevel 2>/dev/null) || exit 0
+[ -f "$toplevel/_engine/build_exports.py" ] || exit 0
+
+staged=$(git diff --cached --name-only --diff-filter=ACMRD)
+[ -n "$staged" ] || exit 0
+
+# Classify as site vs everything-else, NOT against a list of pipeline paths. The
+# first version of this hook used an allowlist and let its own test case through
+# -- .githooks/ was on neither list, so a commit of a hook plus a site file read
+# as site-only and passed. An allowlist silently stops covering whatever gets
+# added next; "not site" cannot.
+site=$(printf '%s\n' "$staged" | grep -E '^(site-next|site)/' || true)
+other=$(printf '%s\n' "$staged" | grep -Ev '^(site-next|site)/' || true)
+
+if [ -n "$site" ] && [ -n "$other" ]; then
+    echo "pre-commit: this commit mixes SITE files with non-site files." >&2
+    echo "" >&2
+    echo "  site      ($(printf '%s\n' "$site" | wc -l | tr -d ' ') file(s)):" >&2
+    printf '%s\n' "$site" | sed 's/^/    /' >&2
+    echo "  other     ($(printf '%s\n' "$other" | wc -l | tr -d ' ') file(s)):" >&2
+    printf '%s\n' "$other" | sed 's/^/    /' >&2
+    echo "" >&2
+    echo "main auto-deploys to Vercel, so a swept-in site file ships whatever" >&2
+    echo "state it happened to be in. Stage one side only:" >&2
+    echo "" >&2
+    echo "    git restore --staged site-next/ site/     # drop the site files" >&2
+    echo "" >&2
+    echo "If the commit genuinely spans both, re-run with --no-verify and say" >&2
+    echo "why in the message." >&2
+    exit 1
+fi
+
+exit 0
