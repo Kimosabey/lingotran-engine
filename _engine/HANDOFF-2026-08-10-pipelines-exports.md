@@ -62,13 +62,17 @@ deliverable. They used to be in no config at all, which read as "done" by omissi
 |---|---|---|
 | after rasterizing | `pdf_to_images.py --root <lang>/extracted --audit --all` | blank / degenerate page images, **before** vision spend |
 | after a wave | `reconcile.py --root <lang>/extracted --all` | missing pages/QA, classification holes, incomplete `collections.json` |
+| answers, delivered books | `verify_answers.py --root german/extracted --all --dry-run --strict` | same checks, **writes nothing** — mandatory for any book already shipped |
 | after merge | `verify_answers.py --root <lang>/extracted --all --strict` | answer shape, level tags, answer-key rate vs declared status |
 | after a backfill | `verify_backfill.py --root <lang>/extracted --field <name>` | records lost, or ANY field changed besides the intended one |
 | before delivery | `verify_exports.py --root <lang>/extracted` | schema, taxonomy, cell hygiene, **coverage**, page refs, packaging drift |
 | before delivery | `check_exports_current.py --root french/extracted` | exports stale relative to their sources |
 | always | `python -m unittest discover -s _engine/tests` (131) and `-s german/extracted/_tools/tests` (13) | regressions |
 
-CI runs all of these on every push. A non-zero exit is a hard stop.
+CI runs all of these on every push — **nine steps, both languages** since 2026-08-11.
+A non-zero exit is a hard stop. Until then it ran the French gates only, so ten delivered
+German books were checked for export shape and nothing else; the first run that pointed
+`reconcile` and `verify_answers` at German failed on both.
 
 **Two of these exist because something shipped wrong.** `verify_exports`' coverage check
 exists because a German export went out at 8.7% rubric coverage while passing every other
@@ -175,12 +179,14 @@ than deleted: why a control exists is worth more than a tidy list.
   Line endings are now pinned in `.gitattributes`; `atomic_write_text` writes LF
   everywhere. **Never compare derived files line-by-line to dodge this**: `splitlines()`
   discards line endings and briefly turned CI green with the defect fully intact.
-- **CI does not run German `reconcile` or German `verify_answers --strict`** — only the
-  French ones. Both currently exit 1: three German books are missing all four required
-  `collections.json` declarations, and 11 answer items are flagged. Nothing gates them.
-- **`verify_answers.py` WRITES. It has no `--dry-run`.** Running it on German "just to
-  check" rewrote 7 files across two delivered books, normalising `correct_answer` from
-  the letter key `"a"` to the full option text, and reformatting both `_questions.json`.
-  Reverted, but nothing warned first, and a second run then reports `0 auto-fixed`
-  because the mutation already happened — so the summary line looks innocent. Treat it
-  as a repair pass, not a gate, and check `git status` after.
+- **`verify_answers.py` WRITES.** Despite the name it is a repair pass, normalising
+  `correct_answer` in place. Running it on German "just to check the gate" rewrote 7
+  files across two delivered books, and the second run then reported `0 auto-fixed`
+  because the mutation had already landed — the summary looked innocent exactly when it
+  should have looked alarming. **Use `--dry-run`** (added 2026-08-11, `v1.1.2`), which
+  is what CI uses for German. Still check `git status` after any non-dry run.
+- **41 casing normalisations are pending on the two Netzwerk books** — 30 in the test
+  booklet, 11 in the Kursbuch (`richtig` → `Richtig`, and letter keys → option text).
+  Applying them mutates delivered books, so it needs a re-export and a Drive re-upload;
+  recorded in each book's `caveats` until then. This is why German's `verify_answers`
+  step reports "would auto-fix" counts on a clean run.

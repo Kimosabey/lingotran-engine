@@ -59,6 +59,14 @@ jobs:
       - name: Reconcile French collections
         run: python _engine/reconcile.py --root french/extracted --all
 
+      # German was absent from both this and the answer gate below, so ten
+      # DELIVERED books were checked for export shape and nothing else. Both
+      # exited 1 the first time they were pointed at German: three books
+      # carried none of the four required declarations, and 11 answer items
+      # were flagged. Neither condition had anything watching it.
+      - name: Reconcile German collections
+        run: python _engine/reconcile.py --root german/extracted --all
+
       # Staleness: the gates above all read the exports as they stand and would
       # pass a clean-looking but out-of-date file. This rebuilds into a scratch
       # copy and diffs, so a source edit that was never re-exported fails here
@@ -74,3 +82,12 @@ jobs:
       # `accepted_answer_flags` and still print on every run.
       - name: Verify French answers
         run: python _engine/verify_answers.py --root french/extracted --all --strict
+
+      # --dry-run is mandatory here, not caution. This tool normalizes
+      # correct_answer in place, and German's books are already delivered: run
+      # without it and CI would silently rewrite the corpus it is meant to be
+      # guarding, one commit at a time, with the working tree of whatever
+      # machine ran it. --dry-run reports what it would change and writes
+      # nothing; test_verify_answers.py asserts that at byte level.
+      - name: Verify German answers
+        run: python _engine/verify_answers.py --root german/extracted --all --dry-run --strict
