@@ -203,8 +203,17 @@ than deleted: why a control exists is worth more than a tidy list.
   because the mutation had already landed — the summary looked innocent exactly when it
   should have looked alarming. **Use `--dry-run`** (added 2026-08-11, `v1.1.2`), which
   is what CI uses for German. Still check `git status` after any non-dry run.
-- **41 casing normalisations are pending on the two Netzwerk books** — 30 in the test
-  booklet, 11 in the Kursbuch (`richtig` → `Richtig`, and letter keys → option text).
-  Applying them mutates delivered books, so it needs a re-export and a Drive re-upload;
-  recorded in each book's `caveats` until then. This is why German's `verify_answers`
-  step reports "would auto-fix" counts on a clean run.
+- **German's exporters TRUNCATE the per-family sheet to the slugs you pass.**
+  `catalog.py` / `questions.py` / `vocabulary.py` build `<family>-a1-*-all.csv` from only
+  their arguments and then overwrite it. The workflow doc shows `catalog.py <slug>`
+  singular, so rebuilding a two-book family one book at a time leaves the sheet holding
+  just the last one — on 2026-08-11 that silently dropped the globals to 580 / 2415 /
+  3653 from 636 / 2830 / 3751, losing the entire test booklet. **Pass every slug in the
+  family in one invocation.** Nothing gated it: every exporter reported success, and it
+  was caught only by comparing against known totals. A bare `--all` is not the fix
+  either — frozen collections are skipped, so `--all` would write the goethe family
+  sheet empty.
+- **German's tooling writes platform-dependent `.md`** (CRLF on Windows), unlike
+  `_engine`, whose `atomic_write_text` now pins LF. Harmless today only because
+  `check_exports_current` is not wired for German — and it is one more reason it cannot
+  be until P1 lands.
