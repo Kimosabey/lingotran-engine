@@ -30,7 +30,13 @@ sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engin
 from _common import atomic_open
 ROOT = os.path.dirname(TOOLS)  # german/extracted/
 CONFIG = os.path.join(TOOLS, 'collections.json')
-COLUMNS = ['collection', 'word', 'article', 'plural', 'word_class', 'example', 'topic', 'source_page']
+# Deliberately NO `translation` column. It is optional in the shared gate
+# because only a BILINGUAL book prints one -- Tricolore's glossaries print
+# `Article | French | English`, so French carries it. Every German book here
+# is monolingual: 0 of 3,866 entries have a translation, so emitting the
+# column would ship it 100% empty, the same defect as the header-only CSVs.
+COLUMNS = ['collection', 'word', 'article', 'plural', 'word_class', 'example',
+           'topic', 'source_page']
 
 
 def load_collections():

@@ -54,7 +54,8 @@ CATALOG_COLUMNS = ['collection', 'unit', 'section', 'chapter', 'content_type', '
 QUESTIONS_COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'instruction',
                       'question', 'option_a', 'option_b', 'option_c', 'correct_answer',
                       'level', 'topic', 'source_page']
-VOCAB_COLUMNS = ['collection', 'word', 'article', 'plural', 'word_class', 'example', 'topic', 'source_page']
+VOCAB_COLUMNS = ['collection', 'word', 'translation', 'article', 'plural', 'word_class',
+                 'example', 'topic', 'source_page']
 
 
 def load_questions(root, slug):
@@ -201,7 +202,9 @@ def build_vocabulary(root, c):
         return None
     rows = [{
         'collection': slug,
-        'word': _flat(e.get('word', '')), 'article': _flat(e.get('article', '')),
+        'word': _flat(e.get('word', '')),
+        'translation': _flat(e.get('translation', '')),
+        'article': _flat(e.get('article', '')),
         'plural': _flat(e.get('plural', '')), 'word_class': _flat(e.get('word_class', '')),
         'example': _flat(e.get('example', '')), 'topic': _flat(e.get('topic', '')),
         'source_page': _flat(e.get('source_page', '')),

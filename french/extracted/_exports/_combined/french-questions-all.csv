@@ -1760,7 +1760,7 @@ tricolore-1-5th-edition,speaking,3 Quel âge as-tu?,3,speaking-task,Travaillez �
 tricolore-1-5th-edition,writing,4 Salut!,4a,fill-in,"À deux, complétez la conversation.","A Salut! Comment t'appelles-tu? B Je m'appelle ___. Et toi, comment ___? A Je ___. Quel âge as-tu? B J'ai 11 ans. Et toi, quel ___? A J'ai ___. Ça va? B Comme ci, comme ça. Et toi, ___? A ___ Au revoir ___. B ___",,,,,A1,personal-info,011
 tricolore-1-5th-edition,speaking,4 Salut!,4b,speaking-task,"À deux, inventez une longue conversation.","À deux, inventez une longue conversation.",,,,(open-ended),A1,personal-info,011
 tricolore-1-5th-edition,speaking,2 Qu'est-ce que c'est?,2b,speaking-task,Jouez à deux.,Je pense à quelque chose.,,,,(open-ended),A1,school,012
-tricolore-1-5th-edition,writing,3a Copie les bonnes phrases,1,true-false,Copie les bonnes phrases.,Il y a quatre crayons.,,,,Vrai,A1,school,013
+tricolore-1-5th-edition,writing,3a Copie les bonnes phrases,1,true-false,Copie les bonnes phrases.,Il y a quatre crayons.,,,,vrai,A1,school,013
 tricolore-1-5th-edition,writing,3b Copie et complète,1,fill-in,Copie et complète.,Il y a ___ taille-crayon.,,,,un,A1,school,013
 tricolore-1-5th-edition,writing,3a Copie les bonnes phrases,2,true-false,Copie les bonnes phrases.,Il y a deux stylos.,,,,,A1,school,013
 tricolore-1-5th-edition,writing,3b Copie et complète,2,fill-in,Copie et complète.,Il y a ___ classeurs.,,,,,A1,school,013
@@ -1799,25 +1799,25 @@ tricolore-1-5th-edition,reading,1 Donner un ordre,8,matching,Trouve les paires.,
 tricolore-1-5th-edition,writing,1c Complète les phrases,8,fill-in,Complète les phrases.,Fermez le ___.,,,,,A1,school,014
 tricolore-1-5th-edition,reading,1 Donner un ordre,9,matching,Trouve les paires.,Asseyez-vous.,,,,,A1,school,014
 tricolore-1-5th-edition,reading,2 C'est où?,1,short-answer,Trouve le français.,in Paris,,,,à Paris,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,1,true-false,Lis les phrases 1–10. Vrai ou faux?,Paris est en France.,,,,Vrai,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,10,true-false,Lis les phrases 1–10. Vrai ou faux?,Maxime habite dans les Alpes.,,,,Vrai,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,1,true-false,Lis les phrases 1–10. Vrai ou faux?,Paris est en France.,,,,vrai,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,10,true-false,Lis les phrases 1–10. Vrai ou faux?,Maxime habite dans les Alpes.,,,,vrai,A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,2,short-answer,Trouve le français.,in a flat,,,,dans un appartement,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,2,true-false,Lis les phrases 1–10. Vrai ou faux?,La Rochelle est un port en France.,,,,Vrai,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,2,true-false,Lis les phrases 1–10. Vrai ou faux?,La Rochelle est un port en France.,,,,vrai,A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,3,short-answer,Trouve le français.,in town,,,,en ville,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,3,true-false,Lis les phrases 1–10. Vrai ou faux?,Camille habite dans une maison en Angleterre.,,,,Faux,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,3,true-false,Lis les phrases 1–10. Vrai ou faux?,Camille habite dans une maison en Angleterre.,,,,faux,A1,personal-info,017
 tricolore-1-5th-edition,writing,3b,3b,writing-task,Corrige les cinq phrases qui sont fausses.,Corrige les cinq phrases qui sont fausses.,,,,"3 Camille habite dans un appartement en France (à Lille). 4 M. Lebrun habite dans une ferme. 5 M. Lebrun habite dans une ferme près de Trouville. 7 Lucas habite à Paris. 9 Julie habite à l'Île de Ré, près de La Rochelle.",A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,4,short-answer,Trouve le français.,on a farm,,,,dans une ferme,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,4,true-false,Lis les phrases 1–10. Vrai ou faux?,M. Lebrun habite dans un appartement.,,,,Faux,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,4,true-false,Lis les phrases 1–10. Vrai ou faux?,M. Lebrun habite dans un appartement.,,,,faux,A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,5,short-answer,Trouve le français.,in a house,,,,dans une maison,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,5,true-false,Lis les phrases 1–10. Vrai ou faux?,Mme Dumas habite dans une ferme près de Trouville.,,,,Faux,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,5,true-false,Lis les phrases 1–10. Vrai ou faux?,Mme Dumas habite dans une ferme près de Trouville.,,,,faux,A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,6,short-answer,Trouve le français.,a port in France,,,,un port en France,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,6,true-false,Lis les phrases 1–10. Vrai ou faux?,Maxime habite près de Grenoble.,,,,Vrai,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,6,true-false,Lis les phrases 1–10. Vrai ou faux?,Maxime habite près de Grenoble.,,,,vrai,A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,7,short-answer,Trouve le français.,in the mountains,,,,à la montagne,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,7,true-false,Lis les phrases 1–10. Vrai ou faux?,Lucas habite dans un port.,,,,Faux,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,7,true-false,Lis les phrases 1–10. Vrai ou faux?,Lucas habite dans un port.,,,,faux,A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,8,short-answer,Trouve le français.,in the Alps,,,,dans les Alpes,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,8,true-false,Lis les phrases 1–10. Vrai ou faux?,Nice est une ville au bord de la mer.,,,,Vrai,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,8,true-false,Lis les phrases 1–10. Vrai ou faux?,Nice est une ville au bord de la mer.,,,,vrai,A1,personal-info,017
 tricolore-1-5th-edition,reading,2 C'est où?,9,short-answer,Trouve le français.,near La Rochelle,,,,près de La Rochelle,A1,personal-info,017
-tricolore-1-5th-edition,reading,3a Vrai ou faux?,9,true-false,Lis les phrases 1–10. Vrai ou faux?,Julie habite à La Rochelle.,,,,Faux,A1,personal-info,017
+tricolore-1-5th-edition,reading,3a Vrai ou faux?,9,true-false,Lis les phrases 1–10. Vrai ou faux?,Julie habite à La Rochelle.,,,,faux,A1,personal-info,017
 tricolore-1-5th-edition,writing,1 J'habite ici,1,fill-in,Écris des phrases complètes.,J'habite ___ (panneau CHERBOURG),,,,à Cherbourg.,A1,personal-info,018
 tricolore-1-5th-edition,writing,1 J'habite ici,2,fill-in,Écris des phrases complètes.,J'habite dans ___ (maison jaune),,,,une maison.,A1,personal-info,018
 tricolore-1-5th-edition,speaking,2 Et toi? Où habites-tu?,2,speaking-task,"Écoute et lis. À deux, inventez des conversations. Changez les mots surlignés.",Où habites-tu?,,,,(open-ended),A1,personal-info,018
@@ -1844,21 +1844,21 @@ tricolore-1-5th-edition,listening,3 Qui habite où?,6,matching,Écoute et trouve
 tricolore-1-5th-edition,reading,4a C'est moi!,6,matching,Trouve les paires.,La Rochelle est,,,,une ville en France.,A1,personal-info,019
 tricolore-1-5th-edition,listening,3 Qui habite où?,7,matching,Écoute et trouve les paires.,Jean-Marc,,,,,A1,personal-info,019
 tricolore-1-5th-edition,listening,3 Qui habite où?,8,matching,Écoute et trouve les paires.,Isabelle,,,,,A1,personal-info,019
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,1,true-false,Trouve les cinq phrases qui sont vraies.,"Lundi, Lou est dans un village.",,,,Vrai,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,1,true-false,Trouve les cinq phrases qui sont vraies.,"Lundi, Lou est dans un village.",,,,vrai,A1,time-dates,020
 tricolore-1-5th-edition,reading,2 Quel jour sommes-nous?,1,matching,Trouve les paires et écris l'équivalent en anglais.,lu.,,,,"lundi, Monday",A1,time-dates,020
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,2,true-false,Trouve les cinq phrases qui sont vraies.,"Mercredi, Lou est en France.",,,,Faux,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,2,true-false,Trouve les cinq phrases qui sont vraies.,"Mercredi, Lou est en France.",,,,faux,A1,time-dates,020
 tricolore-1-5th-edition,reading,2 Quel jour sommes-nous?,2,matching,Trouve les paires et écris l'équivalent en anglais.,ma.,,,,"mardi, Tuesday",A1,time-dates,020
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,3,true-false,Trouve les cinq phrases qui sont vraies.,"Samedi, Lou est dans une ville en France.",,,,Vrai,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,3,true-false,Trouve les cinq phrases qui sont vraies.,"Samedi, Lou est dans une ville en France.",,,,vrai,A1,time-dates,020
 tricolore-1-5th-edition,reading,2 Quel jour sommes-nous?,3,matching,Trouve les paires et écris l'équivalent en anglais.,me.,,,,"mercredi, Wednesday",A1,time-dates,020
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,4,true-false,Trouve les cinq phrases qui sont vraies.,"Vendredi, Lou est dans une ferme, au pays de Galles.",,,,Faux,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,4,true-false,Trouve les cinq phrases qui sont vraies.,"Vendredi, Lou est dans une ferme, au pays de Galles.",,,,faux,A1,time-dates,020
 tricolore-1-5th-edition,reading,2 Quel jour sommes-nous?,4,matching,Trouve les paires et écris l'équivalent en anglais.,je.,,,,"jeudi, Thursday",A1,time-dates,020
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,5,true-false,Trouve les cinq phrases qui sont vraies.,"Mardi, Lou est en Angleterre.",,,,Vrai,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,5,true-false,Trouve les cinq phrases qui sont vraies.,"Mardi, Lou est en Angleterre.",,,,vrai,A1,time-dates,020
 tricolore-1-5th-edition,reading,2 Quel jour sommes-nous?,5,matching,Trouve les paires et écris l'équivalent en anglais.,ve.,,,,"vendredi, Friday",A1,time-dates,020
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,6,true-false,Trouve les cinq phrases qui sont vraies.,"Jeudi, Lou est en Irlande.",,,,Vrai,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,6,true-false,Trouve les cinq phrases qui sont vraies.,"Jeudi, Lou est en Irlande.",,,,vrai,A1,time-dates,020
 tricolore-1-5th-edition,reading,2 Quel jour sommes-nous?,6,matching,Trouve les paires et écris l'équivalent en anglais.,sa.,,,,"samedi, Saturday",A1,time-dates,020
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,7,true-false,Trouve les cinq phrases qui sont vraies.,"Samedi, Lou est près de la tour de Londres.",,,,Faux,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,7,true-false,Trouve les cinq phrases qui sont vraies.,"Samedi, Lou est près de la tour de Londres.",,,,faux,A1,time-dates,020
 tricolore-1-5th-edition,reading,2 Quel jour sommes-nous?,7,matching,Trouve les paires et écris l'équivalent en anglais.,di.,,,,"dimanche, Sunday",A1,time-dates,020
-tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,8,true-false,Trouve les cinq phrases qui sont vraies.,Lou adore le dimanche.,,,,Vrai,A1,time-dates,020
+tricolore-1-5th-edition,reading,1b Trouve les cinq phrases qui sont vraies,8,true-false,Trouve les cinq phrases qui sont vraies.,Lou adore le dimanche.,,,,vrai,A1,time-dates,020
 tricolore-1-5th-edition,speaking,4 Comment ça s'écrit?,4,speaking-task,"À deux, inventez des conversations.","À deux, inventez des conversations.",,,,(open-ended),A1,mixed,021
 tricolore-1-5th-edition,reading,1b Qui est-ce?,1,short-answer,Qui est-ce? Lis les phrases et écris les noms.,J'ai douze ans.,,,,Thomas,A1,family,022
 tricolore-1-5th-edition,writing,2a La famille Laurent,1,fill-in,Complète la description avec les mots de la case.,M. Laurent est le ___.,,,,père,A1,family,022
@@ -1876,25 +1876,25 @@ tricolore-1-5th-edition,writing,2a La famille Laurent,6,fill-in,Complète la des
 tricolore-1-5th-edition,reading,1b Qui est-ce?,7,short-answer,Qui est-ce? Lis les phrases et écris les noms.,C'est le père de famille.,,,,M. Jean-Pierre Laurent,A1,family,022
 tricolore-1-5th-edition,writing,2a La famille Laurent,7,fill-in,Complète la description avec les mots de la case.,Louise est la ___ de Daniel et Thomas.,,,,sœur,A1,family,022
 tricolore-1-5th-edition,reading,1b Qui est-ce?,8,short-answer,Qui est-ce? Lis les phrases et écris les noms.,C'est la sœur de Daniel.,,,,Louise,A1,family,022
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,1,true-false,Vrai ou faux?,Talia a un frère.,,,,Faux,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,1,true-false,Vrai ou faux?,Talia a un frère.,,,,faux,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,1,fill-in,Complète.,___ I have,,,,j'ai,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,10,true-false,Vrai ou faux?,Talia a une cousine.,,,,Vrai,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,2,true-false,Vrai ou faux?,Simon a deux sœurs et une belle-mère.,,,,Faux,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,10,true-false,Vrai ou faux?,Talia a une cousine.,,,,vrai,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,2,true-false,Vrai ou faux?,Simon a deux sœurs et une belle-mère.,,,,faux,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,2,fill-in,Complète.,___ you have,,,,tu as,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,3,true-false,Vrai ou faux?,"Alice a un demi-frère, David.",,,,Vrai,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,3,true-false,Vrai ou faux?,"Alice a un demi-frère, David.",,,,vrai,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,3,fill-in,Complète.,___ he has,,,,il a,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,4,true-false,Vrai ou faux?,Talia est fille unique.,,,,Vrai,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,4,true-false,Vrai ou faux?,Talia est fille unique.,,,,vrai,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,4,fill-in,Complète.,___ she has,,,,elle a,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,5,true-false,Vrai ou faux?,Simon a un demi-frère.,,,,Faux,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,5,true-false,Vrai ou faux?,Simon a un demi-frère.,,,,faux,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,5,fill-in,Complète.,J'___ douze ans.,,,,ai,A1,family,023
 tricolore-1-5th-edition,writing,5b,5b,writing-task,Tu es Martin Martien. Décris ta famille. Imagine les détails.,Tu es Martin Martien. Décris ta famille. Imagine les détails.,,,,(open-ended),A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,6,true-false,Vrai ou faux?,Alice est fille unique.,,,,Faux,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,6,true-false,Vrai ou faux?,Alice est fille unique.,,,,faux,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,6,fill-in,Complète.,"Et toi, tu ___ quel âge?",,,,as,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,7,true-false,Vrai ou faux?,Simon a des grands-parents.,,,,Vrai,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,7,true-false,Vrai ou faux?,Simon a des grands-parents.,,,,vrai,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,7,fill-in,Complète.,Mon frère ___ dix ans,,,,a,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,8,true-false,Vrai ou faux?,Simon est fils unique.,,,,Vrai,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,8,true-false,Vrai ou faux?,Simon est fils unique.,,,,vrai,A1,family,023
 tricolore-1-5th-edition,grammar,5a Avoir,8,fill-in,Complète.,Elle ___ treize ans.,,,,a,A1,family,023
-tricolore-1-5th-edition,reading,4b Vrai ou faux?,9,true-false,Vrai ou faux?,"David a une sœur, Érika, et une demi-sœur, Alice.",,,,Vrai,A1,family,023
+tricolore-1-5th-edition,reading,4b Vrai ou faux?,9,true-false,Vrai ou faux?,"David a une sœur, Érika, et une demi-sœur, Alice.",,,,vrai,A1,family,023
 tricolore-1-5th-edition,writing,1 La famille Corpuscule,1,fill-in,"Complète la description de la famille avec mon, ma ou mes.",___ sœur s'appelle Enferina. « Voici ___ chat. Il s'appelle Drak. »,,,,Ma; mon,A1,personal-info,024
 tricolore-1-5th-edition,writing,2 Tu as tes affaires?,1,fill-in,Complète les questions et les réponses.,"Tu as ___ trousse? — Oui, voici ___ trousse.",,,,ta; ma,A1,personal-info,024
 tricolore-1-5th-edition,listening,3a Mon numéro un,1,short-answer,Écoute quatre personnes qui parlent des choses importantes. Écris une liste pour chaque personne.,Personne 1: écris la chose la plus importante.,,,,ma guitare,A1,personal-info,024
@@ -1911,26 +1911,26 @@ tricolore-1-5th-edition,writing,2 Tu as tes affaires?,4,fill-in,Complète les qu
 tricolore-1-5th-edition,listening,3a Mon numéro un,4,short-answer,Écoute quatre personnes qui parlent des choses importantes. Écris une liste pour chaque personne.,Personne 4: écris la chose la plus importante.,,,,,A1,personal-info,024
 tricolore-1-5th-edition,writing,1 La famille Corpuscule,5,fill-in,"Complète la description de la famille avec mon, ma ou mes.",J'habite avec ___ parents et ___ sœur dans le château Corpuscule.,,,,mes; ma,A1,personal-info,024
 tricolore-1-5th-edition,writing,2 Tu as tes affaires?,5,fill-in,Complète les questions et les réponses.,Et tu as ___ sac? — Oh non! Zut! Où est ___ sac?,,,,ton; mon,A1,personal-info,024
-tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,1,multiple-choice,Choisis la bonne phrase.,Item 1 (image),C'est le lecteur MP3 de Dani.,C'est le lecteur MP3 de son frère.,,C'est le lecteur MP3 de son frère.,A1,family,025
-tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,2,multiple-choice,Choisis la bonne phrase.,Item 2 (image),C'est le sac à dos de Dani.,C'est le sac à dos de son frère.,,C'est le sac à dos de son frère.,A1,family,025
-tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,3,multiple-choice,Choisis la bonne phrase.,Item 3 (image),C'est la liseuse de Dani.,C'est la liseuse de Théo.,,C'est la liseuse de Théo.,A1,family,025
-tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,4,multiple-choice,Choisis la bonne phrase.,Item 4 (image),C'est le vélo de Théo.,C'est le vélo de Dani.,,C'est le vélo de Théo.,A1,family,025
+tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,1,multiple-choice,Choisis la bonne phrase.,Item 1 (image),C'est le lecteur MP3 de Dani.,C'est le lecteur MP3 de son frère.,,b,A1,family,025
+tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,2,multiple-choice,Choisis la bonne phrase.,Item 2 (image),C'est le sac à dos de Dani.,C'est le sac à dos de son frère.,,b,A1,family,025
+tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,3,multiple-choice,Choisis la bonne phrase.,Item 3 (image),C'est la liseuse de Dani.,C'est la liseuse de Théo.,,b,A1,family,025
+tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,4,multiple-choice,Choisis la bonne phrase.,Item 4 (image),C'est le vélo de Théo.,C'est le vélo de Dani.,,a,A1,family,025
 tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,5,multiple-choice,Choisis la bonne phrase.,Item 5 (image),C'est le t-shirt de Dani.,C'est le t-shirt de son frère.,,,A1,family,025
-tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,6,multiple-choice,Choisis la bonne phrase.,Item 6 (image),C'est la copine de Dani.,C'est la copine de son frère.,,C'est la copine de son frère.,A1,family,025
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,1,true-false,Vrai ou faux?,Yvan a un frère.,,,,Faux,A1,family,026
+tricolore-1-5th-edition,reading,4b Choisis la bonne phrase,6,multiple-choice,Choisis la bonne phrase.,Item 6 (image),C'est la copine de Dani.,C'est la copine de son frère.,,b,A1,family,025
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,1,true-false,Vrai ou faux?,Yvan a un frère.,,,,faux,A1,family,026
 tricolore-1-5th-edition,writing,2 Un message de Karine,1,fill-in,Complète le message.,Je ___ ta correspondante française.,,,,suis,A1,family,026
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,2,true-false,Vrai ou faux?,Yvan est sportif.,,,,Vrai,A1,family,026
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,2,true-false,Vrai ou faux?,Yvan est sportif.,,,,vrai,A1,family,026
 tricolore-1-5th-edition,writing,2 Un message de Karine,2,fill-in,Complète le message.,Il ___ amusant.,,,,est,A1,family,026
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,3,true-false,Vrai ou faux?,Lou est un ami d'Yvan.,,,,Vrai,A1,family,026
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,3,true-false,Vrai ou faux?,Lou est un ami d'Yvan.,,,,vrai,A1,family,026
 tricolore-1-5th-edition,writing,2 Un message de Karine,3,fill-in,Complète le message.,Elle ___ fantastique!,,,,est,A1,family,026
 tricolore-1-5th-edition,writing,3a,3a,writing-task,Réponds à Yvan ou à Karine. Écris un paragraphe.,Réponds à Yvan ou à Karine. Écris un paragraphe.,,,,(open-ended),A1,family,026
 tricolore-1-5th-edition,writing,3b,3b,writing-task,Écris deux paragraphes – donne plus de détails.,Écris deux paragraphes – donne plus de détails.,,,,(open-ended),A1,family,026
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,4,true-false,Vrai ou faux?,L'amie d'Yvan s'appelle Lou.,,,,Faux,A1,family,026
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,4,true-false,Vrai ou faux?,L'amie d'Yvan s'appelle Lou.,,,,faux,A1,family,026
 tricolore-1-5th-edition,writing,2 Un message de Karine,4,fill-in,Complète le message.,___-tu sportive comme moi?,,,,Es,A1,family,026
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,5,true-false,Vrai ou faux?,Lou est très sportif.,,,,Faux,A1,family,026
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,6,true-false,Vrai ou faux?,La copine d'Yvan aime la musique.,,,,Vrai,A1,family,026
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,7,true-false,Vrai ou faux?,Delphine a un lecteur MP3.,,,,Vrai,A1,family,026
-tricolore-1-5th-edition,reading,1b Vrai ou faux?,8,true-false,Vrai ou faux?,La sœur d'Yvan s'appelle Delphine.,,,,Faux,A1,family,026
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,5,true-false,Vrai ou faux?,Lou est très sportif.,,,,faux,A1,family,026
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,6,true-false,Vrai ou faux?,La copine d'Yvan aime la musique.,,,,vrai,A1,family,026
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,7,true-false,Vrai ou faux?,Delphine a un lecteur MP3.,,,,vrai,A1,family,026
+tricolore-1-5th-edition,reading,1b Vrai ou faux?,8,true-false,Vrai ou faux?,La sœur d'Yvan s'appelle Delphine.,,,,faux,A1,family,026
 tricolore-1-5th-edition,reading,4b C'est où?,1,matching,C'est où?,le salon,,,,J,A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,1,matching,Trouve les paires.,"Dans la maison, …",,,,il y a huit pièces.,A1,home,027
 tricolore-1-5th-edition,reading,4b C'est où?,10,matching,C'est où?,le garage,,,,F,A1,home,027
@@ -1970,21 +1970,21 @@ tricolore-1-5th-edition,reading,3 Où est … ?,5,matching,Trouve les paires.,O�
 tricolore-1-5th-edition,reading,3 Où est … ?,6,matching,Trouve les paires.,Où est la souris?,,,,Elle est sur le lit.,A1,home,029
 tricolore-1-5th-edition,reading,3 Où est … ?,7,matching,Trouve les paires.,Où est le dragon d'Enferina?,,,,Il est sur la chaise.,A1,home,029
 tricolore-1-5th-edition,reading,3 Où est … ?,8,matching,Trouve les paires.,Mais où est le smartphone de Désastre?,,,,Il est dans le dragon.,A1,home,029
-tricolore-1-5th-edition,reading,2a Vrai ou faux?,1,true-false,Vrai ✓ ou faux ✗ ?,Alban est enfant unique.,,,,Faux,A1,family,030
+tricolore-1-5th-edition,reading,2a Vrai ou faux?,1,true-false,Vrai ✓ ou faux ✗ ?,Alban est enfant unique.,,,,faux,A1,family,030
 tricolore-1-5th-edition,writing,2c Complète les phrases,1,fill-in,Complète les phrases.,C'est Alban qui a un ___.,,,,an,A1,family,030
-tricolore-1-5th-edition,reading,2a Vrai ou faux?,2,true-false,Vrai ✓ ou faux ✗ ?,Il a beaucoup de frères.,,,,Vrai,A1,family,030
+tricolore-1-5th-edition,reading,2a Vrai ou faux?,2,true-false,Vrai ✓ ou faux ✗ ?,Il a beaucoup de frères.,,,,vrai,A1,family,030
 tricolore-1-5th-edition,writing,2c Complète les phrases,2,fill-in,Complète les phrases.,"Dans la chambre de Mathieu, il y a des ___.",,,,jeux vidéo,A1,family,030
-tricolore-1-5th-edition,reading,2a Vrai ou faux?,3,true-false,Vrai ✓ ou faux ✗ ?,Il aime les grandes familles.,,,,Vrai,A1,family,030
+tricolore-1-5th-edition,reading,2a Vrai ou faux?,3,true-false,Vrai ✓ ou faux ✗ ?,Il aime les grandes familles.,,,,vrai,A1,family,030
 tricolore-1-5th-edition,writing,2c Complète les phrases,3,fill-in,Complète les phrases.,Alban a ___ frères et 28 ___.,,,,trente; sœurs,A1,family,030
-tricolore-1-5th-edition,reading,2a Vrai ou faux?,4,true-false,Vrai ✓ ou faux ✗ ?,Ses cousins habitent dans la cuisine.,,,,Faux,A1,family,030
+tricolore-1-5th-edition,reading,2a Vrai ou faux?,4,true-false,Vrai ✓ ou faux ✗ ?,Ses cousins habitent dans la cuisine.,,,,faux,A1,family,030
 tricolore-1-5th-edition,writing,2c Complète les phrases,4,fill-in,Complète les phrases.,Mathieu aime regarder la ___.,,,,télé,A1,family,030
-tricolore-1-5th-edition,reading,2a Vrai ou faux?,5,true-false,Vrai ✓ ou faux ✗ ?,Son grand-père a dix ans.,,,,Faux,A1,family,030
+tricolore-1-5th-edition,reading,2a Vrai ou faux?,5,true-false,Vrai ✓ ou faux ✗ ?,Son grand-père a dix ans.,,,,faux,A1,family,030
 tricolore-1-5th-edition,writing,2c Complète les phrases,5,fill-in,Complète les phrases.,Le lit des sœurs d'Alban est ___ l'ordinateur.,,,,sous,A1,family,030
-tricolore-1-5th-edition,reading,2a Vrai ou faux?,6,true-false,Vrai ✓ ou faux ✗ ?,Marguerite a un ordinateur.,,,,Vrai,A1,family,030
+tricolore-1-5th-edition,reading,2a Vrai ou faux?,6,true-false,Vrai ✓ ou faux ✗ ?,Marguerite a un ordinateur.,,,,vrai,A1,family,030
 tricolore-1-5th-edition,grammar,1 Les nombres,1,fill-in,Écris le nombre qui manque. Write the missing number.,"vingt-six, vingt-sept, ___ , vingt-neuf.",,,,vingt-huit,A1,none,032
 tricolore-1-5th-edition,grammar,1 Les nombres (b),1,short-answer,Réponds aux questions. Answer the questions.,How many of the numbers 1–70 contain the word dix?,,,,,A1,none,032
 tricolore-1-5th-edition,grammar,"2 Masculin, féminin",1,short-answer,Écris deux listes. Write two lists.,"Écris deux listes (masculin/féminin) à partir des mots: elle, fille, frère, garçon, il, la, le, ma, mère, mon, père, sœur, ta, ton, un, une.",,,,,A1,none,032
-tricolore-1-5th-edition,reading,3 Un multi-quiz,1,multiple-choice,Choisis la bonne réponse. Choose the correct answer.,La Rochelle est,un village.,une région.,une ville.,une ville.,A1,city-places,032
+tricolore-1-5th-edition,reading,3 Un multi-quiz,1,multiple-choice,Choisis la bonne réponse. Choose the correct answer.,La Rochelle est,un village.,une région.,une ville.,c,A1,city-places,032
 tricolore-1-5th-edition,grammar,1 Les nombres,2,fill-in,Écris le nombre qui manque. Write the missing number.,"soixante-et-un, ___ , soixante-trois, soixante-quatre.",,,,,A1,none,032
 tricolore-1-5th-edition,grammar,1 Les nombres (b),2,short-answer,Réponds aux questions. Answer the questions.,How many contain the word un?,,,,,A1,none,032
 tricolore-1-5th-edition,reading,3 Un multi-quiz,2,multiple-choice,Choisis la bonne réponse. Choose the correct answer.,"Dans une maison française, le lit est souvent dans",la cuisine.,la chambre.,le salon.,,A1,home,032
@@ -2055,7 +2055,7 @@ tricolore-1-5th-edition,reading,1 Une histoire de chats,4,fill-in,"Lis l'histoir
 tricolore-1-5th-edition,reading,1 Une histoire de chats,5,fill-in,"Lis l'histoire, puis complète les phrases.",Il est dans la cuisine. C'est un gros chat. C'est ___ .,,,,,A1,mixed,036
 tricolore-1-5th-edition,reading,1 Une histoire de chats,6,fill-in,"Lis l'histoire, puis complète les phrases.",Elle est sur une chaise. Elle est grise. C'est ___ .,,,,,A1,mixed,036
 tricolore-1-5th-edition,grammar,2 Des adjectifs (table 1),1,fill-in,Copie et complète les listes.,"Copie et complète: brun -> 1 (brune, donné); noir -> 2 ___ / 6 ___ (anglais); gris -> 3 ___ (• grey); blanc -> 4 ___ / 7 ___; jaune -> jaune (donné) / 8 ___; rouge -> 5 ___ / 9 ___.",,,,,A1,none,037
-tricolore-1-5th-edition,listening,3 C'est quel mot?,1,multiple-choice,"Écris 1–6. Écoute. On dit les deux adjectifs, puis on répète un mot seulement. Écris a ou b.",1 (blancs/blanches),blancs,blanches,,blancs,A1,none,037
+tricolore-1-5th-edition,listening,3 C'est quel mot?,1,multiple-choice,"Écris 1–6. Écoute. On dit les deux adjectifs, puis on répète un mot seulement. Écris a ou b.",1 (blancs/blanches),blancs,blanches,,a,A1,none,037
 tricolore-1-5th-edition,listening,4 Des animaux (a),1,matching,Écoute (1–6). C'est quel animal?,Écoute (1–6). C'est quel animal? Choisis parmi les images A–F.,,,,,A1,mixed,037
 tricolore-1-5th-edition,listening,4 Des animaux (b),1,true-false,Écoute encore une fois. Vrai ou faux?,Frodo le chat est gros.,,,,Faux,A1,mixed,037
 tricolore-1-5th-edition,writing,4 Des animaux (c),1,writing-task,Écris une description de deux des animaux. Puis dessine un autre animal et écris une description.,Écris une description de deux des animaux. Puis dessine un autre animal et écris une description.,,,,(open-ended),A1,mixed,037
@@ -2098,7 +2098,7 @@ tricolore-1-5th-edition,grammar,4 Questions et réponses (b),c,fill-in,Complète
 tricolore-1-5th-edition,grammar,4 Questions et réponses (b),d,fill-in,Complète les réponses.,"Oui, moi, j'___ un lapin et ma sœur ___ un hamster.",,,,,A1,mixed,039
 tricolore-1-5th-edition,grammar,4 Questions et réponses (b),e,fill-in,Complète les réponses.,J'___ douze ans.,,,,,A1,personal-info,039
 tricolore-1-5th-edition,grammar,4 Questions et réponses (b),f,fill-in,Complète les réponses.,"Non, mais mon frère ___ un petit chien.",,,,,A1,family,039
-tricolore-1-5th-edition,reading,1 Des animaux extraordinaires (b),1,true-false,Vrai ou faux?,Éric aime les animaux.,,,,Vrai,A1,mixed,040
+tricolore-1-5th-edition,reading,1 Des animaux extraordinaires (b),1,true-false,Vrai ou faux?,Éric aime les animaux.,,,,vrai,A1,mixed,040
 tricolore-1-5th-edition,reading,1 Des animaux extraordinaires (b),10,true-false,Vrai ou faux?,Il déteste le football.,,,,,A1,mixed,040
 tricolore-1-5th-edition,reading,1 Des animaux extraordinaires (b),2,true-false,Vrai ou faux?,Le chien de Marc aime la télévision.,,,,,A1,mixed,040
 tricolore-1-5th-edition,reading,1 Des animaux extraordinaires (b),3,true-false,Vrai ou faux?,Blanco (le chat) n'aime pas beaucoup la radio.,,,,,A1,mixed,040
@@ -2206,7 +2206,7 @@ tricolore-1-5th-edition,reading,2 Ça veut dire quoi? (b),6,fill-in,Copy these w
 tricolore-1-5th-edition,reading,3 C'est quel mois?,6,short-answer,,"On dit «Bonne fête, Maman».",,,,,A1,family,049
 tricolore-1-5th-edition,reading,2 Ça veut dire quoi? (b),7,fill-in,Copy these words and find the meaning.,la nuit,,,,,A1,none,049
 tricolore-1-5th-edition,reading,2 Ça veut dire quoi? (b),8,fill-in,Copy these words and find the meaning.,un feu d'artifice,,,,,A1,time-dates,049
-tricolore-1-5th-edition,listening,1 Mardi gras,1,multiple-choice,Écris 1–8. Écoute et choisis a ou b.,C'est,le 5 février.,le 15 février.,,le 5 février.,A1,time-dates,050
+tricolore-1-5th-edition,listening,1 Mardi gras,1,multiple-choice,Écris 1–8. Écoute et choisis a ou b.,C'est,le 5 février.,le 15 février.,,a,A1,time-dates,050
 tricolore-1-5th-edition,reading,2 C'est qui?,1,fill-in,Lis les bulles et complète les phrases.,___ est le perroquet.,,,,Coralie,A1,mixed,050
 tricolore-1-5th-edition,listening,1 Mardi gras,2,multiple-choice,Écris 1–8. Écoute et choisis a ou b.,C'est,l'anniversaire de Luc.,mardi gras.,,,A1,time-dates,050
 tricolore-1-5th-edition,reading,2 C'est qui?,2,fill-in,Lis les bulles et complète les phrases.,___ est le lapin.,,,,,A1,mixed,050
@@ -2285,18 +2285,18 @@ tricolore-1-5th-edition,reading,3 Un cadeau idéal (a),6,matching,Choisis un cad
 tricolore-1-5th-edition,reading,3 Un cadeau idéal (a),7,matching,Choisis un cadeau pour chaque personne.,C'est un anniversaire spécial pour Alexandre. Il a dix-huit ans et il adore la technologie et les jeux.,,,,,A1,shopping,055
 tricolore-1-5th-edition,reading,2 Des vêtements (masculin),1,fill-in,"Dans l'histoire de Lou, il y a le nom de beaucoup de vêtements. Copie et complète la liste.","Complète la liste de vêtements masculins: un jean (jeans), un ___ (tracksuit bottoms), un pantalon (___), ___ (pullover), ___ ((pair of) shorts), ___ (sweatshirt), ___ (T-shirt).",,,,,A1,mixed,056
 tricolore-1-5th-edition,reading,2 Des vêtements (féminin),2,fill-in,"Dans l'histoire de Lou, il y a le nom de beaucoup de vêtements. Copie et complète la liste.","Complète la liste de vêtements féminins: des tennis (___), des ___ (sandals), une cravate (a tie), une casquette (___), une chemise (___), une jupe (___), ___ (a dress), des chaussettes (___), des chaussures (___), des baskets (___).",,,,,A1,mixed,056
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,1,true-false,Trouve les cinq mots au pluriel.,un sweat gris,,,,Faux,A1,mixed,057
-tricolore-1-5th-edition,speaking,4 Vrai ou faux? (a),1,true-false,À deux. Partenaire A invente une phrase sur Lou Leroux et ses vêtements. Vrai ou faux? Partenaire B décide.,"Vendredi, Lou porte un pull vert et jaune.",,,,Vrai,A1,mixed,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,1,true-false,Trouve les cinq mots au pluriel.,un sweat gris,,,,faux,A1,mixed,057
+tricolore-1-5th-edition,speaking,4 Vrai ou faux? (a),1,true-false,À deux. Partenaire A invente une phrase sur Lou Leroux et ses vêtements. Vrai ou faux? Partenaire B décide.,"Vendredi, Lou porte un pull vert et jaune.",,,,vrai,A1,mixed,057
 tricolore-1-5th-edition,speaking,4 Vrai ou faux? (b),1,speaking-task,"Travaillez à deux. Trouve une photo (ou fais un dessin) de trois personnes qui portent des vêtements différents – un peu extraordinaires, si possible! Partenaire A dit trois phrases au sujet d'une de ces personnes et partenaire B devine qui c'est (guesses who it is).",Travaillez à deux. Trouve une photo (ou fais un dessin) de trois personnes qui portent des vêtements différents. Partenaire A dit trois phrases au sujet d'une de ces personnes et partenaire B devine qui c'est.,,,,(open-ended),A1,mixed,057
 tricolore-1-5th-edition,writing,4 Vrai ou faux? (c),1,writing-task,Écris une description d'une personne de l'activité 4b. Ton/Ta partenaire décide si c'est une bonne description.,Écris une description d'une personne de l'activité 4b. Ton/Ta partenaire décide si c'est une bonne description.,,,,(open-ended),A1,mixed,057
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,2,true-false,Trouve les cinq mots au pluriel.,mes lunettes,,,,Vrai,A1,mixed,057
-tricolore-1-5th-edition,speaking,4 Vrai ou faux? (a),2,true-false,À deux. Partenaire A invente une phrase sur Lou Leroux et ses vêtements. Vrai ou faux? Partenaire B décide.,"Jeudi, Lou porte une chemise bleue.",,,,Faux,A1,mixed,057
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,3,true-false,Trouve les cinq mots au pluriel.,les baskets,,,,Vrai,A1,mixed,057
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,4,true-false,Trouve les cinq mots au pluriel.,un pantalon,,,,Faux,A1,mixed,057
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,5,true-false,Trouve les cinq mots au pluriel.,des chaussures,,,,Vrai,A1,mixed,057
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,6,true-false,Trouve les cinq mots au pluriel.,des jeux,,,,Vrai,A1,hobby,057
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,7,true-false,Trouve les cinq mots au pluriel.,sa sœur,,,,Faux,A1,family,057
-tricolore-1-5th-edition,grammar,3 C'est au pluriel?,8,true-false,Trouve les cinq mots au pluriel.,des casquettes,,,,Vrai,A1,mixed,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,2,true-false,Trouve les cinq mots au pluriel.,mes lunettes,,,,vrai,A1,mixed,057
+tricolore-1-5th-edition,speaking,4 Vrai ou faux? (a),2,true-false,À deux. Partenaire A invente une phrase sur Lou Leroux et ses vêtements. Vrai ou faux? Partenaire B décide.,"Jeudi, Lou porte une chemise bleue.",,,,faux,A1,mixed,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,3,true-false,Trouve les cinq mots au pluriel.,les baskets,,,,vrai,A1,mixed,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,4,true-false,Trouve les cinq mots au pluriel.,un pantalon,,,,faux,A1,mixed,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,5,true-false,Trouve les cinq mots au pluriel.,des chaussures,,,,vrai,A1,mixed,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,6,true-false,Trouve les cinq mots au pluriel.,des jeux,,,,vrai,A1,hobby,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,7,true-false,Trouve les cinq mots au pluriel.,sa sœur,,,,faux,A1,family,057
+tricolore-1-5th-edition,grammar,3 C'est au pluriel?,8,true-false,Trouve les cinq mots au pluriel.,des casquettes,,,,vrai,A1,mixed,057
 tricolore-1-5th-edition,listening,1 Des photos d'identité,1,matching,Écris 1–6. Écoute les descriptions. Qui parle?,"Écoute les six descriptions et identifie qui parle parmi les portraits A–F (Marine, Bruno, Julie, Sonia, Zac, Maxime).",,,,,A1,personal-info,058
 tricolore-1-5th-edition,writing,2 Une description personnelle,1,writing-task,Fais une description de toi. Garde la description dans ton Dossier personnel.,Fais une description de toi. Garde la description dans ton Dossier personnel.,,,,(open-ended),A1,personal-info,058
 tricolore-1-5th-edition,speaking,3 C'est qui? (a),1,speaking-task,Travaillez en groupe. Une personne fait une description de quelqu'un du groupe. Les autres devinent qui c'est.,Une personne fait une description de quelqu'un du groupe. Les autres devinent qui c'est.,,,,(open-ended),A1,personal-info,058
@@ -2320,7 +2320,7 @@ tricolore-1-5th-edition,grammar,5 Chez nous,7,multiple-choice,Choisis le bon mot
 tricolore-1-5th-edition,grammar,5 Chez nous,8,multiple-choice,Choisis le bon mot pour compléter le message de Thomas,"Et toi, qu'est-ce que tu (ai/as/a) ___ dans ta chambre?",ai,as,a,,A1,home,059
 tricolore-1-5th-edition,listening,1 Trouve le bon mot,1,matching,Écris 1–6. Écoute et écris la bonne lettre.,"Écoute et identifie le mot entendu parmi: a fille, b famille, c livre, d ville, e fils, f oui (items 1–6).",,,,,A1,none,060
 tricolore-1-5th-edition,listening,2 C'est quelle image?,1,matching,Écris 1–6. Écoute et écris la bonne lettre.,"Écoute et identifie le mot entendu parmi: A la pluie, B un parapluie, C une boisson, D un croissant, E une pharmacie, F un pharmacien (items 1–6).",,,,,A1,none,060
-tricolore-1-5th-edition,listening,3 C'est quel mot?,1,multiple-choice,"Écoute. On dit les deux mots, puis on répète un des mots seulement. Écris a ou b.",1 (je/j'ai),je,j'ai,,j'ai,A1,none,060
+tricolore-1-5th-edition,listening,3 C'est quel mot?,1,multiple-choice,"Écoute. On dit les deux mots, puis on répète un des mots seulement. Écris a ou b.",1 (je/j'ai),je,j'ai,,b,A1,none,060
 tricolore-1-5th-edition,listening,4 Questions ou réponses?,1,multiple-choice,Écris 1–9. Écoute et écris Q (pour une question) ou R (pour une réponse).,Écris 1–9. Écoute et écris Q (pour une question) ou R (pour une réponse).,,,,,A1,none,060
 tricolore-1-5th-edition,listening,5 L'histoire de Suzanne,1,short-answer,Écoute l'histoire de Suzanne.,Was the event a complete success?,,,,(open-ended),A2,mixed,060
 tricolore-1-5th-edition,writing,5 L'histoire de Suzanne (b),1,writing-task,"Écris un résumé de l'histoire de Suzanne. Réécoute l'histoire, si nécessaire.","Écris un résumé de l'histoire de Suzanne. Réécoute l'histoire, si nécessaire.",,,,(open-ended),A2,mixed,060
@@ -2396,7 +2396,7 @@ tricolore-1-5th-edition,,Exercise 7b,c,fill-in,"Complète les réponses avec mon
 tricolore-1-5th-edition,,Exercise 7b,d,fill-in,"Complète les réponses avec mon, ma ou mes. Complete the answers with mon, ma or mes.","Oui, ___ parents sont profs.",,,,,A1,personal-info,063
 tricolore-1-5th-edition,,Exercise 7b,e,fill-in,"Complète les réponses avec mon, ma ou mes. Complete the answers with mon, ma or mes.",___ maison est blanche.,,,,,A1,personal-info,063
 tricolore-1-5th-edition,,Exercise 7b,f,fill-in,"Complète les réponses avec mon, ma ou mes. Complete the answers with mon, ma or mes.",___ frère a treize ans.,,,,,A1,personal-info,063
-tricolore-1-5th-edition,reading,Exercise 1a,1,true-false,Vrai ou faux?,Il fait beau à Paris.,,,,Faux,A1,weather,064
+tricolore-1-5th-edition,reading,Exercise 1a,1,true-false,Vrai ou faux?,Il fait beau à Paris.,,,,faux,A1,weather,064
 tricolore-1-5th-edition,reading,Exercise 1b,1,fill-in,Complète les phrases.,"À Dieppe, ___.",,,,il y a du brouillard,A1,weather,064
 tricolore-1-5th-edition,writing,Exercise 1c,1,writing-task,Décris le temps dans trois autres villes.,Décris le temps dans trois autres villes.,,,,(open-ended),A1,weather,064
 tricolore-1-5th-edition,reading,Exercise 1a,2,true-false,Vrai ou faux?,Il pleut à Lille.,,,,,A1,weather,064
@@ -2521,16 +2521,16 @@ tricolore-1-5th-edition,grammar,Exercise 3,6,multiple-choice,Choisis le bon mot.
 tricolore-1-5th-edition,grammar,Exercise 4,6,fill-in,Complète les phrases.,"Et mon grand-père [icon: golf club] , mais sur l'ordinateur!",,,,joue au golf,A1,hobby,069
 tricolore-1-5th-edition,writing,Exercise 5,a,writing-task,Écris six phrases sur six sports ou jeux différents.,Écris six phrases sur six sports ou jeux différents.,,,,(open-ended),A1,hobby,069
 tricolore-1-5th-edition,writing,Exercise 5,b,writing-task,Écris un paragraphe sur le sport et les jeux. Ça peut être de la part d'une personnalité célèbre. (It can be on behalf of a famous celebrity.),Écris un paragraphe sur le sport et les jeux. Ça peut être de la part d'une personnalité célèbre.,,,,(open-ended),A1,hobby,069
-tricolore-1-5th-edition,reading,Exercise 1b,1,true-false,Vrai ou faux?,Jojo aime le fromage.,,,,Vrai,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,10,true-false,Vrai ou faux?,Les trois animaux mangent le fromage.,,,,Faux – Seule Jojo mange le fromage.,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,2,true-false,Vrai ou faux?,Elle trouve du fromage dans le jardin.,,,,Faux – Elle trouve du fromage dans la cuisine.,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,3,true-false,Vrai ou faux?,Jojo commence à manger le fromage.,,,,Vrai,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,4,true-false,Vrai ou faux?,"Tom, le chat, arrive.",,,,Vrai,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,5,true-false,Vrai ou faux?,La souris chasse le chat dans le salon.,,,,Faux – Tom chasse Jojo dans le salon (pas l'inverse).,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,6,true-false,Vrai ou faux?,Tom saute sur Jojo mais il n'attrape pas Jojo.,,,,Vrai,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,7,true-false,Vrai ou faux?,"Jojo entre dans la salle à manger, Tom aussi.",,,,"Faux – Jojo entre dans la salle de bains, pas la salle à manger.",A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,8,true-false,Vrai ou faux?,"Jojo rentre dans la cuisine, mais le chat est là aussi.",,,,Vrai,A1,mixed,070
-tricolore-1-5th-edition,reading,Exercise 1b,9,true-false,Vrai ou faux?,"Butch, le chien, entre dans la cuisine.",,,,Vrai,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,1,true-false,Vrai ou faux?,Jojo aime le fromage.,,,,vrai,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,10,true-false,Vrai ou faux?,Les trois animaux mangent le fromage.,,,,faux – Seule Jojo mange le fromage.,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,2,true-false,Vrai ou faux?,Elle trouve du fromage dans le jardin.,,,,faux – Elle trouve du fromage dans la cuisine.,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,3,true-false,Vrai ou faux?,Jojo commence à manger le fromage.,,,,vrai,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,4,true-false,Vrai ou faux?,"Tom, le chat, arrive.",,,,vrai,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,5,true-false,Vrai ou faux?,La souris chasse le chat dans le salon.,,,,faux – Tom chasse Jojo dans le salon (pas l'inverse).,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,6,true-false,Vrai ou faux?,Tom saute sur Jojo mais il n'attrape pas Jojo.,,,,vrai,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,7,true-false,Vrai ou faux?,"Jojo entre dans la salle à manger, Tom aussi.",,,,"faux – Jojo entre dans la salle de bains, pas la salle à manger.",A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,8,true-false,Vrai ou faux?,"Jojo rentre dans la cuisine, mais le chat est là aussi.",,,,vrai,A1,mixed,070
+tricolore-1-5th-edition,reading,Exercise 1b,9,true-false,Vrai ou faux?,"Butch, le chien, entre dans la cuisine.",,,,vrai,A1,mixed,070
 tricolore-1-5th-edition,listening,Exercise 2,1,matching,Écoute et trouve les paires.,François ...,,,,b (adore le camping),A1,vacation,071
 tricolore-1-5th-edition,reading,Exercise 3a,1,short-answer,Voici les titres des albums d'Astérix et de Tintin. Quels sont les titres en anglais?,Quels sont les titres en anglais? Astérix Gladiateur,,,,Asterix the Gladiator,A1,hobby,071
 tricolore-1-5th-edition,writing,Exercise 3b,1,writing-task,"Invente un personnage de bande dessinée, par exemple, un animal comique comme un rat ou un gorille. Décris le personnage ou invente une petite histoire.","Invente un personnage de bande dessinée, par exemple, un animal comique comme un rat ou un gorille. Décris le personnage ou invente une petite histoire.",,,,(open-ended),A1,hobby,071
@@ -2573,8 +2573,8 @@ tricolore-1-5th-edition,reading,Exercise 2,8,fill-in,Complète les phrases d'Ann
 tricolore-1-5th-edition,reading,Exercise 1a,9,fill-in,Lis le message et complète le résumé.,Léo (9) ___,,,,chante,A1,family,072
 tricolore-1-5th-edition,reading,Exercise 2,9,fill-in,Complète les phrases d'Anne Active.,"Au mois de décembre, nous (chanter) des chants de Noël,...",,,,chantons,A1,family,072
 tricolore-1-5th-edition,grammar,Exercise 3,1,fill-in,Complète les phrases.,Je ___ des crêpes. (préparer),,,,prépare,A1,daily-routine,073
-tricolore-1-5th-edition,listening,Exercise 4a,1,multiple-choice,Écoute et choisis la bonne réponse.,Anne: item 1,J'adore le sport.,Je n'aime pas le sport.,,Je n'aime pas le sport.,A1,hobby,073
-tricolore-1-5th-edition,listening,Exercise 4b,1,multiple-choice,Écoute et choisis la bonne réponse.,Marc adore ...,les animaux,la musique,le sport,le sport,A1,hobby,073
+tricolore-1-5th-edition,listening,Exercise 4a,1,multiple-choice,Écoute et choisis la bonne réponse.,Anne: item 1,J'adore le sport.,Je n'aime pas le sport.,,b,A1,hobby,073
+tricolore-1-5th-edition,listening,Exercise 4b,1,multiple-choice,Écoute et choisis la bonne réponse.,Marc adore ...,les animaux,la musique,le sport,c,A1,hobby,073
 tricolore-1-5th-edition,speaking,Exercise 5,1,speaking-task,"Lisez la conversation, puis inventez une conversation différente.","Lisez la conversation, puis inventez une conversation différente.",,,,(open-ended),A1,communication,073
 tricolore-1-5th-edition,grammar,Exercise 3,2,fill-in,Complète les phrases.,Tu ___ au concert? (chanter),,,,chantes,A1,daily-routine,073
 tricolore-1-5th-edition,listening,Exercise 4a,2,multiple-choice,Écoute et choisis la bonne réponse.,Anne: item 2,Je retrouve des amis.,Je range le salon.,,,A1,hobby,073
@@ -2746,28 +2746,28 @@ tricolore-1-5th-edition,listening,Exercise 1,1,matching,Écris 1–10. Écoute e
 tricolore-1-5th-edition,speaking,Exercise 2a,1,speaking-task,Pose des questions.,Pour aller ...? (icon: group of people),,,,"Pour aller au cinéma, s'il vous plaît?",A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2b,1,speaking-task,Pose des questions.,Est-ce qu'il y a … près d'ici? (icon: letter P),,,,Est-ce qu'il y a un parking près d'ici?,A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2c,1,speaking-task,Pose des questions.,"…, c'est loin/c'est près d'ici? (icon: beach umbrella and lounger)",,,,"La plage, c'est loin?",A1,city-places,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),1,true-false,Vrai ou faux?,C'est le cinq janvier.,,,,Faux – C'est le cinq juillet.,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),1,true-false,Vrai ou faux?,C'est le cinq janvier.,,,,faux – C'est le cinq juillet.,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,10,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (10),,,,,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,2,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (2),,,,,A1,travel,084
 tricolore-1-5th-edition,speaking,Exercise 2a,2,speaking-task,Pose des questions.,Pour aller ...? (icon: wavy water lines),,,,,A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2b,2,speaking-task,Pose des questions.,Est-ce qu'il y a … près d'ici? (icon: bed),,,,,A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2c,2,speaking-task,Pose des questions.,"…, c'est loin/c'est près d'ici? (icon: tree and bench)",,,,,A1,city-places,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),2,true-false,Vrai ou faux?,Il fait très froid.,,,,Faux – Il fait très chaud.,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),2,true-false,Vrai ou faux?,Il fait très froid.,,,,faux – Il fait très chaud.,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,3,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (3),,,,,A1,travel,084
 tricolore-1-5th-edition,speaking,Exercise 2a,3,speaking-task,Pose des questions.,Pour aller ...? (icon: letter H),,,,,A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2b,3,speaking-task,Pose des questions.,Est-ce qu'il y a … près d'ici? (icon: tent),,,,,A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2c,3,speaking-task,Pose des questions.,"…, c'est loin/c'est près d'ici? (icon: front of a train)",,,,,A1,city-places,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),3,true-false,Vrai ou faux?,Les amis arrivent à la piscine de La Rochelle.,,,,Faux – Les amis arrivent à la gare de La Rochelle.,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),3,true-false,Vrai ou faux?,Les amis arrivent à la piscine de La Rochelle.,,,,faux – Les amis arrivent à la gare de La Rochelle.,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,4,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (4),,,,,A1,travel,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),4,true-false,Vrai ou faux?,Ils prennent le bus numéro 10.,,,,Faux – Ils prennent le bus numéro 1.,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),4,true-false,Vrai ou faux?,Ils prennent le bus numéro 10.,,,,faux – Ils prennent le bus numéro 1.,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,5,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (5),,,,,A1,travel,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),5,true-false,Vrai ou faux?,Ils cherchent d'abord l'auberge de jeunesse.,,,,Faux – Ils cherchent d'abord l'office de tourisme.,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),5,true-false,Vrai ou faux?,Ils cherchent d'abord l'auberge de jeunesse.,,,,faux – Ils cherchent d'abord l'office de tourisme.,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,6,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (6),,,,,A1,travel,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),6,true-false,Vrai ou faux?,L'office de tourisme est près de la gare.,,,,Vrai,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),6,true-false,Vrai ou faux?,L'office de tourisme est près de la gare.,,,,vrai,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,7,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (7),,,,,A1,travel,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),7,true-false,Vrai ou faux?,Ils décident d'aller au marché.,,,,Faux – Ils décident d'aller à un café (le café de la Paix).,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),7,true-false,Vrai ou faux?,Ils décident d'aller au marché.,,,,faux – Ils décident d'aller à un café (le café de la Paix).,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,8,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (8),,,,,A1,travel,084
-tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),8,true-false,Vrai ou faux?,Le café de la Paix est assez près.,,,,Vrai,A1,travel,084
+tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),8,true-false,Vrai ou faux?,Le café de la Paix est assez près.,,,,vrai,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 1,9,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (9),,,,,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 4,1,fill-in,Écris 1–10. Écoute et note la direction ← ↑ → .,Écris 1–10. Écoute et note la direction ← ↑ → . (1),,,,,A1,city-places,085
 tricolore-1-5th-edition,reading,Exercise 5,1,fill-in,Regarde le panneau et complète les phrases.,La poste est ___ .,,,,à gauche,A1,city-places,085
@@ -2795,43 +2795,43 @@ tricolore-1-5th-edition,reading,Exercise 5,7,fill-in,Regarde le panneau et compl
 tricolore-1-5th-edition,listening,Exercise 4,8,fill-in,Écris 1–10. Écoute et note la direction ← ↑ → .,Écris 1–10. Écoute et note la direction ← ↑ → . (8),,,,,A1,city-places,085
 tricolore-1-5th-edition,reading,Exercise 5,8,fill-in,Regarde le panneau et complète les phrases.,La gare est ___ .,,,,à gauche,A1,city-places,085
 tricolore-1-5th-edition,listening,Exercise 4,9,fill-in,Écris 1–10. Écoute et note la direction ← ↑ → .,Écris 1–10. Écoute et note la direction ← ↑ → . (9),,,,,A1,city-places,085
-tricolore-1-5th-edition,reading,Exercise 1,1,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour jouer au tennis, on va ...",au bowling,à la piscine,au parc,au parc,A1,city-places,086
+tricolore-1-5th-edition,reading,Exercise 1,1,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour jouer au tennis, on va ...",au bowling,à la piscine,au parc,c,A1,city-places,086
 tricolore-1-5th-edition,speaking,Exercise 2,1,speaking-task,"Travaillez à deux. Lisez la conversation, puis changez les mots surlignés.","Travaillez à deux. Lisez la conversation, puis changez les mots surlignés.",,,,(open-ended),A1,city-places,086
 tricolore-1-5th-edition,reading,Exercise 3,1,fill-in,"Complète les phrases avec au, à la, à l' ou aux.","Lundi, je vais ___",,,,,A1,city-places,086
-tricolore-1-5th-edition,reading,Exercise 1,2,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour manger un bon repas, on va ...",à la poste,au restaurant,au théâtre,au restaurant,A1,city-places,086
+tricolore-1-5th-edition,reading,Exercise 1,2,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour manger un bon repas, on va ...",à la poste,au restaurant,au théâtre,b,A1,city-places,086
 tricolore-1-5th-edition,reading,Exercise 3,2,fill-in,"Complète les phrases avec au, à la, à l' ou aux.","Mardi, je vais ___",,,,,A1,city-places,086
-tricolore-1-5th-edition,reading,Exercise 1,3,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour trouver une chambre, les touristes vont ...",à l'église,au supermarché,à l'hôtel,à l'hôtel,A1,city-places,086
+tricolore-1-5th-edition,reading,Exercise 1,3,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour trouver une chambre, les touristes vont ...",à l'église,au supermarché,à l'hôtel,c,A1,city-places,086
 tricolore-1-5th-edition,reading,Exercise 3,3,fill-in,"Complète les phrases avec au, à la, à l' ou aux.","Mercredi, je vais ___",,,,,A1,city-places,086
-tricolore-1-5th-edition,reading,Exercise 1,4,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour prendre le train, on va ...",au château,à la gare,au port,à la gare,A1,city-places,086
+tricolore-1-5th-edition,reading,Exercise 1,4,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour prendre le train, on va ...",au château,à la gare,au port,b,A1,city-places,086
 tricolore-1-5th-edition,reading,Exercise 3,4,fill-in,"Complète les phrases avec au, à la, à l' ou aux.","Jeudi, je vais ___",,,,,A1,city-places,086
-tricolore-1-5th-edition,reading,Exercise 1,5,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour acheter des provisions, on va ...",aux magasins,à la tour,au musée,aux magasins,A1,city-places,086
+tricolore-1-5th-edition,reading,Exercise 1,5,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour acheter des provisions, on va ...",aux magasins,à la tour,au musée,a,A1,city-places,086
 tricolore-1-5th-edition,reading,Exercise 3,5,fill-in,"Complète les phrases avec au, à la, à l' ou aux.","Vendredi, je vais ___",,,,,A1,city-places,086
-tricolore-1-5th-edition,reading,Exercise 1,6,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour voir un film, nous allons ...",au marché,au parc,au cinéma,au cinéma,A1,city-places,086
+tricolore-1-5th-edition,reading,Exercise 1,6,multiple-choice,"Choisis la bonne réponse (a, b ou c).","Pour voir un film, nous allons ...",au marché,au parc,au cinéma,c,A1,city-places,086
 tricolore-1-5th-edition,reading,Exercise 3,6,fill-in,"Complète les phrases avec au, à la, à l' ou aux.","Samedi, je vais ___",,,,,A1,city-places,086
 tricolore-1-5th-edition,listening,Exercise 4,1,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (1)",,,,"château, assez loin, après le supermarché",A1,city-places,087
-tricolore-1-5th-edition,reading,Exercise 5,1,true-false,Vrai ou faux?,Le cinéma est entre le café et le supermarché.,,,,Faux – Le café est entre le cinéma et le supermarché.,A1,city-places,087
+tricolore-1-5th-edition,reading,Exercise 5,1,true-false,Vrai ou faux?,Le cinéma est entre le café et le supermarché.,,,,faux – Le café est entre le cinéma et le supermarché.,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,1,fill-in,Choisis la bonne préposition pour compléter les phrases.,La souris est ___ les deux chats.,,,,entre,A1,none,087
 tricolore-1-5th-edition,writing,Exercise 6b,1,writing-task,Invente trois images amusantes pour illustrer des prépositions.,Invente trois images amusantes pour illustrer des prépositions.,,,,(open-ended),A1,none,087
 tricolore-1-5th-edition,listening,Exercise 4,2,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (2)",,,,,A1,city-places,087
-tricolore-1-5th-edition,reading,Exercise 5,2,true-false,Vrai ou faux?,Le musée est entre la poste et la banque.,,,,Vrai,A1,city-places,087
+tricolore-1-5th-edition,reading,Exercise 5,2,true-false,Vrai ou faux?,Le musée est entre la poste et la banque.,,,,vrai,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,2,fill-in,Choisis la bonne préposition pour compléter les phrases.,La souris est ___ le chat.,,,,,A1,none,087
 tricolore-1-5th-edition,listening,Exercise 4,3,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (3)",,,,,A1,city-places,087
 tricolore-1-5th-edition,reading,Exercise 5,3,true-false,Vrai ou faux?,Mme Dubois est devant le supermarché.,,,,,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,3,fill-in,Choisis la bonne préposition pour compléter les phrases.,La souris est ___ le chat. (2),,,,,A1,none,087
 tricolore-1-5th-edition,listening,Exercise 4,4,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (4)",,,,,A1,city-places,087
-tricolore-1-5th-edition,reading,Exercise 5,4,true-false,Vrai ou faux?,Les enfants sont devant le cinéma.,,,,Faux – Les enfants sont devant le musée.,A1,city-places,087
+tricolore-1-5th-edition,reading,Exercise 5,4,true-false,Vrai ou faux?,Les enfants sont devant le cinéma.,,,,faux – Les enfants sont devant le musée.,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,4,fill-in,Choisis la bonne préposition pour compléter les phrases.,La souris est ___ le chat. (3),,,,,A1,none,087
 tricolore-1-5th-edition,listening,Exercise 4,5,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (5)",,,,,A1,city-places,087
-tricolore-1-5th-edition,reading,Exercise 5,5,true-false,Vrai ou faux?,Il y a un vélo devant la banque.,,,,Faux – Le vélo est devant le cinéma.,A1,city-places,087
+tricolore-1-5th-edition,reading,Exercise 5,5,true-false,Vrai ou faux?,Il y a un vélo devant la banque.,,,,faux – Le vélo est devant le cinéma.,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,5,fill-in,Choisis la bonne préposition pour compléter les phrases.,L'homme est ___ le lion.,,,,,A1,none,087
 tricolore-1-5th-edition,listening,Exercise 4,6,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (6)",,,,,A1,city-places,087
-tricolore-1-5th-edition,reading,Exercise 5,6,true-false,Vrai ou faux?,Le parking est entre le supermarché et le café.,,,,Faux,A1,city-places,087
+tricolore-1-5th-edition,reading,Exercise 5,6,true-false,Vrai ou faux?,Le parking est entre le supermarché et le café.,,,,faux,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,6,fill-in,Choisis la bonne préposition pour compléter les phrases.,L'homme est ___ le lion. (2),,,,,A1,none,087
 tricolore-1-5th-edition,listening,Exercise 4,7,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (7)",,,,,A1,city-places,087
 tricolore-1-5th-edition,reading,Exercise 5,7,true-false,Vrai ou faux?,M. Dubois est dans le café.,,,,,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,7,fill-in,Choisis la bonne préposition pour compléter les phrases.,L'homme est ___ les deux lions.,,,,,A1,none,087
 tricolore-1-5th-edition,listening,Exercise 4,8,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (8)",,,,,A1,city-places,087
-tricolore-1-5th-edition,reading,Exercise 5,8,true-false,Vrai ou faux?,Le chien est devant la poste.,,,,Faux – Le chien est devant le supermarché.,A1,city-places,087
+tricolore-1-5th-edition,reading,Exercise 5,8,true-false,Vrai ou faux?,Le chien est devant la poste.,,,,faux – Le chien est devant le supermarché.,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,8,fill-in,Choisis la bonne préposition pour compléter les phrases.,L'homme est ___ le lion. (3),,,,,A1,none,087
 tricolore-1-5th-edition,listening,Exercise 2,1,matching,Écris 1–10. Écoute et trouve les bonnes images.,Écris 1–10. Écoute et trouve les bonnes images. (1),,,,C,A1,city-places,088
 tricolore-1-5th-edition,grammar,Dossier-langue,1,short-answer,What do un/une and des change to after il n'y a pas?,What do un/une and des change to after il n'y a pas?,,,,de (d'),A1,city-places,088
@@ -2913,7 +2913,7 @@ tricolore-1-5th-edition,grammar,4 Ah non! (a),6b,fill-in,Complète la conversati
 tricolore-1-5th-edition,grammar,3 Allez!,7,matching,Trouve les paires.,Je …,,,,d,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),7,fill-in,Complète la conversation.,"Dimanche, nous ___ tous au Parc Astérix en minibus.",,,,allons,A1,city-places,091
 tricolore-1-5th-edition,grammar,3 Allez!,8,matching,Trouve les paires.,Tu …,,,,f,A1,city-places,091
-tricolore-1-5th-edition,reading,1 Une fenêtre ouverte sur l'océan (a),1,multiple-choice,Réponds en anglais.,What kind of text is this?,a publicity leaflet,a magazine article,a story about fish,a publicity leaflet,A2,travel,092
+tricolore-1-5th-edition,reading,1 Une fenêtre ouverte sur l'océan (a),1,multiple-choice,Réponds en anglais.,What kind of text is this?,a publicity leaflet,a magazine article,a story about fish,a,A2,travel,092
 tricolore-1-5th-edition,reading,1 (b) Vrai ou faux?,1,true-false,Vrai ou faux?,L'aquarium est loin de la gare.,,,,Faux,A2,travel,092
 tricolore-1-5th-edition,listening,2 À l'office de tourisme (a),1,multiple-choice,Listen first to find out what this is about. Is it …,Listen first to find out what this is about. Is it …,a recorded announcement about events in La Rochelle?,an interview with the director of tourism?,a conversation between tourists and a member of staff?,,A2,travel,092
 tricolore-1-5th-edition,listening,2 (b),1,ordering,Read the list a–h. Listen again and note down the letter in the order you hear them.,Read the list a–h. Listen again and note down the letter in the order you hear them.,,,,,A2,travel,092
@@ -3350,16 +3350,16 @@ tricolore-1-5th-edition,listening,2a Qu'est-ce qu'ils prennent?,Luc,short-answer
 tricolore-1-5th-edition,listening,2a Qu'est-ce qu'ils prennent?,Marc,short-answer,Écoute et note les lettres (voir l'exercice 1a).,Écoute et note les lettres (voir l'exercice 1a).,,,,,A1,food,116
 tricolore-1-5th-edition,listening,2a Qu'est-ce qu'ils prennent?,Nicole,short-answer,Écoute et note les lettres (voir l'exercice 1a).,Écoute et note les lettres (voir l'exercice 1a).,,,,"f, ...",A1,food,116
 tricolore-1-5th-edition,listening,2a Qu'est-ce qu'ils prennent?,des touristes,short-answer,Écoute et note les lettres (voir l'exercice 1a).,Écoute et note les lettres (voir l'exercice 1a).,,,,,A1,food,116
-tricolore-1-5th-edition,reading,Quiz: les repas en France,1,multiple-choice,"Choisis la bonne réponse a, b ou c.",Les Français dînent ...,entre midi et deux heures.,entre quatre heures et cinq heures du soir.,entre sept heures et huit heures du soir.,entre sept heures et huit heures du soir.,A1,food,117
+tricolore-1-5th-edition,reading,Quiz: les repas en France,1,multiple-choice,"Choisis la bonne réponse a, b ou c.",Les Français dînent ...,entre midi et deux heures.,entre quatre heures et cinq heures du soir.,entre sept heures et huit heures du soir.,c,A1,food,117
 tricolore-1-5th-edition,grammar,5a Questions et réponses,1,fill-in,Complète les phrases et trouve les paires.,Est-ce que vous ___ un grand repas au déjeuner?,,,,prenez (pairs with f: nous prenons),A1,food,117
 tricolore-1-5th-edition,speaking,5b,1,speaking-task,"À deux, inventez une conversation. Modifiez des questions de l'exercice 5a.","À deux, inventez une conversation. Modifiez des questions de l'exercice 5a.",,,,(open-ended),A1,food,117
-tricolore-1-5th-edition,reading,Quiz: les repas en France,2,multiple-choice,"Choisis la bonne réponse a, b ou c.","Pour offrir des boissons aux visiteurs adultes, on dit ...",Qu'est-ce que tu prends?,Qu'est-ce que vous prenez?,Qu'est-ce que je prends?,Qu'est-ce que vous prenez?,A1,food,117
+tricolore-1-5th-edition,reading,Quiz: les repas en France,2,multiple-choice,"Choisis la bonne réponse a, b ou c.","Pour offrir des boissons aux visiteurs adultes, on dit ...",Qu'est-ce que tu prends?,Qu'est-ce que vous prenez?,Qu'est-ce que je prends?,b,A1,food,117
 tricolore-1-5th-edition,grammar,5a Questions et réponses,2,fill-in,Complète les phrases et trouve les paires.,On ___ le goûter à quelle heure chez toi?,,,,prend (pairs with d: on prend),A1,food,117
-tricolore-1-5th-edition,reading,Quiz: les repas en France,3,multiple-choice,"Choisis la bonne réponse a, b ou c.","Au petit déjeuner en France, on prend ...","des œufs, du bacon et des tomates.",une tarte aux pommes et du fromage.,des croissants ou du pain.,des croissants ou du pain.,A1,food,117
+tricolore-1-5th-edition,reading,Quiz: les repas en France,3,multiple-choice,"Choisis la bonne réponse a, b ou c.","Au petit déjeuner en France, on prend ...","des œufs, du bacon et des tomates.",une tarte aux pommes et du fromage.,des croissants ou du pain.,c,A1,food,117
 tricolore-1-5th-edition,grammar,5a Questions et réponses,3,fill-in,Complète les phrases et trouve les paires.,À quelle heure est-ce qu'on ___ le petit déjeuner ici?,,,,prend (pairs with e: nous prenons),A1,food,117
-tricolore-1-5th-edition,reading,Quiz: les repas en France,4,multiple-choice,"Choisis la bonne réponse a, b ou c.","On t'offre de la viande, mais tu es végétarien(ne). Pour répondre poliment, tu dis ...","Merci, mais je ne prends pas de viande, je suis végétarien(ne).",Beurk! Je ne mange pas ça.,"Non, merci. Il n'y a pas autre chose?","Merci, mais je ne prends pas de viande, je suis végétarien(ne).",A1,food,117
+tricolore-1-5th-edition,reading,Quiz: les repas en France,4,multiple-choice,"Choisis la bonne réponse a, b ou c.","On t'offre de la viande, mais tu es végétarien(ne). Pour répondre poliment, tu dis ...","Merci, mais je ne prends pas de viande, je suis végétarien(ne).",Beurk! Je ne mange pas ça.,"Non, merci. Il n'y a pas autre chose?",a,A1,food,117
 tricolore-1-5th-edition,grammar,5a Questions et réponses,4,fill-in,Complète les phrases et trouve les paires.,Qu'est-ce que tu ___ comme dessert?,,,,prends (pairs with a: je prends),A1,food,117
-tricolore-1-5th-edition,reading,Quiz: les repas en France,5,multiple-choice,"Choisis la bonne réponse a, b ou c.",Beaucoup d'enfants en France prennent un goûter ...,"le matin, avant l'école.",pendant l'heure du déjeuner.,"l'après-midi, après l'école.","l'après-midi, après l'école.",A1,food,117
+tricolore-1-5th-edition,reading,Quiz: les repas en France,5,multiple-choice,"Choisis la bonne réponse a, b ou c.",Beaucoup d'enfants en France prennent un goûter ...,"le matin, avant l'école.",pendant l'heure du déjeuner.,"l'après-midi, après l'école.",c,A1,food,117
 tricolore-1-5th-edition,grammar,5a Questions et réponses,5,fill-in,Complète les phrases et trouve les paires.,Est-ce que les Anglais ___ des œufs au bacon au petit déjeuner?,,,,prennent (pairs with b: ils prennent),A1,food,117
 tricolore-1-5th-edition,grammar,5a Questions et réponses,6,fill-in,Complète les phrases et trouve les paires.,Tu ___ du lait ou du chocolat chaud?,,,,prends (pairs with c: je prends),A1,food,117
 tricolore-1-5th-edition,listening,1 Les fruits et les légumes,1,short-answer,Écris deux listes. Écoute et vérifie.,"Écris deux listes: les fruits et les légumes (ananas, banane, brocolis, carotte, chou, chou-fleur, courgette, fraises, framboises, haricots verts, melon, oignon, orange, pêche, petits pois, poire, pomme, pommes de terre, radis, raisins).",,,,"Fruits: ananas, banane, fraises, framboises, melon, orange, pêche, poire, pomme, raisins. Légumes: brocolis, carotte, chou, chou-fleur, courgette, haricots verts, oignon, petits pois, pommes de terre, radis.",A1,food,118
@@ -3400,7 +3400,7 @@ tricolore-1-5th-edition,grammar,3 Une recette,1,fill-in,Regarde l'image et compl
 tricolore-1-5th-edition,speaking,4 A table (b),1,speaking-task,Lisez la conversation à deux. Puis inventez d'autres conversations.,Lisez la conversation à deux. Puis inventez d'autres conversations.,,,,(open-ended),A2,food,121
 tricolore-1-5th-edition,grammar,3 Une recette,2,fill-in,Regarde l'image et complète les phrases.,Il n'y a pas ___ f___ .,,,,,A2,food,121
 tricolore-1-5th-edition,grammar,3 Une recette,3,fill-in,Regarde l'image et complète les phrases.,Il n'y a pas ___ ___ et il n'y a pas d'___ .,,,,,A2,food,121
-tricolore-1-5th-edition,reading,1 Reseau Tricolore,1,true-false,Lis la conversation sur «Réseau Tricolore». Vrai ou faux?,Dominique déteste le déjeuner du dimanche.,,,,Faux,A2,mixed,122
+tricolore-1-5th-edition,reading,1 Reseau Tricolore,1,true-false,Lis la conversation sur «Réseau Tricolore». Vrai ou faux?,Dominique déteste le déjeuner du dimanche.,,,,faux,A2,mixed,122
 tricolore-1-5th-edition,listening,2 Un pique-nique un peu special,1,matching,"Lis le texte, puis écoute les conversations.","Qui va apporter quoi? (Léa, Dominique, Chloé, Vivienne, Hugo, Noah apportent des ingrédients pour les pizzas: fromage, tomates, jambon, raisins, ananas, oignons, ail, poisson)",,,,,A2,mixed,122
 tricolore-1-5th-edition,reading,1 Reseau Tricolore,2,true-false,Lis la conversation sur «Réseau Tricolore». Vrai ou faux?,Chloé va organiser des pique-niques.,,,,,A2,mixed,122
 tricolore-1-5th-edition,reading,1 Reseau Tricolore,3,true-false,Lis la conversation sur «Réseau Tricolore». Vrai ou faux?,"Chez sa grand-mère, Dominique va manger de la viande et des légumes.",,,,,A2,mixed,122
@@ -3841,7 +3841,7 @@ tricolore-1-5th-edition,writing,1 Combien d'animaux,6,short-answer,Il y a combie
 tricolore-1-5th-edition,writing,3 Des animaux,6,short-answer,Voici les animaux de la famille Corpuscule. Écris une description de ces animaux. Here are some of the Corpuscule family's pets. Write a description of these animals.,grey cat with orange markings and wide eyes,,,,,A1,family,148
 tricolore-1-5th-edition,writing,1 Combien d'animaux,7,short-answer,Il y a combien d'animaux sur le dessin? How many animals are there in the picture?,Il y a combien de lapins?,,,,,A1,family,148
 tricolore-1-5th-edition,reading,5 Chasse a l'intrus,1,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"lundi, mardi, mercredi, vingt",,,,vingt,A1,family,149
-tricolore-1-5th-edition,reading,6 Un echange,1,true-false,Lis l'histoire de Frédéric. Vrai ou faux? Read Frédéric's story. True or false?,Frédéric aime beaucoup les animaux.,,,,Vrai,A1,family,149
+tricolore-1-5th-edition,reading,6 Un echange,1,true-false,Lis l'histoire de Frédéric. Vrai ou faux? Read Frédéric's story. True or false?,Frédéric aime beaucoup les animaux.,,,,vrai,A1,family,149
 tricolore-1-5th-edition,reading,5 Chasse a l'intrus,10,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"blanche, brun, méchante, mignonne",,,,,A1,family,149
 tricolore-1-5th-edition,reading,5 Chasse a l'intrus,11,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"a, as, à, ai",,,,,A1,family,149
 tricolore-1-5th-edition,reading,5 Chasse a l'intrus,12,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"petit, très, énorme, gros",,,,,A1,family,149
@@ -3862,7 +3862,7 @@ tricolore-1-5th-edition,reading,6 Un echange,8,true-false,Lis l'histoire de Fré
 tricolore-1-5th-edition,reading,5 Chasse a l'intrus,9,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"cinquante, soixante, treize, quarante",,,,,A1,family,149
 tricolore-1-5th-edition,grammar,1 Les mois de l'annee,1,fill-in,Écris le mois. Write the name of the month.,"janvier, février, ___",,,,mars,A1,time-dates,150
 tricolore-1-5th-edition,reading,2 Une annee en desordre,1,matching,Déchiffre les mots et trouve les paires. Unjumble the words and find the pairs.,benon nénea,,,,bonne année – c,A1,time-dates,150
-tricolore-1-5th-edition,reading,3 Des annonces,1,true-false,Lis les phrases et consulte les annonces. Vrai ou faux? Corrige les phrases fausses. Read the sentences and look at the advertisements. True or false? Correct the false sentences.,Le voyage à La Rochelle est à Noël.,,,,Faux. C'est à Pâques.,A1,time-dates,150
+tricolore-1-5th-edition,reading,3 Des annonces,1,true-false,Lis les phrases et consulte les annonces. Vrai ou faux? Corrige les phrases fausses. Read the sentences and look at the advertisements. True or false? Correct the false sentences.,Le voyage à La Rochelle est à Noël.,,,,faux. C'est à Pâques.,A1,time-dates,150
 tricolore-1-5th-edition,grammar,1 Les mois de l'annee,2,fill-in,Écris le mois. Write the name of the month.,"___, mai, juin",,,,,A1,time-dates,150
 tricolore-1-5th-edition,reading,2 Une annee en desordre,2,matching,Déchiffre les mots et trouve les paires. Unjumble the words and find the pairs.,al teêf sed siro,,,,,A1,time-dates,150
 tricolore-1-5th-edition,reading,3 Des annonces,2,true-false,Lis les phrases et consulte les annonces. Vrai ou faux? Corrige les phrases fausses. Read the sentences and look at the advertisements. True or false? Correct the false sentences.,Le voyage à La Rochelle est du samedi au mardi.,,,,,A1,time-dates,150
@@ -3942,30 +3942,30 @@ tricolore-1-5th-edition,listening,Exercise 2,f,fill-in,Écoute la météo et com
 tricolore-1-5th-edition,listening,Exercise 2,g,fill-in,Écoute la météo et complète la grille dans ton cahier. Listen to the weather forecast and complete the grid in your exercise book.,"Écoute la météo et complète la grille: Édimbourg, temps (g) ___.",,,,,A1,weather,152
 tricolore-1-5th-edition,listening,Exercise 2,h,fill-in,Écoute la météo et complète la grille dans ton cahier. Listen to the weather forecast and complete the grid in your exercise book.,"Écoute la météo et complète la grille: Édimbourg, température (h) ___.",,,,,A1,weather,152
 tricolore-1-5th-edition,listening,Exercise 2,i,fill-in,Écoute la météo et complète la grille dans ton cahier. Listen to the weather forecast and complete the grid in your exercise book.,"Écoute la météo et complète la grille: Édimbourg, match de … (i) ___.",,,,,A1,weather,152
-tricolore-1-5th-edition,reading,Exercise 5a,1,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie a des problèmes de famille.,,,,Vrai,A1,family,153
+tricolore-1-5th-edition,reading,Exercise 5a,1,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie a des problèmes de famille.,,,,vrai,A1,family,153
 tricolore-1-5th-edition,reading,Exercise 5b,1,fill-in,Complète le résumé. Complete the summary.,Julie a une petite ___.,,,,sœur,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 5c,1,fill-in,Dani a une petite sœur difficile. Complète les phrases. Dani has a difficult little sister. Fill in the gaps.,"(Panneau 1, Dani) Quand je ___, elle ___ mes bonbons.",,,,travaille; mange,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 6,1,open-ended,Complète les phrases. Complete the sentences.,"Quand il fait froid, je …",,,,(modèle) Je porte un pull.,A1,weather,153
 tricolore-1-5th-edition,writing,Exercise 7,1,writing-task,"Pendant tes vacances (imaginaires), le temps est très variable. Choisis deux jours différents et décris le temps et une activité. During your (imaginary) holidays, the weather is very variable. Describe the weather and a different activity for each of two days.","Pendant tes vacances (imaginaires), le temps est très variable. Choisis deux jours différents et décris le temps et une activité.",,,,(open-ended),A1,vacation,153
-tricolore-1-5th-edition,reading,Exercise 5a,2,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie est fille unique.,,,,"Faux (elle a une petite sœur, Sophie)",A1,family,153
+tricolore-1-5th-edition,reading,Exercise 5a,2,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie est fille unique.,,,,"faux (elle a une petite sœur, Sophie)",A1,family,153
 tricolore-1-5th-edition,reading,Exercise 5b,2,fill-in,Complète le résumé. Complete the summary.,___ s'appelle Sophie.,,,,Sa sœur,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 5c,2,fill-in,Dani a une petite sœur difficile. Complète les phrases. Dani has a difficult little sister. Fill in the gaps.,"(Panneau 2, Dani) Elle ___ dans ma chambre.",,,,joue,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 6,2,open-ended,Complète les phrases. Complete the sentences.,"Quand il y a du soleil, je …",,,,(open-ended),A1,weather,153
-tricolore-1-5th-edition,reading,Exercise 5a,3,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie a une petite sœur.,,,,Vrai,A1,family,153
+tricolore-1-5th-edition,reading,Exercise 5a,3,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie a une petite sœur.,,,,vrai,A1,family,153
 tricolore-1-5th-edition,reading,Exercise 5b,3,fill-in,Complète le résumé. Complete the summary.,Julie et Sophie partagent une ___ à la maison.,,,,chambre,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 5c,3,fill-in,Dani a une petite sœur difficile. Complète les phrases. Dani has a difficult little sister. Fill in the gaps.,"(Panneau 3, Dani) Elle ___ sur mon cahier.",,,,dessine,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 6,3,open-ended,Complète les phrases. Complete the sentences.,"Quand il neige, je …",,,,(open-ended),A1,weather,153
-tricolore-1-5th-edition,reading,Exercise 5a,4,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Sophie a dix-sept ans.,,,,Faux (elle a sept ans),A1,family,153
+tricolore-1-5th-edition,reading,Exercise 5a,4,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Sophie a dix-sept ans.,,,,faux (elle a sept ans),A1,family,153
 tricolore-1-5th-edition,reading,Exercise 5b,4,fill-in,Complète le résumé. Complete the summary.,Sophie porte les ___ et les ___ de Julie.,,,,pulls; chaussures,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 5c,4,fill-in,Dani a une petite sœur difficile. Complète les phrases. Dani has a difficult little sister. Fill in the gaps.,"(Panneau 4, Dani) Elle ___ la télé.",,,,,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 6,4,open-ended,Complète les phrases. Complete the sentences.,"Quand il fait chaud, mes amis …",,,,(open-ended),A1,weather,153
-tricolore-1-5th-edition,reading,Exercise 5a,5,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Sophie et Julie partagent une chambre.,,,,Vrai,A1,family,153
+tricolore-1-5th-edition,reading,Exercise 5a,5,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Sophie et Julie partagent une chambre.,,,,vrai,A1,family,153
 tricolore-1-5th-edition,reading,Exercise 5b,5,fill-in,Complète le résumé. Complete the summary.,"Quand Julie ___ de la musique, Sophie chante et elle ___.",,,,écoute; danse,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 6,5,open-ended,Complète les phrases. Complete the sentences.,"Quand il pleut, nous …",,,,(open-ended),A1,weather,153
-tricolore-1-5th-edition,reading,Exercise 5a,6,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie porte les vêtements de Sophie.,,,,Faux (c'est Sophie qui porte les vêtements de Julie),A1,family,153
+tricolore-1-5th-edition,reading,Exercise 5a,6,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie porte les vêtements de Sophie.,,,,faux (c'est Sophie qui porte les vêtements de Julie),A1,family,153
 tricolore-1-5th-edition,reading,Exercise 5b,6,fill-in,Complète le résumé. Complete the summary.,"Quand Julie ___, Sophie parle beaucoup.",,,,travaille,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 6,6,open-ended,Complète les phrases. Complete the sentences.,"Quand il fait beau, nous …",,,,(open-ended),A1,weather,153
-tricolore-1-5th-edition,reading,Exercise 5a,7,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie n'est pas contente de la situation.,,,,Vrai,A1,family,153
+tricolore-1-5th-edition,reading,Exercise 5a,7,true-false,"Lis le message, puis lis les phrases. Vrai ou faux? Read the message, then read the sentences. True or false?",Julie n'est pas contente de la situation.,,,,vrai,A1,family,153
 tricolore-1-5th-edition,reading,Exercise 5b,7,fill-in,Complète le résumé. Complete the summary.,"Quelquefois, Sophie arrive avec des amies et elles ___ dans la chambre.",,,,jouent,A1,family,153
 tricolore-1-5th-edition,writing,Exercise 1,1,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,"Visitez la jolie (1) ___ de La Rochelle, avec son vieux (2) ___ et ses trois (3) ___.",,,,ville,A1,city-places,154
 tricolore-1-5th-edition,writing,Exercise 2,1,fill-in,Complète les mots avec des voyelles et les accents. Complete the words with vowels and accents.,Complète le mot avec les voyelles et les accents: 1 une c_th_dr_l_,,,,cathédrale,A1,city-places,154
@@ -5539,7 +5539,7 @@ tricolore-2-5th-edition,reading,Exercise 7c,1,matching,Trouve les paires.,Où es
 tricolore-2-5th-edition,writing,Exercise 8,1,short-answer,Réponds avec une des expressions de la case.,Est-ce que tu aimes le melon?,,,,,A2,mixed,089
 tricolore-2-5th-edition,reading,Exercise 9a,1,matching,Trouve le bon texte pour chaque image.,Image 1: deux pêches jaunes entières côte à côte.,,,,b,A2,mixed,089
 tricolore-2-5th-edition,writing,Exercise 9b,1,writing-task,Tu as préparé la pêche Melba. Écris ce que tu as fait.,Tu as préparé la pêche Melba. Écris ce que tu as fait.,,,,(open-ended),A2,mixed,089
-tricolore-2-5th-edition,reading,Exercise 4,2,multiple-choice,Choisis le bon mot.,On (2a ont 2b as 2c a) cherché partout.,ont,as,a,a,A2,mixed,089
+tricolore-2-5th-edition,reading,Exercise 4,2,multiple-choice,Choisis le bon mot.,On (2a ont 2b as 2c a) cherché partout.,ont,as,a,ont,A2,mixed,089
 tricolore-2-5th-edition,reading,Exercise 5,2,short-answer,Regarde les pages 72–73 et trouve au moins (at least) deux boissons pour chaque catégorie (1–4).,des boissons froides et non alcoolisées (au moins deux),,,,"l'Orangina, les jus de fruit, la limonade, l'eau minérale, une menthe à l'eau, un citron pressé",A2,mixed,089
 tricolore-2-5th-edition,writing,Exercise 7a,2,ordering,Écris ces questions correctement.,[[tu as]] [[des cartes postales]] [[Est-ce que]] [[écrit]] [[?]],,,,Est-ce que tu as écrit des cartes postales?,A2,mixed,089
 tricolore-2-5th-edition,reading,Exercise 7c,2,matching,Trouve les paires.,Est-ce que tu as écrit des cartes postales?,,,,f,A2,mixed,089

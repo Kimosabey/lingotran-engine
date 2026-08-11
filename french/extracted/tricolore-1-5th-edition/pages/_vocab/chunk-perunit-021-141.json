@@ -9,7 +9,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Where do you live?"
     },
     {
       "word": "J'habite …",
@@ -18,7 +19,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "I live …"
     },
     {
       "word": "dans une maison",
@@ -27,7 +29,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in a house"
     },
     {
       "word": "dans un appartement",
@@ -36,7 +39,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in a flat"
     },
     {
       "word": "dans une ferme",
@@ -45,7 +49,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "on a farm"
     },
     {
       "word": "dans un port",
@@ -54,7 +59,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in a port"
     },
     {
       "word": "dans une ville",
@@ -63,7 +69,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in a town"
     },
     {
       "word": "dans un village",
@@ -72,7 +79,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in a village"
     },
     {
       "word": "à la maison",
@@ -81,7 +89,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "at home"
     },
     {
       "word": "à la montagne",
@@ -90,7 +99,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in the mountains"
     },
     {
       "word": "au bord de la mer",
@@ -99,7 +109,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "home",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "by the sea"
     },
     {
       "word": "à Londres",
@@ -108,7 +119,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in London"
     },
     {
       "word": "près de Paris",
@@ -117,7 +129,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "near Paris"
     },
     {
       "word": "en France",
@@ -126,7 +139,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in France"
     },
     {
       "word": "en Angleterre",
@@ -135,7 +149,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in England"
     },
     {
       "word": "en Écosse",
@@ -144,7 +159,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in Scotland"
     },
     {
       "word": "en Irlande (du Nord)",
@@ -153,7 +169,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in (Northern) Ireland"
     },
     {
       "word": "au pays de Galles",
@@ -162,7 +179,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "in Wales"
     },
     {
       "word": "Quel jour sommes-nous?",
@@ -171,7 +189,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "What day/date is it?"
     },
     {
       "word": "jours de la semaine",
@@ -180,7 +199,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "days of the week"
     },
     {
       "word": "lundi",
@@ -189,7 +209,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Monday"
     },
     {
       "word": "mardi",
@@ -198,7 +219,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Tuesday"
     },
     {
       "word": "mercredi",
@@ -207,7 +229,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Wednesday"
     },
     {
       "word": "jeudi",
@@ -216,7 +239,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Thursday"
     },
     {
       "word": "vendredi",
@@ -225,7 +249,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Friday"
     },
     {
       "word": "samedi",
@@ -234,7 +259,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Saturday"
     },
     {
       "word": "dimanche",
@@ -243,7 +269,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "Sunday"
     },
     {
       "word": "zéro",
@@ -252,7 +279,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "un",
@@ -261,7 +289,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "deux",
@@ -270,7 +299,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "trois",
@@ -279,7 +309,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "quatre",
@@ -288,7 +319,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "cinq",
@@ -297,7 +329,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "six",
@@ -306,7 +339,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "sept",
@@ -315,7 +349,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "huit",
@@ -324,7 +359,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "neuf",
@@ -333,7 +369,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "dix",
@@ -342,7 +379,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "onze",
@@ -351,7 +389,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "douze",
@@ -360,7 +399,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "treize",
@@ -369,7 +409,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "quatorze",
@@ -378,7 +419,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "quinze",
@@ -387,7 +429,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "seize",
@@ -396,7 +439,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "dix-sept",
@@ -405,7 +449,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "dix-huit",
@@ -414,7 +459,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "dix-neuf",
@@ -423,7 +469,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt",
@@ -432,7 +479,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-et-un",
@@ -441,7 +489,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-deux",
@@ -450,7 +499,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-trois",
@@ -459,7 +509,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-quatre",
@@ -468,7 +519,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-cinq",
@@ -477,7 +529,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-six",
@@ -486,7 +539,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-sept",
@@ -495,7 +549,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-huit",
@@ -504,7 +559,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "vingt-neuf",
@@ -513,7 +569,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "trente",
@@ -522,7 +579,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": ""
     },
     {
       "word": "Comment ça s'écrit?",
@@ -531,7 +589,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "How do you spell that? / How's it written?"
     },
     {
       "word": "Comment dit-on [...] en français?",
@@ -540,7 +599,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "What's the French for [...]?"
     },
     {
       "word": "Comment dit-on [...] en anglais?",
@@ -549,7 +609,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "What's the English for [...]?"
     },
     {
       "word": "Comment ça se dit?",
@@ -558,7 +619,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "How do you say this?"
     },
     {
       "word": "Comment dit-on […] en français/anglais?",
@@ -567,7 +629,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "021"
+      "source_page": "021",
+      "translation": "What's the French/English for […]?"
     },
     {
       "word": "Quelle est la date aujourd'hui?",
@@ -576,7 +639,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "What's the date today?"
     },
     {
       "word": "C'est le trente août.",
@@ -585,7 +649,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "It's the 30th of August."
     },
     {
       "word": "C'est quand, le concert/le match?",
@@ -594,7 +659,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "When is the concert/the match?"
     },
     {
       "word": "C'est le mardi premier juin.",
@@ -603,7 +669,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "It's Tuesday the first of June."
     },
     {
       "word": "C'est quand, ton anniversaire?",
@@ -612,7 +679,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "When is your birthday?"
     },
     {
       "word": "C'est le dix-neuf juillet.",
@@ -621,7 +689,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "It's the 19th of July."
     },
     {
       "word": "mois",
@@ -630,7 +699,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "the months"
     },
     {
       "word": "janvier",
@@ -639,7 +709,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "January"
     },
     {
       "word": "février",
@@ -648,7 +719,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "February"
     },
     {
       "word": "mars",
@@ -657,7 +729,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "March"
     },
     {
       "word": "avril",
@@ -666,7 +739,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "April"
     },
     {
       "word": "mai",
@@ -675,7 +749,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "May"
     },
     {
       "word": "juin",
@@ -684,7 +759,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "June"
     },
     {
       "word": "juillet",
@@ -693,7 +769,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "July"
     },
     {
       "word": "août",
@@ -702,7 +779,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "August"
     },
     {
       "word": "septembre",
@@ -711,7 +789,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "September"
     },
     {
       "word": "octobre",
@@ -720,7 +799,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "October"
     },
     {
       "word": "novembre",
@@ -729,7 +809,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "November"
     },
     {
       "word": "décembre",
@@ -738,7 +819,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "December"
     },
     {
       "word": "jour de l'An",
@@ -747,7 +829,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "New Year's Day"
     },
     {
       "word": "fête nationale",
@@ -756,7 +839,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Bastille Day (14th July)"
     },
     {
       "word": "Pâques",
@@ -765,7 +849,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Easter"
     },
     {
       "word": "Noël",
@@ -774,7 +859,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Christmas"
     },
     {
       "word": "mardi gras",
@@ -783,7 +869,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Shrove Tuesday"
     },
     {
       "word": "Bonne Année!",
@@ -792,7 +879,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Happy New Year!"
     },
     {
       "word": "Joyeuses Pâques!",
@@ -801,7 +889,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Happy Easter!"
     },
     {
       "word": "Joyeux Noël!",
@@ -810,7 +899,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Happy Christmas!"
     },
     {
       "word": "Bon anniversaire!",
@@ -819,7 +909,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Happy Birthday!"
     },
     {
       "word": "Bonne fête!",
@@ -828,7 +919,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "Best wishes on your Saint's Day!"
     },
     {
       "word": "Qu'est-ce que tu as reçu comme cadeaux?",
@@ -837,7 +929,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "What presents did you get?"
     },
     {
       "word": "J'ai reçu un tee-shirt et des chaussures.",
@@ -846,7 +939,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "I got a T-shirt and some shoes."
     },
     {
       "word": "carte cadeau",
@@ -855,7 +949,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "gift card/token"
     },
     {
       "word": "casque (audio)",
@@ -864,7 +959,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "headphones"
     },
     {
       "word": "écouteurs",
@@ -873,7 +969,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "earphones"
     },
     {
       "word": "vêtements",
@@ -882,7 +979,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "clothes"
     },
     {
       "word": "baskets",
@@ -891,7 +989,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "trainers"
     },
     {
       "word": "casquette",
@@ -900,7 +999,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "baseball cap"
     },
     {
       "word": "chaussettes",
@@ -909,7 +1009,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "socks"
     },
     {
       "word": "chaussures",
@@ -918,7 +1019,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "shoes"
     },
     {
       "word": "chemise",
@@ -927,7 +1029,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "shirt"
     },
     {
       "word": "cravate",
@@ -936,7 +1039,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "tie"
     },
     {
       "word": "jogging",
@@ -945,7 +1049,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "jogging trousers, tracksuit bottoms"
     },
     {
       "word": "jupe",
@@ -954,7 +1059,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "skirt"
     },
     {
       "word": "pantalon",
@@ -963,7 +1069,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "(pair of) trousers"
     },
     {
       "word": "pull",
@@ -972,7 +1079,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "jumper"
     },
     {
       "word": "robe",
@@ -981,7 +1089,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "dress"
     },
     {
       "word": "sandales",
@@ -990,7 +1099,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "sandals"
     },
     {
       "word": "short",
@@ -999,7 +1109,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "(pair of) shorts"
     },
     {
       "word": "sweat",
@@ -1008,7 +1119,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "sweatshirt"
     },
     {
       "word": "tee-shirt",
@@ -1017,7 +1129,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "T-shirt"
     },
     {
       "word": "tennis",
@@ -1026,7 +1139,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "shopping",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "tennis shoes, trainers"
     },
     {
       "word": "soixante-dix",
@@ -1035,7 +1149,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-et-onze",
@@ -1044,7 +1159,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-douze",
@@ -1053,7 +1169,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-treize",
@@ -1062,7 +1179,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-quatorze",
@@ -1071,7 +1189,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-quinze",
@@ -1080,7 +1199,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-seize",
@@ -1089,7 +1209,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-dix-sept",
@@ -1098,7 +1219,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-dix-huit",
@@ -1107,7 +1229,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "soixante-dix-neuf",
@@ -1116,7 +1239,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "quatre-vingts",
@@ -1125,7 +1249,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "quatre-vingt-un",
@@ -1134,7 +1259,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "quatre-vingt-deux",
@@ -1143,7 +1269,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "quatre-vingt-dix",
@@ -1152,7 +1279,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "quatre-vingt-onze",
@@ -1161,7 +1289,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "quatre-vingt-douze",
@@ -1170,7 +1299,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "cent",
@@ -1179,7 +1309,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "deux-cents",
@@ -1188,7 +1319,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "trois-cent-soixante",
@@ -1197,7 +1329,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": ""
     },
     {
       "word": "J'ai/Il a/Elle a ...",
@@ -1206,7 +1339,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "I have/He has/She has ..."
     },
     {
       "word": "les cheveux longs.",
@@ -1215,7 +1349,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "long hair."
     },
     {
       "word": "les cheveux courts.",
@@ -1224,7 +1359,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "short hair."
     },
     {
       "word": "les cheveux frisés.",
@@ -1233,7 +1369,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "curly hair."
     },
     {
       "word": "les cheveux raides.",
@@ -1242,7 +1379,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "straight hair."
     },
     {
       "word": "les cheveux noirs.",
@@ -1251,7 +1389,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "black hair."
     },
     {
       "word": "les cheveux blonds.",
@@ -1260,7 +1399,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "blonde hair."
     },
     {
       "word": "les cheveux roux.",
@@ -1269,7 +1409,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "red/ginger hair."
     },
     {
       "word": "les cheveux châtains.",
@@ -1278,7 +1419,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "brown (chestnut brown) hair."
     },
     {
       "word": "les yeux marron/verts.",
@@ -1287,7 +1429,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "brown/green eyes."
     },
     {
       "word": "les yeux bleus/gris.",
@@ -1296,7 +1439,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "blue/grey eyes."
     },
     {
       "word": "Je/Il/Elle porte des lunettes.",
@@ -1305,7 +1449,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "061"
+      "source_page": "061",
+      "translation": "I wear/He/She wears glasses."
     },
     {
       "word": "Quel temps fait-il?",
@@ -1314,7 +1459,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "What's the weather like?"
     },
     {
       "word": "Il fait beau.",
@@ -1323,7 +1469,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's fine."
     },
     {
       "word": "chaud",
@@ -1332,7 +1479,8 @@
       "word_class": "adjective",
       "example": "Il fait chaud.",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's hot."
     },
     {
       "word": "froid",
@@ -1341,7 +1489,8 @@
       "word_class": "adjective",
       "example": "Il fait froid.",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's cold."
     },
     {
       "word": "mauvais",
@@ -1350,7 +1499,8 @@
       "word_class": "adjective",
       "example": "Il fait mauvais.",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "The weather's bad."
     },
     {
       "word": "Il pleut.",
@@ -1359,7 +1509,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's raining."
     },
     {
       "word": "Il neige.",
@@ -1368,7 +1519,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's snowing."
     },
     {
       "word": "brouillard",
@@ -1377,7 +1529,8 @@
       "word_class": "noun",
       "example": "Il y a du brouillard.",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's foggy."
     },
     {
       "word": "soleil",
@@ -1386,7 +1539,8 @@
       "word_class": "noun",
       "example": "Il y a du soleil.",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's sunny."
     },
     {
       "word": "vent",
@@ -1395,7 +1549,8 @@
       "word_class": "noun",
       "example": "Il y a du vent.",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "It's windy."
     },
     {
       "word": "printemps",
@@ -1404,7 +1559,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "spring"
     },
     {
       "word": "au printemps",
@@ -1413,7 +1569,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "in spring"
     },
     {
       "word": "été (m)",
@@ -1422,7 +1579,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "summer"
     },
     {
       "word": "en été",
@@ -1431,7 +1589,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "in summer"
     },
     {
       "word": "automne (m)",
@@ -1440,7 +1599,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "autumn"
     },
     {
       "word": "en automne",
@@ -1449,7 +1609,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "in autumn"
     },
     {
       "word": "hiver (m)",
@@ -1458,7 +1619,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "winter"
     },
     {
       "word": "en hiver",
@@ -1467,7 +1629,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "weather",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "in winter"
     },
     {
       "word": "adorer",
@@ -1476,7 +1639,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to love, adore"
     },
     {
       "word": "aimer",
@@ -1485,7 +1649,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to like, love"
     },
     {
       "word": "arriver",
@@ -1494,7 +1659,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to arrive"
     },
     {
       "word": "chercher",
@@ -1503,7 +1669,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to look for"
     },
     {
       "word": "cliquer",
@@ -1512,7 +1679,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to click"
     },
     {
       "word": "détester",
@@ -1521,7 +1689,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to hate"
     },
     {
       "word": "écouter",
@@ -1530,7 +1699,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to listen to"
     },
     {
       "word": "entrer",
@@ -1539,7 +1709,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to enter"
     },
     {
       "word": "habiter",
@@ -1548,7 +1719,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to live in"
     },
     {
       "word": "jouer",
@@ -1557,7 +1729,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to play"
     },
     {
       "word": "penser",
@@ -1566,7 +1739,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to think"
     },
     {
       "word": "regarder",
@@ -1575,7 +1749,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to watch, look at"
     },
     {
       "word": "rentrer",
@@ -1584,7 +1759,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to come back"
     },
     {
       "word": "rester",
@@ -1593,7 +1769,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to stay"
     },
     {
       "word": "surfer",
@@ -1602,7 +1779,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to surf"
     },
     {
       "word": "taper",
@@ -1611,7 +1789,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to type"
     },
     {
       "word": "téléphoner",
@@ -1620,7 +1799,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to phone"
     },
     {
       "word": "travailler",
@@ -1629,7 +1809,8 @@
       "word_class": "verb",
       "example": "",
       "topic": "mixed",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "to work"
     },
     {
       "word": "normalement",
@@ -1638,7 +1819,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "usually"
     },
     {
       "word": "quelquefois",
@@ -1647,7 +1829,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "sometimes"
     },
     {
       "word": "souvent",
@@ -1656,7 +1839,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "often"
     },
     {
       "word": "Je joue au badminton.",
@@ -1665,7 +1849,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I play badminton."
     },
     {
       "word": "basket",
@@ -1674,7 +1859,8 @@
       "word_class": "noun",
       "example": "Je joue au basket.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "basketball."
     },
     {
       "word": "foot(ball)",
@@ -1683,7 +1869,8 @@
       "word_class": "noun",
       "example": "Je joue au foot(ball).",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "football."
     },
     {
       "word": "golf",
@@ -1692,7 +1879,8 @@
       "word_class": "noun",
       "example": "Je joue au golf.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "golf."
     },
     {
       "word": "hockey",
@@ -1701,7 +1889,8 @@
       "word_class": "noun",
       "example": "Je joue au hockey.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "hockey."
     },
     {
       "word": "rugby",
@@ -1710,7 +1899,8 @@
       "word_class": "noun",
       "example": "Je joue au rugby.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "rugby."
     },
     {
       "word": "tennis",
@@ -1719,7 +1909,8 @@
       "word_class": "noun",
       "example": "Je joue au tennis.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "tennis."
     },
     {
       "word": "tennis de table",
@@ -1728,7 +1919,8 @@
       "word_class": "noun",
       "example": "Je joue au tennis de table.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "table tennis."
     },
     {
       "word": "volley",
@@ -1737,7 +1929,8 @@
       "word_class": "noun",
       "example": "Je joue au volley.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "volleyball."
     },
     {
       "word": "Qu'est-ce que tu fais?",
@@ -1746,7 +1939,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "What are you doing?"
     },
     {
       "word": "Qu'est-ce que tu fais le weekend?",
@@ -1755,7 +1949,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "What do you do at weekends?"
     },
     {
       "word": "Qu'est-ce que tu fais quand il fait mauvais?",
@@ -1764,7 +1959,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "What do you do when the weather's bad?"
     },
     {
       "word": "Je reste à la maison.",
@@ -1773,7 +1969,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I stay at home."
     },
     {
       "word": "Je regarde un film.",
@@ -1782,7 +1979,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I watch a film."
     },
     {
       "word": "télé",
@@ -1791,7 +1989,8 @@
       "word_class": "noun",
       "example": "Je regarde la télé.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "TV."
     },
     {
       "word": "J'écoute de la musique.",
@@ -1800,7 +1999,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I listen to music."
     },
     {
       "word": "radio",
@@ -1809,7 +2009,8 @@
       "word_class": "noun",
       "example": "J'écoute la radio.",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "the radio."
     },
     {
       "word": "Je chante.",
@@ -1818,7 +2019,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I sing."
     },
     {
       "word": "Je danse.",
@@ -1827,7 +2029,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I dance."
     },
     {
       "word": "Je dessine.",
@@ -1836,7 +2039,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I draw."
     },
     {
       "word": "Je range ma chambre.",
@@ -1845,7 +2049,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I tidy up my room."
     },
     {
       "word": "Je joue sur la console de jeux.",
@@ -1854,7 +2059,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I use the playstation."
     },
     {
       "word": "Je travaille.",
@@ -1863,7 +2069,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I work."
     },
     {
       "word": "Je joue/travaille sur l'ordinateur.",
@@ -1872,7 +2079,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I play/work on the computer."
     },
     {
       "word": "Je surfe sur Internet.",
@@ -1881,7 +2089,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I surf the Internet."
     },
     {
       "word": "Je regarde mes e-mails/textos/messages",
@@ -1890,7 +2099,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I look at my emails/texts/messages"
     },
     {
       "word": "J'écris des textos/messages.",
@@ -1899,7 +2109,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I write some texts/messages."
     },
     {
       "word": "Je téléphone à un(e) ami(e).",
@@ -1908,7 +2119,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I phone a friend."
     },
     {
       "word": "Je retrouve mes amis.",
@@ -1917,7 +2129,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I meet up with my friends."
     },
     {
       "word": "Je discute avec mes amis.",
@@ -1926,7 +2139,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "I chat with my friends."
     },
     {
       "word": "On joue à des jeux vidéo.",
@@ -1935,7 +2149,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "We play computer games."
     },
     {
       "word": "On joue aux cartes.",
@@ -1944,7 +2159,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "We play cards."
     },
     {
       "word": "Amitiés",
@@ -1953,7 +2169,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "communication",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "Best wishes"
     },
     {
       "word": "Ton ami(e)",
@@ -1962,7 +2179,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "Your friend"
     },
     {
       "word": "À bientôt",
@@ -1971,7 +2189,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "communication",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "See you soon"
     },
     {
       "word": "@+ (textspeak for À plus tard)",
@@ -1980,7 +2199,8 @@
       "word_class": "other",
       "example": "",
       "topic": "communication",
-      "source_page": "077"
+      "source_page": "077",
+      "translation": "See you later"
     },
     {
       "word": "aquarium",
@@ -1989,7 +2209,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "aquarium"
     },
     {
       "word": "auberge de jeunesse",
@@ -1998,7 +2219,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "youth hostel"
     },
     {
       "word": "banque",
@@ -2007,7 +2229,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "bank"
     },
     {
       "word": "bibliothèque",
@@ -2016,7 +2239,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "library"
     },
     {
       "word": "bowling",
@@ -2025,7 +2249,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "bowling alley"
     },
     {
       "word": "camping",
@@ -2034,7 +2259,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "campsite"
     },
     {
       "word": "centre commercial",
@@ -2043,7 +2269,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "shopping centre"
     },
     {
       "word": "centre sportif",
@@ -2052,7 +2279,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "sports centre"
     },
     {
       "word": "château",
@@ -2061,7 +2289,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "castle"
     },
     {
       "word": "gare",
@@ -2070,7 +2299,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "station"
     },
     {
       "word": "Grosse-Horloge",
@@ -2079,7 +2309,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "the big clock tower (in La Rochelle)"
     },
     {
       "word": "hôpital",
@@ -2088,7 +2319,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "hospital"
     },
     {
       "word": "hôtel",
@@ -2097,7 +2329,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "hotel"
     },
     {
       "word": "hôtel de ville",
@@ -2106,7 +2339,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "town hall"
     },
     {
       "word": "magasin",
@@ -2115,7 +2349,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "shop"
     },
     {
       "word": "marché",
@@ -2124,7 +2359,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "market"
     },
     {
       "word": "musée",
@@ -2133,7 +2369,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "museum"
     },
     {
       "word": "office de tourisme",
@@ -2142,7 +2379,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "tourist office"
     },
     {
       "word": "parc",
@@ -2151,7 +2389,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "park"
     },
     {
       "word": "parking",
@@ -2160,7 +2399,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "car park"
     },
     {
       "word": "patinoire",
@@ -2169,7 +2409,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "skating rink"
     },
     {
       "word": "piscine",
@@ -2178,7 +2419,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "swimming pool"
     },
     {
       "word": "place",
@@ -2187,7 +2429,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "square"
     },
     {
       "word": "poste",
@@ -2196,7 +2439,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "post office"
     },
     {
       "word": "restaurant",
@@ -2205,7 +2449,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "restaurant"
     },
     {
       "word": "terrain de football",
@@ -2214,7 +2459,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "football pitch"
     },
     {
       "word": "théâtre",
@@ -2223,7 +2469,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "theatre"
     },
     {
       "word": "tour",
@@ -2232,7 +2479,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "tower"
     },
     {
       "word": "bâtiments religieux",
@@ -2241,7 +2489,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "religious buildings"
     },
     {
       "word": "cathédrale",
@@ -2250,7 +2499,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "cathedral"
     },
     {
       "word": "église",
@@ -2259,7 +2509,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "church"
     },
     {
       "word": "mosquée",
@@ -2268,7 +2519,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "mosque"
     },
     {
       "word": "synagogue",
@@ -2277,7 +2529,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "synagogue"
     },
     {
       "word": "temple",
@@ -2286,7 +2539,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "temple"
     },
     {
       "word": "Pardon, monsieur/madame.",
@@ -2295,7 +2549,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "Excuse me, sir/madam."
     },
     {
       "word": "Pour aller au centre-ville, s'il vous plaît?",
@@ -2304,7 +2559,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "How do you get to the town centre, please?"
     },
     {
       "word": "Est-ce qu'il y a un café près d'ici?",
@@ -2313,7 +2569,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "Is there a café near here?"
     },
     {
       "word": "C'est loin?",
@@ -2322,7 +2579,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "Is it far?"
     },
     {
       "word": "à gauche",
@@ -2331,7 +2589,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "on the left"
     },
     {
       "word": "à droite",
@@ -2340,7 +2599,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "on the right"
     },
     {
       "word": "tout droit",
@@ -2349,7 +2609,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "straight on"
     },
     {
       "word": "Prenez la première (1ère) rue à gauche.",
@@ -2358,7 +2619,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "Take the first road on the left."
     },
     {
       "word": "Tournez à droite.",
@@ -2367,7 +2629,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "Turn to the right."
     },
     {
       "word": "Continuez tout droit.",
@@ -2376,7 +2639,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "Continue straight on."
     },
     {
       "word": "C'est tout près.",
@@ -2385,7 +2649,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's very near."
     },
     {
       "word": "C'est loin.",
@@ -2394,7 +2659,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's a long way."
     },
     {
       "word": "C'est assez loin.",
@@ -2403,7 +2669,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's quite a long way away."
     },
     {
       "word": "Ce n'est pas loin.",
@@ -2412,7 +2679,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's not far."
     },
     {
       "word": "C'est à 50 mètres.",
@@ -2421,7 +2689,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's 50 metres away."
     },
     {
       "word": "C'est devant l'église.",
@@ -2430,7 +2699,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's in front of the church."
     },
     {
       "word": "C'est derrière l'église.",
@@ -2439,7 +2709,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's behind the church."
     },
     {
       "word": "C'est entre le cinéma et le café.",
@@ -2448,7 +2719,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's between the cinema and the café."
     },
     {
       "word": "C'est à côté du cinéma.",
@@ -2457,7 +2729,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's next to the cinema."
     },
     {
       "word": "C'est à côté de la poste.",
@@ -2466,7 +2739,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "city-places",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "It's next to the post office."
     },
     {
       "word": "Je vais à Paris.",
@@ -2475,7 +2749,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "I'm going to Paris."
     },
     {
       "word": "Tu vas au parc?",
@@ -2484,7 +2759,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "Are you going to the park?"
     },
     {
       "word": "Il va à la gare.",
@@ -2493,7 +2769,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "He's going to the station."
     },
     {
       "word": "Nous allons à l'hôpital.",
@@ -2502,7 +2779,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "We're going to the hospital."
     },
     {
       "word": "Ils vont aux magasins.",
@@ -2511,7 +2789,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "travel",
-      "source_page": "093"
+      "source_page": "093",
+      "translation": "They are going to the shops."
     },
     {
       "word": "Quelle heure est-il?",
@@ -2520,7 +2799,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "What's the time?"
     },
     {
       "word": "... moins cinq",
@@ -2529,7 +2809,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... cinq",
@@ -2538,7 +2819,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... moins dix",
@@ -2547,7 +2829,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... dix",
@@ -2556,7 +2839,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... moins le quart",
@@ -2565,7 +2849,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... et quart",
@@ -2574,7 +2859,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... moins vingt",
@@ -2583,7 +2869,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... vingt",
@@ -2592,7 +2879,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... moins vingt-cinq",
@@ -2601,7 +2889,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... vingt-cinq",
@@ -2610,7 +2899,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "... et demie",
@@ -2619,7 +2909,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "Il est midi.",
@@ -2628,7 +2919,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "Il est minuit.",
@@ -2637,7 +2929,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "Il est midi et demi.",
@@ -2646,7 +2939,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "Il est minuit et demi.",
@@ -2655,7 +2949,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": ""
     },
     {
       "word": "matin",
@@ -2664,7 +2959,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "in the morning"
     },
     {
       "word": "après-midi",
@@ -2673,7 +2969,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "in the afternoon"
     },
     {
       "word": "soir",
@@ -2682,7 +2979,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "in the evening"
     },
     {
       "word": "nuit",
@@ -2691,7 +2989,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "at night"
     },
     {
       "word": "journée typique",
@@ -2700,7 +2999,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "a typical day"
     },
     {
       "word": "Le matin, je prends mon petit déjeuner à ...",
@@ -2709,7 +3009,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "In the morning, I have breakfast at ..."
     },
     {
       "word": "J'arrive au collège à ...",
@@ -2718,7 +3019,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I arrive at school at ..."
     },
     {
       "word": "Les cours commencent à ...",
@@ -2727,7 +3029,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "Lessons start at ..."
     },
     {
       "word": "À midi, ...",
@@ -2736,7 +3039,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "At midday, ..."
     },
     {
       "word": "je mange à la cantine.",
@@ -2745,7 +3049,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I eat in the canteen."
     },
     {
       "word": "je mange des sandwichs.",
@@ -2754,7 +3059,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I eat sandwiches."
     },
     {
       "word": "Je rentre à la maison à ...",
@@ -2763,7 +3069,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I get home at ..."
     },
     {
       "word": "Je commence mes devoirs à ...",
@@ -2772,7 +3079,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I start my homework at ..."
     },
     {
       "word": "Le soir, on mange à ...",
@@ -2781,7 +3089,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "In the evening, we eat at ..."
     },
     {
       "word": "Je vais au lit à ... / Je me couche à ...",
@@ -2790,7 +3099,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I go to bed at ..."
     },
     {
       "word": "repas",
@@ -2799,7 +3109,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "a meal"
     },
     {
       "word": "petit déjeuner",
@@ -2808,7 +3119,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "breakfast"
     },
     {
       "word": "déjeuner",
@@ -2817,7 +3129,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "lunch"
     },
     {
       "word": "goûter",
@@ -2826,7 +3139,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "afternoon snack"
     },
     {
       "word": "dîner",
@@ -2835,7 +3149,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "dinner (evening meal)"
     },
     {
       "word": "pourquoi",
@@ -2844,7 +3159,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "why"
     },
     {
       "word": "parce que",
@@ -2853,7 +3169,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "because"
     },
     {
       "word": "Je me lève ...",
@@ -2862,7 +3179,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I get up ('I get myself up') ..."
     },
     {
       "word": "Je me couche ...",
@@ -2871,7 +3189,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I go to bed ('I lay myself down') ..."
     },
     {
       "word": "Je m'appelle ...",
@@ -2880,7 +3199,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "personal-info",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "I'm called ('I call myself') ..."
     },
     {
       "word": "allemand (m)",
@@ -2889,7 +3209,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "German"
     },
     {
       "word": "anglais",
@@ -2898,7 +3219,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "English"
     },
     {
       "word": "dessin",
@@ -2907,7 +3229,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "art"
     },
     {
       "word": "EPS (éducation physique et sportive) (f)",
@@ -2916,7 +3239,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "PE"
     },
     {
       "word": "éducation civique (f)",
@@ -2925,7 +3249,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "citizenship"
     },
     {
       "word": "espagnol (m)",
@@ -2934,7 +3259,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "Spanish"
     },
     {
       "word": "français",
@@ -2943,7 +3269,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "French"
     },
     {
       "word": "géographie",
@@ -2952,7 +3279,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "geography"
     },
     {
       "word": "histoire (f)",
@@ -2961,7 +3289,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "history"
     },
     {
       "word": "informatique (f)",
@@ -2970,7 +3299,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "ICT"
     },
     {
       "word": "maths",
@@ -2979,7 +3309,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "maths"
     },
     {
       "word": "musique",
@@ -2988,7 +3319,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "music"
     },
     {
       "word": "sciences",
@@ -2997,7 +3329,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "science"
     },
     {
       "word": "SVT (Sciences de la Vie et de la Terre)",
@@ -3006,7 +3339,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "natural sciences"
     },
     {
       "word": "sport",
@@ -3015,7 +3349,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "sport"
     },
     {
       "word": "technologie",
@@ -3024,7 +3359,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "technology"
     },
     {
       "word": "C'est ...",
@@ -3033,7 +3369,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "It's ..."
     },
     {
       "word": "amusant",
@@ -3042,7 +3379,8 @@
       "word_class": "adjective",
       "example": "C'est amusant.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "fun"
     },
     {
       "word": "difficile",
@@ -3051,7 +3389,8 @@
       "word_class": "adjective",
       "example": "C'est difficile.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "difficult"
     },
     {
       "word": "ennuyeux",
@@ -3060,7 +3399,8 @@
       "word_class": "adjective",
       "example": "C'est ennuyeux.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "boring"
     },
     {
       "word": "facile",
@@ -3069,7 +3409,8 @@
       "word_class": "adjective",
       "example": "C'est facile.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "easy"
     },
     {
       "word": "génial",
@@ -3078,7 +3419,8 @@
       "word_class": "adjective",
       "example": "C'est génial.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "brilliant"
     },
     {
       "word": "intéressant",
@@ -3087,7 +3429,8 @@
       "word_class": "adjective",
       "example": "C'est intéressant.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "interesting"
     },
     {
       "word": "nul",
@@ -3096,7 +3439,8 @@
       "word_class": "adjective",
       "example": "C'est nul.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "useless, rubbish"
     },
     {
       "word": "super",
@@ -3105,7 +3449,8 @@
       "word_class": "adjective",
       "example": "C'est super.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "great"
     },
     {
       "word": "sympa",
@@ -3114,7 +3459,8 @@
       "word_class": "adjective",
       "example": "C'est sympa.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "nice, good"
     },
     {
       "word": "utile",
@@ -3123,7 +3469,8 @@
       "word_class": "adjective",
       "example": "C'est utile.",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "useful"
     },
     {
       "word": "très",
@@ -3132,7 +3479,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "very"
     },
     {
       "word": "assez",
@@ -3141,7 +3489,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "quite"
     },
     {
       "word": "un peu",
@@ -3150,7 +3499,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "a bit"
     },
     {
       "word": "vraiment",
@@ -3159,7 +3509,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "really"
     },
     {
       "word": "son, sa, ses",
@@ -3168,7 +3519,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "his, her, its (see page 103)"
     },
     {
       "word": "notre, nos",
@@ -3177,7 +3529,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "our (see page 104)"
     },
     {
       "word": "votre, vos",
@@ -3186,7 +3539,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "your (see page 104)"
     },
     {
       "word": "leur, leurs",
@@ -3195,7 +3549,8 @@
       "word_class": "other",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "their (see page 105)"
     },
     {
       "word": "son anniversaire",
@@ -3204,7 +3559,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "family",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "his/her/its birthday"
     },
     {
       "word": "sa matière préférée",
@@ -3213,7 +3569,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "school",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "his/her favourite subject"
     },
     {
       "word": "ses affaires",
@@ -3222,7 +3579,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "none",
-      "source_page": "111"
+      "source_page": "111",
+      "translation": "his/her/its things"
     },
     {
       "word": "repas",
@@ -3231,7 +3589,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "a meal"
     },
     {
       "word": "hors-d'œuvre",
@@ -3240,7 +3599,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "starter"
     },
     {
       "word": "plat principal",
@@ -3249,7 +3609,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "main course"
     },
     {
       "word": "fromage",
@@ -3258,7 +3619,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "cheese"
     },
     {
       "word": "jambon",
@@ -3267,7 +3629,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "ham"
     },
     {
       "word": "omelette (f)",
@@ -3276,7 +3639,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "omelette"
     },
     {
       "word": "pâté",
@@ -3285,7 +3649,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "pâté"
     },
     {
       "word": "pizza",
@@ -3294,7 +3659,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "pizza"
     },
     {
       "word": "poisson",
@@ -3303,7 +3669,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "fish"
     },
     {
       "word": "potage",
@@ -3312,7 +3679,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "soup"
     },
     {
       "word": "poulet",
@@ -3321,7 +3689,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "chicken"
     },
     {
       "word": "riz",
@@ -3330,7 +3699,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "rice"
     },
     {
       "word": "viande",
@@ -3339,7 +3709,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "meat"
     },
     {
       "word": "légumes",
@@ -3348,7 +3719,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "vegetables"
     },
     {
       "word": "brocolis",
@@ -3357,7 +3729,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "broccoli"
     },
     {
       "word": "carottes",
@@ -3366,7 +3739,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "carrots"
     },
     {
       "word": "chou",
@@ -3375,7 +3749,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "a cabbage"
     },
     {
       "word": "chou-fleur",
@@ -3384,7 +3759,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "a cauliflower"
     },
     {
       "word": "frites",
@@ -3393,7 +3769,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "chips"
     },
     {
       "word": "chips",
@@ -3402,7 +3779,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "crisps"
     },
     {
       "word": "haricots verts",
@@ -3411,7 +3789,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "French beans"
     },
     {
       "word": "oignon",
@@ -3420,7 +3799,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "an onion"
     },
     {
       "word": "petits pois",
@@ -3429,7 +3809,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "peas"
     },
     {
       "word": "pommes de terre",
@@ -3438,7 +3819,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "potatoes"
     },
     {
       "word": "salade",
@@ -3447,7 +3829,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "lettuce/salad"
     },
     {
       "word": "tomate",
@@ -3456,7 +3839,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "tomato"
     },
     {
       "word": "fruits",
@@ -3465,7 +3849,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "fruit"
     },
     {
       "word": "ananas",
@@ -3474,7 +3859,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "pineapple"
     },
     {
       "word": "banane",
@@ -3483,7 +3869,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "banana"
     },
     {
       "word": "fraise",
@@ -3492,7 +3879,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "strawberry"
     },
     {
       "word": "framboise",
@@ -3501,7 +3889,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "raspberry"
     },
     {
       "word": "melon",
@@ -3510,7 +3899,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "melon"
     },
     {
       "word": "orange",
@@ -3519,7 +3909,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "orange"
     },
     {
       "word": "pêche",
@@ -3528,7 +3919,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "peach"
     },
     {
       "word": "poire",
@@ -3537,7 +3929,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "pear"
     },
     {
       "word": "pomme",
@@ -3546,7 +3939,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "apple"
     },
     {
       "word": "raisins",
@@ -3555,7 +3949,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "grapes"
     },
     {
       "word": "desserts",
@@ -3564,7 +3959,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "desserts/sweets"
     },
     {
       "word": "gâteau",
@@ -3573,7 +3969,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "cake"
     },
     {
       "word": "glace",
@@ -3582,7 +3979,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "ice cream"
     },
     {
       "word": "tarte aux pommes",
@@ -3591,7 +3989,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "apple tart"
     },
     {
       "word": "yaourt",
@@ -3600,7 +3999,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "yoghurt"
     },
     {
       "word": "Oui, s'il vous plaît.",
@@ -3609,7 +4009,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "Yes, please."
     },
     {
       "word": "Oui, je veux bien.",
@@ -3618,7 +4019,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "Yes, I would like some."
     },
     {
       "word": "Non, merci.",
@@ -3627,7 +4029,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "No, thank you."
     },
     {
       "word": "C'est (très) bon/délicieux.",
@@ -3636,7 +4039,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "It's (very) nice/delicious."
     },
     {
       "word": "Encore du/de la/de l'/des … ?",
@@ -3645,7 +4049,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "Some more … ?"
     },
     {
       "word": "Merci, j'ai assez mangé.",
@@ -3654,7 +4059,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "No thank you, I've had enough."
     },
     {
       "word": "boissons froides",
@@ -3663,7 +4069,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "cold drinks"
     },
     {
       "word": "coca",
@@ -3672,7 +4079,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "cola"
     },
     {
       "word": "eau (minérale) (f)",
@@ -3681,7 +4089,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "(mineral) water"
     },
     {
       "word": "limonade",
@@ -3690,7 +4099,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "lemonade"
     },
     {
       "word": "jus de fruit",
@@ -3699,7 +4109,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "fruit juice"
     },
     {
       "word": "lait",
@@ -3708,7 +4119,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "milk"
     },
     {
       "word": "vin rouge/blanc",
@@ -3717,7 +4129,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "red/white wine"
     },
     {
       "word": "boissons chaudes",
@@ -3726,7 +4139,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "hot drinks"
     },
     {
       "word": "café",
@@ -3735,7 +4149,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "coffee"
     },
     {
       "word": "thé",
@@ -3744,7 +4159,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "tea"
     },
     {
       "word": "chocolat chaud",
@@ -3753,7 +4169,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "hot chocolate"
     },
     {
       "word": "croissants",
@@ -3762,7 +4179,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "croissants"
     },
     {
       "word": "beurre",
@@ -3771,7 +4189,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "butter"
     },
     {
       "word": "céréales",
@@ -3780,7 +4199,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "cereal"
     },
     {
       "word": "confiture",
@@ -3789,7 +4209,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "jam"
     },
     {
       "word": "confiture d'oranges",
@@ -3798,7 +4219,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "marmalade"
     },
     {
       "word": "œuf (à la coque)",
@@ -3807,7 +4229,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "(boiled) egg"
     },
     {
       "word": "œufs au bacon",
@@ -3816,7 +4239,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "bacon and egg"
     },
     {
       "word": "pain",
@@ -3825,7 +4249,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "bread"
     },
     {
       "word": "sucre",
@@ -3834,7 +4259,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "sugar"
     },
     {
       "word": "tartines",
@@ -3843,7 +4269,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "bread and butter"
     },
     {
       "word": "toasts",
@@ -3852,7 +4279,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "toast"
     },
     {
       "word": "pain grillé",
@@ -3861,7 +4289,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "toast"
     },
     {
       "word": "croustillant",
@@ -3870,7 +4299,8 @@
       "word_class": "adjective",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "crusty"
     },
     {
       "word": "J'aime (beaucoup) le/la/les …",
@@ -3879,7 +4309,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "I (really) like …"
     },
     {
       "word": "Désolé(e), mais je n'aime pas beaucoup ça.",
@@ -3888,7 +4319,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "food",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "I'm sorry but I don't like that much."
     },
     {
       "word": "bon pour la santé",
@@ -3897,7 +4329,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "health",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "good for your health"
     },
     {
       "word": "bonbons",
@@ -3906,7 +4339,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "health",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "sweets"
     },
     {
       "word": "sel",
@@ -3915,7 +4349,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "health",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "salt"
     },
     {
       "word": "sucreries",
@@ -3924,7 +4359,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "health",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "sweet things"
     },
     {
       "word": "surtout",
@@ -3933,7 +4369,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "health",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "especially"
     },
     {
       "word": "un peu",
@@ -3942,7 +4379,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "health",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "a little"
     },
     {
       "word": "pas trop",
@@ -3951,7 +4389,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "health",
-      "source_page": "125"
+      "source_page": "125",
+      "translation": "not too much"
     },
     {
       "word": "Est-ce que tu aimes le sport?",
@@ -3960,7 +4399,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "Do you like sport?"
     },
     {
       "word": "du cyclisme/du vélo.",
@@ -3969,7 +4409,8 @@
       "word_class": "phrase",
       "example": "Je fais du cyclisme/du vélo.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go cycling."
     },
     {
       "word": "du roller.",
@@ -3978,7 +4419,8 @@
       "word_class": "phrase",
       "example": "Je fais du roller.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go roller blading."
     },
     {
       "word": "du skate.",
@@ -3987,7 +4429,8 @@
       "word_class": "phrase",
       "example": "Je fais du skate.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go skate-boarding."
     },
     {
       "word": "du ski.",
@@ -3996,7 +4439,8 @@
       "word_class": "phrase",
       "example": "Je fais du ski.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go skiing."
     },
     {
       "word": "du VTT.",
@@ -4005,7 +4449,8 @@
       "word_class": "phrase",
       "example": "Je fais du VTT.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go mountain-biking."
     },
     {
       "word": "de la danse",
@@ -4014,7 +4459,8 @@
       "word_class": "phrase",
       "example": "Je fais de la danse.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go dancing."
     },
     {
       "word": "de la gymnastique.",
@@ -4023,7 +4469,8 @@
       "word_class": "phrase",
       "example": "Je fais de la gymnastique.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "do gymnastics."
     },
     {
       "word": "de la natation.",
@@ -4032,7 +4479,8 @@
       "word_class": "phrase",
       "example": "Je fais de la natation.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go swimming."
     },
     {
       "word": "de la planche à voile.",
@@ -4041,7 +4489,8 @@
       "word_class": "phrase",
       "example": "Je fais de la planche à voile.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go wind-surfing."
     },
     {
       "word": "de la voile.",
@@ -4050,7 +4499,8 @@
       "word_class": "phrase",
       "example": "Je fais de la voile.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go sailing."
     },
     {
       "word": "de l'équitation.",
@@ -4059,7 +4509,8 @@
       "word_class": "phrase",
       "example": "Je fais de l'équitation.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go horse-riding."
     },
     {
       "word": "des promenades.",
@@ -4068,7 +4519,8 @@
       "word_class": "phrase",
       "example": "Je fais des promenades.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "go walking."
     },
     {
       "word": "au basket.",
@@ -4077,7 +4529,8 @@
       "word_class": "phrase",
       "example": "Je joue au basket.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "basketball."
     },
     {
       "word": "au volley.",
@@ -4086,7 +4539,8 @@
       "word_class": "phrase",
       "example": "Je joue au volley.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "volleyball."
     },
     {
       "word": "Est-ce que tu aimes la musique?",
@@ -4095,7 +4549,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "Do you like music?"
     },
     {
       "word": "du clavier.",
@@ -4104,7 +4559,8 @@
       "word_class": "phrase",
       "example": "Je joue du clavier.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "the keyboard."
     },
     {
       "word": "du piano.",
@@ -4113,7 +4569,8 @@
       "word_class": "phrase",
       "example": "Je joue du piano.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "the piano."
     },
     {
       "word": "du violon.",
@@ -4122,7 +4579,8 @@
       "word_class": "phrase",
       "example": "Je joue du violon.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "the violin."
     },
     {
       "word": "de la batterie.",
@@ -4131,7 +4589,8 @@
       "word_class": "phrase",
       "example": "Je joue de la batterie.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "the drums."
     },
     {
       "word": "de la flûte.",
@@ -4140,7 +4599,8 @@
       "word_class": "phrase",
       "example": "Je joue de la flûte.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "the flute."
     },
     {
       "word": "de la guitare.",
@@ -4149,7 +4609,8 @@
       "word_class": "phrase",
       "example": "Je joue de la guitare.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "the guitar."
     },
     {
       "word": "J'aime la musique, mais je ne joue pas d'un instrument.",
@@ -4158,7 +4619,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "I like music, but I don't play an instrument."
     },
     {
       "word": "Est-ce que tu fais autre chose?",
@@ -4167,7 +4629,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "Do you do anything else?"
     },
     {
       "word": "du dessin.",
@@ -4176,7 +4639,8 @@
       "word_class": "phrase",
       "example": "Je fais du dessin.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "draw."
     },
     {
       "word": "de la peinture.",
@@ -4185,7 +4649,8 @@
       "word_class": "phrase",
       "example": "Je fais de la peinture.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "paint."
     },
     {
       "word": "du théâtre.",
@@ -4194,7 +4659,8 @@
       "word_class": "phrase",
       "example": "Je fais du théâtre.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "do drama."
     },
     {
       "word": "de la photo.",
@@ -4203,7 +4669,8 @@
       "word_class": "phrase",
       "example": "Je fais de la photo.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "take photos."
     },
     {
       "word": "sur l'ordinateur.",
@@ -4212,7 +4679,8 @@
       "word_class": "phrase",
       "example": "Je joue sur l'ordinateur.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "on the computer."
     },
     {
       "word": "à des jeux vidéo.",
@@ -4221,7 +4689,8 @@
       "word_class": "phrase",
       "example": "Je joue à des jeux vidéo.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "computer games."
     },
     {
       "word": "aux cartes.",
@@ -4230,7 +4699,8 @@
       "word_class": "phrase",
       "example": "Je joue aux cartes.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "cards."
     },
     {
       "word": "aux échecs.",
@@ -4239,7 +4709,8 @@
       "word_class": "phrase",
       "example": "Je joue aux échecs.",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "chess."
     },
     {
       "word": "J'aime lire.",
@@ -4248,7 +4719,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "I like reading."
     },
     {
       "word": "samedi dernier",
@@ -4257,7 +4729,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "last Saturday"
     },
     {
       "word": "le weekend dernier",
@@ -4266,7 +4739,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "last weekend"
     },
     {
       "word": "la semaine dernière",
@@ -4275,7 +4749,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "last week"
     },
     {
       "word": "vingt-quatre heures/zéro heure",
@@ -4284,7 +4759,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "treize heures",
@@ -4293,7 +4769,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "quatorze heures",
@@ -4302,7 +4779,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "quinze heures",
@@ -4311,7 +4789,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "seize heures",
@@ -4320,7 +4799,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "dix-sept heures",
@@ -4329,7 +4809,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "dix-huit heures",
@@ -4338,7 +4819,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "dix-neuf heures",
@@ -4347,7 +4829,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "vingt heures",
@@ -4356,7 +4839,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "vingt-et-une heures",
@@ -4365,7 +4849,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "vingt-deux heures",
@@ -4374,7 +4859,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "vingt-trois heures",
@@ -4383,7 +4869,8 @@
       "word_class": "other",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": ""
     },
     {
       "word": "parc d'attractions",
@@ -4392,7 +4879,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "vacation",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "theme park"
     },
     {
       "word": "C'est situé près de … (Paris).",
@@ -4401,7 +4889,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "vacation",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "It's near ... (Paris)."
     },
     {
       "word": "C'est pour ... (les enfants et les adultes).",
@@ -4410,7 +4899,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "vacation",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "It's for ... (children and adults)."
     },
     {
       "word": "C'est ouvert ... (tous les jours en été).",
@@ -4419,7 +4909,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "vacation",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "It's open ... (every day in summer)."
     },
     {
       "word": "L'entrée coûte... (35 euros).",
@@ -4428,7 +4919,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "vacation",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "It costs ... (35 euros) to go in."
     },
     {
       "word": "C'est gratuit ...",
@@ -4437,7 +4929,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "vacation",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "It's free ..."
     },
     {
       "word": "Tu as passé un bon weekend?",
@@ -4446,7 +4939,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "Did you have a good weekend?"
     },
     {
       "word": "J'ai fait ... (de la natation).",
@@ -4455,7 +4949,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "I did ... (some swimming)."
     },
     {
       "word": "J'ai joué ... (au football).",
@@ -4464,7 +4959,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "I played ... (football)."
     },
     {
       "word": "Je suis allé(e) ... (au cinéma).",
@@ -4473,7 +4969,8 @@
       "word_class": "phrase",
       "example": "",
       "topic": "hobby",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "I went ... (to the cinema)."
     },
     {
       "word": "matin",
@@ -4482,7 +4979,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "in the morning"
     },
     {
       "word": "après-midi",
@@ -4491,7 +4989,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "in the afternoon"
     },
     {
       "word": "soir",
@@ -4500,7 +4999,8 @@
       "word_class": "noun",
       "example": "",
       "topic": "time-dates",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "in the evening"
     },
     {
       "word": "d'abord",
@@ -4509,7 +5009,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "first of all"
     },
     {
       "word": "puis",
@@ -4518,7 +5019,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "then, next"
     },
     {
       "word": "ensuite",
@@ -4527,7 +5029,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "next"
     },
     {
       "word": "plus tard",
@@ -4536,7 +5039,8 @@
       "word_class": "adverb",
       "example": "",
       "topic": "daily-routine",
-      "source_page": "141"
+      "source_page": "141",
+      "translation": "later"
     }
   ]
 }

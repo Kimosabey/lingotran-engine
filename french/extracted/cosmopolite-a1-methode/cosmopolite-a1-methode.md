@@ -1,7 +1,7 @@
 # Cosmopolite 1 - Methode de francais A1
 
 > Unified transcription of `pdf/hachette-fle/cosmopolite-a1-methode/cosmopolite-a1-methode.pdf` - 224 pages.
-> Generated 2026-08-10. Filterable sheet: `cosmopolite-a1-methode-catalog.csv`.
+> Generated 2026-08-11. Filterable sheet: `cosmopolite-a1-methode-catalog.csv`.
 
 ## Overview
 

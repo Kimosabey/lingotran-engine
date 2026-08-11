@@ -1,7 +1,7 @@
 # Tricolore 2 - 5e edition
 
 > Unified transcription of `pdf/oxford-university-press/tricolore-2-5th-edition/tricolore-2-5th-edition.pdf` - 180 pages.
-> Generated 2026-08-10. Filterable sheet: `tricolore-2-5th-edition-catalog.csv`.
+> Generated 2026-08-11. Filterable sheet: `tricolore-2-5th-edition-catalog.csv`.
 
 ## Overview
 

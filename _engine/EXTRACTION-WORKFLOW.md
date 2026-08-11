@@ -201,10 +201,62 @@ for a page that was never attempted.
 
 Dispatch `_engine/agent_enrich.md` (classification + questions in one read)
 and `_engine/agent_vocab.md` (vocabulary) per page range. Agents write
-`_class/chunk-*.json`, `_questions/chunk-*.json`, `_vocab/chunk-*.json`. For
-an `inferred` book, every question item must carry a per-item `level` from
-`level_options` — the transcription's inline `**[A1 (inferred)]**` tags are
-where that comes from.
+`_class/chunk-*.json`, `_questions/chunk-*.json`, `_vocab/chunk-*.json`.
+
+Fields that are easy to lose and expensive to recover later — capture them
+**now**, at extraction, not as a backfill:
+
+- **`instruction`** on every question: the exercise's printed rubric, verbatim.
+  Without it an exported row reads "Il y a ___ taille-crayon." with no way to
+  tell whether the task is to insert an article, conjugate a verb or translate.
+  The worst real case was a question whose entire text was the word "Je" —
+  meaningless until you see "Trouve les paires." beside it. Backfilling this
+  across both languages afterwards cost ~9,700 items of agent work.
+- **`translation`** on vocabulary, *when the book is bilingual*. Tricolore's
+  glossaries print `Article | French | English`; the first extraction captured
+  only the French and dropped 4,315 English meanings, leaving a word list with
+  no meanings in it. Monolingual books (Cosmopolite, all German) print no
+  translation — leave it "" there, do not machine-translate.
+- **`level`** on every item of an `inferred` book, drawn from `level_options`.
+  The transcription's inline `**[A1 (inferred)]**` tags are the source — but
+  write the **bare** enum (`A1`), never the decorated tag. One book shipped
+  2,750 rows reading "A2 (inferred)" and silently broke every level filter.
+
+Rubric vs content is the judgement call agents get wrong most often: in these
+books both print as `**a** text`. The rubric tells the learner what to DO; a
+content line is the material to work ON. When they cannot be told apart the
+answer is `""` — a defensible blank beats an invented rubric.
+
+Two briefing rules that measurably improved agreement between agents:
+1. Tell each agent to **read an already-completed chunk against its pages
+   first** and match the convention it finds. Without this, each agent invents
+   its own granularity and one book's chunks disagree with each other.
+2. Tell each agent to **write each chunk the moment it is finished**, not batch
+   them to the end. When a run is interrupted, whole written chunks survive and
+   only the unwritten ones need redoing.
+
+### Step 7b — Know which file is the source of truth for THIS book [read this]
+
+This differs **per book**, and getting it backwards silently destroys work.
+
+| Book has… | Source of truth | Edit |
+|---|---|---|
+| a `pages/_questions/` chunk directory | the chunk files | chunks only — the merged `_questions.json` is regenerated from them and direct edits are erased |
+| **no** chunk directory | `pages/_questions.json` | the merged file — it is genuinely authoritative there |
+
+French is uniform (chunks everywhere). German is mixed: netzwerk ×2 and goyal
+are chunk-backed; the five Goethe exam books have no chunk directory at all.
+Check before writing; do not assume.
+
+The same rule runs in the other direction, and it has bitten in both:
+- A tool that **writes** a derived file must not leave state the source lacks.
+  `verify_answers.py` once persisted its auto-fixes only to `_questions.json`,
+  so every re-merge reverted them — 52 items in one book disagreed between
+  chunk and merged before this was found. It now writes back into the chunks.
+- After editing chunks you **must run `merge_enrich.py` before exporting**, or
+  the exporter reads stale merged files. Skipping it once produced a German
+  export at 8.7% rubric coverage that looked plausible enough to ship; the
+  8.7% was exactly the books that had no chunks.
 
 ### Step 8 — Merge the chunks [py]
 
@@ -214,6 +266,15 @@ python _engine/merge_enrich.py --root french/extracted tricolore-1-5th-edition
 
 Assembles the chunk files into `_class.json` / `_questions.json`
 (mtime-ordered, last-write-wins, cross-chunk duplicates flagged).
+
+**Never skip this after touching chunks.** Everything downstream — verify,
+build, package — reads the merged file, so an un-merged chunk edit is invisible
+to the deliverable while looking done on disk.
+
+Note the two pipelines differ here: `_engine/merge_enrich.py` takes
+`--root <lang>/extracted` plus slugs (or `--all`); German's
+`german/extracted/_tools/merge_enrich.py` takes **explicit slugs only** and
+will silently treat `--all` as a collection name.
 
 ### Step 9 — Verify answers + level tags [py]
 
@@ -340,7 +401,50 @@ field) is English across all languages.
 
 ---
 
-## 6. Safety invariants (non-negotiable)
+## 6. Known gaps — read this before trusting the pipeline
+
+An honest register, kept here so a reviewer, a new engineer or a stakeholder
+can see the limits without reverse-engineering them. Each entry says what is
+wrong, what it costs, and what fixing it would take. Nothing here is a secret
+or a "someday"; several were found by the pipeline biting us.
+
+### 6.1 Pipeline
+
+| # | Gap | Cost today | Fix |
+|---|---|---|---|
+| P1 | **Two pipelines.** German keeps its own `catalog.py` / `questions.py` / `vocabulary.py` / `package_exports.py`; `_engine/` is canonical for everything else. Shared *helpers* were collapsed into `_common.py`, the four scripts were not. | Every export change must be made twice. On 2026-08-10 four fixes were double-written and one (`&nbsp;` decoding) was **missed** on the German side until the gate caught it in already-published data. | Port German onto `_engine/`, or accept the fork and add a test that asserts the two schemas agree. |
+| P2 | **Source of truth is not uniform.** Chunk-backed books must be edited at the chunk; books with no chunk directory are authoritative in `_questions.json`. French is uniform, German is mixed. | Editing the wrong one silently destroys work. Documented in Step 7b, enforced by nothing. | Give every book a chunk directory, even a single chunk, so the rule is "always chunks". |
+| P3 | **German's internal key is still `teil`.** Only the export renames it to `part`. | A reader of the raw JSON sees a German key in an otherwise-English schema; `row_for` carries a compatibility shim forever. | One-off rewrite of German's records, then drop the shim. |
+| P4 | **Questions carry only `option_a`–`option_c`.** Books that print four or more options lose the rest. | 2 known items (Cosmopolite p85 prints four; Tricolore 2 p53 prints five). Both permanently flagged by `verify_answers` and unfixable without schema change. | Add `option_d`/`option_e`, or an `options` list column. Needs a re-run to populate. |
+| P5 | **Vocabulary comes only from dedicated word-list pages.** 5–19% of a coursebook's pages contribute; the rest of the book's vocabulary is not captured. | "Vocabulary" means "the lists the book prints", not "the words in the book". An SME may reasonably assume the latter. Tricolore 2 is worst at 5.0%, because 8 of its 12 glossary pages are content-filter gaps. | A second, separate extraction mode over the transcribed pages, kept in its own sheet so curated data is not diluted. |
+| P6 | **No `gender` column.** Gender is smuggled inside the headword as `abbaye (f)`. | Cannot be filtered or sorted on. | Parse it out at enrichment into its own column. |
+| P7 | **Some columns are near-empty for some books.** `plural` is 0% for four books; `example` is 0.1% for Tricolore 2. | Not a defect — the books do not print them — but the columns read as missing data. | Nothing to fix in code; state it per book in the deliverable README. |
+| P8 | **`verify_answers` is report-only.** It exits 0 even when it prints NEEDS REPAIR PASS. | CI cannot fail on it; a flagged book can be packaged. | Add a `--strict` exit code once the known flags are triaged. |
+| P9 | **Two French books are invisible to every gate.** `conjugaison-a1-a2` (104/106 transcribed, 67 QA'd) and `revision-2` (0/181) are on disk but absent from `collections.json`. | `reconcile.py` never checks them; they appear in no export. Easy to mistake for done. | Register them, or move them out of `french/extracted/` so their state is obvious. |
+| P10 | **Non-Latin scripts are untested.** `word_count` is CJK-aware and the taxonomy check is script-agnostic, but `article`/`plural` are meaningless for Japanese/Chinese and no RTL book has been run. | Unknown until the first such book. | Run a small pilot before committing to a CJK or RTL language. |
+
+### 6.2 Agentic design
+
+| # | Gap | Cost today | Fix |
+|---|---|---|---|
+| A1 | **No planner in the repo.** Dispatch, batching and recovery live in the operator's head (or this chat). | "Another engineer restarts a book cold" does not work. | A thin orchestrator CLI that reads `reconcile` gaps and dispatches from them. |
+| A2 | **Agents have unrestricted write access.** Safety is detect-after-the-fact (`reconcile`, `verify_exports`), not prevention. | An agent told the wrong file path will happily write it. Mitigated only by explicit briefs. | Write-root allowlist in the prompt/orchestrator. |
+| A3 | **Agent self-reports are not trustworthy and nothing enforces that.** Disk-truth re-verification is a *practice*, not a mechanism. | Every backfill wave this session was re-verified by hand against `git HEAD`. It caught nothing wrong — but only because it was done. | Ship the verification script as a standing tool, not a scratchpad file. |
+| A4 | **Cross-agent convention drift.** Parallel agents on one book invent different granularity unless told to read a completed chunk first. | Handled by briefing. Nothing enforces it. | Encode the convention as examples in the agent prompt itself. |
+| A5 | **No golden-page fidelity fixtures for transcription.** The fixtures added cover the export path (markdown → CSV), not vision output. | A prompt regression that starts dropping table cells or accents would not fail anything. | Freeze ~20 hard pages with expected transcriptions. |
+| A6 | **Concurrency cap with no queue.** Dispatching past the cap errors rather than queues; throughput is session discipline. | Waves must be hand-sized. Interrupted runs are recovered by recomputing disk truth. | A run ledger + auto re-dispatch of gaps. |
+
+### 6.3 Workflow
+
+| # | Gap | Cost today | Fix |
+|---|---|---|---|
+| W1 | **The gates check shape, not coverage.** `verify_exports` validates schema, taxonomy and hygiene — it does not ask whether a column is as *full* as it should be. | A German export at 8.7% rubric coverage passed every gate and looked shippable. It was caught by measuring coverage by hand. | Add a coverage assertion per collection with an expected floor. |
+| W2 | **The frozen dance is manual.** Unfreeze → regenerate → refreeze → confirm an empty `collections.json` diff, by hand, every time. | Run six times in one day. Forgetting the refreeze leaves delivered corpora unprotected. | A `--force-frozen` flag that does the dance atomically. |
+| W3 | **CI runs tests and gates, not regeneration.** It cannot tell that exports are stale relative to their sources. | A chunk edit that is never merged/rebuilt passes CI. | A CI step that regenerates into a temp dir and diffs against the committed exports. |
+| W4 | **Delivery is manual and unrecorded.** Uploads to Drive are done by hand; nothing links a Drive folder to the commit or tag it came from. | Answering "which commit produced what is live?" relies on memory. Milestone tags now mitigate this — `v1.1.0-rubrics-both` marks the intended upload state — but the link is a convention, not data. | Record the tag in the deliverable README at package time. |
+
+
+## 7. Safety invariants (non-negotiable)
 
 - **Zero data loss.** Every writer uses atomic file writes; every resume
   recomputes from disk, never from an agent's self-report. See PLAYBOOK §
