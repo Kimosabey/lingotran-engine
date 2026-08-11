@@ -63,24 +63,10 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
             </span>
           </Link>
           <span className="flex-1" />
-          <div className="hidden sm:block">
-            <GlobalSearch />
-          </div>
+          {/* One instance only -- it renders both its own triggers (pill at
+              >= sm, icon button below). See the note in global-search.tsx. */}
+          <GlobalSearch />
           <div className="flex items-center gap-0.5 sm:gap-1">
-            {/* Below `sm` the full search trigger doesn't fit, so it collapses
-                to an icon button rather than disappearing. It used to simply
-                vanish, and the only other way in was the "/" key -- which
-                needs a hardware keyboard. Search therefore did not exist at
-                all on a phone for /engine, /reference, /french, /german or
-                any Explorer route. */}
-            <button
-              type="button"
-              onClick={() => setSearchOpen(true)}
-              aria-label="Search the corpus"
-              className="inline-flex h-10 w-10 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text sm:hidden"
-            >
-              <Icon name="search" size={18} />
-            </button>
             <a
               href={REPO_URL}
               target="_blank"

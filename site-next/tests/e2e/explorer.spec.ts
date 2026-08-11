@@ -9,12 +9,17 @@ test.describe("CSV Data Explorer", () => {
 
   test("shows real corpus rows, not placeholders", async ({ page }) => {
     await page.goto("/explorer/french/catalog");
-    await expect(page.getByRole("cell", { name: "cosmopolite-a1-methode" }).first()).toBeVisible();
+    // The table fetches /data/french/catalog.csv client-side (the rows are no
+    // longer serialised into the RSC payload), so wait for the first row.
+    await expect(page.getByRole("cell", { name: "cosmopolite-a1-methode" }).first()).toBeVisible({
+      timeout: 15_000,
+    });
     await expect(page.getByText(/\d+ of \d+ rows/)).toBeVisible();
   });
 
   test("language and type switching navigates to real, distinct routes", async ({ page }) => {
     await page.goto("/explorer/french/catalog");
+    await page.waitForLoadState("networkidle");
     await page.getByRole("navigation", { name: "Language" }).getByRole("link", { name: "German" }).click();
     await expect(page).toHaveURL(/\/explorer\/german\/catalog$/);
     await page.getByRole("navigation", { name: "Dataset" }).getByRole("link", { name: "Vocabulary" }).click();
@@ -36,8 +41,9 @@ test.describe("CSV Data Explorer", () => {
   test("quick-filter dropdown narrows results", async ({ page }) => {
     await page.goto("/explorer/french/catalog");
     await page.waitForLoadState("networkidle");
-    await page.getByRole("combobox", { name: "Filter by Activity type" }).click();
-    await page.getByRole("option", { name: "cover", exact: true }).click();
+    await page
+      .getByRole("combobox", { name: "Filter by Activity type" })
+      .selectOption("cover");
     await expect(page.getByText(/of 584 rows/)).toHaveText(/^\d+ of 584 rows$/);
     const count = await page.getByText(/of 584 rows/).textContent();
     expect(count).not.toContain("584 of 584");
@@ -53,8 +59,7 @@ test.describe("CSV Data Explorer", () => {
     const rowsCard = page.getByText("Rows", { exact: true }).locator("..");
     const before = await rowsCard.locator("div").first().textContent();
 
-    await page.getByRole("combobox", { name: "Filter by Level", exact: true }).click();
-    await page.getByRole("option", { name: "A1", exact: true }).click();
+    await page.getByRole("combobox", { name: "Filter by Level", exact: true }).selectOption("A1");
     await page.waitForTimeout(1200); // CountUp animates the card's number over 900ms
 
     const tableCount = await page.locator("text=/\\d+ of \\d+ rows/").first().textContent();
@@ -73,8 +78,7 @@ test.describe("CSV Data Explorer", () => {
     // rows instead of narrowing to just the chosen value.
     await page.goto("/explorer/french/catalog");
     await page.waitForLoadState("networkidle");
-    await page.getByRole("combobox", { name: "Filter by Level", exact: true }).click();
-    await page.getByRole("option", { name: "A2", exact: true }).click();
+    await page.getByRole("combobox", { name: "Filter by Level", exact: true }).selectOption("A2");
     await page.waitForTimeout(300);
     // Every visible row's Level cell must read exactly "A2", never a
     // longer value that merely contains "A2" as a substring.
@@ -111,6 +115,7 @@ test.describe("CSV Data Explorer", () => {
 
   test("Download full CSV link resolves to a real static file", async ({ page, request }) => {
     await page.goto("/explorer/french/catalog");
+    await page.waitForLoadState("networkidle");
     const href = await page.getByRole("link", { name: "Download full CSV" }).getAttribute("href");
     expect(href).toBe("/data/french/catalog.csv");
     const res = await request.get(href!);

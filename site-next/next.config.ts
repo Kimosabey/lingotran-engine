@@ -11,14 +11,21 @@ import type { NextConfig } from "next";
 // style-src because Tailwind/React emit inline style attributes, and for
 // script-src because the pre-hydration theme script in app/layout.tsx must run
 // before paint to avoid a flash of the wrong theme.
+// React's development build uses eval() for debugging features (reconstructing
+// call stacks across environments). It never does so in production, so
+// 'unsafe-eval' is granted to `next dev` only -- without this, the dev server
+// serves a page whose own framework can't boot.
+const isDev = process.env.NODE_ENV !== "production";
+
 const CSP = [
   "default-src 'self'",
-  "script-src 'self' 'unsafe-inline'",
+  `script-src 'self' 'unsafe-inline'${isDev ? " 'unsafe-eval'" : ""}`,
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob:",
   "font-src 'self'",
-  // The Explorer fetches its own CSVs from public/data; nothing else.
-  "connect-src 'self'",
+  // The Explorer fetches its own CSVs from public/data. `next dev` also needs
+  // its HMR websocket back to localhost.
+  `connect-src 'self'${isDev ? " ws: wss:" : ""}`,
   "object-src 'none'",
   "base-uri 'self'",
   "form-action 'self'",

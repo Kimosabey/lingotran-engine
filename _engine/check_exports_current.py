@@ -26,9 +26,9 @@ Usage:
 Exit code is non-zero when exports are stale. Intended for CI, where nobody is
 watching a terminal.
 """
-import filecmp
 import glob
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -39,6 +39,24 @@ from _common import parse_root, lang_slug
 
 ENGINE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(ENGINE)
+
+
+# The unified .md carries "Generated <date>" in its header. Comparing it
+# verbatim means every .md looks STALE on any day after the commit -- and CI
+# runs in UTC while commits here are +0530, so the boundary is crossed daily.
+# That would make this check cry wolf every morning and be switched off, which
+# is worse than not having it. Volatile lines are excluded from the comparison;
+# everything else is compared byte for byte.
+VOLATILE = re.compile(rb'^> Generated \d{4}-\d{2}-\d{2}\.')
+
+
+def _meaningful(path):
+    with open(path, 'rb') as f:
+        return [ln for ln in f.read().splitlines() if not VOLATILE.match(ln)]
+
+
+def _differs(a, b):
+    return _meaningful(a) != _meaningful(b)
 
 
 def _rel_map(root):
@@ -98,7 +116,7 @@ def main(argv):
             old = os.path.join(backup, rel.replace('/', os.sep))
             if not os.path.exists(old):
                 missing.append(rel)
-            elif not filecmp.cmp(old, fp, shallow=False):
+            elif _differs(old, fp):
                 stale.append(rel)
 
         # Restore the committed content regardless of outcome.

@@ -24,6 +24,19 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
+      # Everything below passed in a clean local checkout while CI failed, so
+      # the difference is environmental. This prints it once, up front, rather
+      # than leaving the next person to guess from a red X.
+      - name: Environment
+        run: |
+          python -VV
+          python -c "import fitz, PIL; print('pymupdf', fitz.pymupdf_version); print('pillow', PIL.__version__)"
+          echo "locale: ${LANG:-unset} / filesystem: $(python -c 'import sys;print(sys.getfilesystemencoding())')"
+          echo "tracked export artifacts:"
+          git ls-files 'french/extracted/*/*.csv' 'french/extracted/*.csv' | wc -l
+          echo "page images present (expected 0 - gitignored):"
+          ls french/extracted/*/images 2>/dev/null | wc -l
+
       - name: Engine tests
         run: python -m unittest discover -s _engine/tests -v
 

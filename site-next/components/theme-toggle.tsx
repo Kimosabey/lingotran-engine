@@ -47,15 +47,18 @@ export function ThemeToggle() {
 
   const isDark = theme === "dark";
 
+  // The accessible name is deliberately STABLE, with state carried by
+  // aria-pressed, rather than a name that rewrites itself to "Switch to light
+  // theme" / "Switch to dark theme". A name that changes with state is a
+  // moving target for every selector that refers to the control (it broke
+  // both the e2e suite and the audit harness), and a screen reader already
+  // announces the pressed state from aria-pressed.
+
   return (
     <button
       type="button"
       onClick={toggle}
-      aria-label={
-        theme === null
-          ? "Toggle light or dark theme"
-          : `Switch to ${isDark ? "light" : "dark"} theme`
-      }
+      aria-label="Toggle light or dark theme"
       aria-pressed={theme === null ? undefined : isDark}
       className="inline-flex h-10 w-10 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
     >

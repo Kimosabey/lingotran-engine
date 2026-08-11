@@ -40,27 +40,17 @@ function buildIndex(): SearchEntry[] {
   return items;
 }
 
-export function GlobalSearch({
-  triggerless = false,
-  open: controlledOpen,
-  onOpenChange,
-}: {
-  /** Render only the dialog, no button -- used by the header's mobile icon
-   * trigger, so search is reachable on a phone without a hardware keyboard. */
-  triggerless?: boolean;
-  open?: boolean;
-  onOpenChange?: (open: boolean) => void;
-} = {}) {
-  const [uncontrolledOpen, setUncontrolledOpen] = useState(false);
-  const open = controlledOpen ?? uncontrolledOpen;
-  const setOpen = onOpenChange ?? setUncontrolledOpen;
+// Exactly ONE instance of this belongs on a page. It renders two triggers --
+// the full pill for >= sm and an icon button below that -- rather than the
+// component being mounted twice, because CommandDialog portals an sr-only
+// DialogHeader to <body>: a second instance put that header outside every
+// landmark and tripped axe's `region` rule on all nine routes.
+export function GlobalSearch() {
+  const [open, setOpen] = useState(false);
   const router = useRouter();
   const index = useMemo(() => buildIndex(), []);
 
   useEffect(() => {
-    // Only the button-bearing instance owns the keyboard shortcut, otherwise
-    // both instances would open on the same keypress.
-    if (triggerless) return;
     function onKeydown(e: KeyboardEvent) {
       const el = document.activeElement;
       const tag = (el?.tagName || "").toLowerCase();
@@ -87,19 +77,31 @@ export function GlobalSearch({
 
   return (
     <>
-      {!triggerless && (
-        <button
-          type="button"
-          onClick={() => setOpen(true)}
-          className="group flex h-10 w-full max-w-[280px] items-center gap-2 rounded-full border border-border-control bg-surface-2 px-3.5 text-sm text-text-subtle transition-colors hover:border-brand-500 hover:text-text"
-        >
-          <Icon name="search" size={15} />
-          <span className="flex-1 text-left">Search the corpus…</span>
-          <kbd className="rounded border border-border-strong bg-surface px-1.5 py-0.5 font-mono text-[10px] text-text-subtle">
-            /
-          </kbd>
-        </button>
-      )}
+      {/* >= sm: the full pill, with its keyboard hint. */}
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        className="group hidden h-10 w-full max-w-[280px] items-center gap-2 rounded-full border border-border-control bg-surface-2 px-3.5 text-sm text-text-subtle transition-colors hover:border-brand-500 hover:text-text sm:flex"
+      >
+        <Icon name="search" size={15} />
+        <span className="flex-1 text-left">Search the corpus…</span>
+        <kbd className="rounded border border-border-strong bg-surface px-1.5 py-0.5 font-mono text-[10px] text-text-subtle">
+          /
+        </kbd>
+      </button>
+      {/* Below sm the pill doesn't fit, so it collapses to an icon button
+          rather than disappearing. It used to simply vanish, and the only
+          other way in was the "/" key -- which needs a hardware keyboard. So
+          search did not exist at all on a phone for /engine, /reference,
+          /french, /german or any Explorer route. */}
+      <button
+        type="button"
+        onClick={() => setOpen(true)}
+        aria-label="Search the corpus"
+        className="inline-flex h-10 w-10 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text sm:hidden"
+      >
+        <Icon name="search" size={18} />
+      </button>
       <CommandDialog open={open} onOpenChange={setOpen} title="Search" description="Search pages and books">
         <Command>
           <CommandInput placeholder="Search the corpus…" />

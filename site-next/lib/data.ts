@@ -3,7 +3,6 @@
 // sourced from french/extracted/manifest.tsv (authoritative) via MANIFEST.md,
 // the book READMEs, and _tools/transcribe.workflow.js (prompt text, verbatim).
 
-export const NETLIFY_URL = "https://lingotran-engine.netlify.app";
 export const REPO_URL = "https://github.com/Kimosabey/lingotran-engine";
 
 export interface SitePage {
