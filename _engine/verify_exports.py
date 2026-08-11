@@ -38,7 +38,7 @@ import sys
 import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import parse_root, lang_slug
+from _common import parse_root, lang_slug, load_collections
 
 # Column names are English in every language and identical across languages for
 # the same sheet -- the header row is schema, not source material. `chapter` is
@@ -229,6 +229,69 @@ def check_taxonomy(path, rows, fail, drift):
                         drift.setdefault((col, val), os.path.basename(path))
 
 
+def check_coverage(root, fail, note):
+    """Is each column as FULL as the corpus says it should be?
+
+    Every other check here validates SHAPE -- names, types, hygiene. None asks
+    whether a column that ought to be populated actually is. That gap shipped a
+    German questions export at 8.7% `instruction` coverage which passed every
+    other gate cleanly: the chunks had been backfilled but never re-merged, so
+    the exporter read stale merged files. The 8.7% was exactly the books that
+    had no chunk directory. It was caught by measuring, by hand, once.
+
+    Expectations are DECLARED, not hardcoded, because "correct" is per book:
+    Cosmopolite legitimately has 0% `translation` (monolingual), while Tricolore
+    should be near 100% (its glossary prints English). Put them in
+    collections.json:
+
+        "expect_coverage": {"instruction": 90, "translation": 0}
+
+    A column with no declared expectation is only reported, never failed --
+    silence here must never be mistaken for approval.
+    """
+    try:
+        cols = load_collections(root).get('collections', [])
+    except Exception:
+        # A root without a collections.json has nothing to declare against.
+        # Report and move on rather than failing the whole gate on config.
+        note('coverage: no collections.json - skipped')
+        return
+    expectations = {c['slug']: (c.get('expect_coverage') or {}) for c in cols}
+    if not any(expectations.values()):
+        note('coverage: no expect_coverage declared - reporting only')
+
+    checked = 0
+    for kind in ('questions', 'vocabulary', 'catalog'):
+        for fp_ in sorted(glob.glob(os.path.join(root, '*', '*-%s.csv' % kind))):
+            rows = read_csv(fp_)
+            if len(rows) < 2:
+                continue
+            header, body = rows[0], rows[1:]
+            idx = {c: i for i, c in enumerate(header)}
+            slug = os.path.basename(os.path.dirname(fp_))
+            want = expectations.get(slug) or {}
+            for col, floor in want.items():
+                # An expectation belongs to whichever sheet OWNS that column --
+                # `instruction` is a questions field, `translation` a vocabulary
+                # one. Checking every expectation against every sheet would flag
+                # each as missing on the two sheets that never had it.
+                if col not in CANON[kind]:
+                    continue
+                i = idx.get(col)
+                if i is None:
+                    fail(fp_, 'expect_coverage names `%s`, which belongs in the %s sheet, but '
+                              'this file has no such column' % (col, kind))
+                    continue
+                filled = sum(1 for r in body if len(r) > i and r[i].strip())
+                pct = 100.0 * filled / len(body)
+                checked += 1
+                if pct + 0.5 < floor:
+                    fail(fp_, '`%s` is %.1f%% filled (%d/%d) but collections.json expects at '
+                              'least %s%% - data may be stale; did merge_enrich run?'
+                         % (col, pct, filled, len(body), floor))
+    note('coverage: %d declared expectation(s) checked' % checked)
+
+
 def check_page_refs(root, fail, note):
     """A question or vocabulary row citing a page the catalog does not contain
     is a dangling reference -- cheap to detect, invisible by eye."""
@@ -342,6 +405,7 @@ def main(argv):
             note('%-11s header consistent across %d file(s)'
                  % (kind, sum(len(v) for v in byshape.values())))
 
+    check_coverage(root, fail, note)
     check_page_refs(root, fail, note)
     check_packaging(root, fail, note)
 

@@ -43,7 +43,11 @@
         154,
         221,
         222
-      ]
+      ],
+      "expect_coverage": {
+        "instruction": 95,
+        "translation": 0
+      }
     },
     {
       "slug": "tricolore-1-5th-edition",
@@ -73,7 +77,11 @@
         80,
         136,
         161
-      ]
+      ],
+      "expect_coverage": {
+        "instruction": 95,
+        "translation": 90
+      }
     },
     {
       "slug": "tricolore-2-5th-edition",
@@ -107,7 +115,11 @@
         175,
         176,
         177
-      ]
+      ],
+      "expect_coverage": {
+        "instruction": 95,
+        "translation": 90
+      }
     },
     {
       "slug": "saison-2-methode",

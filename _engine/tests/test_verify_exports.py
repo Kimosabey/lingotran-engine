@@ -6,6 +6,7 @@ Every case below is a defect that really shipped, or the direct generalization
 of one, so a regression here means a known-bad export could go out again.
 """
 import io
+import json
 import os
 import shutil
 import sys
@@ -170,3 +171,67 @@ class PageReferenceTests(Harness):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class CoverageTests(Harness):
+    """The gate that was missing. Every other check validates SHAPE; none asked
+    whether a column that ought to be populated actually is. A German questions
+    export shipped at 8.7% `instruction` coverage and passed everything else,
+    because the chunks had been backfilled but never re-merged.
+    """
+
+    def _collections(self, expect):
+        os.makedirs(os.path.join(self.root, '_tools'), exist_ok=True)
+        with io.open(os.path.join(self.root, '_tools', 'collections.json'), 'w',
+                     encoding='utf-8') as f:
+            json.dump({'collections': [{'slug': 'b', 'expect_coverage': expect}]}, f)
+
+    def _questions(self, instructions):
+        rows = [QCOLS]
+        for n, ins in enumerate(instructions, 1):
+            d = {c: '' for c in V.CANON['questions']}
+            d.update(collection='b', item=str(n), item_type='short-answer',
+                     question='Q%d' % n, instruction=ins, level='A1',
+                     topic='family', source_page='001')
+            rows.append(','.join('"%s"' % d[c] for c in V.CANON['questions']))
+        self.write('b-questions.csv', '\n'.join(rows) + '\n')
+
+    def test_empty_column_fails_when_coverage_is_expected(self):
+        self._collections({'instruction': 95})
+        self._questions(['', '', '', ''])
+        self.assertEqual(self.run_gate(), 1, 'a stale, empty column must not ship')
+
+    def test_full_column_passes(self):
+        self._collections({'instruction': 95})
+        self._questions(['Complete.'] * 4)
+        self.assertEqual(self.run_gate(), 0)
+
+    def test_partial_below_floor_fails(self):
+        """The real case was 8.7%, which looked plausible enough to ship."""
+        self._collections({'instruction': 95})
+        self._questions(['Complete.'] + [''] * 9)
+        self.assertEqual(self.run_gate(), 1)
+
+    def test_zero_is_legitimate_when_declared_zero(self):
+        """Cosmopolite genuinely has 0% translation -- it is monolingual. A
+        declared 0 must pass, not be treated as a failure."""
+        self._collections({'instruction': 0})
+        self._questions([''] * 4)
+        self.assertEqual(self.run_gate(), 0)
+
+    def test_expectation_only_applies_to_the_sheet_that_owns_the_column(self):
+        """`instruction` is a questions field. Declaring it must not fail the
+        vocabulary or catalog sheets, which never had that column."""
+        self._collections({'instruction': 95})
+        self._questions(['Complete.'] * 3)
+        self.write('b-vocabulary.csv',
+                   ','.join(V.CANON['vocabulary']) + '\n' +
+                   ','.join(['"b"', '"chat"', '"cat"', '""', '""', '"noun"', '""', '"none"', '"001"']) + '\n')
+        self.assertEqual(self.run_gate(), 0)
+
+    def test_undeclared_column_is_never_failed(self):
+        """Silence must not be mistaken for approval -- but nor should an
+        undeclared column block a delivery."""
+        self._collections({})
+        self._questions([''] * 4)
+        self.assertEqual(self.run_gate(), 0)
