@@ -337,3 +337,75 @@ class FixPersistenceTests(unittest.TestCase):
             it = json.load(f)['items'][0]
         self.assertEqual(it['question'], 'Il fait beau.')
         self.assertEqual(it['source_page'], '007')
+
+
+class DryRunTests(unittest.TestCase):
+    """--dry-run must leave every byte alone.
+
+    The tool's name reads like a gate; its behaviour is a repair pass. Running
+    it on German to check the gate rewrote 7 files across two DELIVERED books
+    before anything said so, and the re-run then reported "0 auto-fixed"
+    because the change had already landed. CI runs German through --dry-run,
+    so "writes nothing" has to be a tested property, not an intention.
+    """
+
+    def setUp(self):
+        self.tmpdir = tempfile.mkdtemp()
+        self.slug = 'test-collection'
+        self.pages = os.path.join(self.tmpdir, self.slug, 'pages')
+        os.makedirs(self.pages)
+
+    def tearDown(self):
+        shutil.rmtree(self.tmpdir, ignore_errors=True)
+
+    def _item(self):
+        return {'source_page': '007', 'item': '1', 'item_type': 'true-false',
+                'question': 'Il fait beau.', 'correct_answer': 'vrai'}
+
+    def _write(self, with_chunks):
+        self.merged = os.path.join(self.pages, '_questions.json')
+        with open(self.merged, 'w', encoding='utf-8') as f:
+            json.dump({'items': [self._item()]}, f)
+        self.chunk = None
+        if with_chunks:
+            cdir = os.path.join(self.pages, '_questions')
+            os.makedirs(cdir, exist_ok=True)
+            self.chunk = os.path.join(cdir, 'chunk-001-030.json')
+            with open(self.chunk, 'w', encoding='utf-8') as f:
+                json.dump({'items': [self._item()]}, f)
+
+    def _bytes(self, path):
+        with open(path, 'rb') as f:
+            return f.read()
+
+    def test_dry_run_writes_neither_chunk_nor_merged(self):
+        self._write(with_chunks=True)
+        before = (self._bytes(self.merged), self._bytes(self.chunk))
+        with contextlib.redirect_stdout(io.StringIO()):
+            verify_collection(self.tmpdir, self.slug, FR, dry_run=True)
+        self.assertEqual((self._bytes(self.merged), self._bytes(self.chunk)), before,
+                         '--dry-run must not touch a single byte')
+
+    def test_dry_run_writes_nothing_for_a_book_without_chunks(self):
+        """German's Goethe books, where the merged file IS the source."""
+        self._write(with_chunks=False)
+        before = self._bytes(self.merged)
+        with contextlib.redirect_stdout(io.StringIO()):
+            verify_collection(self.tmpdir, self.slug, FR, dry_run=True)
+        self.assertEqual(self._bytes(self.merged), before)
+
+    def test_dry_run_still_reports_what_it_would_have_fixed(self):
+        """Suppressed, not silent -- otherwise the gate reports a false clean."""
+        self._write(with_chunks=True)
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            verify_collection(self.tmpdir, self.slug, FR, dry_run=True)
+        self.assertIn('SUPPRESSED', buf.getvalue())
+
+    def test_default_still_writes(self):
+        """The repair pass itself must not regress into a no-op."""
+        self._write(with_chunks=True)
+        with contextlib.redirect_stdout(io.StringIO()):
+            verify_collection(self.tmpdir, self.slug, FR)
+        with open(self.chunk, encoding='utf-8') as f:
+            self.assertEqual(json.load(f)['items'][0]['correct_answer'], 'Vrai')

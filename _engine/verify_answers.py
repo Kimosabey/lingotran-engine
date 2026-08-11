@@ -34,9 +34,14 @@ Rewrites go straight to pages/_questions.json via atomic_write_text (the
 merged file build_exports.py reads) -- re-run build_exports.py afterward to
 refresh the CSVs. The inferred-level check is report-only and writes nothing.
 
+THIS TOOL WRITES. Despite the name, it is a repair pass that also reports, not
+a read-only gate: it normalizes `correct_answer` in place. Use --dry-run to
+check without mutating anything -- and prefer it on any book already delivered.
+
 Usage:
     python _engine/verify_answers.py --root french/extracted --all
     python _engine/verify_answers.py --root french/extracted --all --strict   # non-zero exit if anything is flagged
+    python _engine/verify_answers.py --root french/extracted --all --dry-run  # report only, write nothing
     python _engine/verify_answers.py --root french/extracted <slug> [<slug> ...]
 """
 import glob
@@ -135,7 +140,7 @@ def _persist_fixes(root, slug, data, merged_path):
     return '%d chunk file(s) + _questions.json' % touched
 
 
-def verify_collection(root, c, cfg=None):
+def verify_collection(root, c, cfg=None, dry_run=False):
     # `c` is a collection dict from collections.json; a bare slug string is
     # also accepted (treated as a fixed-level collection) for back-compat.
     if isinstance(c, str):
@@ -283,7 +288,16 @@ def verify_collection(root, c, cfg=None):
                           'blank - answers were found somewhere, so the status is likely wrong'
                           % (ak, rate))
 
-    if fixed:
+    if fixed and dry_run:
+        # --dry-run exists because this tool's name reads like a gate while its
+        # behaviour is a repair pass. Running it on German "just to check the
+        # gate" rewrote 7 files across two DELIVERED books before anything said
+        # so, and the second run then reported "0 auto-fixed" because the change
+        # had already landed -- the summary looked innocent precisely when it
+        # should have looked alarming. CI now runs it this way for German.
+        print('%-32s   %d auto-fix(es) SUPPRESSED (--dry-run) - nothing written'
+              % ('', fixed))
+    elif fixed:
         # Persist to the SOURCE OF TRUTH, not just the merged file.
         #
         # This used to write only pages/_questions.json -- which merge_enrich.py
@@ -318,8 +332,9 @@ def verify_collection(root, c, cfg=None):
             print('    ~ accepted:', i)
 
     tag = 'CLEAN' if not issues else 'NEEDS REPAIR PASS'
-    print('%-32s %4d items | %d auto-fixed | %d flagged for review -> %s'
-          % (slug, len(items), fixed, len(issues), tag))
+    print('%-32s %4d items | %d %s | %d flagged for review -> %s'
+          % (slug, len(items), fixed,
+             'would auto-fix' if dry_run else 'auto-fixed', len(issues), tag))
     for i in issues:
         print('    !', i)
     return len(issues)
@@ -334,12 +349,15 @@ def main(argv):
         print('No matching collections. Use --all or a slug from collections.json.')
         return
     strict = '--strict' in argv
+    dry_run = '--dry-run' in argv
+    if dry_run:
+        print('--dry-run: checks run, auto-fixes are reported but NOT written.\n')
     flagged = 0
     for c in targets:
         if c.get('frozen'):
             print('%-32s frozen - skipped' % c['slug'])
             continue
-        flagged += verify_collection(root, c, cfg) or 0
+        flagged += verify_collection(root, c, cfg, dry_run=dry_run) or 0
 
     if flagged and strict:
         # Gap P8: this gate printed NEEDS REPAIR PASS and still exited 0, so CI
