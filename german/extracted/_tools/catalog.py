@@ -115,7 +115,7 @@ def build_collection(c):
             r['unit'].replace('page-', ''), r['section'] or '', r['activity_type'] or '',
             r['topic'] or '', (r['summary'] or r['title']).replace('|', '/')))
     ov.append('\n---\n')
-    with atomic_open(os.path.join(ROOT, slug, '%s.md' % slug), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(ROOT, slug, '%s.md' % slug), 'w', encoding='utf-8', newline='\n') as f:
         f.write('\n'.join(ov) + '\n' + '\n\n'.join(unified) + '\n')
 
     classified = sum(1 for r in rows if r['activity_type'])

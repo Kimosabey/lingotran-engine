@@ -48,7 +48,7 @@ def merge_class(slug):
             continue
         seen.add(pg)
         out.append(it)
-    with atomic_open(os.path.join(ROOT, slug, 'pages', '_class.json'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(ROOT, slug, 'pages', '_class.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'collection': slug, 'items': out}, f, ensure_ascii=False, indent=1)
     return len(out)
 
@@ -58,7 +58,7 @@ def merge_questions(slug):
     if not items:
         return 0
     items.sort(key=lambda x: (str(x.get('source_page', '')), str(x.get('item', ''))))
-    with atomic_open(os.path.join(ROOT, slug, 'pages', '_questions.json'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(ROOT, slug, 'pages', '_questions.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'collection': slug, 'items': items}, f, ensure_ascii=False, indent=1)
     return len(items)
 
