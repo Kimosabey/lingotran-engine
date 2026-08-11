@@ -121,7 +121,20 @@
       "frozen": false,
       "expect_coverage": {
         "instruction": 95
-      }
+      },
+      "book_type": "test-booklet",
+      "answer_key": {
+        "status": "printed",
+        "checked": "2026-08-11: TOC (p003) lists 'Lösungen | 49' between 'Transkripte | 44' and 'Bewertung und Benotung | 54'; p049 confirmed as the start of the printed key, including a 'Musterlösung:' model answer for the open writing task. 0 of 382 answerable items blank (0.0%), consistent with a printed key.",
+        "note": "A Testheft prints its own key, unlike the Kursbuch it accompanies. Blanks here would be a genuine gap rather than the expected state."
+      },
+      "caveats": [
+        "Items on p025 are a JA/NEIN reading-comprehension exercise ('Antworten Sie mit JA oder NEIN'), carried verbatim as printed. They are typed true-false, so their answers are JA/NEIN rather than the Richtig/Falsch used elsewhere in the corpus. Waived in accepted_answer_flags, not a defect."
+      ],
+      "accepted_qa_gaps": [],
+      "accepted_answer_flags": [
+        "025/1", "025/2", "025/3", "025/4", "025/5"
+      ]
     },
     {
       "slug": "netzwerk-a1-kursbuch",
@@ -137,7 +150,21 @@
       "frozen": false,
       "expect_coverage": {
         "instruction": 95
-      }
+      },
+      "book_type": "student-coursebook",
+      "answer_key": {
+        "status": "separate-guide",
+        "checked": "2026-08-11: p002 (imprint page) states 'Lösungen, Transkripte u.v.m. zum Download unter www.klett-sprachen.de/netzwerk-neu' — the key is a publisher download, not printed in this book. No Lösungen section in the book itself. 328 of 852 answerable items blank (38.5%), consistent with a separate key.",
+        "note": "38.5% blank correct_answer is CORRECT, not a gap: a Kursbuch does not print its own answers. Includes 23 true-false items (e.g. the p057 and p069 listening comprehensions) whose answers exist only in the download."
+      },
+      "caveats": [
+        "Items on p030 are a 'Kreuzen Sie an' tick-box listening task (which places does the taxi driver name?) with no printed answer words. Each option is stored as a true-false item answered ja/nein, whereas the rest of the corpus uses Richtig/Falsch. Neither form is verbatim — the book prints a checkbox — so this is a representation inconsistency, recorded rather than silently rewritten. Waived in accepted_answer_flags.",
+        "Answer-value casing is inconsistent within this book: 4 'richtig' and 5 'falsch' are lowercase where the corpus standard is capitalised. verify_answers.py would normalise these; the pass has not been run because it mutates a delivered book and requires a re-export plus a Drive re-upload."
+      ],
+      "accepted_qa_gaps": [],
+      "accepted_answer_flags": [
+        "030/1", "030/2", "030/3", "030/4", "030/5", "030/6"
+      ]
     },
     {
       "slug": "goyal-a1-young-learners",
@@ -153,7 +180,17 @@
       "frozen": false,
       "expect_coverage": {
         "instruction": 95
-      }
+      },
+      "book_type": "student-coursebook",
+      "answer_key": {
+        "status": "separate-guide",
+        "checked": "2026-08-11: TOC (p003-p005) lists no Lösungen/Answer-Key section, and the back matter runs Hörtexte (p100-p102) → Quellenverzeichnis (p103) → Deutschsprachige Länder map (p104) with no key anywhere. The 'Answer Key (Workbook) – ₹70' lines on p006 are a publisher advertisement for OTHER titles in the Hallo Deutsch! series, not this book's contents. 90 of 956 answerable items blank (9.4%).",
+        "note": "No printed key, so the 90.6% of items carrying an answer were determined from the exercise itself (e.g. 'der/das/die? ___ Bahnhof' has one grammatical answer). That is derivation from the printed material, not invention, but it is why the blank rate is far lower than the Kursbuch's despite both being separate-guide."
+      },
+      "caveats": [
+        "No printed answer key. Where correct_answer is populated it was determined from the exercise's own printed content (grammar and article drills have a single determinate answer); it was not copied from a key. Items with any genuine ambiguity are left blank."
+      ],
+      "accepted_qa_gaps": []
     }
   ]
 }
