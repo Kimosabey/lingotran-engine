@@ -178,3 +178,9 @@ than deleted: why a control exists is worth more than a tidy list.
 - **CI does not run German `reconcile` or German `verify_answers --strict`** — only the
   French ones. Both currently exit 1: three German books are missing all four required
   `collections.json` declarations, and 11 answer items are flagged. Nothing gates them.
+- **`verify_answers.py` WRITES. It has no `--dry-run`.** Running it on German "just to
+  check" rewrote 7 files across two delivered books, normalising `correct_answer` from
+  the letter key `"a"` to the full option text, and reformatting both `_questions.json`.
+  Reverted, but nothing warned first, and a second run then reports `0 auto-fixed`
+  because the mutation already happened — so the summary line looks innocent. Treat it
+  as a repair pass, not a gate, and check `git status` after.
