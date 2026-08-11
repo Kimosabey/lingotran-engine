@@ -3,7 +3,6 @@
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
 import { Icon } from "@/components/icon";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { GlobalSearch } from "@/components/global-search";
@@ -28,7 +27,6 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
   const activePage = sitePages.find((p) => p.slug === active);
   const defaultCrumbs: Crumb[] = activePage && active !== "dashboard" ? [{ label: activePage.label }] : [];
   const trail = crumbs ?? defaultCrumbs;
-  const [searchOpen, setSearchOpen] = useState(false);
 
   return (
     <>
@@ -143,8 +141,6 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
         </div>
       </nav>
 
-      {/* Rendered once, driven by the mobile icon button above. */}
-      <GlobalSearch triggerless open={searchOpen} onOpenChange={setSearchOpen} />
     </>
   );
 }

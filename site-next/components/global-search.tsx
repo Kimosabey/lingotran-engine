@@ -63,7 +63,7 @@ export function GlobalSearch() {
     }
     window.addEventListener("keydown", onKeydown);
     return () => window.removeEventListener("keydown", onKeydown);
-  }, [triggerless, setOpen]);
+  }, []);
 
   function go(href: string) {
     setOpen(false);
