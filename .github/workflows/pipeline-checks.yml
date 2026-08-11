@@ -44,6 +44,14 @@ jobs:
       - name: Reconcile French collections
         run: python _engine/reconcile.py --root french/extracted --all
 
+      # Staleness: the gates above all read the exports as they stand and would
+      # pass a clean-looking but out-of-date file. This rebuilds into a scratch
+      # copy and diffs, so a source edit that was never re-exported fails here
+      # instead of shipping. (A German export once went out at 8.7% coverage
+      # exactly this way.)
+      - name: Exports current with sources
+        run: python _engine/check_exports_current.py --root french/extracted
+
       # Answer shape/alignment and the answer-key coverage cross-check.
       # Report-only today: it exits 0 and prints NEEDS REPAIR PASS, so the log
       # is the signal rather than the build status.

@@ -30,6 +30,11 @@ This folder is the finished, ready-to-use French material: **584 pages** from **
 
 _* this book has known limitations — see `README.md`._
 
+## Where this came from
+
+Built from commit `cb35909` (tag `v1.1.0-vocab-translations`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
+
+
 ## Two things worth knowing
 
 1. **A blank answer is usually not a mistake.** Many coursebooks print their answer keys in a separate teacher's guide, and listening items depend on audio. Where that is the case it is stated per book in `README.md`.

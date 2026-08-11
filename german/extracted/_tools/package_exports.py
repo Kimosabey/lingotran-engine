@@ -36,7 +36,7 @@ from _common import atomic_open
 # The START-HERE builder is shared with the other pipeline rather than
 # duplicated, so both languages' deliverables stay the same shape.
 sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
-from _common import build_start_here
+from _common import build_start_here, git_provenance
 ROOT = os.path.dirname(TOOLS)               # german/extracted/
 OUT = os.path.join(ROOT, '_exports')
 CONFIG = os.path.join(TOOLS, 'collections.json')
@@ -129,7 +129,8 @@ def main():
              for fam, slug, title, copied in manifest]
     with atomic_open(os.path.join(OUT, 'START-HERE.md'), 'w', encoding='utf-8') as f:
         f.write(build_start_here('german', books, combined=combined,
-                                 generator='_tools/package_exports.py'))
+                                 generator='_tools/package_exports.py',
+                                 provenance=git_provenance(ROOT)))
 
     print('Built _exports/ :')
     print('  _combined/ : %d roll-up sheets' % len(combined))

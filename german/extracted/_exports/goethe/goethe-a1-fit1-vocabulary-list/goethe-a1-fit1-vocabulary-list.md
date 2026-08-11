@@ -1,7 +1,7 @@
 # Goethe-Zertifikat A1 · Fit In Deutsch 1 · Vocabulary List
 
 > Unified transcription of `pdf/goethe-institut/a1-fit-in-deutsch-1/vocabulary-list.pdf` — 28 pages. Source: Goethe-Institut (official free practice material).
-> Generated 2026-08-10. Filterable sheet: `goethe-a1-fit1-vocabulary-list-catalog.csv`.
+> Generated 2026-08-11. Filterable sheet: `goethe-a1-fit1-vocabulary-list-catalog.csv`.
 
 ## Overview
 

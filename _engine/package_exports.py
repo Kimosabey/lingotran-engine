@@ -64,7 +64,10 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from _common import (parse_root, lang_slug, load_collection_list, atomic_write_text,
+                     git_provenance,
                      build_start_here)
+
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 KINDS = ['catalog', 'questions', 'vocabulary']
 COMBINED_DIR = '_combined'
@@ -240,7 +243,8 @@ def main(argv):
               'caveats': caveats, 'frozen': frozen}
              for slug, title, frozen, has_md, counts, caveats in manifest],
             combined=combined,
-            generator='_engine/package_exports.py'))
+            generator='_engine/package_exports.py',
+            provenance=git_provenance(REPO_ROOT)))
     keep.add(os.path.abspath(start_here))
 
     # Prune stale files LAST — only now that every new file is safely in place.

@@ -112,7 +112,8 @@ def atomic_save_image(img, path):
         raise
 
 
-def build_start_here(language, books, combined=None, generator='package_exports.py'):
+def build_start_here(language, books, combined=None, generator='package_exports.py',
+                     provenance=None):
     """The content team's orientation page for a language's deliverable.
 
     README.md is a reference (column lists, row counts). This is the "what do I
@@ -175,6 +176,13 @@ def build_start_here(language, books, combined=None, generator='package_exports.
                 b.get('pages') or '—', b.get('questions') or '—', b.get('words') or '—'))
         if any(b.get('caveats') for b in live):
             L += ['', '_* this book has known limitations — see `README.md`._']
+
+    if provenance:
+        L += ['', '## Where this came from', '',
+              'Built from commit `%s`%s. Quote that when reporting anything about '
+              'this data — it identifies exactly which extraction produced it.'
+              % (provenance.get('commit', '?'),
+                 (' (tag `%s`)' % provenance['tag']) if provenance.get('tag') else ''), '']
 
     L += ['', '## Two things worth knowing', '',
           '1. **A blank answer is usually not a mistake.** Many coursebooks print their '
@@ -302,3 +310,24 @@ def load_classification(root, slug):
         except Exception:
             pass
     return cmap
+
+
+def git_provenance(cwd=None):
+    """{'commit': short sha, 'tag': nearest tag} for the deliverable, or None.
+
+    Closes gap W4: uploads used to carry no record of which extraction produced
+    them, so "which commit is live on Drive?" relied on memory. Stamping it into
+    START-HERE.md makes the deliverable self-identifying. Returns None outside a
+    git checkout rather than failing a build over provenance.
+    """
+    import subprocess
+    def run(args):
+        try:
+            r = subprocess.run(args, capture_output=True, cwd=cwd, timeout=10)
+            return r.stdout.decode('utf-8', 'replace').strip() if r.returncode == 0 else ''
+        except Exception:
+            return ''
+    commit = run(['git', 'rev-parse', '--short', 'HEAD'])
+    if not commit:
+        return None
+    return {'commit': commit, 'tag': run(['git', 'describe', '--tags', '--abbrev=0'])}

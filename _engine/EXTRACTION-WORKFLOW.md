@@ -449,10 +449,10 @@ or a "someday"; several were found by the pipeline biting us.
 
 | # | Gap | Cost today | Fix |
 |---|---|---|---|
-| W1 | **The gates check shape, not coverage.** `verify_exports` validates schema, taxonomy and hygiene — it does not ask whether a column is as *full* as it should be. | A German export at 8.7% rubric coverage passed every gate and looked shippable. It was caught by measuring coverage by hand. | Add a coverage assertion per collection with an expected floor. |
-| W2 | **The frozen dance is manual.** Unfreeze → regenerate → refreeze → confirm an empty `collections.json` diff, by hand, every time. | Run six times in one day. Forgetting the refreeze leaves delivered corpora unprotected. | A `--force-frozen` flag that does the dance atomically. |
-| W3 | **CI runs tests and gates, not regeneration.** It cannot tell that exports are stale relative to their sources. | A chunk edit that is never merged/rebuilt passes CI. | A CI step that regenerates into a temp dir and diffs against the committed exports. |
-| W4 | **Delivery is manual and unrecorded.** Uploads to Drive are done by hand; nothing links a Drive folder to the commit or tag it came from. | Answering "which commit produced what is live?" relies on memory. Milestone tags now mitigate this — `v1.1.0-rubrics-both` marks the intended upload state — but the link is a convention, not data. | Record the tag in the deliverable README at package time. |
+| ~~W1~~ | ~~The gates check shape, not coverage.~~ **CLOSED 2026-08-10.** `verify_exports` now reads `expect_coverage` from collections.json and fails a column below its declared floor. Expectations are per book, so Cosmopolite's legitimate 0% `translation` passes while Tricolore's must be near-total. Verified against the real failure: emptying `instruction` on 1,119 items now fails with the cause named. | — | — |
+| ~~W2~~ | ~~The frozen dance is manual.~~ **CLOSED 2026-08-10.** `german/extracted/_tools/regenerate_frozen.py` does the whole dance in one call and restores the config in a `finally` block, so an exception, a failing stage or a Ctrl-C still puts the freeze back. It verifies the restore byte-for-byte and fails loudly if it cannot. | — | — |
+| ~~W3~~ | ~~CI cannot tell that exports are stale.~~ **CLOSED 2026-08-10** for the shared engine. `check_exports_current.py` rebuilds every artifact, diffs against what is committed, and restores the tree; it runs in CI. Verified: a source edit that was never re-exported now fails, naming the two affected files. Still unwired for German (blocked on P1). | — | — |
+| ~~W4~~ | ~~Delivery is unrecorded.~~ **CLOSED 2026-08-10.** Both packagers stamp the commit and nearest tag into `START-HERE.md` ("Built from commit `cb35909` (tag `v1.1.0-vocab-translations`)"), so a Drive folder identifies the extraction that produced it. Upload itself is still manual. | — | — |
 
 
 ## 7. Safety invariants (non-negotiable)

@@ -35,6 +35,11 @@ This folder is the finished, ready-to-use German material: **636 pages** from **
 | Netzwerk neu A1 · Kursbuch | `netzwerk/netzwerk-a1-kursbuch/` | 174 | 1119 | 1971 |
 | German for Young Learners · A1 | `goyal/goyal-a1-young-learners/` | 104 | 1049 | 118 |
 
+## Where this came from
+
+Built from commit `cb35909` (tag `v1.1.0-vocab-translations`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
+
+
 ## Two things worth knowing
 
 1. **A blank answer is usually not a mistake.** Many coursebooks print their answer keys in a separate teacher's guide, and listening items depend on audio. Where that is the case it is stated per book in `README.md`.

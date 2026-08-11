@@ -1,7 +1,7 @@
 # Goethe-Zertifikat A1 · Start Deutsch 1 · Exam Training 1
 
 > Unified transcription of `pdf/goethe-institut/a1-start-deutsch-1/exam-training-1.pdf` — 47 pages. Source: Goethe-Institut (official free practice material).
-> Generated 2026-08-10. Filterable sheet: `goethe-a1-sd1-exam-training-1-catalog.csv`.
+> Generated 2026-08-11. Filterable sheet: `goethe-a1-sd1-exam-training-1-catalog.csv`.
 
 ## Overview
 
