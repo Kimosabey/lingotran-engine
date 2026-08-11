@@ -1,9 +1,23 @@
 // Single source of data for the site -- typed port of the static site's
-// assets/js/data.js. Edit numbers here to refresh the whole site. Figures are
-// sourced from french/extracted/manifest.tsv (authoritative) via MANIFEST.md,
-// the book READMEs, and _tools/transcribe.workflow.js (prompt text, verbatim).
+// assets/js/data.js. Prose, blurbs and workflow copy are edited here. Figures
+// are sourced from the book READMEs and _tools/transcribe.workflow.js (prompt
+// text, verbatim).
+//
+// CORPUS COUNTS ARE NOT EDITED HERE. They come from corpus-stats.generated.json,
+// written by `npm run sync:corpus` straight off french/extracted and
+// german/extracted. Hand-typing them drifted badly: French sat at 511 pages /
+// 326 transcribed / 263 verified while the corpus held 584 / 584 / 548, so the
+// site reported 78% verified when the real figure was 97%.
+
+import corpusStats from "@/lib/corpus-stats.generated.json";
 
 export const REPO_URL = "https://github.com/Kimosabey/lingotran-engine";
+
+const FR = corpusStats.languages.french;
+const DE = corpusStats.languages.german;
+const ALL = corpusStats.combined;
+
+const pct = (n: number, of: number) => (of ? Math.round((n / of) * 100) : 0);
 
 export interface SitePage {
   slug: string;
@@ -72,10 +86,28 @@ export interface Metric {
 }
 
 export const metrics: Metric[] = [
-  { num: "13", lab: "Document sets", sub: "3 French workbooks · 10 German book/exam sets" },
-  { num: "1,147", lab: "Pages", sub: "511 FR spreads · 636 DE pages" },
-  { num: "962", lab: "Transcribed", sub: "84% of all pages", cls: "" },
-  { num: "899", lab: "QA-verified", sub: "78% zero-loss verified", cls: "green" },
+  {
+    num: String(ALL.sets),
+    lab: "Document sets",
+    sub: `${FR.books} French workbooks · ${DE.books} German book/exam sets`,
+  },
+  {
+    num: ALL.pages.toLocaleString(),
+    lab: "Pages",
+    sub: `${FR.pages} FR · ${DE.pages} DE`,
+  },
+  {
+    num: ALL.transcribed.toLocaleString(),
+    lab: "Transcribed",
+    sub: `${pct(ALL.transcribed, ALL.pages)}% of all pages`,
+    cls: "",
+  },
+  {
+    num: ALL.verified.toLocaleString(),
+    lab: "QA-verified",
+    sub: `${pct(ALL.verified, ALL.pages)}% zero-loss verified`,
+    cls: "green",
+  },
 ];
 
 export interface WorkflowPhase {
@@ -315,7 +347,19 @@ export const french = {
   code: "FR",
   level: "A1 / A2 (CEFR)",
   driveUrl: "https://drive.google.com/drive/folders/1tD87ztguG7_OzXP2oQFj8na4jC9azu5Y?usp=sharing",
-  aggregate: { books: 3, spreads: 511, transcribed: 326, verified: 263, qaPass: 254, qaFail: 37 },
+  // `spreads` is the page count, kept under its old name because app/page.tsx
+  // reads french.aggregate.spreads; `pages` is the accurate alias to migrate to.
+  aggregate: {
+    books: FR.books,
+    spreads: FR.pages,
+    pages: FR.pages,
+    transcribed: FR.transcribed,
+    verified: FR.verified,
+    qaPass: FR.qaPass,
+    qaFail: FR.qaFail,
+    questions: FR.questions,
+    words: FR.vocabulary,
+  },
   books: {
     "cosmopolite-a1-methode": {
       slug: "cosmopolite-a1-methode",
@@ -612,7 +656,15 @@ export const german = {
   name: "German",
   code: "DE",
   level: "A1 (CEFR)",
-  aggregate: { collections: 10, pages: 636, verified: 636, questions: 2830, words: 3751 },
+  aggregate: {
+    collections: DE.books,
+    pages: DE.pages,
+    verified: DE.verified,
+    qaPass: DE.qaPass,
+    qaFail: DE.qaFail,
+    questions: DE.questions,
+    words: DE.vocabulary,
+  },
   channels: [
     {
       key: "pdf",
@@ -813,11 +865,17 @@ export const orchestration = {
   },
 };
 
-// Cross-corpus QA rollup -- COMPUTED from the two aggregates above, never
-// hand-typed, so it can't silently drift from the manifest-sourced numbers.
+// Cross-corpus QA rollup, straight off the generated corpus counts.
+//
+// This carried a comment claiming it "can't silently drift" because it was
+// computed rather than hand-typed. It was computed -- from hand-typed
+// aggregates, so it inherited every bit of their staleness and reported 890 of
+// 927 when the corpus said 1,184 of 1,220. It also assumed German had zero QA
+// failures rather than counting them, which happened to be true and was still
+// an assumption. Both sides are now measured.
 function computeQaGlobal() {
-  const pass = french.aggregate.qaPass + german.aggregate.verified; // German channels: 0 QA failures
-  const fail = french.aggregate.qaFail;
+  const pass = ALL.qaPass;
+  const fail = ALL.qaFail;
   const total = pass + fail;
   return { pass, fail, total, pct: total ? Math.round((pass / total) * 100) : 0 };
 }
