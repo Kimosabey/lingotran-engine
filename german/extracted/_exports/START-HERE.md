@@ -31,13 +31,15 @@ This folder is the finished, ready-to-use German material: **636 pages** from **
 | Goethe-Zertifikat A1 · Fit In Deutsch 1 · Exam Training 1 | `goethe/goethe-a1-fit1-exam-training-1/` | 52 | 29 | — |
 | Goethe-Zertifikat A1 · Fit In Deutsch 1 · Exam Training 2 | `goethe/goethe-a1-fit1-exam-training-2/` | 52 | 50 | — |
 | Goethe-Zertifikat A1 · Fit In Deutsch 1 · Vocabulary List | `goethe/goethe-a1-fit1-vocabulary-list/` | 28 | — | 756 |
-| Netzwerk neu A1 · Chapterwise Test Booklet | `netzwerk/netzwerk-a1-test-booklet/` | 56 | 415 | 98 |
-| Netzwerk neu A1 · Kursbuch | `netzwerk/netzwerk-a1-kursbuch/` | 174 | 1119 | 1971 |
-| German for Young Learners · A1 | `goyal/goyal-a1-young-learners/` | 104 | 1049 | 118 |
+| Netzwerk neu A1 · Chapterwise Test Booklet * | `netzwerk/netzwerk-a1-test-booklet/` | 56 | 415 | 98 |
+| Netzwerk neu A1 · Kursbuch * | `netzwerk/netzwerk-a1-kursbuch/` | 174 | 1119 | 1971 |
+| German for Young Learners · A1 * | `goyal/goyal-a1-young-learners/` | 104 | 1049 | 118 |
+
+_* this book has known limitations — see `README.md`._
 
 ## Where this came from
 
-Built from commit `d6ce3cc` (tag `v1.1.0-workflow-gaps-closed`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
+Built from commit `91584c8` (tag `v1.1.6`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
 
 
 ## Two things worth knowing

@@ -1088,7 +1088,7 @@
       "option_a": "Wo seid ihr? Wir warten schon – das Essen ist gleich fertig.",
       "option_b": "Gern. Wir kommen und kaufen Fleisch. Bis später!",
       "option_c": "Danke für die Einladung. Wir haben morgen keine Zeit. Aber vielleicht am Wochenende?",
-      "correct_answer": "B",
+      "correct_answer": "Gern. Wir kommen und kaufen Fleisch. Bis später!",
       "topic": "food",
       "source_page": "046",
       "instruction": "Die Einladung. Lesen Sie die Nachricht. Welche Antwort passt?"
@@ -1676,7 +1676,7 @@
       "option_a": "Kaffee, Milch, Mehl, Eier, Zucker, Orangensaft, Cola, Sahne",
       "option_b": "Zucker, Eier, Mehl, Äpfel, Butter, Orangensaft, Cola, Sahne",
       "option_c": "Zucker, Eier, Mehl, Brot, Müsli, Orangensaft, Cola, Sahne",
-      "correct_answer": "B",
+      "correct_answer": "Zucker, Eier, Mehl, Äpfel, Butter, Orangensaft, Cola, Sahne",
       "topic": "food",
       "source_page": "052",
       "instruction": "Anna und Luca gehen in den Supermarkt. Sehen Sie die Szene noch einmal. Welcher Einkaufszettel passt?"

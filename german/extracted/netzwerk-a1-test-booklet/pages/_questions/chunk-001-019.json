@@ -10,7 +10,7 @@
       "option_a": "Danke, sehr gut!",
       "option_b": "Guten Morgen.",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Danke, sehr gut!",
       "topic": "personal-info",
       "source_page": "006",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -24,7 +24,7 @@
       "option_a": "Ich bin Niklas.",
       "option_b": "Auch gut, danke.",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "Auch gut, danke.",
       "topic": "personal-info",
       "source_page": "006",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -38,7 +38,7 @@
       "option_a": "Tschüs! Bis bald!",
       "option_b": "Entschuldigung!",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Tschüs! Bis bald!",
       "topic": "personal-info",
       "source_page": "006",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -52,7 +52,7 @@
       "option_a": "Guten Morgen, Frau Weber!",
       "option_b": "Auf Wiedersehen!",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Guten Morgen, Frau Weber!",
       "topic": "personal-info",
       "source_page": "006",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -66,7 +66,7 @@
       "option_a": "Danke, sehr gut.",
       "option_b": "Entschuldigung, wie heißen Sie?",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "Entschuldigung, wie heißen Sie?",
       "topic": "personal-info",
       "source_page": "006",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -640,7 +640,7 @@
       "option_a": "0421 89 75 54",
       "option_b": "0421 89 74 45",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "0421 89 74 45",
       "topic": "communication",
       "source_page": "009",
       "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
@@ -654,7 +654,7 @@
       "option_a": "0165 886 732 14",
       "option_b": "0156 887 632 14",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "0156 887 632 14",
       "topic": "communication",
       "source_page": "009",
       "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
@@ -668,7 +668,7 @@
       "option_a": "030 787 65 42",
       "option_b": "030 786 75 42",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "030 787 65 42",
       "topic": "communication",
       "source_page": "009",
       "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
@@ -682,7 +682,7 @@
       "option_a": "07171 88 34 01",
       "option_b": "01717 88 34 01",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "07171 88 34 01",
       "topic": "communication",
       "source_page": "009",
       "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
@@ -696,7 +696,7 @@
       "option_a": "0221 16 20 137",
       "option_b": "0221 16 20 173",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "0221 16 20 137",
       "topic": "communication",
       "source_page": "009",
       "instruction": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an."
@@ -1144,7 +1144,7 @@
       "option_a": "Das ist keine Kirche.",
       "option_b": "Gehen Sie geradeaus und dann rechts.",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "Gehen Sie geradeaus und dann rechts.",
       "topic": "city-places",
       "source_page": "012",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -1158,7 +1158,7 @@
       "option_a": "Am Sonntag.",
       "option_b": "Ich habe kein Ticket.",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Am Sonntag.",
       "topic": "city-places",
       "source_page": "012",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -1172,7 +1172,7 @@
       "option_a": "Das ist ein Fluss.",
       "option_b": "Ja, das ist ein Fluss.",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Das ist ein Fluss.",
       "topic": "city-places",
       "source_page": "012",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -1186,7 +1186,7 @@
       "option_a": "Ja, das ist ein Festival.",
       "option_b": "Nein, das sind keine Konzertkarten.",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "Nein, das sind keine Konzertkarten.",
       "topic": "city-places",
       "source_page": "012",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -1200,7 +1200,7 @@
       "option_a": "Ja, sehr gern.",
       "option_b": "Ja, das ist ein See.",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Ja, sehr gern.",
       "topic": "city-places",
       "source_page": "012",
       "instruction": "Hören Sie. Welche Antwort passt? Kreuzen Sie an."
@@ -1592,7 +1592,7 @@
       "option_a": "2,30 €.",
       "option_b": "6,60 €.",
       "option_c": "6,90 €.",
-      "correct_answer": "c",
+      "correct_answer": "6,90 €.",
       "topic": "food",
       "source_page": "015",
       "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
@@ -1606,7 +1606,7 @@
       "option_a": "Suppe.",
       "option_b": "Fisch.",
       "option_c": "Salat.",
-      "correct_answer": "c",
+      "correct_answer": "Salat.",
       "topic": "food",
       "source_page": "015",
       "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
@@ -1620,7 +1620,7 @@
       "option_a": "Eine Tüte.",
       "option_b": "Den Kassenzettel.",
       "option_c": "Orangen.",
-      "correct_answer": "a",
+      "correct_answer": "Eine Tüte.",
       "topic": "food",
       "source_page": "015",
       "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
@@ -1634,7 +1634,7 @@
       "option_a": "Im Supermarkt.",
       "option_b": "Auf dem Markt.",
       "option_c": "In der Bäckerei.",
-      "correct_answer": "c",
+      "correct_answer": "In der Bäckerei.",
       "topic": "food",
       "source_page": "015",
       "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
@@ -1648,7 +1648,7 @@
       "option_a": "100 Gramm.",
       "option_b": "150 Gramm.",
       "option_c": "200 Gramm.",
-      "correct_answer": "c",
+      "correct_answer": "200 Gramm.",
       "topic": "food",
       "source_page": "015",
       "instruction": "Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal."
@@ -2096,7 +2096,7 @@
       "option_a": "16:45 Uhr.",
       "option_b": "17:15 Uhr.",
       "option_c": "16:15 Uhr.",
-      "correct_answer": "a",
+      "correct_answer": "16:45 Uhr.",
       "topic": "time-dates",
       "source_page": "018",
       "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
@@ -2110,7 +2110,7 @@
       "option_a": "18:00 Uhr.",
       "option_b": "18:30 Uhr.",
       "option_c": "17:30 Uhr.",
-      "correct_answer": "c",
+      "correct_answer": "17:30 Uhr.",
       "topic": "time-dates",
       "source_page": "018",
       "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
@@ -2124,7 +2124,7 @@
       "option_a": "08:25 Uhr.",
       "option_b": "09:25 Uhr.",
       "option_c": "09:35 Uhr.",
-      "correct_answer": "a",
+      "correct_answer": "08:25 Uhr.",
       "topic": "time-dates",
       "source_page": "018",
       "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
@@ -2138,7 +2138,7 @@
       "option_a": "12:35 Uhr.",
       "option_b": "11:35 Uhr.",
       "option_c": "11:25 Uhr.",
-      "correct_answer": "b",
+      "correct_answer": "11:35 Uhr.",
       "topic": "time-dates",
       "source_page": "018",
       "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
@@ -2152,7 +2152,7 @@
       "option_a": "15:40 Uhr.",
       "option_b": "14:15 Uhr.",
       "option_c": "14:50 Uhr.",
-      "correct_answer": "b",
+      "correct_answer": "14:15 Uhr.",
       "topic": "time-dates",
       "source_page": "018",
       "instruction": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an."
@@ -2250,7 +2250,7 @@
       "option_a": "Nein, macht nichts.",
       "option_b": "Ja, da geht es um 10:30 Uhr.",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "Ja, da geht es um 10:30 Uhr.",
       "topic": "daily-routine",
       "source_page": "019",
       "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
@@ -2264,7 +2264,7 @@
       "option_a": "Nein, da kann ich leider nicht.",
       "option_b": "Bitte entschuldigen Sie.",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Nein, da kann ich leider nicht.",
       "topic": "daily-routine",
       "source_page": "019",
       "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
@@ -2278,7 +2278,7 @@
       "option_a": "Um kurz vor vier.",
       "option_b": "Es ist Viertel vor vier.",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "Es ist Viertel vor vier.",
       "topic": "daily-routine",
       "source_page": "019",
       "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
@@ -2292,7 +2292,7 @@
       "option_a": "Ich muss arbeiten.",
       "option_b": "Halb sieben ist super.",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Ich muss arbeiten.",
       "topic": "daily-routine",
       "source_page": "019",
       "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
@@ -2306,7 +2306,7 @@
       "option_a": "Nein, leider nicht.",
       "option_b": "Gute Idee!",
       "option_c": "",
-      "correct_answer": "a",
+      "correct_answer": "Nein, leider nicht.",
       "topic": "daily-routine",
       "source_page": "019",
       "instruction": "Lesen Sie. Welche Reaktion passt? Kreuzen Sie an."
