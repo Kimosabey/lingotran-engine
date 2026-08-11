@@ -24,9 +24,11 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
-      # Everything below passed in a clean local checkout while CI failed, so
-      # the difference is environmental. This prints it once, up front, rather
-      # than leaving the next person to guess from a red X.
+      # Added while eleven runs failed here and passed in a clean local checkout.
+      # The difference was environmental and is now fixed at the root (.gitattributes
+      # pins the line endings the writers actually emit), but the step stays: it
+      # costs a second and turns the next environment-shaped red X into something
+      # readable instead of another round of guessing.
       - name: Environment
         run: |
           python -VV

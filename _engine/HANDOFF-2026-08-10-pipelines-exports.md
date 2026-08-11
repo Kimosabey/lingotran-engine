@@ -164,4 +164,17 @@ than deleted: why a control exists is worth more than a tidy list.
   **write each file as they finish it**. Both are now in the prompts. The second is why an
   interrupted run loses one chunk instead of a whole wave.
 - **Concurrent sessions race on `_exports/`.** Also: `git add -A` in this repo will sweep
-  in another chat's in-flight site work — stage explicit paths.
+  in another chat's in-flight site work — stage explicit paths. This has now happened
+  three times; `954dbab` is the worst of them, a `fix(ci):` commit carrying 29 unrelated
+  files including the entire deletion of `site/`, and it is pushed.
+- **A derived file that differs by platform defeats every byte-level check.**
+  `csv.DictWriter` emits CRLF on all platforms (RFC 4180); with no `.gitattributes`,
+  a Linux checkout was LF, so every French CSV read STALE in CI and current on Windows
+  for eleven consecutive runs. Reproducing on the same OS cannot surface an OS
+  difference — the clean-clone run that "passed all eight steps" was Windows.
+  Line endings are now pinned in `.gitattributes`; `atomic_write_text` writes LF
+  everywhere. **Never compare derived files line-by-line to dodge this**: `splitlines()`
+  discards line endings and briefly turned CI green with the defect fully intact.
+- **CI does not run German `reconcile` or German `verify_answers --strict`** — only the
+  French ones. Both currently exit 1: three German books are missing all four required
+  `collections.json` declarations, and 11 answer items are flagged. Nothing gates them.

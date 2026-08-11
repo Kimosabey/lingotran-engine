@@ -87,9 +87,16 @@ def atomic_open(path, mode='w', encoding='utf-8', newline=None):
         raise
 
 
-def atomic_write_text(path, text, encoding='utf-8'):
-    """Convenience wrapper of atomic_open for the common "write one string" case."""
-    with atomic_open(path, 'w', encoding=encoding) as f:
+def atomic_write_text(path, text, encoding='utf-8', newline='\n'):
+    """Convenience wrapper of atomic_open for the common "write one string" case.
+
+    `newline` defaults to '\\n' rather than open()'s None, which would translate
+    every '\\n' to os.linesep and make output platform-dependent: LF on Linux,
+    CRLF on Windows, for byte-identical input. Derived files that differ by
+    platform defeat any byte-level comparison against what was committed -- see
+    check_exports_current.py. Text this pipeline writes is LF everywhere.
+    """
+    with atomic_open(path, 'w', encoding=encoding, newline=newline) as f:
         f.write(text)
 
 

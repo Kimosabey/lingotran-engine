@@ -1,0 +1,18 @@
+# Line endings for generated artifacts.
+#
+# check_exports_current.py rebuilds every export into a temp dir and compares it
+# byte for byte against what is committed. That comparison is only meaningful if
+# a checkout produces the same bytes as a rebuild on EVERY platform. Without the
+# rules below it did not, and the failure was invisible from Windows:
+#
+#   csv.DictWriter writes CRLF always (RFC 4180, not a platform default).
+#   With no attribute set, autocrlf gave a Windows checkout CRLF -- match -- and
+#   a Linux checkout LF -- mismatch on the first byte of every line. Every CSV
+#   read STALE in CI and current locally, for eleven consecutive red runs.
+#
+# So: pin CSV to the CRLF its writer emits, and pin the text this pipeline
+# generates to the LF that _common.atomic_write_text now writes everywhere.
+# Repo blobs stay LF either way; this governs the working tree.
+
+*.csv text eol=crlf
+*.md  text eol=lf

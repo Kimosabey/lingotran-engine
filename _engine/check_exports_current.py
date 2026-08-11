@@ -41,18 +41,22 @@ ENGINE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(ENGINE)
 
 
-# The unified .md carries "Generated <date>" in its header. Comparing it
-# verbatim means every .md looks STALE on any day after the commit -- and CI
-# runs in UTC while commits here are +0530, so the boundary is crossed daily.
-# That would make this check cry wolf every morning and be switched off, which
-# is worse than not having it. Volatile lines are excluded from the comparison;
-# everything else is compared byte for byte.
-VOLATILE = re.compile(rb'^> Generated \d{4}-\d{2}-\d{2}\.')
+# The unified .md header carries "Generated <date>", which moves on its own every
+# day -- and CI runs in UTC while commits here are +0530, so that boundary is
+# crossed daily. A check that cries wolf every morning gets switched off, which is
+# worse than not having it. Only the date TOKEN is neutralised; everything else,
+# line endings included, is still compared byte for byte.
+#
+# Do not "simplify" this to a line-by-line comparison. splitlines() discards line
+# endings, and that is not a hypothetical loss: it silently masked the CRLF/LF
+# mismatch that was failing every CI run, turning the build green while the real
+# defect stayed put. Neutralise the token, compare the bytes.
+VOLATILE = re.compile(rb'(?m)^(> Generated )\d{4}-\d{2}-\d{2}\.')
 
 
 def _meaningful(path):
     with open(path, 'rb') as f:
-        return [ln for ln in f.read().splitlines() if not VOLATILE.match(ln)]
+        return VOLATILE.sub(rb'\1<date>.', f.read())
 
 
 def _differs(a, b):
