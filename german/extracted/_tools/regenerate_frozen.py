@@ -33,14 +33,21 @@ import sys
 TOOLS = os.path.dirname(os.path.abspath(__file__))
 CONFIG = os.path.join(TOOLS, 'collections.json')
 
-# Order matters: sheets first, then the global merge, then packaging.
-FULL_CHAIN = ['catalog', 'questions', 'vocabulary', 'merge_all', 'package_exports']
-TAKES_ALL = {'catalog', 'questions', 'vocabulary'}   # merge_all/package take no args
+# Order matters: build every sheet, then package. The four separate exporters
+# (catalog/questions/vocabulary/merge_all) were German's forked copies; they are
+# gone (gap P1) and _engine/build_exports.py does all four jobs in one pass,
+# including the per-family tier and the global merge.
+ENGINE = os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine'))
+STAGES = {
+    'build_exports': [os.path.join(ENGINE, 'build_exports.py'), '--root', os.path.dirname(TOOLS)],
+    'package_exports': [os.path.join(TOOLS, 'package_exports.py')],
+}
+FULL_CHAIN = ['build_exports', 'package_exports']
 
 
 def main(argv):
     stages = FULL_CHAIN if ('--all' in argv or not argv) else [a for a in argv if not a.startswith('-')]
-    unknown = [s for s in stages if not os.path.exists(os.path.join(TOOLS, s + '.py'))]
+    unknown = [s for s in stages if s not in STAGES]
     if unknown:
         print('No such stage(s): %s' % ', '.join(unknown))
         print('Available: %s' % ', '.join(FULL_CHAIN))
@@ -60,9 +67,7 @@ def main(argv):
             f.write(original.replace('"frozen": true', '"frozen": false'))
 
         for stage in stages:
-            cmd = [sys.executable, os.path.join(TOOLS, stage + '.py')]
-            if stage in TAKES_ALL:
-                cmd.append('--all')
+            cmd = [sys.executable] + STAGES[stage]
             r = subprocess.run(cmd, capture_output=True, cwd=os.path.dirname(TOOLS))
             ok = r.returncode == 0
             print('  %-16s %s' % (stage, 'ok' if ok else 'FAILED'))

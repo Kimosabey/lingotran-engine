@@ -1,16 +1,25 @@
 #!/usr/bin/env python
-"""First tests for German's bespoke pipeline.
+"""German pipeline tests, retargeted at the SHARED engine (gap P1).
 
-It holds 10 of the 13 delivered books and had no test coverage at all, while
-_engine had 105 tests. Every fix made to it on 2026-08-10 -- the teil->part
-rename, the &nbsp; entity decode, item_type "open"->"open-ended", dropping
-header-only CSVs, and converting 14 bare writes to atomic ones -- landed with
-no regression cover. These pin the behaviour that matters most: that a killed
-run cannot corrupt a delivered file, and that the export schema stays put.
+German used to run a forked copy of the exporters. These tests were written
+against that copy, so they pinned the fork's behaviour rather than the contract
+-- which is how the two halves drifted: a fix landed in one and not the other,
+and on 2026-08-11 that shipped CRLF line endings from German's writers against
+LF everywhere else, failing the packaging gate.
+
+The four exporter scripts are gone. What survives here is the part that is a
+CONTRACT rather than an implementation detail:
+
+  - a killed run must never corrupt an already-delivered file;
+  - the questions schema is cross-language -- English names, `part` not `teil`;
+  - the shared page helpers are used, never re-copied per language;
+  - and no language may grow its own exporter again.
+
+That last one is new, and is the point: the duplication is what cost four
+double-fixes in a single day, so it is now a test rather than a habit.
 """
-import csv
+import glob
 import io
-import json
 import os
 import shutil
 import sys
@@ -18,45 +27,41 @@ import tempfile
 import unittest
 
 TOOLS = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, TOOLS)
-sys.path.insert(0, os.path.abspath(os.path.join(TOOLS, '..', '..', '..', '_engine')))
+REPO = os.path.abspath(os.path.join(TOOLS, '..', '..', '..'))
+ENGINE = os.path.join(REPO, '_engine')
+sys.path.insert(0, ENGINE)
 
-import questions as q_mod
-from _common import atomic_open
+import build_exports as bx
+from _common import atomic_open, page_title
 
 
 class AtomicWriteTests(unittest.TestCase):
     """German's writers were all bare open(..., 'w') until 2026-08-10, several
-    of them writing already-delivered frozen deliverables during the
-    unfreeze/refreeze dance. A crash mid-write truncated the only copy."""
+    of them writing already-delivered frozen deliverables."""
 
     def setUp(self):
-        self.tmp = tempfile.mkdtemp()
-        self.target = os.path.join(self.tmp, 'delivered.csv')
+        self.tmpdir = tempfile.mkdtemp()
+        self.target = os.path.join(self.tmpdir, 'delivered.csv')
         with io.open(self.target, 'w', encoding='utf-8') as f:
-            f.write('good,original,content\n1,2,3\n')
-        self.original = io.open(self.target, encoding='utf-8').read()
+            f.write('original,content\n')
 
     def tearDown(self):
-        shutil.rmtree(self.tmp, ignore_errors=True)
+        shutil.rmtree(self.tmpdir, ignore_errors=True)
 
     def test_a_crash_mid_write_leaves_the_previous_file_intact(self):
         with self.assertRaises(RuntimeError):
             with atomic_open(self.target, 'w', encoding='utf-8') as f:
-                f.write('half a row and then...')
+                f.write('half a row')
                 raise RuntimeError('killed mid-write')
-        self.assertEqual(io.open(self.target, encoding='utf-8').read(), self.original,
-                         'a failed write must not touch the delivered file')
+        self.assertEqual(io.open(self.target, encoding='utf-8').read(), 'original,content\n')
 
     def test_no_temp_file_is_left_behind_after_a_failure(self):
-        try:
+        with self.assertRaises(RuntimeError):
             with atomic_open(self.target, 'w', encoding='utf-8') as f:
                 f.write('x')
                 raise RuntimeError('boom')
-        except RuntimeError:
-            pass
-        leftovers = [n for n in os.listdir(self.tmp) if n != 'delivered.csv']
-        self.assertEqual(leftovers, [], 'temp files must be cleaned up: %r' % leftovers)
+        leftovers = [n for n in os.listdir(self.tmpdir) if n.startswith('.tmp-atomic-')]
+        self.assertEqual(leftovers, [])
 
     def test_a_successful_write_replaces_the_content(self):
         with atomic_open(self.target, 'w', encoding='utf-8') as f:
@@ -65,61 +70,73 @@ class AtomicWriteTests(unittest.TestCase):
 
 
 class QuestionsSchemaTests(unittest.TestCase):
-    """The questions sheet's shape is a cross-language contract: English column
-    names, identical to French's, `part` not `teil`."""
+    """The questions sheet's shape is a cross-language contract, so it is
+    asserted against the shared engine that now builds both languages."""
 
-    def test_column_names_are_english_and_match_the_french_schema(self):
-        self.assertIn('part', q_mod.COLUMNS)
-        self.assertNotIn('teil', q_mod.COLUMNS)
-        self.assertIn('level', q_mod.COLUMNS)
+    def test_column_names_are_english(self):
+        self.assertIn('part', bx.QUESTIONS_COLUMNS)
+        self.assertNotIn('teil', bx.QUESTIONS_COLUMNS)
+        self.assertIn('level', bx.QUESTIONS_COLUMNS)
 
-    def test_legacy_teil_key_is_no_longer_read(self):
-        """The shim is gone (gap P3). All 5,413 records were renamed to `part`
-        on 2026-08-10, so a lingering `teil` is now simply wrong and must NOT
-        be silently accepted -- a fallback that outlives its migration hides
-        the fact that some record was never migrated."""
-        row = q_mod.row_for('b', {'teil': 'Teil 1', 'item': '1'}, 'A1')
-        self.assertEqual(row['part'], '', 'teil must no longer be read')
+    def test_the_teil_shim_is_gone(self):
+        """Gap P3. All 5,413 records were renamed to `part` and zero carry the
+        old key, so a fallback could only ever hide an unmigrated record. The
+        fork dropped it; the engine had kept it, and adopting the engine without
+        this test would have silently brought it back."""
+        src = io.open(os.path.join(ENGINE, 'build_exports.py'), encoding='utf-8').read()
+        self.assertNotIn("it.get('teil'", src)
 
-    def test_part_is_the_only_key_read(self):
-        row = q_mod.row_for('b', {'teil': 'old', 'part': 'new'}, 'A1')
-        self.assertEqual(row['part'], 'new')
 
-    def test_printed_label_stays_verbatim_in_the_source_language(self):
-        """English COLUMN NAME, source-language VALUE -- "Übung 3" is a quote
-        from the book, not taxonomy."""
-        self.assertEqual(q_mod.row_for('b', {'part': 'Übung 3'}, 'A1')['part'], 'Übung 3')
+class ColumnOmissionTests(unittest.TestCase):
+    """A language declares the columns it can never fill; it is never inferred
+    from which columns happen to be empty in today's books."""
 
-    def test_level_falls_back_to_the_collection_level(self):
-        self.assertEqual(q_mod.row_for('b', {'item': '1'}, 'A1')['level'], 'A1')
+    def test_declared_columns_are_dropped(self):
+        cfg = {'omit_columns': {'vocabulary': ['translation', 'gender']}}
+        cols = bx.columns_for_kind('vocabulary', cfg)
+        self.assertNotIn('translation', cols)
+        self.assertNotIn('gender', cols)
+        self.assertIn('word', cols)
 
-    def test_every_row_has_exactly_the_declared_columns(self):
-        row = q_mod.row_for('b', {'item': '1'}, 'A1')
-        self.assertEqual(sorted(row), sorted(q_mod.COLUMNS))
+    def test_no_config_means_the_full_schema(self):
+        self.assertEqual(bx.columns_for_kind('vocabulary', {}), bx.VOCAB_COLUMNS)
 
-    def test_values_are_flattened_to_single_cells(self):
-        row = q_mod.row_for('b', {'question': 'line one\nline\ttwo'}, 'A1')
-        self.assertEqual(row['question'], 'line one line two')
+    def test_omission_does_not_reorder_the_rest(self):
+        cols = bx.columns_for_kind('catalog', {'omit_columns': {'catalog': ['chapter']}})
+        self.assertEqual(cols, [c for c in bx.CATALOG_COLUMNS if c != 'chapter'])
 
 
 class SharedHelperTests(unittest.TestCase):
-    """catalog.py used to carry its own copies of these. The duplication cost
-    four double-fixes in a single day, and the &nbsp; fix was missed on this
-    side until the export gate caught it in published data."""
-
-    def test_catalog_uses_the_shared_helpers_not_local_copies(self):
-        src = io.open(os.path.join(TOOLS, 'catalog.py'), encoding='utf-8').read()
-        for fn in ('def page_title', 'def word_count', 'def split_frontmatter',
-                   'def read_pages', 'def load_classification', 'def human_title'):
-            self.assertNotIn(fn, src, '%s must come from _common, not be redefined' % fn)
-
     def test_html_comment_never_becomes_a_page_title(self):
-        from _common import page_title
         self.assertEqual(page_title('<!-- blank page -->\n\n# Lektion 3'), 'Lektion 3')
 
     def test_entity_is_not_left_in_a_title(self):
-        from _common import page_title
         self.assertEqual(page_title('Arbeitsalltag &nbsp; 7'), 'Arbeitsalltag 7')
+
+
+class NoForkedExportersTest(unittest.TestCase):
+    """The guard that makes P1 stick.
+
+    German ran a forked copy of the exporters for months. Fixes landed on one
+    side and not the other -- the CRLF writers, the &nbsp; decode, the teil
+    rename -- and each divergence was found only after it reached a delivered
+    file. Deleting the fork does not prevent the next one; this does.
+    """
+
+    FORBIDDEN = ('catalog.py', 'questions.py', 'vocabulary.py', 'merge_all.py',
+                 'build_exports.py')
+
+    def test_no_language_has_its_own_exporter(self):
+        offenders = []
+        for tools_dir in glob.glob(os.path.join(REPO, '*', 'extracted', '_tools')):
+            for name in self.FORBIDDEN:
+                p = os.path.join(tools_dir, name)
+                if os.path.exists(p):
+                    offenders.append(os.path.relpath(p, REPO))
+        self.assertEqual(
+            offenders, [],
+            'exporters live in _engine/ and are shared. A per-language copy is how '
+            'German drifted: %s' % ', '.join(offenders))
 
 
 if __name__ == '__main__':

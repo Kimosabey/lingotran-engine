@@ -70,7 +70,7 @@ def transcribe_one(model, collection, audio_path):
             line += ' <!-- low-confidence -->'
         body.append(line)
 
-    with atomic_open(os.path.join(asr_dir, 'listening.json'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(asr_dir, 'listening.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'source': os.path.basename(audio_path), 'language': info.language,
                    'duration': round(info.duration, 1), 'model': model_size,
                    'low_confidence_segments': low, 'segments': seg_rows}, f, ensure_ascii=False, indent=2)
@@ -89,7 +89,7 @@ def transcribe_one(model, collection, audio_path):
         'qa: pending',
         '---',
     ]
-    with atomic_open(os.path.join(out_dir, 'listening.md'), 'w', encoding='utf-8') as f:
+    with atomic_open(os.path.join(out_dir, 'listening.md'), 'w', encoding='utf-8', newline='\n') as f:
         f.write('\n'.join(fm) + '\n' + '\n'.join(body) + '\n')
 
     print('%-32s %5.0fs  %3d segments (%d low-confidence)' % (slug, info.duration, len(seg_rows), low))

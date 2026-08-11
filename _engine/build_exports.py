@@ -42,7 +42,7 @@ import sys
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import (parse_root, lang_slug, load_collection_list, atomic_open,
+from _common import (parse_root, lang_slug, load_collection_list, load_collections, atomic_open,
                      atomic_write_text, build_start_here,
                      # shared page/record helpers -- one definition, both pipelines
                      split_frontmatter, flat as _flat, word_count, page_title,
@@ -107,9 +107,53 @@ def _table(title, counts):
     return lines
 
 
-def build_catalog(root, c):
-    """Write the unified .md + parked debug catalog.csv; return its rows (or None)."""
+def _content_type(value, strip_brackets):
+    v = (value or '').strip()
+    if strip_brackets and v.startswith('[') and v.endswith(']'):
+        return v[1:-1].strip()
+    return v
+
+
+def export_config(root):
+    """Per-language export shape, declared in collections.json under "exports".
+
+    Absent (French) means: global sheet named <lang>-<kind>-all.csv, no per-family
+    sheets, no omitted columns -- exactly the behaviour before this existed.
+    """
+    return load_collections(root).get('exports') or {}
+
+
+def columns_for_kind(kind, cfg):
+    """The column list minus the ones this language declares it cannot fill.
+
+    Declared, never inferred from which columns happen to be empty today. German
+    ships option_d/option_e empty only because these ten books have no five-option
+    items; a rule keyed on emptiness would silently reshape the schema the first
+    time a book with one arrived, which is the exact class of invisible drift the
+    gates exist to stop.
+    """
+    base = {'catalog': CATALOG_COLUMNS, 'questions': QUESTIONS_COLUMNS,
+            'vocabulary': VOCAB_COLUMNS}[kind]
+    omit = set((cfg.get('omit_columns') or {}).get(kind) or [])
+    return [col for col in base if col not in omit]
+
+
+def build_catalog(root, c, write=True):
+    """Write the unified .md + parked debug catalog.csv; return its rows (or None).
+
+    write=False gathers the rows without touching disk. Frozen collections need
+    exactly that: their files must never be regenerated, but their rows still
+    belong in the aggregate sheets. Skipping them wholesale -- as this did before
+    -- produced a German global of 334 rows where the corpus holds 636, quietly
+    dropping every frozen book from the deliverable.
+    """
     slug = c['slug']
+    cfg = export_config(root)
+    # German's shipped catalogs carry content_type as "cover, toc"; French's carry
+    # "[cover, toc]" -- the raw YAML list form. Declared per language rather than
+    # unified, because either choice rewrites one language's delivered sheets and
+    # P1 is a refactor, not a redesign of what recipients already have.
+    strip_ct = bool(cfg.get('strip_content_type_brackets'))
     cmap = load_classification(root, slug)
     rows, unified = [], []
     for unit, fm, body in read_pages(root, slug):
@@ -119,7 +163,7 @@ def build_catalog(root, c):
             'collection': slug, 'unit': unit,
             'section': fm.get('section', '').strip('"') or '',
             'chapter': fm.get('chapter', '').strip('"') or '',
-            'content_type': fm.get('content_type', '') or '',
+            'content_type': _content_type(fm.get('content_type', '') or '', strip_ct),
             'activity_type': cl.get('activity_type', ''), 'topic': cl.get('topic', ''),
             'level': fm.get('level', c.get('level', '')),
             'status': fm.get('status', ''), 'qa': fm.get('qa', ''),
@@ -138,8 +182,13 @@ def build_catalog(root, c):
         print('%-32s no pages yet, skipped' % slug)
         return None
 
+    if not write:
+        print('%-32s %3d pages (frozen - rows counted, files untouched)' % (slug, len(rows)))
+        return rows
+
+    cat_cols = columns_for_kind('catalog', export_config(root))
     with atomic_open(os.path.join(root, slug, '%s-catalog.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=CATALOG_COLUMNS)
+        w = csv.DictWriter(f, fieldnames=cat_cols, extrasaction='ignore')
         w.writeheader()
         w.writerows(rows)
 
@@ -149,8 +198,13 @@ def build_catalog(root, c):
               c.get('pdf', ''), len(rows), (' Source: %s.' % note) if note else ''),
           '> Generated %s. Filterable sheet: `%s-catalog.csv`.\n' % (datetime.now().strftime('%Y-%m-%d'), slug),
           '## Overview\n']
+    # A column this language declares it cannot fill must not surface in the .md
+    # either, or the deliverable carries a "By chapter" table reading "(none) 174"
+    # -- the markdown equivalent of the dead column the omission exists to avoid.
+    has_chapter = 'chapter' in cat_cols
     ov += _table('By skill section', _counts(rows, 'section')) + ['']
-    ov += _table('By chapter', _counts(rows, 'chapter')) + ['']
+    if has_chapter:
+        ov += _table('By chapter', _counts(rows, 'chapter')) + ['']
     ov += _table('By content type', _counts(rows, 'content_type', split=True)) + ['']
     ov += _table('By activity type', _counts(rows, 'activity_type')) + ['']
     ov += _table('By topic', _counts(rows, 'topic')) + ['']
@@ -163,11 +217,19 @@ def build_catalog(root, c):
     if notes:
         ov += ['## Known limitations\n']
         ov += ['- %s' % cav for cav in notes] + ['']
-    ov += ['## Page index\n', '| Page | Section | Chapter | Activity | Topic | Summary |', '|---|---|---|---|---|---|']
+    if has_chapter:
+        ov += ['## Page index\n', '| Page | Section | Chapter | Activity | Topic | Summary |',
+               '|---|---|---|---|---|---|']
+    else:
+        ov += ['## Page index\n', '| Page | Section | Activity | Topic | Summary |',
+               '|---|---|---|---|---|']
     for r in rows:
-        ov.append('| %s | %s | %s | %s | %s | %s |' % (
-            r['unit'].replace('page-', ''), r['section'] or '', r['chapter'] or '', r['activity_type'] or '',
-            r['topic'] or '', (r['summary'] or r['title']).replace('|', '/')))
+        cells = [r['unit'].replace('page-', ''), r['section'] or '']
+        if has_chapter:
+            cells.append(r['chapter'] or '')
+        cells += [r['activity_type'] or '', r['topic'] or '',
+                  (r['summary'] or r['title']).replace('|', '/')]
+        ov.append('| %s |' % ' | '.join(cells))
     ov.append('\n---\n')
     atomic_write_text(os.path.join(root, slug, '%s.md' % slug), '\n'.join(ov) + '\n' + '\n\n'.join(unified) + '\n')
 
@@ -176,14 +238,19 @@ def build_catalog(root, c):
     return rows
 
 
-def build_questions(root, c):
+def build_questions(root, c, write=True):
     slug = c['slug']
     items = load_questions(root, slug)
     if items is None:
         return None
     rows = [{col: '' for col in QUESTIONS_COLUMNS} | {
         'collection': slug,
-        'section': _flat(it.get('section', '')), 'part': _flat(it.get('part', it.get('teil', ''))),
+        # No `teil` fallback. All 5,413 records were renamed to `part` on
+        # 2026-08-10 (gap P3) and zero carry the old key today, so a fallback
+        # would only ever hide a record that was never migrated. German's fork
+        # dropped it then; the shared engine kept it, and adopting the engine
+        # would have quietly reintroduced the shim it had already retired.
+        'section': _flat(it.get('section', '')), 'part': _flat(it.get('part', '')),
         'item': _flat(it.get('item', '')), 'item_type': _flat(it.get('item_type', '')),
         'instruction': _flat(it.get('instruction', '')),
         'question': _flat(it.get('question', '')),
@@ -195,8 +262,11 @@ def build_questions(root, c):
         'level': _flat(it.get('level', c.get('level', ''))),
         'topic': _flat(it.get('topic', '')), 'source_page': _flat(it.get('source_page', '')),
     } for it in items]
+    if not write:
+        return rows
     with atomic_open(os.path.join(root, slug, '%s-questions.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=QUESTIONS_COLUMNS)
+        w = csv.DictWriter(f, fieldnames=columns_for_kind('questions', export_config(root)),
+                           extrasaction='ignore')
         w.writeheader()
         w.writerows(rows)
     answered = sum(1 for r in rows if r['correct_answer'] and r['correct_answer'] != '(open-ended)')
@@ -204,7 +274,7 @@ def build_questions(root, c):
     return rows
 
 
-def build_vocabulary(root, c):
+def build_vocabulary(root, c, write=True):
     slug = c['slug']
     entries = load_vocab_entries(root, slug)
     if entries is None:
@@ -219,8 +289,11 @@ def build_vocabulary(root, c):
         'example': _flat(e.get('example', '')), 'topic': _flat(e.get('topic', '')),
         'source_page': _flat(e.get('source_page', '')),
     } for e in entries]
+    if not write:
+        return rows
     with atomic_open(os.path.join(root, slug, '%s-vocabulary.csv' % slug), 'w', encoding='utf-8-sig', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=VOCAB_COLUMNS)
+        w = csv.DictWriter(f, fieldnames=columns_for_kind('vocabulary', export_config(root)),
+                           extrasaction='ignore')
         w.writeheader()
         w.writerows(rows)
     nouns = sum(1 for r in rows if r['word_class'] == 'noun')
@@ -240,12 +313,25 @@ def main(argv):
 
     cols = load_collection_list(root)
     lang = lang_slug(root)
+    cfg = export_config(root)
     merged = {k: [] for k in KINDS}
+    by_family = {k: {} for k in KINDS}
+
+    def collect(kind, rows, c):
+        if not rows:
+            return
+        merged[kind].extend(rows)
+        fam = c.get('family')
+        if fam and cfg.get('family_basename'):
+            by_family[kind].setdefault(fam, []).extend(rows)
+
     for c in cols:
         slug = c['slug']
-        if c.get('frozen'):
-            print('%-32s frozen - skipped' % slug)
-            continue
+        # Frozen means "never regenerate this book's files", NOT "pretend this
+        # book has no data". Skipping it outright is why a German global held 334
+        # rows against a 636-page corpus: every frozen book silently vanished
+        # from the deliverable. Gather the rows, write nothing.
+        frozen = bool(c.get('frozen'))
         # A book on another pipeline is registered for VISIBILITY (so
         # reconcile.py reports it instead of it reading as done by omission --
         # gap P9), not for delivery. Its data predates the current taxonomy and
@@ -255,17 +341,18 @@ def main(argv):
             print('%-32s pipeline: %s - not exported (registered for visibility only)'
                   % (slug, c['pipeline']))
             continue
-        cat_rows = build_catalog(root, c)
-        if cat_rows:
-            merged['catalog'].extend(cat_rows)
-        q_rows = build_questions(root, c)
-        if q_rows:
-            merged['questions'].extend(q_rows)
-        v_rows = build_vocabulary(root, c)
-        if v_rows:
-            merged['vocabulary'].extend(v_rows)
+        collect('catalog', build_catalog(root, c, write=not frozen), c)
+        collect('questions', build_questions(root, c, write=not frozen), c)
+        collect('vocabulary', build_vocabulary(root, c, write=not frozen), c)
 
-    columns_for = {'catalog': CATALOG_COLUMNS, 'questions': QUESTIONS_COLUMNS, 'vocabulary': VOCAB_COLUMNS}
+    def write_sheet(path, kind, rows):
+        with atomic_open(path, 'w', encoding='utf-8-sig', newline='') as f:
+            w = csv.DictWriter(f, fieldnames=columns_for_kind(kind, cfg), extrasaction='ignore')
+            w.writeheader()
+            w.writerows(rows)
+
+    global_base = cfg.get('global_basename') or lang
+    family_base = cfg.get('family_basename')
     for kind in KINDS:
         if kind not in types_wanted:
             continue
@@ -273,11 +360,24 @@ def main(argv):
         if not rows:
             print('%-11s no rows found across all collections - skipped' % kind)
             continue
-        path = os.path.join(root, '%s-%s-all.csv' % (lang, kind))
-        with atomic_open(path, 'w', encoding='utf-8-sig', newline='') as f:
-            w = csv.DictWriter(f, fieldnames=columns_for[kind])
-            w.writeheader()
-            w.writerows(rows)
+        # Per-family sheets, when the language declares them. Built from the same
+        # in-memory rows as the global, so the two can never disagree -- unlike a
+        # merge step that re-reads family CSVs off disk, where a family sheet
+        # nobody regenerated silently becomes the source of truth.
+        if family_base:
+            for fam in sorted(by_family[kind]):
+                fam_rows = by_family[kind][fam]
+                fam_path = os.path.join(root, '%s-%s-all.csv' % (family_base.format(family=fam), kind))
+                write_sheet(fam_path, kind, fam_rows)
+                print('%-11s -> %s (%d rows)' % (kind, os.path.basename(fam_path), len(fam_rows)))
+        # With a family tier, the global is the family sheets end to end in
+        # alphabetical family order -- what the two-stage merge produced by
+        # globbing them off disk. Config order would reorder 636 rows for no
+        # reason and make the sheet's history unreadable in a diff.
+        if family_base:
+            rows = [r for fam in sorted(by_family[kind]) for r in by_family[kind][fam]]
+        path = os.path.join(root, '%s-%s-all.csv' % (global_base, kind))
+        write_sheet(path, kind, rows)
         # Row-count reconciliation: re-read what actually landed on disk and
         # compare against what we meant to write. Never trust "the writerows
         # call didn't raise" as proof nothing was silently dropped.
