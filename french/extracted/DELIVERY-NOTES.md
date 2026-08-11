@@ -145,3 +145,26 @@ will be added to this same folder as each finishes.
 
 Best,
 Harshan
+
+---
+
+## Re-upload 2026-08-11 — `v1.1.9`, commit `9bd75bd`
+
+**Quote that tag when reporting anything about this data.** It is the only thing
+that identifies which extraction produced a given Drive folder, and the same
+stamp is written into `_exports/START-HERE.md`.
+
+Superseded every earlier upload. The previous Drive copies predated four columns
+and a batch of answer corrections, so they were not merely older -- they were
+wrong:
+
+| Added since the last upload | Where |
+|---|---|
+| `instruction` (exercise rubrics) | questions sheets, both languages |
+| `translation`, `gender` | French vocabulary (4,303 translations recovered) |
+| `option_d`, `option_e` | questions sheets, both languages |
+| 41 corrected answers | German Netzwerk books: letter keys and lowercase true/false terms replaced with full text |
+
+Verified before upload: `verify_exports` and `check_exports_current` pass for
+both languages -- the latter for German for the first time, which was impossible
+until the forked exporter was retired (gap P1).

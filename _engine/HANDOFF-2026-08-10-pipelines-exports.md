@@ -152,6 +152,30 @@ than deleted: why a control exists is worth more than a tidy list.
 
 ## 6. Open work, in the order I would do it
 
+**Updated 2026-08-11, end of session.** The Drive re-upload is DONE, from
+`v1.1.9` / commit `9bd75bd` — recorded in both `DELIVERY-NOTES.md` files. P1 is
+closed: German runs the shared exporter, the four forked scripts are deleted, and
+`check_exports_current` covers German in CI for the first time.
+
+Next, in order:
+
+1. **DELF Prim decision** and **Legacy French decision** — the only two things
+   blocking on a human. Recommendation on record: source a complete DELF Prim
+   copy rather than process a book whose entire A1 mock exam is missing, and
+   formally park both legacy books (`revision-2` is 0/181; `conjugaison-a1-a2`
+   needs a QA pass *and* an engine migration for one conjugation workbook).
+2. **Stage 2 — the 221 unresolvable matching answers.** 140 French + 81 German
+   rows whose `correct_answer` is a bare letter with no options on the row, so a
+   reader cannot resolve it. Measured: only 15 of 221 are recoverable from the
+   existing transcriptions, so this is a targeted vision re-read of **83 pages**
+   (63 FR + 20 DE), then map letter → option text as was done for the German 41.
+   11 of the German rows sit in frozen books and need an explicit unfreeze.
+   Cheaper now than after two more books add their own matching exercises.
+3. **Saison 2** (215pp), then **Cosmopolite 5** (226pp), stop-and-report between.
+4. Retire `lingotran-engine-v1.1.0` once the frontend session moves to `develop`.
+
+### Original queue, for context
+
 1. **Re-upload both languages** to Drive (user action). French 12 CSV + 5 MD, German
    35 CSV + 12 MD.
 2. **DELF Prim decision** — the PDF is missing ~20 printed pages including the entire A1
