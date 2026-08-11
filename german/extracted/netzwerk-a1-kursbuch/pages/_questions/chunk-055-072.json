@@ -12,7 +12,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "daily-routine",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Arbeiten Sie zu zweit und sprechen Sie abwechselnd."
     },
     {
       "section": "speaking",
@@ -25,7 +26,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "daily-routine",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Und Ihr Tag? Erzählen Sie. Die anderen raten: Ist das am Wochenende oder nicht?"
     },
     {
       "section": "speaking",
@@ -38,7 +40,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "daily-routine",
-      "source_page": "055"
+      "source_page": "055",
+      "instruction": "Montag, Dienstag, Mittwoch … Mein Tag. Machen Sie fünf Fotos zu einem Tag und schreiben Sie zu jedem Foto einen Satz. Präsentieren Sie in Gruppen."
     },
     {
       "section": "listening",
@@ -51,7 +54,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Die Uhrzeiten. Hören Sie die Gespräche und ordnen Sie die Bilder zu."
     },
     {
       "section": "listening",
@@ -64,7 +68,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Ordnen Sie die Uhrzeiten den Bildern zu."
     },
     {
       "section": "listening",
@@ -77,7 +82,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Ordnen Sie die Uhrzeiten den Bildern zu."
     },
     {
       "section": "listening",
@@ -90,7 +96,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Ordnen Sie die Uhrzeiten den Bildern zu."
     },
     {
       "section": "listening",
@@ -103,7 +110,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Ordnen Sie die Uhrzeiten den Bildern zu."
     },
     {
       "section": "speaking",
@@ -116,7 +124,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wie spät ist es? Fragen und antworten Sie."
     },
     {
       "section": "listening",
@@ -129,7 +138,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Uhrzeit offiziell. Wann? Hören Sie und notieren Sie die Uhrzeit."
     },
     {
       "section": "speaking",
@@ -142,7 +152,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wie sagt man die Uhrzeiten in Ihrer Sprache? Vergleichen Sie."
     },
     {
       "section": "speaking",
@@ -155,7 +166,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "time-dates",
-      "source_page": "056"
+      "source_page": "056",
+      "instruction": "Wann …? – Um … Notieren Sie fünf Fragen. Arbeiten Sie dann zu zweit. Fragen und antworten Sie."
     },
     {
       "section": "reading",
@@ -168,7 +180,8 @@
       "option_c": "",
       "correct_answer": "von Sonntag bis Dienstag",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Sehen Sie den Kalender von Familie Dobart an. Ergänzen Sie die Sätze."
     },
     {
       "section": "reading",
@@ -181,7 +194,8 @@
       "option_c": "",
       "correct_answer": "von Freitag bis Sonntag",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Sehen Sie den Kalender von Familie Dobart an. Ergänzen Sie die Sätze."
     },
     {
       "section": "reading",
@@ -194,7 +208,8 @@
       "option_c": "",
       "correct_answer": "am Sonntag",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Sehen Sie den Kalender von Familie Dobart an. Ergänzen Sie die Sätze."
     },
     {
       "section": "reading",
@@ -207,7 +222,8 @@
       "option_c": "",
       "correct_answer": "am Montag",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Sehen Sie den Kalender von Familie Dobart an. Ergänzen Sie die Sätze."
     },
     {
       "section": "reading",
@@ -220,7 +236,8 @@
       "option_c": "",
       "correct_answer": "am Dienstag",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Sehen Sie den Kalender von Familie Dobart an. Ergänzen Sie die Sätze."
     },
     {
       "section": "listening",
@@ -233,7 +250,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Hören Sie das Gespräch. Sind die Sätze richtig oder falsch? Kreuzen Sie an und ergänzen Sie."
     },
     {
       "section": "listening",
@@ -246,7 +264,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Hören Sie das Gespräch. Sind die Sätze richtig oder falsch? Kreuzen Sie an und ergänzen Sie."
     },
     {
       "section": "listening",
@@ -259,7 +278,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Hören Sie das Gespräch. Sind die Sätze richtig oder falsch? Kreuzen Sie an und ergänzen Sie."
     },
     {
       "section": "listening",
@@ -272,7 +292,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Hören Sie das Gespräch. Sind die Sätze richtig oder falsch? Kreuzen Sie an und ergänzen Sie."
     },
     {
       "section": "",
@@ -285,7 +306,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Mara Dobart beschreibt ihre Familie. Ergänzen Sie."
     },
     {
       "section": "writing",
@@ -298,7 +320,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "family",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "Schreiben Sie einen Text wie in 8a über Ihre (Fantasie-)Familie."
     },
     {
       "section": "listening",
@@ -311,7 +334,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "none",
-      "source_page": "057"
+      "source_page": "057",
+      "instruction": "„r\" hören. Wo hören Sie „r\", wo hören Sie „a\"? Kreuzen Sie an. Wie ist die Regel? Hören Sie dann noch einmal und sprechen Sie nach."
     },
     {
       "section": "reading",
@@ -324,7 +348,8 @@
       "option_c": "",
       "correct_answer": "C",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Die Homepage von Familie Dobart. Ordnen Sie die Sätze den Fotos zu."
     },
     {
       "section": "reading",
@@ -337,7 +362,8 @@
       "option_c": "",
       "correct_answer": "F",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Die Homepage von Familie Dobart. Ordnen Sie die Sätze den Fotos zu."
     },
     {
       "section": "reading",
@@ -350,7 +376,8 @@
       "option_c": "",
       "correct_answer": "E",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Die Homepage von Familie Dobart. Ordnen Sie die Sätze den Fotos zu."
     },
     {
       "section": "reading",
@@ -363,7 +390,8 @@
       "option_c": "",
       "correct_answer": "D",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Die Homepage von Familie Dobart. Ordnen Sie die Sätze den Fotos zu."
     },
     {
       "section": "reading",
@@ -376,7 +404,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Die Homepage von Familie Dobart. Ordnen Sie die Sätze den Fotos zu."
     },
     {
       "section": "reading",
@@ -389,7 +418,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Die Homepage von Familie Dobart. Ordnen Sie die Sätze den Fotos zu."
     },
     {
       "section": "reading",
@@ -402,7 +432,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Das Gästebuch. Lesen Sie die Einträge und ergänzen Sie die Possessivartikel."
     },
     {
       "section": "speaking",
@@ -415,7 +446,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "family",
-      "source_page": "058"
+      "source_page": "058",
+      "instruction": "Arbeiten Sie zu dritt oder zu viert. Jede/r schreibt fünf Karten mit einem Personalpronomen und fünf Karten mit einem Nomen plus Artikel. Machen Sie zwei Stapel: einen mit den Pronomen und einen mit den Nomen. Ziehen Sie abwechselnd zwei Karten und bilden Sie Sätze."
     },
     {
       "section": "reading",
@@ -428,7 +460,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Stress! Lesen Sie die E-Mail. Markieren Sie die Modalverben können, müssen und wollen. Unterstreichen Sie dann die anderen Verben."
     },
     {
       "section": "speaking",
@@ -441,7 +474,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Was muss Mara machen? Was kann sie (nicht) machen? Was will sie machen? Berichten Sie."
     },
     {
       "section": "reading",
@@ -454,7 +488,8 @@
       "option_c": "",
       "correct_answer": "können",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Lesen Sie Johannas Antwort und ergänzen Sie die Modalverben in der richtigen Form."
     },
     {
       "section": "reading",
@@ -467,7 +502,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Lesen Sie Johannas Antwort und ergänzen Sie die Modalverben in der richtigen Form."
     },
     {
       "section": "reading",
@@ -480,7 +516,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Lesen Sie Johannas Antwort und ergänzen Sie die Modalverben in der richtigen Form."
     },
     {
       "section": "reading",
@@ -493,7 +530,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Lesen Sie Johannas Antwort und ergänzen Sie die Modalverben in der richtigen Form."
     },
     {
       "section": "reading",
@@ -506,7 +544,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Lesen Sie Johannas Antwort und ergänzen Sie die Modalverben in der richtigen Form."
     },
     {
       "section": "reading",
@@ -519,7 +558,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Lesen Sie Johannas Antwort und ergänzen Sie die Modalverben in der richtigen Form."
     },
     {
       "section": "reading",
@@ -532,7 +572,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Lesen Sie Johannas Antwort und ergänzen Sie die Modalverben in der richtigen Form."
     },
     {
       "section": "speaking",
@@ -545,7 +586,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "059"
+      "source_page": "059",
+      "instruction": "Hören Sie das Gespräch und variieren Sie den Dialog dreimal mit verschiedenen Personen."
     },
     {
       "section": "listening",
@@ -558,7 +600,8 @@
       "option_c": "",
       "correct_answer": "C",
       "topic": "communication",
-      "source_page": "060"
+      "source_page": "060",
+      "instruction": "Termin beim Arzt. Hören Sie das Gespräch. Ordnen Sie die Aussagen zu."
     },
     {
       "section": "listening",
@@ -571,7 +614,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "communication",
-      "source_page": "060"
+      "source_page": "060",
+      "instruction": "Termin beim Arzt. Hören Sie das Gespräch. Ordnen Sie die Aussagen zu."
     },
     {
       "section": "listening",
@@ -584,7 +628,8 @@
       "option_c": "",
       "correct_answer": "D",
       "topic": "communication",
-      "source_page": "060"
+      "source_page": "060",
+      "instruction": "Termin beim Arzt. Hören Sie das Gespräch. Ordnen Sie die Aussagen zu."
     },
     {
       "section": "listening",
@@ -597,7 +642,8 @@
       "option_c": "",
       "correct_answer": "E",
       "topic": "communication",
-      "source_page": "060"
+      "source_page": "060",
+      "instruction": "Termin beim Arzt. Hören Sie das Gespräch. Ordnen Sie die Aussagen zu."
     },
     {
       "section": "listening",
@@ -610,7 +656,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "communication",
-      "source_page": "060"
+      "source_page": "060",
+      "instruction": "Termin beim Arzt. Hören Sie das Gespräch. Ordnen Sie die Aussagen zu."
     },
     {
       "section": "speaking",
@@ -623,7 +670,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "060"
+      "source_page": "060",
+      "instruction": "Lesen Sie den Dialog mit einem Partner / einer Partnerin."
     },
     {
       "section": "speaking",
@@ -636,7 +684,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "060"
+      "source_page": "060",
+      "instruction": "Vereinbaren Sie einen Termin. Wählen Sie eine Rollenkarte und spielen Sie die Dialoge."
     },
     {
       "section": "reading",
@@ -649,7 +698,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "Lesen Sie und sehen Sie die Bilder an. Kann man hier zu spät kommen? Wie viele Minuten? Markieren und vergleichen Sie."
     },
     {
       "section": "listening",
@@ -662,7 +712,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "Hören Sie. Wie viele Minuten sind die Personen zu spät? Ist das ein Problem? Ergänzen Sie die Tabelle."
     },
     {
       "section": "speaking",
@@ -675,7 +726,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -688,7 +740,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -701,7 +754,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -714,7 +768,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -727,7 +782,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -740,7 +796,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -753,7 +810,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -766,7 +824,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "A wartet, B kommt zu spät. Was sagt A, was sagt B?"
     },
     {
       "section": "speaking",
@@ -779,7 +838,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "061"
+      "source_page": "061",
+      "instruction": "Arbeiten Sie in Gruppen und spielen Sie die Situationen aus 15a."
     },
     {
       "section": "listening",
@@ -792,7 +852,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "062"
+      "source_page": "062",
+      "instruction": "Wir gehen joggen. Sehen Sie Szene 10. Was passiert zuerst, was später? Ordnen Sie die Aussagen."
     },
     {
       "section": "listening",
@@ -805,7 +866,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "062"
+      "source_page": "062",
+      "instruction": "Wo ist Max? Sehen Sie Szene 11. Wer macht das? Ergänzen Sie die Namen Anna, Bea, Luca und Max."
     },
     {
       "section": "speaking",
@@ -818,7 +880,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "mixed",
-      "source_page": "062"
+      "source_page": "062",
+      "instruction": "Was glauben Sie: Was machen Luca, Bea und Anna? Kreuzen Sie an und vergleichen Sie im Kurs."
     },
     {
       "section": "listening",
@@ -831,7 +894,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "062"
+      "source_page": "062",
+      "instruction": "Mmh, lecker. Sehen Sie Szene 12. Sind Ihre Vermutungen aus 18a richtig?"
     },
     {
       "section": "listening",
@@ -844,7 +908,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "062"
+      "source_page": "062",
+      "instruction": "Sehen Sie Szene 12 noch einmal. Zu welchen Fotos passen die Denkblasen? Ordnen Sie zu."
     },
     {
       "section": "speaking",
@@ -857,7 +922,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "064"
+      "source_page": "064",
+      "instruction": "Sehen Sie die Fotos an. Welche Freizeitaktivität passt? Raten Sie."
     },
     {
       "section": "speaking",
@@ -870,7 +936,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "064"
+      "source_page": "064",
+      "instruction": "Welche Wörter in 1a sind ähnlich in Ihrer Sprache oder kennen Sie schon aus anderen Sprachen?"
     },
     {
       "section": "speaking",
@@ -883,7 +950,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "065"
+      "source_page": "065",
+      "instruction": "Arbeiten Sie zu zweit. Wählen Sie drei Fotos. Notieren Sie zu den Fotos fünf Wörter. Das Wörterbuch hilft. Wer ist zuerst fertig?"
     },
     {
       "section": "listening",
@@ -896,7 +964,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "hobby",
-      "source_page": "065"
+      "source_page": "065",
+      "instruction": "Hören Sie. Um welche Freizeitaktivitäten geht es? Notieren Sie."
     },
     {
       "section": "speaking",
@@ -909,7 +978,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "065"
+      "source_page": "065",
+      "instruction": "Welche Freizeitaktivitäten mögen Sie? Suchen Sie Fotos und machen Sie Ratebilder oder spielen Sie Pantomime. Die anderen raten."
     },
     {
       "section": "reading",
@@ -922,7 +992,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "time-dates",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "Sofias Geburtstag. Lesen Sie: Was planen Marc und Anne?"
     },
     {
       "section": "reading",
@@ -935,7 +1006,8 @@
       "option_c": "",
       "correct_answer": "hat",
       "topic": "time-dates",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "Was ist an den Tagen? Lesen Sie noch einmal. Ergänzen Sie die Sätze."
     },
     {
       "section": "reading",
@@ -948,7 +1020,8 @@
       "option_c": "",
       "correct_answer": "arbeitet",
       "topic": "time-dates",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "Was ist an den Tagen? Lesen Sie noch einmal. Ergänzen Sie die Sätze."
     },
     {
       "section": "reading",
@@ -961,7 +1034,8 @@
       "option_c": "",
       "correct_answer": "feiern",
       "topic": "time-dates",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "Was ist an den Tagen? Lesen Sie noch einmal. Ergänzen Sie die Sätze."
     },
     {
       "section": "reading",
@@ -974,7 +1048,8 @@
       "option_c": "",
       "correct_answer": "besucht",
       "topic": "time-dates",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "Was ist an den Tagen? Lesen Sie noch einmal. Ergänzen Sie die Sätze."
     },
     {
       "section": "listening",
@@ -987,7 +1062,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "Wann haben die Personen Geburtstag? Hören Sie und notieren Sie das Datum. Was ist besonders an den Geburtstagen?"
     },
     {
       "section": "listening",
@@ -1000,7 +1076,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "time-dates",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "ei, eu, au. Wann haben die Personen Geburtstag? Hören und verbinden Sie."
     },
     {
       "section": "listening",
@@ -1013,7 +1090,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "none",
-      "source_page": "066"
+      "source_page": "066",
+      "instruction": "Hören Sie und sprechen Sie nach."
     },
     {
       "section": "reading",
@@ -1026,7 +1104,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Die Einladung. Lesen Sie und beschreiben Sie: Was wollen die Freunde machen?"
     },
     {
       "section": "reading",
@@ -1039,7 +1118,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Markieren Sie die Verben mitmachen, einladen, anfangen, abholen, mitbringen, einsammeln, anrufen und mitkommen. Was ist besonders?"
     },
     {
       "section": "",
@@ -1052,7 +1132,8 @@
       "option_c": "",
       "correct_answer": "Marc und Anne laden alle Freunde ein.",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Bilden Sie Sätze. Beginnen Sie mit den markierten Wörtern."
     },
     {
       "section": "",
@@ -1065,7 +1146,8 @@
       "option_c": "",
       "correct_answer": "Der Tag fängt um 10 Uhr an.",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Bilden Sie Sätze. Beginnen Sie mit den markierten Wörtern."
     },
     {
       "section": "",
@@ -1078,7 +1160,8 @@
       "option_c": "",
       "correct_answer": "Sie holen Sofia zusammen ab.",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Bilden Sie Sätze. Beginnen Sie mit den markierten Wörtern."
     },
     {
       "section": "",
@@ -1091,7 +1174,8 @@
       "option_c": "",
       "correct_answer": "Das Essen bringen Marc und Anne mit.",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Bilden Sie Sätze. Beginnen Sie mit den markierten Wörtern."
     },
     {
       "section": "",
@@ -1104,7 +1188,8 @@
       "option_c": "",
       "correct_answer": "Bei Regen rufen sie alle an.",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Bilden Sie Sätze. Beginnen Sie mit den markierten Wörtern."
     },
     {
       "section": "",
@@ -1117,7 +1202,8 @@
       "option_c": "",
       "correct_answer": "Marc und Anne sammeln Geld ein.",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Bilden Sie Sätze. Beginnen Sie mit den markierten Wörtern."
     },
     {
       "section": "",
@@ -1130,7 +1216,8 @@
       "option_c": "",
       "correct_answer": "Am Samstag können viele Freunde mitkommen.",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Bilden Sie Sätze. Beginnen Sie mit den markierten Wörtern."
     },
     {
       "section": "speaking",
@@ -1143,7 +1230,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Wie feiern Sie Geburtstag? Fragen Sie Ihren Partner / Ihre Partnerin und notieren Sie die Antworten."
     },
     {
       "section": "speaking",
@@ -1156,7 +1244,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Wie feiern Sie Geburtstag? Fragen Sie Ihren Partner / Ihre Partnerin und notieren Sie die Antworten."
     },
     {
       "section": "speaking",
@@ -1169,7 +1258,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Wie feiern Sie Geburtstag? Fragen Sie Ihren Partner / Ihre Partnerin und notieren Sie die Antworten."
     },
     {
       "section": "speaking",
@@ -1182,7 +1272,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Wie feiern Sie Geburtstag? Fragen Sie Ihren Partner / Ihre Partnerin und notieren Sie die Antworten."
     },
     {
       "section": "speaking",
@@ -1195,7 +1286,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Wie feiern Sie Geburtstag? Fragen Sie Ihren Partner / Ihre Partnerin und notieren Sie die Antworten."
     },
     {
       "section": "speaking",
@@ -1208,7 +1300,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Suchen Sie einen anderen Partner / eine andere Partnerin und berichten Sie von Ihrem Interview."
     },
     {
       "section": "writing",
@@ -1221,7 +1314,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "communication",
-      "source_page": "067"
+      "source_page": "067",
+      "instruction": "Ein Fest mit Freunden. Schreiben Sie eine Einladungs-Mail. Machen Sie zuerst Notizen zu den Fragen."
     },
     {
       "section": "speaking",
@@ -1234,7 +1328,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "restaurant",
-      "source_page": "068"
+      "source_page": "068",
+      "instruction": "Jan trifft Leela. Sehen Sie die Bilder an. Was passiert? Wie ist das in Ihrem Land? Erzählen Sie."
     },
     {
       "section": "listening",
@@ -1247,7 +1342,8 @@
       "option_c": "",
       "correct_answer": "Jan: Apfelsaftschorle + Pizza mit Gemüse; Leela: Cola + Salat mit Käse; Wasser für den Hund",
       "topic": "restaurant",
-      "source_page": "068"
+      "source_page": "068",
+      "instruction": "Die Bestellung. Hören Sie das Gespräch. Was bestellen Jan und Leela? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1260,7 +1356,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "068"
+      "source_page": "068",
+      "instruction": "Personalpronomen im Akkusativ. Hören Sie noch einmal einen Teil des Gesprächs aus 10a. Ergänzen Sie."
     },
     {
       "section": "speaking",
@@ -1273,7 +1370,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "restaurant",
-      "source_page": "068"
+      "source_page": "068",
+      "instruction": "Für wen ist was? Spielen Sie zu zweit. Jede/r würfelt zwei Mal: das erste Mal für das Essen/Getränk, das zweite Mal für das Personalpronomen. Bilden Sie Sätze."
     },
     {
       "section": "speaking",
@@ -1286,7 +1384,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Was möchten Sie? Spielen Sie zu dritt Dialoge."
     },
     {
       "section": "listening",
@@ -1299,7 +1398,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Bezahlen im Restaurant. Hören Sie und ordnen Sie den Dialog. Wer sagt was?"
     },
     {
       "section": "speaking",
@@ -1312,7 +1412,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Variieren Sie den Dialog."
     },
     {
       "section": "listening",
@@ -1325,7 +1426,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Welche Aussagen sind richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1338,7 +1440,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Welche Aussagen sind richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1351,7 +1454,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Welche Aussagen sind richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1364,7 +1468,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Welche Aussagen sind richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1377,7 +1482,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Welche Aussagen sind richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1390,7 +1496,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Welche Aussagen sind richtig? Kreuzen Sie an."
     },
     {
       "section": "listening",
@@ -1403,7 +1510,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Welche Aussagen sind richtig? Kreuzen Sie an."
     },
     {
       "section": "speaking",
@@ -1416,7 +1524,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "restaurant",
-      "source_page": "069"
+      "source_page": "069",
+      "instruction": "Arbeiten Sie zu zweit. Erzählen Sie von einem Besuch im Restaurant oder Café. Wie war es?"
     },
     {
       "section": "reading",
@@ -1429,7 +1538,8 @@
       "option_c": "",
       "correct_answer": "in Wien; meistens bis 23 Uhr; Kaffee und andere Getränke, richtig essen oder nur Kuchen",
       "topic": "restaurant",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Verschiedene Lokale. Lesen Sie die Texte und ergänzen Sie die Tabelle."
     },
     {
       "section": "reading",
@@ -1442,7 +1552,8 @@
       "option_c": "",
       "correct_answer": "in Bayern; nur im Sommer; Getränke kaufen, Essen selbst mitbringen (Selbstbedienung)",
       "topic": "restaurant",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Verschiedene Lokale. Lesen Sie die Texte und ergänzen Sie die Tabelle."
     },
     {
       "section": "reading",
@@ -1455,7 +1566,8 @@
       "option_c": "",
       "correct_answer": "an einem Fluss oder See; nur im Sommer bei Sonne und gutem Wetter; trinken und essen",
       "topic": "restaurant",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Verschiedene Lokale. Lesen Sie die Texte und ergänzen Sie die Tabelle."
     },
     {
       "section": "reading",
@@ -1468,7 +1580,8 @@
       "option_c": "",
       "correct_answer": "überall; meistens ab Nachmittag bis spät nachts; kleine Gerichte, z. B. Sandwiches",
       "topic": "restaurant",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Verschiedene Lokale. Lesen Sie die Texte und ergänzen Sie die Tabelle."
     },
     {
       "section": "speaking",
@@ -1481,7 +1594,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "restaurant",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Was finden Sie interessant? Welches Lokal möchten Sie gern besuchen? Sprechen Sie in Gruppen."
     },
     {
       "section": "speaking",
@@ -1494,7 +1608,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "restaurant",
-      "source_page": "070"
+      "source_page": "070",
+      "instruction": "Welche typischen Lokale gibt es in Ihrem Land / in Ihrer Stadt? Berichten Sie."
     },
     {
       "section": "reading",
@@ -1507,7 +1622,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "hobby",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Lesen Sie die Anzeigen. Wo fehlen diese Informationen?"
     },
     {
       "section": "listening",
@@ -1520,7 +1636,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "hobby",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Hören Sie und ergänzen Sie die Informationen."
     },
     {
       "section": "speaking",
@@ -1533,7 +1650,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Was wollen Sie gern machen? Sprechen Sie im Kurs und finden Sie für alle Aktivitäten einen Partner / eine Partnerin. Notieren Sie die Namen."
     },
     {
       "section": "speaking",
@@ -1546,7 +1664,8 @@
       "option_c": "",
       "correct_answer": "(open-ended)",
       "topic": "hobby",
-      "source_page": "071"
+      "source_page": "071",
+      "instruction": "Was kann man in Ihrer Stadt machen? Recherchieren Sie und präsentieren Sie im Kurs."
     },
     {
       "section": "listening",
@@ -1559,7 +1678,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Luca hat Geburtstag. Sehen Sie Szene 13. Was bereiten Anna, Max und Bea für die Party vor? Verbinden Sie die Wörter mit dem Foto."
     },
     {
       "section": "listening",
@@ -1572,7 +1692,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Was ist richtig? Kreuzen Sie an. Sehen Sie dann die Szene noch einmal und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -1585,7 +1706,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Was ist richtig? Kreuzen Sie an. Sehen Sie dann die Szene noch einmal und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -1598,7 +1720,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Was ist richtig? Kreuzen Sie an. Sehen Sie dann die Szene noch einmal und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -1611,7 +1734,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Was ist richtig? Kreuzen Sie an. Sehen Sie dann die Szene noch einmal und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -1624,7 +1748,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Was ist richtig? Kreuzen Sie an. Sehen Sie dann die Szene noch einmal und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -1637,7 +1762,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Was ist richtig? Kreuzen Sie an. Sehen Sie dann die Szene noch einmal und kontrollieren Sie."
     },
     {
       "section": "listening",
@@ -1650,7 +1776,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Lucas Einladung. Sehen Sie Szene 14. Was essen und trinken Luca, Anna und Max? Markieren Sie in der Speisekarte."
     },
     {
       "section": "listening",
@@ -1663,7 +1790,8 @@
       "option_c": "",
       "correct_answer": "C",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Essen für Bea. Sehen Sie Szene 15. Was sagt Bea am Telefon? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -1676,7 +1804,8 @@
       "option_c": "",
       "correct_answer": "D",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Essen für Bea. Sehen Sie Szene 15. Was sagt Bea am Telefon? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -1689,7 +1818,8 @@
       "option_c": "",
       "correct_answer": "A",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Essen für Bea. Sehen Sie Szene 15. Was sagt Bea am Telefon? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -1702,7 +1832,8 @@
       "option_c": "",
       "correct_answer": "B",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Essen für Bea. Sehen Sie Szene 15. Was sagt Bea am Telefon? Ordnen Sie zu."
     },
     {
       "section": "listening",
@@ -1715,7 +1846,8 @@
       "option_c": "",
       "correct_answer": "",
       "topic": "mixed",
-      "source_page": "072"
+      "source_page": "072",
+      "instruction": "Sehen Sie die Szene noch einmal. Wer sagt was? Ordnen Sie zu."
     }
   ]
 }

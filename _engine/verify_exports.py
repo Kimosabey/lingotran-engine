@@ -54,11 +54,11 @@ CANON = {
                 'activity_type', 'topic', 'level', 'status', 'qa', 'word_count',
                 'summary', 'title'],
 }
-# `chapter` exists only in French (German books carry no chapter frontmatter).
-# `instruction` is French-only until German's rubrics are backfilled the same
-# way; making it optional keeps German from shipping an empty column, exactly
-# the defect that removing the header-only CSVs fixed.
-OPTIONAL = {'catalog': {'chapter'}, 'questions': {'instruction'}}
+# `chapter` is the one legitimate per-language difference: German books carry
+# no chapter frontmatter, and a permanently-empty column reads worse than an
+# absent one. `instruction` WAS optional while only French had rubrics; both
+# languages are now backfilled (9,744 items), so it is required again.
+OPTIONAL = {'catalog': {'chapter'}}
 
 # Cells a human reads. Machine/enum columns are covered by the taxonomy rules
 # in agent_enrich.md and by verify_answers.py.

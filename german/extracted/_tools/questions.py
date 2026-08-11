@@ -5,7 +5,7 @@ Reads each collection's pages/_questions.json (produced by
 questions.workflow.js) and writes:
 
   <collection>/<collection>-questions.csv   one row per exam item:
-      collection, section, part, item, item_type, question,
+      collection, section, part, item, item_type, instruction, question,
       option_a, option_b, option_c, correct_answer, level, topic, source_page
   <family>-a1-questions-all.csv   per-publisher combined (goethe|netzwerk|goyal)
   (the global german-a1-questions-all.csv is built by merge_all.py)
@@ -38,9 +38,9 @@ CONFIG = os.path.join(TOOLS, 'collections.json')
 # `level` is carried too, so both languages' questions sheets have the same
 # shape; German records it per collection rather than per item (every German
 # collection is a single fixed CEFR level).
-COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'question',
-           'option_a', 'option_b', 'option_c', 'correct_answer', 'level', 'topic',
-           'source_page']
+COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'instruction',
+           'question', 'option_a', 'option_b', 'option_c', 'correct_answer',
+           'level', 'topic', 'source_page']
 
 
 def load_collections():
@@ -66,6 +66,7 @@ def row_for(slug, it, level=''):
         'section': _flat(it.get('section', '')),
         'part': _flat(it.get('part', it.get('teil', ''))),
         'item': _flat(it.get('item', '')), 'item_type': _flat(it.get('item_type', '')),
+        'instruction': _flat(it.get('instruction', '')),
         'question': _flat(it.get('question', '')),
         'option_a': _flat(it.get('option_a', '')), 'option_b': _flat(it.get('option_b', '')),
         'option_c': _flat(it.get('option_c', '')),
