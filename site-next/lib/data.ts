@@ -388,6 +388,11 @@ export const french = {
       caveats: [
         "Page 3 (Avant-propos/foreword) could not be transcribed: a platform content-safety " +
           "constraint blocks on the two author headshot photos, not on any book content.",
+        "The vocabulary sheet's <em>translation</em> column is blank for all 1,175 entries, and that " +
+          "is the book rather than missing data: Cosmopolite 1 is a monolingual <em>méthode de " +
+          "français</em> that teaches French through French and prints no English gloss anywhere. " +
+          "The column is filled for the two Tricolore books, which do print a French–English " +
+          "glossary. Nothing is ever translated on a book’s behalf — a blank means the page was blank.",
       ],
       about: {
         intro:
