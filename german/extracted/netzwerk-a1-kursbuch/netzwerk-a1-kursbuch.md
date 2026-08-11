@@ -1,6 +1,6 @@
 # Netzwerk neu A1 · Kursbuch
 
-> Unified transcription of `pdf/klett-netzwerk-neu/a1-kursbuch/kursbuch.pdf` — 174 pages. Source: Klett — Netzwerk neu A1 (coursebook).
+> Unified transcription of `pdf/klett-netzwerk-neu/a1-kursbuch/kursbuch.pdf` - 174 pages. Source: Klett — Netzwerk neu A1 (coursebook).
 > Generated 2026-08-11. Filterable sheet: `netzwerk-a1-kursbuch-catalog.csv`.
 
 ## Overview
@@ -78,6 +78,12 @@
 | restaurant | 3 |
 | family | 2 |
 | weather | 1 |
+
+## Known limitations
+
+- Items on p030 are a 'Kreuzen Sie an' tick-box listening task (which places does the taxi driver name?) with no printed answer words. Each option is stored as a true-false item answered ja/nein, whereas the rest of the corpus uses Richtig/Falsch. Neither form is verbatim — the book prints a checkbox — so this is a representation inconsistency, recorded rather than silently rewritten. Waived in accepted_answer_flags.
+- Answer-value casing is inconsistent within this book: 4 'richtig' and 5 'falsch' are lowercase where the corpus standard is capitalised. verify_answers.py would normalise these; the pass has not been run because it mutates a delivered book and requires a re-export plus a Drive re-upload.
+- Vocabulary sheet: `example` is filled for only 9% of entries — the book prints it rarely
 
 ## Page index
 
@@ -260,7 +266,7 @@
 
 ---
 
-## Page 001  — cover · cover · none
+## Page 001  -- cover - cover - none
 
 # Netzwerk neu
 
@@ -275,7 +281,7 @@ Tanja Sieber
 Ernst Klett Sprachen
 Stuttgart
 
-## Page 002  — intro · none · none
+## Page 002  -- intro - none - none
 
 **Autoren:** Stefanie Dengler, Paul Rusch, Helen Schmitz, Tanja Sieber
 **Beratung und Gutachten:** Henriette Bilzer (Jena), Foelke Feenders (Barcelona), Jelena Jovanovic (München), Priscilla Nascimento (São Paolo), Annegret Schmidjell (Seehausen), Esther Siregar (Depok), Annekatrin Weiß (Jena)
@@ -340,7 +346,7 @@ ISBN 978-3-12-607156-7
 <!-- Barcode: 9 783126 071567 -->
 <!-- FSC-Logo: MIX · Papier aus verantwortungsvollen Quellen · FSC® C084279 -->
 
-## Page 003  — intro, instructions · instructions · none
+## Page 003  -- intro, instructions - instructions - none
 
 # Netzwerk neu A1
 
@@ -371,7 +377,7 @@ ISBN 978-3-12-607156-7
 | ! | Hier lernen Sie eine Strategie oder bekommen Tipps. |
 | (Symbol) | Hier lernen Sie etwas über gesprochene Sprache. |
 
-## Page 004  — toc · none · none
+## Page 004  -- toc - none - none
 
 ## 1 Guten Tag! — 8
 
@@ -414,7 +420,7 @@ Plätze und Gebäude benennen | Fragen zu Orten stellen und antworten | Verkehrs
 
 **Plattform 1:** wiederholen und trainieren, Landeskunde: berühmte Personen, Städte in D-A-CH — 38
 
-## Page 005  — toc · none · none
+## Page 005  -- toc - none - none
 
 ## 4 Guten Appetit! — 44
 
@@ -457,7 +463,7 @@ die Uhrzeit verstehen und nennen | Zeitangaben machen | über Familie sprechen |
 
 **Plattform 2:** wiederholen und trainieren, Landeskunde: Essen in D-A-CH — 74
 
-## Page 006  — toc · none · none
+## Page 006  -- toc - none - none
 
 ## 7 Arbeitsalltag — 80
 
@@ -500,7 +506,7 @@ Wohnungsanzeigen verstehen | eine Wohnung beschreiben | die Wohnungseinrichtung 
 
 **Plattform 3:** wiederholen und trainieren, Landeskunde: Lied „Like, like", Wohntypen — 110
 
-## Page 007  — toc · none · none
+## Page 007  -- toc - none - none
 
 # 10 Studium und Beruf — 116
 
@@ -545,7 +551,7 @@ Vorschläge für eine Stadttour machen | eine Wegbeschreibung verstehen | einen 
 
 **Anhang** Grammatikübersicht 152 | unregelmäßige Verben 160 | alphabetische Wortliste 162 | Quellenverzeichnis 175
 
-## Page 008  — chapter-opener, exercise · matching · mixed
+## Page 008  -- chapter-opener, exercise - matching - mixed
 
 grüßen und verabschieden | sich und andere vorstellen | nach dem Befinden fragen und darauf reagieren | über sich und andere sprechen | Zahlen bis 20 nennen | Telefonnummer und E-Mail-Adresse nennen |
 
@@ -569,7 +575,7 @@ Bildergalerie mit neun nummerierten Fotos (internationale Wörter):
 
 *1 – F*
 
-## Page 009  — chapter-opener, exercise · vocabulary · mixed
+## Page 009  -- chapter-opener, exercise - vocabulary - mixed
 
 buchstabieren | über Länder und Sprachen sprechen
 
@@ -597,7 +603,7 @@ Bildkarten A–I mit deutschen Wörtern (Zuordnung zu Aufgabe 1a):
 
 neun 9
 
-## Page 010  — lesson, dialogue, exercise · listening-comprehension · personal-info
+## Page 010  -- lesson, dialogue, exercise - listening-comprehension - personal-info
 
 **1** | grüßen, sich vorstellen, verabschieden
 
@@ -648,7 +654,7 @@ neun 9
 
 10 zehn
 
-## Page 011  — lesson, dialogue, exercise, grammar-box · listening-comprehension · personal-info
+## Page 011  -- lesson, dialogue, exercise, grammar-box - listening-comprehension - personal-info
 
 > Kopfzeile: grüßen, sich und andere vorstellen, verabschieden — **1**
 
@@ -724,7 +730,7 @@ Auf Wiedersehen!
 
 > Seitenzahl: elf **11**
 
-## Page 012  — lesson, exercise, dialogue, grammar-box · matching · personal-info
+## Page 012  -- lesson, exercise, dialogue, grammar-box - matching - personal-info
 
 > Kopfzeile: **1** — über sich und andere sprechen
 
@@ -806,7 +812,7 @@ Auf Wiedersehen!
 
 > Seitenzahl: **12** zwölf
 
-## Page 013  — lesson, exercise, vocabulary, dialogue, listening-sheet, speaking-prompt · vocabulary · personal-info
+## Page 013  -- lesson, exercise, vocabulary, dialogue, listening-sheet, speaking-prompt - vocabulary - personal-info
 
 [Kapitel-Banner oben rechts: 1]
 
@@ -890,7 +896,7 @@ Bitte ein bisschen langsamer.
 
 dreizehn   13
 
-## Page 014  — reading · lesson, reading-text, exercise · reading-comprehension · personal-info
+## Page 014  -- reading - lesson, reading-text, exercise - reading-comprehension - personal-info
 
 [Kapitel-Banner oben links: 1]
 
@@ -922,7 +928,7 @@ dreizehn   13
 
 14   vierzehn
 
-## Page 015  — lesson, reading-text, exercise, speaking-prompt, writing-prompt · fill-in · personal-info
+## Page 015  -- lesson, reading-text, exercise, speaking-prompt, writing-prompt - fill-in - personal-info
 
 [Kapitel-Banner oben rechts: 1]
 
@@ -990,7 +996,7 @@ Name | Land | Stadt | Sprachen
 
 fünfzehn   15
 
-## Page 016  — listening · lesson, exercise, listening-sheet, dialogue · matching · personal-info
+## Page 016  -- listening - lesson, exercise, listening-sheet, dialogue - matching - personal-info
 
 [Kapitel-Banner oben links: 1]
 
@@ -1045,7 +1051,7 @@ Name: *Bea K*
 
 16   sechzehn
 
-## Page 017  — review, grammar-box · none · personal-info
+## Page 017  -- review, grammar-box - none - personal-info
 
 [Kapitel-Banner oben rechts: 1]
 
@@ -1135,7 +1141,7 @@ Das ist **Jan**. **Er** kommt aus Frankfurt. **Er** wohnt in Zürich.
 
 siebzehn   17
 
-## Page 018  — listening · chapter-opener, exercise, vocabulary, listening-sheet · listening-comprehension · hobby
+## Page 018  -- listening - chapter-opener, exercise, vocabulary, listening-sheet - listening-comprehension - hobby
 
 [Kapitel-Auftaktseite]
 
@@ -1171,7 +1177,7 @@ ___________________________
 
 18   achtzehn
 
-## Page 019  — chapter-opener, vocabulary, exercise, speaking-prompt · speaking-task · hobby
+## Page 019  -- chapter-opener, vocabulary, exercise, speaking-prompt - speaking-task - hobby
 
 **2**
 
@@ -1204,7 +1210,7 @@ _(Fortsetzung des Foto-Rasters zu den Aktivitäten; Bildbeschriftungen:)_
 
 neunzehn 19
 
-## Page 020  — lesson, exercise, grammar-box, speaking-prompt · fill-in · hobby
+## Page 020  -- lesson, exercise, grammar-box, speaking-prompt - fill-in - hobby
 
 **2** · über Hobbys sprechen
 
@@ -1262,7 +1268,7 @@ kochen | schwimmen | tanzen | reisen | singen | joggen | fotografieren | gehen |
 
 20 zwanzig
 
-## Page 021  — lesson, listening-sheet, exercise, dialogue, speaking-prompt, grammar-box, vocabulary · speaking-task · hobby
+## Page 021  -- lesson, listening-sheet, exercise, dialogue, speaking-prompt, grammar-box, vocabulary - speaking-task - hobby
 
 sich verabreden, Wochentage benennen · **2**
 
@@ -1316,7 +1322,7 @@ Dienstag: ...
 
 einundzwanzig 21
 
-## Page 022  — lesson, vocabulary, exercise, grammar-box, reading-text, listening-sheet · reading-comprehension · profession
+## Page 022  -- lesson, vocabulary, exercise, grammar-box, reading-text, listening-sheet - reading-comprehension - profession
 
 **2** · über Arbeit, Berufe und Arbeitszeiten sprechen
 
@@ -1379,7 +1385,7 @@ _(handschriftliche Tabellenüberschriften:)_
 
 22 zweiundzwanzig
 
-## Page 023  — exercise, grammar-box, vocabulary, speaking-prompt, writing-prompt · fill-in · profession
+## Page 023  -- exercise, grammar-box, vocabulary, speaking-prompt, writing-prompt - fill-in - profession
 
 über Arbeit, Berufe und Arbeitszeiten sprechen · **2**
 
@@ -1452,7 +1458,7 @@ _(Sprechblase:)_ Marc ist Ingenieur. Er ...
 
 dreiundzwanzig 23
 
-## Page 024  — vocabulary · lesson, vocabulary, exercise · vocabulary · none
+## Page 024  -- vocabulary - lesson, vocabulary, exercise - vocabulary - none
 
 **2** · Artikel lernen
 
@@ -1492,7 +1498,7 @@ _(Zeichnung: Straßenszene mit Gebäuden – UNIVERSITÄT, KRANKENHAUS, Restaura
 
 24 vierundzwanzig
 
-## Page 025  — writing · exercise, lesson · fill-in · personal-info
+## Page 025  -- writing - exercise, lesson - fill-in - personal-info
 
 ein Formular ausfüllen
 
@@ -1542,7 +1548,7 @@ ein Formular ausfüllen
 
 fünfundzwanzig 25
 
-## Page 026  — listening · exercise, dialogue, listening-sheet · listening-comprehension · mixed
+## Page 026  -- listening - exercise, dialogue, listening-sheet - listening-comprehension - mixed
 
 **2** hören und sehen
 
@@ -1586,7 +1592,7 @@ Ingenieur/in    Arzt/Ärztin    Friseur/in    Student/in    Kellner/in    Kranke
 
 26 sechsundzwanzig
 
-## Page 027  — review, grammar-box, vocabulary · none · mixed
+## Page 027  -- review, grammar-box, vocabulary - none - mixed
 
 kurz und klar: Redemittel und Grammatik
 
@@ -1670,7 +1676,7 @@ kurz und klar: Redemittel und Grammatik
 
 siebenundzwanzig 27
 
-## Page 028  — chapter-opener, exercise, reading-text, listening-sheet · matching · city-places
+## Page 028  -- chapter-opener, exercise, reading-text, listening-sheet - matching - city-places
 
 Plätze und Gebäude benennen | Fragen zu Orten stellen und antworten | Verkehrsmittel benennen | nach Dingen fragen | nach dem Weg fragen und einen Weg beschreiben | Jahreszeiten und Monate benennen |
 
@@ -1705,7 +1711,7 @@ der Bahnhof | ~~der Hafen~~ | das Konzerthaus | die Kirche | das Rathaus
 
 28 achtundzwanzig
 
-## Page 029  — lesson, reading-text, exercise, speaking-prompt · reading-comprehension · city-places
+## Page 029  -- lesson, reading-text, exercise, speaking-prompt - reading-comprehension - city-places
 
 > Kopfzeile: über Hobbys sprechen | Strategie: Texte mit internationalen Wörtern verstehen — **3**
 
@@ -1745,7 +1751,7 @@ der Bahnhof | ~~der Hafen~~ | das Konzerthaus | die Kirche | das Rathaus
 
 > Seitenzahl: neunundzwanzig **29**
 
-## Page 030  — lesson, exercise, dialogue · fill-in · city-places
+## Page 030  -- lesson, exercise, dialogue - fill-in - city-places
 
 > Kopfzeile: **3** — Plätze und Gebäude benennen
 
@@ -1821,7 +1827,7 @@ So sagt man auch für „Guten Tag“ in Deutschland, Österreich und der Schwei
 
 > Seitenzahl: **30** dreißig
 
-## Page 031  — exercise, grammar-box, listening-sheet, instructions · fill-in · city-places
+## Page 031  -- exercise, grammar-box, listening-sheet, instructions - fill-in - city-places
 
 <!-- Vowel-length notation: a letter with an underline below (rendered here with combining low line, e.g. a̲) = long vowel; a letter with a dot below (e.g. ạ ẹ ị ọ ụ) = short vowel. -->
 
@@ -1882,7 +1888,7 @@ Café | Kunsthalle | Kirche | Hotel | Kino | Turm
 
 einunddreißig **31**
 
-## Page 032  — picture-story, exercise, grammar-box, instructions · matching · city-places
+## Page 032  -- picture-story, exercise, grammar-box, instructions - matching - city-places
 
 **3**   Verkehrsmittel benennen, nach Dingen fragen
 
@@ -1942,7 +1948,7 @@ der Bus | das Fahrrad | die U-Bahn | zu Fuß gehen
 
 **32** zweiunddreißig
 
-## Page 033  — listening-sheet, dialogue, grammar-box, speaking-prompt, exercise, instructions · speaking-task · city-places
+## Page 033  -- listening-sheet, dialogue, grammar-box, speaking-prompt, exercise, instructions - speaking-task - city-places
 
 nach dem Weg fragen und einen Weg beschreiben                                     **3**
 
@@ -2001,7 +2007,7 @@ Beispiel: ⚁ (2) und ⚃ (4): Start → B; Ziel → der Park
 
 dreiunddreißig **33**
 
-## Page 034  — reading · reading-text, exercise, vocabulary, instructions · reading-comprehension · city-places
+## Page 034  -- reading - reading-text, exercise, vocabulary, instructions - reading-comprehension - city-places
 
 **3**   Texte mit internationalen Wörtern verstehen
 
@@ -2049,7 +2055,7 @@ dreiunddreißig **33**
 
 **34** vierunddreißig
 
-## Page 035  — exercise, listening-sheet, vocabulary, speaking-prompt, instructions · vocabulary · time-dates
+## Page 035  -- exercise, listening-sheet, vocabulary, speaking-prompt, instructions - vocabulary - time-dates
 
 Jahreszeiten und Monate benennen, über Hobbys sprechen                            **3**
 
@@ -2102,7 +2108,7 @@ ins Museum gehen | schwimmen | Fahrrad fahren | reisen
 
 fünfunddreißig **35**
 
-## Page 036  — listening · exercise, listening-sheet, reading-text, instructions · listening-comprehension · city-places
+## Page 036  -- listening - exercise, listening-sheet, reading-text, instructions - listening-comprehension - city-places
 
 **3**   hören und sehen
 
@@ -2150,7 +2156,7 @@ Dann sehen Sie den Viktualienmarkt.
 
 **36** sechsunddreißig
 
-## Page 037  — review, grammar-box, instructions · none · city-places
+## Page 037  -- review, grammar-box, instructions - none - city-places
 
 kurz und klar: Redemittel und Grammatik
 
@@ -2206,7 +2212,7 @@ Der Hafen **ist groß**.
 
 siebenunddreißig 37
 
-## Page 038  — review, speaking-prompt, picture-story, instructions · speaking-task · mixed
+## Page 038  -- review, speaking-prompt, picture-story, instructions - speaking-task - mixed
 
 **1** Plattform
 
@@ -2306,7 +2312,7 @@ Montag
 
 38 achtunddreißig
 
-## Page 039  — review, speaking-prompt, picture-story, instructions · fill-in · mixed
+## Page 039  -- review, speaking-prompt, picture-story, instructions - fill-in - mixed
 
 Plattform **1**
 
@@ -2389,7 +2395,7 @@ Gehen wir am …?
 
 neununddreißig 39
 
-## Page 040  — review, exercise · fill-in · mixed
+## Page 040  -- review, exercise - fill-in - mixed
 
 > Kopfzeile: **1** — Plattform
 
@@ -2461,7 +2467,7 @@ neununddreißig 39
 
 > Seitenzahl: **40** vierzig
 
-## Page 041  — review, reading-text, exercise, writing-prompt · matching · profession
+## Page 041  -- review, reading-text, exercise, writing-prompt - matching - profession
 
 > Kopfzeile: Plattform — **1**
 
@@ -2511,7 +2517,7 @@ neununddreißig 39
 
 > Seitenzahl: einundvierzig **41**
 
-## Page 042  — review, exercise, reading-text · reading-comprehension · city-places
+## Page 042  -- review, exercise, reading-text - reading-comprehension - city-places
 
 > Kopfzeile: **1** — Plattform
 
@@ -2547,7 +2553,7 @@ Der ___ mit der Uhr ist fast 800 Jahre alt. Er ist 28 Meter hoch und das Symbol 
 
 > Seitenzahl: **42** zweiundvierzig
 
-## Page 043  — review, reading-text, exercise, listening-sheet · fill-in · city-places
+## Page 043  -- review, reading-text, exercise, listening-sheet - fill-in - city-places
 
 Plattform 1
 
@@ -2587,7 +2593,7 @@ Pia ___
 
 dreiundvierzig 43
 
-## Page 044  — vocabulary · chapter-opener, vocabulary, exercise, listening-sheet · vocabulary · food
+## Page 044  -- vocabulary - chapter-opener, vocabulary, exercise, listening-sheet - vocabulary - food
 
 einen Einkauf planen | Gespräche beim Einkauf führen | Gespräche beim Essen führen | über Vorlieben beim Essen sprechen | über Essen sprechen | Strategien: Wörter ordnen und lernen |
 
@@ -2642,7 +2648,7 @@ einen Einkauf planen | Gespräche beim Einkauf führen | Gespräche beim Essen f
 
 44 vierundvierzig
 
-## Page 045  — vocabulary · vocabulary, exercise, listening-sheet · vocabulary · food
+## Page 045  -- vocabulary - vocabulary, exercise, listening-sheet - vocabulary - food
 
 mit W-Fragen Texte verstehen
 
@@ -2697,7 +2703,7 @@ mit W-Fragen Texte verstehen
 
 fünfundvierzig 45
 
-## Page 046  — exercise, dialogue, grammar-box, listening-sheet, speaking-prompt · fill-in · food
+## Page 046  -- exercise, dialogue, grammar-box, listening-sheet, speaking-prompt - fill-in - food
 
 4 einen Einkauf planen
 
@@ -2786,7 +2792,7 @@ Wir kaufen Müsli zum Frühstück. – Ich kaufe Brötchen in der Bäckerei. –
 
 46 sechsundvierzig
 
-## Page 047  — dialogue, listening-sheet, exercise, speaking-prompt · listening-comprehension · shopping
+## Page 047  -- dialogue, listening-sheet, exercise, speaking-prompt - listening-comprehension - shopping
 
 Gespräche beim Einkauf führen — 4
 
@@ -2850,7 +2856,7 @@ Gespräche beim Einkauf führen — 4
 
 siebenundvierzig 47
 
-## Page 048  — dialogue, listening-sheet, exercise, grammar-box, speaking-prompt · listening-comprehension · food
+## Page 048  -- dialogue, listening-sheet, exercise, grammar-box, speaking-prompt - listening-comprehension - food
 
 4 Gespräche beim Essen führen, über Vorlieben beim Essen sprechen
 
@@ -2926,7 +2932,7 @@ siebenundvierzig 47
 
 48 achtundvierzig
 
-## Page 049  — speaking · exercise, reading-text, grammar-box, writing-prompt, speaking-prompt · reading-comprehension · food
+## Page 049  -- speaking - exercise, reading-text, grammar-box, writing-prompt, speaking-prompt - reading-comprehension - food
 
 über Essen sprechen
 
@@ -2986,7 +2992,7 @@ Zum Frühstück esse ich zwei Brötchen mit Butter, Käse und Wurst. Am Wochenen
 
 neunundvierzig **49**
 
-## Page 050  — vocabulary · exercise, vocabulary · vocabulary · food
+## Page 050  -- vocabulary - exercise, vocabulary - vocabulary - food
 
 4 · Wörter ordnen und lernen
 
@@ -3032,7 +3038,7 @@ der Abend | alt | die Arbeit | der Beruf | bitte | danke | essen | der Film | Fr
 
 **50** fünfzig
 
-## Page 051  — reading · exercise, reading-text · reading-comprehension · profession
+## Page 051  -- reading - exercise, reading-text - reading-comprehension - profession
 
 mit W-Fragen Texte verstehen
 
@@ -3075,7 +3081,7 @@ Zurück im Restaurant wäscht, schält und schneidet er das Gemüse. Der Chef be
 
 einundfünfzig **51**
 
-## Page 052  — listening · exercise, listening-sheet · listening-comprehension · food
+## Page 052  -- listening - exercise, listening-sheet - listening-comprehension - food
 
 4 · hören und sehen
 
@@ -3132,7 +3138,7 @@ Bea, Anna, Max und Luca wollen zusammen ___
 
 **52** zweiundfünfzig
 
-## Page 053  — review, grammar-box · none · food
+## Page 053  -- review, grammar-box - none - food
 
 kurz und klar: Redemittel und Grammatik
 
@@ -3220,7 +3226,7 @@ Das **Subjekt** steht vor oder nach dem Verb.
 
 dreiundfünfzig **53**
 
-## Page 054  — listening · chapter-opener, exercise, listening-sheet · listening-comprehension · daily-routine
+## Page 054  -- listening - chapter-opener, exercise, listening-sheet - listening-comprehension - daily-routine
 
 die Uhrzeit verstehen und nennen | Zeitangaben machen | über Familie sprechen | sich verabreden | einen Termin telefonisch vereinbaren | sich für eine Verspätung entschuldigen und darauf reagieren
 
@@ -3262,7 +3268,7 @@ die Uhrzeit verstehen und nennen | Zeitangaben machen | über Familie sprechen |
 
 **54** vierundfünfzig
 
-## Page 055  — speaking · chapter-opener, exercise, speaking-prompt, writing-prompt · speaking-task · daily-routine
+## Page 055  -- speaking - chapter-opener, exercise, speaking-prompt, writing-prompt - speaking-task - daily-routine
 
 5
 
@@ -3295,7 +3301,7 @@ Wissen
 
 fünfundfünfzig 55
 
-## Page 056  — listening · exercise, listening-sheet, grammar-box, speaking-prompt · listening-comprehension · time-dates
+## Page 056  -- listening - exercise, listening-sheet, grammar-box, speaking-prompt - listening-comprehension - time-dates
 
 5
 
@@ -3370,7 +3376,7 @@ fünf vor zwei: ___     halb sieben: ___     zwanzig vor acht: _A_  (marked: A) 
 
 56 sechsundfünfzig
 
-## Page 057  — exercise, grammar-box, listening-sheet, writing-prompt · fill-in · family
+## Page 057  -- exercise, grammar-box, listening-sheet, writing-prompt - fill-in - family
 
 Zeitangaben machen, über Familie sprechen
 
@@ -3462,7 +3468,7 @@ Regel: „-r" oder „-er" am Wortende spricht man: [r] [a]
 
 siebenundfünfzig 57
 
-## Page 058  — reading · exercise, reading-text, grammar-box · reading-comprehension · family
+## Page 058  -- reading - exercise, reading-text, grammar-box - reading-comprehension - family
 
 über Familie sprechen
 
@@ -3538,7 +3544,7 @@ Hallo Mara, hallo Hannes, toll: Lena und ihre Geige! Wie lange spielt sie schon?
 
 58 achtundfünfzig
 
-## Page 059  — reading · reading-text, grammar-box, exercise, dialogue, speaking-prompt · reading-comprehension · communication
+## Page 059  -- reading - reading-text, grammar-box, exercise, dialogue, speaking-prompt - reading-comprehension - communication
 
 sich verabreden
 
@@ -3616,7 +3622,7 @@ Fahrrad fahren | …
 
 neunundfünfzig 59
 
-## Page 060  — speaking · exercise, listening-sheet, dialogue, speaking-prompt, grammar-box · speaking-task · communication
+## Page 060  -- speaking - exercise, listening-sheet, dialogue, speaking-prompt, grammar-box - speaking-task - communication
 
 5
 
@@ -3674,7 +3680,7 @@ E ● Mara Dobart.
 
 60 sechzig
 
-## Page 061  — listening · lesson, exercise, listening-sheet, speaking-prompt · listening-comprehension · communication
+## Page 061  -- listening - lesson, exercise, listening-sheet, speaking-prompt - listening-comprehension - communication
 
 sich für eine Verspätung entschuldigen und darauf reagieren
 
@@ -3732,7 +3738,7 @@ sich für eine Verspätung entschuldigen und darauf reagieren
 
 einundsechzig 61
 
-## Page 062  — listening · lesson, exercise, listening-sheet, picture-story · fill-in · mixed
+## Page 062  -- listening - lesson, exercise, listening-sheet, picture-story - fill-in - mixed
 
 5
 
@@ -3793,7 +3799,7 @@ Um 19:30 Uhr kommt (1) *Luca* nach Hause. Er sucht (2) ___. Aber (3) ___ ist noc
 
 62 zweiundsechzig
 
-## Page 063  — vocabulary · review, grammar-box, vocabulary · vocabulary · mixed
+## Page 063  -- vocabulary - review, grammar-box, vocabulary - vocabulary - mixed
 
 kurz und klar: Redemittel und Grammatik
 
@@ -3870,7 +3876,7 @@ kurz und klar: Redemittel und Grammatik
 
 dreiundsechzig 63
 
-## Page 064  — speaking · chapter-opener, speaking-prompt · speaking-task · hobby
+## Page 064  -- speaking - chapter-opener, speaking-prompt - speaking-task - hobby
 
 über Freizeit sprechen | das Datum verstehen und nennen | über Geburtstage sprechen | eine Einladung verstehen und schreiben | Essen und Getränke bestellen und bezahlen | über ein Ereignis sprechen |
 
@@ -3898,7 +3904,7 @@ ins Fitness-Studio gehen | Fußball spielen | grillen | Spiele spielen | Ski fah
 
 64 vierundsechzig
 
-## Page 065  — listening · chapter-opener, exercise, listening-sheet, speaking-prompt · listening-comprehension · hobby
+## Page 065  -- listening - chapter-opener, exercise, listening-sheet, speaking-prompt - listening-comprehension - hobby
 
 wichtige Informationen in Texten finden | Veranstaltungstipps im Radio verstehen | Strategie: beim Lesen und Hören wichtige Informationen verstehen
 
@@ -3931,7 +3937,7 @@ wichtige Informationen in Texten finden | Veranstaltungstipps im Radio verstehen
 
 fünfundsechzig 65
 
-## Page 066  — reading · lesson, dialogue, exercise, grammar-box, listening-sheet · reading-comprehension · time-dates
+## Page 066  -- reading - lesson, dialogue, exercise, grammar-box, listening-sheet - reading-comprehension - time-dates
 
 6
 
@@ -4013,7 +4019,7 @@ das Datum verstehen und nennen
 
 66 sechsundsechzig
 
-## Page 067  — exercise, reading-text, grammar-box, speaking-prompt, writing-prompt · reading-comprehension · communication
+## Page 067  -- exercise, reading-text, grammar-box, speaking-prompt, writing-prompt - reading-comprehension - communication
 
 über Geburtstage sprechen, eine Einladung verstehen und schreiben | 6
 
@@ -4082,7 +4088,7 @@ Was? *essen, spielen, tanzen …*
 
 siebenundsechzig **67**
 
-## Page 068  — exercise, listening-sheet, grammar-box, speaking-prompt, picture-story · fill-in · restaurant
+## Page 068  -- exercise, listening-sheet, grammar-box, speaking-prompt, picture-story - fill-in - restaurant
 
 6 | Essen und Getränke bestellen
 
@@ -4144,7 +4150,7 @@ siebenundsechzig **67**
 
 **68** achtundsechzig
 
-## Page 069  — exercise, listening-sheet, grammar-box, dialogue, speaking-prompt · speaking-task · restaurant
+## Page 069  -- exercise, listening-sheet, grammar-box, dialogue, speaking-prompt - speaking-task - restaurant
 
 Essen und Getränke bezahlen, über ein Ereignis sprechen | 6
 
@@ -4238,7 +4244,7 @@ das Essen / die Getränke | der Kellner / die Kellnerin | das Restaurant / das C
 
 neunundsechzig **69**
 
-## Page 070  — reading · reading-text, exercise, speaking-prompt · reading-comprehension · restaurant
+## Page 070  -- reading - reading-text, exercise, speaking-prompt - reading-comprehension - restaurant
 
 6 | wichtige Informationen in Texten finden
 
@@ -4285,7 +4291,7 @@ Kneipen gibt es überall. Sie haben meistens ab Nachmittag bis spät nachts geö
 
 **70** siebzig
 
-## Page 071  — listening · exercise, listening-sheet, reading-text, speaking-prompt · listening-comprehension · hobby
+## Page 071  -- listening - exercise, listening-sheet, reading-text, speaking-prompt - listening-comprehension - hobby
 
 Veranstaltungstipps im Radio verstehen | 6
 
@@ -4358,7 +4364,7 @@ Karten für ___________ bei uns! Ticketbox München
 
 einundsiebzig **71**
 
-## Page 072  — listening · exercise, listening-sheet, vocabulary, dialogue · matching · mixed
+## Page 072  -- listening - exercise, listening-sheet, vocabulary, dialogue - matching - mixed
 
 6 | hören und sehen
 
@@ -4438,7 +4444,7 @@ D ● Ich muss leider noch arbeiten.
 
 **72** zweiundsiebzig
 
-## Page 073  — review, grammar-box · vocabulary · mixed
+## Page 073  -- review, grammar-box - vocabulary - mixed
 
 kurz und klar: Redemittel und Grammatik
 
@@ -4531,7 +4537,7 @@ Das Wasser ist **für den** Hund / **ihn**.
 
 dreiundsiebzig 73
 
-## Page 074  — speaking · review, speaking-prompt, exercise · speaking-task · mixed
+## Page 074  -- speaking - review, speaking-prompt, exercise - speaking-task - mixed
 
 **2** Plattform
 
@@ -4603,7 +4609,7 @@ Ergänzen Sie den Dialog:
 
 74 vierundsiebzig
 
-## Page 075  — speaking · review, speaking-prompt, exercise · speaking-task · mixed
+## Page 075  -- speaking - review, speaking-prompt, exercise - speaking-task - mixed
 
 Plattform **2**
 
@@ -4653,7 +4659,7 @@ mit dem Verb *anrufen*.
 
 fünfundsiebzig 75
 
-## Page 076  — speaking · exercise, speaking-prompt · speaking-task · time-dates
+## Page 076  -- speaking - exercise, speaking-prompt - speaking-task - time-dates
 
 **2** Plattform
 
@@ -4725,7 +4731,7 @@ Am Abend lade ich Freunde ein.
 
 76 sechsundsiebzig
 
-## Page 077  — speaking · exercise, speaking-prompt · matching · time-dates
+## Page 077  -- speaking - exercise, speaking-prompt - matching - time-dates
 
 Plattform **2**
 
@@ -4756,7 +4762,7 @@ Fotos:
 
 siebenundsiebzig 77
 
-## Page 078  — exercise, vocabulary · vocabulary · food
+## Page 078  -- exercise, vocabulary - vocabulary - food
 
 **2** Plattform
 
@@ -4779,7 +4785,7 @@ siebenundsiebzig 77
 
 78 achtundsiebzig
 
-## Page 079  — reading · instructions, reading-text, exercise, speaking-prompt · reading-comprehension · food
+## Page 079  -- reading - instructions, reading-text, exercise, speaking-prompt - reading-comprehension - food
 
 Plattform 2
 
@@ -4807,7 +4813,7 @@ Ich esse an meinem Geburtstag immer Zürcher Geschnetzeltes – im Restaurant od
 
 neunundsiebzig 79
 
-## Page 080  — listening · chapter-opener, instructions, listening-sheet, exercise · listening-comprehension · profession
+## Page 080  -- listening - chapter-opener, instructions, listening-sheet, exercise - listening-comprehension - profession
 
 einen Blogbeitrag verstehen | über den (Arbeits-)Alltag schreiben | Gespräche am Arbeitsplatz verstehen
 Ortsangaben machen | Abläufe beschreiben | Briefe verstehen und beantworten | Small Talk machen
@@ -4844,7 +4850,7 @@ Gespräch 1
 
 80 achtzig
 
-## Page 081  — listening · listening-sheet, exercise, speaking-prompt, instructions · listening-comprehension · profession
+## Page 081  -- listening - listening-sheet, exercise, speaking-prompt, instructions - listening-comprehension - profession
 
 7
 
@@ -4871,7 +4877,7 @@ Gespräch 2
 
 einundachtzig 81
 
-## Page 082  — reading · reading-text, grammar-box, exercise, writing-prompt, instructions · reading-comprehension · profession
+## Page 082  -- reading - reading-text, grammar-box, exercise, writing-prompt, instructions - reading-comprehension - profession
 
 7 | einen Blogbeitrag verstehen, über den (Arbeits-)Alltag schreiben
 
@@ -4933,7 +4939,7 @@ Kollegen/Freunde?　Aktivitäten?　Essen?　Pause?
 
 82 zweiundachtzig
 
-## Page 083  — listening · lesson, exercise, grammar-box · listening-comprehension · profession
+## Page 083  -- listening - lesson, exercise, grammar-box - listening-comprehension - profession
 
 # Kapitel 7 — Gespräche am Arbeitsplatz verstehen
 
@@ -5016,7 +5022,7 @@ Regel:
 
 dreiundachtzig **83**
 
-## Page 084  — listening · lesson, exercise, grammar-box · listening-comprehension · profession
+## Page 084  -- listening - lesson, exercise, grammar-box - listening-comprehension - profession
 
 # Kapitel 7 — Ortsangaben machen
 
@@ -5085,7 +5091,7 @@ dreiundachtzig **83**
 
 **84** vierundachtzig
 
-## Page 085  — exercise, speaking-prompt, grammar-box, listening-sheet · matching · profession
+## Page 085  -- exercise, speaking-prompt, grammar-box, listening-sheet - matching - profession
 
 7 · Ortsangaben machen, Abläufe beschreiben
 
@@ -5138,7 +5144,7 @@ Mist, mein Akku ist leer.
 
 fünfundachtzig 85
 
-## Page 086  — reading-text, exercise, writing-prompt, speaking-prompt · reading-comprehension · communication
+## Page 086  -- reading-text, exercise, writing-prompt, speaking-prompt - reading-comprehension - communication
 
 7 · Briefe verstehen und beantworten
 
@@ -5208,7 +5214,7 @@ Gruß: ___
 
 86 sechsundachtzig
 
-## Page 087  — reading · lesson, exercise, reading-text, speaking-prompt · reading-comprehension · communication
+## Page 087  -- reading - lesson, exercise, reading-text, speaking-prompt - reading-comprehension - communication
 
 # Kapitel 7 — Small Talk machen
 
@@ -5276,7 +5282,7 @@ Gruß: ___
 
 siebenundachtzig **87**
 
-## Page 088  — listening · lesson, exercise, dialogue, speaking-prompt · fill-in · mixed
+## Page 088  -- listening - lesson, exercise, dialogue, speaking-prompt - fill-in - mixed
 
 # Kapitel 7 — hören und sehen
 
@@ -5328,7 +5334,7 @@ Anna und ihre Oma wollen (1) zu zweit / mit Max ins Kino gehen. Max muss die Dat
 
 **88** achtundachtzig
 
-## Page 089  — review, grammar-box · vocabulary · mixed
+## Page 089  -- review, grammar-box - vocabulary - mixed
 
 # Kapitel 7 — kurz und klar: Redemittel und Grammatik
 
@@ -5413,7 +5419,7 @@ von + de**m** → vo**m**
 
 neunundachtzig **89**
 
-## Page 090  — chapter-opener, exercise, speaking-prompt · speaking-task · health
+## Page 090  -- chapter-opener, exercise, speaking-prompt - speaking-task - health
 
 # Kapitel 8 — Fit und gesund
 
@@ -5446,7 +5452,7 @@ Lecker: Frühstück 😋! Ich habe Hunger!!! Mittags esse ich nur Salat und am A
 
 **90** neunzig
 
-## Page 091  — listening · chapter-opener, exercise, reading-text, listening-sheet, speaking-prompt · listening-comprehension · health
+## Page 091  -- listening - chapter-opener, exercise, reading-text, listening-sheet, speaking-prompt - listening-comprehension - health
 
 Gesundheitstipps verstehen und geben | Strategie: Wörter erschließen
 
@@ -5490,7 +5496,7 @@ Das Experiment ist ☐ sehr gut ☐ gefährlich.
 
 einundneunzig 91
 
-## Page 092  — speaking · exercise, picture-story, grammar-box, dialogue, speaking-prompt · speaking-task · health
+## Page 092  -- speaking - exercise, picture-story, grammar-box, dialogue, speaking-prompt - speaking-task - health
 
 8 | Aufforderungen verstehen und ausdrücken
 
@@ -5558,7 +5564,7 @@ Fenster aufmachen | Pause machen | leise sein | an die Tafel kommen | Sätze auf
 
 92 zweiundneunzig
 
-## Page 093  — listening · exercise, listening-sheet, vocabulary, speaking-prompt · matching · health
+## Page 093  -- listening - exercise, listening-sheet, vocabulary, speaking-prompt - matching - health
 
 8 | persönliche Angaben machen, Körperteile nennen
 
@@ -5616,7 +5622,7 @@ das Knie | der Hals | der Rücken | der Fuß | der Bauch | der Arm | die Hand | 
 
 dreiundneunzig 93
 
-## Page 094  — listening · exercise, dialogue, listening-sheet, grammar-box, speaking-prompt · ordering · health
+## Page 094  -- listening - exercise, dialogue, listening-sheet, grammar-box, speaking-prompt - ordering - health
 
 8 | Anweisungen wiedergeben, Gespräche beim Arzt führen
 
@@ -5688,7 +5694,7 @@ nicht so viel sprechen
 
 94 vierundneunzig
 
-## Page 095  — speaking · exercise, listening-sheet, grammar-box, dialogue, speaking-prompt · matching · health
+## Page 095  -- speaking - exercise, listening-sheet, grammar-box, dialogue, speaking-prompt - matching - health
 
 8 | Gespräche beim Arzt führen, Anweisungen verstehen und geben
 
@@ -5759,7 +5765,7 @@ Darf ich …? / Muss ich …?
 
 fünfundneunzig 95
 
-## Page 096  — reading · exercise, reading-text, writing-prompt · reading-comprehension · health
+## Page 096  -- reading - exercise, reading-text, writing-prompt - reading-comprehension - health
 
 8 | Gesundheitstipps verstehen und geben
 
@@ -5801,7 +5807,7 @@ Trink viel Wasser oder … Du musst … Du kannst auch …
 
 96 sechsundneunzig
 
-## Page 097  — vocabulary · exercise, reading-text, grammar-box, vocabulary · vocabulary · health
+## Page 097  -- vocabulary - exercise, reading-text, grammar-box, vocabulary - vocabulary - health
 
 Wörter erschließen · 8
 
@@ -5854,7 +5860,7 @@ Wörter erschließen · 8
 
 siebenundneunzig 97
 
-## Page 098  — listening · exercise, dialogue, listening-sheet, speaking-prompt · listening-comprehension · health
+## Page 098  -- listening - exercise, dialogue, listening-sheet, speaking-prompt - listening-comprehension - health
 
 8 · hören und sehen
 
@@ -5915,7 +5921,7 @@ C ___________________
 
 98 achtundneunzig
 
-## Page 099  — review, grammar-box · vocabulary · mixed
+## Page 099  -- review, grammar-box - vocabulary - mixed
 
 kurz und klar: Redemittel und Grammatik · 8
 
@@ -5998,7 +6004,7 @@ Sie **dürfen** das **nicht** machen. Es ist verboten.
 
 neunundneunzig 99
 
-## Page 100  — vocabulary · chapter-opener, vocabulary, exercise · vocabulary · home
+## Page 100  -- vocabulary - chapter-opener, vocabulary, exercise - vocabulary - home
 
 Wohnungsanzeigen verstehen | eine Wohnung beschreiben | die Wohnungseinrichtung planen | eine Einladung beantworten | über eine Wohnungseinrichtung sprechen | Ortsangaben machen |
 
@@ -6039,7 +6045,7 @@ _____________________________________
 
 100 einhundert
 
-## Page 101  — vocabulary · chapter-opener, vocabulary, exercise, listening-sheet, speaking-prompt · vocabulary · home
+## Page 101  -- vocabulary - chapter-opener, vocabulary, exercise, listening-sheet, speaking-prompt - vocabulary - home
 
 Gefallen und Missfallen ausdrücken | Farben nennen | über Wohnformen sprechen | einen Text über eine Wohnung schreiben
 
@@ -6077,7 +6083,7 @@ Gefallen und Missfallen ausdrücken | Farben nennen | über Wohnformen sprechen 
 
 einhunderteins 101
 
-## Page 102  — reading · exercise, reading-text, listening-sheet, grammar-box, writing-prompt · reading-comprehension · home
+## Page 102  -- reading - exercise, reading-text, listening-sheet, grammar-box, writing-prompt - reading-comprehension - home
 
 9 · Wohnungsanzeigen verstehen, eine Wohnung beschreiben
 
@@ -6137,7 +6143,7 @@ ruhig ↔ laut | klein ↔ groß | hell ↔ dunkel | teuer ↔ günstig/billig |
 
 102 einhundertzwei
 
-## Page 103  — lesson, exercise, listening-sheet, grammar-box, reading-text, speaking-prompt, writing-prompt · fill-in · home
+## Page 103  -- lesson, exercise, listening-sheet, grammar-box, reading-text, speaking-prompt, writing-prompt - fill-in - home
 
 die Wohnungseinrichtung planen, eine Einladung beantworten
 
@@ -6207,7 +6213,7 @@ Viele/Liebe Grüße …
 
 einhundertdrei **103**
 
-## Page 104  — speaking · lesson, exercise, grammar-box, speaking-prompt · speaking-task · home
+## Page 104  -- speaking - lesson, exercise, grammar-box, speaking-prompt - speaking-task - home
 
 **9**
 
@@ -6263,7 +6269,7 @@ Präpositionen-Diagramme (Haus-Symbol mit rotem Punkt zur Positionsangabe):
 
 **104** einhundertvier
 
-## Page 105  — lesson, exercise, listening-sheet, speaking-prompt, vocabulary · listening-comprehension · home
+## Page 105  -- lesson, exercise, listening-sheet, speaking-prompt, vocabulary - listening-comprehension - home
 
 Gefallen und Missfallen ausdrücken, Farben nennen
 
@@ -6342,7 +6348,7 @@ schwarz | braun | grau | rot | orange | gelb | blau | grün | lila | weiß
 
 einhundertfünf **105**
 
-## Page 106  — speaking · lesson, exercise · matching · home
+## Page 106  -- speaking - lesson, exercise - matching - home
 
 **9**
 
@@ -6374,7 +6380,7 @@ Fotos zum Zuordnen (jeweils mit leerem Antwortkästchen):
 
 **106** einhundertsechs
 
-## Page 107  — writing · lesson, exercise, listening-sheet, reading-text, writing-prompt, speaking-prompt · writing-task · home
+## Page 107  -- writing - lesson, exercise, listening-sheet, reading-text, writing-prompt, speaking-prompt - writing-task - home
 
 einen Text über eine Wohnung schreiben
 
@@ -6426,7 +6432,7 @@ Welche Sätze und Ausdrücke können Sie auch verwenden? Markieren Sie sie in Te
 
 einhundertsieben **107**
 
-## Page 108  — lesson, exercise, listening-sheet, speaking-prompt · listening-comprehension · home
+## Page 108  -- lesson, exercise, listening-sheet, speaking-prompt - listening-comprehension - home
 
 **9**
 
@@ -6478,7 +6484,7 @@ hören und sehen
 
 **108** einhundertacht
 
-## Page 109  — review, grammar-box · vocabulary · home
+## Page 109  -- review, grammar-box - vocabulary - home
 
 [Kopfzeile rechts:] kurz und klar: Redemittel und Grammatik
 
@@ -6576,7 +6582,7 @@ auch nach: *an, auf, hinter, neben, über, unter, vor, zwischen*
 
 einhundertneun   109
 
-## Page 110  — review, exercise, speaking-prompt · speaking-task · mixed
+## Page 110  -- review, exercise, speaking-prompt - speaking-task - mixed
 
 [Kapitelnummer oben links: 3]   Plattform
 
@@ -6688,7 +6694,7 @@ Anrede und Gruß im Brief. Nennen Sie je zwei Möglichkeiten.
 
 110   einhundertzehn
 
-## Page 111  — review, exercise, speaking-prompt · speaking-task · mixed
+## Page 111  -- review, exercise, speaking-prompt - speaking-task - mixed
 
 [Kopfzeile rechts:] Plattform   [Kapitelnummer: 3]
 
@@ -6820,7 +6826,7 @@ Formulieren Sie drei Aufforderungen für den Kurs.
 
 einhundertelf   111
 
-## Page 112  — review, exercise, writing-prompt, speaking-prompt · speaking-task · health
+## Page 112  -- review, exercise, writing-prompt, speaking-prompt - speaking-task - health
 
 [Kapitelnummer oben links: 3]   Plattform
 
@@ -6854,7 +6860,7 @@ arbeiten | das Bein bewegen | das Hausmittel | das Medikament | der Husten | die
 
 112   einhundertzwölf
 
-## Page 113  — review, exercise, listening-sheet, speaking-prompt · speaking-task · home
+## Page 113  -- review, exercise, listening-sheet, speaking-prompt - speaking-task - home
 
 [Kopfzeile rechts:] Plattform   [Kapitelnummer: 3]
 
@@ -6889,7 +6895,7 @@ koche**n** → **N**am**e** → **E**-Mai**l** → **L**an**d** → **D**onnerst
 
 einhundertdreizehn   113
 
-## Page 114  — listening · review, song, listening-sheet, exercise, speaking-prompt · listening-comprehension · communication
+## Page 114  -- listening - review, song, listening-sheet, exercise, speaking-prompt - listening-comprehension - communication
 
 [Kapitelnummer oben links: 3]   Plattform
 
@@ -6954,7 +6960,7 @@ Selfie!
 
 114   einhundertvierzehn
 
-## Page 115  — exercise, answer-key, review · multiple-choice · home
+## Page 115  -- exercise, answer-key, review - multiple-choice - home
 
 Plattform 3
 
@@ -7010,7 +7016,7 @@ Plattform 3
 
 einhundertfünfzehn 115
 
-## Page 116  — chapter-opener, exercise, listening-sheet · listening-comprehension · profession
+## Page 116  -- chapter-opener, exercise, listening-sheet - listening-comprehension - profession
 
 einen Tagesablauf beschreiben | über Vergangenes sprechen | Aussagen über die Jobsuche verstehen | von einem Tag berichten | telefonieren und nachfragen | über Jobs sprechen
 
@@ -7033,7 +7039,7 @@ der Architekt / die Architektin | der Reiseführer / die Reiseführerin | der Er
 
 116 einhundertsechzehn
 
-## Page 117  — chapter-opener, exercise · speaking-task · profession
+## Page 117  -- chapter-opener, exercise - speaking-task - profession
 
 10
 
@@ -7058,7 +7064,7 @@ der Architekt / die Architektin | der Reiseführer / die Reiseführerin | der Er
 
 einhundertsiebzehn 117
 
-## Page 118  — lesson, exercise, dialogue, grammar-box, picture-story · fill-in · daily-routine
+## Page 118  -- lesson, exercise, dialogue, grammar-box, picture-story - fill-in - daily-routine
 
 10 · einen Tagesablauf beschreiben, über Vergangenes sprechen
 
@@ -7111,7 +7117,7 @@ Nachrichtenverlauf (Chat zwischen Tina und Daniel):
 
 118 einhundertachtzehn
 
-## Page 119  — exercise, listening-sheet, grammar-box · listening-comprehension · profession
+## Page 119  -- exercise, listening-sheet, grammar-box - listening-comprehension - profession
 
 über Vergangenes sprechen · 10
 
@@ -7180,7 +7186,7 @@ _finden – hat gefunden_
 
 einhundertneunzehn 119
 
-## Page 120  — reading · lesson, reading-text, exercise, grammar-box · reading-comprehension · profession
+## Page 120  -- reading - lesson, reading-text, exercise, grammar-box - reading-comprehension - profession
 
 # 10 — Aussagen über die Jobsuche verstehen
 
@@ -7240,7 +7246,7 @@ einhundertneunzehn 119
 
 **120** einhundertzwanzig
 
-## Page 121  — exercise, speaking-prompt, writing-prompt, listening-sheet, picture-story · speaking-task · profession
+## Page 121  -- exercise, speaking-prompt, writing-prompt, listening-sheet, picture-story - speaking-task - profession
 
 über Vergangenes sprechen, von einem Tag berichten
 
@@ -7289,7 +7295,7 @@ machen | planen | lernen | reden | arbeiten | sehen | diskutieren | treffen | ge
 
 einhunderteinundzwanzig **121**
 
-## Page 122  — exercise, dialogue, speaking-prompt, listening-sheet · matching · communication
+## Page 122  -- exercise, dialogue, speaking-prompt, listening-sheet - matching - communication
 
 **10** telefonieren und nachfragen
 
@@ -7345,7 +7351,7 @@ Hallo! Tschüs! · Müller. Auf Wiederhören.
 
 **122** einhundertzweiundzwanzig
 
-## Page 123  — exercise, reading-text, listening-sheet, speaking-prompt · reading-comprehension · profession
+## Page 123  -- exercise, reading-text, listening-sheet, speaking-prompt - reading-comprehension - profession
 
 über Jobs sprechen
 
@@ -7391,7 +7397,7 @@ Wie viele Besucher kommen pro Jahr? · Was kann man dort machen?
 
 einhundertdreiundzwanzig **123**
 
-## Page 124  — exercise, reading-text, speaking-prompt, listening-sheet · listening-comprehension · profession
+## Page 124  -- exercise, reading-text, speaking-prompt, listening-sheet - listening-comprehension - profession
 
 **10** hören und sehen
 
@@ -7436,7 +7442,7 @@ Kleidung wählen | mit Freunden sprechen | Informationen über die Firma suchen 
 
 **124** einhundertvierundzwanzig
 
-## Page 125  — review, grammar-box, vocabulary · vocabulary · mixed
+## Page 125  -- review, grammar-box, vocabulary - vocabulary - mixed
 
 kurz und klar: Redemittel und Grammatik
 
@@ -7510,7 +7516,7 @@ Man verwendet *ich **war*** und *ich **hatte***.
 
 einhundertfünfundzwanzig **125**
 
-## Page 126  — chapter-opener, exercise, picture-story, listening-sheet · matching · shopping
+## Page 126  -- chapter-opener, exercise, picture-story, listening-sheet - matching - shopping
 
 über Kleidung sprechen | Komplimente verstehen | über Vergangenes berichten | Gespräche beim Kleiderkauf führen | sich im Kaufhaus orientieren | nach Auskunft fragen und antworten |
 
@@ -7538,7 +7544,7 @@ einhundertfünfundzwanzig **125**
 
 **126** einhundertsechsundzwanzig
 
-## Page 127  — vocabulary · chapter-opener, picture-story, exercise, vocabulary · vocabulary · shopping
+## Page 127  -- vocabulary - chapter-opener, picture-story, exercise, vocabulary - vocabulary - shopping
 
 Informationen über Berlin verstehen und recherchieren
 
@@ -7575,7 +7581,7 @@ das T-Shirt …
 
 einhundertsiebenundzwanzig 127
 
-## Page 128  — lesson, exercise, dialogue, grammar-box, vocabulary, listening-sheet · listening-comprehension · shopping
+## Page 128  -- lesson, exercise, dialogue, grammar-box, vocabulary, listening-sheet - listening-comprehension - shopping
 
 11  über Kleidung sprechen
 
@@ -7637,7 +7643,7 @@ b  Variieren Sie das Gespräch von 4a.
 
 128 einhundertachtundzwanzig
 
-## Page 129  — lesson, reading-text, grammar-box, exercise, listening-sheet, writing-prompt · fill-in · shopping
+## Page 129  -- lesson, reading-text, grammar-box, exercise, listening-sheet, writing-prompt - fill-in - shopping
 
 Komplimente verstehen, über Vergangenes berichten  11
 
@@ -7726,7 +7732,7 @@ Letzte Woche bin ich nach Salzburg gefahren.
 
 einhundertneunundzwanzig 129
 
-## Page 130  — lesson, exercise, listening-sheet, grammar-box, dialogue, speaking-prompt · fill-in · shopping
+## Page 130  -- lesson, exercise, listening-sheet, grammar-box, dialogue, speaking-prompt - fill-in - shopping
 
 11  Gespräche beim Kleiderkauf führen
 
@@ -7810,7 +7816,7 @@ Die Schuhe gefallen ihm nicht.
 
 130 einhundertdreißig
 
-## Page 131  — lesson, exercise, listening-sheet, vocabulary, speaking-prompt · reading-comprehension · shopping
+## Page 131  -- lesson, exercise, listening-sheet, vocabulary, speaking-prompt - reading-comprehension - shopping
 
 sich im Kaufhaus orientieren, nach Auskunft fragen und antworten  11
 
@@ -7885,7 +7891,7 @@ Bücher kaufe ich im Buchladen.
 
 einhunderteinunddreißig 131
 
-## Page 132  — reading · lesson, reading-text, exercise · reading-comprehension · city-places
+## Page 132  -- reading - lesson, reading-text, exercise - reading-comprehension - city-places
 
 # 11 — Informationen über Berlin verstehen
 
@@ -7918,7 +7924,7 @@ Sie suchen originelle Geschenke? Im Kaufhaus „Ausberlin“ kann man nur Sachen
 
 **132** einhundertzweiunddreißig
 
-## Page 133  — reading · exercise, reading-text, speaking-prompt, picture-story · matching · city-places
+## Page 133  -- reading - exercise, reading-text, speaking-prompt, picture-story - matching - city-places
 
 Informationen über Berlin recherchieren — 11
 
@@ -7989,7 +7995,7 @@ Lieben Sie Erfindungen und Gadgets? Alles das gibt es im erfinderladen-berlin. P
 
 einhundertdreiunddreißig **133**
 
-## Page 134  — listening · exercise, listening-sheet, writing-prompt, speaking-prompt · listening-comprehension · shopping
+## Page 134  -- listening - exercise, listening-sheet, writing-prompt, speaking-prompt - listening-comprehension - shopping
 
 11 — hören und sehen
 
@@ -8025,7 +8031,7 @@ C – dunkler Anzug (Sakko und Hose), helle Krawatte. -->
 
 **134** einhundertvierunddreißig
 
-## Page 135  — review, grammar-box · none · shopping
+## Page 135  -- review, grammar-box - none - shopping
 
 kurz und klar: Redemittel und Grammatik — 11
 
@@ -8124,7 +8130,7 @@ nicht trennbare Präfixe:
 
 einhundertfünfunddreißig **135**
 
-## Page 136  — vocabulary · chapter-opener, exercise, vocabulary · vocabulary · travel
+## Page 136  -- vocabulary - chapter-opener, exercise, vocabulary - vocabulary - travel
 
 Vorschläge für eine Stadttour machen | eine Wegbeschreibung verstehen | einen Weg beschreiben | eine Postkarte schreiben | Reiseberichte verstehen und schreiben | Fragen zu einer Reise stellen und beantworten |
 
@@ -8168,7 +8174,7 @@ Foto A ☐   Foto B ☐
 
 **136** einhundertsechsunddreißig
 
-## Page 137  — listening · chapter-opener, exercise, listening-sheet, speaking-prompt · listening-comprehension · travel
+## Page 137  -- listening - chapter-opener, exercise, listening-sheet, speaking-prompt - listening-comprehension - travel
 
 das Wetter beschreiben | über Reiseziele sprechen und schreiben
 
@@ -8195,7 +8201,7 @@ Foto C ☐   Foto D ☐
 
 einhundertsiebenunddreißig **137**
 
-## Page 138  — listening · lesson, exercise, listening-sheet, speaking-prompt, grammar-box · listening-comprehension · travel
+## Page 138  -- listening - lesson, exercise, listening-sheet, speaking-prompt, grammar-box - listening-comprehension - travel
 
 # 12 — Vorschläge für eine Stadttour machen, eine Wegbeschreibung verstehen
 
@@ -8260,7 +8266,7 @@ oder das Tram (CH)
 
 **138** einhundertachtunddreißig
 
-## Page 139  — writing · exercise, instructions, reading-text, grammar-box, writing-prompt, speaking-prompt · writing-task · travel
+## Page 139  -- writing - exercise, instructions, reading-text, grammar-box, writing-prompt, speaking-prompt - writing-task - travel
 
 <!-- Kapitelbanner oben rechts: 12 -->
 einen Weg beschreiben, eine Postkarte schreiben **12**
@@ -8328,7 +8334,7 @@ einen Weg beschreiben, eine Postkarte schreiben **12**
 
 einhundertneununddreißig **139**
 
-## Page 140  — reading · reading-text, exercise, instructions, grammar-box · reading-comprehension · travel
+## Page 140  -- reading - reading-text, exercise, instructions, grammar-box - reading-comprehension - travel
 
 <!-- Kapitelbanner oben links: 12 -->
 **12** Reiseberichte verstehen, Fragen zu einer Reise stellen und beantworten
@@ -8392,7 +8398,7 @@ Im Herbst waren vier Freunde und ich eine Woche an der Ostsee. Von Stralsund sin
 
 **140** einhundertvierzig
 
-## Page 141  — reading · reading-text, exercise, instructions, grammar-box, writing-prompt, listening-sheet · writing-task · travel
+## Page 141  -- reading - reading-text, exercise, instructions, grammar-box, writing-prompt, listening-sheet - writing-task - travel
 
 <!-- Kapitelbanner oben rechts: 12 -->
 Reiseberichte verstehen und schreiben, Fragen zu einer Reise stellen und beantworten **12**
@@ -8447,7 +8453,7 @@ Frühstück | Kurs | Sommer | Geburtstag | Wochenende | Dezember | Urlaub | Flug
 
 einhunderteinundvierzig **141**
 
-## Page 142  — reading · exercise, instructions, reading-text, vocabulary, speaking-prompt · matching · weather
+## Page 142  -- reading - exercise, instructions, reading-text, vocabulary, speaking-prompt - matching - weather
 
 <!-- Kapitelbanner oben links: 12 -->
 **12** das Wetter beschreiben
@@ -8514,7 +8520,7 @@ Wir waren den ganzen Tag in der Stadt – das Wetter war schön: warm, sonnig un
 
 **142** einhundertzweiundvierzig
 
-## Page 143  — reading · reading-text, exercise, instructions, speaking-prompt, writing-prompt · reading-comprehension · travel
+## Page 143  -- reading - reading-text, exercise, instructions, speaking-prompt, writing-prompt - reading-comprehension - travel
 
 <!-- Kapitelbanner oben rechts: 12 -->
 über Reiseziele sprechen und schreiben **12**
@@ -8558,7 +8564,7 @@ Die Deutschen reisen gern und viel, ins Ausland und auch in Deutschland. Dort ma
 
 einhundertdreiundvierzig **143**
 
-## Page 144  — listening · lesson, exercise, speaking-prompt · listening-comprehension · travel
+## Page 144  -- listening - lesson, exercise, speaking-prompt - listening-comprehension - travel
 
 # 12 — hören und sehen
 
@@ -8612,7 +8618,7 @@ Am Ende finden Anna und Max …
 
 **144** einhundertvierundvierzig
 
-## Page 145  — review, grammar-box · none · travel
+## Page 145  -- review, grammar-box - none - travel
 
 kurz und klar: Redemittel und Grammatik   12
 
@@ -8687,7 +8693,7 @@ Wir haben oft … Grad minus/plus.
 
 einhundertfünfundvierzig 145
 
-## Page 146  — speaking · review, speaking-prompt · speaking-task · travel
+## Page 146  -- speaking - review, speaking-prompt - speaking-task - travel
 
 4  Plattform
 
@@ -8728,7 +8734,7 @@ die Tasse | die Tasche | das T-Shirt | das Handtuch | die Süßigkeiten | das Bu
 
 146 einhundertsechsundvierzig
 
-## Page 147  — speaking · review, speaking-prompt · speaking-task · travel
+## Page 147  -- speaking - review, speaking-prompt - speaking-task - travel
 
 Plattform  4
 
@@ -8769,7 +8775,7 @@ Sie sind abends in einem Restaurant und sprechen mit Ihrem Partner / Ihrer Partn
 
 einhundertsiebenundvierzig 147
 
-## Page 148  — speaking · review, speaking-prompt, exercise · speaking-task · mixed
+## Page 148  -- speaking - review, speaking-prompt, exercise - speaking-task - mixed
 
 4  Plattform
 
@@ -8848,7 +8854,7 @@ zum Schluss
 
 148 einhundertachtundvierzig
 
-## Page 149  — reading · reading-text, exercise · reading-comprehension · profession
+## Page 149  -- reading - reading-text, exercise - reading-comprehension - profession
 
 Plattform  4
 
@@ -8908,7 +8914,7 @@ schon gemacht: ______________________________
 
 einhundertneunundvierzig 149
 
-## Page 150  — exercise, review · multiple-choice · mixed
+## Page 150  -- exercise, review - multiple-choice - mixed
 
 4  Plattform
 
@@ -8939,7 +8945,7 @@ einhundertneunundvierzig 149
 
 150 einhundertfünfzig
 
-## Page 151  — review, exercise · multiple-choice · mixed
+## Page 151  -- review, exercise - multiple-choice - mixed
 
 Plattform 4
 
@@ -8987,7 +8993,7 @@ C ☐ 15,8 Millionen
 
 einhunderteinundfünfzig 151
 
-## Page 152  — grammar-box, review · none · none
+## Page 152  -- grammar-box, review - none - none
 
 G · Grammatikübersicht
 
@@ -9046,7 +9052,7 @@ In der Ja-/Nein-Frage steht das konjugierte Verb auf Position 1. Das Subjekt ste
 
 152 einhundertzweiundfünfzig
 
-## Page 153  — grammar-box, review · none · none
+## Page 153  -- grammar-box, review - none - none
 
 Grammatikübersicht · G
 
@@ -9106,7 +9112,7 @@ Im Imperativsatz steht das konjugierte Verb auf Position 1.
 
 einhundertdreiundfünfzig 153
 
-## Page 154  — grammar-box, review · none · none
+## Page 154  -- grammar-box, review - none - none
 
 G · Grammatikübersicht
 
@@ -9184,7 +9190,7 @@ Perfekt mit *sein* bei Verben der Ortsveränderung A → 🚶 → B:
 
 154 einhundertvierundfünfzig
 
-## Page 155  — grammar-box, review · none · none
+## Page 155  -- grammar-box, review - none - none
 
 Grammatikübersicht · G
 
@@ -9269,7 +9275,7 @@ Position 1: Modalverb, Hilfsverb oder der konjugierte Verbteil; Position 2: Subj
 
 einhundertfünfundfünfzig 155
 
-## Page 156  — grammar-box, review · none · none
+## Page 156  -- grammar-box, review - none - none
 
 G · Grammatikübersicht
 
@@ -9321,7 +9327,7 @@ neu / nicht bekannt · bekannt
 
 156 einhundertsechsundfünfzig
 
-## Page 157  — grammar-box, review · none · none
+## Page 157  -- grammar-box, review - none - none
 
 Grammatikübersicht
 
@@ -9383,7 +9389,7 @@ G
 
 einhundertsiebenundfünfzig 157
 
-## Page 158  — grammar-box, review · none · none
+## Page 158  -- grammar-box, review - none - none
 
 G
 
@@ -9443,7 +9449,7 @@ In Basel **kann man** sehr viel machen.
 
 158 einhundertachtundfünfzig
 
-## Page 159  — grammar-box, review · none · none
+## Page 159  -- grammar-box, review - none - none
 
 Grammatikübersicht
 
@@ -9507,7 +9513,7 @@ an · auf · hinter · in · neben · über · unter · vor · zwischen
 
 einhundertneunundfünfzig 159
 
-## Page 160  — grammar-box, review, wordlist · vocabulary · none
+## Page 160  -- grammar-box, review, wordlist - vocabulary - none
 
 # G — Grammatikübersicht, unregelmäßige Verben
 
@@ -9601,7 +9607,7 @@ mit|lesen, er liest mit, hat mitgelesen
 
 **160** einhundertsechzig
 
-## Page 161  — grammar-box, review, wordlist · vocabulary · none
+## Page 161  -- grammar-box, review, wordlist - vocabulary - none
 
 # G — unregelmäßige Verben (Fortsetzung)
 
@@ -9670,7 +9676,7 @@ zurück|finden, er findet zurück, hat zurückgefunden
 
 einhunderteinundsechzig **161**
 
-## Page 162  — vocabulary · intro, wordlist, vocabulary · vocabulary · none
+## Page 162  -- vocabulary - intro, wordlist, vocabulary - vocabulary - none
 
 **W** alphabetische Wortliste
 
@@ -9803,7 +9809,7 @@ In der Liste stehen keine Personennamen und keine Städte.
 
 **162** einhundertzweiundsechzig
 
-## Page 163  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 163  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 alphabetische Wortliste **W**
 
@@ -9978,7 +9984,7 @@ alphabetische Wortliste **W**
 
 einhundertdreiundsechzig **163**
 
-## Page 164  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 164  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 **W** alphabetische Wortliste
 
@@ -10171,7 +10177,7 @@ einhundertdreiundsechzig **163**
 
 **164** einhundertvierundsechzig
 
-## Page 165  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 165  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 alphabetische Wortliste **W**
 
@@ -10353,7 +10359,7 @@ alphabetische Wortliste **W**
 
 einhundertfünfundsechzig **165**
 
-## Page 166  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 166  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 **W** alphabetische Wortliste
 
@@ -10523,7 +10529,7 @@ einhundertfünfundsechzig **165**
 
 **166** einhundertsechsundsechzig
 
-## Page 167  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 167  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 alphabetische Wortliste **W**
 
@@ -10708,7 +10714,7 @@ alphabetische Wortliste **W**
 
 einhundertsiebenundsechzig **167**
 
-## Page 168  — vocabulary · wordlist · vocabulary · none
+## Page 168  -- vocabulary - wordlist - vocabulary - none
 
 **W · alphabetische Wortliste**
 
@@ -10878,7 +10884,7 @@ einhundertsiebenundsechzig **167**
 
 **168** einhundertachtundsechzig
 
-## Page 169  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 169  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 alphabetische Wortliste **W**
 
@@ -11055,7 +11061,7 @@ alphabetische Wortliste **W**
 
 einhundertneunundsechzig **169**
 
-## Page 170  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 170  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 **W** alphabetische Wortliste
 
@@ -11244,7 +11250,7 @@ einhundertneunundsechzig **169**
 
 **170** einhundertsiebzig
 
-## Page 171  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 171  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 alphabetische Wortliste **W**
 
@@ -11419,7 +11425,7 @@ alphabetische Wortliste **W**
 
 einhunderteinundsiebzig **171**
 
-## Page 172  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 172  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 **W** alphabetische Wortliste
 
@@ -11602,7 +11608,7 @@ einhunderteinundsiebzig **171**
 
 **172** einhundertzweiundsiebzig
 
-## Page 173  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 173  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 alphabetische Wortliste **W**
 
@@ -11774,7 +11780,7 @@ alphabetische Wortliste **W**
 
 einhundertdreiundsiebzig **173**
 
-## Page 174  — vocabulary · wordlist, vocabulary · vocabulary · none
+## Page 174  -- vocabulary - wordlist, vocabulary - vocabulary - none
 
 **W** alphabetische Wortliste
 

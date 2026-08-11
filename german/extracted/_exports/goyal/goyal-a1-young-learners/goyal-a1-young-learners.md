@@ -1,6 +1,6 @@
 # German for Young Learners · A1
 
-> Unified transcription of `pdf/goyal/a1-young-learners/young-learners.pdf` — 104 pages. Source: Goyal Publications — German for young learners.
+> Unified transcription of `pdf/goyal/a1-young-learners/young-learners.pdf` - 104 pages. Source: Goyal Publications — German for young learners.
 > Generated 2026-08-11. Filterable sheet: `goyal-a1-young-learners-catalog.csv`.
 
 ## Overview
@@ -72,6 +72,12 @@
 | communication | 3 |
 | time-dates | 2 |
 | shopping | 1 |
+
+## Known limitations
+
+- No printed answer key. Where correct_answer is populated it was determined from the exercise's own printed content (grammar and article drills have a single determinate answer); it was not copied from a key. Items with any genuine ambiguity are left blank.
+- Vocabulary sheet: `plural` is empty throughout — this book prints none
+- Vocabulary sheet: `example` is filled for only 8% of entries — the book prints it rarely
 
 ## Page index
 
@@ -184,7 +190,7 @@
 
 ---
 
-## Page 001  — cover · cover · none
+## Page 001  -- cover - cover - none
 
 # Hallo Deutsch Plus Neu A1
 
@@ -207,7 +213,7 @@ Deutsch als Fremdsprache
 
 Klett
 
-## Page 002  — cover · cover · none
+## Page 002  -- cover - cover - none
 
 # Hallo Deutsch Plus
 ## Neu A1
@@ -223,7 +229,7 @@ Grundkurs Deutsch für junge Lernende
 - GOETHE INSTITUT
 - Klett
 
-## Page 003  — toc, chapter-opener · none · none
+## Page 003  -- toc, chapter-opener - none - none
 
 INHALT
 
@@ -266,7 +272,7 @@ Erste Kontakte
 
 drei 3
 
-## Page 004  — toc, chapter-opener · none · none
+## Page 004  -- toc, chapter-opener - none - none
 
 Inhalt
 
@@ -313,7 +319,7 @@ Lektion 2
 
 4 vier
 
-## Page 005  — toc, chapter-opener · none · none
+## Page 005  -- toc, chapter-opener - none - none
 
 # Inhalt
 
@@ -356,7 +362,7 @@ Lektion 3
 
 fünf 5
 
-## Page 006  — intro, instructions · instructions · none
+## Page 006  -- intro, instructions - instructions - none
 
 *(vertical green side-tab, left margin):* auf einen Blick
 
@@ -398,7 +404,7 @@ for Class 8
 
 6 sechs
 
-## Page 007  — chapter-opener, exercise · multiple-choice · communication
+## Page 007  -- chapter-opener, exercise - multiple-choice - communication
 
 Lektion 1
 
@@ -451,7 +457,7 @@ Lektion 1
 
 sieben 7
 
-## Page 008  — exercise · fill-in · communication
+## Page 008  -- exercise - fill-in - communication
 
 *(Seitenrand-Banner, senkrecht:)* **Lektion 1**
 
@@ -498,7 +504,7 @@ Guten Morgen!  Guten Tag!  Guten Abend!  Gute Nacht!
 
 8 acht
 
-## Page 009  — writing · exercise, dialogue · fill-in · personal-info
+## Page 009  -- writing - exercise, dialogue - fill-in - personal-info
 
 Lektion 1
 
@@ -540,7 +546,7 @@ Tschüs · Ich heiße · alt · 15
 
 neun 9
 
-## Page 010  — exercise, listening-sheet, writing-prompt, speaking-prompt · listening-comprehension · personal-info
+## Page 010  -- exercise, listening-sheet, writing-prompt, speaking-prompt - listening-comprehension - personal-info
 
 Lektion 1
 
@@ -605,7 +611,7 @@ Steckbrief:
 
 10 zehn
 
-## Page 011  — exercise, reading-text, writing-prompt, vocabulary, grammar-box · vocabulary · family
+## Page 011  -- exercise, reading-text, writing-prompt, vocabulary, grammar-box - vocabulary - family
 
 > Lektion 1 _(vertical side banner, top right)_
 
@@ -652,7 +658,7 @@ _(Learner has filled the article before each noun by hand and, on some lines, an
 
 • elf   **11**
 
-## Page 012  — exercise, vocabulary, writing-prompt · vocabulary · family
+## Page 012  -- exercise, vocabulary, writing-prompt - vocabulary - family
 
 Lektion 1
 
@@ -699,7 +705,7 @@ Stammbaum (Familie Beckmann / Richter):
 
 12 zwölf
 
-## Page 013  — exercise · short-answer · family
+## Page 013  -- exercise - short-answer - family
 
 **Lektion 1**
 
@@ -744,7 +750,7 @@ markus hat ein eenzelkind, <!-- illegible in part: best-guess "Markus hat ein Ei
 
 dreizehn **13**
 
-## Page 014  — reading · exercise, reading-text, writing-prompt · reading-comprehension · family
+## Page 014  -- reading - exercise, reading-text, writing-prompt - reading-comprehension - family
 
 Lektion 1
 
@@ -787,7 +793,7 @@ Melanie geht noch in die Grundschule.
 
 14 vierzehn
 
-## Page 015  — exercise, speaking-prompt, listening-sheet · speaking-task · personal-info
+## Page 015  -- exercise, speaking-prompt, listening-sheet - speaking-task - personal-info
 
 Lektion 1
 
@@ -829,7 +835,7 @@ Herr Kuppers, wo wohnen Sie? Wie alt sind Sie? Sind Sie verheiratet? Haben Sie K
 
 fünfzehn 15
 
-## Page 016  — writing · exercise, writing-prompt · matching · personal-info
+## Page 016  -- writing - exercise, writing-prompt - matching - personal-info
 
 **Lektion 1**
 
@@ -876,7 +882,7 @@ f. Ja, einen Sohn.
 
 **16** sechzehn
 
-## Page 017  — exercise, listening-sheet, writing-prompt · matching · city-places
+## Page 017  -- exercise, listening-sheet, writing-prompt - matching - city-places
 
 Lektion 1
 
@@ -929,7 +935,7 @@ ___
 
 siebzehn 17
 
-## Page 018  — writing · exercise, writing-prompt · short-answer · city-places
+## Page 018  -- writing - exercise, writing-prompt - short-answer - city-places
 
 **Lektion 1**
 
@@ -983,7 +989,7 @@ Handwritten answers:
 
 18 achtzehn
 
-## Page 019  — listening · exercise, listening-sheet · listening-comprehension · city-places
+## Page 019  -- listening - exercise, listening-sheet - listening-comprehension - city-places
 
 Lektion 1
 
@@ -1021,7 +1027,7 @@ Städte: Frankfurt · Innsbruck · Hamburg · Bern · Berlin · Köln · Wien ·
 
 neunzehn 19
 
-## Page 020  — writing · exercise, writing-prompt, dialogue · writing-task · personal-info
+## Page 020  -- writing - exercise, writing-prompt, dialogue - writing-task - personal-info
 
 Lektion 1
 
@@ -1064,7 +1070,7 @@ Personen (Foto mit Name, Stadt und Smiley/Trauriges Gesicht):
 
 zwanzig 20
 
-## Page 021  — exercise, listening-sheet · fill-in · none
+## Page 021  -- exercise, listening-sheet - fill-in - none
 
 Lektion 1
 
@@ -1120,7 +1126,7 @@ Sprechblase (Mädchen): Nummer …
 
 einundzwanzig 21
 
-## Page 022  — exercise, listening-sheet · fill-in · shopping
+## Page 022  -- exercise, listening-sheet - fill-in - shopping
 
 Lektion 1
 
@@ -1167,7 +1173,7 @@ Sprechblase (Kassiererin): Das kostet …
 
 zweiundzwanzig 22
 
-## Page 023  — listening · exercise, listening-sheet · listening-comprehension · communication
+## Page 023  -- listening - exercise, listening-sheet - listening-comprehension - communication
 
 Lektion 1
 
@@ -1200,7 +1206,7 @@ _(drei leere Antwortlinien)_
 
 dreiundzwanzig 23
 
-## Page 024  — exercise, grammar-box · fill-in · personal-info
+## Page 024  -- exercise, grammar-box - fill-in - personal-info
 
 _(Randmarke, linke Seite, vertikal:)_ **Lektion 1** · **Grammatik**
 
@@ -1248,7 +1254,7 @@ _(Randmarke, linke Seite, vertikal:)_ **Lektion 1** · **Grammatik**
 
 24 vierundzwanzig
 
-## Page 025  — exercise, grammar-box · fill-in · personal-info
+## Page 025  -- exercise, grammar-box - fill-in - personal-info
 
 Lektion 1 · Grammatik
 
@@ -1306,7 +1312,7 @@ Namen: Andreas · Simone · Julia · Jutta · Marcel · Uwe · Andrea · Gabriel
 
 fünfundzwanzig 25
 
-## Page 026  — exercise, grammar-box · short-answer · personal-info
+## Page 026  -- exercise, grammar-box - short-answer - personal-info
 
 Lektion 1 · Grammatik
 
@@ -1372,7 +1378,7 @@ Lektion 1 · Grammatik
 
 26 sechsundzwanzig
 
-## Page 027  — exercise, grammar-box · fill-in · family
+## Page 027  -- exercise, grammar-box - fill-in - family
 
 Lektion 1 · Grammatik
 
@@ -1439,7 +1445,7 @@ Lektion 1 · Grammatik
 
 siebenundzwanzig 27
 
-## Page 028  — listening · exercise, listening-sheet · speaking-task · personal-info
+## Page 028  -- listening - exercise, listening-sheet - speaking-task - personal-info
 
 **Lektion 1 · Trainieren**
 
@@ -1502,7 +1508,7 @@ Das liegt in Süddeutschland.
 
 28 achtundzwanzig
 
-## Page 029  — chapter-opener, instructions, vocabulary, picture-story · vocabulary · family
+## Page 029  -- chapter-opener, instructions, vocabulary, picture-story - vocabulary - family
 
 Lektion 1 · Spielen
 
@@ -1523,7 +1529,7 @@ Bildkärtchen (jede Zelle = ein Kärtchen mit Bild und Beschriftung):
 
 neunundzwanzig 29
 
-## Page 030  — vocabulary · vocabulary · none · none
+## Page 030  -- vocabulary - vocabulary - none - none
 
 <!-- Vertical tab banner, top-left corner (rotated 90°, reading bottom-to-top): -->
 **Lektion 1**
@@ -1543,7 +1549,7 @@ Familie
 
 30 · dreißig
 
-## Page 031  — instructions, exercise, grammar-box · ordering · personal-info
+## Page 031  -- instructions, exercise, grammar-box - ordering - personal-info
 
 Lektion 1 · Spielen
 
@@ -1575,7 +1581,7 @@ Kärtchen-Gruppe 3:
 
 einunddreißig 31
 
-## Page 032  — exercise, grammar-box · none · none
+## Page 032  -- exercise, grammar-box - none - none
 
 Lektion 1 · Spielen
 
@@ -1598,7 +1604,7 @@ Gruppe 3 (12 Kärtchen): 12 × „Lektion 1 — Grammatik: Wo? Wie? Wer?"
 
 32 zweiunddreißig
 
-## Page 033  — exercise · ordering · mixed
+## Page 033  -- exercise - ordering - mixed
 
 Lektion 1
 Spielen
@@ -1632,7 +1638,7 @@ Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze.
 
 dreiunddreißig 33
 
-## Page 034  — exercise · none · none
+## Page 034  -- exercise - none - none
 
 Lektion 1
 Spielen
@@ -1654,7 +1660,7 @@ Layout of the card backs on the page:
 
 34 vierunddreißig
 
-## Page 035  — vocabulary · exercise, vocabulary · vocabulary · family
+## Page 035  -- vocabulary - exercise, vocabulary - vocabulary - family
 
 Lektion 1
 Spielen
@@ -1674,7 +1680,7 @@ Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen.
 
 fünfunddreißig 35
 
-## Page 036  — vocabulary · exercise, vocabulary · none · none
+## Page 036  -- vocabulary - exercise, vocabulary - none - none
 
 Lektion 1
 Spielen
@@ -1692,7 +1698,7 @@ Spielen
 
 36 sechsunddreißig
 
-## Page 037  — vocabulary · chapter-opener, exercise, vocabulary · matching · home
+## Page 037  -- vocabulary - chapter-opener, exercise, vocabulary - matching - home
 
 Lektion 2
 Modul 2
@@ -1723,7 +1729,7 @@ Nr. 10: ___
 
 siebenunddreißig 37
 
-## Page 038  — writing · exercise, grammar-box · short-answer · home
+## Page 038  -- writing - exercise, grammar-box - short-answer - home
 
 Lektion 2
 
@@ -1766,7 +1772,7 @@ Lektion 2
 
 achtunddreißig 38
 
-## Page 039  — writing · lesson, exercise, writing-prompt · writing-task · home
+## Page 039  -- writing - lesson, exercise, writing-prompt - writing-task - home
 
 Lektion 2
 
@@ -1827,7 +1833,7 @@ ___
 
 neununddreißig 39
 
-## Page 040  — exercise, listening-sheet, speaking-prompt, writing-prompt · listening-comprehension · home
+## Page 040  -- exercise, listening-sheet, speaking-prompt, writing-prompt - listening-comprehension - home
 
 **Lektion 2**
 
@@ -1891,7 +1897,7 @@ Beantworte die Fragen mit den vorgegebenen Adjektiven.
 
 40 vierzig
 
-## Page 041  — reading · reading-text, exercise, writing-prompt · reading-comprehension · home
+## Page 041  -- reading - reading-text, exercise, writing-prompt - reading-comprehension - home
 
 **Lektion 2**
 
@@ -1928,7 +1934,7 @@ ___________________________________________
 
 einundvierzig 41
 
-## Page 042  — listening · exercise, listening-sheet · listening-comprehension · home
+## Page 042  -- listening - exercise, listening-sheet - listening-comprehension - home
 
 **Lektion 2**
 
@@ -1975,7 +1981,7 @@ Telefon/Handy _______________________________
 
 42 zweiundvierzig
 
-## Page 043  — writing · exercise, dialogue, writing-prompt · writing-task · food
+## Page 043  -- writing - exercise, dialogue, writing-prompt - writing-task - food
 
 **Lektion 2**
 
@@ -2020,7 +2026,7 @@ Telefon/Handy _______________________________
 
 dreiundvierzig **43**
 
-## Page 044  — exercise, dialogue, vocabulary, instructions · fill-in · mixed
+## Page 044  -- exercise, dialogue, vocabulary, instructions - fill-in - mixed
 
 Lektion 2
 
@@ -2081,7 +2087,7 @@ Wortbank (gelb):
 
 44 vierundvierzig
 
-## Page 045  — writing · exercise, writing-prompt · writing-task · hobby
+## Page 045  -- writing - exercise, writing-prompt - writing-task - hobby
 
 Lektion 2
 
@@ -2121,7 +2127,7 @@ ___
 
 fünfundvierzig 45
 
-## Page 046  — writing · exercise, reading-text, writing-prompt · reading-comprehension · hobby
+## Page 046  -- writing - exercise, reading-text, writing-prompt - reading-comprehension - hobby
 
 Lektion 2
 
@@ -2164,7 +2170,7 @@ ___
 
 46 sechsundvierzig
 
-## Page 047  — exercise, writing-prompt · matching · mixed
+## Page 047  -- exercise, writing-prompt - matching - mixed
 
 Lektion 2
 
@@ -2210,7 +2216,7 @@ siebenundvierzig 47
 
 <!-- Am linken Blattrand nur Durchschein-/Anschnittfragmente der Gegenseite (S. 46): ein kleines Foto oben sowie einzelne Zeichen "at", "r." und Linien — nicht Teil dieser Seite. -->
 
-## Page 048  — exercise, writing-prompt, speaking-prompt · short-answer · personal-info
+## Page 048  -- exercise, writing-prompt, speaking-prompt - short-answer - personal-info
 
 Lektion 2
 
@@ -2249,7 +2255,7 @@ ___
 
 48 achtundvierzig
 
-## Page 049  — writing · exercise, writing-prompt · matching · personal-info
+## Page 049  -- writing - exercise, writing-prompt - matching - personal-info
 
 Lektion 2
 
@@ -2317,7 +2323,7 @@ Beispiel (handschriftlich, "Herr Bardot" ist mit "Franzose." verbunden):
 
 neunundvierzig 49
 
-## Page 050  — exercise, dialogue, listening-sheet · fill-in · personal-info
+## Page 050  -- exercise, dialogue, listening-sheet - fill-in - personal-info
 
 Lektion 2
 
@@ -2353,7 +2359,7 @@ Wortkasten 2: komme · wohnt · Türkei · spreche · liegt
 
 50 fünfzig
 
-## Page 051  — exercise, dialogue, listening-sheet · short-answer · personal-info
+## Page 051  -- exercise, dialogue, listening-sheet - short-answer - personal-info
 
 Lektion 2
 
@@ -2397,7 +2403,7 @@ Sie spricht ___.
 
 einundfünfzig 51
 
-## Page 052  — grammar-box, exercise · fill-in · mixed
+## Page 052  -- grammar-box, exercise - fill-in - mixed
 
 Lektion 2 · Grammatik
 
@@ -2439,7 +2445,7 @@ Lektion 2 · Grammatik
 
 52 zweiundfünfzig
 
-## Page 053  — exercise, grammar-box · fill-in · mixed
+## Page 053  -- exercise, grammar-box - fill-in - mixed
 
 Lektion 2 · Grammatik
 
@@ -2502,7 +2508,7 @@ Lektion 2 · Grammatik
 
 dreiundfünfzig 53
 
-## Page 054  — exercise, grammar-box · fill-in · mixed
+## Page 054  -- exercise, grammar-box - fill-in - mixed
 
 Lektion 2 · Grammatik
 
@@ -2569,7 +2575,7 @@ Lektion 2 · Grammatik
 
 54 vierundfünfzig
 
-## Page 055  — exercise · fill-in · mixed
+## Page 055  -- exercise - fill-in - mixed
 
 **Lektion 2 — Grammatik**
 
@@ -2651,7 +2657,7 @@ Lektion 2 · Grammatik
 
 fünfundfünfzig 55
 
-## Page 056  — exercise · fill-in · mixed
+## Page 056  -- exercise - fill-in - mixed
 
 **Lektion 2 — Grammatik**
 
@@ -2737,7 +2743,7 @@ fünfundfünfzig 55
 
 56 sechsundfünfzig
 
-## Page 057  — exercise · fill-in · mixed
+## Page 057  -- exercise - fill-in - mixed
 
 **Lektion 2 — Grammatik**
 
@@ -2823,7 +2829,7 @@ fünfundfünfzig 55
 
 siebenundfünfzig 57
 
-## Page 058  — listening · exercise, listening-sheet, speaking-prompt, instructions · speaking-task · mixed
+## Page 058  -- listening - exercise, listening-sheet, speaking-prompt, instructions - speaking-task - mixed
 
 Lektion 2
 Trainieren
@@ -2887,7 +2893,7 @@ Er spricht Spanisch.
 
 58 achtundfünfzig
 
-## Page 059  — exercise, picture-story · matching · home
+## Page 059  -- exercise, picture-story - matching - home
 
 **Lektion 2 — Spielen**
 
@@ -2937,7 +2943,7 @@ Memory-game cards (each picture appears twice — once with the noun-phrase card
 
 neunundfünfzig 59
 
-## Page 060  — exercise, vocabulary · none · none
+## Page 060  -- exercise, vocabulary - none - none
 
 **Lektion 2 — Spielen**
 
@@ -2955,7 +2961,7 @@ All 16 cards carry the same text: **Lektion 2 — Wortschatz: Wohnung**
 
 60 sechzig
 
-## Page 061  — exercise, vocabulary · writing-task · mixed
+## Page 061  -- exercise, vocabulary - writing-task - mixed
 
 **Lektion 2 — Spielen**
 
@@ -2991,7 +2997,7 @@ Cut-out word cards, grouped by colour, for building sentences.
 
 einundsechzig 61
 
-## Page 062  — exercise · none · none
+## Page 062  -- exercise - none - none
 
 <!-- Vertical side tab (left margin, rotated): -->
 **Lektion 2**
@@ -3033,7 +3039,7 @@ Akkusativ
 
 62 · zweiundsechzig
 
-## Page 063  — exercise · writing-task · personal-info
+## Page 063  -- exercise - writing-task - personal-info
 
 <!-- Vertical side tab (top-right corner, rotated): -->
 **Lektion 2**
@@ -3076,7 +3082,7 @@ Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze.
 
 dreiundsechzig · 63
 
-## Page 064  — exercise · none · none
+## Page 064  -- exercise - none - none
 
 <!-- Vertical side tab (left margin, rotated): -->
 **Lektion 2**
@@ -3119,7 +3125,7 @@ Grammatik:
 
 64 · vierundsechzig
 
-## Page 065  — vocabulary · exercise · vocabulary · mixed
+## Page 065  -- vocabulary - exercise - vocabulary - mixed
 
 **Lektion 2**
 **Spielen**
@@ -3141,7 +3147,7 @@ Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen.
 
 fünfundsechzig **65**
 
-## Page 066  — exercise · none · none
+## Page 066  -- exercise - none - none
 
 Lektion 2 · Spielen
 
@@ -3157,7 +3163,7 @@ Jede der 24 Karten enthält denselben Aufdruck:
 
 66 sechsundsechzig
 
-## Page 067  — chapter-opener, exercise, wordlist · matching · food
+## Page 067  -- chapter-opener, exercise, wordlist - matching - food
 
 # Lektion 3
 
@@ -3209,7 +3215,7 @@ ___ fehlt.
 
 siebenundsechzig 67
 
-## Page 068  — exercise, grammar-box, writing-prompt · writing-task · food
+## Page 068  -- exercise, grammar-box, writing-prompt - writing-task - food
 
 Lektion 3
 
@@ -3251,7 +3257,7 @@ ___
 
 68 achtundsechzig
 
-## Page 069  — exercise, dialogue, writing-prompt · fill-in · food
+## Page 069  -- exercise, dialogue, writing-prompt - fill-in - food
 
 Lektion 3
 
@@ -3298,7 +3304,7 @@ _(Bild: Mutter und Junge in der Küche)_
 
 neunundsechzig 69
 
-## Page 070  — reading · reading-text, exercise, vocabulary · reading-comprehension · mixed
+## Page 070  -- reading - reading-text, exercise, vocabulary - reading-comprehension - mixed
 
 **Lektion 3**
 
@@ -3364,7 +3370,7 @@ l. der Kugelschreiber
 
 **70** siebzig
 
-## Page 071  — exercise, listening-sheet · listening-comprehension · school
+## Page 071  -- exercise, listening-sheet - listening-comprehension - school
 
 Lektion 3
 
@@ -3407,7 +3413,7 @@ ___
 
 einundsiebzig 71
 
-## Page 072  — exercise, grammar-box, vocabulary · fill-in · school
+## Page 072  -- exercise, grammar-box, vocabulary - fill-in - school
 
 Lektion 3
 
@@ -3448,7 +3454,7 @@ Sprechblase (Junge): Ja, den Taschenrechner habe ich!
 
 72 zweiundsiebzig
 
-## Page 073  — exercise, writing-prompt, listening-sheet, grammar-box · fill-in · school
+## Page 073  -- exercise, writing-prompt, listening-sheet, grammar-box - fill-in - school
 
 Lektion 3
 
@@ -3487,7 +3493,7 @@ ___
 
 dreiundsiebzig 73
 
-## Page 074  — exercise, listening-sheet · short-answer · school
+## Page 074  -- exercise, listening-sheet - short-answer - school
 
 Lektion 3
 
@@ -3534,7 +3540,7 @@ ___
 
 74 vierundsiebzig
 
-## Page 075  — exercise, writing-prompt, vocabulary · short-answer · hobby
+## Page 075  -- exercise, writing-prompt, vocabulary - short-answer - hobby
 
 Lektion 3
 
@@ -3576,7 +3582,7 @@ Adjektivkasten: blöd · interessant · langweilig · spannend · lustig · sch�
 
 fünfundsiebzig 75
 
-## Page 076  — exercise, writing-prompt, listening-sheet · writing-task · hobby
+## Page 076  -- exercise, writing-prompt, listening-sheet - writing-task - hobby
 
 Lektion 3
 
@@ -3620,7 +3626,7 @@ ___
 
 76 sechsundsiebzig
 
-## Page 077  — exercise, reading-text, writing-prompt, speaking-prompt · reading-comprehension · hobby
+## Page 077  -- exercise, reading-text, writing-prompt, speaking-prompt - reading-comprehension - hobby
 
 Lektion 3
 
@@ -3666,7 +3672,7 @@ ___
 
 siebenundsiebzig 77
 
-## Page 078  — exercise, listening-sheet · matching · time-dates
+## Page 078  -- exercise, listening-sheet - matching - time-dates
 
 Lektion 3
 
@@ -3716,7 +3722,7 @@ Wie heißen die Verben in deiner Sprache?
 
 78 achtundsiebzig
 
-## Page 079  — writing · exercise, writing-prompt · writing-task · daily-routine
+## Page 079  -- writing - exercise, writing-prompt - writing-task - daily-routine
 
 Lektion 3
 
@@ -3758,7 +3764,7 @@ Lektion 3
 
 neunundsiebzig 79
 
-## Page 080  — exercise, speaking-prompt, reading-text · reading-comprehension · daily-routine
+## Page 080  -- exercise, speaking-prompt, reading-text - reading-comprehension - daily-routine
 
 Lektion 3
 
@@ -3805,7 +3811,7 @@ Gute Reise, Marsi!
 
 80 achtzig
 
-## Page 081  — exercise, dialogue · reading-comprehension · daily-routine
+## Page 081  -- exercise, dialogue - reading-comprehension - daily-routine
 
 Lektion 3
 
@@ -3862,7 +3868,7 @@ Dialog:
 
 einundachtzig 81
 
-## Page 082  — grammar-box, exercise · fill-in · mixed
+## Page 082  -- grammar-box, exercise - fill-in - mixed
 
 Lektion 3 · Grammatik
 
@@ -3910,7 +3916,7 @@ Lektion 3 · Grammatik
 
 82 zweiundachtzig
 
-## Page 083  — grammar-box, exercise · fill-in · mixed
+## Page 083  -- grammar-box, exercise - fill-in - mixed
 
 Lektion 3 · Grammatik
 
@@ -3958,7 +3964,7 @@ Lektion 3 · Grammatik
 
 dreiundachtzig 83
 
-## Page 084  — grammar-box, exercise · fill-in · mixed
+## Page 084  -- grammar-box, exercise - fill-in - mixed
 
 Lektion 3 · Grammatik
 
@@ -4018,7 +4024,7 @@ Lektion 3 · Grammatik
 
 84 vierundachtzig
 
-## Page 085  — grammar-box, exercise · fill-in · mixed
+## Page 085  -- grammar-box, exercise - fill-in - mixed
 
 Lektion 3 · Grammatik
 
@@ -4084,7 +4090,7 @@ Lektion 3 · Grammatik
 7. Gehen wir ___ Tennisclub? Nein, ich habe keine Lust.
 8. Gehst du jetzt ___ Schule?
 
-## Page 086  — exercise · fill-in · mixed
+## Page 086  -- exercise - fill-in - mixed
 
 <!-- side tab (vertical, left margin) -->
 **Lektion 3**
@@ -4127,7 +4133,7 @@ Lektion 3 · Grammatik
 
 86 · sechsundachtzig
 
-## Page 087  — exercise · fill-in · time-dates
+## Page 087  -- exercise - fill-in - time-dates
 
 Lektion 3
 Grammatik
@@ -4166,7 +4172,7 @@ Grammatik
 
 siebenundachtzig 87
 
-## Page 088  — listening · listening-sheet, exercise · speaking-task · mixed
+## Page 088  -- listening - listening-sheet, exercise - speaking-task - mixed
 
 Lektion 3 · Trainieren
 
@@ -4230,7 +4236,7 @@ Es ist 10.15.
 
 88 achtundachtzig
 
-## Page 089  — vocabulary · exercise, vocabulary, picture-story · matching · food
+## Page 089  -- vocabulary - exercise, vocabulary, picture-story - matching - food
 
 # Wir spielen
 
@@ -4264,7 +4270,7 @@ Schneide die Kärtchen aus, leg sie umgekehrt auf den Tisch und finde die Paare.
 
 neunundachtzig · 89
 
-## Page 090  — vocabulary · vocabulary · none · none
+## Page 090  -- vocabulary - vocabulary - none - none
 
 <!-- Side banner (left margin, vertical): Lektion 3 / Spielen -->
 
@@ -4294,7 +4300,7 @@ Essen und Trinken
 
 90 neunzig
 
-## Page 091  — writing · exercise · writing-task · hobby
+## Page 091  -- writing - exercise - writing-task - hobby
 
 <!-- Side banner (top-right, vertical): Lektion 3 / Spielen -->
 
@@ -4334,7 +4340,7 @@ Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze.
 
 einundneunzig 91
 
-## Page 092  — vocabulary · vocabulary, grammar-box · none · none
+## Page 092  -- vocabulary - vocabulary, grammar-box - none - none
 
 <!-- Side banner (top-left, vertical): Lektion 3 / Spielen -->
 
@@ -4377,7 +4383,7 @@ Grammatik:
 
 92 zweiundneunzig
 
-## Page 093  — writing · exercise · writing-task · daily-routine
+## Page 093  -- writing - exercise - writing-task - daily-routine
 
 <!-- Side banner (top-right, vertical): Lektion 3 / Spielen -->
 
@@ -4405,7 +4411,7 @@ Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze.
 
 dreiundneunzig · 93
 
-## Page 094  — exercise, grammar-box · none · none
+## Page 094  -- exercise, grammar-box - none - none
 
 <!-- Margin banner, left edge, printed vertically (reading bottom-to-top) -->
 **Lektion 3**
@@ -4429,7 +4435,7 @@ Verben
 
 94 vierundneunzig
 
-## Page 095  — exercise · vocabulary · mixed
+## Page 095  -- exercise - vocabulary - mixed
 
 <!-- Margin banner, top-right corner, printed vertically: -->
 **Lektion 3**
@@ -4452,7 +4458,7 @@ Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen.
 
 fünfundneunzig 95
 
-## Page 096  — exercise · none · none
+## Page 096  -- exercise - none - none
 
 **Lektion 3**
 **Spielen**
@@ -4477,7 +4483,7 @@ Silbenrätsel
 
 **96** sechsundneunzig
 
-## Page 097  — listening · audio-script · listening-comprehension · none
+## Page 097  -- listening - audio-script - listening-comprehension - none
 
 <!-- Side banner (top-right, vertical): Hörtexte -->
 
@@ -4560,7 +4566,7 @@ Silbenrätsel
 
 siebenundneunzig · 97
 
-## Page 098  — listening · audio-script · listening-comprehension · none
+## Page 098  -- listening - audio-script - listening-comprehension - none
 
 <!-- Side banner (top-left, vertical): Hörtexte -->
 <!-- Continuation of "Transkriptionen" (Hörtexte). Two-column layout. In the dialogues, turns are marked by coloured hexagon bullets. Numbered items (1.–5.) are the prompts; the orange-bullet lines are the responses. -->
@@ -4659,7 +4665,7 @@ Entschuldigung, was kostet das? Das kostet Euro 20,50.
 
 98 achtundneunzig
 
-## Page 099  — listening · audio-script, listening-sheet, dialogue · listening-comprehension · none
+## Page 099  -- listening - audio-script, listening-sheet, dialogue - listening-comprehension - none
 
 **Hörtexte**
 
@@ -4737,7 +4743,7 @@ Ich liebe mein Bett! Es ist groß und sehr bequem.
 
 neunundneunzig 99
 
-## Page 100  — listening · audio-script · listening-comprehension · none
+## Page 100  -- listening - audio-script - listening-comprehension - none
 
 Hörtexte
 
@@ -4829,7 +4835,7 @@ Der Bleistift kostet 80 Cent; Das Heft kostet 1,20 Euro; Das Buch kostet 19,90 E
 
 100 einhundert
 
-## Page 101  — listening · audio-script · listening-comprehension · none
+## Page 101  -- listening - audio-script - listening-comprehension - none
 
 Hörtexte
 
@@ -4924,7 +4930,7 @@ Frau Hansmann unterrichtet Deutsch.
 
 einhunderteins 101
 
-## Page 102  — listening · audio-script, listening-sheet, dialogue · listening-comprehension · none
+## Page 102  -- listening - audio-script, listening-sheet, dialogue - listening-comprehension - none
 
 **Hörtexte**
 
@@ -4988,7 +4994,7 @@ Alle Rechte vorbehalten.
 
 102 einhundertzwei
 
-## Page 103  — toc · none · none
+## Page 103  -- toc - none - none
 
 # Quellenverzeichnis
 
@@ -4998,7 +5004,7 @@ U1 shutterstock (Blend Images); 3 www.klonkfotodesign.de; 4 www.klonkfotodesign.
 
 einhundertdrei 103
 
-## Page 104  — picture-story · vocabulary · city-places
+## Page 104  -- picture-story - vocabulary - city-places
 
 **Deutschsprachige Länder**
 

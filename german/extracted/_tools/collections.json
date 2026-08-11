@@ -1,5 +1,17 @@
 {
   "_comment": "Declarative registry of PDF/audio source collections for the German media pipeline. Add a source = add an entry here (no code change). Paths are relative to the german/ folder. Fields: slug, family (goethe|netzwerk|goyal — groups per-publisher combined sheets), publisher, exam, level, variant, title (display name), source_note (provenance line), pdf, audio, frozen (true = already delivered; exporters must never regenerate it).",
+  "exports": {
+    "_comment": "Shape of this language's export tree, read by _engine/build_exports.py. Exists so German can run the shared exporter instead of a forked copy (gap P1).",
+    "global_basename": "german-a1",
+    "family_basename": "{family}-a1",
+    "strip_content_type_brackets": true,
+    "omit_columns": {
+      "_comment": "Columns this language can NEVER populate, declared rather than inferred from whatever happens to be empty today. Inferring would let the schema change shape silently every time a book is added -- option_d is empty because THESE ten books have no five-option items, not because German cannot have them. Declaring it means the schema moves when a human decides. chapter: German's schema has no chapter concept and never wrote the frontmatter field (absent on all 636 pages). translation/gender: the corpus is monolingual.",
+      "_option_d_note": "option_d/option_e are deliberately NOT omitted, though they are empty in all ten books. Omitting them splits the language against itself: the seven frozen books can never be regenerated, so their sheets would keep 16 columns while live books moved to 14, and verify_exports correctly refuses a header that varies within one language. Revisit only if the frozen books are ever unfrozen.",
+      "catalog": ["chapter"],
+      "vocabulary": ["translation", "gender"]
+    }
+  },
   "collections": [
     {
       "slug": "goethe-a1-sd1-exam-training-1",
