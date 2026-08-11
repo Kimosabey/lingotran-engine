@@ -14,6 +14,21 @@ pages, for a study database. Inputs: `collection` and a `page` LIST/RANGE
 
 ## STEP 2 — For EVERY headword entry printed on those pages, output one record:
 - `word`: the headword VERBATIM (LANGUAGE spelling, accents/diacritics exact)
+- `translation`: the meaning as PRINTED BY THE BOOK, verbatim, when the book is
+  bilingual. Many coursebooks print a glossary as `Article | <Language> | English`
+  — capture that English column here, including any parenthetical qualifier
+  ("to go (out)", "CU (used in email)"). If the book is MONOLINGUAL and prints no
+  gloss, use "" — NEVER translate it yourself. A blank is correct data; an
+  invented gloss is not.
+  Watch for these real layouts before assuming one shape: a reverse
+  `English | <Language>` glossary later in the same book (columns inverted);
+  entries printed as bold-prefixed lines rather than a table; two-column
+  per-unit lists; and number/clock-face tables that print no gloss at all.
+  Duplicate headwords that differ only by article carry DIFFERENT meanings
+  (`| | jeudi | Thursday |` vs `| le | jeudi | on Thursdays |`) — match
+  article-aware so each keeps its own.
+  This field was added 2026-08-10 after the first extraction discarded 4,303
+  printed English meanings, leaving a vocabulary sheet with no meanings in it.
 - `article`: the definite/indefinite article as printed for nouns (e.g. der/die/das for German, le/la/les/l' for French); "" if the word isn't a noun or LANGUAGE has no articles
 - `plural`: plural form/ending as printed; "" if none/not given
 - `word_class`: noun | verb | adjective | adverb | preposition | phrase | other

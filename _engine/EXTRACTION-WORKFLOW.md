@@ -200,7 +200,10 @@ for a page that was never attempted.
 ### Step 7 — Enrich: classify + questions + vocabulary [agent]
 
 Dispatch `_engine/agent_enrich.md` (classification + questions in one read)
-and `_engine/agent_vocab.md` (vocabulary) per page range. Agents write
+and `_engine/agent_vocab.md` (vocabulary) per page range. Note what
+"vocabulary" means here: **only pages that print a word list**, not every word
+in the book — 5–19% of a coursebook's pages. Words that appear solely in a
+reading text or dialogue are not captured (gap P5). Agents write
 `_class/chunk-*.json`, `_questions/chunk-*.json`, `_vocab/chunk-*.json`.
 
 Fields that are easy to lose and expensive to recover later — capture them
@@ -366,6 +369,14 @@ book. Delivery (Drive upload + notify) happens here; see a language's
    taxonomy, cell hygiene, page references, packaging drift). The first three
    gates all pass on a book whose CSVs are unreadable — this is the one that
    looks at what the recipient sees.
+4b. **Measure column COVERAGE, by hand, against what you expect.** No gate does
+   this, and it is the one that has actually caught a bad deliverable: a German
+   export shipped at 8.7% rubric coverage and passed every check above, because
+   the gates validate *shape*, not *fullness*. The 8.7% was exactly the books
+   with no chunk directory — the chunk-backed ones had never been re-merged.
+   Before declaring done, print the fill rate of the columns that matter
+   (`instruction`, `correct_answer`, `translation`) per collection and ask
+   whether each number is what the book should produce.
 5. `git status --porcelain -- <frozen-lang>/` is empty.
 
 And two gates that run *earlier* than "done", where they still save money:

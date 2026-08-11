@@ -194,7 +194,10 @@ def main(argv):
         '## Sheet columns', '',
         '- **catalog** — one row per page: section, chapter, content type, activity, topic, level, status, word count, summary.',
         '- **questions** — one row per item: section, part, item, item_type, question, option_a/b/c, correct_answer, level, topic, source_page.',
-        '- **vocabulary** — one row per word: word, article, plural, word_class, example, topic, source_page.',
+        '- **vocabulary** — one row per word: word, translation, article, plural, word_class, example, topic, source_page.',
+        '  `translation` is the meaning **as printed by the book**, so it is filled only for BILINGUAL books.',
+        '  A monolingual book prints no gloss, so the column is blank for it -- that is the book, not missing data.',
+        '  Blank `plural` / `example` mean the same thing: the book does not print them for that entry.',
     ]
     if combined:
         lines += ['', '## Combined sheets (`_combined/`)', '', '| Sheet | Rows |', '|---|---|']
