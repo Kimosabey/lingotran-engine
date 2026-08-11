@@ -46,10 +46,10 @@ from _common import parse_root, lang_slug, load_collections
 # frontmatter, and a permanently-empty column reads worse than an absent one.
 CANON = {
     'questions': ['collection', 'section', 'part', 'item', 'item_type', 'instruction',
-                  'question', 'option_a', 'option_b', 'option_c', 'correct_answer',
-                  'level', 'topic', 'source_page'],
-    'vocabulary': ['collection', 'word', 'translation', 'article', 'plural',
-                   'word_class', 'example', 'topic', 'source_page'],
+                  'question', 'option_a', 'option_b', 'option_c', 'option_d',
+                  'option_e', 'correct_answer', 'level', 'topic', 'source_page'],
+    'vocabulary': ['collection', 'word', 'translation', 'article', 'gender',
+                   'plural', 'word_class', 'example', 'topic', 'source_page'],
     'catalog': ['collection', 'unit', 'section', 'chapter', 'content_type',
                 'activity_type', 'topic', 'level', 'status', 'qa', 'word_count',
                 'summary', 'title'],
@@ -62,11 +62,12 @@ CANON = {
 # English column (Tricolore's Francais-anglais glossaries). Cosmopolite and
 # every German book are monolingual, so requiring it would force an empty
 # column on them -- the same defect as the header-only CSVs.
-OPTIONAL = {'catalog': {'chapter'}, 'vocabulary': {'translation'}}
+OPTIONAL = {'catalog': {'chapter'}, 'vocabulary': {'translation', 'gender'}}
 
 # Cells a human reads. Machine/enum columns are covered by the taxonomy rules
 # in agent_enrich.md and by verify_answers.py.
 TEXT_COLS = ('instruction', 'question', 'option_a', 'option_b', 'option_c',
+             'option_d', 'option_e',
              'correct_answer', 'word', 'translation', 'example', 'summary',
              'title', 'part', 'chapter')
 

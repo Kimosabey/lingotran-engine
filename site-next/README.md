@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Lingotran Engine — site
 
-## Getting Started
+The public knowledge base for the Lingotran extraction pipeline: the corpus, the
+per-book QA record, the orchestration behind it, and a filterable explorer over
+the exported datasets.
 
-First, run the development server:
+Live at **https://lingotran-engine.vercel.app**
+
+## Running it
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm install
+pnpm dev          # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+pnpm build && pnpm start   # production build on :3000
+pnpm lint
+pnpm test:e2e              # Playwright, Chromium + WebKit, against a prod build
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Vercel, from the `main` branch of the parent repo. Because the Next app lives in
+a subdirectory of a larger multi-language corpus repo, **the Vercel project's
+Root Directory must be set to `site-next`** — there is no `package.json` at the
+repo root, so an unset Root Directory fails the build with
+`No Next.js version detected`.
 
-## Learn More
+Leave "Include files outside the root directory" off: this directory is
+self-contained, and the corpus CSVs it serves are snapshotted into
+`public/data/` rather than read from the parent tree at build time.
 
-To learn more about Next.js, take a look at the following resources:
+## Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js 16** (App Router, RSC-first — client components only where state or
+  browser APIs are genuinely needed)
+- **Tailwind CSS 4** over the "Manifest" design tokens in `app/globals.css`
+- **Base UI** primitives via shadcn (`components/ui/`)
+- **TanStack Table** for the Explorer
+- **Charts are inline SVG** (`components/charts/`) — deliberately no charting
+  library; see the note at the top of `charts/donut.tsx`
+- Fonts: Fraunces (display), Inter (sans), IBM Plex Mono — self-hosted by
+  `next/font`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## How the theme works
 
-## Deploy on Vercel
+There are three states, not two: an explicit choice stamps
+`data-theme="light" | "dark"` on `<html>`; with no stamp, the OS decides.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Every themed value is declared **once**, as `light-dark(light, dark)` in
+`:root`, and resolves against `color-scheme` — which is the only thing the
+toggle changes. Do not add a second copy of a token under a `[data-theme]` or
+`@media (prefers-color-scheme)` block: that pattern is what previously let
+`--amber-strong` go missing from one of two hand-kept dark blocks and drop
+amber text to 2.99:1, failing WCAG AA for anyone who used the toggle.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The `dark:` Tailwind variant is redefined in `globals.css` to cover *both*
+signals, so a `dark:` utility can never disagree with the tokens.
+
+## Docs
+
+`docs/00_MASTER_FRONTEND.md` is the index — frontend rules, the design system,
+UI/UX review checklists, motion, accessibility, responsive, performance,
+Playwright, and the weighted scorecard used to grade the site.

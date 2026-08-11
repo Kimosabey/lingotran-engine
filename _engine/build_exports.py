@@ -46,16 +46,16 @@ from _common import (parse_root, lang_slug, load_collection_list, atomic_open,
                      atomic_write_text, build_start_here,
                      # shared page/record helpers -- one definition, both pipelines
                      split_frontmatter, flat as _flat, word_count, page_title,
-                     human_title, read_pages, load_classification)
+                     human_title, read_pages, load_classification, split_gender)
 
 KINDS = ['catalog', 'questions', 'vocabulary']
 CATALOG_COLUMNS = ['collection', 'unit', 'section', 'chapter', 'content_type', 'activity_type',
                     'topic', 'level', 'status', 'qa', 'word_count', 'summary', 'title']
 QUESTIONS_COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'instruction',
-                      'question', 'option_a', 'option_b', 'option_c', 'correct_answer',
-                      'level', 'topic', 'source_page']
-VOCAB_COLUMNS = ['collection', 'word', 'translation', 'article', 'plural', 'word_class',
-                 'example', 'topic', 'source_page']
+                      'question', 'option_a', 'option_b', 'option_c', 'option_d',
+                      'option_e', 'correct_answer', 'level', 'topic', 'source_page']
+VOCAB_COLUMNS = ['collection', 'word', 'translation', 'article', 'gender', 'plural',
+                 'word_class', 'example', 'topic', 'source_page']
 
 
 def load_questions(root, slug):
@@ -182,6 +182,8 @@ def build_questions(root, c):
         'question': _flat(it.get('question', '')),
         'option_a': _flat(it.get('option_a', '')), 'option_b': _flat(it.get('option_b', '')),
         'option_c': _flat(it.get('option_c', '')),
+        'option_d': _flat(it.get('option_d', '')),
+        'option_e': _flat(it.get('option_e', '')),
         'correct_answer': _flat(it.get('correct_answer', '')),
         'level': _flat(it.get('level', c.get('level', ''))),
         'topic': _flat(it.get('topic', '')), 'source_page': _flat(it.get('source_page', '')),
@@ -205,6 +207,7 @@ def build_vocabulary(root, c):
         'word': _flat(e.get('word', '')),
         'translation': _flat(e.get('translation', '')),
         'article': _flat(e.get('article', '')),
+        'gender': _flat(e.get('gender') or split_gender(e.get('word', ''))[1]),
         'plural': _flat(e.get('plural', '')), 'word_class': _flat(e.get('word_class', '')),
         'example': _flat(e.get('example', '')), 'topic': _flat(e.get('topic', '')),
         'source_page': _flat(e.get('source_page', '')),
@@ -235,6 +238,15 @@ def main(argv):
         slug = c['slug']
         if c.get('frozen'):
             print('%-32s frozen - skipped' % slug)
+            continue
+        # A book on another pipeline is registered for VISIBILITY (so
+        # reconcile.py reports it instead of it reading as done by omission --
+        # gap P9), not for delivery. Its data predates the current taxonomy and
+        # is incomplete, so including it would put non-conforming rows into the
+        # deliverable and fail the export gate.
+        if c.get('pipeline') and c['pipeline'] != 'engine':
+            print('%-32s pipeline: %s - not exported (registered for visibility only)'
+                  % (slug, c['pipeline']))
             continue
         cat_rows = build_catalog(root, c)
         if cat_rows:

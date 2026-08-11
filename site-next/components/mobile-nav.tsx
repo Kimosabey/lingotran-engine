@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useRef, useState } from "react";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { Icon } from "@/components/icon";
-import { sitePages } from "@/lib/data";
+import { sitePages, REPO_URL } from "@/lib/data";
 
 export function MobileNav({ active }: { active: string }) {
   const [open, setOpen] = useState(false);
@@ -27,7 +27,7 @@ export function MobileNav({ active }: { active: string }) {
         onClick={() => setOpen(true)}
         aria-label="Open menu"
         aria-expanded={open}
-        className="inline-flex h-9 w-9 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text md:hidden"
+        className="inline-flex h-10 w-10 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text md:hidden"
       >
         <Icon name="menu" size={18} />
       </button>
@@ -43,9 +43,9 @@ export function MobileNav({ active }: { active: string }) {
                 key={p.slug}
                 href={"/" + p.path}
                 onClick={() => setOpen(false)}
-                aria-disabled={p.disabled}
+                aria-current={on ? "page" : undefined}
                 className={
-                  "relative rounded-lg px-3 py-2 text-sm font-medium transition-colors " +
+                  "relative rounded-lg px-3 py-2.5 text-sm font-medium transition-colors " +
                   (on ? "bg-brand-100 text-link" : "text-text-muted hover:bg-surface-2 hover:text-text")
                 }
               >
@@ -61,6 +61,21 @@ export function MobileNav({ active }: { active: string }) {
             );
           })}
         </nav>
+        {/* Jakob's law: a hamburger is expected to contain everything the
+            header holds. It previously held links only, so the repo link had
+            no mobile equivalent either. */}
+        <div className="mt-2 border-t border-border px-2 pt-3">
+          <a
+            href={REPO_URL}
+            target="_blank"
+            rel="noopener"
+            onClick={() => setOpen(false)}
+            className="flex items-center gap-2.5 rounded-lg px-3 py-2.5 text-sm font-medium text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
+          >
+            <Icon name="github" size={16} />
+            GitHub repository
+          </a>
+        </div>
       </SheetContent>
     </Sheet>
   );

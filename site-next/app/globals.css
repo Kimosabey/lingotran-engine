@@ -2,56 +2,77 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 
-/* shadcn/ui components use the `dark:` Tailwind variant directly in a few
-   places -- point it at our existing [data-theme="dark"] attribute (set by
-   the theme toggle) rather than shadcn's default `.dark` class, so both
-   systems share one real toggle mechanism instead of two. */
-@custom-variant dark (&:is([data-theme="dark"] *));
+/* The `dark:` variant must mean exactly what the *palette* means, or the two
+   drift. The palette flips on BOTH signals -- the explicit [data-theme="dark"]
+   stamp from the toggle, and the OS's prefers-color-scheme when no stamp
+   exists. A variant keyed only to the attribute silently no-ops for every
+   system-dark visitor who never touched the toggle (which is most of them):
+   the header logo swap kept serving the violet logo on the near-black bar.
+   Both branches are declared here so `dark:` and the tokens can't disagree. */
+@custom-variant dark {
+  &:is([data-theme="dark"] *) {
+    @slot;
+  }
+  @media (prefers-color-scheme: dark) {
+    &:is(:root:not([data-theme="light"]) *) {
+      @slot;
+    }
+  }
+}
 
 /* ==========================================================================
    Lingotran Engine — Design tokens  ("Manifest" system)
-   Ported as-is from the static site's tokens.css. A system-of-record
-   aesthetic: deep-violet authority, emerald "verified" signal, a confined
-   textbook-paper motif. Light is the default; dark mirrors it via
-   [data-theme="dark"] (explicit toggle) or prefers-color-scheme (system).
+   A system-of-record aesthetic: deep-violet authority, emerald "verified"
+   signal, a confined textbook-paper motif.
+
+   THEMING MODEL — read this before adding a token.
+   Every theme-dependent value is declared ONCE, as light-dark(light, dark).
+   There is no second copy of the palette to keep in sync, because a second
+   copy is exactly how --amber-strong once went missing from the toggle-dark
+   block and dropped amber text to 2.99:1 (failing WCAG AA) for anyone who
+   clicked the toggle from a light OS. The three theme states are handled by
+   `color-scheme` alone, below; light-dark() resolves against it.
+
+   light-dark() only accepts colors, so composite values (gradients, shadows,
+   glows) are assembled from light-dark() *color parts* rather than being
+   duplicated per theme -- same single-source guarantee.
    ========================================================================== */
+
+/* The three theme states, expressed only as color-scheme. Everything else
+   follows from this: bare :root tracks the OS, and either explicit stamp
+   overrides it in its own direction. Native controls and scrollbars get the
+   correct rendering for free. */
 :root {
-  /* ---- Brand (kept as the color anchor — the logos are violet) ---------- */
+  color-scheme: light dark;
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+:root {
+  /* ---- Brand (the color anchor — the logos are violet). Theme-invariant:
+     these are the raw scale, not semantic slots. ------------------------- */
   --brand-900: #2c0a63;
   --brand-700: #41009a; /* primary brand */
   --brand-600: #5a18c2;
   --brand-500: #7c4dff; /* interactive violet */
   --brand-300: #b79cff;
-  --brand-100: #ede6ff;
 
   /* ---- Verified (emerald) — the emotional core: ok:true, zero data loss - */
   --verified: #0e9f6e; /* fills, dots, donut slice */
-  --verified-strong: #0a7d57; /* AA text on white (5.0:1) */
-  --verified-soft: #e4f5ee; /* tinted surface */
-  /* Deliberately theme-invariant (never overridden in dark mode below) --
-     for a fill that always carries white text on top (e.g. the "Verified"
-     hero badge). --verified-strong intentionally brightens in dark mode
-     for its actual job (AA text ON a dark surface), which makes it far too
-     light to hold white text legibly; this token is for the opposite job. */
+  /* Deliberately theme-invariant -- for a fill that always carries white text
+     on top (e.g. the "Verified" hero badge). --verified-strong intentionally
+     brightens in dark mode for its actual job (AA text ON a dark surface),
+     which makes it far too light to hold white text legibly. */
   --verified-badge: #0a7d57;
 
   /* ---- Flag (rose) — QA-fail / needs attention, used sparingly ---------- */
   --flag: #e11d48;
-  --flag-strong: #be123c; /* AA text on white (5.0:1) */
-  --flag-soft: #fce7ec;
 
-  /* ---- Info / neutral accents for charts ------------------------------- */
-  --amber: #c77a0a; /* decorative only — 3.4:1 on white, fails AA text */
-  --amber-strong: #8f5400; /* AA-safe text variant (6.1:1 on white) */
-  --amber-soft: #fbf0dc;
-
-  /* ---- Paper — confined to the fidelity/scan motif only ---------------- */
-  --paper: #f4eee1;
-  --paper-2: #ebe2cf;
-  --paper-line: #dccfb4;
-  --paper-ink: #4a4230;
-
-  /* ---- Ink + cool-slate neutral ramp ----------------------------------- */
+  /* ---- Cool-slate neutral ramp (raw scale) ------------------------------ */
   --ink: #14101e; /* near-black indigo */
   --slate-900: #1b1730;
   --slate-800: #2a2542;
@@ -61,44 +82,84 @@
   --slate-400: #918da6;
   --slate-300: #c6c3d4;
   --slate-200: #e4e2ed;
-  --slate-150: #ecead3;
   --slate-100: #f2f1f7;
   --slate-50: #f8f8fc;
   --white: #ffffff;
 
-  /* ---- Semantic surfaces (LIGHT) — components reference these ----------- */
-  --bg: #f6f5fb;
-  --surface: #ffffff;
-  --surface-2: #f3f2f9;
-  --surface-3: #ecebf6;
-  --surface-inset: #f8f8fc;
-  --border: #e6e4ef;
-  --border-strong: #d5d2e2;
-  --border-faint: #efeef5;
+  /* ---- Paper — confined to the fidelity/scan motif only.
+     Deliberately theme-INVARIANT: a scan of a white textbook page is white.
+     Re-tinting it olive-brown for dark mode made the site's signature
+     element read as a rendering fault rather than a physical artifact;
+     keeping it bright lets it read as a real page laid on a dark desk. --- */
+  --paper: #f4eee1;
+  --paper-2: #ebe2cf;
+  --paper-line: #dccfb4;
+  --paper-ink: #4a4230;
 
-  --text: var(--ink);
-  --text-muted: #565270; /* 6.7:1 on --surface */
-  --text-subtle: #6e6a86; /* 4.6:1 on --surface — small text OK */
+  /* ---- Semantic surfaces ------------------------------------------------ */
+  --bg: light-dark(#f6f5fb, #0e0a1a);
+  --surface: light-dark(#ffffff, #16112a);
+  --surface-2: light-dark(#f3f2f9, #1e1738);
+  --surface-3: light-dark(#ecebf6, #271e48);
+  --surface-inset: light-dark(#f8f8fc, #120d24);
+
+  --border: light-dark(#e6e4ef, rgba(255, 255, 255, 0.1));
+  --border-strong: light-dark(#d5d2e2, rgba(255, 255, 255, 0.17));
+  --border-faint: light-dark(#efeef5, rgba(255, 255, 255, 0.06));
+  /* Card edges may be faint -- they carry no meaning. A *control* edge is
+     the only thing telling you an input or select is there, so WCAG 1.4.11
+     requires 3:1 for it. --border/--border-strong measure 1.26:1 and 1.48:1
+     on white, so controls get their own token, derived from the existing
+     slate ramp: --slate-500 is the first step that clears 3:1 against BOTH
+     --surface (5.45:1) and --bg (5.03:1). Dark needs .36 alpha for 3.33:1. */
+  --border-control: light-dark(#6b6683, rgba(255, 255, 255, 0.36));
+
+  --text: light-dark(#14101e, #f4f1ff);
+  --text-muted: light-dark(#565270, rgba(244, 241, 255, 0.74)); /* 6.8:1 light */
+  --text-subtle: light-dark(#6e6a86, rgba(244, 241, 255, 0.56)); /* 5.2:1 light */
   --text-onbrand: #ffffff;
 
-  --accent: var(--brand-700);
-  --accent-hover: var(--brand-900);
-  --accent-soft: var(--brand-100);
-  --link: var(--brand-700);
-  --ring: var(--brand-500);
+  --brand-100: light-dark(#ede6ff, rgba(124, 77, 255, 0.16));
+  --verified-strong: light-dark(#0a7d57, #34d399); /* AA text on its surface */
+  --verified-soft: light-dark(#e4f5ee, rgba(16, 159, 110, 0.16));
+  --flag-strong: light-dark(#be123c, #fb7185);
+  --flag-soft: light-dark(#fce7ec, rgba(225, 29, 72, 0.16));
+  --amber: light-dark(#c77a0a, #f0b24b); /* decorative only in light */
+  --amber-strong: light-dark(#8f5400, #f0b24b); /* AA-safe text variant */
+  --amber-soft: light-dark(#fbf0dc, rgba(240, 178, 75, 0.15));
 
-  --code-bg: #160c2b;
+  --accent: light-dark(#41009a, #b79cff);
+  --accent-hover: light-dark(#2c0a63, #cbb6ff);
+  --accent-soft: light-dark(#ede6ff, rgba(124, 77, 255, 0.18));
+  --link: light-dark(#41009a, #b79cff);
+  --ring: light-dark(#7c4dff, #b79cff);
+
+  --code-bg: light-dark(#160c2b, #0b0618);
   --code-text: #ede7ff;
   --code-cmt: #9b8ac9;
   --code-kw: #c4a6ff;
   --code-str: #8de9c4;
 
-  --chart-track: #ecebf6;
+  --chart-track: light-dark(#ecebf6, rgba(255, 255, 255, 0.09));
+  --scrim: light-dark(rgba(20, 16, 30, 0.42), rgba(0, 0, 0, 0.6));
+
+  /* Composites, assembled from light-dark() color parts so they stay
+     single-sourced like everything else. */
   --grad-brand: linear-gradient(135deg, #41009a 0%, #7c4dff 100%);
   --grad-brand-90: linear-gradient(90deg, #41009a, #7c4dff);
-  --grad-verified: linear-gradient(90deg, #0a7d57, #0e9f6e);
-  --scrim: rgba(20, 16, 30, 0.42);
-  --glow-brand: 0 24px 60px -20px rgba(65, 0, 154, 0.45);
+  --grad-verified: linear-gradient(90deg, light-dark(#0a7d57, #0e9f6e), light-dark(#0e9f6e, #34d399));
+
+  --glow-color: light-dark(rgba(65, 0, 154, 0.45), rgba(124, 77, 255, 0.5));
+  --glow-brand: 0 24px 60px -20px var(--glow-color);
+
+  --shadow-c-1: light-dark(rgba(20, 16, 30, 0.05), rgba(0, 0, 0, 0.4));
+  --shadow-c-2: light-dark(rgba(20, 16, 30, 0.06), rgba(0, 0, 0, 0.4));
+  --shadow-c-3: light-dark(rgba(20, 16, 30, 0.12), rgba(0, 0, 0, 0.55));
+  --shadow-c-4: light-dark(rgba(20, 16, 30, 0.18), rgba(0, 0, 0, 0.65));
+  --shadow-xs: 0 1px 2px var(--shadow-c-1);
+  --shadow-sm: 0 2px 8px var(--shadow-c-2);
+  --shadow-md: 0 10px 28px -8px var(--shadow-c-3);
+  --shadow-lg: 0 24px 56px -16px var(--shadow-c-4);
 
   /* ---- Spacing scale (4px base) ---------------------------------------- */
   --sp-1: 4px;
@@ -124,12 +185,6 @@
   --r-xl: 20px;
   --r-2xl: 28px;
   --r-pill: 999px;
-
-  /* ---- Shadow (soft) --------------------------------------------------- */
-  --shadow-xs: 0 1px 2px rgba(20, 16, 30, 0.05);
-  --shadow-sm: 0 2px 8px rgba(20, 16, 30, 0.06);
-  --shadow-md: 0 10px 28px -8px rgba(20, 16, 30, 0.12);
-  --shadow-lg: 0 24px 56px -16px rgba(20, 16, 30, 0.18);
 
   /* ---- Typography ------------------------------------------------------ */
   --font-display-family: var(--font-display), Georgia, "Times New Roman", serif;
@@ -169,6 +224,12 @@
   /* ---- Layout ------------------------------------------------------------ */
   --topbar-h: 60px;
   --appbar-h: 48px;
+  /* The in-page section nav is sticky too, so an anchored heading has to clear
+     all three bars. This used to be guessed in three places (main's scroll-mt
+     at 108px, Section's scroll-mt-32 at 128px, real stack 155px); it is now
+     derived once and consumed everywhere via scroll-mt-(--sticky-stack). */
+  --sectionnav-h: 45px;
+  --sticky-stack: calc(var(--topbar-h) + var(--appbar-h) + var(--sectionnav-h));
   --content-max: 1600px;
   --prose-max: 72ch;
 
@@ -178,8 +239,6 @@
   --z-scrim: 55;
   --z-drawer: 60;
   --z-tooltip: 70;
-
-  color-scheme: light;
 
   /* ---- shadcn/ui semantic aliases -> Manifest tokens (never shadcn's
      default neutral oklch scale) so every shadcn primitive automatically
@@ -191,7 +250,7 @@
   --popover: var(--surface);
   --popover-foreground: var(--text);
   --primary: var(--brand-700);
-  --primary-foreground: var(--text-onbrand);
+  --primary-foreground: light-dark(#ffffff, #14101e);
   --secondary: var(--surface-2);
   --secondary-foreground: var(--text);
   --muted: var(--surface-2);
@@ -199,7 +258,7 @@
   --accent-shadcn: var(--brand-100);
   --accent-foreground: var(--text);
   --destructive: var(--flag);
-  --input: var(--border-strong);
+  --input: var(--border-control);
   --radius: var(--r-md);
   --chart-1: var(--brand-500);
   --chart-2: var(--verified);
@@ -217,123 +276,9 @@
   --sidebar-ring: var(--ring);
 }
 
-/* ---- Dark mode (deep-indigo mirror). Default follows OS; the toggle
-   stamps data-theme on <html> and always wins. --------------------------- */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  color-scheme: dark;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #0e0a1a;
-    --surface: #16112a;
-    --surface-2: #1e1738;
-    --surface-3: #271e48;
-    --surface-inset: #120d24;
-    --border: rgba(255, 255, 255, 0.1);
-    --border-strong: rgba(255, 255, 255, 0.17);
-    --border-faint: rgba(255, 255, 255, 0.06);
-
-    --text: #f4f1ff;
-    --text-muted: rgba(244, 241, 255, 0.74);
-    --text-subtle: rgba(244, 241, 255, 0.56);
-
-    --accent: #b79cff;
-    --accent-hover: #cbb6ff;
-    --accent-soft: rgba(124, 77, 255, 0.18);
-    --link: #b79cff;
-    --ring: #b79cff;
-
-    --verified-strong: #34d399;
-    --flag-strong: #fb7185;
-    --amber: #f0b24b;
-    --amber-strong: #f0b24b;
-
-    --verified-soft: rgba(16, 159, 110, 0.16);
-    --flag-soft: rgba(225, 29, 72, 0.16);
-    --amber-soft: rgba(240, 178, 75, 0.15);
-    --brand-100: rgba(124, 77, 255, 0.16);
-
-    --paper: #26210f;
-    --paper-2: #302913;
-    --paper-line: #4a3f1e;
-    --paper-ink: #e9deb8;
-
-    --code-bg: #0b0618;
-    --code-text: #ede7ff;
-    --chart-track: rgba(255, 255, 255, 0.09);
-    --grad-verified: linear-gradient(90deg, #0e9f6e, #34d399);
-    --scrim: rgba(0, 0, 0, 0.6);
-    --glow-brand: 0 24px 60px -20px rgba(124, 77, 255, 0.5);
-
-    --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
-    --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.4);
-    --shadow-md: 0 12px 30px -8px rgba(0, 0, 0, 0.55);
-    --shadow-lg: 0 26px 60px -16px rgba(0, 0, 0, 0.65);
-
-    --primary-foreground: var(--ink);
-  }
-}
-
-:root[data-theme="dark"] {
-  --bg: #0e0a1a;
-  --surface: #16112a;
-  --surface-2: #1e1738;
-  --surface-3: #271e48;
-  --surface-inset: #120d24;
-  --border: rgba(255, 255, 255, 0.1);
-  --border-strong: rgba(255, 255, 255, 0.17);
-  --border-faint: rgba(255, 255, 255, 0.06);
-
-  --text: #f4f1ff;
-  --text-muted: rgba(244, 241, 255, 0.74);
-  --text-subtle: rgba(244, 241, 255, 0.56);
-
-  --accent: #b79cff;
-  --accent-hover: #cbb6ff;
-  --accent-soft: rgba(124, 77, 255, 0.18);
-  --link: #b79cff;
-  --ring: #b79cff;
-
-  --verified-strong: #34d399;
-  --flag-strong: #fb7185;
-  --amber: #f0b24b;
-
-  --verified-soft: rgba(16, 159, 110, 0.16);
-  --flag-soft: rgba(225, 29, 72, 0.16);
-  --amber-soft: rgba(240, 178, 75, 0.15);
-  --brand-100: rgba(124, 77, 255, 0.16);
-
-  --paper: #26210f;
-  --paper-2: #302913;
-  --paper-line: #4a3f1e;
-  --paper-ink: #e9deb8;
-
-  --code-bg: #0b0618;
-  --code-text: #ede7ff;
-  --chart-track: rgba(255, 255, 255, 0.09);
-  --grad-verified: linear-gradient(90deg, #0e9f6e, #34d399);
-  --scrim: rgba(0, 0, 0, 0.6);
-  --glow-brand: 0 24px 60px -20px rgba(124, 77, 255, 0.5);
-
-  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
-  --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.4);
-  --shadow-md: 0 12px 30px -8px rgba(0, 0, 0, 0.55);
-  --shadow-lg: 0 26px 60px -16px rgba(0, 0, 0, 0.65);
-
-  --primary-foreground: var(--ink);
-}
-
 /* ==========================================================================
    Tailwind theme mapping — utilities like bg-brand-500, text-verified,
-   border-flag, bg-surface, etc. all resolve to the tokens above. Kept
-   separate from shadcn's own semantic slots (background/foreground/primary/
-   ...) which are mapped inline in :root above.
+   border-flag, bg-surface, etc. all resolve to the tokens above.
    ========================================================================== */
 @theme inline {
   --color-background: var(--background);
@@ -402,6 +347,7 @@
   --color-code-str: var(--code-str);
   --color-border-strong: var(--border-strong);
   --color-border-faint: var(--border-faint);
+  --color-border-control: var(--border-control);
   --color-text: var(--text);
   --color-text-muted: var(--text-muted);
   --color-text-subtle: var(--text-subtle);
@@ -424,7 +370,7 @@
 
 @layer base {
   * {
-    @apply border-border outline-ring/50;
+    @apply border-border;
   }
   html {
     @apply font-sans;
@@ -432,14 +378,24 @@
   body {
     @apply bg-bg text-text;
   }
-  :focus-visible {
-    outline: 2px solid var(--ring);
-    outline-offset: 2px;
-  }
   ::selection {
     background: var(--brand-100);
-    color: var(--brand-900);
+    color: var(--accent);
   }
+}
+
+/* Focus ring — deliberately UNLAYERED and after the imports.
+   Tailwind's preflight ships `* { outline-color: color-mix(in oklab,
+   var(--ring) 50%, transparent) }` unlayered, and unlayered declarations beat
+   layered ones regardless of specificity. Writing this rule inside
+   @layer base therefore lost the *color* while keeping the style and width,
+   rendering every focus ring on the site at half alpha: 2.08:1 on white,
+   2.90:1 on the dark surface -- both below the 3:1 WCAG 2.2 SC 1.4.11
+   requires. Unlayered + higher specificity wins cleanly, no !important.
+   Full-strength --ring measures 4.81:1 light and 8.03:1 dark. */
+:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -453,19 +409,25 @@
   }
 }
 
+/* Progressive enhancement: <Section> renders at opacity-0 and is revealed by
+   an IntersectionObserver. If scripting is unavailable -- JS blocked, bundle
+   failed, a text-mode client -- that observer never fires and every section
+   below the hero stays invisible even though the content is right there in
+   the SSR HTML. This guard makes the reveal an enhancement rather than a
+   dependency. Paired with .reveal on the animated elements themselves. */
+@media (scripting: none) {
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
 /* Ambient background wash -- a faint violet/emerald bloom fixed behind
    every page (both themes), so the flat --bg reads as atmosphere rather
-   than a blank sheet. Deliberately subtle and fixed (doesn't scroll with
-   content) -- this is lighting, not a repeating decorative pattern, and
-   stays well clear of the confined paper motif reserved for the scan
-   card. Both brand + verified are already the site's two signal colors;
-   this just extends them from "badges/fills" to "the room itself".
-   Scoped to `main` (present on every page, starts below the sticky
-   header) rather than `body` -- the header is a translucent
+   than a blank sheet. Scoped to `main` (present on every page, starts below
+   the sticky header) rather than `body` -- the header is a translucent
    backdrop-blur surface, and painting this behind it too shifted its
-   effective composited color enough to fail contrast in WebKit. `main`
-   starts below the header in normal flow, so nothing paints behind it
-   regardless of scroll position. */
+   effective composited color enough to fail contrast in WebKit. */
 main {
   background-image: radial-gradient(ellipse 900px 500px at 12% -10%, color-mix(in srgb, var(--brand-500) 10%, transparent), transparent 60%),
     radial-gradient(ellipse 700px 480px at 100% 10%, color-mix(in srgb, var(--verified) 7%, transparent), transparent 55%);
@@ -486,12 +448,16 @@ html::-webkit-scrollbar {
 /* .no-scrollbar (used by the command palette's result list) only ships
    Firefox/IE coverage from its source -- this fills in the missing
    WebKit rule so it actually hides the scrollbar in Chrome/Safari/Edge too. */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
 
 /* Homepage-only drifting language glyphs (é ü ç â ö) -- the hero's ambient,
-   subject-tied signature touch. Ported verbatim from the static site. */
+   subject-tied signature touch. */
 .hero-glyphs span {
   position: absolute;
   font-family: var(--font-display-family);
@@ -573,8 +539,7 @@ html::-webkit-scrollbar {
 /* Card spotlight -- a cursor-following glow for KPI/Explorer/collection
    cards. The element's own JS only ever writes --spot-x/--spot-y (set on
    pointer move); the radial-gradient paint below reads them, so hovering
-   costs a paint, not a re-render. Brand-violet only, no neon -- same
-   color budget as the rest of the site, just a livelier hover state. */
+   costs a paint, not a re-render. */
 .spotlight {
   isolation: isolate;
 }
@@ -596,16 +561,22 @@ html::-webkit-scrollbar {
 .spotlight:hover::before {
   opacity: 1;
 }
-.spotlight > * {
+/* Raise the card's real content above the ::before glow. Scoped to
+   *statically-positioned* children only: the unscoped version overrode
+   `position: absolute` on the KPI cards' top accent hairline, dropping it
+   into normal flow 21px below the card edge and 42px narrower than the card
+   -- a stray floating line on every KPI card on the site. Absolutely- and
+   fixed-positioned children already establish their own stacking context
+   and set their own z-index, so they never needed this rule. */
+.spotlight > *:where(:not(.absolute):not(.fixed)) {
   position: relative;
   z-index: 1;
 }
 
-/* Glow-on-hover border -- extends the existing --grad-brand token (already
-   used for the appbar active-nav underline) to a hairline border-glow on
-   the primary CTA and the FidelityCard, via a padding-box/border-box
-   gradient mask rather than an actual box-shadow blur (crisper, and
-   respects border-radius exactly). */
+/* Glow-on-hover border -- extends the existing --grad-brand token to a
+   hairline border-glow on the primary CTA and the FidelityCard, via a
+   padding-box/border-box gradient mask rather than an actual box-shadow blur
+   (crisper, and respects border-radius exactly). */
 .glow-border-hover {
   position: relative;
   isolation: isolate;
@@ -632,8 +603,7 @@ html::-webkit-scrollbar {
 
 /* Tracing beam -- see components/flow-diagram.tsx for the trigger logic.
    Each connector rail gets a gradient overlay that wipes in left-to-right,
-   staggered per step via the --beam-delay custom property (set inline per
-   span, read here so the delay reaches this pseudo-element). */
+   staggered per step via the --beam-delay custom property. */
 .tracing-line::after {
   content: "";
   position: absolute;
@@ -646,4 +616,18 @@ html::-webkit-scrollbar {
 }
 .tracing-line.is-lit::after {
   transform: scaleX(1);
+}
+
+/* Chart bar grow-in -- the SVG bar rows that replaced the ECharts instance.
+   Width is driven by a CSS custom property set per bar, so the reveal is one
+   transition on one property rather than a chart-library relayout. */
+.bar-fill {
+  transition: width var(--dur-4) var(--ease-spring);
+  transition-delay: var(--bar-delay, 0ms);
+}
+
+/* Donut sweep -- stroke-dashoffset animation for the SVG donuts. */
+.donut-arc {
+  transition: stroke-dashoffset var(--dur-4) var(--ease-spring);
+  transition-delay: var(--arc-delay, 0ms);
 }

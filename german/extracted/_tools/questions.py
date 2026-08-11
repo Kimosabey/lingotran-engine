@@ -39,8 +39,8 @@ CONFIG = os.path.join(TOOLS, 'collections.json')
 # shape; German records it per collection rather than per item (every German
 # collection is a single fixed CEFR level).
 COLUMNS = ['collection', 'section', 'part', 'item', 'item_type', 'instruction',
-           'question', 'option_a', 'option_b', 'option_c', 'correct_answer',
-           'level', 'topic', 'source_page']
+           'question', 'option_a', 'option_b', 'option_c', 'option_d', 'option_e',
+           'correct_answer', 'level', 'topic', 'source_page']
 
 
 def load_collections():
@@ -70,6 +70,8 @@ def row_for(slug, it, level=''):
         'question': _flat(it.get('question', '')),
         'option_a': _flat(it.get('option_a', '')), 'option_b': _flat(it.get('option_b', '')),
         'option_c': _flat(it.get('option_c', '')),
+        'option_d': _flat(it.get('option_d', '')),
+        'option_e': _flat(it.get('option_e', '')),
         'correct_answer': _flat(it.get('correct_answer', '')),
         'level': _flat(it.get('level', level)),
         'topic': _flat(it.get('topic', '')), 'source_page': _flat(it.get('source_page', '')),

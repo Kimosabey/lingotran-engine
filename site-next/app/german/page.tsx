@@ -38,6 +38,17 @@ const SECTIONS = [
 
 export default function GermanPage() {
   const a = german.aggregate;
+
+  // Derived from german.itemTypes rather than typed out beside the chart it
+  // describes. The hand-written version ("889 fill-in · 478 matching · …")
+  // duplicated the exact data the chart already renders -- the same
+  // duplication StatusBadge's comment warns about, which once let "complete
+  // (21 disclosed gaps)" and "21 flagged" disagree with each other. Now the
+  // prose can't drift from the bars above it.
+  const itemTypesLead = [...german.itemTypes]
+    .sort((x, y) => y.v - x.v)
+    .map((t) => `${t.v.toLocaleString()} ${t.k.toLowerCase()}`)
+    .join(" · ");
   const kpiCards: KpiCardData[] = [
     { num: a.collections, lab: "Book / exam sets", icon: "book" },
     { num: a.pages, lab: "Pages", icon: "doc" },
@@ -52,7 +63,7 @@ export default function GermanPage() {
       <main
         id="main"
         tabIndex={-1}
-        className="flex-1 scroll-mt-[calc(var(--topbar-h)+var(--appbar-h))] focus:outline-none"
+        className="flex-1 scroll-mt-(--sticky-stack) focus:outline-none"
       >
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
@@ -122,7 +133,7 @@ export default function GermanPage() {
           >
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
               {Object.entries(german.collections).map(([slug, c]) => (
-                <div key={slug} id={"col-" + slug} className="scroll-mt-40 rounded-2xl border border-border bg-surface p-5">
+                <div key={slug} id={"col-" + slug} className="scroll-mt-(--sticky-stack) rounded-2xl border border-border bg-surface p-5">
                   <div className="flex items-start justify-between gap-2">
                     <div>
                       <h3 className="font-display text-base text-text">{c.title}</h3>
@@ -147,8 +158,8 @@ export default function GermanPage() {
           <Section
             id="itemtypes"
             eyebrow="Question bank"
-            title="2,830 questions, by item type"
-            lead="889 fill-in · 478 matching · 464 short-answer · 297 multiple choice · 282 speaking · 162 true/false · 97 writing · 89 open · 58 ordering · 14 open-ended. 1,864 carry a keyed correct answer; the rest are open-ended Schreiben/Sprechen prompts or items with no printed key."
+            title={`${a.questions.toLocaleString()} questions, by item type`}
+            lead={itemTypesLead}
           >
             <div className="rounded-2xl border border-border bg-surface p-6">
               <BarChart data={german.itemTypes} />
@@ -200,8 +211,10 @@ export default function GermanPage() {
                 Pages are rendered at 300 DPI, transcribed by a vision agent, then checked by an{" "}
                 <strong className="text-text">independent adversarial QA agent</strong> that may not edit —
                 only judge. Failures go to a repair agent and are re-verified. Result:{" "}
-                <span className="font-medium text-verified-strong">636/636 verified</span> across the
-                Goethe PDFs and the three scanned textbooks — zero data loss.
+                <span className="font-medium text-verified-strong">
+                  {a.verified}/{a.pages} verified
+                </span>{" "}
+                across the Goethe PDFs and the three scanned textbooks — zero data loss.
               </p>
               <p className="mt-3">
                 Cheap enrichment passes then add activity/topic labels, the question dataset

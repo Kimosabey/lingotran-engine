@@ -196,6 +196,23 @@ def main(argv):
         if c.get('frozen'):
             print('%-32s frozen - read-only, skipped' % slug)
             continue
+        # A book on a DIFFERENT pipeline is reported but does not gate. These
+        # gates encode _engine's conventions (chunk layout, QA sidecars,
+        # collections.json metadata) and a legacy-pipeline book follows none of
+        # them, so failing on it would be measuring it against rules it never
+        # agreed to. It is still printed, loudly, with its real state -- gap P9
+        # was that these books were INVISIBLE, and "invisible" reads as "done"
+        # by omission. Visible-and-excluded is the honest position; silence is
+        # not.
+        if c.get('pipeline') and c['pipeline'] != 'engine':
+            n = _expected_page_count(root, slug)
+            md = len(glob.glob(os.path.join(root, slug, 'pages', 'page-*.md')))
+            print('%-32s %3d pages | NOT GATED (pipeline: %s) - %d transcribed'
+                  % (slug, n, c['pipeline'], md))
+            print('    reported for visibility only; decide whether to finish it, '
+                  'migrate it onto _engine, or park it explicitly')
+            continue
+
         n = _expected_page_count(root, slug)
         if n == 0:
             print('%-32s no images found yet - nothing to check' % slug)

@@ -1,6 +1,7 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import Papa from "papaparse";
 import {
   useReactTable,
   getCoreRowModel,
@@ -13,26 +14,23 @@ import {
   type ColumnFiltersState,
   type VisibilityState,
 } from "@tanstack/react-table";
-import Papa from "papaparse";
-import * as XLSX from "xlsx";
-import { jsPDF } from "jspdf";
-import autoTable from "jspdf-autotable";
 import { Icon } from "@/components/icon";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { SelectField, SearchField } from "@/components/select-field";
 import { CsvRowDetailDialog } from "@/components/csv-row-detail-dialog";
 import { KpiGrid, type KpiCardData } from "@/components/kpi-card";
 import { humanizeColumn, type ExplorerType } from "@/lib/csv-explorer-shared";
 
 const ALL_VALUE = "__all__";
-
 const PDF_ROW_CAP = 500;
 const PAGE_SIZE = 50;
+
+type Row = Record<string, string>;
 
 // Computed from whatever rows are CURRENTLY visible (post search + quick
 // filters), not the full dataset -- otherwise these numbers silently stop
 // meaning anything the moment you filter (a "584 rows" card sitting above a
 // table you've filtered down to 12 rows reads as broken, not "corpus-wide").
-function computeStats(type: ExplorerType, rows: Record<string, string>[]): KpiCardData[] {
+function computeStats(type: ExplorerType, rows: Row[]): KpiCardData[] {
   const total = rows.length;
   const collections = new Set(rows.map((r) => r.collection)).size;
   const pct = (n: number) => (total === 0 ? "—" : `${Math.round((n / total) * 100)}%`);
@@ -63,12 +61,11 @@ function computeStats(type: ExplorerType, rows: Record<string, string>[]): KpiCa
   ];
 }
 
-// Left-edge accent color by row status -- reuses the exact accent-bar
-// pattern already shipped on the appbar/mobile-nav active state, driven by
-// whichever status-shaped column this dataset actually has (catalog's `qa`,
-// questions' `correct_answer`, either dataset's `status`). No accent when a
-// row carries no real status signal (e.g. vocabulary rows).
-function rowAccentColor(row: Record<string, string>): string | undefined {
+// Left-edge accent color by row status -- reuses the accent-bar pattern
+// already shipped on the appbar/mobile-nav active state, driven by whichever
+// status-shaped column this dataset actually has. No accent when a row
+// carries no real status signal (e.g. vocabulary rows).
+function rowAccentColor(row: Row): string | undefined {
   if (row.qa === "pass") return "var(--verified-strong)";
   if (row.qa === "fail") return "var(--flag-strong)";
   if (row.correct_answer) return "var(--verified-strong)";
@@ -91,44 +88,103 @@ function download(blob: Blob, filename: string) {
   URL.revokeObjectURL(url);
 }
 
+function SkeletonTable() {
+  return (
+    <div className="flex flex-col gap-4" aria-hidden="true">
+      <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
+        {Array.from({ length: 4 }).map((_, i) => (
+          <div key={i} className="h-[132px] animate-pulse rounded-2xl border border-border bg-surface-2" />
+        ))}
+      </div>
+      <div className="h-10 animate-pulse rounded-full bg-surface-2" />
+      <div className="overflow-hidden rounded-2xl border border-border bg-surface">
+        {Array.from({ length: 8 }).map((_, i) => (
+          <div key={i} className="border-b border-border-faint p-4 last:border-0">
+            <div className="h-4 animate-pulse rounded bg-surface-2" style={{ width: `${88 - i * 6}%` }} />
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export function CsvExplorerTable({
   type,
-  columns: rawColumns,
-  rows,
-  downloadHref,
+  csvHref,
   fileBaseName,
   quickFilterColumns = [],
   primaryColumns,
+  rowCountHint,
 }: {
   type: ExplorerType;
-  columns: string[];
-  rows: Record<string, string>[];
-  downloadHref: string;
+  /** Static CSV in public/data. Fetched by the browser rather than serialised
+   * into the RSC payload -- see the note in the loader effect below. */
+  csvHref: string;
   fileBaseName: string;
-  /** Columns to surface as quick-filter dropdowns (e.g. ["level", "content_type"]). */
+  /** Columns to surface as quick-filter dropdowns (e.g. ["level", "topic"]). */
   quickFilterColumns?: string[];
   /** Columns shown by default in the (often 13+-column-wide) table -- the
    * rest stay fully sortable/filterable/exportable, just tucked behind the
    * "Show all columns" toggle and always visible in the row-detail dialog. */
   primaryColumns?: string[];
+  /** Known row count, for the loading copy. */
+  rowCountHint?: number;
 }) {
+  const [rows, setRows] = useState<Row[] | null>(null);
+  const [rawColumns, setRawColumns] = useState<string[]>([]);
+  const [loadError, setLoadError] = useState<string | null>(null);
+
   const [globalFilter, setGlobalFilter] = useState("");
   const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([]);
   const [sorting, setSorting] = useState<SortingState>([]);
   const [showAllColumns, setShowAllColumns] = useState(!primaryColumns);
-  const [selectedRow, setSelectedRow] = useState<Record<string, string> | null>(null);
+  const [selectedRow, setSelectedRow] = useState<Row | null>(null);
+  const [exporting, setExporting] = useState<string | null>(null);
 
-  const columns = useMemo<ColumnDef<Record<string, string>>[]>(
+  // The dataset is fetched, not passed down as a prop.
+  //
+  // It used to be read on the server and handed to this client component
+  // directly, which serialised all 6,914 rows x 13 columns into the RSC
+  // flight payload -- twice, once inline in the HTML and once in the .rsc.
+  // /explorer/french/questions was a 2.6 MB HTML document whose table shows
+  // fifty rows at a time. The CSVs are already public, static, individually
+  // cacheable assets (they're what the "Download full CSV" button links to),
+  // so the browser fetching one directly is both smaller and cached
+  // separately from the page shell.
+  useEffect(() => {
+    let cancelled = false;
+    setRows(null);
+    setLoadError(null);
+    fetch(csvHref)
+      .then((res) => {
+        if (!res.ok) throw new Error(`${res.status}`);
+        return res.text();
+      })
+      .then((text) => {
+        if (cancelled) return;
+        const parsed = Papa.parse<Row>(text, { header: true, skipEmptyLines: true });
+        setRawColumns(parsed.meta.fields ?? []);
+        setRows(parsed.data);
+      })
+      .catch(() => {
+        if (!cancelled) setLoadError("We couldn't load this dataset.");
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [csvHref]);
+
+  const columns = useMemo<ColumnDef<Row>[]>(
     () =>
       rawColumns.map((key) => ({
         accessorKey: key,
         header: humanizeColumn(key),
         // Quick filters pick one exact value from a closed dropdown list, so
         // column filtering must be exact-match -- the default (includesString,
-        // substring) made picking "A2" also match "A2 (inferred)" and
-        // "A2+B1", silently over-including rows instead of narrowing to just
-        // the chosen value. Global search (the free-text box) is unaffected:
-        // it uses its own separate globalFilterFn, not this per-column one.
+        // substring) made picking "A2" also match "A2 (inferred)" and "A2+B1",
+        // silently over-including rows instead of narrowing to just the chosen
+        // value. Global search (the free-text box) is unaffected: it uses its
+        // own separate globalFilterFn, not this per-column one.
         filterFn: "equalsString",
         cell: (info) => {
           const v = info.getValue<string>();
@@ -146,7 +202,7 @@ export function CsvExplorerTable({
   }, [showAllColumns, primaryColumns, rawColumns]);
 
   const table = useReactTable({
-    data: rows,
+    data: rows ?? [],
     columns,
     state: { globalFilter, columnFilters, sorting, columnVisibility },
     onGlobalFilterChange: setGlobalFilter,
@@ -166,14 +222,14 @@ export function CsvExplorerTable({
     [type, filteredRows]
   );
 
-  // Quick-filter dropdown options are the real distinct values in each
-  // column (computed from the full dataset, not the currently-filtered
-  // view, so switching one filter never hides options for the others).
+  // Quick-filter dropdown options are the real distinct values in each column
+  // (computed from the full dataset, not the currently-filtered view, so
+  // switching one filter never hides options for the others).
   const filterOptions = useMemo(() => {
     const map: Record<string, string[]> = {};
     for (const col of quickFilterColumns) {
       const values = new Set<string>();
-      for (const r of rows) {
+      for (const r of rows ?? []) {
         const v = r[col];
         if (v) values.add(v);
       }
@@ -182,34 +238,95 @@ export function CsvExplorerTable({
     return map;
   }, [quickFilterColumns, rows]);
 
+  const visibleData = () => filteredRows.map((r) => r.original);
+
   function exportCsv() {
-    const csv = Papa.unparse(filteredRows.map((r) => r.original));
+    const csv = Papa.unparse(visibleData());
     download(new Blob([csv], { type: "text/csv;charset=utf-8" }), `${fileBaseName}.csv`);
   }
 
-  function exportXlsx() {
-    const sheet = XLSX.utils.json_to_sheet(filteredRows.map((r) => r.original));
-    const wb = XLSX.utils.book_new();
-    XLSX.utils.book_append_sheet(wb, sheet, "Sheet1");
-    XLSX.writeFile(wb, `${fileBaseName}.xlsx`);
+  // xlsx and jspdf are ~285 KB together and were statically imported at module
+  // scope, so every Explorer visitor downloaded both export engines whether or
+  // not they ever clicked Export. Loading them on the click instead fits
+  // comfortably inside the interaction budget the click already has.
+  async function exportXlsx() {
+    setExporting("xlsx");
+    try {
+      const XLSX = await import("xlsx");
+      const sheet = XLSX.utils.json_to_sheet(visibleData());
+      const wb = XLSX.utils.book_new();
+      XLSX.utils.book_append_sheet(wb, sheet, "Sheet1");
+      XLSX.writeFile(wb, `${fileBaseName}.xlsx`);
+    } finally {
+      setExporting(null);
+    }
   }
 
-  function exportPdf() {
-    const capped = filteredRows.slice(0, PDF_ROW_CAP);
-    const doc = new jsPDF({ orientation: "landscape" });
-    doc.setFontSize(9);
-    const title =
-      filteredRows.length > PDF_ROW_CAP
-        ? `${fileBaseName} — showing first ${PDF_ROW_CAP} of ${filteredRows.length} filtered rows`
-        : `${fileBaseName} — ${filteredRows.length} rows`;
-    doc.text(title, 14, 10);
-    autoTable(doc, {
-      startY: 14,
-      styles: { fontSize: 7, cellWidth: "wrap" },
-      head: [rawColumns.map(humanizeColumn)],
-      body: capped.map((r) => rawColumns.map((c) => r.original[c] ?? "")),
-    });
-    doc.save(`${fileBaseName}.pdf`);
+  async function exportPdf() {
+    setExporting("pdf");
+    try {
+      const [{ jsPDF }, { default: autoTable }] = await Promise.all([
+        import("jspdf"),
+        import("jspdf-autotable"),
+      ]);
+      const capped = filteredRows.slice(0, PDF_ROW_CAP);
+      const doc = new jsPDF({ orientation: "landscape" });
+      doc.setFontSize(9);
+      const title =
+        filteredRows.length > PDF_ROW_CAP
+          ? `${fileBaseName} — showing first ${PDF_ROW_CAP} of ${filteredRows.length} filtered rows`
+          : `${fileBaseName} — ${filteredRows.length} rows`;
+      doc.text(title, 14, 10);
+      autoTable(doc, {
+        startY: 14,
+        styles: { fontSize: 7, cellWidth: "wrap" },
+        head: [rawColumns.map(humanizeColumn)],
+        body: capped.map((r) => rawColumns.map((c) => r.original[c] ?? "")),
+      });
+      doc.save(`${fileBaseName}.pdf`);
+    } finally {
+      setExporting(null);
+    }
+  }
+
+  if (loadError) {
+    return (
+      <div className="flex flex-col items-center gap-3 rounded-2xl border border-flag/25 bg-flag-soft py-16 text-center">
+        <Icon name="wrench" size={22} className="text-flag-strong" />
+        <h3 className="font-display text-lg text-text">{loadError}</h3>
+        <p className="max-w-md text-sm text-text-muted">
+          The table couldn&rsquo;t fetch its data. You can still download the full file directly.
+        </p>
+        <a
+          href={csvHref}
+          download
+          className="mt-1 inline-flex h-10 items-center gap-1.5 rounded-full bg-brand-700 px-4 text-sm font-medium text-white"
+        >
+          <Icon name="file" size={14} />
+          Download the CSV
+        </a>
+      </div>
+    );
+  }
+
+  if (rows === null) {
+    return (
+      <>
+        <p className="sr-only" role="status">
+          Loading {rowCountHint ? rowCountHint.toLocaleString() + " " : ""}rows…
+        </p>
+        <noscript>
+          <div className="rounded-2xl border border-border bg-surface p-6 text-sm text-text-muted">
+            This table needs JavaScript to filter and sort {rowCountHint?.toLocaleString()} rows.{" "}
+            <a href={csvHref} download className="text-link underline underline-offset-2">
+              Download the full CSV
+            </a>{" "}
+            instead — it holds exactly the same data.
+          </div>
+        </noscript>
+        <SkeletonTable />
+      </>
+    );
   }
 
   return (
@@ -217,40 +334,23 @@ export function CsvExplorerTable({
       <KpiGrid cards={statCards} />
 
       <div className="flex flex-wrap items-center gap-2">
-        <div className="flex h-9 min-w-[220px] flex-1 items-center gap-2 rounded-full border border-border bg-surface px-3">
-          <Icon name="search" size={15} className="text-text-subtle" />
-          <input
-            type="search"
-            value={globalFilter}
-            onChange={(e) => setGlobalFilter(e.target.value)}
-            placeholder="Search this dataset…"
-            aria-label="Search this dataset"
-            className="h-full flex-1 bg-transparent text-sm text-text outline-none placeholder:text-text-subtle"
-          />
-        </div>
+        <SearchField
+          value={globalFilter}
+          onChange={setGlobalFilter}
+          placeholder="Search this dataset…"
+          label="Search this dataset"
+        />
         {quickFilterColumns.map((col) => (
-          <Select
+          <SelectField
             key={col}
+            label={`Filter by ${humanizeColumn(col)}`}
             value={(table.getColumn(col)?.getFilterValue() as string) ?? ALL_VALUE}
-            onValueChange={(v) => table.getColumn(col)?.setFilterValue(v === ALL_VALUE ? undefined : v)}
-          >
-            <SelectTrigger
-              aria-label={`Filter by ${humanizeColumn(col)}`}
-              className="h-9 rounded-full border-border bg-surface px-3 text-sm text-text"
-            >
-              <SelectValue>
-                {(v: string) => (!v || v === ALL_VALUE ? `All ${humanizeColumn(col).toLowerCase()}` : v)}
-              </SelectValue>
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value={ALL_VALUE}>All {humanizeColumn(col).toLowerCase()}</SelectItem>
-              {filterOptions[col]?.map((v) => (
-                <SelectItem key={v} value={v}>
-                  {v}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
+            onChange={(v) => table.getColumn(col)?.setFilterValue(v === ALL_VALUE ? undefined : v)}
+            options={[
+              { value: ALL_VALUE, label: `All ${humanizeColumn(col).toLowerCase()}` },
+              ...(filterOptions[col] ?? []).map((v) => ({ value: v, label: v })),
+            ]}
+          />
         ))}
         {primaryColumns && (
           <button
@@ -258,49 +358,47 @@ export function CsvExplorerTable({
             onClick={() => setShowAllColumns((s) => !s)}
             aria-pressed={showAllColumns}
             className={
-              "inline-flex h-9 items-center gap-1.5 rounded-full border px-3 text-sm font-medium transition-colors " +
+              "inline-flex h-10 items-center gap-1.5 rounded-full border px-3.5 text-sm font-medium transition-colors " +
               (showAllColumns
-                ? "border-brand-300 bg-brand-100 text-link"
-                : "border-border-strong text-text-muted hover:bg-surface-2 hover:text-text")
+                ? "border-brand-500 bg-brand-100 text-link"
+                : "border-border-control text-text-muted hover:bg-surface-2 hover:text-text")
             }
           >
             <Icon name="grid" size={14} />
-            {showAllColumns ? `All ${rawColumns.length} columns` : `${primaryColumns.length} of ${rawColumns.length} columns`}
+            {showAllColumns
+              ? `All ${rawColumns.length} columns`
+              : `${primaryColumns.length} of ${rawColumns.length} columns`}
           </button>
         )}
         <a
-          href={downloadHref}
+          href={csvHref}
           download
-          className="inline-flex h-9 items-center gap-1.5 rounded-full border border-border-strong px-3 text-sm font-medium text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
+          className="inline-flex h-10 items-center gap-1.5 rounded-full border border-border-control px-3.5 text-sm font-medium text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
         >
           <Icon name="file" size={14} />
           Download full CSV
         </a>
-        <div className="flex items-center gap-1 rounded-full border border-border-strong p-1">
-          <button
-            type="button"
-            onClick={exportCsv}
-            className="rounded-full px-2.5 py-1 text-xs font-semibold text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
-          >
-            Export CSV
-          </button>
-          <button
-            type="button"
-            onClick={exportXlsx}
-            className="rounded-full px-2.5 py-1 text-xs font-semibold text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
-          >
-            Export XLSX
-          </button>
-          <button
-            type="button"
-            onClick={exportPdf}
-            className="rounded-full px-2.5 py-1 text-xs font-semibold text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
-          >
-            Export PDF
-          </button>
+        <div className="flex items-center gap-1 rounded-full border border-border-control p-1">
+          {(
+            [
+              ["CSV", exportCsv, "csv"],
+              ["XLSX", exportXlsx, "xlsx"],
+              ["PDF", exportPdf, "pdf"],
+            ] as const
+          ).map(([label, fn, key]) => (
+            <button
+              key={key}
+              type="button"
+              onClick={fn}
+              disabled={exporting !== null}
+              className="rounded-full px-2.5 py-1.5 text-xs font-semibold text-text-muted transition-colors hover:bg-surface-2 hover:text-text disabled:opacity-50"
+            >
+              {exporting === key ? "Exporting…" : `Export ${label}`}
+            </button>
+          ))}
         </div>
         <span className="ml-auto text-xs text-text-subtle" aria-live="polite">
-          <b className="text-text">{filteredRows.length}</b> of {rows.length} rows
+          <b className="text-text">{filteredRows.length.toLocaleString()}</b> of {rows.length.toLocaleString()} rows
         </span>
       </div>
 
@@ -312,22 +410,29 @@ export function CsvExplorerTable({
         </div>
       ) : (
         <>
-          <p className="text-xs text-text-subtle">Click any row for its full detail.</p>
+          <p className="text-xs text-text-subtle">Select any row for its full detail.</p>
           {/* Deliberately NOT .no-scrollbar, unlike the rest of the site --
               this table can run to a dozen-plus columns and is the one place
               on the site where a visible native scrollbar is the correct,
-              expected affordance (same reasoning any spreadsheet/Notion/
-              Airtable table follows), not a decorative-chrome scroller like
-              the nav pills or breadcrumbs. */}
+              expected affordance (the same reasoning any spreadsheet follows),
+              not a decorative-chrome scroller like the nav pills. */}
           <div className="overflow-x-auto rounded-2xl border border-border bg-surface">
             <table className="w-full border-collapse text-sm">
               <thead>
                 {table.getHeaderGroups().map((hg) => (
-                  <tr key={hg.id} className="border-b border-border text-left text-xs font-medium uppercase tracking-wide text-text-subtle">
+                  <tr
+                    key={hg.id}
+                    className="border-b border-border text-left text-xs font-medium uppercase tracking-wide text-text-subtle"
+                  >
                     {hg.headers.map((header) => {
                       const sort = header.column.getIsSorted();
                       return (
-                        <th key={header.id} className="px-4 py-3">
+                        <th
+                          key={header.id}
+                          scope="col"
+                          aria-sort={sort === "asc" ? "ascending" : sort === "desc" ? "descending" : "none"}
+                          className="px-4 py-3"
+                        >
                           <button
                             type="button"
                             onClick={header.column.getToggleSortingHandler()}
@@ -381,11 +486,11 @@ export function CsvExplorerTable({
               type="button"
               onClick={() => table.previousPage()}
               disabled={!table.getCanPreviousPage()}
-              className="inline-flex h-8 items-center rounded-full border border-border-strong px-3 text-xs font-medium text-text-muted transition-colors hover:bg-surface-2 hover:text-text disabled:pointer-events-none disabled:opacity-40"
+              className="inline-flex h-10 items-center rounded-full border border-border-control px-4 text-xs font-medium text-text-muted transition-colors hover:bg-surface-2 hover:text-text disabled:pointer-events-none disabled:opacity-40"
             >
               Previous
             </button>
-            <span className="text-xs text-text-subtle">
+            <span className="text-xs text-text-subtle" aria-live="polite">
               Page <b className="text-text">{table.getState().pagination.pageIndex + 1}</b> of{" "}
               {table.getPageCount() || 1}
             </span>
@@ -393,7 +498,7 @@ export function CsvExplorerTable({
               type="button"
               onClick={() => table.nextPage()}
               disabled={!table.getCanNextPage()}
-              className="inline-flex h-8 items-center rounded-full border border-border-strong px-3 text-xs font-medium text-text-muted transition-colors hover:bg-surface-2 hover:text-text disabled:pointer-events-none disabled:opacity-40"
+              className="inline-flex h-10 items-center rounded-full border border-border-control px-4 text-xs font-medium text-text-muted transition-colors hover:bg-surface-2 hover:text-text disabled:pointer-events-none disabled:opacity-40"
             >
               Next
             </button>

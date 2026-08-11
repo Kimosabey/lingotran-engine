@@ -37,7 +37,7 @@ This folder is the finished, ready-to-use German material: **636 pages** from **
 
 ## Where this came from
 
-Built from commit `cb35909` (tag `v1.1.0-vocab-translations`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
+Built from commit `1f00acb` (tag `v1.1.0-workflow-gaps-closed`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
 
 
 ## Two things worth knowing

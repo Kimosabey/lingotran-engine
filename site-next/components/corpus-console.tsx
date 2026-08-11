@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Fragment, useMemo, useState } from "react";
 import { Icon } from "@/components/icon";
 import { Chip } from "@/components/chip";
+import { SelectField, SearchField } from "@/components/select-field";
 import { StatusBadge } from "@/components/status-badge";
 import { QaDonut } from "@/components/charts/qa-donut";
 import { corpus, type CorpusItem } from "@/lib/data";
@@ -104,50 +105,45 @@ export function CorpusConsole() {
   return (
     <div className="flex flex-col gap-4">
       <div className="flex flex-wrap items-center gap-2">
-        <div className="flex h-9 min-w-[220px] flex-1 items-center gap-2 rounded-full border border-border bg-surface px-3">
-          <Icon name="search" size={15} className="text-text-subtle" />
-          <input
-            type="search"
-            value={q}
-            onChange={(e) => setQ(e.target.value)}
-            placeholder="Search books, exams, sources…"
-            aria-label="Search the corpus"
-            className="h-full flex-1 bg-transparent text-sm text-text outline-none placeholder:text-text-subtle"
-          />
-        </div>
-        <select
+        <SearchField
+          value={q}
+          onChange={setQ}
+          placeholder="Search books, exams, sources…"
+          label="Search the corpus"
+        />
+        <SelectField
+          label="Filter by language"
           value={lang}
-          onChange={(e) => setLang(e.target.value as LangFilter)}
-          aria-label="Filter by language"
-          className="h-9 rounded-full border border-border bg-surface px-3 text-sm text-text"
-        >
-          <option value="all">All languages</option>
-          <option value="FR">French</option>
-          <option value="DE">German</option>
-        </select>
-        <select
+          onChange={(v) => setLang(v as LangFilter)}
+          options={[
+            { value: "all", label: "All languages" },
+            { value: "FR", label: "French" },
+            { value: "DE", label: "German" },
+          ]}
+        />
+        <SelectField
+          label="Filter by status"
           value={status}
-          onChange={(e) => setStatus(e.target.value as StatusFilter)}
-          aria-label="Filter by status"
-          className="h-9 rounded-full border border-border bg-surface px-3 text-sm text-text"
-        >
-          <option value="all">All statuses</option>
-          <option value="complete">Complete</option>
-          <option value="in-progress">In progress</option>
-          <option value="not-started">Not started</option>
-          <option value="flags">Has disclosed gaps</option>
-        </select>
-        <select
+          onChange={(v) => setStatus(v as StatusFilter)}
+          options={[
+            { value: "all", label: "All statuses" },
+            { value: "complete", label: "Complete" },
+            { value: "in-progress", label: "In progress" },
+            { value: "not-started", label: "Not started" },
+            { value: "flags", label: "Has disclosed gaps" },
+          ]}
+        />
+        <SelectField
+          label="Sort by"
           value={sort}
-          onChange={(e) => setSort(e.target.value as SortKey)}
-          aria-label="Sort by"
-          className="h-9 rounded-full border border-border bg-surface px-3 text-sm text-text"
-        >
-          <option value="title-asc">Sort: Title A–Z</option>
-          <option value="pages-desc">Sort: Most pages</option>
-          <option value="pct-desc">Sort: Highest QA %</option>
-          <option value="pct-asc">Sort: Lowest QA %</option>
-        </select>
+          onChange={(v) => setSort(v as SortKey)}
+          options={[
+            { value: "title-asc", label: "Sort: Title A–Z" },
+            { value: "pages-desc", label: "Sort: Most pages" },
+            { value: "pct-desc", label: "Sort: Highest QA %" },
+            { value: "pct-asc", label: "Sort: Lowest QA %" },
+          ]}
+        />
         <span className="ml-auto text-xs text-text-subtle" aria-live="polite">
           <b className="text-text">{list.length}</b> of {all.length} shown
         </span>

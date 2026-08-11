@@ -32,10 +32,10 @@ export function FidelityCard() {
       </span>
 
       <div className="paper-grain paper-fold relative flex-1 rotate-[-2deg] overflow-hidden rounded-xl border border-paper-line bg-paper p-4 shadow-sm transition-transform duration-(--dur-3) ease-out group-hover:rotate-[0deg]">
-        <div className="font-mono text-[10px] text-paper-ink/70">netzwerk-a1-kursbuch · page-066.png · 300 DPI</div>
+        <div className="font-mono text-[10px] text-paper-ink/85">netzwerk-a1-kursbuch · page-066.png · 300 DPI</div>
         <div className="mt-2.5 space-y-1 text-[11px] leading-snug text-paper-ink">
           <p className="font-medium">Guten Tag! Ich heiße Anna.</p>
-          <p className="text-paper-ink/80">Und du, wie heißt du?</p>
+          <p className="text-paper-ink/90">Und du, wie heißt du?</p>
         </div>
         <div className="mt-2.5 space-y-2">
           <div className="h-2 w-full rounded bg-paper-line/70" />
@@ -48,12 +48,12 @@ export function FidelityCard() {
         </div>
       </div>
 
-      <div className="flex items-center justify-center gap-2.5 py-1 sm:flex-col sm:gap-2 sm:px-1">
+      <div className="flex items-center justify-center gap-2.5 py-1 sm:w-24 sm:flex-col sm:gap-2 sm:px-1">
         <div className="flex flex-col items-center gap-1 text-center">
           <span className="flex h-7 w-7 items-center justify-center rounded-full bg-brand-100 text-brand-700">
             <Icon name="eye" size={14} />
           </span>
-          <span className="text-[9px] font-medium leading-tight text-text-subtle">
+          <span className="text-[11px] font-medium leading-tight text-text-subtle">
             Vision
             <br />
             transcribe
@@ -64,7 +64,7 @@ export function FidelityCard() {
           <span className="flex h-7 w-7 items-center justify-center rounded-full bg-verified-soft text-verified-strong">
             <Icon name="checkSeal" size={14} />
           </span>
-          <span className="text-[9px] font-medium leading-tight text-text-subtle">
+          <span className="text-[11px] font-medium leading-tight text-text-subtle">
             Adversarial
             <br />
             QA

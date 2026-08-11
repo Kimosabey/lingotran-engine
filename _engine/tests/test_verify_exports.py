@@ -224,9 +224,14 @@ class CoverageTests(Harness):
         vocabulary or catalog sheets, which never had that column."""
         self._collections({'instruction': 95})
         self._questions(['Complete.'] * 3)
+        # Built from CANON rather than hardcoded, so adding a column (gender,
+        # translation, ...) cannot silently break this test.
+        vocab = {c: '' for c in V.CANON['vocabulary']}
+        vocab.update(collection='b', word='chat', translation='cat',
+                     word_class='noun', topic='none', source_page='001')
         self.write('b-vocabulary.csv',
                    ','.join(V.CANON['vocabulary']) + '\n' +
-                   ','.join(['"b"', '"chat"', '"cat"', '""', '""', '"noun"', '""', '"none"', '"001"']) + '\n')
+                   ','.join('"%s"' % vocab[c] for c in V.CANON['vocabulary']) + '\n')
         self.assertEqual(self.run_gate(), 0)
 
     def test_undeclared_column_is_never_failed(self):

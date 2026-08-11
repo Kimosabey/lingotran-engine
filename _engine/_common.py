@@ -331,3 +331,24 @@ def git_provenance(cwd=None):
     if not commit:
         return None
     return {'commit': commit, 'tag': run(['git', 'describe', '--tags', '--abbrev=0'])}
+
+
+GENDER_RE = re.compile(r'\((m|f|mf|m/f|m pl|f pl)\)\s*$')
+
+
+def split_gender(word):
+    """('automne (m)') -> ('automne (m)', 'm'). Closes gap P6.
+
+    Books print gender as a parenthetical suffix on the headword, so it arrived
+    as punctuation inside `word` and could not be filtered or sorted on -- 403
+    French entries carry one. Derived at export time rather than rewritten into
+    the source: the headword must stay exactly as the book prints it, and a
+    derived column can be recomputed if the rule changes.
+
+    Returns (word_unchanged, gender_or_empty). Plural markers keep their number
+    ('m pl'), since that is what the book actually asserts.
+    """
+    if not word:
+        return word, ''
+    m = GENDER_RE.search(word)
+    return word, (m.group(1) if m else '')

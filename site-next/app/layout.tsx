@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Fraunces, Inter, IBM_Plex_Mono } from "next/font/google";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from "@/lib/site";
 import "./globals.css";
 
 const fraunces = Fraunces({
@@ -20,39 +21,42 @@ const ibmPlexMono = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
 });
 
-const SITE_URL = "https://lingotran-engine.vercel.app";
-const DEFAULT_TITLE = "Lingotran Engine";
-const DEFAULT_DESCRIPTION =
-  "How the Lingotran engine is orchestrated — the layers, roles, agents and models behind zero-data-loss extraction.";
-
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: DEFAULT_TITLE,
-  description: DEFAULT_DESCRIPTION,
+  title: SITE_NAME,
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
+  authors: [{ name: "Harshan Aiyappa" }],
   // Favicon/apple-touch-icon are served via the app/icon.png + app/apple-icon.png
   // file-convention (Next.js auto-generates the <link> tags) rather than this
   // field -- keeps a single source of truth instead of a manual icons block
-  // that could drift out of sync with the actual files on disk.
+  // that could drift out of sync with the actual files on disk. The OG image
+  // comes from app/opengraph-image.tsx by the same convention, so no `images`
+  // array is listed here either.
   openGraph: {
-    title: DEFAULT_TITLE,
-    description: DEFAULT_DESCRIPTION,
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
     url: SITE_URL,
-    siteName: DEFAULT_TITLE,
+    siteName: SITE_NAME,
     type: "website",
     locale: "en_US",
-    images: [{ url: "/img/logo-color.png", width: 1819, height: 571, alt: "Lingotran" }],
   },
   twitter: {
-    card: "summary",
-    title: DEFAULT_TITLE,
-    description: DEFAULT_DESCRIPTION,
-    images: ["/img/logo-color.png"],
+    // The generated card is a real 1200x630 image, so it earns the large
+    // format; the old `summary` was correct only because the image was a
+    // letterboxed wordmark.
+    card: "summary_large_image",
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
   },
+  alternates: { canonical: "/" },
 };
 
-// Read the persisted theme before paint to avoid a flash of the wrong theme --
-// direct port of the inline script every page of the current static site uses.
-const themeInitScript = `(function(){try{var t=localStorage.getItem('lt-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();`;
+// Read the persisted theme before paint to avoid a flash of the wrong theme.
+// Only ever sets the attribute when the user has made an explicit choice --
+// leaving it unset is meaningful, because an un-stamped document follows
+// prefers-color-scheme through `color-scheme` (see globals.css).
+const themeInitScript = `(function(){try{var t=localStorage.getItem('lt-theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();`;
 
 export default function RootLayout({
   children,
@@ -71,7 +75,6 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col bg-bg text-text font-sans" suppressHydrationWarning>
         <a
           href="#main"
-          tabIndex={0}
           className="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-100 focus:rounded-lg focus:bg-brand-700 focus:px-4 focus:py-2 focus:text-sm focus:font-medium focus:text-white"
         >
           Skip to content

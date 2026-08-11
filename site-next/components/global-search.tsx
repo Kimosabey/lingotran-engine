@@ -40,22 +40,40 @@ function buildIndex(): SearchEntry[] {
   return items;
 }
 
-export function GlobalSearch() {
-  const [open, setOpen] = useState(false);
+export function GlobalSearch({
+  triggerless = false,
+  open: controlledOpen,
+  onOpenChange,
+}: {
+  /** Render only the dialog, no button -- used by the header's mobile icon
+   * trigger, so search is reachable on a phone without a hardware keyboard. */
+  triggerless?: boolean;
+  open?: boolean;
+  onOpenChange?: (open: boolean) => void;
+} = {}) {
+  const [uncontrolledOpen, setUncontrolledOpen] = useState(false);
+  const open = controlledOpen ?? uncontrolledOpen;
+  const setOpen = onOpenChange ?? setUncontrolledOpen;
   const router = useRouter();
   const index = useMemo(() => buildIndex(), []);
 
   useEffect(() => {
+    // Only the button-bearing instance owns the keyboard shortcut, otherwise
+    // both instances would open on the same keypress.
+    if (triggerless) return;
     function onKeydown(e: KeyboardEvent) {
-      const tag = (document.activeElement?.tagName || "").toLowerCase();
-      if (e.key === "/" && tag !== "input" && tag !== "textarea") {
+      const el = document.activeElement;
+      const tag = (el?.tagName || "").toLowerCase();
+      const typing = tag === "input" || tag === "textarea" || tag === "select" || (el as HTMLElement)?.isContentEditable;
+      if (typing) return;
+      if (e.key === "/" || ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k")) {
         e.preventDefault();
         setOpen(true);
       }
     }
     window.addEventListener("keydown", onKeydown);
     return () => window.removeEventListener("keydown", onKeydown);
-  }, []);
+  }, [triggerless, setOpen]);
 
   function go(href: string) {
     setOpen(false);
@@ -69,15 +87,19 @@ export function GlobalSearch() {
 
   return (
     <>
-      <button
-        type="button"
-        onClick={() => setOpen(true)}
-        className="group flex h-9 w-full max-w-[280px] items-center gap-2 rounded-full border border-border bg-surface-2 px-3 text-sm text-text-subtle transition-colors hover:border-border-strong"
-      >
-        <Icon name="search" size={15} />
-        <span className="flex-1 text-left">Search the corpus…</span>
-        <kbd className="rounded border border-border-strong bg-surface px-1.5 py-0.5 font-mono text-[10px] text-text-subtle">/</kbd>
-      </button>
+      {!triggerless && (
+        <button
+          type="button"
+          onClick={() => setOpen(true)}
+          className="group flex h-10 w-full max-w-[280px] items-center gap-2 rounded-full border border-border-control bg-surface-2 px-3.5 text-sm text-text-subtle transition-colors hover:border-brand-500 hover:text-text"
+        >
+          <Icon name="search" size={15} />
+          <span className="flex-1 text-left">Search the corpus…</span>
+          <kbd className="rounded border border-border-strong bg-surface px-1.5 py-0.5 font-mono text-[10px] text-text-subtle">
+            /
+          </kbd>
+        </button>
+      )}
       <CommandDialog open={open} onOpenChange={setOpen} title="Search" description="Search pages and books">
         <Command>
           <CommandInput placeholder="Search the corpus…" />

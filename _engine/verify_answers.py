@@ -36,6 +36,7 @@ refresh the CSVs. The inferred-level check is report-only and writes nothing.
 
 Usage:
     python _engine/verify_answers.py --root french/extracted --all
+    python _engine/verify_answers.py --root french/extracted --all --strict   # non-zero exit if anything is flagged
     python _engine/verify_answers.py --root french/extracted <slug> [<slug> ...]
 """
 import glob
@@ -220,11 +221,27 @@ def verify_collection(root, c, cfg=None):
                     issues.append('%s/%s: correct_answer "%s" references a missing/blank option'
                                    % (it.get('source_page'), it.get('item'), ans))
             elif ans != '(open-ended)':
-                opts = {it.get('option_a', ''), it.get('option_b', ''), it.get('option_c', '')}
+                # Options now run a..e (gap P4). Before 2026-08-10 the schema
+                # stopped at (c), so a book printing four or five silently lost
+                # the rest and its answer pointed at a column that never existed.
+                opts = {it.get('option_%s' % k, '') for k in 'abcde'}
                 opts.discard('')
-                if opts and not any(o in ans or ans in o for o in opts) and ans not in opts:
-                    issues.append('%s/%s: correct_answer "%s" not found among its own options - '
-                                  'check for a truncated 4th+ printed option'
+                matched = any(o in ans or ans in o for o in opts) or ans in opts
+                if opts and not matched:
+                    # A MULTI-SELECT answer is legitimately several options at
+                    # once ("Benjamin Clementine et Grégory Privat"), so it will
+                    # never equal any single one. Accept it when its parts are
+                    # all real options; only flag when something is genuinely
+                    # unaccounted for.
+                    parts = [p.strip(' .;,') for p in
+                             re.split(r'\s+(?:et|and|und|y)\s+|[;,]', ans) if p.strip(' .;,')]
+                    if len(parts) > 1 and all(
+                            any(p in o or o in p for o in opts) for p in parts):
+                        matched = True
+                if opts and not matched:
+                    issues.append('%s/%s: correct_answer "%s" is not among its own options, '
+                                  'and is not a multi-select of them - check whether an option '
+                                  'was not captured, or the answer belongs to a different item'
                                   % (it.get('source_page'), it.get('item'), ans[:60]))
 
         if it.get('item_type') in OPEN_ENDED_TYPES and ans != '(open-ended)' and 'open-ended' in ans.lower():
@@ -283,11 +300,29 @@ def verify_collection(root, c, cfg=None):
         written = _persist_fixes(root, slug, data, path)
         print('%-32s   %d auto-fix(es) written to %s' % ('', fixed, written))
 
+    # An individually reviewed, legitimate flag can be accepted in
+    # collections.json so it stops blocking --strict while STAYING VISIBLE --
+    # the same discipline as reconcile.py's accepted_qa_gaps. The real case: a
+    # DELF item whose options are PHOTOGRAPHS, transcribed as descriptions, so
+    # its answer ("Une carte postale (photo a)") can never match an option by
+    # text. That is the item, not a defect, and no amount of re-extraction
+    # changes it.
+    accepted = set(c.get('accepted_answer_flags', []))
+    if accepted:
+        kept, waived = [], []
+        for i in issues:
+            key = i.split(':')[0].strip()
+            (waived if key in accepted else kept).append(i)
+        issues = kept
+        for i in waived:
+            print('    ~ accepted:', i)
+
     tag = 'CLEAN' if not issues else 'NEEDS REPAIR PASS'
     print('%-32s %4d items | %d auto-fixed | %d flagged for review -> %s'
           % (slug, len(items), fixed, len(issues), tag))
     for i in issues:
         print('    !', i)
+    return len(issues)
 
 
 def main(argv):
@@ -298,12 +333,24 @@ def main(argv):
     if not targets:
         print('No matching collections. Use --all or a slug from collections.json.')
         return
+    strict = '--strict' in argv
+    flagged = 0
     for c in targets:
         if c.get('frozen'):
             print('%-32s frozen - skipped' % c['slug'])
             continue
-        verify_collection(root, c, cfg)
+        flagged += verify_collection(root, c, cfg) or 0
+
+    if flagged and strict:
+        # Gap P8: this gate printed NEEDS REPAIR PASS and still exited 0, so CI
+        # could not fail on it and a flagged book could be packaged. --strict
+        # makes it binding; the default stays report-only so a mid-run triage
+        # pass is not blocked by known, accepted flags.
+        print('')
+        print('%d item(s) flagged and --strict is set - not clean' % flagged)
+        return 1
+    return 0
 
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
+    sys.exit(main(sys.argv[1:]) or 0)

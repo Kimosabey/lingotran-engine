@@ -52,8 +52,10 @@ jobs:
       - name: Exports current with sources
         run: python _engine/check_exports_current.py --root french/extracted
 
-      # Answer shape/alignment and the answer-key coverage cross-check.
-      # Report-only today: it exits 0 and prints NEEDS REPAIR PASS, so the log
-      # is the signal rather than the build status.
+      # Answer shape/alignment and the answer-key coverage cross-check. Now
+      # BINDING (--strict): it used to exit 0 while printing NEEDS REPAIR PASS,
+      # so CI could not fail on it and a flagged book could be packaged.
+      # Individually reviewed, legitimate flags are waived per book via
+      # `accepted_answer_flags` and still print on every run.
       - name: Verify French answers
-        run: python _engine/verify_answers.py --root french/extracted --all
+        run: python _engine/verify_answers.py --root french/extracted --all --strict

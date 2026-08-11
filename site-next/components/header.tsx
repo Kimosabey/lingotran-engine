@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
+import { useState } from "react";
 import { Icon } from "@/components/icon";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { GlobalSearch } from "@/components/global-search";
@@ -27,12 +28,19 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
   const activePage = sitePages.find((p) => p.slug === active);
   const defaultCrumbs: Crumb[] = activePage && active !== "dashboard" ? [{ label: activePage.label }] : [];
   const trail = crumbs ?? defaultCrumbs;
+  const [searchOpen, setSearchOpen] = useState(false);
 
   return (
     <>
       <header className="sticky top-0 z-50 border-b border-border bg-surface/90 backdrop-blur">
-        <div className="mx-auto flex h-(--topbar-h) max-w-(--content-max) items-center gap-4 px-4 sm:px-6">
+        <div className="mx-auto flex h-(--topbar-h) max-w-(--content-max) items-center gap-3 px-4 sm:gap-4 sm:px-6">
           <Link href="/" className="flex shrink-0 items-center gap-3">
+            {/* Two files rather than one CSS-filtered image, because the mark
+                is multi-tone. The `dark:` variant now covers prefers-color-
+                scheme as well as the [data-theme] stamp (see the custom
+                variant in globals.css) -- previously it keyed only off the
+                attribute, so every system-dark visitor who never touched the
+                toggle got the violet logo on the near-black bar. */}
             <Image
               src="/img/logo-color.png"
               alt="Lingotran"
@@ -58,13 +66,27 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
           <div className="hidden sm:block">
             <GlobalSearch />
           </div>
-          <div className="flex items-center gap-1">
+          <div className="flex items-center gap-0.5 sm:gap-1">
+            {/* Below `sm` the full search trigger doesn't fit, so it collapses
+                to an icon button rather than disappearing. It used to simply
+                vanish, and the only other way in was the "/" key -- which
+                needs a hardware keyboard. Search therefore did not exist at
+                all on a phone for /engine, /reference, /french, /german or
+                any Explorer route. */}
+            <button
+              type="button"
+              onClick={() => setSearchOpen(true)}
+              aria-label="Search the corpus"
+              className="inline-flex h-10 w-10 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text sm:hidden"
+            >
+              <Icon name="search" size={18} />
+            </button>
             <a
               href={REPO_URL}
               target="_blank"
               rel="noopener"
               aria-label="GitHub repository"
-              className="inline-flex h-9 w-9 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
+              className="inline-flex h-10 w-10 items-center justify-center rounded-full text-text-muted transition-colors hover:bg-surface-2 hover:text-text"
             >
               <Icon name="github" size={18} />
             </a>
@@ -73,16 +95,28 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
           </div>
         </div>
       </header>
-      <nav className="sticky top-(--topbar-h) z-40 border-b border-border bg-surface/90 backdrop-blur" aria-label="Primary">
-        <div className="mx-auto flex h-12 max-w-(--content-max) items-center justify-between gap-4 px-4 sm:px-6">
+
+      {/* The appbar carries the desktop nav links and the breadcrumb trail.
+          Below `md` the links are hidden, and on the dashboard the trail is
+          empty -- which rendered 49px of blank, bordered, sticky chrome as
+          the second thing every mobile visitor saw. It now only exists when
+          it has something to say. */}
+      <nav
+        className={
+          "sticky top-(--topbar-h) z-40 border-b border-border bg-surface/90 backdrop-blur " +
+          (trail.length > 0 ? "" : "hidden md:block")
+        }
+        aria-label="Primary"
+      >
+        <div className="mx-auto flex h-(--appbar-h) max-w-(--content-max) items-center justify-between gap-4 px-4 sm:px-6">
           <div className="hidden items-center gap-1 md:flex">
             {sitePages.map((p) => (
               <Link
                 key={p.slug}
                 href={"/" + p.path}
-                aria-disabled={p.disabled}
+                aria-current={p.slug === active ? "page" : undefined}
                 className={
-                  "relative rounded-full px-3 py-1.5 text-sm font-medium transition-colors " +
+                  "relative rounded-full px-3 py-2 text-sm font-medium transition-colors " +
                   (p.slug === active
                     ? "bg-brand-100 text-link"
                     : "text-text-muted hover:bg-surface-2 hover:text-text")
@@ -100,26 +134,31 @@ export function Header({ crumbs }: { crumbs?: Crumb[] }) {
             ))}
           </div>
           {trail.length > 0 && (
-            <div className="no-scrollbar flex items-center gap-1.5 overflow-x-auto text-xs text-text-subtle">
-              <Link href="/" className="shrink-0 hover:text-text">
+            <nav aria-label="Breadcrumb" className="no-scrollbar flex items-center gap-1.5 overflow-x-auto text-xs text-text-subtle">
+              <Link href="/" className="shrink-0 py-2 hover:text-text">
                 Home
               </Link>
               {trail.map((c, i) => (
                 <span key={i} className="flex shrink-0 items-center gap-1.5">
                   <span aria-hidden="true">/</span>
                   {c.href ? (
-                    <Link href={c.href} className="hover:text-text">
+                    <Link href={c.href} className="py-2 hover:text-text">
                       {c.label}
                     </Link>
                   ) : (
-                    <span className="font-medium text-text">{c.label}</span>
+                    <span aria-current="page" className="font-medium text-text">
+                      {c.label}
+                    </span>
                   )}
                 </span>
               ))}
-            </div>
+            </nav>
           )}
         </div>
       </nav>
+
+      {/* Rendered once, driven by the mobile icon button above. */}
+      <GlobalSearch triggerless open={searchOpen} onOpenChange={setSearchOpen} />
     </>
   );
 }

@@ -1,162 +1,179 @@
 "use client";
 
-import { useMemo } from "react";
-import type { EChartsOption } from "echarts";
-import { EChart, useChartTokens, useEcharts } from "@/components/echart";
+import { useEffect, useRef, useState } from "react";
+import { Icon } from "@/components/icon";
 import type { ChartPoint } from "@/lib/data";
 
-// Horizontal bar rows -- replaces the static site's hand-rolled .bar-row DOM
-// (content-type / CEFR / orientation / answer-coverage breakdowns). Every
-// bar chart on the static site fills with the same brand gradient
-// (--grad-brand-90) except the cost chart's flag-to-brand gradient -- no
-// page ever passes a custom fill class, so this component doesn't expose one.
-
-// Long-tail collapse: a chart with many rows (e.g. an 18-tag content-type
-// breakdown) is hard to scan -- keep the top TOP_N individually and fold the
-// remainder into one deemphasized "Other" row. This is purely row-count
-// driven (no per-caller opt-in), so the other bar charts on the same page
-// (answerCoverage, cefr, orientation -- all single digits) and elsewhere on
-// the site (German item types at 10 rows, the Engine cost chart at 6) never
-// cross the threshold and render exactly as before.
+// Horizontal bar rows — the content-type / CEFR / orientation / item-type /
+// answer-coverage / cost breakdowns.
+//
+// Previously an ECharts bar series. It is now plain DOM: a three-column grid
+// of label, track, value. The reasons are the same as for the donut (see
+// charts/donut.tsx) — the fill is a CSS gradient token, so it repaints on a
+// theme change with no JavaScript at all, and the whole thing server-renders
+// instead of waiting on a dynamic import.
+//
+// Long-tail collapse: a chart with many rows (an 18-tag content-type
+// breakdown) is hard to scan — keep the top TOP_N individually and fold the
+// remainder into one deemphasised "Other" row. Purely row-count driven, so
+// the single-digit charts elsewhere on the site render exactly as before.
+// Unlike the old tooltip, the folded rows are now *disclosable*: the ECharts
+// hover tooltip that listed them was unreachable on touch.
 const TOP_N = 8;
 const COLLAPSE_THRESHOLD = TOP_N + 2;
+const STAGGER_MS = 45;
 
-interface DisplayPoint extends ChartPoint {
+interface Row extends ChartPoint {
   isOther?: boolean;
   otherTags?: ChartPoint[];
+}
+
+function useRevealed() {
+  const ref = useRef<HTMLDivElement>(null);
+  const [revealed, setRevealed] = useState(false);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    if (
+      typeof IntersectionObserver === "undefined" ||
+      window.matchMedia?.("(prefers-reduced-motion: reduce)").matches
+    ) {
+      setRevealed(true);
+      return;
+    }
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setRevealed(true);
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.12 }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+  return { ref, revealed };
 }
 
 export function BarChart({
   data,
   gradient,
-  height,
   valuesArePercent = false,
 }: {
   data: ChartPoint[];
-  /** Ports the cost chart's flag-to-brand-500 gradient fill. */
+  /** The cost chart's flag-to-brand fill, marking "expensive → cheap". */
   gradient?: "cost";
-  height?: number;
-  /** Set when `v` is already a percentage (e.g. the cost breakdown, which
-   * sums to 100) -- labels then show "v%" as printed, instead of deriving
-   * a percent-of-total (which would just restate the same number). */
+  /** Set when `v` is already a percentage (the cost breakdown sums to 100) —
+   * labels then print "v%" rather than deriving a percent-of-total, which
+   * would just restate the same number. */
   valuesArePercent?: boolean;
 }) {
-  const tokens = useChartTokens();
-  const echarts = useEcharts();
+  const { ref, revealed } = useRevealed();
+  const [openOther, setOpenOther] = useState(false);
 
-  const rowCount = data.length > COLLAPSE_THRESHOLD ? TOP_N + 1 : data.length;
-
-  const option = useMemo<EChartsOption | null>(() => {
-    if (!tokens || !echarts || !data.length) return null;
-    // Ascending sort -- ECharts renders a category yAxis bottom-to-top, so
-    // the last (largest) entry lands at the top of the chart. Verified
-    // visually against the rendered page; do not flip this to descending.
-    const ascending = [...data].sort((a, b) => a.v - b.v);
-
-    let display: DisplayPoint[] = ascending;
-    if (ascending.length > COLLAPSE_THRESHOLD) {
-      const kept = ascending.slice(ascending.length - TOP_N); // largest N, still ascending
-      const collapsed = ascending.slice(0, ascending.length - TOP_N); // long tail
-      const otherPoint: DisplayPoint = {
-        k: `Other (${collapsed.length} tags)`,
-        v: collapsed.reduce((s, d) => s + d.v, 0),
-        isOther: true,
-        otherTags: collapsed,
-      };
-      // Pinned as the very first (= bottom-most) row -- an aggregate, not a
-      // ranked entry, so it reads as a footnote rather than competing on value.
-      display = [otherPoint, ...kept];
-    }
-
-    const total = data.reduce((s, d) => s + d.v, 0) || 1; // true total -- % stays accurate once collapsed
-    const maxVal = Math.max(...display.map((d) => d.v));
-    const fill =
-      gradient === "cost"
-        ? new echarts.graphic.LinearGradient(0, 0, 1, 0, [
-            { offset: 0, color: tokens.flag },
-            { offset: 1, color: tokens.brand500 },
-          ])
-        : new echarts.graphic.LinearGradient(0, 0, 1, 0, [
-            { offset: 0, color: tokens.brand700 },
-            { offset: 1, color: tokens.brand500 },
-          ]);
-    // Flat, muted fill for the "Other" bucket -- visually distinct from the
-    // vivid ranked-bar gradient, signalling "aggregate" rather than "ranked".
-    const otherFill = tokens.brand300;
-
-    return {
-      backgroundColor: "transparent",
-      textStyle: { fontFamily: tokens.fontFamily, color: tokens.text },
-      grid: { left: 8, right: 24, top: 8, bottom: 8, containLabel: true },
-      tooltip: {
-        trigger: "item",
-        confine: true,
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        formatter: (p: any) => {
-          const tags: ChartPoint[] | undefined = p.data && p.data.otherTags;
-          if (!tags) return `${p.name}: ${p.value}`;
-          const lines = [...tags]
-            .sort((a, b) => b.v - a.v)
-            .map((t) => `${t.k}: ${t.v}`)
-            .join("<br/>");
-          return `<b>${p.name}</b><br/>${lines}`;
-        },
-      },
-      xAxis: { type: "value", show: false, max: maxVal * 1.3 },
-      yAxis: {
-        type: "category",
-        data: display.map((d) => d.k),
-        axisLine: { show: false },
-        axisTick: { show: false },
-        axisLabel: { color: tokens.textMuted, fontSize: 12 },
-      },
-      series: [
-        {
-          type: "bar",
-          data: display.map((d) =>
-            d.isOther
-              ? { value: d.v, otherTags: d.otherTags, itemStyle: { color: otherFill, borderRadius: [0, 4, 4, 0] } }
-              : { value: d.v }
-          ),
-          barMaxWidth: 18,
-          itemStyle: { color: fill, borderRadius: [0, 4, 4, 0] },
-          // Explicit on-brand hover glow -- without this, ECharts' default
-          // emphasis style (a generic lighten/highlight overlay) fights the
-          // brand gradient fill instead of reinforcing it.
-          emphasis: {
-            itemStyle: {
-              shadowBlur: 10,
-              shadowColor: gradient === "cost" ? tokens.flag : tokens.brand500,
-            },
-          },
-          label: {
-            show: true,
-            position: "right",
-            color: tokens.textMuted,
-            fontSize: 12,
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            formatter: (p: any) => {
-              const v = typeof p.value === "number" ? p.value : 0;
-              return valuesArePercent ? `${v}%` : `${v}  ${Math.round((v / total) * 100)}%`;
-            },
-          },
-        },
-      ],
-    };
-  }, [tokens, echarts, data, gradient, valuesArePercent]);
-
-  const resolvedHeight = height ?? Math.max(120, rowCount * 28);
-
-  if (tokens && echarts && !data.length) {
+  if (!data.length) {
     return (
-      <div
-        className="flex items-center justify-center rounded-lg border border-dashed border-border-strong text-sm text-text-subtle"
-        style={{ height: resolvedHeight }}
-      >
+      <div className="flex h-[120px] items-center justify-center rounded-lg border border-dashed border-border-strong text-sm text-text-subtle">
         No data yet
       </div>
     );
   }
 
-  return <EChart option={option} height={resolvedHeight} ariaLabel="Breakdown chart" />;
+  // Descending — the largest bar reads first, at the top.
+  const descending = [...data].sort((a, b) => b.v - a.v);
+  let rows: Row[] = descending;
+  if (descending.length > COLLAPSE_THRESHOLD) {
+    const kept = descending.slice(0, TOP_N);
+    const collapsed = descending.slice(TOP_N);
+    rows = [
+      ...kept,
+      {
+        k: `Other (${collapsed.length} tags)`,
+        v: collapsed.reduce((s, d) => s + d.v, 0),
+        isOther: true,
+        otherTags: collapsed,
+      },
+    ];
+  }
+
+  const total = data.reduce((s, d) => s + d.v, 0) || 1; // true total — % stays accurate once collapsed
+  const max = Math.max(...rows.map((d) => d.v)) || 1;
+  const fill =
+    gradient === "cost"
+      ? "linear-gradient(90deg, var(--flag), var(--brand-500))"
+      : "var(--grad-brand-90)";
+
+  const valueLabel = (v: number) =>
+    valuesArePercent ? `${v}%` : `${v.toLocaleString()}`;
+
+  return (
+    <div ref={ref} className="flex flex-col gap-2.5">
+      {rows.map((d, i) => {
+        const width = revealed ? `${Math.max((d.v / max) * 100, 1.5)}%` : "0%";
+        const pct = Math.round((d.v / total) * 100);
+        const body = (
+          <>
+            <span
+              className="min-w-0 truncate text-left text-xs text-text-muted sm:text-sm"
+              title={d.k}
+            >
+              {d.k}
+              {d.isOther && (
+                <span
+                  aria-hidden="true"
+                  className={"ml-1 inline-flex transition-transform " + (openOther ? "rotate-90" : "")}
+                >
+                  <Icon name="chevron" size={11} />
+                </span>
+              )}
+            </span>
+            <span className="h-3 min-w-0 overflow-hidden rounded-sm bg-chart-track">
+              <span
+                className="bar-fill block h-full rounded-sm"
+                style={{
+                  width,
+                  background: d.isOther ? "var(--brand-300)" : fill,
+                  ["--bar-delay" as string]: `${i * STAGGER_MS}ms`,
+                }}
+              />
+            </span>
+            <span className="shrink-0 whitespace-nowrap font-mono text-xs tabular-nums text-text-muted">
+              {valueLabel(d.v)}
+              {!valuesArePercent && <span className="ml-1.5 text-text-subtle">{pct}%</span>}
+            </span>
+          </>
+        );
+
+        return (
+          <div key={d.k} className="flex flex-col gap-2">
+            {d.isOther ? (
+              <button
+                type="button"
+                onClick={() => setOpenOther((s) => !s)}
+                aria-expanded={openOther}
+                className="grid grid-cols-[minmax(64px,26%)_1fr_auto] items-center gap-3 rounded-sm text-left hover:opacity-80"
+              >
+                {body}
+              </button>
+            ) : (
+              <div className="grid grid-cols-[minmax(64px,26%)_1fr_auto] items-center gap-3">{body}</div>
+            )}
+            {d.isOther && openOther && (
+              <ul className="ml-1 flex flex-col gap-1 border-l border-border pl-3 text-xs text-text-subtle">
+                {[...(d.otherTags || [])]
+                  .sort((a, b) => b.v - a.v)
+                  .map((t) => (
+                    <li key={t.k} className="flex items-baseline justify-between gap-3">
+                      <span className="truncate">{t.k}</span>
+                      <span className="shrink-0 font-mono tabular-nums">{t.v.toLocaleString()}</span>
+                    </li>
+                  ))}
+              </ul>
+            )}
+          </div>
+        );
+      })}
+    </div>
+  );
 }

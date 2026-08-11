@@ -5849,7 +5849,9 @@
       "level": "B1",
       "topic": "school",
       "source_page": "053",
-      "instruction": "Lis le Forum et réponds aux questions."
+      "instruction": "Lis le Forum et réponds aux questions.",
+      "option_d": "le lit n'est pas fait",
+      "option_e": "je fais souvent mes devoirs sur l'ordinateur"
     },
     {
       "section": "reading",

@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { CsvExplorerTable } from "@/components/csv-explorer-table";
-import { loadCsv } from "@/lib/csv-data";
+import { loadCsvMeta } from "@/lib/csv-data";
 import {
   EXPLORER_LANGS,
   EXPLORER_TYPES,
@@ -84,16 +84,12 @@ export default async function ExplorerPage({
   const { lang, type } = await params;
   if (!isLang(lang) || !isType(type)) notFound();
 
-  const { columns, rows } = loadCsv(lang, type);
+  const { columns, rowCount } = loadCsvMeta(lang, type);
 
   return (
     <>
       <Header crumbs={[{ label: "Explorer", href: "/explorer/french/catalog" }, { label: LANG_LABEL[lang] }]} />
-      <main
-        id="main"
-        tabIndex={-1}
-        className="flex-1 scroll-mt-[calc(var(--topbar-h)+var(--appbar-h))] focus:outline-none"
-      >
+      <main id="main" tabIndex={-1} className="flex-1 scroll-mt-(--sticky-stack) focus:outline-none">
         <div className="mx-auto max-w-(--content-max) px-4 sm:px-6">
           <div className="py-14 lg:py-16">
             <span className="text-xs font-semibold uppercase tracking-[0.08em] text-link">Explorer</span>
@@ -132,18 +128,19 @@ export default async function ExplorerPage({
                 </Link>
               ))}
             </nav>
-            <span className="text-xs text-text-subtle">{columns.length} columns</span>
+            <span className="text-xs text-text-subtle">
+              {rowCount.toLocaleString()} rows · {columns.length} columns
+            </span>
           </div>
 
           <div className="pb-16">
             <CsvExplorerTable
               type={type}
-              columns={columns}
-              rows={rows}
-              downloadHref={publicCsvHref(lang, type)}
+              csvHref={publicCsvHref(lang, type)}
               fileBaseName={`lingotran-${lang}-${type}`}
               quickFilterColumns={QUICK_FILTER_COLUMNS[type]}
               primaryColumns={PRIMARY_COLUMNS[type]}
+              rowCountHint={rowCount}
             />
           </div>
         </div>

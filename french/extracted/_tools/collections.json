@@ -19,7 +19,8 @@
       "caveats": [
         "Page 3 (Avant-propos/foreword) could not be transcribed: its source image contains a real, identifiable, named person's photo (two author headshots), which the vision model's content-safety filter blocks on every processing approach. Not exercise/practice material -- publisher methodology prose only. See page-003.md and pages/_qa/page-003.json for the full note.",
         "607 of 1751 questions (35%) have a blank correct_answer -- NOT a transcription gap. Confirmed via the book's own back cover (page 224): this coursebook's answer keys ('corrigés') are published in a separate companion 'Guide pedagogique' (teacher's guide), never printed in this book at all. ~47% of the blanks are additionally audio-dependent listening items (no audio track processed). SME FOLLOW-UP: if the companion Guide pedagogique PDF is ever sourced, its printed corriges could be used to re-run the enrichment answer-fill pass and resolve a meaningful share of these blanks.",
-        "The `translation` column is EMPTY for all 1,175 vocabulary entries in this book, and that is correct, not a gap. Cosmopolite 1 is a monolingual French method book (methode de francais): it teaches French through French and prints no English gloss anywhere in its word lists. The column exists in the shared French vocabulary sheet because the Tricolore books ARE bilingual and print an `Article | French | English` glossary, from which 4,303 meanings were captured. Nothing was lost here -- there was nothing printed to capture. If the content team needs English meanings for this book, they must be generated rather than extracted, and should be kept in a separate, clearly-labelled column so generated text is never mistaken for the book's own words."
+        "The `translation` column is EMPTY for all 1,175 vocabulary entries in this book, and that is correct, not a gap. Cosmopolite 1 is a monolingual French method book (methode de francais): it teaches French through French and prints no English gloss anywhere in its word lists. The column exists in the shared French vocabulary sheet because the Tricolore books ARE bilingual and print an `Article | French | English` glossary, from which 4,303 meanings were captured. Nothing was lost here -- there was nothing printed to capture. If the content team needs English meanings for this book, they must be generated rather than extracted, and should be kept in a separate, clearly-labelled column so generated text is never mistaken for the book's own words.",
+        "Question 201/5 (DELF A1 mock exam) is an IMAGE-CHOICE item: its three options are photographs, transcribed as descriptions, and the printed answer identifies one of them (\"Une carte postale (photo a)\"). It therefore can never match an option by text, and is listed in accepted_answer_flags so it stops blocking the gate while staying visible on every run. Not a defect and not fixable by re-extraction -- the options are pictures."
       ],
       "accepted_qa_gaps": [
         3,
@@ -47,7 +48,10 @@
       "expect_coverage": {
         "instruction": 95,
         "translation": 0
-      }
+      },
+      "accepted_answer_flags": [
+        "201/5"
+      ]
     },
     {
       "slug": "tricolore-1-5th-edition",
@@ -178,6 +182,54 @@
       "caveats": [
         "SOURCE PDF IS INCOMPLETE - roughly the last 20 printed pages are absent. The book's own Sommaire runs to at least printed page 93, but the PDF stops at printed page 75 (PDF page 71; printed = PDF + 4, verified). Missing: the remainder of 'Les epreuves blanches A1.1' (Comprehension des ecrits p77, Production ecrite p80, Production orale p83) and the ENTIRE 'Les epreuves blanches A1' section (p85-93+), plus anything printed after it. Since the title promises both A1.1 and A1, the missing part is a substantial share of the book's stated purpose. DECIDE BEFORE STARTING: source a complete copy, or process this one and disclose the truncation as a permanent, documented gap.",
         "The 37-track audio archive has not been unpacked or verified against the exercises; no listening content is processed yet."
+      ],
+      "accepted_qa_gaps": []
+    },
+    {
+      "slug": "conjugaison-a1-a2",
+      "family": "legacy",
+      "title": "Pratique Conjugaison A1-A2",
+      "level": "A1-A2",
+      "level_mode": "inferred",
+      "level_options": [
+        "A1",
+        "A2"
+      ],
+      "pipeline": "legacy-manifest",
+      "status": "in-progress-legacy-pipeline",
+      "images_preexisting": true,
+      "book_type": "workbook",
+      "answer_key": {
+        "status": "unknown",
+        "checked": "not re-verified since the legacy run"
+      },
+      "caveats": [
+        "ON THE LEGACY PIPELINE, NOT _engine/. This book predates the shared engine and uses the older per-book manifest system, so it produces none of the current deliverable artifacts and is absent from every French export. Registered here 2026-08-10 purely so reconcile.py can SEE it -- being invisible to the gates was the actual risk (gap P9), since an unregistered book reads as 'done' by omission.",
+        "INCOMPLETE: 104 of 106 pages transcribed, and only 67 carry a QA verdict. It is neither finished nor formally parked. Decide before any delivery: finish it on the legacy pipeline, migrate it onto _engine/, or park it explicitly."
+      ],
+      "accepted_qa_gaps": []
+    },
+    {
+      "slug": "revision-2",
+      "family": "legacy",
+      "title": "Pratique Revision 2",
+      "level": "A1-A2",
+      "level_mode": "inferred",
+      "level_options": [
+        "A1",
+        "A2"
+      ],
+      "pipeline": "legacy-manifest",
+      "status": "not-started",
+      "images_preexisting": true,
+      "book_type": "workbook",
+      "answer_key": {
+        "status": "unknown",
+        "checked": "not started"
+      },
+      "caveats": [
+        "ON THE LEGACY PIPELINE, NOT _engine/. Registered 2026-08-10 so the gates can see it (gap P9).",
+        "NOT STARTED: 181 pages rasterized, 0 transcribed. No data of any kind exists for this book."
       ],
       "accepted_qa_gaps": []
     }
