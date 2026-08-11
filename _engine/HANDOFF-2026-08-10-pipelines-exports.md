@@ -1,143 +1,162 @@
-# Pipeline & Exports Handoff v1.1 — "Verification Hardening + Re-upload Readiness"
+# Pipeline & Exports Handoff v1.1 — "Rubrics, Translations, and Gap Closure"
 
 **Name:** Pipeline & Exports Handoff
 **Version:** v1.1 (supersedes v1.0, `HANDOFF-2026-07-28-pipelines-exports.md`)
 **Date:** 2026-08-10
 **Covers:** the PDF→CSV extraction/enrichment/export side only. Site design/frontend
-(`site/`, `site-next/`) is owned by a different chat — updating site *data* is fine.
+(`site/`, `site-next/`) is owned by a different chat — updating site *data* is fine and
+has precedent.
 
-To resume, reference this as **"Pipeline & Exports Handoff v1.1"**. v1.0 is still
-accurate for the German run's history and the Tricolore 2 transcription story; this
-document supersedes it for **current state** and for the **verification gates**.
+To resume, reference this as **"Pipeline & Exports Handoff v1.1"**. v1.0 stays accurate
+only as history of the German run and the Tricolore 2 transcription; this document
+supersedes it for current state, gates and standards.
 
----
-
-## Where things stand — one table
-
-| Book | Language | Pages | State |
-|---|---|---|---|
-| 10 German collections | German | 636 | **Delivered & re-upload ready** |
-| cosmopolite-a1-methode | French | 224 | **Done**, 21 disclosed gaps |
-| tricolore-1-5th-edition | French | 180 | **Done**, 6 disclosed gaps |
-| tricolore-2-5th-edition | French | 180 | **Done**, 9 disclosed gaps |
-| saison-2-methode | French | 215 | **Not started** — pure scan, no text layer |
-| cosmopolite-5-c1c2 | French | 226 | **Not started** — pure scan, no text layer |
-| conjugaison-a1-a2 | French (legacy) | 106 | 104 transcribed, **only 67 QA'd** |
-| revision-2 | French (legacy) | 181 | **Not started**, images rasterized |
-
-Totals in the deliverable: French 12 CSV + 4 MD (6,914 questions, 5,566 vocabulary);
-German 35 CSV + 12 MD (2,830 questions, 3,751 vocabulary).
-
-The two legacy French books sit on German's older `_tools/` pipeline, are **not in
-`collections.json`**, and are therefore invisible to `reconcile.py` and absent from the
-French exports. That is a deliberate carry-over, but it means "French is done" is only
-true of the three `_engine/` books.
+**Head:** `7b3b07c` on `lingotran-engine-v1.1.0`, with `main` kept level. 41 commits and
+8 tags today. Everything below is verified from disk, not from memory.
 
 ---
 
-## The verification gates — run all of these, in this order
+## 1. Where things stand
 
-This is the part that changed most in v1.1. Previously two gates existed and neither
-looked at the delivered CSVs; a whole class of defect shipped undetected as a result.
+| Language | Books | Pages | Questions | Vocabulary | State |
+|---|---|---|---|---|---|
+| German | 10 | 636 | 2,830 | 3,751 | **Delivered**, on Drive |
+| French | 3 of 6 registered | 584 | 6,914 | 5,566 | **Delivered**, on Drive |
+
+**Data quality, measured:**
+- **Rubrics** (`instruction`): 9,650 of 9,744 items (99.0%). German 100%, French 98.6%.
+  The 94 blanks are groups where the book prints no rubric at all.
+- **Translations** (`translation`): 4,303 of 4,391 entries in the two BILINGUAL books
+  (98.0%). Cosmopolite is 0% and correct — it is monolingual and prints no gloss.
+  German is 0% for the same reason and deliberately has no such column.
+
+**Both languages need a re-upload** — the Drive copies predate `instruction`,
+`translation`, `gender` and `option_d`/`option_e`. Upload from tag
+`v1.1.0-workflow-gaps-closed` (or later). The deliverable now stamps its own commit into
+`START-HERE.md`, so a Drive folder identifies the extraction that produced it.
+
+### Not started
+
+| Book | Pages | Note |
+|---|---|---|
+| `saison-2-methode` | 215 | Didier A2→B1. Pure scan, no text layer. |
+| `cosmopolite-5-c1c2` | 226 | Hachette C1–C2. Pure scan, denser. |
+| `reussir-delf-prim-a1` | 71 | **Blocked on a decision** — see §6. |
+| `conjugaison-a1-a2` | 106 | Legacy pipeline. 104 transcribed, only 67 QA'd. |
+| `revision-2` | 181 | Legacy pipeline. 0 transcribed. |
+
+The two legacy books are now registered with `pipeline: legacy-manifest`: `reconcile.py`
+reports them loudly but does not gate on them, and they are excluded from the
+deliverable. They used to be in no config at all, which read as "done" by omission.
+
+---
+
+## 2. The gates — run all of these, in this order
 
 | When | Command | Catches |
 |---|---|---|
 | after rasterizing | `pdf_to_images.py --root <lang>/extracted --audit --all` | blank / degenerate page images, **before** vision spend |
-| after a wave | `reconcile.py --root <lang>/extracted --all` | missing pages, missing QA, classification holes, **incomplete `collections.json`** |
-| after merge | `verify_answers.py --root <lang>/extracted --all` | answer shape/alignment, level tags, **answer-key rate vs declared status** |
-| before delivery | `verify_exports.py --root <lang>/extracted` | schema, taxonomy, cell hygiene, page refs, packaging drift |
-| always | `python -m unittest discover -s _engine/tests` | 91 tests |
-| frozen langs | `git status --porcelain -- <lang>/` | must be empty |
+| after a wave | `reconcile.py --root <lang>/extracted --all` | missing pages/QA, classification holes, incomplete `collections.json` |
+| after merge | `verify_answers.py --root <lang>/extracted --all --strict` | answer shape, level tags, answer-key rate vs declared status |
+| after a backfill | `verify_backfill.py --root <lang>/extracted --field <name>` | records lost, or ANY field changed besides the intended one |
+| before delivery | `verify_exports.py --root <lang>/extracted` | schema, taxonomy, cell hygiene, **coverage**, page refs, packaging drift |
+| before delivery | `check_exports_current.py --root french/extracted` | exports stale relative to their sources |
+| always | `python -m unittest discover -s _engine/tests` (131) and `-s german/extracted/_tools/tests` (13) | regressions |
 
-A non-zero exit is a hard stop, not a warning.
+CI runs all of these on every push. A non-zero exit is a hard stop.
 
-### What `verify_exports.py` enforces
-
-- **Column names are English and identical across languages** for the same sheet.
-  `chapter` is the one legitimate exception (French only — German books have no chapter
-  data, and an always-empty column reads worse than an absent one).
-- **Closed enums** — `section`, `item_type`, `word_class`, `status`, `qa`, `level`.
-- **No taxonomy value contains a non-ASCII letter, in any language.** This is the
-  generic form of the old `section: hoeren` bug, written as a property rather than a
-  per-language blocklist, so it works unchanged for Japanese, Russian or Arabic.
-  Verbatim text columns are exempt — accents in a `question` are correct.
-- **Cell hygiene** — no HTML/comments/entities, mojibake, embedded newlines, control
-  characters, or ragged whitespace in human-read columns.
-- **Open vocabularies** (`content_type`, `activity_type`, `topic`) report drift rather
-  than failing, since new categories are legitimate. Review the list — this is how
-  `defective-image` reached a shipped catalog.
+**Two of these exist because something shipped wrong.** `verify_exports`' coverage check
+exists because a German export went out at 8.7% rubric coverage while passing every other
+gate — the gates validated *shape*, not *fullness*. `check_exports_current` exists because
+nothing could tell that a committed export no longer matched its sources.
 
 ---
 
-## Standards (cumulative — v1.0's rule plus v1.1's)
+## 3. Standards (cumulative)
 
-1. **Taxonomy VALUES are English** in every language (v1.0).
-2. **Column NAMES are English and identical across languages** (v1.1). `teil` → `part`;
-   German's questions sheet gained `level`. The *values* stay verbatim — `part` still
-   reads "Teil 1", "Übung 2", "Unité 3".
+1. **Taxonomy VALUES are English** in every language. Enforced generically: no taxonomy
+   value may contain a non-ASCII letter, so it works for Japanese or Arabic untaught.
+2. **Column NAMES are English and identical across languages.** `teil` → `part` was the
+   last violation, now renamed at source (5,413 records) with the shim deleted.
 3. **`level` is a bare enum** — `A2`, never `A2 (inferred)`, never `A2+B1` (use `mixed`).
-   The transcription tag is written `[A2 (inferred)]` on the page; the record gets the
-   bare value.
-4. **`content_type` is a CLOSED list of 28 values.** Don't coin synonyms, don't put an
-   item_type there.
-5. **A finished book must declare** `book_type`, `answer_key.status`, `caveats`,
-   `accepted_qa_gaps`. `[]` = "reviewed, none"; absent = "never asked".
-6. **Empty deliverable files are not shipped** — a booklet with no questions gets no
-   questions CSV, matching how exam booklets already had no vocabulary CSV.
+4. **`content_type` is a CLOSED list of 28 values.** Don't coin synonyms.
+5. **A finished book declares** `book_type`, `answer_key.status`, `caveats`,
+   `accepted_qa_gaps`, and `expect_coverage`. `[]` = reviewed-and-none; absent = never asked.
+6. **No empty deliverable files, and no permanently-empty columns.** A booklet with no
+   questions gets no questions CSV; German gets no `translation` column.
+7. **Verbatim means verbatim.** `"Met les mots dans le bon ordre."` keeps the book's typo.
+   Nothing is translated or invented on a book's behalf.
 
 ---
 
-## Known-and-accepted (not bugs — do not "fix")
+## 4. The rule that destroys work if you get it backwards
 
-- **8 Tricolore 2 glossary pages** (167, 168, 170, 171, 173, 175, 176, 177) — every
-  attempt to reproduce their entry lists trips a hard content-filter block. Re-attempted
-  2026-08-10 in a fresh session: pages re-rasterize and read fine, output still blocked.
-  Platform-side, not content, not scan quality. Retries capped per PLAYBOOK.md.
-- **Tricolore 2 p16** — illustration labels below scan resolution.
-- **2 Cosmopolite items** (p85, p201) — `QUESTIONS_COLUMNS` carries only `option_a..c`;
-  p85 prints four options, p201 is an image-choice question. A real schema limit.
-- **High blank-answer rates** (Cosmopolite 35%, Tricolore 1 45%, Tricolore 2 58%) — all
-  three are student coursebooks whose answers live in separate teacher's guides.
-  Confirmed against TOC and back matter. `verify_answers.py` now asserts this.
+**The source of truth is the CHUNKS.** Edit `pages/_questions/chunk-*.json`, never
+`pages/_questions.json` — the merged file is regenerated and direct edits vanish silently.
 
----
+This used to differ per book (German's five Goethe books had no chunk directory). Closed
+on 2026-08-10 by giving them one, so the rule now has **no exceptions**.
 
-## Open work, in the order I'd do it
-
-1. **`instruction` backfill for the 3 finished French books.** Both enrichment prompts
-   now capture the exercise rubric, so Saison 2 and Cosmopolite 5 get it free — but the
-   finished books need a pass to gain it. **Text-only** (re-reads the `.md`, not the
-   images), so it avoids the expensive vision stage. Write to
-   `_questions/chunk-*.json`, never the merged file. Add the CSV column only when the
-   backfill lands, so all books gain it together and headers stay identical.
-   *Measured and rejected:* recovering the rubric mechanically from the page markdown
-   hits only 36%/14%/3%, and most "matches" are exercise content, not instructions —
-   rubric and content lines are typographically identical. It needs the model.
-2. **Saison 2** (215pp) then **Cosmopolite 5** (226pp), one at a time, stop-and-report
-   between. Both are pure scans. Both are clean of the colorspace defect.
-3. **Legacy French**: finish `conjugaison-a1-a2` QA (37 verdicts), decide whether
-   `revision-2` is in scope, and whether either migrates onto `_engine/`.
-4. **Drive delivery** — batched until Saison 2 + Cosmopolite 5 are done, per standing
-   instruction. Format: `french/extracted/DELIVERY-NOTES.md`.
-
-Sequencing note: doing the backfill **before** Saison 2 gives one consistent schema
-across all five French books and one re-upload. Doing Saison 2 first means re-uploading
-French twice.
+The same rule in the other direction, which has bitten both ways:
+- A tool that WRITES a derived file must not leave state the source lacks.
+  `verify_answers` once persisted fixes only to the merged file; 52 items disagreed
+  between chunk and merged before it was caught. It now writes back into the chunks.
+- After editing chunks you **must run `merge_enrich.py` before exporting**. Skipping it
+  produced the 8.7% export.
 
 ---
 
-## Traps worth carrying forward
+## 5. Known gaps — §6 of `EXTRACTION-WORKFLOW.md`
 
-- **Disk truth over agent self-reports** — unchanged from v1.0, still the rule.
-- **Edit enrichment CHUNKS, never `_questions.json`** for French — the merged file is
-  regenerated from chunks and silently erases direct edits. *German is the opposite*:
-  it has no chunk files, so `_questions.json` **is** its source of truth.
-- **The frozen dance**: flip the 7 Goethe `frozen` flags to `false`, regenerate, flip
-  back, then confirm `git diff` on `collections.json` is empty. Done three times this
-  session without incident; keep confirming the empty diff every time.
+**15 of 20 closed on 2026-08-10.** Closed rows are struck through and annotated rather
+than deleted: why a control exists is worth more than a tidy list.
+
+**5 remain open, none quick:**
+
+| Gap | Why it is still open |
+|---|---|
+| **P1** German fork | A real migration — 4 scripts, 10 delivered books, 7 frozen. Wants its own session with byte-identical output proof at each step. Blocks `check_exports_current` for German. |
+| **P5** Vocabulary covers only word-list pages (5–19% of a coursebook) | Not a code change: a new extraction mode plus agent runs over 1,200+ pages, output kept in its own sheet so curated data is not diluted. |
+| **P10** Non-Latin scripts untested | **Genuinely blocked** — cannot be validated without a real CJK or RTL book. Generic guards are in place; the rest is unknown until one arrives. |
+| **A1** No orchestrator in-repo | A build, not a fix. Would dispatch from `reconcile` gaps instead of by hand. |
+| **A6** Concurrency cap with no queue | Real infrastructure; the rolling-dispatch pattern works today. |
+
+---
+
+## 6. Open work, in the order I would do it
+
+1. **Re-upload both languages** to Drive (user action). French 12 CSV + 5 MD, German
+   35 CSV + 12 MD.
+2. **DELF Prim decision** — the PDF is missing ~20 printed pages including the entire A1
+   mock-exam section (its own Sommaire runs to p93; the file stops at p75). Source a
+   complete copy, or process this one with the truncation disclosed? Nothing starts
+   until this is answered.
+3. **Legacy French decision** — finish `conjugaison-a1-a2`, migrate it onto `_engine/`,
+   or formally park it? `revision-2` is 0/181, so "park" is the likely honest answer.
+4. **Saison 2** (215pp) then **Cosmopolite 5** (226pp), one at a time, stop-and-report
+   between. Both are pure scans; both are clean of the colorspace defect.
+5. **P1** — collapse the German fork, which then unblocks the staleness check for German.
+6. **Drive delivery message** — batched until Saison 2 + Cosmopolite 5 are done, per
+   standing instruction. Format: `french/extracted/DELIVERY-NOTES.md`.
+
+---
+
+## 7. Traps worth carrying forward
+
+- **Disk truth over agent self-reports.** Now a shipped tool, `verify_backfill.py`, not a
+  habit. Every wave this session was checked against `git HEAD`; it found zero drift, but
+  only because it was run.
 - **A source PDF can lie about its own images.** Tricolore 2 declares `/DeviceRGB` on
-  1-channel grayscale JPEGs; MuPDF renders them near-black. Handled automatically now,
-  but it is why "the scan is broken" deserves a second look — one of those pages was
-  written off as a content-filter gap for months and transcribed fine once re-rendered.
-- **Concurrent sessions racing on `_exports/`** — `git checkout --` on generated files
-  mid-regeneration is destructive. Re-running the pipeline is the fix; it is idempotent.
+  1-channel grayscale JPEGs; MuPDF rendered them near-black. One page was written off as
+  a permanent content-filter gap for weeks and transcribed fine once re-rendered.
+  `pdf_to_images.py` detects and repairs this now.
+- **The frozen dance is automated** — `german/extracted/_tools/regenerate_frozen.py`
+  restores the config in a `finally` block and verifies it byte-for-byte. Do not do it by
+  hand again.
+- **German's `merge_enrich.py` takes explicit slugs**, not `--all`; it will treat `--all`
+  as a collection name.
+- **Brief agents to read a completed chunk first** and match its convention, and to
+  **write each file as they finish it**. Both are now in the prompts. The second is why an
+  interrupted run loses one chunk instead of a whole wave.
+- **Concurrent sessions race on `_exports/`.** Also: `git add -A` in this repo will sweep
+  in another chat's in-flight site work — stage explicit paths.
