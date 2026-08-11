@@ -82,9 +82,7 @@ with their `der/die/das` + plural, and 1,356 carrying the printed example phrase
 
 ```bash
 cd german/extracted
-python _tools/catalog.py --all      # rebuild unified .md + page sheets
-python _tools/questions.py --all    # rebuild question sheets
-python _tools/vocabulary.py --all   # rebuild word sheets
+python ../../_engine/build_exports.py --root german/extracted   # all sheets, one pass
 python _tools/manifest_media.py dashboard
 ```
 

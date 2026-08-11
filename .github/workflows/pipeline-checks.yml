@@ -75,6 +75,13 @@ jobs:
       - name: Exports current with sources
         run: python _engine/check_exports_current.py --root french/extracted
 
+      # German could not be checked for staleness at all until P1: it ran a
+      # forked copy of the exporters, so a rebuild-and-compare would always have
+      # differed. Ten delivered books had zero drift detection -- the exact hole
+      # that let a German export ship at 8.7% rubric coverage.
+      - name: German exports current with sources
+        run: python _engine/check_exports_current.py --root german/extracted
+
       # Answer shape/alignment and the answer-key coverage cross-check. Now
       # BINDING (--strict): it used to exit 0 while printing NEEDS REPAIR PASS,
       # so CI could not fail on it and a flagged book could be packaged.

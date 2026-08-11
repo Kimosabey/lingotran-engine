@@ -39,7 +39,7 @@ _* this book has known limitations — see `README.md`._
 
 ## Where this came from
 
-Built from commit `337336b` (tag `v1.1.7`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
+Built from commit `4ad424b` (tag `v1.1.7`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
 
 
 ## Two things worth knowing

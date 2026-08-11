@@ -245,7 +245,12 @@ def build_questions(root, c, write=True):
         return None
     rows = [{col: '' for col in QUESTIONS_COLUMNS} | {
         'collection': slug,
-        'section': _flat(it.get('section', '')), 'part': _flat(it.get('part', it.get('teil', ''))),
+        # No `teil` fallback. All 5,413 records were renamed to `part` on
+        # 2026-08-10 (gap P3) and zero carry the old key today, so a fallback
+        # would only ever hide a record that was never migrated. German's fork
+        # dropped it then; the shared engine kept it, and adopting the engine
+        # would have quietly reintroduced the shim it had already retired.
+        'section': _flat(it.get('section', '')), 'part': _flat(it.get('part', '')),
         'item': _flat(it.get('item', '')), 'item_type': _flat(it.get('item_type', '')),
         'instruction': _flat(it.get('instruction', '')),
         'question': _flat(it.get('question', '')),

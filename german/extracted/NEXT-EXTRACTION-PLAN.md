@@ -90,15 +90,15 @@ Scanned sources will surface real repairs here — read a few before moving on.
 
 **Step 6 — unify, then enrich.**
 ```bash
-python _tools/catalog.py --all
+python ../../_engine/build_exports.py --root german/extracted   # all sheets, one pass
 ```
 then the Workflow passes: `classify` → `questions` (test booklet + kursbuch only)
 → `vocabulary` (wordlist page ranges only).
 
 **Step 7 — export + commit.**
 ```bash
-python _tools/catalog.py --all && python _tools/questions.py --all
-python _tools/vocabulary.py --all && python _tools/manifest_media.py dashboard
+python ../../_engine/build_exports.py --root german/extracted
+python _tools/manifest_media.py dashboard
 ```
 
 ---

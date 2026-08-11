@@ -208,18 +208,15 @@ python _tools/manifest_media.py init         # 2. seed resume state (idempotent)
 # 3. transcribe + QA + repair — Workflow tool (transcribe_pdf.workflow.js) OR
 #    Agent-loop: per-range subagents following _tools/agent_transcribe.md
 python _tools/manifest_media.py qa-apply     # 4. fold verdicts → frontmatter + manifest
-python _tools/catalog.py <slug>              # 5. unified .md + catalog (before enrichment)
+python ../../_engine/build_exports.py --root german/extracted   # 5. unified .md + catalog
 
 # 6. enrichment — Workflow tool OR Agent-loop (_tools/agent_enrich.md, agent_vocab.md):
 #      classify + questions → pages/_class/ , _questions/ chunks
 #      vocabulary           → pages/_vocab/chunk-*.json  (word-list pages only)
-python _tools/merge_enrich.py <slug>         # chunks → _class.json / _questions.json
+python _tools/merge_enrich.py <slug>         # chunks -> _class.json / _questions.json
 
 # 7. regenerate every deliverable
-python _tools/catalog.py <slug>
-python _tools/questions.py <slug>
-python _tools/vocabulary.py <slug>
-python _tools/merge_all.py                   # refresh global german-a1-*-all.csv
+python ../../_engine/build_exports.py --root german/extracted   # all sheets + family + global, one pass
 python _tools/package_exports.py             # rebuild the _exports/ delivery tree
 python _tools/manifest_media.py dashboard
 ```
