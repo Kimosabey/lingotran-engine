@@ -38,7 +38,7 @@ import sys
 import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from _common import parse_root, lang_slug, load_collections
+from _common import parse_root, lang_slug, load_collections, load_collection_list
 
 # Column names are English in every language and identical across languages for
 # the same sheet -- the header row is schema, not source material. `chapter` is
@@ -331,6 +331,87 @@ def check_page_refs(root, fail, note):
     note('page references: %d dangling' % dangling)
 
 
+OPTION_COLS = ['option_a', 'option_b', 'option_c', 'option_d', 'option_e']
+
+
+def check_item_shape(root, fail, note):
+    """Per-item_type cell completeness on the merged questions sheet.
+
+    Every other check here asks whether a cell is well-FORMED. This asks whether
+    the cells an item_type needs are actually THERE, which is a different failure:
+    a row can be perfectly clean and still be unusable, and nothing was measuring
+    that. A `multiple-choice` item with no options is a choice question with
+    nothing to choose from -- the reader sees `correct_answer: c` and has no way
+    to learn what c was.
+
+    Runs for every language off the merged sheet, so a new language is covered
+    the moment it has one. The fill-rate table is printed on every run whether or
+    not anything fails: rates are how you tell a real gap from a declared one --
+    French sits near 49% on correct_answer because all three books are
+    `separate-guide` and print no key, which is correct and would look alarming
+    without the number next to it.
+
+    Legitimate exceptions are declared per book in `accepted_option_gaps` as
+    "page/item", the same discipline as accepted_qa_gaps and accepted_answer_flags:
+    waived, but still printed every run.
+    """
+    # The GLOBAL sheet, not a family one. Globbing *-questions-all.csv also
+    # matches German's per-family sheets, and picking the wrong one would report
+    # a fill rate for a third of the corpus while looking authoritative.
+    # Fixtures and part-built corpora may have no collections.json at all; this
+    # check is an addition to the gate, not a new precondition for running it.
+    try:
+        cfg = load_collections(root).get('exports') or {}
+        collections_list = load_collection_list(root)
+    except (OSError, ValueError):
+        return
+    base = cfg.get('global_basename') or lang_slug(root)
+    path = os.path.join(root, '%s-questions-all.csv' % base)
+    if not os.path.exists(path):
+        return
+    with io.open(path, encoding='utf-8-sig', newline='') as f:
+        rows = list(csv.DictReader(f))
+    if not rows:
+        return
+
+    accepted = {}
+    for c in collections_list:
+        for ref in (c.get('accepted_option_gaps') or []):
+            accepted.setdefault(c['slug'], set()).add(str(ref))
+
+    by_type = {}
+    for r in rows:
+        by_type.setdefault(r.get('item_type') or '(blank)', []).append(r)
+
+    note('item shape: %d rows across %d item_type(s) in %s'
+         % (len(rows), len(by_type), os.path.basename(path)))
+    for t in sorted(by_type, key=lambda k: -len(by_type[k])):
+        rs = by_type[t]
+        filled = lambda col: 100.0 * sum(1 for r in rs if (r.get(col) or '').strip()) / len(rs)
+        note('  %-16s n=%-5d question %3.0f%%  options %3.0f%%  correct_answer %3.0f%%'
+             % (t, len(rs), filled('question'),
+                100.0 * sum(1 for r in rs if any((r.get(c) or '').strip() for c in OPTION_COLS)) / len(rs),
+                filled('correct_answer')))
+
+    missing, waived = [], 0
+    for r in by_type.get('multiple-choice', []):
+        if any((r.get(c) or '').strip() for c in OPTION_COLS):
+            continue
+        ref = '%s/%s' % (r.get('source_page'), r.get('item'))
+        if ref in accepted.get(r.get('collection'), set()):
+            waived += 1
+            continue
+        missing.append('%s %s' % (r.get('collection'), ref))
+    if waived:
+        note('  ~ %d multiple-choice item(s) waived via accepted_option_gaps '
+             '(options printed inline in the question)' % waived)
+    if missing:
+        fail(path, 'multiple-choice with no options at all (%d): %s%s -- either the '
+                   'options were not captured, or the item_type is wrong; waive in '
+                   'accepted_option_gaps if the options are printed inline in the question'
+             % (len(missing), ', '.join(missing[:6]), ' ...' if len(missing) > 6 else ''))
+
+
 def check_packaging(root, fail, note):
     """A packaged per-book file is a copy of its per-book source; any
     difference means the package is stale relative to the data."""
@@ -408,6 +489,7 @@ def main(argv):
 
     check_coverage(root, fail, note)
     check_page_refs(root, fail, note)
+    check_item_shape(root, fail, note)
     check_packaging(root, fail, note)
 
     if drift and not quiet:
