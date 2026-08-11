@@ -2681,7 +2681,7 @@
       "option_a": "au château",
       "option_b": "dans un parc d'attractions",
       "option_c": "à la cathédrale",
-      "correct_answer": "b",
+      "correct_answer": "dans un parc d'attractions",
       "level": "A2",
       "topic": "travel",
       "source_page": "099"
@@ -2801,7 +2801,7 @@
       "option_a": "train",
       "option_b": "car",
       "option_c": "voiture",
-      "correct_answer": "b",
+      "correct_answer": "car",
       "level": "A2",
       "topic": "vacation",
       "source_page": "100"
@@ -4466,7 +4466,7 @@
       "option_a": "grand",
       "option_b": "petit",
       "option_c": "de taille moyenne",
-      "correct_answer": "a",
+      "correct_answer": "grand",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4481,7 +4481,7 @@
       "option_a": "verts",
       "option_b": "gris",
       "option_c": "bleus",
-      "correct_answer": "c",
+      "correct_answer": "bleus",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4496,7 +4496,7 @@
       "option_a": "courts",
       "option_b": "frisés",
       "option_c": "longs",
-      "correct_answer": "a",
+      "correct_answer": "courts",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4511,7 +4511,7 @@
       "option_a": "rond",
       "option_b": "long",
       "option_c": "carré",
-      "correct_answer": "c",
+      "correct_answer": "carré",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4526,7 +4526,7 @@
       "option_a": "brun",
       "option_b": "blanc",
       "option_c": "noir",
-      "correct_answer": "b",
+      "correct_answer": "blanc",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4541,7 +4541,7 @@
       "option_a": "grosse",
       "option_b": "mince",
       "option_c": "de taille moyenne",
-      "correct_answer": "c",
+      "correct_answer": "de taille moyenne",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4556,7 +4556,7 @@
       "option_a": "marron",
       "option_b": "gris",
       "option_c": "verts",
-      "correct_answer": "b",
+      "correct_answer": "gris",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4571,7 +4571,7 @@
       "option_a": "blanche",
       "option_b": "noire",
       "option_c": "rouge",
-      "correct_answer": "b",
+      "correct_answer": "noire",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4586,7 +4586,7 @@
       "option_a": "blonds",
       "option_b": "noirs",
       "option_c": "bruns",
-      "correct_answer": "b",
+      "correct_answer": "noirs",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -4601,7 +4601,7 @@
       "option_a": "brunes",
       "option_b": "blanches",
       "option_c": "rouges",
-      "correct_answer": "c",
+      "correct_answer": "rouges",
       "level": "A2",
       "topic": "personal-info",
       "source_page": "109"
@@ -6611,7 +6611,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "faux",
+      "correct_answer": "Faux",
       "level": "A2",
       "topic": "health",
       "source_page": "117"
@@ -6641,7 +6641,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "vrai",
+      "correct_answer": "Vrai",
       "level": "A2",
       "topic": "health",
       "source_page": "117"
@@ -6656,7 +6656,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "faux",
+      "correct_answer": "Faux",
       "level": "A2",
       "topic": "health",
       "source_page": "117"
@@ -6671,7 +6671,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "faux",
+      "correct_answer": "Faux",
       "level": "A2",
       "topic": "health",
       "source_page": "117"
@@ -7271,7 +7271,7 @@
       "option_a": "passé",
       "option_b": "passez",
       "option_c": "passer",
-      "correct_answer": "a",
+      "correct_answer": "passé",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"
@@ -7286,7 +7286,7 @@
       "option_a": "vois",
       "option_b": "voir",
       "option_c": "vu",
-      "correct_answer": "c",
+      "correct_answer": "vu",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"
@@ -7301,7 +7301,7 @@
       "option_a": "fais",
       "option_b": "fait",
       "option_c": "faire",
-      "correct_answer": "b",
+      "correct_answer": "fait",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"
@@ -7316,7 +7316,7 @@
       "option_a": "aller",
       "option_b": "allés",
       "option_c": "allez",
-      "correct_answer": "b",
+      "correct_answer": "allés",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"
@@ -7331,7 +7331,7 @@
       "option_a": "baguette",
       "option_b": "bateau",
       "option_c": "beurre",
-      "correct_answer": "b",
+      "correct_answer": "bateau",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"
@@ -7346,7 +7346,7 @@
       "option_a": "rentrés",
       "option_b": "rentrez",
       "option_c": "rentrer",
-      "correct_answer": "a",
+      "correct_answer": "rentrés",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"
@@ -7361,7 +7361,7 @@
       "option_a": "café",
       "option_b": "carte",
       "option_c": "car",
-      "correct_answer": "c",
+      "correct_answer": "car",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"
@@ -7376,7 +7376,7 @@
       "option_a": "jouent",
       "option_b": "jouons",
       "option_c": "joué",
-      "correct_answer": "c",
+      "correct_answer": "joué",
       "level": "A2",
       "topic": "vacation",
       "source_page": "120"

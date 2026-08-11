@@ -4061,7 +4061,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "faux",
+      "correct_answer": "Faux",
       "level": "B1",
       "topic": "food",
       "source_page": "078"
@@ -4076,7 +4076,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "vrai",
+      "correct_answer": "Vrai",
       "level": "B1",
       "topic": "food",
       "source_page": "078"
@@ -4091,7 +4091,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "vrai",
+      "correct_answer": "Vrai",
       "level": "B1",
       "topic": "food",
       "source_page": "078"
@@ -4106,7 +4106,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "faux",
+      "correct_answer": "Faux",
       "level": "B1",
       "topic": "food",
       "source_page": "078"
@@ -4121,7 +4121,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "vrai",
+      "correct_answer": "Vrai",
       "level": "B1",
       "topic": "food",
       "source_page": "078"
@@ -4136,7 +4136,7 @@
       "option_a": "",
       "option_b": "",
       "option_c": "",
-      "correct_answer": "faux",
+      "correct_answer": "Faux",
       "level": "B1",
       "topic": "food",
       "source_page": "078"
@@ -4931,7 +4931,7 @@
       "option_a": "Lundi soir.",
       "option_b": "Mardi à midi.",
       "option_c": "Mardi soir, après le dîner.",
-      "correct_answer": "a",
+      "correct_answer": "Lundi soir.",
       "level": "A2",
       "topic": "health",
       "source_page": "081"
@@ -4946,7 +4946,7 @@
       "option_a": "Des sandwichs au saucisson.",
       "option_b": "Des sandwichs aux sardines.",
       "option_c": "Des sandwichs au jambon.",
-      "correct_answer": "b",
+      "correct_answer": "Des sandwichs aux sardines.",
       "level": "A2",
       "topic": "health",
       "source_page": "081"
@@ -4961,7 +4961,7 @@
       "option_a": "M. et Mme Corot.",
       "option_b": "Le chat.",
       "option_c": "M. Corot.",
-      "correct_answer": "b",
+      "correct_answer": "Le chat.",
       "level": "A2",
       "topic": "health",
       "source_page": "081"
@@ -4976,7 +4976,7 @@
       "option_a": "Dans le jardin.",
       "option_b": "Dans la rue.",
       "option_c": "Dans le garage.",
-      "correct_answer": "c",
+      "correct_answer": "Dans le garage.",
       "level": "A2",
       "topic": "health",
       "source_page": "081"
@@ -4991,7 +4991,7 @@
       "option_a": "Il a été malade au bureau.",
       "option_b": "Il a mangé des sardines.",
       "option_c": "Sa femme a téléphoné au médecin.",
-      "correct_answer": "b",
+      "correct_answer": "Il a mangé des sardines.",
       "level": "A2",
       "topic": "health",
       "source_page": "081"
@@ -5006,7 +5006,7 @@
       "option_a": "M. Corot.",
       "option_b": "Le médecin.",
       "option_c": "L'épicier.",
-      "correct_answer": "c",
+      "correct_answer": "L'épicier.",
       "level": "A2",
       "topic": "health",
       "source_page": "081"
@@ -5021,7 +5021,7 @@
       "option_a": "Oui, j'ai déjeuné à la cantine.",
       "option_b": "Non, j'ai mangé mes sandwichs aux sardines.",
       "option_c": "",
-      "correct_answer": "b",
+      "correct_answer": "Non, j'ai mangé mes sandwichs aux sardines.",
       "level": "A2",
       "topic": "health",
       "source_page": "081"
@@ -6791,7 +6791,7 @@
       "option_a": "descendu",
       "option_b": "perdu",
       "option_c": "aboli",
-      "correct_answer": "b",
+      "correct_answer": "perdu",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6806,7 +6806,7 @@
       "option_a": "ont",
       "option_b": "as",
       "option_c": "a",
-      "correct_answer": "c",
+      "correct_answer": "ont",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6821,7 +6821,7 @@
       "option_a": "appelé",
       "option_b": "choisi",
       "option_c": "acheté",
-      "correct_answer": "a",
+      "correct_answer": "appelé",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6836,7 +6836,7 @@
       "option_a": "attendu",
       "option_b": "entendu",
       "option_c": "vendu",
-      "correct_answer": "b",
+      "correct_answer": "entendu",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6851,7 +6851,7 @@
       "option_a": "ont",
       "option_b": "avons",
       "option_c": "avez",
-      "correct_answer": "a",
+      "correct_answer": "ont",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6866,7 +6866,7 @@
       "option_a": "préparé",
       "option_b": "mangé",
       "option_c": "imaginé",
-      "correct_answer": "c",
+      "correct_answer": "imaginé",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6881,7 +6881,7 @@
       "option_a": "oublié",
       "option_b": "trouvé",
       "option_c": "lavé",
-      "correct_answer": "b",
+      "correct_answer": "trouvé",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6896,7 +6896,7 @@
       "option_a": "ai",
       "option_b": "a",
       "option_c": "ont",
-      "correct_answer": "c",
+      "correct_answer": "ont",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"
@@ -6911,7 +6911,7 @@
       "option_a": "commandé",
       "option_b": "dessiné",
       "option_c": "trouvé",
-      "correct_answer": "c",
+      "correct_answer": "trouvé",
       "level": "A2",
       "topic": "mixed",
       "source_page": "089"

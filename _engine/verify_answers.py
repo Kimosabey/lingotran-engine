@@ -38,6 +38,7 @@ Usage:
     python _engine/verify_answers.py --root french/extracted --all
     python _engine/verify_answers.py --root french/extracted <slug> [<slug> ...]
 """
+import glob
 import json
 import os
 import re
@@ -92,6 +93,45 @@ VALID_ITEM_TYPES = {'multiple-choice', 'matching', 'true-false', 'fill-in', 'ord
 
 def _letter_option(item, letter):
     return item.get('option_' + letter.lower().rstrip('.'), '')
+
+
+
+def _persist_fixes(root, slug, data, merged_path):
+    """Write auto-fixes back to whichever file is authoritative for this book.
+
+    Returns a short description of what was written, for the caller to print.
+    """
+    chunk_dir = os.path.join(root, slug, 'pages', '_questions')
+    chunks = sorted(glob.glob(os.path.join(chunk_dir, 'chunk-*.json')))
+    if not chunks:
+        atomic_write_text(merged_path, json.dumps(data, ensure_ascii=False, indent=1))
+        return '_questions.json (no chunk dir - it is the source of truth here)'
+
+    # Index the corrected items so each chunk can be updated in place. Keyed on
+    # (source_page, item, question) rather than position: merge order is stable
+    # today, but a key that survives reordering is worth the few extra bytes.
+    fixed_by_key = {}
+    for it in data.get('items', []):
+        fixed_by_key[(str(it.get('source_page')), str(it.get('item')),
+                      (it.get('question') or '')[:80])] = it.get('correct_answer')
+
+    touched = 0
+    for cp in chunks:
+        with open(cp, encoding='utf-8') as f:
+            cdata = json.load(f)
+        items = cdata.get('items', [])
+        changed = False
+        for it in items:
+            k = (str(it.get('source_page')), str(it.get('item')),
+                 (it.get('question') or '')[:80])
+            if k in fixed_by_key and it.get('correct_answer') != fixed_by_key[k]:
+                it['correct_answer'] = fixed_by_key[k]
+                changed = True
+        if changed:
+            atomic_write_text(cp, json.dumps(cdata, ensure_ascii=False, indent=2))
+            touched += 1
+    atomic_write_text(merged_path, json.dumps(data, ensure_ascii=False, indent=1))
+    return '%d chunk file(s) + _questions.json' % touched
 
 
 def verify_collection(root, c, cfg=None):
@@ -227,7 +267,21 @@ def verify_collection(root, c, cfg=None):
                           % (ak, rate))
 
     if fixed:
-        atomic_write_text(path, json.dumps(data, ensure_ascii=False, indent=1))
+        # Persist to the SOURCE OF TRUTH, not just the merged file.
+        #
+        # This used to write only pages/_questions.json -- which merge_enrich.py
+        # regenerates from pages/_questions/chunk-*.json. Every re-merge silently
+        # reverted every auto-fix, so a `merge_enrich -> build_exports` run that
+        # skipped this step shipped "vrai" instead of "Vrai" and bare-letter MC
+        # answers. Measured before the fix: 52 items in tricolore-1 where the
+        # chunk and the merged file disagreed. It is the same trap PLAYBOOK.md
+        # already records for repair passes -- a derived file must never hold
+        # state that its source does not.
+        #
+        # Books with no chunk directory (German's 5 Goethe exam books) keep the
+        # merged file as their genuine source of truth, so it is written there.
+        written = _persist_fixes(root, slug, data, path)
+        print('%-32s   %d auto-fix(es) written to %s' % ('', fixed, written))
 
     tag = 'CLEAN' if not issues else 'NEEDS REPAIR PASS'
     print('%-32s %4d items | %d auto-fixed | %d flagged for review -> %s'

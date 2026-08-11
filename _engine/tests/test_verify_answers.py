@@ -268,3 +268,72 @@ class LanguageAgnosticTrueFalseTests(unittest.TestCase):
 
     def test_unknown_language_falls_back_to_english_terms(self):
         self.assertEqual(self._run('true', {}), 'True')
+
+
+class FixPersistenceTests(unittest.TestCase):
+    """Auto-fixes must land in the SOURCE OF TRUTH, not only the merged file.
+
+    verify_answers used to write only pages/_questions.json, which
+    merge_enrich.py regenerates from pages/_questions/chunk-*.json -- so every
+    re-merge silently reverted every fix. A `merge_enrich -> build_exports` run
+    that skipped this step shipped "vrai" instead of "Vrai" and bare-letter
+    multiple-choice answers. Measured before the fix: 52 items in tricolore-1
+    where the chunk and the merged file disagreed.
+    """
+
+    def setUp(self):
+        self.tmpdir = tempfile.mkdtemp()
+        self.slug = 'test-collection'
+        self.pages = os.path.join(self.tmpdir, self.slug, 'pages')
+        os.makedirs(self.pages)
+
+    def tearDown(self):
+        shutil.rmtree(self.tmpdir, ignore_errors=True)
+
+    def _item(self, answer):
+        return {'source_page': '007', 'item': '1', 'item_type': 'true-false',
+                'question': 'Il fait beau.', 'correct_answer': answer}
+
+    def _write(self, items, with_chunks):
+        with open(os.path.join(self.pages, '_questions.json'), 'w', encoding='utf-8') as f:
+            json.dump({'items': items}, f)
+        if with_chunks:
+            cdir = os.path.join(self.pages, '_questions')
+            os.makedirs(cdir, exist_ok=True)
+            with open(os.path.join(cdir, 'chunk-001-030.json'), 'w', encoding='utf-8') as f:
+                json.dump({'items': [dict(i) for i in items]}, f)
+
+    def _chunk_answer(self):
+        p = os.path.join(self.pages, '_questions', 'chunk-001-030.json')
+        with open(p, encoding='utf-8') as f:
+            return json.load(f)['items'][0]['correct_answer']
+
+    def test_fix_is_written_back_into_the_chunk(self):
+        self._write([self._item('vrai')], with_chunks=True)
+        verify_collection(self.tmpdir, self.slug, FR)
+        self.assertEqual(self._chunk_answer(), 'Vrai',
+                         'the chunk is the source of truth and must carry the fix')
+
+    def test_fix_survives_a_regenerate_from_chunks(self):
+        """The actual failure mode: merged file rebuilt from chunks afterwards."""
+        self._write([self._item('faux')], with_chunks=True)
+        verify_collection(self.tmpdir, self.slug, FR)
+        with open(os.path.join(self.pages, '_questions', 'chunk-001-030.json'), encoding='utf-8') as f:
+            regenerated = json.load(f)['items'][0]['correct_answer']
+        self.assertEqual(regenerated, 'Faux')
+
+    def test_book_without_chunks_still_writes_the_merged_file(self):
+        """German's 5 Goethe exam books have no chunk dir -- there the merged
+        file genuinely IS the source of truth."""
+        self._write([self._item('vrai')], with_chunks=False)
+        verify_collection(self.tmpdir, self.slug, FR)
+        with open(os.path.join(self.pages, '_questions.json'), encoding='utf-8') as f:
+            self.assertEqual(json.load(f)['items'][0]['correct_answer'], 'Vrai')
+
+    def test_unrelated_chunk_fields_are_untouched(self):
+        self._write([self._item('vrai')], with_chunks=True)
+        verify_collection(self.tmpdir, self.slug, FR)
+        with open(os.path.join(self.pages, '_questions', 'chunk-001-030.json'), encoding='utf-8') as f:
+            it = json.load(f)['items'][0]
+        self.assertEqual(it['question'], 'Il fait beau.')
+        self.assertEqual(it['source_page'], '007')

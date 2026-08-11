@@ -85,6 +85,17 @@ by refusing to declare victory without an explicit final check:
   chunks by splitting the corrected merged file back into its original
   chunk boundaries before running `merge_enrich.py` again) — never the
   merged output.
+- **A derived file must never hold state its source does not.** The rule above
+  says never EDIT a merged file; the same trap catches tools that WRITE one.
+  `verify_answers.py` persisted its auto-fixes only to `_questions.json`, which
+  `merge_enrich.py` regenerates from `_questions/chunk-*.json` -- so every
+  re-merge silently reverted them, and a `merge_enrich -> build_exports` run
+  that skipped the verify step shipped "vrai" instead of "Vrai" and bare-letter
+  MC answers. Measured when found: 52 items in tricolore-1 where chunk and
+  merged disagreed. Fixed 2026-08-10 -- fixes are now written back into the
+  chunks, falling back to the merged file only for books that genuinely have no
+  chunk directory (German's 5 Goethe exam books). If you add another tool that
+  rewrites enrichment data, make it persist to the chunks too.
 - **Answer alignment, not just answer presence.** A `correct_answer` being
   non-empty doesn't mean it's usable — French's run found a real, if
   low-prevalence (0.8-1.4% of items), pattern: multiple-choice answers
