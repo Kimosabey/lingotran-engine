@@ -352,3 +352,37 @@ def split_gender(word):
         return word, ''
     m = GENDER_RE.search(word)
     return word, (m.group(1) if m else '')
+
+
+# Columns whose emptiness is a property of the BOOK, not a defect, so an
+# unexplained blank reads as missing data to whoever opens the sheet.
+SPARSE_CANDIDATES = ('translation', 'gender', 'plural', 'example', 'article')
+
+
+def sparse_note(rows, columns=SPARSE_CANDIDATES, threshold=10.0):
+    """Which of `columns` are empty or near-empty in `rows`? Closes gap P7.
+
+    Books differ in what they print: Cosmopolite prints no gloss at all, one
+    Tricolore glossary prints no examples, several German books print no
+    plurals. Those columns arrive blank and an SME cannot tell "the book does
+    not print this" from "the extraction missed it".
+
+    Computed from the shipped rows rather than hand-maintained, so it can never
+    drift from what is actually in the file. Returns a list of human-readable
+    strings, empty when nothing is sparse.
+    """
+    if not rows:
+        return []
+    n = len(rows)
+    out = []
+    for col in columns:
+        if col not in rows[0]:
+            continue
+        filled = sum(1 for r in rows if (r.get(col) or '').strip())
+        pct = 100.0 * filled / n
+        if filled == 0:
+            out.append('`%s` is empty throughout — this book prints none' % col)
+        elif pct < threshold:
+            out.append('`%s` is filled for only %.0f%% of entries — the book prints it rarely'
+                       % (col, pct))
+    return out

@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "vocabulary",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Kreuz an.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Kreuz an.",
@@ -31,7 +31,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Kreuz an.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Kreuz an.",
@@ -59,7 +59,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Kreuz an.",
@@ -73,7 +73,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "ordering",
       "question": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge: TUENG GAT!",
@@ -87,7 +87,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "ordering",
       "question": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge: OLLAH!",
@@ -101,7 +101,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "ordering",
       "question": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge: UAF DERWIESEHNE!",
@@ -115,7 +115,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "ordering",
       "question": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge: CHÜSST!",
@@ -129,7 +129,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "ordering",
       "question": "Welche Begrüßung steckt dahinter? Bringe die Buchstaben in die richtige Reihenfolge: RÜßG CHID!",
@@ -143,7 +143,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "short-answer",
       "question": "Wie begrüßt du diese Personen? Wie verabschiedest du diese Personen? — Deine Freundin Lisa",
@@ -157,7 +157,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "short-answer",
       "question": "Wie begrüßt du diese Personen? Wie verabschiedest du diese Personen? — Deinen Deutschlehrer Herrn Scholz",
@@ -171,7 +171,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "short-answer",
       "question": "Wie begrüßt du diese Personen? Wie verabschiedest du diese Personen? — Deine Klassenkameraden Anna und Marco",
@@ -185,7 +185,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 06:30",
@@ -199,7 +199,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 10:00",
@@ -213,7 +213,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 19:45",
@@ -227,7 +227,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 07:15",
@@ -241,7 +241,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 17:30",
@@ -255,7 +255,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "6",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 22:30",
@@ -269,7 +269,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "7",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 14:30",
@@ -283,7 +283,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "8",
       "item_type": "fill-in",
       "question": "Wie begrüßt man sich im Verlauf des Tages? — 24:00",
@@ -297,7 +297,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Wie heißt du?",
@@ -311,7 +311,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Tag! Bist du Stefanie?",
@@ -325,7 +325,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Heißt du Lara?",
@@ -339,7 +339,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Hallo! Wer bist du?",
@@ -353,7 +353,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Bist du Jakob?",
@@ -367,7 +367,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: Hallo! Ich bin Max. ___ heißt du?",
@@ -381,7 +381,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: Wie heißt ___?",
@@ -395,7 +395,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: Hallo! ___ Lukas.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: Max, wie ___ bist du?",
@@ -423,7 +423,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: Ich ___ .",
@@ -437,7 +437,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "6",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: Ich bin auch ___ .",
@@ -451,7 +451,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "7",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: ___ , Max.",
@@ -465,7 +465,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "8",
       "item_type": "fill-in",
       "question": "Ergänze den Dialog: Tschüs, ___ .",
@@ -479,7 +479,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "short-answer",
       "question": "Stell die Fragen: Hallo! Ich bin Lara. — ___ ? (Ich heiße Tobias.)",
@@ -493,7 +493,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "2",
       "item_type": "short-answer",
       "question": "Stell die Fragen: Tobias, ___ ? (Ich bin 12.)",
@@ -507,7 +507,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "3",
       "item_type": "short-answer",
       "question": "Stell die Fragen: Und ___ ? (Ich wohne in Graz.)",
@@ -521,7 +521,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "4",
       "item_type": "short-answer",
       "question": "Stell die Fragen: Graz? ___ denn? (Graz liegt in Österreich.)",
@@ -535,7 +535,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "5",
       "item_type": "short-answer",
       "question": "Stell die Fragen: ___ ihr zu Hause? (Wir sind vier: mein Vater, meine Mutter, meine Schwester Marion und ich.)",
@@ -549,7 +549,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "open-ended",
       "question": "Ergänze den Steckbrief mit deinen persönlichen Daten. Stell dich anschließend vor.",
@@ -563,7 +563,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "1",
       "item_type": "ordering",
       "question": "Hör dir das Interview an und bringe die einzelnen Teile in die richtige Reihenfolge.",
@@ -577,7 +577,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Name",
@@ -591,7 +591,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Spitzname",
@@ -605,7 +605,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Beruf",
@@ -619,7 +619,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Wohnort",
@@ -633,7 +633,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "6",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Alter",
@@ -647,7 +647,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "7",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Lieblingsessen",
@@ -661,7 +661,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "8",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Lieblingsgetränk",
@@ -675,7 +675,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "9",
       "item_type": "fill-in",
       "question": "Ergänze den Steckbrief (Interview): Großer Hit",
@@ -689,7 +689,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 10",
+      "part": "Übung 10",
       "item": "1",
       "item_type": "writing-task",
       "question": "Beim Surfen im Internet hast du folgende E-Mails gefunden. Schreib eine ähnliche E-Mail.",
@@ -703,7 +703,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "1",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Mutter",
@@ -717,7 +717,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "2",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Bruder",
@@ -731,7 +731,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "3",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Opa",
@@ -745,7 +745,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Eltern",
@@ -759,7 +759,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "5",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Onkel",
@@ -773,7 +773,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "6",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Vater",
@@ -787,7 +787,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "7",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Schwester",
@@ -801,7 +801,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "8",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Oma",
@@ -815,7 +815,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "9",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Großeltern",
@@ -829,7 +829,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "10",
       "item_type": "fill-in",
       "question": "Wie ist der deutsche Artikel? — Tante",
@@ -843,7 +843,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 12",
+      "part": "Übung 12",
       "item": "1",
       "item_type": "fill-in",
       "question": "Schreib die Verwandtschaftsbezeichnungen mit Artikel in die Tabelle: Eltern",
@@ -857,7 +857,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 12",
+      "part": "Übung 12",
       "item": "2",
       "item_type": "fill-in",
       "question": "Schreib die Verwandtschaftsbezeichnungen mit Artikel in die Tabelle: Großeltern",
@@ -871,7 +871,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 12",
+      "part": "Übung 12",
       "item": "3",
       "item_type": "fill-in",
       "question": "Schreib die Verwandtschaftsbezeichnungen mit Artikel in die Tabelle: Geschwister",
@@ -885,7 +885,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 12",
+      "part": "Übung 12",
       "item": "4",
       "item_type": "fill-in",
       "question": "Schreib die Verwandtschaftsbezeichnungen mit Artikel in die Tabelle: Verwandte",
@@ -899,7 +899,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 13",
+      "part": "Übung 13",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Stell die Familie Beckmann vor.",
@@ -913,7 +913,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "1",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Sie ist die Mutter von Klaus Beckmann.",
@@ -927,7 +927,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "2",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Er ist der Bruder von Klaus Beckmann.",
@@ -941,7 +941,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "3",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Er ist der Opa von Sophie Beckmann.",
@@ -955,7 +955,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "4",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Er ist der Sohn von Elfriede Beckmann.",
@@ -969,7 +969,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "5",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Sie ist die Tante von Andreas Beckmann.",
@@ -983,7 +983,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "6",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Er ist der Vater von Renate Richter.",
@@ -997,7 +997,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "7",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Er ist der Onkel von Martin Beckmann.",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "8",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Sie ist die Oma von Sophie Beckmann.",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "9",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Sie ist die Schwester von Petra Richter.",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "10",
       "item_type": "short-answer",
       "question": "Schau dir den Stammbaum an und finde heraus, wer gemeint ist: Sie ist die Tochter von Petra Richter.",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 15",
+      "part": "Übung 15",
       "item": "1",
       "item_type": "matching",
       "question": "Finde heraus, wer wie viele Geschwister hat: Lena",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 15",
+      "part": "Übung 15",
       "item": "2",
       "item_type": "matching",
       "question": "Finde heraus, wer wie viele Geschwister hat: Steffi",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 15",
+      "part": "Übung 15",
       "item": "3",
       "item_type": "matching",
       "question": "Finde heraus, wer wie viele Geschwister hat: Sebastian",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 15",
+      "part": "Übung 15",
       "item": "4",
       "item_type": "matching",
       "question": "Finde heraus, wer wie viele Geschwister hat: Markus",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 15",
+      "part": "Übung 15",
       "item": "5",
       "item_type": "matching",
       "question": "Finde heraus, wer wie viele Geschwister hat: Florian",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 16",
+      "part": "Übung 16",
       "item": "1",
       "item_type": "open-ended",
       "question": "Hast du Geschwister? Wie viele Geschwister hast du? Oder bist du ein Einzelkind?",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "1",
       "item_type": "short-answer",
       "question": "Lies den Text (Familie Zidek) und beantworte: Wie viele Personen sind bei Familie Zidek zu Hause?",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "2",
       "item_type": "short-answer",
       "question": "Lies den Text (Familie Zidek) und beantworte: Wie heißen die Töchter? Wie alt sind sie?",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "3",
       "item_type": "short-answer",
       "question": "Lies den Text (Familie Zidek) und beantworte: Hat Familie Zidek Tiere zu Hause?",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "4",
       "item_type": "short-answer",
       "question": "Lies den Text (Familie Zidek) und beantworte: Wo wohnt Familie Zidek?",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "5",
       "item_type": "short-answer",
       "question": "Lies den Text (Familie Zidek) und beantworte: Was ist Herr Zidek von Beruf? Und Frau Zidek?",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "6",
       "item_type": "short-answer",
       "question": "Lies den Text (Familie Zidek) und beantworte: Was machen Michaela und Melanie?",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 18",
+      "part": "Übung 18",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Stell die folgenden Personen vor (Stefan Weigel, Angelika Meier, Markus Krause, Petra Will).",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 19",
+      "part": "Übung 19",
       "item": "1",
       "item_type": "short-answer",
       "question": "Interview mit dem Schuldirektor. Hör zu und mach Notizen (Wohnort, Alter, verheiratet, Kinder, Hobbys, Musik, E-Mail).",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 20",
+      "part": "Übung 20",
       "item": "1",
       "item_type": "writing-task",
       "question": "Ein Artikel für die Schülerzeitung. Unser Schuldirektor heißt Peter Kuppers. Er ist ___",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 21",
+      "part": "Übung 21",
       "item": "1",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Wer sind Sie?",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 21",
+      "part": "Übung 21",
       "item": "2",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Sind Sie verheiratet?",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 21",
+      "part": "Übung 21",
       "item": "3",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Haben Sie Kinder?",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 21",
+      "part": "Übung 21",
       "item": "4",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Wie alt sind Sie?",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 21",
+      "part": "Übung 21",
       "item": "5",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Wo wohnen Sie?",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 21",
+      "part": "Übung 21",
       "item": "6",
       "item_type": "matching",
       "question": "Verbinde die Fragen mit den passenden Antworten: Haben Sie eine E-Mail-Adresse?",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 22",
+      "part": "Übung 22",
       "item": "1",
       "item_type": "short-answer",
       "question": "Stell Fragen in der Höflichkeitsform: ___ ? — Ich heiße Peter Weigel.",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 22",
+      "part": "Übung 22",
       "item": "2",
       "item_type": "short-answer",
       "question": "Stell Fragen in der Höflichkeitsform: ___ ? — Ich bin Schuldirektor von der Goethe-Schule.",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 22",
+      "part": "Übung 22",
       "item": "3",
       "item_type": "short-answer",
       "question": "Stell Fragen in der Höflichkeitsform: ___ ? — In Hanau. Das liegt bei Frankfurt.",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 22",
+      "part": "Übung 22",
       "item": "4",
       "item_type": "short-answer",
       "question": "Stell Fragen in der Höflichkeitsform: ___ ? — Nein, ich bin aus Hamburg.",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 22",
+      "part": "Übung 22",
       "item": "5",
       "item_type": "short-answer",
       "question": "Stell Fragen in der Höflichkeitsform: ___ ? — Nein, ich bin Single.",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 22",
+      "part": "Übung 22",
       "item": "6",
       "item_type": "short-answer",
       "question": "Stell Fragen in der Höflichkeitsform: ___ ? — Ich spiele Tennis und höre klassische Musik.",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 23",
+      "part": "Übung 23",
       "item": "1",
       "item_type": "short-answer",
       "question": "Hör das Interview an und ergänze den Steckbrief (Name, Alter, Wohnort, Handy, Beruf, Familie).",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "1",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: München",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "2",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Berlin",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "3",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Innsbruck",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "4",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Frankfurt",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "5",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Lugano",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "6",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Wien",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "7",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Zürich",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "8",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Augsburg",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 24",
+      "part": "Übung 24",
       "item": "9",
       "item_type": "matching",
       "question": "Schau auf der Karte, wo die Städte liegen, und schreib Sätze wie im Beispiel: Hamburg",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 25",
+      "part": "Übung 25",
       "item": "1",
       "item_type": "matching",
       "question": "Und wo liegen diese Städte? Dresden",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 25",
+      "part": "Übung 25",
       "item": "2",
       "item_type": "matching",
       "question": "Und wo liegen diese Städte? Konstanz",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 25",
+      "part": "Übung 25",
       "item": "3",
       "item_type": "matching",
       "question": "Und wo liegen diese Städte? Flensburg",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 25",
+      "part": "Übung 25",
       "item": "4",
       "item_type": "matching",
       "question": "Und wo liegen diese Städte? Aachen",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 25",
+      "part": "Übung 25",
       "item": "5",
       "item_type": "matching",
       "question": "Und wo liegen diese Städte? Erfurt",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 26",
+      "part": "Übung 26",
       "item": "1",
       "item_type": "short-answer",
       "question": "Antworte wie im Beispiel: Liegt Hamburg in Norddeutschland?",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 26",
+      "part": "Übung 26",
       "item": "2",
       "item_type": "short-answer",
       "question": "Antworte wie im Beispiel: Liegt Konstanz in Ostdeutschland?",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 26",
+      "part": "Übung 26",
       "item": "3",
       "item_type": "short-answer",
       "question": "Antworte wie im Beispiel: Liegt München in Süddeutschland?",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 26",
+      "part": "Übung 26",
       "item": "4",
       "item_type": "short-answer",
       "question": "Antworte wie im Beispiel: Liegt Zürich in Österreich?",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 26",
+      "part": "Übung 26",
       "item": "5",
       "item_type": "short-answer",
       "question": "Antworte wie im Beispiel: Liegt Wien in Österreich?",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 26",
+      "part": "Übung 26",
       "item": "6",
       "item_type": "short-answer",
       "question": "Antworte wie im Beispiel: Liegt Dresden in Westdeutschland?",

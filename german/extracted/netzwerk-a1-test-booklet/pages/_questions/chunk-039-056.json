@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "matching",
       "question": "Düsseldorf hat ca. 620.000 Einwohner. Und jedes Jahr kommen viele Touristen nach Düsseldorf. In der Stadt ist es nie langweilig: Eine Messe, Karneval oder Kirmes – hier ist immer etwas los.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "matching",
       "question": "Düsseldorf liegt am Rhein. Der Fluss war immer schon wichtig für die Stadt. Am Rhein kann man sehr schön spazieren gehen. Viele machen hier Sport, feiern Partys oder grillen.",
@@ -31,7 +31,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "matching",
       "question": "Die Kö, eigentlich Königsallee, ist eine große Einkaufsstraße. Sie ist international bekannt für Designermode. Aber es gibt auch andere Viertel und Einkaufsstraßen. Dort findet man auch Mode für wenig Geld.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "matching",
       "question": "In Düsseldorf gibt es 22 Hochschulen. Sehr bekannt sind die Kunstakademie Düsseldorf und die Heinrich-Heine-Universität. Hier kann man zum Beispiel Medizin, Recht, Mathematik und Philosophie studieren.",
@@ -59,7 +59,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "matching",
       "question": "In Düsseldorf gibt es viele Kneipen: von traditionell bis jung und kreativ. Es ist für jeden etwas dabei. Und probieren Sie einen Sauerbraten in einem Brauhaus. Das ist eine Spezialität hier und sehr lecker!",
@@ -73,7 +73,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
       "question": "Schreiben Sie eine Antwort an Elias. Was ziehst du bei einem Bewerbungsgespräch an? Welche Farben findest du gut? Wo kaufst du ein? Schreiben Sie circa 30 Wörter.",
@@ -87,7 +87,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Nehmen Sie eine Karte zum Thema Kleidung und eine Karte zum Thema Geschäfte. Fragen Sie Ihren Partner / Ihre Partnerin. Ihr Partner / Ihre Partnerin antwortet und stellt dann die nächste Frage.",
@@ -101,7 +101,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "true-false",
       "question": "Frau Lemke soll zum Ausgang B gehen.",
@@ -115,7 +115,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "true-false",
       "question": "Fahrgäste zum U-Bahnhof Emser Straße sollen den Bus nehmen.",
@@ -129,7 +129,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "true-false",
       "question": "Das Busticket soll man an der Haltestelle kaufen.",
@@ -143,7 +143,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "true-false",
       "question": "Die Besucher sollen ins Museum kommen.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "true-false",
       "question": "Frau Gerlach soll ihr Kind abholen.",
@@ -171,7 +171,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Wohin reisen Anna und Katharina?",
@@ -185,7 +185,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Wer hat uns eingeladen?",
@@ -199,7 +199,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Wann kommt dein Freund?",
@@ -213,7 +213,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Wen trifft Nils im Urlaub?",
@@ -227,7 +227,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Was packst du in den Koffer ein?",
@@ -241,7 +241,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "einen Helm",
@@ -255,7 +255,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "an der Haltestelle",
@@ -269,7 +269,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "die Sonnenbrille",
@@ -283,7 +283,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "das Flugzeug",
@@ -297,7 +297,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "den Koffer",
@@ -311,7 +311,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "short-answer",
       "question": "Ich war zwei Wochen dort.",
@@ -325,7 +325,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "short-answer",
       "question": "Und ich war mit meiner Schwester unterwegs.",
@@ -339,7 +339,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "short-answer",
       "question": "Wir haben viele Ausflüge gemacht.",
@@ -353,7 +353,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "short-answer",
       "question": "In Bremerhaven haben wir Ruben getroffen.",
@@ -367,7 +367,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "short-answer",
       "question": "Ich habe mich so gefreut und zwei Tage später hat er mich angerufen.",
@@ -381,7 +381,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Sie möchten wissen: Scheint die Sonne in München?",
@@ -395,7 +395,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Sie möchten einen Flug im Internet kaufen.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Sie möchten wissen: Wann kommt der Zug an?",
@@ -423,7 +423,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Sie möchten in Hamburg studieren.",
@@ -437,7 +437,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Sie wollen in Deutschland Urlaub machen und suchen Informationen über die Berge.",
@@ -451,7 +451,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "writing-task",
       "question": "Sie waren im Urlaub und schreiben an Ihre Freundin Lisa eine E-Mail. Wo waren Sie? Wie war das Wetter? Was haben Sie gemacht? Schreiben Sie ca. 30 Wörter.",
@@ -465,7 +465,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Sie bekommen drei Bilder. Wählen Sie ein Bild aus. Sprechen Sie über das Bild. Was sehen Sie? Wie viele Personen sehen Sie? Wo sind diese Personen? Was machen diese Personen?",
@@ -479,7 +479,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Sie sind nun in der Situation des gewählten Bildes. Spielen Sie diese Situation mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner.",

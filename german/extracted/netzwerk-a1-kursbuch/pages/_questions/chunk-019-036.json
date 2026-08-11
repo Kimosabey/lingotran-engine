@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "",
-      "teil": "2a",
+      "part": "2a",
       "item": "2a",
       "item_type": "short-answer",
       "question": "Was machen Sie gern? Was machen Sie nicht gern? Kreuzen Sie an.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "speaking",
-      "teil": "2b",
+      "part": "2b",
       "item": "2b",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu zweit. Fragen und antworten Sie. (Hörst du gern Musik? Gehst du gern ins Kino? Liest du gern?)",
@@ -31,7 +31,7 @@
     },
     {
       "section": "reading",
-      "teil": "3a",
+      "part": "3a",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ich ___ gern!",
@@ -45,7 +45,7 @@
     },
     {
       "section": "reading",
-      "teil": "3a",
+      "part": "3a",
       "item": "2",
       "item_type": "fill-in",
       "question": "Tom und ich ___ gern. Wir lieben Paris!",
@@ -59,7 +59,7 @@
     },
     {
       "section": "reading",
-      "teil": "3a",
+      "part": "3a",
       "item": "3",
       "item_type": "fill-in",
       "question": "Betty und Bücher. Sie ___ gern.",
@@ -73,7 +73,7 @@
     },
     {
       "section": "reading",
-      "teil": "3a",
+      "part": "3a",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ben ___ toll!",
@@ -87,7 +87,7 @@
     },
     {
       "section": "reading",
-      "teil": "3a",
+      "part": "3a",
       "item": "5",
       "item_type": "fill-in",
       "question": "Eine Sensation – Wir ___!",
@@ -101,7 +101,7 @@
     },
     {
       "section": "reading",
-      "teil": "3a",
+      "part": "3a",
       "item": "6",
       "item_type": "fill-in",
       "question": "Peter, Markus und Fußball. Sie ___ super!",
@@ -115,7 +115,7 @@
     },
     {
       "section": "reading",
-      "teil": "3b",
+      "part": "3b",
       "item": "A",
       "item_type": "fill-in",
       "question": "Lustig! Sing___ du auch so gut?",
@@ -129,7 +129,7 @@
     },
     {
       "section": "reading",
-      "teil": "3b",
+      "part": "3b",
       "item": "B",
       "item_type": "fill-in",
       "question": "Paris!!! Sprich___ du Französisch?",
@@ -143,7 +143,7 @@
     },
     {
       "section": "reading",
-      "teil": "3b",
+      "part": "3b",
       "item": "C",
       "item_type": "fill-in",
       "question": "Spiel___ sie wirklich Fußball?",
@@ -157,7 +157,7 @@
     },
     {
       "section": "reading",
-      "teil": "3b",
+      "part": "3b",
       "item": "D",
       "item_type": "fill-in",
       "question": "@Sophie Koch___ wir am Wochenende Spaghetti? Oder arbeitest du?",
@@ -171,7 +171,7 @@
     },
     {
       "section": "reading",
-      "teil": "3b",
+      "part": "3b",
       "item": "E",
       "item_type": "fill-in",
       "question": "@Betty Ich les___ im Moment ein Buch von Daniel Kehlmann. Und du?",
@@ -185,7 +185,7 @@
     },
     {
       "section": "reading",
-      "teil": "3b",
+      "part": "3b",
       "item": "F",
       "item_type": "fill-in",
       "question": "Jogg___ ihr morgen auch?",
@@ -199,7 +199,7 @@
     },
     {
       "section": "speaking",
-      "teil": "3c",
+      "part": "3c",
       "item": "3c",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu dritt. Person A nennt ein Verb im Infinitiv, Person B ein Personalpronomen, Person C nennt die Form.",
@@ -213,7 +213,7 @@
     },
     {
       "section": "speaking",
-      "teil": "3d",
+      "part": "3d",
       "item": "3d",
       "item_type": "speaking-task",
       "question": "Und Sie? Was machen Sie gern? Sprechen Sie mit fünf Personen und notieren Sie die Hobbys.",
@@ -227,7 +227,7 @@
     },
     {
       "section": "listening",
-      "teil": "4a",
+      "part": "4a",
       "item": "4a",
       "item_type": "short-answer",
       "question": "Hören Sie das Gespräch. Wann gehen Sophie und Betty ins Kino?",
@@ -241,7 +241,7 @@
     },
     {
       "section": "",
-      "teil": "4b",
+      "part": "4b",
       "item": "4b",
       "item_type": "open-ended",
       "question": "Wie heißen die Wochentage in Ihrer Sprache? Notieren Sie in 4a.",
@@ -255,7 +255,7 @@
     },
     {
       "section": "speaking",
-      "teil": "4c",
+      "part": "4c",
       "item": "4c",
       "item_type": "speaking-task",
       "question": "Satzmelodie: Fragen und Antworten. Hören Sie und sprechen Sie nach.",
@@ -269,7 +269,7 @@
     },
     {
       "section": "speaking",
-      "teil": "5a",
+      "part": "5a",
       "item": "5a",
       "item_type": "speaking-task",
       "question": "Lesen Sie den Dialog zu zweit. Achten Sie auf die Satzmelodie.",
@@ -283,7 +283,7 @@
     },
     {
       "section": "speaking",
-      "teil": "5b",
+      "part": "5b",
       "item": "5b",
       "item_type": "speaking-task",
       "question": "Spielen Sie Dialoge wie in 5a. Machen Sie für jeden Tag eine Verabredung mit einer anderen Person.",
@@ -297,7 +297,7 @@
     },
     {
       "section": "",
-      "teil": "6a",
+      "part": "6a",
       "item": "A",
       "item_type": "matching",
       "question": "Was passt zu den Berufen? Fabian Höflinger, Taxifahrer",
@@ -311,7 +311,7 @@
     },
     {
       "section": "",
-      "teil": "6a",
+      "part": "6a",
       "item": "B",
       "item_type": "matching",
       "question": "Was passt zu den Berufen? Amina Mazin, Studentin",
@@ -325,7 +325,7 @@
     },
     {
       "section": "",
-      "teil": "6a",
+      "part": "6a",
       "item": "C",
       "item_type": "matching",
       "question": "Was passt zu den Berufen? Magda Donat, Ärztin",
@@ -339,7 +339,7 @@
     },
     {
       "section": "",
-      "teil": "6a",
+      "part": "6a",
       "item": "D",
       "item_type": "matching",
       "question": "Was passt zu den Berufen? Leon Schöpe, Kellner",
@@ -353,7 +353,7 @@
     },
     {
       "section": "",
-      "teil": "6b",
+      "part": "6b",
       "item": "6b",
       "item_type": "short-answer",
       "question": "Markieren Sie die Artikel in 6a und notieren Sie die Nomen in einer Tabelle (der / das / die).",
@@ -367,7 +367,7 @@
     },
     {
       "section": "",
-      "teil": "6c",
+      "part": "6c",
       "item": "6c",
       "item_type": "open-ended",
       "question": "Notieren Sie für jeden Artikel fünf weitere Nomen. Suchen Sie in den Lernwortschatzseiten.",
@@ -381,7 +381,7 @@
     },
     {
       "section": "reading",
-      "teil": "7a",
+      "part": "7a",
       "item": "A",
       "item_type": "fill-in",
       "question": "Ich bin ___ und ich bin 22 Jahre alt. Ich habe pro Woche 24 Stunden Seminare und Kurse ... Die Universität ist sehr groß.",
@@ -395,7 +395,7 @@
     },
     {
       "section": "reading",
-      "teil": "7a",
+      "part": "7a",
       "item": "B",
       "item_type": "fill-in",
       "question": "Ich bin ___ und arbeite in zwei Restaurants. Ich arbeite pro Woche 46 Stunden, meistens am Abend und am Wochenende.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "reading",
-      "teil": "7a",
+      "part": "7a",
       "item": "C",
       "item_type": "fill-in",
       "question": "Ich bin ___ bei „Taxi-Zentral\". Ich fahre 68.000 Kilometer pro Jahr – und lese 100 Bücher.",
@@ -423,7 +423,7 @@
     },
     {
       "section": "reading",
-      "teil": "7a",
+      "part": "7a",
       "item": "D",
       "item_type": "fill-in",
       "question": "Ich bin ___ und arbeite in einem Krankenhaus. Hier arbeiten 920 Ärzte und Krankenpfleger.",
@@ -437,7 +437,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "a",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? zweiundzwanzig ___",
@@ -451,7 +451,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "b",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? vierundzwanzig ___",
@@ -465,7 +465,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "c",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? sechsundvierzig ___",
@@ -479,7 +479,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "d",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? (ein)hundert ___",
@@ -493,7 +493,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "e",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? vierhundertachtzig ___",
@@ -507,7 +507,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "f",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? neunhundertzwanzig ___",
@@ -521,7 +521,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "g",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? (ein)tausendzweihundertfünfzig ___",
@@ -535,7 +535,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "h",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? fünfundzwanzigtausend ___",
@@ -549,7 +549,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "i",
       "item_type": "fill-in",
       "question": "Welche Zahl passt? achtundsechzigtausend ___",
@@ -563,7 +563,7 @@
     },
     {
       "section": "reading",
-      "teil": "7c",
+      "part": "7c",
       "item": "1",
       "item_type": "short-answer",
       "question": "Sammeln Sie Informationen: Amina Mazin – Was ist sie von Beruf? Wann arbeitet sie? Wann hat sie frei?",
@@ -577,7 +577,7 @@
     },
     {
       "section": "reading",
-      "teil": "7c",
+      "part": "7c",
       "item": "2",
       "item_type": "short-answer",
       "question": "Sammeln Sie Informationen: Leon Schöpe – Was ist er von Beruf? Wann arbeitet er? Wann hat er frei?",
@@ -591,7 +591,7 @@
     },
     {
       "section": "reading",
-      "teil": "7c",
+      "part": "7c",
       "item": "3",
       "item_type": "short-answer",
       "question": "Sammeln Sie Informationen: Fabian Höflinger – Was ist er von Beruf? Wann arbeitet er? Wann hat er frei?",
@@ -605,7 +605,7 @@
     },
     {
       "section": "reading",
-      "teil": "7c",
+      "part": "7c",
       "item": "4",
       "item_type": "short-answer",
       "question": "Sammeln Sie Informationen: Magda Donat – Was ist sie von Beruf? Wann arbeitet sie? Wann hat sie frei?",
@@ -619,7 +619,7 @@
     },
     {
       "section": "speaking",
-      "teil": "7d",
+      "part": "7d",
       "item": "7d",
       "item_type": "speaking-task",
       "question": "Präsentieren Sie Ihre Personen. Ihr Partner / Ihre Partnerin notiert.",
@@ -633,7 +633,7 @@
     },
     {
       "section": "",
-      "teil": "8a",
+      "part": "8a",
       "item": "1",
       "item_type": "fill-in",
       "question": "Pluralform: der Kilometer → ___",
@@ -647,7 +647,7 @@
     },
     {
       "section": "",
-      "teil": "8a",
+      "part": "8a",
       "item": "2",
       "item_type": "fill-in",
       "question": "Pluralform: der Arzt → ___",
@@ -661,7 +661,7 @@
     },
     {
       "section": "",
-      "teil": "8a",
+      "part": "8a",
       "item": "3",
       "item_type": "fill-in",
       "question": "Pluralform: die Stunde → ___",
@@ -675,7 +675,7 @@
     },
     {
       "section": "",
-      "teil": "8a",
+      "part": "8a",
       "item": "4",
       "item_type": "fill-in",
       "question": "Pluralform: das Buch → ___",
@@ -689,7 +689,7 @@
     },
     {
       "section": "",
-      "teil": "8a",
+      "part": "8a",
       "item": "5",
       "item_type": "fill-in",
       "question": "Pluralform: das Restaurant → ___",
@@ -703,7 +703,7 @@
     },
     {
       "section": "",
-      "teil": "8b",
+      "part": "8b",
       "item": "8b",
       "item_type": "matching",
       "question": "Markieren Sie die Pluralendungen in 8a. Welche Endungen gibt es? Ordnen Sie zu.",
@@ -717,7 +717,7 @@
     },
     {
       "section": "writing",
-      "teil": "8c",
+      "part": "8c",
       "item": "8c",
       "item_type": "writing-task",
       "question": "Schreiben Sie sieben Lernkarten mit Artikel und Plural. Üben Sie dann zu zweit.",
@@ -731,7 +731,7 @@
     },
     {
       "section": "",
-      "teil": "9a",
+      "part": "9a",
       "item": "9a",
       "item_type": "matching",
       "question": "Welche Berufe sind das? Ordnen Sie zu (Informatiker/in, Ingenieur/in, Lehrer/in, Verkäufer/in, Architekt/in, Friseur/in).",
@@ -745,7 +745,7 @@
     },
     {
       "section": "speaking",
-      "teil": "9b",
+      "part": "9b",
       "item": "9b",
       "item_type": "speaking-task",
       "question": "Fragen Sie Ihren Partner / Ihre Partnerin (Beruf, Arbeitszeit, freie Tage) und berichten Sie im Kurs.",
@@ -759,7 +759,7 @@
     },
     {
       "section": "writing",
-      "teil": "9c",
+      "part": "9c",
       "item": "9c",
       "item_type": "writing-task",
       "question": "Mein Beruf. Schreiben Sie einen Text wie in 7a.",
@@ -773,7 +773,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10a",
+      "part": "10a",
       "item": "10a",
       "item_type": "short-answer",
       "question": "Wörterbücher. Sehen Sie die Beispiele an. Wo steht der Artikel, wo der Plural? Markieren Sie mit zwei Farben.",
@@ -787,7 +787,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10b",
+      "part": "10b",
       "item": "10b",
       "item_type": "short-answer",
       "question": "Schreiben Sie die Nomen aus 10a in die Tabelle (der / das / die).",
@@ -801,7 +801,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "11a",
+      "part": "11a",
       "item": "11a",
       "item_type": "short-answer",
       "question": "Das Artikelbild. Schreiben Sie die Wörter mit Artikel in die Zeichnung.",
@@ -815,7 +815,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "11b",
+      "part": "11b",
       "item": "11b",
       "item_type": "writing-task",
       "question": "Machen Sie ein eigenes Artikelbild.",
@@ -829,7 +829,7 @@
     },
     {
       "section": "writing",
-      "teil": "12a",
+      "part": "12a",
       "item": "1",
       "item_type": "matching",
       "question": "Persönliche Angaben. Was passt zusammen? Nachname/Familienname",
@@ -843,7 +843,7 @@
     },
     {
       "section": "writing",
-      "teil": "12a",
+      "part": "12a",
       "item": "2",
       "item_type": "matching",
       "question": "Persönliche Angaben. Was passt zusammen? Vorname",
@@ -857,7 +857,7 @@
     },
     {
       "section": "writing",
-      "teil": "12a",
+      "part": "12a",
       "item": "3",
       "item_type": "matching",
       "question": "Persönliche Angaben. Was passt zusammen? Geburtsdatum",
@@ -871,7 +871,7 @@
     },
     {
       "section": "writing",
-      "teil": "12a",
+      "part": "12a",
       "item": "4",
       "item_type": "matching",
       "question": "Persönliche Angaben. Was passt zusammen? Geburtsort",
@@ -885,7 +885,7 @@
     },
     {
       "section": "writing",
-      "teil": "12a",
+      "part": "12a",
       "item": "5",
       "item_type": "matching",
       "question": "Persönliche Angaben. Was passt zusammen? Adresse",
@@ -899,7 +899,7 @@
     },
     {
       "section": "writing",
-      "teil": "12a",
+      "part": "12a",
       "item": "6",
       "item_type": "matching",
       "question": "Persönliche Angaben. Was passt zusammen? Telefonnummer/Handynummer",
@@ -913,7 +913,7 @@
     },
     {
       "section": "writing",
-      "teil": "12b",
+      "part": "12b",
       "item": "12b",
       "item_type": "writing-task",
       "question": "Sportclub „Fit\". Wählen Sie einen Kurs und ergänzen Sie dann das Anmeldeformular mit Ihren Informationen.",
@@ -927,7 +927,7 @@
     },
     {
       "section": "listening",
-      "teil": "13a",
+      "part": "13a",
       "item": "13a",
       "item_type": "short-answer",
       "question": "Gehen wir zusammen? Sehen Sie Szene 4. Was macht Anna gern? Was macht Max gern?",
@@ -941,7 +941,7 @@
     },
     {
       "section": "listening",
-      "teil": "13b",
+      "part": "13b",
       "item": "13b",
       "item_type": "short-answer",
       "question": "Sehen Sie die Szene noch einmal. Wann gehen Anna und Max schwimmen?",
@@ -955,7 +955,7 @@
     },
     {
       "section": "speaking",
-      "teil": "13c",
+      "part": "13c",
       "item": "13c",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu zweit. Variieren Sie den Dialog und spielen Sie.",
@@ -969,7 +969,7 @@
     },
     {
       "section": "listening",
-      "teil": "14a",
+      "part": "14a",
       "item": "14a",
       "item_type": "short-answer",
       "question": "Wo arbeitest du? Sehen Sie Szene 5. Was sind Luca und Anna von Beruf?",
@@ -983,7 +983,7 @@
     },
     {
       "section": "listening",
-      "teil": "14b",
+      "part": "14b",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Wer macht was? ___ arbeitet im Krankenhaus.",
@@ -997,7 +997,7 @@
     },
     {
       "section": "listening",
-      "teil": "14b",
+      "part": "14b",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Wer macht was? ___ studiert.",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "listening",
-      "teil": "14b",
+      "part": "14b",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Wer macht was? ___ joggt gern.",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "listening",
-      "teil": "14b",
+      "part": "14b",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Wer macht was? ___ arbeitet nachts.",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "listening",
-      "teil": "14b",
+      "part": "14b",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Wer macht was? ___ macht ein Praktikum.",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "listening",
-      "teil": "14b",
+      "part": "14b",
       "item": "6",
       "item_type": "multiple-choice",
       "question": "Wer macht was? ___ arbeitet heute am Nachmittag.",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "1a",
       "item_type": "matching",
       "question": "Eine Stadttour in Hamburg. Hören Sie. Ordnen Sie die Stationen den Fotos zu.",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "reading",
-      "teil": "1b",
+      "part": "1b",
       "item": "A",
       "item_type": "matching",
       "question": "Was ist das? Ordnen Sie die Wörter zu. Foto A (720 Züge pro Tag)",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "reading",
-      "teil": "1b",
+      "part": "1b",
       "item": "B",
       "item_type": "matching",
       "question": "Was ist das? Ordnen Sie die Wörter zu. Foto B (die Elbphilharmonie)",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "reading",
-      "teil": "1c",
+      "part": "1c",
       "item": "Rathaus",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahlen. Rathaus: über ___ Jahre alt, Turm ___ Meter hoch.",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "reading",
-      "teil": "1c",
+      "part": "1c",
       "item": "Elbphilharmonie",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahlen. Elbphilharmonie: Kosten ___ Euro, im Jahr 2017 ___ Konzerte.",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "reading",
-      "teil": "1c",
+      "part": "1c",
       "item": "Hafen",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahlen. Hafen: ___ Schiffe pro Jahr, fahren in ___ Länder.",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "reading",
-      "teil": "1c",
+      "part": "1c",
       "item": "Michel",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahlen. Michel: Platz für ___ Menschen, Turm ___ Meter hoch.",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "reading",
-      "teil": "1c",
+      "part": "1c",
       "item": "Bahnhof",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahlen. Bahnhof: ___ Züge pro Tag, in ___ Stunden nach Berlin.",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "reading",
-      "teil": "1b",
+      "part": "1b",
       "item": "C",
       "item_type": "matching",
       "question": "Was ist das? Ordnen Sie die Wörter zu. Foto C (12.000 Schiffe pro Jahr)",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "reading",
-      "teil": "1b",
+      "part": "1b",
       "item": "D",
       "item_type": "matching",
       "question": "Was ist das? Ordnen Sie die Wörter zu. Foto D (der Michel, Turm 132 m hoch)",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "reading",
-      "teil": "1b",
+      "part": "1b",
       "item": "E",
       "item_type": "matching",
       "question": "Was ist das? Ordnen Sie die Wörter zu. Foto E (über 120 Jahre alt, 111 Meter breit)",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "",
-      "teil": "1d",
+      "part": "1d",
       "item": "1d",
       "item_type": "writing-task",
       "question": "Sammeln Sie Informationen und Zahlen über Ihre Stadt oder Ihren Ort. Machen Sie eine Ausstellung im Kurs.",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "1",
       "item_type": "true-false",
       "question": "Der Weg zum Hotel. Welche Orte nennt der Taxifahrer? – Bahnhof",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "2",
       "item_type": "true-false",
       "question": "Der Weg zum Hotel. Welche Orte nennt der Taxifahrer? – Hafen",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "3",
       "item_type": "true-false",
       "question": "Der Weg zum Hotel. Welche Orte nennt der Taxifahrer? – Fluss",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "4",
       "item_type": "true-false",
       "question": "Der Weg zum Hotel. Welche Orte nennt der Taxifahrer? – Konzerthaus",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "5",
       "item_type": "true-false",
       "question": "Der Weg zum Hotel. Welche Orte nennt der Taxifahrer? – Rathaus",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "6",
       "item_type": "true-false",
       "question": "Der Weg zum Hotel. Welche Orte nennt der Taxifahrer? – Kirche",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "speaking",
-      "teil": "2b",
+      "part": "2b",
       "item": "2b",
       "item_type": "speaking-task",
       "question": "Lesen Sie das Gespräch. Zeichnen Sie den Weg in den Plan. Ist Ihre Lösung in 2a richtig?",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "1",
       "item_type": "fill-in",
       "question": "der, das oder die? ___ Bahnhof",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "2",
       "item_type": "fill-in",
       "question": "der, das oder die? ___ Rathaus",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "3",
       "item_type": "fill-in",
       "question": "der, das oder die? ___ Kunsthalle",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "4",
       "item_type": "fill-in",
       "question": "der, das oder die? ___ Fluss",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "5",
       "item_type": "fill-in",
       "question": "der, das oder die? ___ Hotel",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "6",
       "item_type": "fill-in",
       "question": "der, das oder die? ___ Kirche",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "7",
       "item_type": "fill-in",
       "question": "der, das oder die? ___ See",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "speaking",
-      "teil": "3",
+      "part": "3",
       "item": "3",
       "item_type": "speaking-task",
       "question": "Artikel. Sammeln Sie Nomen aus Kapitel 1–3. Bilden Sie drei Gruppen: der, das, die.",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "",
-      "teil": "4a",
+      "part": "4a",
       "item": "maskulin",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den bestimmten Artikel: Das ist ___ Hafen von Hamburg.",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "",
-      "teil": "4a",
+      "part": "4a",
       "item": "neutrum",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den bestimmten Artikel: ___ Hotel heißt „Alster\".",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "",
-      "teil": "4a",
+      "part": "4a",
       "item": "feminin",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den bestimmten Artikel: ___ Straße heißt Müllerstraße.",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "",
-      "teil": "4a",
+      "part": "4a",
       "item": "Plural",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den bestimmten Artikel: ___ Schiffe sind im Hafen.",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "",
-      "teil": "4b",
+      "part": "4b",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Artikel: Das ist ___ Bahnhof. ___ Bahnhof heißt Hamburg-Altona.",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "",
-      "teil": "4b",
+      "part": "4b",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Artikel: Das ist ___ Brücke. ___ Brücke heißt „Köhlbrandbrücke\".",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "",
-      "teil": "4b",
+      "part": "4b",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Artikel: Das sind ___ Häuser. ___ Häuser sind 400 Jahre alt.",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "writing",
-      "teil": "4c",
+      "part": "4c",
       "item": "4c",
       "item_type": "writing-task",
       "question": "Was ist das? Schreiben Sie Sätze (Café, Kunsthalle, Kirche, Hotel, Kino, Turm). Beispiel: Das ist ein Café.",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "listening",
-      "teil": "5a",
+      "part": "5a",
       "item": "5a",
       "item_type": "short-answer",
       "question": "Vokale. Lang oder kurz? Hören Sie die Wörter und markieren Sie _ für lang und . für kurz.",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "listening",
-      "teil": "5b",
+      "part": "5b",
       "item": "5b",
       "item_type": "speaking-task",
       "question": "Hören Sie noch einmal. Langer Vokal: Kreisen Sie die Arme. Kurzer Vokal: Klopfen Sie auf den Tisch.",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "",
-      "teil": "6a",
+      "part": "6a",
       "item": "6a",
       "item_type": "matching",
       "question": "Eine Bildgeschichte. Wo passen die Wörter? (der Bus, das Fahrrad, die U-Bahn, zu Fuß gehen)",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "",
-      "teil": "6b",
+      "part": "6b",
       "item": "1",
       "item_type": "matching",
       "question": "Welches Bild passt? Oh, nein! Keine Fahrkarte?!",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "",
-      "teil": "6b",
+      "part": "6b",
       "item": "2",
       "item_type": "matching",
       "question": "Welches Bild passt? Ach nee, kein Bus. Also schnell! Wo ist die U-Bahn?",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "",
-      "teil": "6b",
+      "part": "6b",
       "item": "3",
       "item_type": "matching",
       "question": "Welches Bild passt? Oje, kein Fahrrad! Schnell, da ist ein Bus!",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "",
-      "teil": "6b",
+      "part": "6b",
       "item": "4",
       "item_type": "matching",
       "question": "Welches Bild passt? Heute kein Test! So ein Glück!",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "",
-      "teil": "6b",
+      "part": "6b",
       "item": "5",
       "item_type": "matching",
       "question": "Welches Bild passt? Ich gehe zu Fuß. Jetzt aber schnell!",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "writing",
-      "teil": "6c",
+      "part": "6c",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ist das ein Bus? (Bild: U-Bahn) – Nein, das ist …",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "writing",
-      "teil": "6c",
+      "part": "6c",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ist das ein Auto? (Bild: Fahrrad) – Nein, das ist …",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "writing",
-      "teil": "6c",
+      "part": "6c",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ist das eine Kirche? (Bild: Bahnhof) – Nein, …",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "writing",
-      "teil": "6c",
+      "part": "6c",
       "item": "4",
       "item_type": "fill-in",
       "question": "Sind das Busse? (Bild: viele Fahrräder) – Nein, …",
@@ -1725,7 +1725,7 @@
     },
     {
       "section": "writing",
-      "teil": "6c",
+      "part": "6c",
       "item": "5",
       "item_type": "fill-in",
       "question": "Sind das Konzertkarten? (Bild: Fahrkarten) – Nein, …",
@@ -1739,7 +1739,7 @@
     },
     {
       "section": "listening",
-      "teil": "7a",
+      "part": "7a",
       "item": "1",
       "item_type": "short-answer",
       "question": "Wegbeschreibungen. Hören Sie. Was sucht die Person? Gespräch 1",
@@ -1753,7 +1753,7 @@
     },
     {
       "section": "listening",
-      "teil": "7a",
+      "part": "7a",
       "item": "2",
       "item_type": "short-answer",
       "question": "Wegbeschreibungen. Hören Sie. Was sucht die Person? Gespräch 2",
@@ -1767,7 +1767,7 @@
     },
     {
       "section": "listening",
-      "teil": "7a",
+      "part": "7a",
       "item": "3",
       "item_type": "short-answer",
       "question": "Wegbeschreibungen. Hören Sie. Was sucht die Person? Gespräch 3",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "listening",
-      "teil": "7b",
+      "part": "7b",
       "item": "7b",
       "item_type": "matching",
       "question": "Hören Sie noch einmal. Welche Wegbeschreibung passt? Ordnen Sie zu (Bild 1–3).",
@@ -1795,7 +1795,7 @@
     },
     {
       "section": "speaking",
-      "teil": "7c",
+      "part": "7c",
       "item": "7c",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu zweit. Spielen Sie Dialoge (Entschuldigung, wo ist bitte …?).",
@@ -1809,7 +1809,7 @@
     },
     {
       "section": "speaking",
-      "teil": "8",
+      "part": "8",
       "item": "8",
       "item_type": "speaking-task",
       "question": "Nach dem Weg fragen. Spielen Sie zu zweit. Jede/r würfelt zweimal (Start und Ziel).",
@@ -1823,7 +1823,7 @@
     },
     {
       "section": "reading",
-      "teil": "9a",
+      "part": "9a",
       "item": "1",
       "item_type": "matching",
       "question": "Ordnen Sie die Fotos zu: Hamburger Theater-Festival (12.–18. Okt.)",
@@ -1837,7 +1837,7 @@
     },
     {
       "section": "reading",
-      "teil": "9a",
+      "part": "9a",
       "item": "2",
       "item_type": "matching",
       "question": "Ordnen Sie die Fotos zu: Orchester aus aller Welt zu Gast in Hamburg (Elbphilharmonie, 25. Okt.)",
@@ -1851,7 +1851,7 @@
     },
     {
       "section": "reading",
-      "teil": "9a",
+      "part": "9a",
       "item": "3",
       "item_type": "matching",
       "question": "Ordnen Sie die Fotos zu: Kino für alle (Filmfest Hamburg, 27.9.–6.10.)",
@@ -1865,7 +1865,7 @@
     },
     {
       "section": "reading",
-      "teil": "9b",
+      "part": "9b",
       "item": "9b",
       "item_type": "open-ended",
       "question": "Welche Wörter sind in Ihrer Sprache oder in anderen Sprachen ähnlich? Markieren Sie.",
@@ -1879,7 +1879,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "9c",
+      "part": "9c",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das deutsche Wort mit Artikel: the theater / le théâtre → ___",
@@ -1893,7 +1893,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "9c",
+      "part": "9c",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das deutsche Wort mit Artikel: the festival / le festival → ___",
@@ -1907,7 +1907,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "9c",
+      "part": "9c",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das deutsche Wort mit Artikel: the orchestra / l'orchestre → ___",
@@ -1921,7 +1921,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "9c",
+      "part": "9c",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das deutsche Wort mit Artikel: the choir / le choeur → ___",
@@ -1935,7 +1935,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "9c",
+      "part": "9c",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das deutsche Wort mit Artikel: the concert / le concert → ___",
@@ -1949,7 +1949,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "9c",
+      "part": "9c",
       "item": "6",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das deutsche Wort mit Artikel: the film / le film → ___",
@@ -1963,7 +1963,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "9c",
+      "part": "9c",
       "item": "7",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das deutsche Wort mit Artikel: the audience / le public → ___",
@@ -1977,7 +1977,7 @@
     },
     {
       "section": "speaking",
-      "teil": "9d",
+      "part": "9d",
       "item": "9d",
       "item_type": "open-ended",
       "question": "Welches Event finden Sie interessant?",
@@ -1991,7 +1991,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10a",
+      "part": "10a",
       "item": "10a",
       "item_type": "fill-in",
       "question": "Notieren Sie die Monate 1–12 auf Deutsch.",
@@ -2005,7 +2005,7 @@
     },
     {
       "section": "",
-      "teil": "10b",
+      "part": "10b",
       "item": "A",
       "item_type": "short-answer",
       "question": "Welche Jahreszeit sehen Sie auf Foto A (Frau mit Snowboard im Schnee)?",
@@ -2019,7 +2019,7 @@
     },
     {
       "section": "",
-      "teil": "10b",
+      "part": "10b",
       "item": "B",
       "item_type": "short-answer",
       "question": "Welche Jahreszeit sehen Sie auf Foto B (Hand hält einen Pilz)?",
@@ -2033,7 +2033,7 @@
     },
     {
       "section": "",
-      "teil": "10b",
+      "part": "10b",
       "item": "C",
       "item_type": "short-answer",
       "question": "Welche Jahreszeit sehen Sie auf Foto C (Person springt in einen See)?",
@@ -2047,7 +2047,7 @@
     },
     {
       "section": "",
-      "teil": "10b",
+      "part": "10b",
       "item": "D",
       "item_type": "short-answer",
       "question": "Welche Jahreszeit sehen Sie auf Foto D (zwei Personen fahren Fahrrad im Park)?",
@@ -2061,7 +2061,7 @@
     },
     {
       "section": "listening",
-      "teil": "10c",
+      "part": "10c",
       "item": "10c",
       "item_type": "short-answer",
       "question": "Hören Sie. Was machen die Leute? Wann machen sie das? (ins Museum gehen, schwimmen, Fahrrad fahren, reisen)",
@@ -2075,7 +2075,7 @@
     },
     {
       "section": "speaking",
-      "teil": "10d",
+      "part": "10d",
       "item": "10d",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu zweit mit dem Wörterbuch. Was machen Sie wann? Machen Sie ein Plakat zu den Jahreszeiten.",
@@ -2089,7 +2089,7 @@
     },
     {
       "section": "listening",
-      "teil": "11a",
+      "part": "11a",
       "item": "11a",
       "item_type": "short-answer",
       "question": "Die Stadttour in München. Wohin fahren Luca und Anna? Sehen Sie Szene 6 und nummerieren Sie die Stationen.",
@@ -2103,7 +2103,7 @@
     },
     {
       "section": "",
-      "teil": "11b",
+      "part": "11b",
       "item": "Haus der Kunst",
       "item_type": "matching",
       "question": "Was passt zu welchem Foto? Foto: Museumsgebäude „Haus der Kunst\"",
@@ -2117,7 +2117,7 @@
     },
     {
       "section": "",
-      "teil": "11b",
+      "part": "11b",
       "item": "Eisbach",
       "item_type": "matching",
       "question": "Was passt zu welchem Foto? Foto: Fluss/Welle mit Surfer",
@@ -2131,7 +2131,7 @@
     },
     {
       "section": "",
-      "teil": "11b",
+      "part": "11b",
       "item": "Chinesischer Turm",
       "item_type": "matching",
       "question": "Was passt zu welchem Foto? Foto: Selfie, dahinter ein Turm",
@@ -2145,7 +2145,7 @@
     },
     {
       "section": "",
-      "teil": "11b",
+      "part": "11b",
       "item": "Olympiapark",
       "item_type": "matching",
       "question": "Was passt zu welchem Foto? Foto: beide auf einer Wiese bei Sonnenuntergang",
@@ -2159,7 +2159,7 @@
     },
     {
       "section": "",
-      "teil": "11b",
+      "part": "11b",
       "item": "Englischer Garten",
       "item_type": "matching",
       "question": "Was passt zu welchem Foto? Foto: Anna und Luca fahren Fahrrad im Park",
@@ -2173,7 +2173,7 @@
     },
     {
       "section": "",
-      "teil": "11b",
+      "part": "11b",
       "item": "Selfie",
       "item_type": "matching",
       "question": "Was passt zu welchem Foto? Foto: Selfie von Anna und Luca vor einem Gebäude",
@@ -2187,7 +2187,7 @@
     },
     {
       "section": "",
-      "teil": "12a",
+      "part": "12a",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahl: Seit (1) ___ gibt es den Englischen Garten.",
@@ -2201,7 +2201,7 @@
     },
     {
       "section": "",
-      "teil": "12a",
+      "part": "12a",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahl: Der Park ist sehr groß: (2) ___ Hektar.",
@@ -2215,7 +2215,7 @@
     },
     {
       "section": "",
-      "teil": "12a",
+      "part": "12a",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahl: Jedes Jahr kommen über (3) ___ Millionen Besucher.",
@@ -2229,7 +2229,7 @@
     },
     {
       "section": "",
-      "teil": "12a",
+      "part": "12a",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahl: Der Chinesische Turm ist (4) ___ m hoch.",
@@ -2243,7 +2243,7 @@
     },
     {
       "section": "",
-      "teil": "12a",
+      "part": "12a",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahl: Das Müller'sche Volksbad gibt es seit (5) ___.",
@@ -2257,7 +2257,7 @@
     },
     {
       "section": "",
-      "teil": "12a",
+      "part": "12a",
       "item": "6",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahl: Olympiastadion Bauzeit: (6) ___.",
@@ -2271,7 +2271,7 @@
     },
     {
       "section": "",
-      "teil": "12a",
+      "part": "12a",
       "item": "7",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Zahl: Olympiastadion Kosten: (7) ___ Millionen D-Mark.",
@@ -2285,7 +2285,7 @@
     },
     {
       "section": "",
-      "teil": "12b",
+      "part": "12b",
       "item": "12b",
       "item_type": "open-ended",
       "question": "Recherchieren Sie: Welche Konzerte und Veranstaltungen gibt es bald im Olympiapark? Wohin möchten Sie gerne gehen?",
@@ -2299,7 +2299,7 @@
     },
     {
       "section": "",
-      "teil": "13",
+      "part": "13",
       "item": "13",
       "item_type": "ordering",
       "question": "Entschuldigung, wo ist der Viktualienmarkt? Ordnen Sie die Ausdrücke in die richtige Reihenfolge (die Straße bis zum Isartor / durch das Isartor / immer geradeaus / vor dem Marienplatz nach links).",

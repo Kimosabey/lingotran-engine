@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "writing",
-      "teil": "B. Sätze bauen",
+      "part": "B. Sätze bauen",
       "item": "1",
       "item_type": "writing-task",
       "question": "Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "writing",
-      "teil": "C. Sätze bauen",
+      "part": "C. Sätze bauen",
       "item": "1",
       "item_type": "writing-task",
       "question": "Schneide die Kärtchen aus, mische sie und bau damit unterschiedliche Sätze.",
@@ -31,7 +31,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "D. Silbenrätsel",
+      "part": "D. Silbenrätsel",
       "item": "1",
       "item_type": "ordering",
       "question": "Schneide die Kärtchen aus und setze die Silben zu Wörtern zusammen.",

@@ -61,10 +61,8 @@ def load_questions(slug):
 def row_for(slug, it, level=''):
     return {c: '' for c in COLUMNS} | {
         'collection': slug,
-        # Source records still carry the old `teil` key; read either so the
-        # rename is a pure export-schema change and no page data has to move.
         'section': _flat(it.get('section', '')),
-        'part': _flat(it.get('part', it.get('teil', ''))),
+        'part': _flat(it.get('part', '')),
         'item': _flat(it.get('item', '')), 'item_type': _flat(it.get('item_type', '')),
         'instruction': _flat(it.get('instruction', '')),
         'question': _flat(it.get('question', '')),

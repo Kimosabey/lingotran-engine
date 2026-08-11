@@ -32,7 +32,7 @@ _* this book has known limitations — see `README.md`._
 
 ## Where this came from
 
-Built from commit `1f00acb` (tag `v1.1.0-workflow-gaps-closed`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
+Built from commit `d6ce3cc` (tag `v1.1.0-workflow-gaps-closed`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
 
 
 ## Two things worth knowing

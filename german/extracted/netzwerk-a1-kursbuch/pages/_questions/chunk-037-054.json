@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 1",
       "item_type": "speaking-task",
       "question": "Stellen Sie einen Mitspieler / eine Mitspielerin vor.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 2",
       "item_type": "speaking-task",
       "question": "Frau Kowalski geht. Was sagen die Personen?",
@@ -31,7 +31,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 11",
       "item_type": "speaking-task",
       "question": "Sagen Sie Ihre E-Mail-Adresse.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 12",
       "item_type": "fill-in",
       "question": "Lesen Sie und ergänzen Sie die Zahlen. 25, 26, …, 28, 29, …, 31, 32, …, 34, 35, …",
@@ -59,7 +59,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 13",
       "item_type": "speaking-task",
       "question": "Sagen Sie „Am Montag“ als Frage (?) und als Aussagesatz (.).",
@@ -73,7 +73,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 14",
       "item_type": "speaking-task",
       "question": "Buchstabieren Sie Ihren Familiennamen.",
@@ -87,7 +87,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 16",
       "item_type": "short-answer",
       "question": "Was macht Niklas gern? Was nicht? (☺ Musik hören / ☹ schwimmen)",
@@ -101,7 +101,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 25",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Ben … super.",
@@ -115,7 +115,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 26",
       "item_type": "short-answer",
       "question": "Was macht Lara?",
@@ -129,7 +129,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 27",
       "item_type": "speaking-task",
       "question": "Stellen Sie die Person vor. Wie heißt die Person? Wo wohnt sie? Was ist ihr Beruf? (Felix Giehse, Taxi „Kommsofort“, Kieler Str. 29, Hamburg)",
@@ -143,7 +143,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 28",
       "item_type": "speaking-task",
       "question": "Fragen Sie Ihren Partner / Ihre Partnerin. … Sie/du gern?",
@@ -157,7 +157,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 29",
       "item_type": "speaking-task",
       "question": "Lang oder kurz? Sprechen Sie. (Hafen – Hallo; wohnen – kommen; Schiff – sieben)",
@@ -171,7 +171,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 30",
       "item_type": "short-answer",
       "question": "Wie heißen die Wochentage? (Montag …)",
@@ -185,7 +185,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie lesen. Betty … gern. Peter und Markus … nicht gern. Und du? … du gern?",
@@ -199,7 +199,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Herr Höflinger ist Taxifahrer. Er … pro Jahr 68.000 Kilometer. Er … von Samstag bis Donnerstag. Am Freitag hat er …",
@@ -213,7 +213,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 5",
       "item_type": "speaking-task",
       "question": "Sprechen Sie dreimal schnell. Am Montag kommt Olaf nach Oslo.",
@@ -227,7 +227,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 6",
       "item_type": "fill-in",
       "question": "Nennen Sie den Plural. ein Arzt, 3 …; ein Tag, 4 …; ein Buch, 45 …",
@@ -241,7 +241,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 7",
       "item_type": "speaking-task",
       "question": "Antworten Sie. Entschuldigung, wo ist das Hotel „Alster“? – Gehen Sie geradeaus, dann rechts und dann wieder rechts.",
@@ -255,7 +255,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 8",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Das ist der … von Hamburg. Jeden Tag fahren hier 700 …",
@@ -269,7 +269,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 9",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Die Elbe ist ein … in Hamburg. Im Hamburger Hafen gibt es viele …",
@@ -283,7 +283,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 10",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Monate. Januar, …, März, …, Mai, Juni, …, August, …, Oktober, …, …",
@@ -297,7 +297,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 17",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Artikel. … See, … Stadt, … Rathaus",
@@ -311,7 +311,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 18",
       "item_type": "speaking-task",
       "question": "Antworten Sie. Was ist das? – Das sind …",
@@ -325,7 +325,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 19",
       "item_type": "fill-in",
       "question": "Antworten Sie. Ist das ein Theater? – Nein, das ist … Theater, das ist …",
@@ -339,7 +339,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 21",
       "item_type": "speaking-task",
       "question": "Welche Sprachen sprechen Sie?",
@@ -353,7 +353,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 22",
       "item_type": "speaking-task",
       "question": "Nennen Sie drei Berufe.",
@@ -367,7 +367,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 23",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Personalpronomen. … sprichst, … heiße, … ist, … kommen",
@@ -381,7 +381,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 24",
       "item_type": "short-answer",
       "question": "Welche Sprachen spricht man in – Österreich? – Polen? – Spanien? – Brasilien?",
@@ -395,7 +395,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 31",
       "item_type": "short-answer",
       "question": "Wie heißen die Verkehrsmittel? Nennen Sie auch die Artikel. (Bus, Flugzeug, S-Bahn, Fahrrad)",
@@ -409,7 +409,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 32",
       "item_type": "speaking-task",
       "question": "Was ist das? Das ist … und … Das sind … (Schild „Hamburg-Altona“, Brücke, Geländer)",
@@ -423,7 +423,7 @@
     },
     {
       "section": "",
-      "teil": "Wiederholungsspiel",
+      "part": "Wiederholungsspiel",
       "item": "Feld 33",
       "item_type": "speaking-task",
       "question": "Fragen Sie. Gehen wir am …? (Mi: Schwimmbad, Do: Café)",
@@ -437,7 +437,7 @@
     },
     {
       "section": "",
-      "teil": "2",
+      "part": "2",
       "item": "2",
       "item_type": "speaking-task",
       "question": "Mein Buchstabe. Ein Spieler notiert einen Buchstaben, die anderen nennen Wörter. Ist der Buchstabe im Wort? Wer findet den Buchstaben?",
@@ -451,7 +451,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "1",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? N … M …",
@@ -465,7 +465,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "2",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? M … NT … G",
@@ -479,7 +479,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "3",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? H … R … N",
@@ -493,7 +493,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "4",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? G … H … N",
@@ -507,7 +507,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "5",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? L … ND",
@@ -521,7 +521,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "6",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? H … T … L",
@@ -535,7 +535,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "7",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? K … CH … N",
@@ -549,7 +549,7 @@
     },
     {
       "section": "",
-      "teil": "3a",
+      "part": "3a",
       "item": "8",
       "item_type": "fill-in",
       "question": "Welche Vokale fehlen? T … X …",
@@ -563,7 +563,7 @@
     },
     {
       "section": "",
-      "teil": "3b",
+      "part": "3b",
       "item": "1",
       "item_type": "fill-in",
       "question": "Die Vokale sind falsch. Wie heißt das Wort richtig? der Wog",
@@ -577,7 +577,7 @@
     },
     {
       "section": "",
-      "teil": "3b",
+      "part": "3b",
       "item": "2",
       "item_type": "fill-in",
       "question": "Die Vokale sind falsch. Wie heißt das Wort richtig? das Jihr",
@@ -591,7 +591,7 @@
     },
     {
       "section": "",
-      "teil": "3b",
+      "part": "3b",
       "item": "3",
       "item_type": "fill-in",
       "question": "Die Vokale sind falsch. Wie heißt das Wort richtig? der Buhnhef",
@@ -605,7 +605,7 @@
     },
     {
       "section": "",
-      "teil": "3b",
+      "part": "3b",
       "item": "4",
       "item_type": "fill-in",
       "question": "Die Vokale sind falsch. Wie heißt das Wort richtig? der Bas",
@@ -619,7 +619,7 @@
     },
     {
       "section": "",
-      "teil": "3b",
+      "part": "3b",
       "item": "5",
       "item_type": "fill-in",
       "question": "Die Vokale sind falsch. Wie heißt das Wort richtig? das Boch",
@@ -633,7 +633,7 @@
     },
     {
       "section": "",
-      "teil": "3b",
+      "part": "3b",
       "item": "6",
       "item_type": "fill-in",
       "question": "Die Vokale sind falsch. Wie heißt das Wort richtig? die A-Behn",
@@ -647,7 +647,7 @@
     },
     {
       "section": "",
-      "teil": "3c",
+      "part": "3c",
       "item": "3c",
       "item_type": "writing-task",
       "question": "Schreiben Sie je drei Wörter wie in 3a und 3b auf einen Zettel. Tauschen Sie die Zettel mit einem anderen Paar. Welches Paar kann alle lösen?",
@@ -661,7 +661,7 @@
     },
     {
       "section": "",
-      "teil": "4",
+      "part": "4",
       "item": "4",
       "item_type": "speaking-task",
       "question": "Diktieren Sie dem Partner / der Partnerin die Zahlen. Er/Sie verbindet die Zahlen im Raster. Was ist es?",
@@ -675,7 +675,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "1",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? Finden Sie die Paare. 1 Christoph Waltz – Theater- und Film-Schauspieler aus Österreich, lebt in Berlin, London und Los Angeles.",
@@ -689,7 +689,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "2",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? 2 Anke Engelke – macht Comedy, wohnt in Köln, singt und spielt in Filmen.",
@@ -703,7 +703,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "3",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? 3 Yvonne Catterfeld – singt und macht Musik, hat ein eigenes Label.",
@@ -717,7 +717,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "4",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? 4 Roger Federer – Tennisspieler, gewinnt viele Turniere, wohnt in Basel.",
@@ -731,7 +731,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "5",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? 5 Felix Jaehn – DJ, studiert Musik in London.",
@@ -745,7 +745,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "6",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? 6 Laura Dahlmeier – Biathletin mit 16 Medaillen, trainiert viel.",
@@ -759,7 +759,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "7",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? 7 Abdelkarim – macht Comedy, hat die TV-Show StandUpMigranten.",
@@ -773,7 +773,7 @@
     },
     {
       "section": "reading",
-      "teil": "5a",
+      "part": "5a",
       "item": "8",
       "item_type": "matching",
       "question": "Welche Personen haben den gleichen Beruf? 8 Birgit Minichmayr – Star aus Österreich, spielt in Filmen und Theatern.",
@@ -787,7 +787,7 @@
     },
     {
       "section": "speaking",
-      "teil": "5b",
+      "part": "5b",
       "item": "5b",
       "item_type": "speaking-task",
       "question": "Welche bekannten Deutschen, Österreicher oder Schweizer kennen Sie noch? Sammeln Sie im Kurs.",
@@ -801,7 +801,7 @@
     },
     {
       "section": "writing",
-      "teil": "5c",
+      "part": "5c",
       "item": "5c",
       "item_type": "writing-task",
       "question": "Wählen Sie eine Person. Recherchieren Sie und schreiben Sie einen kurzen Text. Bringen Sie auch ein Foto mit und hängen Sie Ihren Text im Kursraum auf.",
@@ -815,7 +815,7 @@
     },
     {
       "section": "reading",
-      "teil": "6a",
+      "part": "6a",
       "item": "6a",
       "item_type": "short-answer",
       "question": "Quiz: In welchem Land sind die Städte? Was sind die Hauptstädte? (Berlin, Bern, Genf, Graz, Köln, Leipzig, Linz, Lugano, München, Salzburg, Wien, Zürich)",
@@ -829,7 +829,7 @@
     },
     {
       "section": "reading",
-      "teil": "6b",
+      "part": "6b",
       "item": "Zürich",
       "item_type": "fill-in",
       "question": "Lesen Sie die Texte und ergänzen Sie die Wörter. Zürich (am See, 40 km lang): Eine Rundfahrt mit dem ___ dauert 1,5 Stunden.",
@@ -843,7 +843,7 @@
     },
     {
       "section": "reading",
-      "teil": "6b",
+      "part": "6b",
       "item": "Wien",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Wien: Der Stephansdom ist eine ___ im Stadt-Zentrum. Sie ist sehr schön und das Dach hat viele Farben.",
@@ -857,7 +857,7 @@
     },
     {
       "section": "reading",
-      "teil": "6b",
+      "part": "6b",
       "item": "Graz",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Graz: Der ___ mit der Uhr ist fast 800 Jahre alt. Er ist 28 Meter hoch und das Symbol von Graz.",
@@ -871,7 +871,7 @@
     },
     {
       "section": "reading",
-      "teil": "6b",
+      "part": "6b",
       "item": "Leipzig",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Leipzig: Das Gewandhaus ist ein Konzerthaus. Hier ist Platz für 1.900 ___ .",
@@ -885,7 +885,7 @@
     },
     {
       "section": "reading",
-      "teil": "6b",
+      "part": "6b",
       "item": "Köln",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Köln: Eine ___ mit Aussicht. Hier fahren jeden Tag 1.220 Züge über den Rhein.",
@@ -899,7 +899,7 @@
     },
     {
       "section": "reading",
-      "teil": "6b",
+      "part": "6b",
       "item": "Genf",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Genf: Der „Jet d’Eau“ – die Wasserfontäne im ___ – ist sehr bekannt. Sie ist 140 Meter hoch.",
@@ -913,7 +913,7 @@
     },
     {
       "section": "listening",
-      "teil": "6c",
+      "part": "6c",
       "item": "Beatrice",
       "item_type": "short-answer",
       "question": "Hören Sie drei Personen. Wo ist Beatrice? Notieren Sie.",
@@ -927,7 +927,7 @@
     },
     {
       "section": "listening",
-      "teil": "6c",
+      "part": "6c",
       "item": "Laurin",
       "item_type": "short-answer",
       "question": "Hören Sie drei Personen. Wo ist Laurin? Notieren Sie.",
@@ -941,7 +941,7 @@
     },
     {
       "section": "listening",
-      "teil": "6c",
+      "part": "6c",
       "item": "Pia",
       "item_type": "short-answer",
       "question": "Hören Sie drei Personen. Wo ist Pia? Notieren Sie.",
@@ -955,7 +955,7 @@
     },
     {
       "section": "speaking",
-      "teil": "6d",
+      "part": "6d",
       "item": "6d",
       "item_type": "speaking-task",
       "question": "Wählen Sie eine Stadt in D-A-CH und recherchieren Sie (Einwohnerzahl und zwei Informationen). Stellen Sie Ihren Ort kurz vor.",
@@ -969,7 +969,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "1a",
       "item_type": "matching",
       "question": "Lebensmittel. Welche Wörter kennen Sie auf Deutsch? Verbinden Sie.",
@@ -983,7 +983,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1b",
+      "part": "1b",
       "item": "1b",
       "item_type": "open-ended",
       "question": "Welche Wörter sind in Ihrer Muttersprache ähnlich? Sammeln Sie im Kurs.",
@@ -997,7 +997,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "Bäckerei",
       "item_type": "matching",
       "question": "Beim Einkaufen. Hören Sie. Welches Gespräch passt zur Bäckerei?",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "Markt",
       "item_type": "matching",
       "question": "Beim Einkaufen. Hören Sie. Welches Gespräch passt zum Markt?",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "Metzgerei",
       "item_type": "matching",
       "question": "Beim Einkaufen. Hören Sie. Welches Gespräch passt zur Metzgerei?",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "Supermarkt",
       "item_type": "matching",
       "question": "Beim Einkaufen. Hören Sie. Welches Gespräch passt zum Supermarkt?",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "listening",
-      "teil": "2b",
+      "part": "2b",
       "item": "2b",
       "item_type": "short-answer",
       "question": "Hören Sie noch einmal. Welche Wörter hören Sie? Kreuzen Sie an. (Schinken, Fleisch, Kartoffeln, Brot, Marmelade, Wurst, Kuchen, Brötchen, Milch, Apfel, Banane, Käse)",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "",
-      "teil": "2c",
+      "part": "2c",
       "item": "2c",
       "item_type": "matching",
       "question": "Geschäfte: Wo kaufen Sie die Lebensmittel aus 2b? Ordnen Sie zu und vergleichen Sie. (Bäckerei, Markt, Metzgerei, Supermarkt)",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "reading",
-      "teil": "3a",
+      "part": "3a",
       "item": "3a",
       "item_type": "multiple-choice",
       "question": "Die Einladung: „Wir grillen heute Abend bei uns. Kommt ihr?“ Welche Antwort passt?",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "reading",
-      "teil": "3b",
+      "part": "3b",
       "item": "3b",
       "item_type": "short-answer",
       "question": "Mario und Elena planen eine Grillparty. Schreiben Sie die Einkaufszettel für Mario und Elena.",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "listening",
-      "teil": "3c",
+      "part": "3c",
       "item": "3c",
       "item_type": "short-answer",
       "question": "Hören Sie noch einmal. Was machen Mario und Elena nach dem Einkauf?",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "",
-      "teil": "3d",
+      "part": "3d",
       "item": "Käse",
       "item_type": "fill-in",
       "question": "Akkusativ. Ergänzen Sie die Tabelle (maskulin): den / einen / ___ Käse",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "",
-      "teil": "3d",
+      "part": "3d",
       "item": "Brot",
       "item_type": "fill-in",
       "question": "Akkusativ. Ergänzen Sie die Tabelle (neutrum): ___ / ___ / kein Brot",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "",
-      "teil": "3d",
+      "part": "3d",
       "item": "Gurke",
       "item_type": "fill-in",
       "question": "Akkusativ. Ergänzen Sie die Tabelle (feminin): ___ / ___ / keine Gurke",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "",
-      "teil": "3d",
+      "part": "3d",
       "item": "Tomaten",
       "item_type": "fill-in",
       "question": "Akkusativ. Ergänzen Sie die Tabelle (Plural): ___ / – / keine Tomaten",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "speaking",
-      "teil": "4",
+      "part": "4",
       "item": "4",
       "item_type": "speaking-task",
       "question": "Zusammen essen. Arbeiten Sie zu viert. Wer macht was? Schreiben Sie einen Einkaufszettel. Wer kauft was? Wer kocht?",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "",
-      "teil": "5a",
+      "part": "5a",
       "item": "5a",
       "item_type": "speaking-task",
       "question": "Umlaute ä – ö – ü. Hören Sie und sprechen Sie nach. (Apfel – Äpfel, Saft – Säfte, Brot – Brötchen, Markt – Märkte)",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "",
-      "teil": "5b",
+      "part": "5b",
       "item": "5b",
       "item_type": "speaking-task",
       "question": "Hören Sie ein Wort mit Umlaut? Stehen Sie auf. Sprechen Sie dann die Wörter nach.",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "listening",
-      "teil": "6a",
+      "part": "6a",
       "item": "1",
       "item_type": "matching",
       "question": "Hören Sie und lesen Sie die Dialoge. Welches Bild passt? Dialog 1: „Ich brauche einen Euro für den Einkaufswagen. Können Sie wechseln, bitte?“",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "listening",
-      "teil": "6a",
+      "part": "6a",
       "item": "2",
       "item_type": "matching",
       "question": "Welches Bild passt? Dialog 2: „Was kostet der Apfelsaft?“ … „Und wie viel kostet der Orangensaft?“",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "listening",
-      "teil": "6a",
+      "part": "6a",
       "item": "3",
       "item_type": "matching",
       "question": "Welches Bild passt? Dialog 3: „Wer kommt dran?“ … „Ich möchte ein Stück Emmentaler, bitte.“ … „150 Gramm Schinken.“",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "listening",
-      "teil": "6a",
+      "part": "6a",
       "item": "4",
       "item_type": "matching",
       "question": "Welches Bild passt? Dialog 4: „Entschuldigung, wo finde ich Reis?“ – „Dort rechts.“",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "listening",
-      "teil": "6a",
+      "part": "6a",
       "item": "5",
       "item_type": "matching",
       "question": "Welches Bild passt? Dialog 5: „Ich brauche noch eine Tüte, bitte.“ … „Das macht dann 18,65 Euro.“",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "speaking",
-      "teil": "6b",
+      "part": "6b",
       "item": "6b",
       "item_type": "speaking-task",
       "question": "Spielen und variieren Sie die Dialoge in 6a.",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "speaking",
-      "teil": "6c",
+      "part": "6c",
       "item": "6c",
       "item_type": "speaking-task",
       "question": "Recherchieren Sie die Preise für drei bis fünf Lebensmittel in D-A-CH und berichten Sie.",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "listening",
-      "teil": "7a",
+      "part": "7a",
       "item": "1",
       "item_type": "matching",
       "question": "Schmeckt’s? Hören Sie und lesen Sie die Dialoge. Welches Foto passt? Dialog 1: „Guten Appetit!“ … „Mmh, ja, das Fleisch schmeckt sehr gut!“",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "listening",
-      "teil": "7a",
+      "part": "7a",
       "item": "2",
       "item_type": "matching",
       "question": "Welches Foto passt? Dialog 2: „Möchtet ihr noch ein Würstchen?“ … „Nein, danke, ich bin satt.“",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "listening",
-      "teil": "7a",
+      "part": "7a",
       "item": "3",
       "item_type": "matching",
       "question": "Welches Foto passt? Dialog 3: „Möchtest du Salat?“ – „Nein, danke. Ich esse keine Gurken.“",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "speaking",
-      "teil": "7b",
+      "part": "7b",
       "item": "7b",
       "item_type": "speaking-task",
       "question": "Spielen Sie Dialoge (Guten Appetit! / Möchtest du noch …? / Nein, danke, ich bin satt.).",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "listening",
-      "teil": "8a",
+      "part": "8a",
       "item": "1",
       "item_type": "fill-in",
       "question": "Wer möchte was? Hören Sie und ergänzen Sie. Der Mann möchte ein ___.",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "listening",
-      "teil": "8a",
+      "part": "8a",
       "item": "2",
       "item_type": "fill-in",
       "question": "Wer möchte was? Die Frau trinkt gern ___.",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "listening",
-      "teil": "8a",
+      "part": "8a",
       "item": "3",
       "item_type": "fill-in",
       "question": "Wer möchte was? Der Mann möchte keine ___.",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "speaking",
-      "teil": "8b",
+      "part": "8b",
       "item": "8b",
       "item_type": "speaking-task",
       "question": "Was essen und trinken Sie gern? Machen Sie ein Interview mit Ihrem Partner / Ihrer Partnerin und berichten Sie.",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "reading",
-      "teil": "9a",
+      "part": "9a",
       "item": "9a",
       "item_type": "short-answer",
       "question": "Umfrage „Was essen Sie?“. Lesen Sie einen Text und machen Sie Notizen: Wer isst wann was? (morgens, vormittags, mittags, nachmittags, abends)",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "speaking",
-      "teil": "9b",
+      "part": "9b",
       "item": "9b",
       "item_type": "speaking-task",
       "question": "Was essen und trinken die Personen? Erzählen Sie. (Morgens mag Lina … / Maria isst mittags …)",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "writing",
-      "teil": "9c",
+      "part": "9c",
       "item": "9c",
       "item_type": "writing-task",
       "question": "Was essen Sie wann? Schreiben Sie einen Text wie in 9a.",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10a",
+      "part": "10a",
       "item": "10a",
       "item_type": "open-ended",
       "question": "Eine Mindmap machen. Arbeiten Sie in Gruppen: „Essen und Trinken“ (Lebensmittel, Getränke, Geschäfte, Mahlzeiten).",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10b",
+      "part": "10b",
       "item": "1",
       "item_type": "fill-in",
       "question": "Wörter in Paaren lernen. Ergänzen Sie. das Brot und ___",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10b",
+      "part": "10b",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. der Kaffee und ___",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10b",
+      "part": "10b",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. das Salz und ___",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10b",
+      "part": "10b",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Obst und ___",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10b",
+      "part": "10b",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. der Essig und ___",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10b",
+      "part": "10b",
       "item": "6",
       "item_type": "fill-in",
       "question": "Ergänzen Sie. Essen und ___",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "10c",
+      "part": "10c",
       "item": "10c",
       "item_type": "open-ended",
       "question": "Was passt für Sie zusammen? Bilden Sie Wortgruppen und vergleichen Sie im Kurs.",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "reading",
-      "teil": "11",
+      "part": "11",
       "item": "1",
       "item_type": "short-answer",
       "question": "Koch am Bodensee. Wo arbeitet Max Schmidt?",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "reading",
-      "teil": "11",
+      "part": "11",
       "item": "2",
       "item_type": "short-answer",
       "question": "Was macht er auf dem Markt?",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "reading",
-      "teil": "11",
+      "part": "11",
       "item": "3",
       "item_type": "short-answer",
       "question": "Was macht er im Restaurant?",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "reading",
-      "teil": "11",
+      "part": "11",
       "item": "4",
       "item_type": "short-answer",
       "question": "Wie findet er seinen Beruf?",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "reading",
-      "teil": "11",
+      "part": "11",
       "item": "5",
       "item_type": "short-answer",
       "question": "Wann arbeitet er?",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "listening",
-      "teil": "12a",
+      "part": "12a",
       "item": "12a",
       "item_type": "fill-in",
       "question": "Beas Idee. Sehen Sie Szene 8. Was will die WG am Nachmittag machen? Bea, Anna, Max und Luca wollen zusammen ___",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "listening",
-      "teil": "12b",
+      "part": "12b",
       "item": "12b",
       "item_type": "multiple-choice",
       "question": "Anna und Luca gehen in den Supermarkt. Welcher Einkaufszettel passt?",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "listening",
-      "teil": "12c",
+      "part": "12c",
       "item": "1",
       "item_type": "fill-in",
       "question": "Was kaufen Anna und Luca? Ergänzen Sie. Ä _ _ _ _",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "listening",
-      "teil": "12c",
+      "part": "12c",
       "item": "2",
       "item_type": "fill-in",
       "question": "Was kaufen Anna und Luca? B _ _ _ _ _",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "listening",
-      "teil": "12c",
+      "part": "12c",
       "item": "3",
       "item_type": "fill-in",
       "question": "Was kaufen Anna und Luca? T _ _ _ _ _ _",
@@ -1725,7 +1725,7 @@
     },
     {
       "section": "listening",
-      "teil": "12c",
+      "part": "12c",
       "item": "4",
       "item_type": "fill-in",
       "question": "Was kaufen Anna und Luca? eine G _ _ _ _",
@@ -1739,7 +1739,7 @@
     },
     {
       "section": "listening",
-      "teil": "12c",
+      "part": "12c",
       "item": "5",
       "item_type": "fill-in",
       "question": "Was kaufen Anna und Luca? S _ _ _ _ _ _",
@@ -1753,7 +1753,7 @@
     },
     {
       "section": "listening",
-      "teil": "12c",
+      "part": "12c",
       "item": "6",
       "item_type": "fill-in",
       "question": "Was kaufen Anna und Luca? K _ _ _",
@@ -1767,7 +1767,7 @@
     },
     {
       "section": "listening",
-      "teil": "13a",
+      "part": "13a",
       "item": "13a",
       "item_type": "ordering",
       "question": "Der WG-Nachmittag. Sehen Sie Szene 9 und bringen Sie die sechs Fotos (A–F) in die richtige Reihenfolge. (F = 1)",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "listening",
-      "teil": "13b",
+      "part": "13b",
       "item": "13b",
       "item_type": "ordering",
       "question": "Ordnen Sie die Sätze den Fotos zu und lesen Sie sie in der richtigen Reihenfolge: 1 Alle trinken Kaffee und essen Kuchen. 2 Bea und Max machen einen Apfelkuchen. 3 Max findet Mehl und Zucker. 4 Max braucht Eier. Er geht zu Frau Müller. 5 Anna und Luca kommen mit Kuchen nach Hause. 6 Max bringt Frau Müller ein Stück Kuchen.",
@@ -1795,7 +1795,7 @@
     },
     {
       "section": "writing",
-      "teil": "13c",
+      "part": "13c",
       "item": "13c",
       "item_type": "writing-task",
       "question": "Sie möchten Ihren Lieblingskuchen backen. Was brauchen Sie? Notieren Sie.",
@@ -1809,7 +1809,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "1",
       "item_type": "matching",
       "question": "Was macht Kaan? Ordnen Sie die Fotos den Sätzen zu. 1 Kaan geht in die Mensa.",
@@ -1823,7 +1823,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "2",
       "item_type": "matching",
       "question": "Ordnen Sie zu. 2 Kaan trifft Marie.",
@@ -1837,7 +1837,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "3",
       "item_type": "matching",
       "question": "Ordnen Sie zu. 3 Er fährt in die Uni.",
@@ -1851,7 +1851,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "4",
       "item_type": "matching",
       "question": "Ordnen Sie zu. 4 Kaan duscht.",
@@ -1865,7 +1865,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "5",
       "item_type": "matching",
       "question": "Ordnen Sie zu. 5 Er lernt in der Bibliothek.",
@@ -1879,7 +1879,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "6",
       "item_type": "matching",
       "question": "Ordnen Sie zu. 6 Er besucht seine Oma.",
@@ -1893,7 +1893,7 @@
     },
     {
       "section": "listening",
-      "teil": "1a",
+      "part": "1a",
       "item": "7",
       "item_type": "matching",
       "question": "Ordnen Sie zu. 7 Kaan frühstückt und liest Nachrichten.",
@@ -1907,7 +1907,7 @@
     },
     {
       "section": "listening",
-      "teil": "1b",
+      "part": "1b",
       "item": "1b",
       "item_type": "short-answer",
       "question": "Wann macht Kaan was? Hören Sie und nummerieren Sie die Fotos. Erzählen Sie.",
@@ -1921,7 +1921,7 @@
     },
     {
       "section": "listening",
-      "teil": "2a",
+      "part": "2a",
       "item": "2a",
       "item_type": "short-answer",
       "question": "Was macht Kaan am Sonntag? Hören Sie das Gespräch und markieren Sie. (Zeitung lesen, mit der Familie zu Mittag essen, lange schlafen, Fußball spielen, Freunde treffen, lernen, Oma besuchen, Pizza essen, Marie treffen, in den Supermarkt gehen, ins Kino gehen, am Computer arbeiten)",

@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "1",
       "item_type": "matching",
       "question": "бутерброд (Russisch)",
@@ -17,7 +17,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "2",
       "item_type": "matching",
       "question": "クランケ (Japanisch)",
@@ -31,7 +31,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "3",
       "item_type": "matching",
       "question": "otoban (Türkisch)",
@@ -45,7 +45,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "4",
       "item_type": "matching",
       "question": "handuk (Indonesisch)",
@@ -59,7 +59,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "5",
       "item_type": "matching",
       "question": "wurstel (Italienisch)",
@@ -73,7 +73,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "6",
       "item_type": "matching",
       "question": "nudli (Ungarisch)",
@@ -87,7 +87,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "7",
       "item_type": "matching",
       "question": "kindergarten (Englisch)",
@@ -101,7 +101,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "8",
       "item_type": "matching",
       "question": "куфар (Bulgarisch)",
@@ -115,7 +115,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "1a",
+      "part": "1a",
       "item": "9",
       "item_type": "matching",
       "question": "flaša (Serbisch)",
@@ -129,7 +129,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "1b",
       "item_type": "open-ended",
       "question": "Wie heißen die Wörter in Ihrer Sprache?",
@@ -143,7 +143,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "1c",
       "item_type": "open-ended",
       "question": "Kennen Sie andere deutsche Wörter? Sammeln Sie und machen Sie ein Kursplakat.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "2a",
       "item_type": "short-answer",
       "question": "Hallo! Wer bist du? Hören Sie und lesen Sie. Wie heißen die Personen?",
@@ -171,7 +171,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "2b",
       "item_type": "speaking-task",
       "question": "Hallo und tschüs. Spielen Sie die Situationen.",
@@ -185,7 +185,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "2c",
       "item_type": "speaking-task",
       "question": "Kennen Sie deutsche Namen oder bekannte deutsche Personen? Sammeln Sie.",
@@ -199,7 +199,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "3a",
       "item_type": "short-answer",
       "question": "Guten Tag. Wie heißen Sie? Hören Sie und lesen Sie. Wie heißen die Personen?",
@@ -213,7 +213,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "3b",
       "item_type": "speaking-task",
       "question": "Guten Tag. Auf Wiedersehen. Spielen Sie die Situationen.",
@@ -227,7 +227,7 @@
     },
     {
       "section": "reading",
-      "teil": "4a",
+      "part": "4a",
       "item": "1",
       "item_type": "matching",
       "question": "Woher kommen Sie, Frau Lang?",
@@ -241,7 +241,7 @@
     },
     {
       "section": "reading",
-      "teil": "4a",
+      "part": "4a",
       "item": "2",
       "item_type": "matching",
       "question": "Welche Sprachen sprechen Sie?",
@@ -255,7 +255,7 @@
     },
     {
       "section": "reading",
-      "teil": "4a",
+      "part": "4a",
       "item": "3",
       "item_type": "matching",
       "question": "Wo wohnen Sie?",
@@ -269,7 +269,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "4b",
       "item_type": "speaking-task",
       "question": "Variieren Sie den Dialog.",
@@ -283,7 +283,7 @@
     },
     {
       "section": "reading",
-      "teil": "4c",
+      "part": "4c",
       "item": "1",
       "item_type": "fill-in",
       "question": "Sie ___ in Frankfurt. (Ergänzen Sie das Verb.)",
@@ -297,7 +297,7 @@
     },
     {
       "section": "reading",
-      "teil": "4c",
+      "part": "4c",
       "item": "2",
       "item_type": "fill-in",
       "question": "Jan ___ aus Frankfurt.",
@@ -311,7 +311,7 @@
     },
     {
       "section": "reading",
-      "teil": "4c",
+      "part": "4c",
       "item": "3",
       "item_type": "fill-in",
       "question": "Er ___ in Zürich.",
@@ -325,7 +325,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "5a",
       "item_type": "speaking-task",
       "question": "Und Sie? Machen Sie zwei Interviews wie in 4b: formell und informell. Notieren Sie.",
@@ -339,7 +339,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "5b",
       "item_type": "speaking-task",
       "question": "Wer ist das? Stellen Sie einen Partner / eine Partnerin vor. Die anderen raten den Namen.",
@@ -353,7 +353,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "6a",
       "item_type": "speaking-task",
       "question": "Die Zahlen. Hören Sie die Zahlen und sprechen Sie dann laut mit.",
@@ -367,7 +367,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "6b",
       "item_type": "short-answer",
       "question": "Hören Sie. Notieren Sie die Handynummern (Herr Klein, Frau Groß).",
@@ -381,7 +381,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "6c",
       "item_type": "speaking-task",
       "question": "Fragen Sie Ihren Partner / Ihre Partnerin nach der Telefonnummer. Notieren Sie.",
@@ -395,7 +395,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "7a",
       "item_type": "speaking-task",
       "question": "Das Alphabet. Hören Sie zuerst und lesen Sie dann laut mit.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "7b",
       "item_type": "short-answer",
       "question": "Hören Sie das Gespräch. Notieren Sie die E-Mail-Adressen.",
@@ -423,7 +423,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "7c",
       "item_type": "speaking-task",
       "question": "Variieren Sie den Dialog.",
@@ -437,7 +437,7 @@
     },
     {
       "section": "reading",
-      "teil": "8a",
+      "part": "8a",
       "item": "1",
       "item_type": "short-answer",
       "question": "Ergänzen Sie die Tabelle: Gabriel Santos — kommt aus …? wohnt in …? spricht …? lernt …?",
@@ -451,7 +451,7 @@
     },
     {
       "section": "reading",
-      "teil": "8a",
+      "part": "8a",
       "item": "2",
       "item_type": "short-answer",
       "question": "Ergänzen Sie die Tabelle: Alessia Conti — kommt aus …? wohnt in …? spricht …? lernt …?",
@@ -465,7 +465,7 @@
     },
     {
       "section": "reading",
-      "teil": "8a",
+      "part": "8a",
       "item": "3",
       "item_type": "short-answer",
       "question": "Ergänzen Sie die Tabelle: Boris Walder — kommt aus …? wohnt in …? spricht …? lernt …?",
@@ -479,7 +479,7 @@
     },
     {
       "section": "reading",
-      "teil": "8a",
+      "part": "8a",
       "item": "4",
       "item_type": "short-answer",
       "question": "Ergänzen Sie die Tabelle: Saki Tanaka — kommt aus …? wohnt in …? spricht …? lernt …?",
@@ -493,7 +493,7 @@
     },
     {
       "section": "reading",
-      "teil": "8a",
+      "part": "8a",
       "item": "5",
       "item_type": "short-answer",
       "question": "Ergänzen Sie die Tabelle: Kateb Brahim — kommt aus …? wohnt in …? spricht …? lernt …?",
@@ -507,7 +507,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "1",
       "item_type": "fill-in",
       "question": "Österreich → ___ (Sprache)",
@@ -521,7 +521,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "2",
       "item_type": "fill-in",
       "question": "die Schweiz → Französisch, Italienisch, Rätoromanisch, ___ (Sprache)",
@@ -535,7 +535,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "3",
       "item_type": "fill-in",
       "question": "___ → Französisch (Land)",
@@ -549,7 +549,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "4",
       "item_type": "fill-in",
       "question": "Brasilien → ___ (Sprache)",
@@ -563,7 +563,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "5",
       "item_type": "fill-in",
       "question": "___ → Italienisch (Land)",
@@ -577,7 +577,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "6",
       "item_type": "fill-in",
       "question": "Spanien → ___ (Sprache)",
@@ -591,7 +591,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "7",
       "item_type": "fill-in",
       "question": "___ → Polnisch (Land)",
@@ -605,7 +605,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "8",
       "item_type": "fill-in",
       "question": "die Türkei → ___ (Sprache)",
@@ -619,7 +619,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "9",
       "item_type": "fill-in",
       "question": "___ → Russisch (Land)",
@@ -633,7 +633,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "10",
       "item_type": "fill-in",
       "question": "Algerien → ___ (Sprache)",
@@ -647,7 +647,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "11",
       "item_type": "fill-in",
       "question": "Japan → ___ (Sprache)",
@@ -661,7 +661,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "8b",
+      "part": "8b",
       "item": "12",
       "item_type": "fill-in",
       "question": "die USA → ___ (Sprache)",
@@ -675,7 +675,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "8c",
       "item_type": "speaking-task",
       "question": "Sprechen Sie zu zweit. Woher kommen Sie? Welche Sprachen sprechen Sie? Welche Sprachen lernen Sie?",
@@ -689,7 +689,7 @@
     },
     {
       "section": "speaking",
-      "teil": "",
+      "part": "",
       "item": "8d",
       "item_type": "open-ended",
       "question": "Wie heißen die Länder aus 8b in Ihrer Sprache?",
@@ -703,7 +703,7 @@
     },
     {
       "section": "writing",
-      "teil": "",
+      "part": "",
       "item": "8e",
       "item_type": "writing-task",
       "question": "Wer sind Sie? Schreiben Sie einen kurzen Text (Name, Land, Stadt, Sprachen).",
@@ -717,7 +717,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "9",
       "item_type": "multiple-choice",
       "question": "Ich bin Anna. Sehen Sie Szene 1. Wer wohnt in der Netzwerk-WG? Kreuzen Sie an. (Luca / Frau Müller / Anna / Bea / Max)",
@@ -731,7 +731,7 @@
     },
     {
       "section": "listening",
-      "teil": "10",
+      "part": "10",
       "item": "1",
       "item_type": "matching",
       "question": "Max, Bea und Luca ___",
@@ -745,7 +745,7 @@
     },
     {
       "section": "listening",
-      "teil": "10",
+      "part": "10",
       "item": "2",
       "item_type": "matching",
       "question": "Anna ist neu. Sie ___",
@@ -759,7 +759,7 @@
     },
     {
       "section": "listening",
-      "teil": "10",
+      "part": "10",
       "item": "3",
       "item_type": "matching",
       "question": "Bea ___",
@@ -773,7 +773,7 @@
     },
     {
       "section": "listening",
-      "teil": "10",
+      "part": "10",
       "item": "4",
       "item_type": "matching",
       "question": "Luca ___",
@@ -787,7 +787,7 @@
     },
     {
       "section": "listening",
-      "teil": "10",
+      "part": "10",
       "item": "5",
       "item_type": "matching",
       "question": "Max ist nicht da, er ___",
@@ -801,7 +801,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "11",
       "item_type": "short-answer",
       "question": "Und deine Nummer? Sehen Sie Szene 3. Notieren Sie die Handynummern von Max und Anna und den Nachnamen von Bea.",
@@ -815,7 +815,7 @@
     },
     {
       "section": "listening",
-      "teil": "12",
+      "part": "12",
       "item": "1",
       "item_type": "matching",
       "question": "Bea, das ist Anna.",
@@ -829,7 +829,7 @@
     },
     {
       "section": "listening",
-      "teil": "12",
+      "part": "12",
       "item": "2",
       "item_type": "matching",
       "question": "Nein, da sind Sie hier falsch.",
@@ -843,7 +843,7 @@
     },
     {
       "section": "listening",
-      "teil": "12",
+      "part": "12",
       "item": "3",
       "item_type": "matching",
       "question": "Woher kommst du denn?",
@@ -857,7 +857,7 @@
     },
     {
       "section": "listening",
-      "teil": "12",
+      "part": "12",
       "item": "4",
       "item_type": "matching",
       "question": "Ah, du bist neu hier. Ich bin Luca.",
@@ -871,7 +871,7 @@
     },
     {
       "section": "listening",
-      "teil": "12",
+      "part": "12",
       "item": "5",
       "item_type": "matching",
       "question": "Und wie ist deine Nummer?",
@@ -885,7 +885,7 @@
     },
     {
       "section": "listening",
-      "teil": "",
+      "part": "",
       "item": "1",
       "item_type": "short-answer",
       "question": "Was machen die Leute gern? Hören Sie und notieren Sie (Emily, Boris, Eva).",

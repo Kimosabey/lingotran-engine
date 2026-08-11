@@ -33,9 +33,9 @@ For EACH item output:
 - `part`: the exercise-group label if printed (e.g. "Teil 1", "Übung 3"), else "".
   The FIELD NAME is English (it was `teil` until 2026-08-10, which left German's
   exported sheet misaligned with French's `part` for the identical concept); the
-  VALUE stays exactly as printed, so "Teil 1" is correct content for it. Existing
-  records that still use the old `teil` key are read as a fallback, so no page
-  data had to be rewritten — but emit `part` for anything new.
+  VALUE stays exactly as printed, so "Teil 1" is correct content for it. All 5,413
+  existing records were renamed on 2026-08-10 and the read-either fallback removed,
+  so `teil` is now simply wrong — always emit `part`.
 - `instruction`: the exercise's printed RUBRIC — the sentence telling the learner what to
   do — VERBATIM in German, for the group this item belongs to (e.g. "Ergänze den Dialog.",
   "Kreuzen Sie an: richtig oder falsch?"). Every item in the same `part` repeats the same
@@ -46,7 +46,10 @@ For EACH item output:
 - `item`: the printed item number/letter (e.g. "1", "2a"), else a running index
 - `item_type`: multiple-choice, matching, true-false, fill-in, ordering, short-answer, writing-task, speaking-task, open-ended
 - `question`: the item stem/prompt VERBATIM (German; umlauts/ß exact). For matching, state the left element.
-- `option_a`,`option_b`,`option_c`: MC/choice options verbatim (else "")
+- `option_a` … `option_e`: MC/choice options verbatim, in printed order (else "").
+  Capture ALL printed options, up to five. The schema stopped at `option_c` until
+  2026-08-10, so a book printing four or five silently lost the rest and its answer
+  pointed at a column that did not exist.
 - `correct_answer`: fill ONLY if resolvable — a marked answer on the page, or from a Lösungen/answer-key page you were given. Use "(open-ended)" for free writing/speaking tasks. Else "".
 - `level`: the collection's CEFR level, BARE — `A1`, never a decorated variant like
   "A1 (inferred)". `level` is a taxonomy column with a fixed enum; the French side

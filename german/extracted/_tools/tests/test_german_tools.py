@@ -73,13 +73,15 @@ class QuestionsSchemaTests(unittest.TestCase):
         self.assertNotIn('teil', q_mod.COLUMNS)
         self.assertIn('level', q_mod.COLUMNS)
 
-    def test_row_for_reads_the_legacy_teil_key(self):
-        """Page records still carry `teil`; the rename was export-schema only,
-        so no page data had to be rewritten."""
+    def test_legacy_teil_key_is_no_longer_read(self):
+        """The shim is gone (gap P3). All 5,413 records were renamed to `part`
+        on 2026-08-10, so a lingering `teil` is now simply wrong and must NOT
+        be silently accepted -- a fallback that outlives its migration hides
+        the fact that some record was never migrated."""
         row = q_mod.row_for('b', {'teil': 'Teil 1', 'item': '1'}, 'A1')
-        self.assertEqual(row['part'], 'Teil 1')
+        self.assertEqual(row['part'], '', 'teil must no longer be read')
 
-    def test_part_prefers_the_new_key_when_both_exist(self):
+    def test_part_is_the_only_key_read(self):
         row = q_mod.row_for('b', {'teil': 'old', 'part': 'new'}, 'A1')
         self.assertEqual(row['part'], 'new')
 

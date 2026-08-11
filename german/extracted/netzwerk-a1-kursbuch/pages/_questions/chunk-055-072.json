@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "speaking",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu zweit und sprechen Sie abwechselnd.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "3a",
       "item_type": "speaking-task",
       "question": "Und Ihr Tag? Erzählen Sie. Die anderen raten: Ist das am Wochenende oder nicht?",
@@ -31,7 +31,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b",
       "item_type": "writing-task",
       "question": "Montag, Dienstag, Mittwoch … Mein Tag. Machen Sie fünf Fotos zu einem Tag und schreiben Sie zu jedem Foto einen Satz. Präsentieren Sie in Gruppen.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4a",
+      "part": "Übung 4a",
       "item": "4a",
       "item_type": "matching",
       "question": "Die Uhrzeiten. Hören Sie die Gespräche und ordnen Sie die Bilder zu (A Kino, B Bahnhof, C Schlafzimmer, D Büro).",
@@ -59,7 +59,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4b",
+      "part": "Übung 4b",
       "item": "4b-1",
       "item_type": "matching",
       "question": "Ordnen Sie die Uhrzeiten den Bildern zu: fünf vor zwei",
@@ -73,7 +73,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4b",
+      "part": "Übung 4b",
       "item": "4b-2",
       "item_type": "matching",
       "question": "Ordnen Sie die Uhrzeiten den Bildern zu: halb sieben",
@@ -87,7 +87,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4b",
+      "part": "Übung 4b",
       "item": "4b-3",
       "item_type": "matching",
       "question": "Ordnen Sie die Uhrzeiten den Bildern zu: zwanzig vor acht",
@@ -101,7 +101,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4b",
+      "part": "Übung 4b",
       "item": "4b-4",
       "item_type": "matching",
       "question": "Ordnen Sie die Uhrzeiten den Bildern zu: zehn nach neun",
@@ -115,7 +115,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a",
       "item_type": "speaking-task",
       "question": "Wie spät ist es? Fragen und antworten Sie.",
@@ -129,7 +129,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b",
       "item_type": "fill-in",
       "question": "Uhrzeit offiziell. Wann? Hören Sie und notieren Sie die Uhrzeit (1.–5.).",
@@ -143,7 +143,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c",
       "item_type": "speaking-task",
       "question": "Wie sagt man die Uhrzeiten in Ihrer Sprache? Vergleichen Sie.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "6",
       "item_type": "speaking-task",
       "question": "Wann …? – Um … Notieren Sie fünf Fragen. Arbeiten Sie dann zu zweit. Fragen und antworten Sie.",
@@ -171,7 +171,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-1",
       "item_type": "fill-in",
       "question": "Sehen Sie den Kalender von Familie Dobart an. Ergänzen Sie: Hannes ist … in Hamburg.",
@@ -185,7 +185,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Mara arbeitet …",
@@ -199,7 +199,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Florian hat … kein Spiel.",
@@ -213,7 +213,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Lena hat … Geigenunterricht.",
@@ -227,7 +227,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Mara trifft … Annalisa.",
@@ -241,7 +241,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-1",
       "item_type": "true-false",
       "question": "Sind die Sätze richtig oder falsch? Mara Dobart telefoniert mit der Musikschule.",
@@ -255,7 +255,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-2",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Die Tochter Lena ist am Montag bis 19:00 Uhr in der Schule.",
@@ -269,7 +269,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-3",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Der Sohn Florian kommt am Dienstag zum Trompetenunterricht.",
@@ -283,7 +283,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-4",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Florian ist krank und bleibt zu Hause.",
@@ -297,7 +297,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a",
       "item_type": "fill-in",
       "question": "Mara Dobart beschreibt ihre Familie. Ergänzen Sie die Possessivartikel (mein/meine …).",
@@ -311,7 +311,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b",
       "item_type": "writing-task",
       "question": "Schreiben Sie einen Text wie in 8a über Ihre (Fantasie-)Familie.",
@@ -325,7 +325,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "9",
       "item_type": "multiple-choice",
       "question": "„r“ hören. Wo hören Sie „r“, wo hören Sie „a“? Kreuzen Sie an (hören, Vater, treffen, Schwester, Trompete, Tochter, krank, Uhr, Büro, Computer). Wie ist die Regel?",
@@ -339,7 +339,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-1",
       "item_type": "matching",
       "question": "Ordnen Sie die Sätze den Fotos zu: Hannes und sein Motorrad.",
@@ -353,7 +353,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-2",
       "item_type": "matching",
       "question": "Ordnen Sie die Sätze den Fotos zu: Mara und ihr Sport.",
@@ -367,7 +367,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-3",
       "item_type": "matching",
       "question": "Ordnen Sie die Sätze den Fotos zu: Der Computer ist mein Hobby.",
@@ -381,7 +381,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-4",
       "item_type": "matching",
       "question": "Ordnen Sie die Sätze den Fotos zu: Lena und ihre Geige.",
@@ -395,7 +395,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-5",
       "item_type": "matching",
       "question": "Ordnen Sie die Sätze den Fotos zu: Unser Hund Otto liebt seinen Ball.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-6",
       "item_type": "matching",
       "question": "Ordnen Sie die Sätze den Fotos zu: Unsere Familie – alle zusammen.",
@@ -423,7 +423,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b",
       "item_type": "fill-in",
       "question": "Das Gästebuch. Lesen Sie die Einträge und ergänzen Sie die Possessivartikel.",
@@ -437,7 +437,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 10c",
+      "part": "Übung 10c",
       "item": "10c",
       "item_type": "speaking-task",
       "question": "Machen Sie zwei Stapel (Pronomen / Nomen plus Artikel). Ziehen Sie abwechselnd zwei Karten und bilden Sie Sätze.",
@@ -451,7 +451,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a",
       "item_type": "short-answer",
       "question": "Stress! Lesen Sie die E-Mail. Markieren Sie die Modalverben können, müssen und wollen. Unterstreichen Sie dann die anderen Verben.",
@@ -465,7 +465,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b",
       "item_type": "speaking-task",
       "question": "Was muss Mara machen? Was kann sie (nicht) machen? Was will sie machen? Berichten Sie.",
@@ -479,7 +479,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c-1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Modalverb: Wir (1) ___ uns gern am Mittwoch treffen.",
@@ -493,7 +493,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c-2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Modalverb: Ich (2) ___ bis 16 Uhr arbeiten.",
@@ -507,7 +507,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c-3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Modalverb: Aber dann (3) ___ wir uns sehen.",
@@ -521,7 +521,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c-4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Modalverb: (4) ___ du zum Yoga gehen oder",
@@ -535,7 +535,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c-5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Modalverb: (5) ___ wir joggen?",
@@ -549,7 +549,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c-6",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Modalverb: (6) ___ ihr kommen?",
@@ -563,7 +563,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c-7",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Modalverb: Wir (7) ___ ja morgen telefonieren, okay?",
@@ -577,7 +577,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 12",
+      "part": "Übung 12",
       "item": "12",
       "item_type": "speaking-task",
       "question": "Hören Sie das Gespräch und variieren Sie den Dialog dreimal mit verschiedenen Personen.",
@@ -591,7 +591,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-1",
       "item_type": "matching",
       "question": "Termin beim Arzt. Ordnen Sie die Aussagen zu: Guten Tag, Praxis Dr. Steinig, Svetlana Keller. Was kann ich für Sie tun?",
@@ -605,7 +605,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-2",
       "item_type": "matching",
       "question": "Ordnen Sie zu: Können Sie am Freitag um 10:45 Uhr kommen?",
@@ -619,7 +619,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-3",
       "item_type": "matching",
       "question": "Ordnen Sie zu: Nein, leider nicht, am Montag ist nichts frei. Geht es am Mittwoch um 11:30 Uhr?",
@@ -633,7 +633,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-4",
       "item_type": "matching",
       "question": "Ordnen Sie zu: Also Mittwoch um 11:30 Uhr. Wie ist noch mal Ihr Name, bitte?",
@@ -647,7 +647,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-5",
       "item_type": "matching",
       "question": "Ordnen Sie zu: Danke, Frau Dobart. Bis Mittwoch. Auf Wiederhören.",
@@ -661,7 +661,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 13b",
+      "part": "Übung 13b",
       "item": "13b",
       "item_type": "speaking-task",
       "question": "Lesen Sie den Dialog mit einem Partner / einer Partnerin.",
@@ -675,7 +675,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 14",
+      "part": "Übung 14",
       "item": "14",
       "item_type": "speaking-task",
       "question": "Vereinbaren Sie einen Termin. Wählen Sie eine Rollenkarte und spielen Sie die Dialoge.",
@@ -689,7 +689,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 15a",
+      "part": "Übung 15a",
       "item": "15a",
       "item_type": "short-answer",
       "question": "Lesen Sie und sehen Sie die Bilder an. Kann man hier zu spät kommen? Wie viele Minuten? Markieren und vergleichen Sie.",
@@ -703,7 +703,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 15b",
+      "part": "Übung 15b",
       "item": "15b",
       "item_type": "fill-in",
       "question": "Hören Sie. Wie viele Minuten sind die Personen zu spät? Ist das ein Problem? Ergänzen Sie die Tabelle (Arzt, Bar, Firma, Abendessen).",
@@ -717,7 +717,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-1",
       "item_type": "matching",
       "question": "A wartet, B kommt zu spät. Wer sagt das? Es tut mir leid, ich bin zu spät.",
@@ -731,7 +731,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-2",
       "item_type": "matching",
       "question": "Wer sagt das (A oder B)? Kein Problem.",
@@ -745,7 +745,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-3",
       "item_type": "matching",
       "question": "Wer sagt das (A oder B)? Bitte entschuldigen Sie.",
@@ -759,7 +759,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-4",
       "item_type": "matching",
       "question": "Wer sagt das (A oder B)? Entschuldigung, bitte.",
@@ -773,7 +773,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-5",
       "item_type": "matching",
       "question": "Wer sagt das (A oder B)? Das nächste Mal bitte pünktlich!",
@@ -787,7 +787,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-6",
       "item_type": "matching",
       "question": "Wer sagt das (A oder B)? Macht nichts.",
@@ -801,7 +801,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-7",
       "item_type": "matching",
       "question": "Wer sagt das (A oder B)? Schon gut.",
@@ -815,7 +815,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c-8",
       "item_type": "matching",
       "question": "Wer sagt das (A oder B)? Ich bitte um Entschuldigung.",
@@ -829,7 +829,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15d",
+      "part": "Übung 15d",
       "item": "15d",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie in Gruppen und spielen Sie die Situationen aus 15a.",
@@ -843,7 +843,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16",
+      "part": "Übung 16",
       "item": "16",
       "item_type": "ordering",
       "question": "Wir gehen joggen. Sehen Sie Szene 10. Was passiert zuerst, was später? Ordnen Sie die Aussagen (Max schläft noch / Anna klopft / kein Brot da / …).",
@@ -857,7 +857,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "17",
       "item_type": "fill-in",
       "question": "Wo ist Max? Sehen Sie Szene 11. Wer macht das? Ergänzen Sie die Namen Anna, Bea, Luca und Max.",
@@ -871,7 +871,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 18a",
+      "part": "Übung 18a",
       "item": "18a",
       "item_type": "multiple-choice",
       "question": "Was glauben Sie: Was machen Luca, Bea und Anna? Kreuzen Sie an (kochen / Restaurant / Max schreiben / online bestellen / Supermarkt).",
@@ -885,7 +885,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 18b",
+      "part": "Übung 18b",
       "item": "18b",
       "item_type": "short-answer",
       "question": "Mmh, lecker. Sehen Sie Szene 12. Sind Ihre Vermutungen aus 18a richtig?",
@@ -899,7 +899,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 18c",
+      "part": "Übung 18c",
       "item": "18c",
       "item_type": "matching",
       "question": "Sehen Sie Szene 12 noch einmal. Zu welchen Fotos (A/B) passen die Denkblasen? Ordnen Sie zu.",
@@ -913,7 +913,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1a",
+      "part": "Übung 1a",
       "item": "1a",
       "item_type": "speaking-task",
       "question": "Sehen Sie die Fotos an. Welche Freizeitaktivität passt? Raten Sie.",
@@ -927,7 +927,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1b",
+      "part": "Übung 1b",
       "item": "1b",
       "item_type": "speaking-task",
       "question": "Welche Wörter in 1a sind ähnlich in Ihrer Sprache oder kennen Sie schon aus anderen Sprachen?",
@@ -941,7 +941,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1c",
+      "part": "Übung 1c",
       "item": "1c",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu zweit. Wählen Sie drei Fotos. Notieren Sie zu den Fotos fünf Wörter. Das Wörterbuch hilft. Wer ist zuerst fertig?",
@@ -955,7 +955,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a",
       "item_type": "short-answer",
       "question": "Hören Sie. Um welche Freizeitaktivitäten geht es? Notieren Sie (1.–4.).",
@@ -969,7 +969,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b",
       "item_type": "speaking-task",
       "question": "Welche Freizeitaktivitäten mögen Sie? Suchen Sie Fotos und machen Sie Ratebilder oder spielen Sie Pantomime. Die anderen raten.",
@@ -983,7 +983,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "3a",
       "item_type": "short-answer",
       "question": "Sofias Geburtstag. Lesen Sie: Was planen Marc und Anne?",
@@ -997,7 +997,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Am 16.7. ___ Sofia Geburtstag.",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Sofia ___ am 17.7.",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Am 18.7. ___ die Freunde mit Sofia.",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie: Am 19.7. ___ Sofia ihre Eltern.",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4a",
+      "part": "Übung 4a",
       "item": "4a",
       "item_type": "fill-in",
       "question": "Wann haben die Personen Geburtstag? Hören Sie und notieren Sie das Datum (Marc; Susanne und Laura; Sven; Lena). Was ist besonders?",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a",
       "item_type": "matching",
       "question": "ei, eu, au. Wann haben die Personen Geburtstag? Hören und verbinden Sie (Rauter/Reuter/Reiter/Beimer/Beumer/Baumer mit März–August).",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b",
       "item_type": "speaking-task",
       "question": "Hören Sie und sprechen Sie nach.",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a",
       "item_type": "short-answer",
       "question": "Die Einladung. Lesen Sie und beschreiben Sie: Was wollen die Freunde machen?",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6b",
+      "part": "Übung 6b",
       "item": "6b",
       "item_type": "short-answer",
       "question": "Markieren Sie die Verben mitmachen, einladen, anfangen, abholen, mitbringen, einsammeln, anrufen und mitkommen. Was ist besonders?",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-1",
       "item_type": "ordering",
       "question": "Bilden Sie Sätze, beginnen Sie mit den markierten Wörtern: Marc und Anne / alle Freunde / einladen.",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-2",
       "item_type": "ordering",
       "question": "Bilden Sie einen Satz: der Tag / um 10 Uhr / anfangen.",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-3",
       "item_type": "ordering",
       "question": "Bilden Sie einen Satz: sie / Sofia / zusammen / abholen.",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-4",
       "item_type": "ordering",
       "question": "Bilden Sie einen Satz: Marc und Anne / das Essen / mitbringen (beginnen Sie mit „das Essen“).",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-5",
       "item_type": "ordering",
       "question": "Bilden Sie einen Satz: sie / bei Regen / alle / anrufen (beginnen Sie mit „bei Regen“).",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-6",
       "item_type": "ordering",
       "question": "Bilden Sie einen Satz: Marc und Anne / Geld / einsammeln.",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-7",
       "item_type": "ordering",
       "question": "Bilden Sie einen Satz: viele Freunde / am Samstag / können / mitkommen (beginnen Sie mit „am Samstag“).",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-1",
       "item_type": "speaking-task",
       "question": "Wie feiern Sie Geburtstag? Fragen Sie: Wen lädst du ein?",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-2",
       "item_type": "speaking-task",
       "question": "Fragen Sie: Wer ruft am Geburtstag an?",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-3",
       "item_type": "speaking-task",
       "question": "Fragen Sie: Was kaufst du für dein Fest ein?",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-4",
       "item_type": "speaking-task",
       "question": "Fragen Sie: Wann fängt das Fest an? Wann hört es auf?",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-5",
       "item_type": "speaking-task",
       "question": "Fragen Sie: Bringen deine Gäste etwas mit? Was?",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b",
       "item_type": "speaking-task",
       "question": "Suchen Sie einen anderen Partner / eine andere Partnerin und berichten Sie von Ihrem Interview.",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "8",
       "item_type": "writing-task",
       "question": "Ein Fest mit Freunden. Schreiben Sie eine Einladungs-Mail (Wann? Wo? Was?). Machen Sie zuerst Notizen.",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "9",
       "item_type": "speaking-task",
       "question": "Jan trifft Leela. Sehen Sie die Bilder an. Was passiert? Wie ist das in Ihrem Land? Erzählen Sie.",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a",
       "item_type": "multiple-choice",
       "question": "Die Bestellung. Hören Sie das Gespräch. Was bestellen Jan und Leela? Kreuzen Sie an (Apfelsaftschorle, Cola, Wasser, Salat mit Käse, Pizza mit Gemüse).",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b",
       "item_type": "fill-in",
       "question": "Personalpronomen im Akkusativ. Hören Sie noch einmal einen Teil des Gesprächs aus 10a. Ergänzen Sie (Für ___ bitte …).",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 10c",
+      "part": "Übung 10c",
       "item": "10c",
       "item_type": "speaking-task",
       "question": "Für wen ist was? Spielen Sie zu zweit. Würfeln Sie zwei Mal und bilden Sie Sätze.",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "11",
       "item_type": "speaking-task",
       "question": "Was möchten Sie? Spielen Sie zu dritt Dialoge (Speisekarte und Getränke).",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 12a",
+      "part": "Übung 12a",
       "item": "12a",
       "item_type": "ordering",
       "question": "Bezahlen im Restaurant. Hören Sie und ordnen Sie den Dialog. Wer sagt was? (Zusammen oder getrennt? / Das macht dann 25,30 € / Stimmt so / …).",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 12b",
+      "part": "Übung 12b",
       "item": "12b",
       "item_type": "speaking-task",
       "question": "Variieren Sie den Dialog.",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-1",
       "item_type": "true-false",
       "question": "Wie war das Abendessen? Hören Sie das Gespräch von Leela und Caro. Ist die Aussage richtig? Jan und Leela waren im Restaurant.",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-2",
       "item_type": "true-false",
       "question": "Ist die Aussage richtig? Das Abendessen war sehr lecker.",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-3",
       "item_type": "true-false",
       "question": "Ist die Aussage richtig? Leela hatte keinen Hunger.",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-4",
       "item_type": "true-false",
       "question": "Ist die Aussage richtig? Der Hund hatte Durst.",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-5",
       "item_type": "true-false",
       "question": "Ist die Aussage richtig? Jan und Leela hatten viel Spaß.",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-6",
       "item_type": "true-false",
       "question": "Ist die Aussage richtig? Leela trifft Jan heute wieder.",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-7",
       "item_type": "true-false",
       "question": "Ist die Aussage richtig? Sie gehen zusammen in den Park.",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 13b",
+      "part": "Übung 13b",
       "item": "13b",
       "item_type": "speaking-task",
       "question": "Arbeiten Sie zu zweit. Erzählen Sie von einem Besuch im Restaurant oder Café. Wie war es?",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14a",
+      "part": "Übung 14a",
       "item": "14a-1",
       "item_type": "fill-in",
       "question": "Verschiedene Lokale. Ergänzen Sie die Tabelle (Wo? / Wann geöffnet? / Essen und Trinken?): Kaffeehaus.",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14a",
+      "part": "Übung 14a",
       "item": "14a-2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Tabelle: Biergarten.",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14a",
+      "part": "Übung 14a",
       "item": "14a-3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Tabelle: Strandbar.",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 14a",
+      "part": "Übung 14a",
       "item": "14a-4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie die Tabelle: Kneipe.",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b",
       "item_type": "speaking-task",
       "question": "Was finden Sie interessant? Welches Lokal möchten Sie gern besuchen? Sprechen Sie in Gruppen.",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 14c",
+      "part": "Übung 14c",
       "item": "14c",
       "item_type": "speaking-task",
       "question": "Welche typischen Lokale gibt es in Ihrem Land / in Ihrer Stadt? Berichten Sie.",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 15a",
+      "part": "Übung 15a",
       "item": "15a",
       "item_type": "fill-in",
       "question": "Lesen Sie die Anzeigen (A–E). Wo fehlen diese Informationen: Preis, Ort, Uhrzeit, Datum?",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 15b",
+      "part": "Übung 15b",
       "item": "15b",
       "item_type": "fill-in",
       "question": "Hören Sie und ergänzen Sie die Informationen (Anzeigen A–E).",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15c",
+      "part": "Übung 15c",
       "item": "15c",
       "item_type": "speaking-task",
       "question": "Was wollen Sie gern machen? Sprechen Sie im Kurs und finden Sie für alle Aktivitäten einen Partner / eine Partnerin. Notieren Sie die Namen.",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15d",
+      "part": "Übung 15d",
       "item": "15d",
       "item_type": "speaking-task",
       "question": "Was kann man in Ihrer Stadt machen? Recherchieren Sie und präsentieren Sie im Kurs.",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16a",
+      "part": "Übung 16a",
       "item": "16a",
       "item_type": "matching",
       "question": "Luca hat Geburtstag. Sehen Sie Szene 13. Was bereiten Anna, Max und Bea für die Party vor? Verbinden Sie die Wörter mit dem Foto (Teller, Glas, Blume, Serviette, Brot, Geschenk, Kuchen, Kerze, Karte, Girlande).",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16b",
+      "part": "Übung 16b",
       "item": "16b-1",
       "item_type": "true-false",
       "question": "Was ist richtig? Kreuzen Sie an: Es ist zwölf Uhr.",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16b",
+      "part": "Übung 16b",
       "item": "16b-2",
       "item_type": "true-false",
       "question": "Was ist richtig? Luca kommt von der Arbeit.",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16b",
+      "part": "Übung 16b",
       "item": "16b-3",
       "item_type": "true-false",
       "question": "Was ist richtig? Die Freunde singen ein Lied für ihn.",
@@ -1725,7 +1725,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16b",
+      "part": "Übung 16b",
       "item": "16b-4",
       "item_type": "true-false",
       "question": "Was ist richtig? Luca schläft auf dem Sofa.",
@@ -1739,7 +1739,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16b",
+      "part": "Übung 16b",
       "item": "16b-5",
       "item_type": "true-false",
       "question": "Was ist richtig? Max bringt Luca einen Kaffee.",
@@ -1753,7 +1753,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 16b",
+      "part": "Übung 16b",
       "item": "16b-6",
       "item_type": "true-false",
       "question": "Was ist richtig? Luca möchte für die WG kochen.",
@@ -1767,7 +1767,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 17",
+      "part": "Übung 17",
       "item": "17",
       "item_type": "short-answer",
       "question": "Lucas Einladung. Sehen Sie Szene 14. Was essen und trinken Luca, Anna und Max? Markieren Sie in der Speisekarte.",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 18a",
+      "part": "Übung 18a",
       "item": "18a-1",
       "item_type": "matching",
       "question": "Essen für Bea. Was sagt Bea am Telefon? Ordnen Sie zu: Hallo Bea!",
@@ -1795,7 +1795,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 18a",
+      "part": "Übung 18a",
       "item": "18a-2",
       "item_type": "matching",
       "question": "Ordnen Sie zu: Was ist los?",
@@ -1809,7 +1809,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 18a",
+      "part": "Übung 18a",
       "item": "18a-3",
       "item_type": "matching",
       "question": "Ordnen Sie zu: Oh, wirklich? Schade!",
@@ -1823,7 +1823,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 18a",
+      "part": "Übung 18a",
       "item": "18a-4",
       "item_type": "matching",
       "question": "Ordnen Sie zu: Na gut, dann bis später.",
@@ -1837,7 +1837,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 18b",
+      "part": "Übung 18b",
       "item": "18b",
       "item_type": "matching",
       "question": "Sehen Sie die Szene noch einmal. Wer sagt was? Ordnen Sie zu (die Kellnerin / Luca / Anna / Max).",

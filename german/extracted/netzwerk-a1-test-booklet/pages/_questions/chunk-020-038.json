@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "true-false",
       "question": "Diego möchte Karin um halb vier treffen.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "true-false",
       "question": "Diego muss noch einen Kuchen kaufen.",
@@ -31,7 +31,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "true-false",
       "question": "Paul möchte am Sonntag mit Basti frühstücken.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "true-false",
       "question": "Basti und Paul gehen zusammen einkaufen.",
@@ -59,7 +59,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "true-false",
       "question": "Paul möchte ins Schwimmbad gehen.",
@@ -73,7 +73,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "fill-in",
       "question": "was machst du heute Abend? Hast du (1) _______?",
@@ -87,7 +87,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ich habe (2) _______ frei und kann lange schlafen.",
@@ -101,7 +101,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "3",
       "item_type": "fill-in",
       "question": "(3) _______ musst du heute arbeiten?",
@@ -115,7 +115,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wir (4) _______ später, okay?",
@@ -129,7 +129,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "5",
       "item_type": "fill-in",
       "question": "Liebe (5) _______",
@@ -143,7 +143,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Wählen Sie ein Bild. Sie sind in der Situation des gewählten Bildes. Spielen Sie diese Situation mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "fill-in",
       "question": "Wann: am (1) _______,",
@@ -171,7 +171,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "fill-in",
       "question": "(2) _______ Oktober,",
@@ -185,7 +185,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "fill-in",
       "question": "um (3) _______ Uhr",
@@ -199,7 +199,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wo: im (4) _______",
@@ -213,7 +213,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "fill-in",
       "question": "Eintritt: (5) _______ € pro Person",
@@ -227,7 +227,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "6",
       "item_type": "fill-in",
       "question": "Adresse: (6) _______gasse 14",
@@ -241,7 +241,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "7",
       "item_type": "fill-in",
       "question": "Wie fahren: U-Bahn (7) _______",
@@ -255,7 +255,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "8",
       "item_type": "fill-in",
       "question": "Wann treffen: um (8) _______ Uhr",
@@ -269,7 +269,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "9",
       "item_type": "fill-in",
       "question": "Geschenk: ein (9) _______",
@@ -283,7 +283,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "10",
       "item_type": "fill-in",
       "question": "Telefonnummer Kati: (10) 0167 _______",
@@ -297,7 +297,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "short-answer",
       "question": "das Messer – die Gabel – der Löffel – das Glas",
@@ -311,7 +311,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "short-answer",
       "question": "bestellen – klettern – schwimmen – wandern",
@@ -325,7 +325,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "short-answer",
       "question": "die Speisekarte – die Bestellung – die Mail – die Rechnung",
@@ -339,7 +339,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "short-answer",
       "question": "gut – teuer – lecker – schön",
@@ -353,7 +353,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "short-answer",
       "question": "die Limonade – das Trinkgeld – das Wasser – die Apfelsaftschorle",
@@ -367,7 +367,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ist das Hähnchen auch für (1) _______?",
@@ -381,7 +381,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "Theo, ist das Hähnchen für (2) _______?",
@@ -395,7 +395,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Marie, Theo, die sind für (3) _______, oder?",
@@ -409,7 +409,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ja, die sind für (4) _______. Danke!",
@@ -423,7 +423,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "Und was ist für (5) _______? Ich habe noch nichts.",
@@ -437,7 +437,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "fill-in",
       "question": "Die Party _______ um 16 Uhr _______.",
@@ -451,7 +451,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "fill-in",
       "question": "Anna _______ dich um 15:30 Uhr am Bahnhof _______, okay?",
@@ -465,7 +465,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "fill-in",
       "question": "Vielleicht _______ Jan und Marek auch zum Bahnhof _______.",
@@ -479,7 +479,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Susan _______ Getränke _______. Machst du einen Kuchen?",
@@ -493,7 +493,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "fill-in",
       "question": "Wollen wir morgen telefonieren? _______ du mich _______?",
@@ -507,7 +507,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "fill-in",
       "question": "Sofia (1) _______ da!",
@@ -521,7 +521,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "fill-in",
       "question": "Wir (2) _______ im Park, im Kino und im Museum.",
@@ -535,7 +535,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "fill-in",
       "question": "Wir (3) _______ viel Spaß.",
@@ -549,7 +549,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "fill-in",
       "question": "Und du? Wo (4) _______ du?",
@@ -563,7 +563,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ich (5) _______ leider keine Zeit.",
@@ -577,7 +577,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "true-false",
       "question": "Vor der Arztpraxis: Sie sind krank. Sie gehen in die Praterstraße 39.",
@@ -591,7 +591,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "true-false",
       "question": "In der Bibliothek: Es ist Samstagabend. Sie können Bücher lesen.",
@@ -605,7 +605,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "true-false",
       "question": "Im Kino: Ihre Tochter ist 12 Jahre alt. Sie bezahlt 7,50 €.",
@@ -619,7 +619,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "true-false",
       "question": "In der Sprachschule: Es ist Mittwochvormittag. Sie können ins Büro gehen.",
@@ -633,7 +633,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "true-false",
       "question": "Im Sportclub: Sie sind im Sportclub. Sie können Yoga machen.",
@@ -647,7 +647,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
       "question": "Schreiben Sie eine Einladung. Sie haben Geburtstag und möchten feiern. Sie laden Ihren Freund Lennart ein. Warum schreiben Sie? Party: Wann und wo? Mitbringen: Was? Schreiben Sie ca. 30 Wörter mit Anrede und Gruß.",
@@ -661,7 +661,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Machen Sie vier Verabredungen. Sie nehmen zwei Karten, Ihr Partner / Ihre Partnerin auch zwei. Zweimal fangen Sie an, zweimal Ihr Partner / Ihre Partnerin.",
@@ -675,7 +675,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Wohin geht Felix später?",
@@ -689,7 +689,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Wann ist der Termin beim Chef?",
@@ -703,7 +703,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Was trinkt Susa in der Pause?",
@@ -717,7 +717,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Mit wem geht Philipp ins Kino?",
@@ -731,7 +731,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Was mag Valentin?",
@@ -745,7 +745,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "das Mail-Programm öffnen und Mails lesen/anmachen",
@@ -759,7 +759,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "eine Mail schreiben und an Lucie schicken/speichern",
@@ -773,7 +773,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "die Datei zuerst öffnen/eingeben und dann den Text schreiben",
@@ -787,7 +787,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "den Drucker anmachen und den Text drucken/ausmachen",
@@ -801,7 +801,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "den Computer am Ende ausmachen/hochfahren",
@@ -815,7 +815,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "(1) _______ Kundin in Berlin telefonieren",
@@ -829,7 +829,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "(2) _______ Bäckerei gehen, Brötchen kaufen",
@@ -843,7 +843,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Besprechung (3) _______ Büro mit Aaron und Lucie",
@@ -857,7 +857,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "nach Hause, Emma kommt (4) _______ Zahnarzt",
@@ -871,7 +871,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "Wichtig! Bücher und Computer (5) _______ Büro mitnehmen",
@@ -885,7 +885,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ich fahre mit dem Fahrrad ins Büro _______ eine Kollegin nimmt mich im Auto mit.",
@@ -899,7 +899,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "fill-in",
       "question": "Das Team ist sehr nett _______ wir arbeiten sehr gut zusammen.",
@@ -913,7 +913,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "fill-in",
       "question": "Die Präsentation war sehr interessant, _______ ich war leider so müde.",
@@ -927,7 +927,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "In der Mittagspause gehe ich in ein Café _______ ich esse ein Brötchen im Büro.",
@@ -941,7 +941,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "fill-in",
       "question": "Eigentlich arbeite ich am Freitag immer, _______ diese Woche habe ich frei.",
@@ -955,7 +955,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "true-false",
       "question": "Info Bibliothek: Kann man die Anmeldung am Telefon machen?",
@@ -969,7 +969,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "true-false",
       "question": "Computer-Klinik: Kann man einen Computer kaufen?",
@@ -983,7 +983,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "true-false",
       "question": "Computer-Klinik: Kann man am Sonntag anrufen?",
@@ -997,7 +997,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "true-false",
       "question": "Praktikum im Büro: Arbeiten Sie im Praktikum allein?",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "true-false",
       "question": "Praktikum im Büro: Können Sie das Praktikum im Winter machen?",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "writing-task",
       "question": "Antworten Sie Martha. Max' Praktikum ist bald zu Ende. An welchem Tag und um wie viel Uhr hast du Zeit? Wie lange kannst du bleiben? Was kannst du zu Essen oder Trinken mitbringen? Schreiben Sie circa 30 Wörter mit Gruß.",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "fill-in",
       "question": "Formular: Muttersprache (1)",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "2",
       "item_type": "fill-in",
       "question": "Formular: Sprache Newsletter (2)",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "3",
       "item_type": "fill-in",
       "question": "Formular: Hobbys (3)",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "4",
       "item_type": "fill-in",
       "question": "Formular: Interesse (4)",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "5",
       "item_type": "fill-in",
       "question": "Formular: Zeit (5)",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Small Talk im Büro. Wählen Sie ein Thema (Wetter, Sport, Familie, Wochenende) und sprechen Sie.",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Wann soll Frau Leiner zum Arzt kommen?",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Wo möchte Vito Anna treffen?",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Was soll Jannis machen?",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Wo ist Laurin?",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Was soll Herr Nowak in der Praxis abholen?",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "short-answer",
       "question": "erkältet – glücklich – krank – verletzt",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "short-answer",
       "question": "der Fuß – das Bein – der Kopf – die Ohrenschmerzen",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "short-answer",
       "question": "hören – riechen – trinken – schmecken",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "short-answer",
       "question": "der Hausmeister – der Physiotherapeut – der Notarzt – der Krankenpfleger",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "short-answer",
       "question": "das Fieber – die Halsschmerzen – der Schnupfen – der Verband",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "Körperteil (1) mit Artikel",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "Körperteil (2) mit Artikel",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Körperteil (3) mit Artikel",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "Körperteil (4) mit Artikel",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "Körperteil (5) mit Artikel",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "fill-in",
       "question": "Sie (1) _______ im Bett bleiben und viel schlafen.",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "fill-in",
       "question": "Die Tropfen (2) _______ Sie dreimal täglich nehmen.",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "fill-in",
       "question": "(3) _______ ich denn meine Haare waschen?",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Mein Mann sagt, ich (4) _______ nicht baden.",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "fill-in",
       "question": "Aber Sie (5) _______ kurz duschen.",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "short-answer",
       "question": "im Bett bleiben und Hühnersuppe essen",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "short-answer",
       "question": "ins Krankenhaus gehen und den Arm nicht bewegen",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "short-answer",
       "question": "eine Pause machen und nicht so viel arbeiten",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "short-answer",
       "question": "vom Sofa aufstehen und die Kinder abholen",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "short-answer",
       "question": "aktiv sein und fünf Minuten Sport machen",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "A",
       "item_type": "matching",
       "question": "Text A: Laden Sie sich die neue Fitness-App kostenlos herunter. Mit uns machen Sie jeden Tag 10 Minuten Sport und sind in 3 Monaten fit.",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "B",
       "item_type": "matching",
       "question": "Text B: Herzlich willkommen im Studiokino. Bei uns ist das Telefonieren verboten. Machen Sie bitte Ihr Handy aus.",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "C",
       "item_type": "matching",
       "question": "Text C: An alle Studentinnen und Studenten! Das Rauchen ist an der Universität verboten. Auch im Café gibt es ein Rauchverbot.",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "D",
       "item_type": "matching",
       "question": "Text D: Für alle Mitarbeiterinnen und Mitarbeiter! Sie dürfen Ihr Essen gern selbst mitbringen. Ab heute gibt es eine Küche im Raum 211.",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "E",
       "item_type": "matching",
       "question": "Text E: Liebe Besucherinnen und Besucher, Ruhe bitte! Sprechen Sie im Wartebereich und im Flur bitte leise.",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
       "question": "Schreiben Sie eine Entschuldigung. Sie sind krank und können nicht zur Arbeit kommen. Schreiben Sie an Ihre Kollegin Frau Winter: Warum schreiben Sie? Wieder im Büro: Wann? Informieren: Wen? Ca. 30 Wörter mit Anrede und Gruß.",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Sprechen Sie zu zweit. Nehmen Sie zwei Karten. Formulieren Sie Bitten und reagieren Sie.",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "true-false",
       "question": "Yunus sucht eine Wohnung mit Garten.",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "true-false",
       "question": "Die Wohnung kostet 1.200 € Miete.",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "true-false",
       "question": "Die Wohnung von Suse ist nicht groß.",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "true-false",
       "question": "Die Wohnung hat vier Zimmer.",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "true-false",
       "question": "Die Lage von der Wohnung ist super.",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "A",
       "item_type": "matching",
       "question": "Foto A: zwei Männer schauen sich einen offenen Computer/PC-Tower an.",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "B",
       "item_type": "matching",
       "question": "Foto B: lächelnder Mann trägt einen großen Karton, Umzugskartons im Hintergrund.",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "C",
       "item_type": "matching",
       "question": "Foto C: ein Paar entspannt auf dem Sofa mit einem Laptop.",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "E",
       "item_type": "matching",
       "question": "Foto E: drei Personen sitzen auf einem Sofa und schauen gemeinsam auf etwas.",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "F",
       "item_type": "matching",
       "question": "Foto F: ein Kellner deckt draußen einen Tisch, dahinter eine Kellnerin.",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "Der große Schrank steht (1) _______ dem Tisch und der Tür.",
@@ -1725,7 +1725,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "Die Waschmaschine steht nicht mehr (2) _______ der Küche.",
@@ -1739,7 +1739,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "(3) _______ dem Bad ist das Schlafzimmer.",
@@ -1753,7 +1753,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "(4) _______ der Wand ist das Foto von Papa.",
@@ -1767,7 +1767,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "Und (5) _______ dem Foto habe ich mein Geld.",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Wie findest du den Schreibtisch?",
@@ -1795,7 +1795,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Magst du die Lampe?",
@@ -1809,7 +1809,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Die Wohnung ist zu dunkel, oder?",
@@ -1823,7 +1823,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Der Sessel ist nicht alt, oder?",
@@ -1837,7 +1837,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Ich finde die Wohnung klein, aber schön. Und du?",
@@ -1851,7 +1851,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "true-false",
       "question": "Die Party beginnt abends.",
@@ -1865,7 +1865,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "true-false",
       "question": "Die Nachbarn haben keine Zeit.",
@@ -1879,7 +1879,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "true-false",
       "question": "Die Würstchen bringen die Gäste mit.",
@@ -1893,7 +1893,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "true-false",
       "question": "Kira hat am Samstag Zeit für die Party.",
@@ -1907,7 +1907,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "true-false",
       "question": "Lenny kommt später zur Party.",
@@ -1921,7 +1921,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "short-answer",
       "question": "Schreiben Sie über Ihre Wohnung: Größe?",
@@ -1935,7 +1935,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "short-answer",
       "question": "Schreiben Sie über Ihre Wohnung: Zimmer?",
@@ -1949,7 +1949,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "short-answer",
       "question": "Schreiben Sie über Ihre Wohnung: Balkon oder Garten?",
@@ -1963,7 +1963,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "short-answer",
       "question": "Schreiben Sie über Ihre Wohnung: Möbel?",
@@ -1977,7 +1977,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "short-answer",
       "question": "Schreiben Sie über Ihre Wohnung: Nachbarn?",
@@ -1991,7 +1991,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
       "question": "Antworten Sie Emil. Er hat eine neue Wohnung und macht am Samstag um 19:00 Uhr eine Party. Wen bringst du mit? Was kannst du zu Essen mitbringen? Wann kommst du? Schreiben Sie circa 30 Wörter mit Gruß.",
@@ -2005,7 +2005,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Nehmen Sie eine Karte zum Thema Wohnen und eine Karte zum Thema Feste. Fragen Sie Ihren Partner / Ihre Partnerin. Ihr Partner / Ihre Partnerin antwortet und stellt dann die nächste Frage.",
@@ -2019,7 +2019,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "matching",
       "question": "Beruf: Was ist für Text 1 wichtig?",
@@ -2033,7 +2033,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "matching",
       "question": "Beruf: Was ist für Text 2 wichtig?",
@@ -2047,7 +2047,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "matching",
       "question": "Beruf: Was ist für Text 3 wichtig?",
@@ -2061,7 +2061,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "matching",
       "question": "Beruf: Was ist für Text 4 wichtig?",
@@ -2075,7 +2075,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "matching",
       "question": "Beruf: Was ist für Text 5 wichtig?",
@@ -2089,7 +2089,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Ich möchte Karriere verdienen / machen.",
@@ -2103,7 +2103,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Ich kann Sie mit ihrer Kollegin anrufen / verbinden.",
@@ -2117,7 +2117,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Ich muss für eine Prüfung / Liste an der Uni lernen.",
@@ -2131,7 +2131,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Können Sie mir bitte seine Durchwahl melden / geben?",
@@ -2145,7 +2145,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Schreibst du das Protokoll / Projekt, bitte?",
@@ -2159,7 +2159,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "sie ist eine halbe Stunde zu spät (1) _______.",
@@ -2173,7 +2173,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "Zuerst ist sie mit dem falschen Bus (2) _______",
@@ -2187,7 +2187,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "und dann hat sie das Café nicht (3) _______.",
@@ -2201,7 +2201,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wir haben Kaffee (4) _______",
@@ -2215,7 +2215,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "und sind dann noch ins Kino (5) _______.",
@@ -2229,7 +2229,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "short-answer",
       "question": "gestern / lernen / Felix / zwei Stunden / .",
@@ -2243,7 +2243,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "short-answer",
       "question": "wohin / fliegen / du / letztes Jahr / ?",
@@ -2257,7 +2257,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "short-answer",
       "question": "studieren / Jana / vier Jahre / Architektur / .",
@@ -2271,7 +2271,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "short-answer",
       "question": "telefonieren / er / heute / mit einer Kundin / .",
@@ -2285,7 +2285,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "short-answer",
       "question": "leider / finden / sie / noch keine Arbeit / .",
@@ -2299,7 +2299,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "matching",
       "question": "Kann ich bitte mit Frau _______",
@@ -2313,7 +2313,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "matching",
       "question": "Herr Tischer ist _______",
@@ -2327,7 +2327,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "matching",
       "question": "Entschuldigung, das habe ich _______",
@@ -2341,7 +2341,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "matching",
       "question": "Können Sie das _______",
@@ -2355,7 +2355,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "matching",
       "question": "Vielen Dank und _______",
@@ -2369,7 +2369,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "fill-in",
       "question": "Formular: gewünschte Tätigkeit (1)",
@@ -2383,7 +2383,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "fill-in",
       "question": "Formular: Termin (2)",
@@ -2397,7 +2397,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "fill-in",
       "question": "Formular: Arbeit am Wochenende (3)",
@@ -2411,7 +2411,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "fill-in",
       "question": "Formular: Stadt (4)",
@@ -2425,7 +2425,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "fill-in",
       "question": "Formular: Telefon (5)",
@@ -2439,7 +2439,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "A",
       "item_type": "matching",
       "question": "Sie möchten acht Stunden in der Woche arbeiten. Sie kommen aus England.",
@@ -2453,7 +2453,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "B",
       "item_type": "matching",
       "question": "Sie möchten am Wochenende Geld verdienen. Sie waren schon mal Kellner/in.",
@@ -2467,7 +2467,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "C",
       "item_type": "matching",
       "question": "Sie studieren Mathematik. Sie brauchen Geld für den Urlaub.",
@@ -2481,7 +2481,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "D",
       "item_type": "matching",
       "question": "Sie sind gern mit Kindern zusammen. Sie haben am Nachmittag Zeit.",
@@ -2495,7 +2495,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "E",
       "item_type": "matching",
       "question": "Sie suchen einen Job. Sport ist Ihr Hobby.",
@@ -2509,7 +2509,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Über etwas sprechen (sich vorstellen). Wählen Sie vier Themen aus (Sprachen, Hobbys, Beruf, Lieblingsessen, Familie, Sport) und sprechen Sie zu jedem Thema ein paar Sätze.",
@@ -2523,7 +2523,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Wo gibt es Hosen für Kinder?",
@@ -2537,7 +2537,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Was kauft Finn?",
@@ -2551,7 +2551,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Was bekommt die Mutter zum Geburtstag?",
@@ -2565,7 +2565,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Wann schließt der Buchladen?",
@@ -2579,7 +2579,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Was gefällt der Kundin nicht?",
@@ -2593,7 +2593,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Können Sie mir (1) helfen / zeigen?",
@@ -2607,7 +2607,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Welche Farbe (2) trägt / steht Ihnen denn?",
@@ -2621,7 +2621,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Blau (3) finde / kaufe ich gut.",
@@ -2635,7 +2635,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "dieses Hemd kann ich Ihnen (4) probieren / empfehlen.",
@@ -2649,7 +2649,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "(5) Gefällt / Bestellt Ihnen das?",
@@ -2663,7 +2663,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "(1) _______ Schuhe gefallen dir?",
@@ -2677,7 +2677,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "(2) _______ Jacke passt mir nicht.",
@@ -2691,7 +2691,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ich finde (3) _______ Pullover wirklich schön.",
@@ -2705,7 +2705,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "(4) _______ Kaufhaus kannst du empfehlen?",
@@ -2719,7 +2719,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "Willst du (5) _______ Kleid zurückschicken?",
@@ -2733,7 +2733,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "fill-in",
       "question": "Wie steht (1) _______ dieser Mantel?",
@@ -2747,7 +2747,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "fill-in",
       "question": "Also, ich finde (2) _______ ein bisschen zu groß.",
@@ -2761,7 +2761,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "fill-in",
       "question": "Aber hier habe ich einen anderen Mantel für (3) _______.",
@@ -2775,7 +2775,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Passt er (4) _______?",
@@ -2789,7 +2789,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "fill-in",
       "question": "ich möchte etwas für (5) _______ kaufen.",
@@ -2803,7 +2803,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "fill-in",
       "question": "Wo finden Sie das? USB-Sticks",
@@ -2817,7 +2817,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "fill-in",
       "question": "Wo finden Sie das? Tee",
@@ -2831,7 +2831,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "fill-in",
       "question": "Wo finden Sie das? Fußbälle",
@@ -2845,7 +2845,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wo finden Sie das? Schals",
@@ -2859,7 +2859,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "fill-in",
       "question": "Wo finden Sie das? Tassen",

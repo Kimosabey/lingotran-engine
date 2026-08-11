@@ -46,7 +46,8 @@ from _common import (parse_root, lang_slug, load_collection_list, atomic_open,
                      atomic_write_text, build_start_here,
                      # shared page/record helpers -- one definition, both pipelines
                      split_frontmatter, flat as _flat, word_count, page_title,
-                     human_title, read_pages, load_classification, split_gender)
+                     human_title, read_pages, load_classification, split_gender,
+                     sparse_note)
 
 KINDS = ['catalog', 'questions', 'vocabulary']
 CATALOG_COLUMNS = ['collection', 'unit', 'section', 'chapter', 'content_type', 'activity_type',
@@ -153,9 +154,15 @@ def build_catalog(root, c):
     ov += _table('By content type', _counts(rows, 'content_type', split=True)) + ['']
     ov += _table('By activity type', _counts(rows, 'activity_type')) + ['']
     ov += _table('By topic', _counts(rows, 'topic')) + ['']
-    if c.get('caveats'):
+    # What this BOOK does not print is a limitation of the source, not of the
+    # extraction, and belongs where a reader already looks for both (gap P7).
+    # Computed from the shipped rows, so it can never drift from the file.
+    notes = list(c.get('caveats') or [])
+    notes += ['Vocabulary sheet: ' + s
+              for s in sparse_note(load_vocab_entries(root, slug) or [])]
+    if notes:
         ov += ['## Known limitations\n']
-        ov += ['- %s' % cav for cav in c['caveats']] + ['']
+        ov += ['- %s' % cav for cav in notes] + ['']
     ov += ['## Page index\n', '| Page | Section | Chapter | Activity | Topic | Summary |', '|---|---|---|---|---|---|']
     for r in rows:
         ov.append('| %s | %s | %s | %s | %s | %s |' % (

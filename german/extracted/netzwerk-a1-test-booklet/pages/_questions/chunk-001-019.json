@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -31,7 +31,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -59,7 +59,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -73,7 +73,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "true-false",
       "question": "Der Mann heißt Boris Schmidt.",
@@ -87,7 +87,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "true-false",
       "question": "Er kommt aus der Schweiz.",
@@ -101,7 +101,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "true-false",
       "question": "Er wohnt in Salzburg.",
@@ -115,7 +115,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "true-false",
       "question": "Er spricht Deutsch und Italienisch.",
@@ -129,7 +129,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "true-false",
       "question": "Er lernt Arabisch.",
@@ -143,7 +143,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "○ ___ ist das? ● Das ist Viktoria Kurz.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "○ ___ Sprachen spricht sie? ● Spanisch, Englisch und Deutsch.",
@@ -171,7 +171,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "○ ___ kommt sie? ● Aus Deutschland.",
@@ -185,7 +185,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "○ ___ wohnt sie? ● In Frankfurt.",
@@ -199,7 +199,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "○ Und er? ___ heißt er? ● Martin Berg.",
@@ -213,7 +213,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "ordering",
       "question": "Schreiben Sie W-Fragen und Aussagesätze: Sie / wie / heißen / ?",
@@ -227,7 +227,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "ordering",
       "question": "Schreiben Sie W-Fragen und Aussagesätze: aus der Schweiz / ich / komme / .",
@@ -241,7 +241,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "ordering",
       "question": "Schreiben Sie W-Fragen und Aussagesätze: kommst / du / woher / ?",
@@ -255,7 +255,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "ordering",
       "question": "Schreiben Sie W-Fragen und Aussagesätze: ist / Luca Mendoza / mein Name / .",
@@ -269,7 +269,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "ordering",
       "question": "Schreiben Sie W-Fragen und Aussagesätze: Sie / welche Sprachen / sprechen / ?",
@@ -283,7 +283,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "fill-in",
       "question": "Das ___ Natalia. (sein)",
@@ -297,7 +297,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "fill-in",
       "question": "Sie ___ Englisch und Arabisch. (sprechen)",
@@ -311,7 +311,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "fill-in",
       "question": "Wie ___ du? (heißen)",
@@ -325,7 +325,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "fill-in",
       "question": "Er ___ in der Schweiz. (wohnen)",
@@ -339,7 +339,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "fill-in",
       "question": "Woher ___ Sie? (kommen)",
@@ -353,7 +353,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "fill-in",
       "question": "Land: Russland → Sprache: ___",
@@ -367,7 +367,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "fill-in",
       "question": "Land: ___ → Sprache: Polnisch",
@@ -381,7 +381,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "fill-in",
       "question": "Land: Japan → Sprache: ___",
@@ -395,7 +395,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "fill-in",
       "question": "Land: Frankreich → Sprache: ___",
@@ -409,7 +409,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "fill-in",
       "question": "Land: ___ → Sprache: Italienisch",
@@ -423,7 +423,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "short-answer",
       "question": "Lesen Sie und notieren Sie die Informationen. Saki Tanaka – Land: ___",
@@ -437,7 +437,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "2",
       "item_type": "short-answer",
       "question": "Lesen Sie und notieren Sie die Informationen. Saki Tanaka – Stadt: ___",
@@ -451,7 +451,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "3",
       "item_type": "short-answer",
       "question": "Lesen Sie und notieren Sie die Informationen. Foto 2 – Name: ___",
@@ -465,7 +465,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "4",
       "item_type": "short-answer",
       "question": "Lesen Sie und notieren Sie die Informationen. Kateb – Stadt: ___",
@@ -479,7 +479,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "5",
       "item_type": "short-answer",
       "question": "Lesen Sie und notieren Sie die Informationen. Kateb – Sprachen: ___",
@@ -493,7 +493,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "writing-task",
       "question": "Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Name",
@@ -507,7 +507,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "2",
       "item_type": "writing-task",
       "question": "Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Land",
@@ -521,7 +521,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "3",
       "item_type": "writing-task",
       "question": "Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Sprachen",
@@ -535,7 +535,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "4",
       "item_type": "writing-task",
       "question": "Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): Telefonnummer",
@@ -549,7 +549,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "5",
       "item_type": "writing-task",
       "question": "Ergänzen Sie das Formular (Anmeldung Deutschkurs A1): E-Mail-Adresse",
@@ -563,7 +563,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "true-false",
       "question": "Cem und Elias spielen zusammen Fußball.",
@@ -577,7 +577,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "true-false",
       "question": "Paula hat am Montag frei.",
@@ -591,7 +591,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "true-false",
       "question": "Lena ist Studentin.",
@@ -605,7 +605,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "true-false",
       "question": "Herr Wenzel ist Journalist.",
@@ -619,7 +619,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "true-false",
       "question": "Anna Schulte ist Ärztin.",
@@ -633,7 +633,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.",
@@ -647,7 +647,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.",
@@ -661,7 +661,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.",
@@ -675,7 +675,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.",
@@ -689,7 +689,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Hören Sie zweimal. Welche Telefonnummer ist richtig? Kreuzen Sie an.",
@@ -703,7 +703,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: lesen – schwimmen – kochen – arbeiten",
@@ -717,7 +717,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: die Ärztin – die Freundin – die Ingenieurin – die Journalistin",
@@ -731,7 +731,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: der Wohnort – der Club – das Geburtsdatum – die Straße",
@@ -745,7 +745,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: der Mittwoch – der Dienstag – der Donnerstag – das Wochenende",
@@ -759,7 +759,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: das Krankenhaus – das Theater – das Kino – das Museum",
@@ -773,7 +773,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "ordering",
       "question": "Schreiben Sie Ja-/Nein-Fragen: Studenten / ihr / seid / ?",
@@ -787,7 +787,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "ordering",
       "question": "Schreiben Sie Ja-/Nein-Fragen: singt / gut / Julia / ?",
@@ -801,7 +801,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "ordering",
       "question": "Schreiben Sie Ja-/Nein-Fragen: wir / am Samstag / ins Museum / gehen / ?",
@@ -815,7 +815,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "ordering",
       "question": "Schreiben Sie Ja-/Nein-Fragen: morgen / Sie / arbeiten / ?",
@@ -829,7 +829,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "ordering",
       "question": "Schreiben Sie Ja-/Nein-Fragen: am Sonntag / Fußball / spielt / er / ?",
@@ -843,7 +843,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "fill-in",
       "question": "___ (sein) du Polizistin?",
@@ -857,7 +857,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "fill-in",
       "question": "Sara ___ (lesen) sehr gern.",
@@ -871,7 +871,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "fill-in",
       "question": "___ (haben) er am Wochenende frei?",
@@ -885,7 +885,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wo ___ (arbeiten) ihr?",
@@ -899,7 +899,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "fill-in",
       "question": "Wir ___ (sprechen) gut Französisch.",
@@ -913,7 +913,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie Artikel und Pluralform: Foto",
@@ -927,7 +927,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie Artikel und Pluralform: Buch",
@@ -941,7 +941,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie Artikel und Pluralform: Stunde",
@@ -955,7 +955,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie Artikel und Pluralform: Lehrer",
@@ -969,7 +969,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie Artikel und Pluralform: Tag",
@@ -983,7 +983,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
       "question": "Füllen Sie das Anmeldeformular (Yogakurs) aus: Vorname",
@@ -997,7 +997,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "2",
       "item_type": "writing-task",
       "question": "Füllen Sie das Anmeldeformular (Yogakurs) aus: Nachname",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "3",
       "item_type": "writing-task",
       "question": "Füllen Sie das Anmeldeformular (Yogakurs) aus: Geburtsdatum",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "4",
       "item_type": "writing-task",
       "question": "Füllen Sie das Anmeldeformular (Yogakurs) aus: Straße, Hausnummer",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "5",
       "item_type": "writing-task",
       "question": "Füllen Sie das Anmeldeformular (Yogakurs) aus: Postleitzahl, Wohnort",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Sprechen Sie: Wer sind Sie? (Name, Alter, Land, Wohnort, Sprachen, Beruf, Hobby)",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "short-answer",
       "question": "Hören Sie und notieren Sie: Was: ins ___ gehen",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "short-answer",
       "question": "Hören Sie und notieren Sie: Wann: am ___",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "short-answer",
       "question": "Hören Sie und notieren Sie: Wo: im ___",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "short-answer",
       "question": "Hören Sie und notieren Sie: Wie: U-Bahn und dann ___",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "short-answer",
       "question": "Hören Sie und notieren Sie: Telefonnummer: ___",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Hören Sie. Welche Antwort passt? Kreuzen Sie an.",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ich bin im Sommer gern am ___, da fahren viele Schiffe.",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ich ___ die Elbphilharmonie sehr gern.",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Im September und ___ ist das Filmfest.",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "Da gibt es über 100 ___.",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "Das ist einfach super und sehr ___.",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Lösungswort-Rätsel): 250 km/h. Der Zug fährt sehr …",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Lösungswort-Rätsel): Der Turm vom Rathaus ist 112 Meter …",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Lösungswort-Rätsel): Die Häuser sind über 400 Jahre …",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Lösungswort-Rätsel): Das Rathaus ist 111 Meter …",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Lösungswort-Rätsel): Die Köhlbrandbrücke ist 17,6 Meter breit und 3,6 Kilometer …",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "Lösung",
       "item_type": "short-answer",
       "question": "Wie heißt das Lösungswort?",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "fill-in",
       "question": "○ Was ist das? ● Das ist ___ Kirche.",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "fill-in",
       "question": "○ Ist das eine Konzertkarte? ● Nein, das ist ___ Konzertkarte. Ich gehe ins Kino.",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "fill-in",
       "question": "○ Was ist das? ● Das ist ein Markt. ___ Markt heißt Viktualienmarkt.",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "fill-in",
       "question": "○ Wie heißt der See? ● Das ist ___ See. Das ist ein Fluss.",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "fill-in",
       "question": "○ Ist Berlin schön? ● Ja, ___ Stadt ist einfach toll.",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "short-answer",
       "question": "Schreiben Sie im Imperativ: Entschuldigung, wo ist die U-Bahn? (gehen ↑, dann →)",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "short-answer",
       "question": "Schreiben Sie im Imperativ: Wo ist der Markt, bitte? (fahren →, dann ←)",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "short-answer",
       "question": "Schreiben Sie im Imperativ: Entschuldigung, wo ist das Kino? (gehen →, dann ↑)",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "short-answer",
       "question": "Schreiben Sie im Imperativ: Wo ist bitte die Kirche? (fahren ↑, dann ←)",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "short-answer",
       "question": "Schreiben Sie im Imperativ: Wo fährt der Bus? (gehen ←, dann ↑)",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "short-answer",
       "question": "Schreiben Sie das Wort mit Artikel: Bild 1: U-Bahn",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "2",
       "item_type": "short-answer",
       "question": "Schreiben Sie das Wort mit Artikel: Bild 2: Schiff",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "3",
       "item_type": "short-answer",
       "question": "Schreiben Sie das Wort mit Artikel: Bild 3: Straßenbahn",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "4",
       "item_type": "short-answer",
       "question": "Schreiben Sie das Wort mit Artikel: Bild 4: Bus",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "5",
       "item_type": "short-answer",
       "question": "Schreiben Sie das Wort mit Artikel: Bild 5: Fahrrad",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Sie sind am Hafen. Fragen Sie nach den Orten (Hotel, Park, Bahnhof, U-Bahn) und antworten Sie mit Wegbeschreibungen.",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Was kosten die drei Limonaden?",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Was isst die Frau?",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Was braucht der Mann?",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Wo kauft Lilli das Brot?",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Wie viel Schinken kauft Herr Anvers?",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: die Gurke – die Tomate – die Zwiebel – die Schokolade",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: die Flasche – das Gramm – die Packung – die Dose",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: der Apfel – der Salat – die Birne – die Banane",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: das Brot – die Butter – das Brötchen – der Kuchen",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Was passt nicht? Streichen Sie durch: die Cola – der/das Joghurt – der Käse – die Milch",
@@ -1725,7 +1725,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "fill-in",
       "question": "Nominativ oder Akkusativ? Ergänzen Sie den Artikel: (1) ___ Tomaten brauche ich für die Nudeln.",
@@ -1739,7 +1739,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "fill-in",
       "question": "Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Ich mache noch (2) ___ Suppe.",
@@ -1753,7 +1753,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Und (3) ___ Kuchen essen wir später zum Kaffee.",
@@ -1767,7 +1767,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "fill-in",
       "question": "Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Hast du auch (4) ___ Tee?",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "fill-in",
       "question": "Nominativ oder Akkusativ? Ergänzen Sie den Artikel: Ich trinke so spät (5) ___ Kaffee.",
@@ -1795,7 +1795,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "true-false",
       "question": "Ela mag den Kartoffelsalat von Tina.",
@@ -1809,7 +1809,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "true-false",
       "question": "Kathrin und Diego gehen am Freitag einkaufen.",
@@ -1823,7 +1823,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "true-false",
       "question": "Ela macht einen Kuchen.",
@@ -1837,7 +1837,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "true-false",
       "question": "Kathrin und Diego kommen am Samstag nicht.",
@@ -1851,7 +1851,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "true-false",
       "question": "Moritz macht Musik.",
@@ -1865,7 +1865,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "short-answer",
       "question": "Beantworten Sie mit ganzen Sätzen: Wo arbeitet er?",
@@ -1879,7 +1879,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "short-answer",
       "question": "Beantworten Sie mit ganzen Sätzen: Wann arbeitet er?",
@@ -1893,7 +1893,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "short-answer",
       "question": "Beantworten Sie mit ganzen Sätzen: Was kauft er?",
@@ -1907,7 +1907,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "short-answer",
       "question": "Beantworten Sie mit ganzen Sätzen: Wer macht die Desserts?",
@@ -1921,7 +1921,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "short-answer",
       "question": "Beantworten Sie mit ganzen Sätzen: Wie findet er den Beruf?",
@@ -1935,7 +1935,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Position und Form beachten): ___ auch ein Stück Käse. (er / möchten)",
@@ -1949,7 +1949,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Position und Form beachten): Morgens ___ gern Apfelsaft. (meine Kinder / trinken)",
@@ -1963,7 +1963,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Position und Form beachten): ___ einen Salat, bitte. (ich / nehmen)",
@@ -1977,7 +1977,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Position und Form beachten): ___ noch Wasser? (ihr / möchten)",
@@ -1991,7 +1991,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 6",
+      "part": "Übung 6",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie (Position und Form beachten): Am Nachmittag ___ gern ein Stück Kuchen. (mein Mann / mögen)",
@@ -2005,7 +2005,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "1",
       "item_type": "writing-task",
       "question": "Was trinken Sie nicht gern?",
@@ -2019,7 +2019,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "2",
       "item_type": "writing-task",
       "question": "Was essen Sie gern?",
@@ -2033,7 +2033,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "3",
       "item_type": "writing-task",
       "question": "Was essen Sie nicht gern?",
@@ -2047,7 +2047,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "4",
       "item_type": "writing-task",
       "question": "Was essen Sie heute Abend?",
@@ -2061,7 +2061,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 7",
+      "part": "Übung 7",
       "item": "5",
       "item_type": "writing-task",
       "question": "Was kochen Sie gern?",
@@ -2075,7 +2075,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8",
+      "part": "Übung 8",
       "item": "1",
       "item_type": "speaking-task",
       "question": "Nehmen Sie eine Karte zum Thema Essen und eine zum Thema Einkaufen und fragen Sie Ihren Partner / Ihre Partnerin.",
@@ -2089,7 +2089,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.",
@@ -2103,7 +2103,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.",
@@ -2117,7 +2117,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.",
@@ -2131,7 +2131,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.",
@@ -2145,7 +2145,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Hören Sie die Dialoge und kreuzen Sie die richtige Uhrzeit an.",
@@ -2159,7 +2159,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "A",
       "item_type": "matching",
       "question": "Foto A (Leute betrachten ein Foto / Fotoalbum am Tisch) — Text Nr. ___",
@@ -2173,7 +2173,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "B",
       "item_type": "matching",
       "question": "Foto B (ältere Frau und junger Mann zeigen nach draußen) — Text Nr. ___",
@@ -2187,7 +2187,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "C",
       "item_type": "matching",
       "question": "Foto C (Frau und Mann kochen in der Küche) — Text Nr. ___",
@@ -2201,7 +2201,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "D",
       "item_type": "matching",
       "question": "Foto D (Frau und Mann sprechen auf einer Treppe) — Text Nr. ___",
@@ -2215,7 +2215,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "E",
       "item_type": "matching",
       "question": "Foto E (Mann und Frau kaufen Gemüse im Supermarkt) — Text Nr. ___",
@@ -2229,7 +2229,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "F",
       "item_type": "matching",
       "question": "Foto F (Mann im Auto reicht etwas über den Sitz) — Text Nr. ___",
@@ -2243,7 +2243,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "1",
       "item_type": "multiple-choice",
       "question": "Welche Reaktion passt? Ich hätte gern einen Termin am Dienstag. Geht das?",
@@ -2257,7 +2257,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "2",
       "item_type": "multiple-choice",
       "question": "Welche Reaktion passt? Können Sie am Freitag um 15:00 Uhr kommen?",
@@ -2271,7 +2271,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "multiple-choice",
       "question": "Welche Reaktion passt? Wie spät ist es?",
@@ -2285,7 +2285,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "4",
       "item_type": "multiple-choice",
       "question": "Welche Reaktion passt? Was machst du morgen?",
@@ -2299,7 +2299,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "5",
       "item_type": "multiple-choice",
       "question": "Welche Reaktion passt? Hast du am Wochenende Zeit?",
@@ -2313,7 +2313,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den Possessivartikel: Mein Sohn und (1) ___ Freundin spielen Saxofon.",
@@ -2327,7 +2327,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den Possessivartikel: Die Kinder müssen (2) ___ Hausaufgaben machen.",
@@ -2341,7 +2341,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den Possessivartikel: Kann (3) ___ Mann das nicht machen?",
@@ -2355,7 +2355,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den Possessivartikel: Wir treffen (4) ___ Freund Milan.",
@@ -2369,7 +2369,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den Possessivartikel: Da besuche ich (5) ___ Schwester.",
@@ -2383,7 +2383,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "1",
       "item_type": "ordering",
       "question": "Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: Noah / heute / bis 20 Uhr / arbeiten / müssen / .",
@@ -2397,7 +2397,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "2",
       "item_type": "ordering",
       "question": "Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: meine Kinder / am Nachmittag / Hausaufgaben / machen / müssen / .",
@@ -2411,7 +2411,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "3",
       "item_type": "ordering",
       "question": "Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: ich / am Freitag / ins Kino / gehen / wollen / .",
@@ -2425,7 +2425,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "4",
       "item_type": "ordering",
       "question": "Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: wir / morgen / nicht / tanzen / können / .",
@@ -2439,7 +2439,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5",
+      "part": "Übung 5",
       "item": "5",
       "item_type": "ordering",
       "question": "Schreiben Sie mit Modalverb, beginnen Sie mit dem markierten Wort: du / deine Familie / am Wochenende / besuchen / wollen / ?",

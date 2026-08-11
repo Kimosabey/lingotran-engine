@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "speaking",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1a",
       "item_type": "speaking-task",
       "instruction": "Ein Urlaubstag. Spielen Sie zu zweit und wählen Sie ein Reiseteam A, B, C oder D. Wählen Sie zwei Situationen und bereiten Sie zu zweit ein Rollenspiel für Ihre Reise vor. Machen Sie Notizen.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "1b",
       "item_type": "speaking-task",
       "instruction": "Spielen Sie die Situationen abwechselnd vor. Sprechen Sie frei.",
@@ -31,7 +31,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "Situation 1",
       "item_type": "speaking-task",
       "instruction": "Ein Urlaubstag. Spielen Sie zu zweit und wählen Sie ein Reiseteam A, B, C oder D. Wählen Sie zwei Situationen und bereiten Sie zu zweit ein Rollenspiel für Ihre Reise vor. Machen Sie Notizen.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "Situation 2",
       "item_type": "speaking-task",
       "instruction": "Ein Urlaubstag. Spielen Sie zu zweit und wählen Sie ein Reiseteam A, B, C oder D. Wählen Sie zwei Situationen und bereiten Sie zu zweit ein Rollenspiel für Ihre Reise vor. Machen Sie Notizen.",
@@ -59,7 +59,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "Situation 3",
       "item_type": "speaking-task",
       "instruction": "Ein Urlaubstag. Spielen Sie zu zweit und wählen Sie ein Reiseteam A, B, C oder D. Wählen Sie zwei Situationen und bereiten Sie zu zweit ein Rollenspiel für Ihre Reise vor. Machen Sie Notizen.",
@@ -73,7 +73,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1",
+      "part": "Übung 1",
       "item": "Situation 4",
       "item_type": "speaking-task",
       "instruction": "Ein Urlaubstag. Spielen Sie zu zweit und wählen Sie ein Reiseteam A, B, C oder D. Wählen Sie zwei Situationen und bereiten Sie zu zweit ein Rollenspiel für Ihre Reise vor. Machen Sie Notizen.",
@@ -87,7 +87,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "speaking-task",
       "instruction": "Was hast du gestern gemacht? Zuerst, dann, danach … – Sprechen Sie zu dritt. Person A wählt fünf Aktivitäten und erzählt. Person B berichtet Person C. Wechseln Sie dann.",
@@ -101,7 +101,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "1",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -115,7 +115,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "2",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -129,7 +129,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "3",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -143,7 +143,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "4",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "5",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -171,7 +171,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "6",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -185,7 +185,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "7",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -199,7 +199,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "8",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -213,7 +213,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "9",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -227,7 +227,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "10",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -241,7 +241,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "11",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -255,7 +255,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "12",
       "item_type": "short-answer",
       "instruction": "Wählen Sie fünf Antworten und notieren Sie passende Fragen.",
@@ -269,7 +269,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b",
       "item_type": "speaking-task",
       "instruction": "Gehen Sie durch den Kursraum. Fragen und antworten Sie.",
@@ -283,7 +283,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "open-ended",
       "instruction": "Zwei Paare spielen gegeneinander. Würfeln Sie. Notieren Sie zu dem Thema so viele Wörter wie möglich. Sie haben zwei Minuten Zeit. Welches Paar hat mehr Wörter? Spielen Sie drei Runden.",
@@ -297,7 +297,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a",
       "item_type": "short-answer",
       "instruction": "Andrea schreibt vor dem Urlaub eine Mail an ihre Kollegen. Markieren Sie: Was sollen Anna und Daniel machen?",
@@ -311,7 +311,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b",
       "item_type": "short-answer",
       "instruction": "Arbeiten Sie zu zweit. A liest die Mail von Anna, B liest die Mail von Daniel. Welche Aufgaben von Andrea haben sie gemacht? Notieren Sie in Stichpunkten.",
@@ -325,7 +325,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c",
       "item_type": "short-answer",
       "instruction": "Vergleichen Sie Ihre Stichpunkte mit der Mail von Andrea in 5a. Was muss Andrea am Montag noch machen?",
@@ -339,7 +339,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "1",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -353,7 +353,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "2",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -367,7 +367,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "3",
       "item_type": "matching",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -381,7 +381,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "4",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -395,7 +395,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "5",
       "item_type": "matching",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -423,7 +423,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "7",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -437,7 +437,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "8",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -451,7 +451,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "9",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -465,7 +465,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "10",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -479,7 +479,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "11",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -493,7 +493,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "12",
       "item_type": "multiple-choice",
       "instruction": "Das Länderquiz. Wie gut kennen Sie Deutschland, Österreich und die Schweiz? Arbeiten Sie zu dritt und lesen Sie die Fragen. Einigen Sie sich auf eine Antwort.",
@@ -507,7 +507,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c",
       "item_type": "writing-task",
       "instruction": "Schreiben Sie drei eigene Quizfragen zu Deutschland, Österreich oder der Schweiz. Sie können im Internet und im Kursbuch Kapitel 1–12 recherchieren. Tauschen Sie die Fragen im Kurs aus.",

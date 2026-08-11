@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "speaking",
-      "teil": "Team A · Feld 1",
+      "part": "Team A · Feld 1",
       "item": "1",
       "item_type": "short-answer",
       "question": "Nennen Sie je ein Nomen für: Milchprodukte, Obst, Gemüse.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team A · Feld 2",
+      "part": "Team A · Feld 2",
       "item": "2",
       "item_type": "speaking-task",
       "question": "Wann haben Sie Geburtstag?",
@@ -31,7 +31,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team A · Feld 3",
+      "part": "Team A · Feld 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den Dialog: Wer ist das? – Das ist … Mutter. Und hier siehst du … Vater.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team B · Feld 1",
+      "part": "Team B · Feld 1",
       "item": "1",
       "item_type": "short-answer",
       "question": "Was kauft man wo? Nennen Sie je ein Nomen: in der Metzgerei, im Supermarkt, auf dem Markt.",
@@ -59,7 +59,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team B · Feld 2",
+      "part": "Team B · Feld 2",
       "item": "2",
       "item_type": "speaking-task",
       "question": "Wann hat Ihr Freund / Ihre Freundin Geburtstag?",
@@ -73,7 +73,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team B · Feld 3",
+      "part": "Team B · Feld 3",
       "item": "3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie den Dialog: Wer ist das? – Das ist … Tochter. Und hier siehst du … Sohn.",
@@ -87,7 +87,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team A · Feld 4",
+      "part": "Team A · Feld 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wie heißen die Formen? ich kann, du …, er/es/sie …, wir …, ihr …, sie/Sie …",
@@ -101,7 +101,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team A · Feld 5",
+      "part": "Team A · Feld 5",
       "item": "5",
       "item_type": "short-answer",
       "question": "Wie heißen die Wörter (Brot, Brötchen, Banane)? Nennen Sie auch Artikel und Plural.",
@@ -115,7 +115,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team A · Feld 6",
+      "part": "Team A · Feld 6",
       "item": "6",
       "item_type": "speaking-task",
       "question": "Bilden Sie einen Satz mit dem Verb einladen.",
@@ -129,7 +129,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team B · Feld 4",
+      "part": "Team B · Feld 4",
       "item": "4",
       "item_type": "fill-in",
       "question": "Wie heißen die Formen? ich will, du …, er/es/sie …, wir …, ihr …, sie/Sie …",
@@ -143,7 +143,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team B · Feld 5",
+      "part": "Team B · Feld 5",
       "item": "5",
       "item_type": "short-answer",
       "question": "Wie heißen die Wörter (Tomate, Apfel, Ei)? Nennen Sie auch Artikel und Plural.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Team B · Feld 6",
+      "part": "Team B · Feld 6",
       "item": "6",
       "item_type": "speaking-task",
       "question": "Bilden Sie einen Satz mit dem Verb anrufen.",
@@ -171,7 +171,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 2",
+      "part": "Übung 2",
       "item": "2",
       "item_type": "speaking-task",
       "question": "Drei interessante Informationen. Sprechen Sie zu zweit wie im Beispiel.",
@@ -185,7 +185,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3",
+      "part": "Übung 3",
       "item": "3",
       "item_type": "speaking-task",
       "question": "Hast du Zeit? Ergänzen Sie ein Datum. Fragen und antworten Sie. Finden Sie einen Partner / eine Partnerin für drei Aktivitäten.",
@@ -199,7 +199,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "speaking-task",
       "question": "Tageszeiten. Jede/r wählt einen Text und diktiert ihn seinem Partner / seiner Partnerin. Korrigieren Sie dann den Text.",
@@ -213,7 +213,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a",
       "item_type": "matching",
       "question": "Sehen Sie die Fotos an. Was passt: viel Zeit oder wenig Zeit? Notieren Sie die Nummern.",
@@ -227,7 +227,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c",
       "item_type": "speaking-task",
       "question": "Ihre Zeit: Für welche Dinge brauchen Sie viel Zeit? Für welche möchten Sie mehr Zeit haben? Sammeln Sie.",
@@ -241,7 +241,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a",
       "item_type": "speaking-task",
       "question": "Sehen Sie die Bilder an. Welches Gericht kennen Sie? Was möchten Sie probieren?",
@@ -255,7 +255,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6b",
+      "part": "Übung 6b",
       "item": "6b",
       "item_type": "speaking-task",
       "question": "Welche Lebensmittel sehen Sie auf den Bildern? Sammeln Sie.",
@@ -269,7 +269,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-1",
       "item_type": "matching",
       "question": "Welcher Text passt zu welchem Gericht? – Ingo, 33, Berlin",
@@ -283,7 +283,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-2",
       "item_type": "matching",
       "question": "Welcher Text passt zu welchem Gericht? – Marie, 18, Hamburg",
@@ -297,7 +297,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-3",
       "item_type": "matching",
       "question": "Welcher Text passt zu welchem Gericht? – Alexander, 25, Innsbruck",
@@ -311,7 +311,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c-4",
       "item_type": "matching",
       "question": "Welcher Text passt zu welchem Gericht? – Michaela, 28, Zürich",
@@ -325,7 +325,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6d",
+      "part": "Übung 6d",
       "item": "6d",
       "item_type": "speaking-task",
       "question": "Jede/r wählt zwei Texte. Was sagen die Leute? Machen Sie Notizen und berichten Sie Ihrem Partner / Ihrer Partnerin.",
@@ -339,7 +339,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6e",
+      "part": "Übung 6e",
       "item": "6e",
       "item_type": "speaking-task",
       "question": "Was isst man in Ihrem Land / Ihrer Region? Bringen Sie Fotos von einem typischen Gericht mit und berichten Sie.",
@@ -353,7 +353,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1a",
+      "part": "Übung 1a",
       "item": "1a",
       "item_type": "speaking-task",
       "question": "Was macht Adnan auf den Fotos? Beschreiben Sie.",
@@ -367,7 +367,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1b",
+      "part": "Übung 1b",
       "item": "1b",
       "item_type": "matching",
       "question": "Hören Sie die Gespräche und ordnen Sie sie den Fotos zu.",
@@ -381,7 +381,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1c",
+      "part": "Übung 1c",
       "item": "1c (Gespräch 1)",
       "item_type": "ordering",
       "question": "Hören Sie Gespräch 1 noch einmal und bringen Sie die Sätze in die richtige Reihenfolge.",
@@ -395,7 +395,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 1c",
+      "part": "Übung 1c",
       "item": "1c (Gespräch 2)",
       "item_type": "ordering",
       "question": "Hören Sie Gespräch 2 noch einmal und bringen Sie die Sätze in die richtige Reihenfolge.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1d",
+      "part": "Übung 1d",
       "item": "1d",
       "item_type": "speaking-task",
       "question": "Spielen Sie die Dialoge zu zweit.",
@@ -423,7 +423,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1e",
+      "part": "Übung 1e",
       "item": "1e",
       "item_type": "speaking-task",
       "question": "Ihr Morgen. Was machen Sie? Wen treffen Sie?",
@@ -437,7 +437,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a",
       "item_type": "matching",
       "question": "Lesen Sie den Blog von Laura. Welche Bilder passen?",
@@ -451,7 +451,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b-1",
       "item_type": "short-answer",
       "question": "Was macht Laura gern, was nicht so gern? – früh aufstehen",
@@ -465,7 +465,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b-2",
       "item_type": "short-answer",
       "question": "Was macht Laura gern, was nicht so gern? – telefonieren",
@@ -479,7 +479,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b-3",
       "item_type": "short-answer",
       "question": "Was macht Laura gern, was nicht so gern? – mit Kollegen Kaffee trinken",
@@ -493,7 +493,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b-4",
       "item_type": "short-answer",
       "question": "Was macht Laura gern, was nicht so gern? – mit der Chefin Kunden besuchen",
@@ -507,7 +507,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b-5",
       "item_type": "short-answer",
       "question": "Was macht Laura gern, was nicht so gern? – am Computer arbeiten",
@@ -521,7 +521,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b-6",
       "item_type": "short-answer",
       "question": "Was macht Laura gern, was nicht so gern? – allein Pause machen",
@@ -535,7 +535,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2c",
+      "part": "Übung 2c",
       "item": "2c-1",
       "item_type": "fill-in",
       "question": "Verbinden Sie mit und, oder oder aber: Die Firma ist klein. / Es ist immer viel los.",
@@ -549,7 +549,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2c",
+      "part": "Übung 2c",
       "item": "2c-2",
       "item_type": "fill-in",
       "question": "Verbinden Sie mit und, oder oder aber: Die Kollegen sind nett. / Sie sind lustig.",
@@ -563,7 +563,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2c",
+      "part": "Übung 2c",
       "item": "2c-3",
       "item_type": "fill-in",
       "question": "Verbinden Sie mit und, oder oder aber: Laura trinkt mit Kollegen Kaffee. / Sie macht allein Pause.",
@@ -577,7 +577,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2c",
+      "part": "Übung 2c",
       "item": "2c-4",
       "item_type": "fill-in",
       "question": "Verbinden Sie mit und, oder oder aber: Mittags isst sie ein Sandwich. / Sie trinkt Apfelschorle.",
@@ -591,7 +591,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2c",
+      "part": "Übung 2c",
       "item": "2c-5",
       "item_type": "fill-in",
       "question": "Verbinden Sie mit und, oder oder aber: Am Abend lernt Laura Deutsch. / Sie trifft Freunde aus Spanien.",
@@ -605,7 +605,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 2c",
+      "part": "Übung 2c",
       "item": "2c-6",
       "item_type": "fill-in",
       "question": "Verbinden Sie mit und, oder oder aber: Adnan geht heute früh. / Morgen bleibt er lang.",
@@ -619,7 +619,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 2d",
+      "part": "Übung 2d",
       "item": "2d",
       "item_type": "writing-task",
       "question": "Schreiben Sie über Ihren Alltag oder Ihre Arbeit und verwenden Sie und, oder, aber.",
@@ -633,7 +633,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "3a",
       "item_type": "multiple-choice",
       "question": "Über welche Themen spricht Laura? Kreuzen Sie an: 1. Urlaub, 2. Abendessen, 3. Arbeitszeit, 4. Kundenbesuch, 5. Geburtstag, 6. Sommerfest.",
@@ -647,7 +647,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-1",
       "item_type": "fill-in",
       "question": "Laura möchte einen Tag frei. Sie muss mit der ___ sprechen.",
@@ -661,7 +661,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-2",
       "item_type": "fill-in",
       "question": "Sie fährt mit einem Freund und einer Freundin zu einem ___.",
@@ -675,7 +675,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-3",
       "item_type": "fill-in",
       "question": "Am Dienstag möchte sie schon um ___ Uhr nach Hause gehen.",
@@ -689,7 +689,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-4",
       "item_type": "fill-in",
       "question": "Laura und Adnan fahren mit der U-Bahn und dem Taxi zu der ___.",
@@ -703,7 +703,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-5",
       "item_type": "fill-in",
       "question": "Sie sprechen dort mit dem Chef. Er ist sehr ___.",
@@ -717,7 +717,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-6",
       "item_type": "fill-in",
       "question": "Laura möchte mit den Mitarbeitern ihren ___ feiern.",
@@ -731,7 +731,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3d",
+      "part": "Übung 3d",
       "item": "3d",
       "item_type": "speaking-task",
       "question": "Mit wem machen Sie das? Würfeln Sie zwei Mal und bilden Sie Sätze.",
@@ -745,7 +745,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4a",
+      "part": "Übung 4a",
       "item": "4a",
       "item_type": "multiple-choice",
       "question": "s und sch. Was hören Sie? Kreuzen Sie an (Glas, Tisch, Bus, Teller/Besteck).",
@@ -759,7 +759,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-1",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – Fest",
@@ -773,7 +773,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-2",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – Dienstag",
@@ -787,7 +787,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-3",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – stehen",
@@ -801,7 +801,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-4",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – Start",
@@ -815,7 +815,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-5",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – meistens",
@@ -829,7 +829,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-6",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – Stress",
@@ -843,7 +843,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-7",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – Obst",
@@ -857,7 +857,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-8",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – vorstellen",
@@ -871,7 +871,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-9",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – Frühstück",
@@ -885,7 +885,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-10",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – stimmen",
@@ -899,7 +899,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-11",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – lustig",
@@ -913,7 +913,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4c",
+      "part": "Übung 4c",
       "item": "4c-12",
       "item_type": "multiple-choice",
       "question": "Was hören Sie: st oder scht? – Durst",
@@ -927,7 +927,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a-1",
       "item_type": "multiple-choice",
       "question": "Was passt? Markieren Sie: Tom und Julia sind …",
@@ -941,7 +941,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a-2",
       "item_type": "multiple-choice",
       "question": "Was passt? Markieren Sie: Sie sind auf dem Weg …",
@@ -955,7 +955,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a-3",
       "item_type": "multiple-choice",
       "question": "Was passt? Markieren Sie: Sie sprechen über …",
@@ -969,7 +969,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b-1",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Heute Vormittag hat Tom keinen Stress.",
@@ -983,7 +983,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b-2",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Tom muss am Nachmittag zur Bank gehen.",
@@ -997,7 +997,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b-3",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Der Termin in der Bank dauert zwei Stunden.",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b-4",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Julia muss zur Post gehen.",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b-5",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Um 14 Uhr muss Julia beim Chef sein.",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b-6",
       "item_type": "true-false",
       "question": "Richtig oder falsch? Sie muss einen Bericht schreiben.",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c-1",
       "item_type": "matching",
       "question": "Welcher Satz passt zu welchem Bild? – Am Nachmittag geht Julia zum Chef.",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c-2",
       "item_type": "matching",
       "question": "Welcher Satz passt zu welchem Bild? – Tom kommt aus der Bank und trifft Julia. So ein Zufall!",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c-3",
       "item_type": "matching",
       "question": "Welcher Satz passt zu welchem Bild? – Um 15 Uhr ist Julia beim Chef. Der Termin ist wichtig.",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c-4",
       "item_type": "matching",
       "question": "Welcher Satz passt zu welchem Bild? – Tom geht heute schon um 9 Uhr zur Bank.",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c-5",
       "item_type": "matching",
       "question": "Welcher Satz passt zu welchem Bild? – Das Gespräch in der Bank dauert eine Stunde.",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c-6",
       "item_type": "matching",
       "question": "Welcher Satz passt zu welchem Bild? – Julia kommt vom Chef und trifft Tom.",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 5e",
+      "part": "Übung 5e",
       "item": "5e-1",
       "item_type": "ordering",
       "question": "Schreiben Sie einen Satz (Beginn mit dem markierten Wort): sein / bei / der Zahnarzt / heute Vormittag / ich",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 5e",
+      "part": "Übung 5e",
       "item": "5e-2",
       "item_type": "ordering",
       "question": "Schreiben Sie einen Satz (Beginn mit dem markierten Wort): fahren / zu / das Büro / dann / ich",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 5e",
+      "part": "Übung 5e",
       "item": "5e-3",
       "item_type": "ordering",
       "question": "Schreiben Sie einen Satz (Beginn mit dem markierten Wort): dort / ich / zu / die Chefin / gehen / gleich",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 5e",
+      "part": "Übung 5e",
       "item": "5e-4",
       "item_type": "ordering",
       "question": "Schreiben Sie einen Satz (Beginn mit dem markierten Wort): ich / um 17 Uhr / aus / die Firma / kommen",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 5e",
+      "part": "Übung 5e",
       "item": "5e-5",
       "item_type": "ordering",
       "question": "Schreiben Sie einen Satz (Beginn mit dem markierten Wort): zu / Freunde / am Abend / ich / fahren",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 5e",
+      "part": "Übung 5e",
       "item": "5e-6",
       "item_type": "ordering",
       "question": "Schreiben Sie einen Satz (Beginn mit dem markierten Wort): zusammen / wir / in / das Restaurant / essen",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 5f",
+      "part": "Übung 5f",
       "item": "5f",
       "item_type": "speaking-task",
       "question": "Gehen Sie durch den Kursraum. Fragen und antworten Sie: Wohin gehst du? Wo warst du? Woher kommst du?",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a-1",
       "item_type": "matching",
       "question": "Im Büro. Was passt wo? – den Computer hochfahren",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a-2",
       "item_type": "matching",
       "question": "Im Büro. Was passt wo? – die Datei öffnen",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a-3",
       "item_type": "matching",
       "question": "Im Büro. Was passt wo? – das Passwort eingeben",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a-4",
       "item_type": "matching",
       "question": "Im Büro. Was passt wo? – den Drucker anmachen/ausmachen",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a-5",
       "item_type": "matching",
       "question": "Im Büro. Was passt wo? – die Datei speichern",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a-6",
       "item_type": "matching",
       "question": "Im Büro. Was passt wo? – den Text drucken",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6b",
+      "part": "Übung 6b",
       "item": "6b",
       "item_type": "speaking-task",
       "question": "Was muss Tom zuerst machen, was dann? Sprechen Sie zu zweit.",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c",
       "item_type": "speaking-task",
       "question": "Was machen Sie oft am Computer? Nennen Sie drei Aktivitäten.",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a",
       "item_type": "short-answer",
       "question": "Lesen Sie den Brief. Was machen die Mitglieder zusammen? Sammeln Sie.",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b",
       "item_type": "speaking-task",
       "question": "Welche Kontakte zu Ihrer Sprache oder zu Deutsch gibt es in Ihrer Stadt? Recherchieren und berichten Sie.",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-1",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Absender",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-2",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Empfänger",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-3",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Datum",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-4",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Betreff",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-5",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Anrede",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-6",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Gruß",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-7",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Unterschrift",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-8",
       "item_type": "matching",
       "question": "Briefstandards. Wo steht was im Brief? – Adresse",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-1",
       "item_type": "matching",
       "question": "Formelle Briefe: Was passt wo? – Anrede",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-2",
       "item_type": "matching",
       "question": "Formelle Briefe: Was passt wo? – Gruß",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 8c",
+      "part": "Übung 8c",
       "item": "8c",
       "item_type": "writing-task",
       "question": "Ordnen Sie die Sätze und schreiben Sie einen kurzen Brief an Frau Arends. Denken Sie an Anrede und Gruß.",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 9a",
+      "part": "Übung 9a",
       "item": "9a",
       "item_type": "speaking-task",
       "question": "Über welche Themen sprechen Sie mit Kollegen/Kolleginnen in der Mittagspause? Kreuzen Sie an und vergleichen Sie.",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 9b",
+      "part": "Übung 9b",
       "item": "9b",
       "item_type": "short-answer",
       "question": "Hören Sie drei Gespräche. Über welche Themen aus 9a sprechen die Leute?",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9c",
+      "part": "Übung 9c",
       "item": "9c-1",
       "item_type": "short-answer",
       "question": "Welche Themen sind gut für Small Talk? Notieren Sie.",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9c",
+      "part": "Übung 9c",
       "item": "9c-2",
       "item_type": "short-answer",
       "question": "Welche Themen sind keine Themen für Small Talk? Notieren Sie.",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-1",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Heute ist es wieder heiß.",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-2",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Sehen Sie auch das Fußballspiel heute Abend?",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-3",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Und wie war Ihr Wochenende?",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-4",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Mögen Sie eigentlich Sport?",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-5",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Wie geht es Ihren Eltern/Kindern/…?",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-6",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Ach, jetzt regnet es schon wieder. Das ist schrecklich, oder?",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-7",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Endlich Freitag! Und was machen Sie am Wochenende?",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 9d",
+      "part": "Übung 9d",
       "item": "9d-8",
       "item_type": "matching",
       "question": "Zu welchem Thema passt der Satz (A Wetter, B Wochenende, C Sport, D Familie)? – Wie alt sind Ihre Kinder?",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 9e",
+      "part": "Übung 9e",
       "item": "9e",
       "item_type": "speaking-task",
       "question": "Spielen Sie kurze Small Talk-Situationen. Gehen Sie durch den Kursraum und sprechen Sie mit drei Personen.",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a",
       "item_type": "speaking-task",
       "question": "Sehen Sie das Foto an. Was denken Sie? Was ist los? Wie geht es Anna?",
@@ -1725,7 +1725,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b",
       "item_type": "ordering",
       "question": "Sehen Sie Szene 16. Was muss Anna machen? Ordnen Sie die Fotos in die richtige Reihenfolge.",
@@ -1739,7 +1739,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a-1",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Gespräch (Freut mich, Kein Problem, Guten Tag, einen Drucker, Hallo, das ist, Kinotickets): Anna: Hi Max, (1) ___ meine Oma, Inge Blank.",
@@ -1753,7 +1753,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a-2",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Gespräch: Max: (2) ___, Frau Blank.",
@@ -1767,7 +1767,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a-3",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Gespräch: Max: (3) ___!",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a-4",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Gespräch: Oma: (4) ___ Max!",
@@ -1795,7 +1795,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a-5",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Gespräch: Anna: Du, Max, du hast doch (5) ___ …",
@@ -1809,7 +1809,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a-6",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Gespräch: Anna: Nur zwei (6) ___. Oma und ich gehen heute Abend ins Kino.",
@@ -1823,7 +1823,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a-7",
       "item_type": "fill-in",
       "question": "Ergänzen Sie das Gespräch: Max: (7) ___ – das mache ich schnell!",
@@ -1837,7 +1837,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b-1",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Anna und ihre Oma wollen … ins Kino gehen.",
@@ -1851,7 +1851,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b-2",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Max muss die Datei …",
@@ -1865,7 +1865,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b-3",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Der Drucker ist …",
@@ -1879,7 +1879,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b-4",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Max kann die Datei …",
@@ -1893,7 +1893,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b-5",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Max ist …",
@@ -1907,7 +1907,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b-6",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Die Oma hat …",
@@ -1921,7 +1921,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b-7",
       "item_type": "multiple-choice",
       "question": "Was ist richtig? Sie macht … aus und wieder an.",
@@ -1935,7 +1935,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1a",
+      "part": "Übung 1a",
       "item": "1a",
       "item_type": "speaking-task",
       "question": "Gesund leben. Was kann man machen? Sammeln Sie.",
@@ -1949,7 +1949,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 1b",
+      "part": "Übung 1b",
       "item": "1b",
       "item_type": "speaking-task",
       "question": "Annika Jansen macht für zwei Monate ein Experiment. Beschreiben Sie die Bilder. Was macht Annika?",
@@ -1963,7 +1963,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 1c",
+      "part": "Übung 1c",
       "item": "1c-1",
       "item_type": "matching",
       "question": "Lesen Sie Annikas Kommentare. Welches Foto passt? – Kommentar 31.03. (Süßigkeiten an Nadine geben)",
@@ -1977,7 +1977,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 1c",
+      "part": "Übung 1c",
       "item": "1c-2",
       "item_type": "matching",
       "question": "Lesen Sie Annikas Kommentare. Welches Foto passt? – Kommentar 02.04. (Joggen, Sport, duschen)",
@@ -1991,7 +1991,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 1c",
+      "part": "Übung 1c",
       "item": "1c-3",
       "item_type": "matching",
       "question": "Lesen Sie Annikas Kommentare. Welches Foto passt? – Kommentar 10.04. (Frühstück, Salat, Suppe)",

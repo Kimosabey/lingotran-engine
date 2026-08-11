@@ -3,7 +3,7 @@
   "items": [
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-1",
       "item_type": "multiple-choice",
       "instruction": "Hören Sie die Sprachnachrichten. Was sagen die Personen zum Experiment? Kreuzen Sie an.",
@@ -17,7 +17,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-2",
       "item_type": "multiple-choice",
       "instruction": "Hören Sie die Sprachnachrichten. Was sagen die Personen zum Experiment? Kreuzen Sie an.",
@@ -31,7 +31,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-3",
       "item_type": "multiple-choice",
       "instruction": "Hören Sie die Sprachnachrichten. Was sagen die Personen zum Experiment? Kreuzen Sie an.",
@@ -45,7 +45,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-4",
       "item_type": "multiple-choice",
       "instruction": "Hören Sie die Sprachnachrichten. Was sagen die Personen zum Experiment? Kreuzen Sie an.",
@@ -59,7 +59,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-5",
       "item_type": "multiple-choice",
       "instruction": "Hören Sie die Sprachnachrichten. Was sagen die Personen zum Experiment? Kreuzen Sie an.",
@@ -73,7 +73,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-6",
       "item_type": "multiple-choice",
       "instruction": "Hören Sie die Sprachnachrichten. Was sagen die Personen zum Experiment? Kreuzen Sie an.",
@@ -87,7 +87,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b",
       "item_type": "speaking-task",
       "instruction": "Wie finden Sie das Experiment? Möchten Sie so etwas auch machen?",
@@ -101,7 +101,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "3a",
       "item_type": "short-answer",
       "instruction": "Leon will sportlich sein. Lesen Sie den Comic. Was muss Leon tun?",
@@ -115,7 +115,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b",
       "item_type": "short-answer",
       "instruction": "Markieren Sie in 3a die Verben im Imperativ. Wie bildet man den Imperativ?",
@@ -129,7 +129,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3c",
+      "part": "Übung 3c",
       "item": "3c",
       "item_type": "speaking-task",
       "instruction": "Spielen Sie zu zweit „Fitness-App\". Formulieren Sie Aufforderungen.",
@@ -143,7 +143,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3d",
+      "part": "Übung 3d",
       "item": "3d",
       "item_type": "speaking-task",
       "instruction": "Was passiert? Lesen Sie und sprechen Sie im Kurs.",
@@ -157,7 +157,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3e",
+      "part": "Übung 3e",
       "item": "3e",
       "item_type": "fill-in",
       "instruction": "Markieren Sie die Verben im Imperativ in 3d und ergänzen Sie die Regel.",
@@ -171,7 +171,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 4",
+      "part": "Übung 4",
       "item": "4",
       "item_type": "speaking-task",
       "instruction": "Notieren Sie drei Aufforderungen für Ihren Kurs und lesen Sie vor.",
@@ -185,7 +185,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a-1",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch und ordnen Sie die Antworten zu.",
@@ -199,7 +199,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a-2",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch und ordnen Sie die Antworten zu.",
@@ -213,7 +213,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a-3",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch und ordnen Sie die Antworten zu.",
@@ -227,7 +227,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b",
       "item_type": "speaking-task",
       "instruction": "Was glauben Sie: Wie alt, wie groß und wie schwer sind die Personen? Notieren Sie und sprechen Sie zu zweit.",
@@ -241,7 +241,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a",
       "item_type": "matching",
       "instruction": "Der Körper. Ordnen Sie die Wörter zu. Die englischen Wörter können helfen.",
@@ -255,7 +255,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6b",
+      "part": "Übung 6b",
       "item": "6b",
       "item_type": "speaking-task",
       "instruction": "Arbeiten Sie zu zweit. A nennt einen Körperteil mit Artikel, B zeigt auf den Körperteil. Wechseln Sie dann.",
@@ -269,7 +269,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-1",
       "item_type": "multiple-choice",
       "instruction": "p oder b, t oder d, k oder g? Was hören Sie? Kreuzen Sie an.",
@@ -283,7 +283,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-2",
       "item_type": "multiple-choice",
       "instruction": "p oder b, t oder d, k oder g? Was hören Sie? Kreuzen Sie an.",
@@ -297,7 +297,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-3",
       "item_type": "multiple-choice",
       "instruction": "p oder b, t oder d, k oder g? Was hören Sie? Kreuzen Sie an.",
@@ -311,7 +311,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b",
       "item_type": "speaking-task",
       "instruction": "Hören Sie und sprechen Sie nach.",
@@ -325,7 +325,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-1",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an. Ordnen Sie die Sätze zu.",
@@ -339,7 +339,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-2",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an. Ordnen Sie die Sätze zu.",
@@ -353,7 +353,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-3",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an. Ordnen Sie die Sätze zu.",
@@ -367,7 +367,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-1",
       "item_type": "matching",
       "instruction": "Ordnen Sie das Gespräch. Hören Sie dann und kontrollieren Sie.",
@@ -381,7 +381,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-2",
       "item_type": "matching",
       "instruction": "Ordnen Sie das Gespräch. Hören Sie dann und kontrollieren Sie.",
@@ -395,7 +395,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-3",
       "item_type": "matching",
       "instruction": "Ordnen Sie das Gespräch. Hören Sie dann und kontrollieren Sie.",
@@ -409,7 +409,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-4",
       "item_type": "matching",
       "instruction": "Ordnen Sie das Gespräch. Hören Sie dann und kontrollieren Sie.",
@@ -423,7 +423,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-5",
       "item_type": "matching",
       "instruction": "Ordnen Sie das Gespräch. Hören Sie dann und kontrollieren Sie.",
@@ -437,7 +437,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8c",
+      "part": "Übung 8c",
       "item": "8c-1",
       "item_type": "true-false",
       "instruction": "Nach dem Arztbesuch. Frau Pohn berichtet. Was ist richtig? Kreuzen Sie an.",
@@ -451,7 +451,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8c",
+      "part": "Übung 8c",
       "item": "8c-2",
       "item_type": "true-false",
       "instruction": "Nach dem Arztbesuch. Frau Pohn berichtet. Was ist richtig? Kreuzen Sie an.",
@@ -465,7 +465,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8c",
+      "part": "Übung 8c",
       "item": "8c-3",
       "item_type": "true-false",
       "instruction": "Nach dem Arztbesuch. Frau Pohn berichtet. Was ist richtig? Kreuzen Sie an.",
@@ -479,7 +479,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8c",
+      "part": "Übung 8c",
       "item": "8c-4",
       "item_type": "true-false",
       "instruction": "Nach dem Arztbesuch. Frau Pohn berichtet. Was ist richtig? Kreuzen Sie an.",
@@ -493,7 +493,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8c",
+      "part": "Übung 8c",
       "item": "8c-5",
       "item_type": "true-false",
       "instruction": "Nach dem Arztbesuch. Frau Pohn berichtet. Was ist richtig? Kreuzen Sie an.",
@@ -507,7 +507,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 9",
+      "part": "Übung 9",
       "item": "9",
       "item_type": "speaking-task",
       "instruction": "Ich bin so krank! Arbeiten Sie zu zweit. Was sagt die Frau, was sagt der Mann?",
@@ -521,7 +521,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-1",
       "item_type": "matching",
       "instruction": "Wer sagt was? Ordnen Sie die Aussagen zu.",
@@ -535,7 +535,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-2",
       "item_type": "matching",
       "instruction": "Wer sagt was? Ordnen Sie die Aussagen zu.",
@@ -549,7 +549,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-3",
       "item_type": "matching",
       "instruction": "Wer sagt was? Ordnen Sie die Aussagen zu.",
@@ -563,7 +563,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-4",
       "item_type": "matching",
       "instruction": "Wer sagt was? Ordnen Sie die Aussagen zu.",
@@ -577,7 +577,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-5",
       "item_type": "matching",
       "instruction": "Wer sagt was? Ordnen Sie die Aussagen zu.",
@@ -591,7 +591,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-6",
       "item_type": "matching",
       "instruction": "Wer sagt was? Ordnen Sie die Aussagen zu.",
@@ -605,7 +605,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-1",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -619,7 +619,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-2",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -633,7 +633,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-3",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -647,7 +647,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-4",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -661,7 +661,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-5",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -675,7 +675,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-6",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -689,7 +689,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-7",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -703,7 +703,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-8",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -717,7 +717,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b-9",
       "item_type": "matching",
       "instruction": "Was müssen die Patienten tun? Was dürfen sie (nicht) tun? Lesen Sie die Aussagen und hören Sie die Gespräche. Ordnen Sie dann die Aussagen den Bildern in 10a zu.",
@@ -731,7 +731,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 10c",
+      "part": "Übung 10c",
       "item": "10c-1",
       "item_type": "writing-task",
       "instruction": "Welche Anweisungen gibt der Arzt? Schreiben Sie Sätze mit müssen oder nicht dürfen.",
@@ -745,7 +745,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 10c",
+      "part": "Übung 10c",
       "item": "10c-2",
       "item_type": "writing-task",
       "instruction": "Welche Anweisungen gibt der Arzt? Schreiben Sie Sätze mit müssen oder nicht dürfen.",
@@ -759,7 +759,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 10c",
+      "part": "Übung 10c",
       "item": "10c-3",
       "item_type": "writing-task",
       "instruction": "Welche Anweisungen gibt der Arzt? Schreiben Sie Sätze mit müssen oder nicht dürfen.",
@@ -773,7 +773,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 11",
+      "part": "Übung 11",
       "item": "11",
       "item_type": "speaking-task",
       "instruction": "Spielen Sie zu zweit Dialoge. Tauschen Sie dann die Rollen.",
@@ -787,7 +787,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 12a",
+      "part": "Übung 12a",
       "item": "12a-1",
       "item_type": "matching",
       "instruction": "Was hilft? Was vermuten Sie? Ordnen Sie zu.",
@@ -801,7 +801,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 12a",
+      "part": "Übung 12a",
       "item": "12a-2",
       "item_type": "matching",
       "instruction": "Was hilft? Was vermuten Sie? Ordnen Sie zu.",
@@ -815,7 +815,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 12a",
+      "part": "Übung 12a",
       "item": "12a-3",
       "item_type": "matching",
       "instruction": "Was hilft? Was vermuten Sie? Ordnen Sie zu.",
@@ -829,7 +829,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 12b",
+      "part": "Übung 12b",
       "item": "12b-1",
       "item_type": "matching",
       "instruction": "Lesen Sie die Forumsbeiträge und die Tipps. Was passt zusammen? Notieren Sie die Namen.",
@@ -843,7 +843,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 12b",
+      "part": "Übung 12b",
       "item": "12b-2",
       "item_type": "matching",
       "instruction": "Lesen Sie die Forumsbeiträge und die Tipps. Was passt zusammen? Notieren Sie die Namen.",
@@ -857,7 +857,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 12b",
+      "part": "Übung 12b",
       "item": "12b-3",
       "item_type": "matching",
       "instruction": "Lesen Sie die Forumsbeiträge und die Tipps. Was passt zusammen? Notieren Sie die Namen.",
@@ -871,7 +871,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 12c",
+      "part": "Übung 12c",
       "item": "12c",
       "item_type": "writing-task",
       "instruction": "Was hilft? Beschreiben Sie ein Problem wie in 12b. Hängen Sie die Zettel auf und schreiben Sie Tipps dazu.",
@@ -885,7 +885,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-1",
       "item_type": "matching",
       "instruction": "Lesen Sie die Aussagen und markieren Sie die Berufe. Schreiben Sie die Berufe zu den Fotos.",
@@ -899,7 +899,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-2",
       "item_type": "matching",
       "instruction": "Lesen Sie die Aussagen und markieren Sie die Berufe. Schreiben Sie die Berufe zu den Fotos.",
@@ -913,7 +913,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-3",
       "item_type": "matching",
       "instruction": "Lesen Sie die Aussagen und markieren Sie die Berufe. Schreiben Sie die Berufe zu den Fotos.",
@@ -927,7 +927,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a-4",
       "item_type": "matching",
       "instruction": "Lesen Sie die Aussagen und markieren Sie die Berufe. Schreiben Sie die Berufe zu den Fotos.",
@@ -941,7 +941,7 @@
     },
     {
       "section": "vocabulary",
-      "teil": "Übung 13b",
+      "part": "Übung 13b",
       "item": "13b",
       "item_type": "short-answer",
       "instruction": "Wörter verstehen. Lesen Sie die Strategien und Beispiele. Ergänzen Sie eigene Beispiele.",
@@ -955,7 +955,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 13c",
+      "part": "Übung 13c",
       "item": "13c",
       "item_type": "speaking-task",
       "instruction": "Im Krankenhaus. Arbeiten Sie zu zweit und sammeln Sie Wörter aus 13a. Recherchieren Sie weitere wichtige Wörter und Ausdrücke und machen Sie ein Plakat.",
@@ -969,7 +969,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 14a",
+      "part": "Übung 14a",
       "item": "14a",
       "item_type": "speaking-task",
       "instruction": "Aua! Sehen Sie die Fotos an. Vermuten Sie: Was ist Lucas Problem? Was macht Max? Sprechen Sie zu zweit.",
@@ -983,7 +983,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-1",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -997,7 +997,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-2",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -1011,7 +1011,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-3",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-4",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -1039,7 +1039,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-5",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -1053,7 +1053,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-6",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -1067,7 +1067,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-7",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -1081,7 +1081,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b-8",
       "item_type": "matching",
       "instruction": "Was denken Sie? Wer sagt was? Notieren Sie Luca oder Max.",
@@ -1095,7 +1095,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 14c",
+      "part": "Übung 14c",
       "item": "14c",
       "item_type": "ordering",
       "instruction": "Sehen Sie nun Szene 18 und ordnen Sie den Dialog.",
@@ -1109,7 +1109,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 15a",
+      "part": "Übung 15a",
       "item": "15a",
       "item_type": "speaking-task",
       "instruction": "Hol bitte …! Sehen Sie Szene 19. Was möchte Luca haben? Was müssen Max und Anna holen? Was muss Bea machen? Sprechen Sie zu zweit.",
@@ -1123,7 +1123,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 15b",
+      "part": "Übung 15b",
       "item": "15b",
       "item_type": "short-answer",
       "instruction": "Sehen Sie die Szene noch einmal. Was hat Luca gesagt? Notieren Sie die Aufforderungen.",
@@ -1137,7 +1137,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 16a",
+      "part": "Übung 16a",
       "item": "16a-1",
       "item_type": "multiple-choice",
       "instruction": "Der arme Luca. Sehen Sie Szene 20. Was ist richtig? Kreuzen Sie an.",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 16a",
+      "part": "Übung 16a",
       "item": "16a-2",
       "item_type": "multiple-choice",
       "instruction": "Der arme Luca. Sehen Sie Szene 20. Was ist richtig? Kreuzen Sie an.",
@@ -1165,7 +1165,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 16a",
+      "part": "Übung 16a",
       "item": "16a-3",
       "item_type": "multiple-choice",
       "instruction": "Der arme Luca. Sehen Sie Szene 20. Was ist richtig? Kreuzen Sie an.",
@@ -1179,7 +1179,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 16a",
+      "part": "Übung 16a",
       "item": "16a-4",
       "item_type": "multiple-choice",
       "instruction": "Der arme Luca. Sehen Sie Szene 20. Was ist richtig? Kreuzen Sie an.",
@@ -1193,7 +1193,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 16b",
+      "part": "Übung 16b",
       "item": "16b",
       "item_type": "speaking-task",
       "instruction": "Arbeiten Sie zu viert. Verteilen Sie die Rollen und spielen Sie Szene 18–20.",
@@ -1207,7 +1207,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 1a",
+      "part": "Übung 1a",
       "item": "1a",
       "item_type": "matching",
       "instruction": "Möbel und Geräte. Wo steht was? Es gibt mehrere Möglichkeiten. Ordnen Sie zu und vergleichen Sie.",
@@ -1221,7 +1221,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 1b",
+      "part": "Übung 1b",
       "item": "1b",
       "item_type": "short-answer",
       "instruction": "Sie ziehen in die Wohnung oben. Was brauchen Sie noch? Arbeiten Sie zu zweit und ergänzen Sie. Arbeiten Sie mit dem Wörterbuch.",
@@ -1235,7 +1235,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-1",
       "item_type": "fill-in",
       "instruction": "Lieblingsorte. Wo sind die Leute besonders gern in ihrer Wohnung? Hören Sie und notieren Sie.",
@@ -1249,7 +1249,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-2",
       "item_type": "fill-in",
       "instruction": "Lieblingsorte. Wo sind die Leute besonders gern in ihrer Wohnung? Hören Sie und notieren Sie.",
@@ -1263,7 +1263,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-3",
       "item_type": "fill-in",
       "instruction": "Lieblingsorte. Wo sind die Leute besonders gern in ihrer Wohnung? Hören Sie und notieren Sie.",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 2a",
+      "part": "Übung 2a",
       "item": "2a-4",
       "item_type": "fill-in",
       "instruction": "Lieblingsorte. Wo sind die Leute besonders gern in ihrer Wohnung? Hören Sie und notieren Sie.",
@@ -1291,7 +1291,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 2b",
+      "part": "Übung 2b",
       "item": "2b",
       "item_type": "speaking-task",
       "instruction": "Was ist Ihr Lieblingszimmer? Was machen Sie dort gern? Erzählen Sie.",
@@ -1305,7 +1305,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 3a",
+      "part": "Übung 3a",
       "item": "3a",
       "item_type": "short-answer",
       "instruction": "Carla und Alex suchen eine Wohnung. Lesen Sie die Nachricht. Markieren Sie alle wichtigen Informationen über die Wohnung.",
@@ -1319,7 +1319,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-1",
       "item_type": "fill-in",
       "instruction": "Carla und Alex hängen auch einen Zettel im Supermarkt auf. Ergänzen Sie den Zettel.",
@@ -1333,7 +1333,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-2",
       "item_type": "fill-in",
       "instruction": "Carla und Alex hängen auch einen Zettel im Supermarkt auf. Ergänzen Sie den Zettel.",
@@ -1347,7 +1347,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-3",
       "item_type": "fill-in",
       "instruction": "Carla und Alex hängen auch einen Zettel im Supermarkt auf. Ergänzen Sie den Zettel.",
@@ -1361,7 +1361,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-4",
       "item_type": "fill-in",
       "instruction": "Carla und Alex hängen auch einen Zettel im Supermarkt auf. Ergänzen Sie den Zettel.",
@@ -1375,7 +1375,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 3b",
+      "part": "Übung 3b",
       "item": "3b-5",
       "item_type": "fill-in",
       "instruction": "Carla und Alex hängen auch einen Zettel im Supermarkt auf. Ergänzen Sie den Zettel.",
@@ -1389,7 +1389,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 3c",
+      "part": "Übung 3c",
       "item": "3c",
       "item_type": "short-answer",
       "instruction": "Carla und Alex lesen Wohnungsanzeigen. Hören Sie das Gespräch. Über welche Wohnung sprechen sie? Ist die Wohnung passend für sie? Warum (nicht)?",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 3d",
+      "part": "Übung 3d",
       "item": "3d",
       "item_type": "speaking-task",
       "instruction": "Lesen Sie die anderen Anzeigen noch einmal. Sprechen Sie über die Wohnungen. Welche Wohnung passt zu Carla und Alex?",
@@ -1417,7 +1417,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 4a",
+      "part": "Übung 4a",
       "item": "4a",
       "item_type": "fill-in",
       "instruction": "Alex und Carla haben eine neue Wohnung. Hören Sie das Gespräch. Was kommt wohin? Was möchte Alex? Was möchte Carla? Ergänzen Sie die Tabelle und berichten Sie.",
@@ -1431,7 +1431,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 4b",
+      "part": "Übung 4b",
       "item": "4b",
       "item_type": "speaking-task",
       "instruction": "Und Sie? In welche Zimmer stellen Sie die Dinge? Sprechen Sie zu zweit.",
@@ -1445,7 +1445,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 5a",
+      "part": "Übung 5a",
       "item": "5a",
       "item_type": "short-answer",
       "instruction": "Lesen Sie die Einladung. Welche Informationen fehlen?",
@@ -1459,7 +1459,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 5b",
+      "part": "Übung 5b",
       "item": "5b",
       "item_type": "short-answer",
       "instruction": "Hören Sie das Gespräch. Notieren Sie die fehlenden Informationen.",
@@ -1473,7 +1473,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 5c",
+      "part": "Übung 5c",
       "item": "5c",
       "item_type": "writing-task",
       "instruction": "Schreiben Sie eine Antwort.",
@@ -1487,7 +1487,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6a",
+      "part": "Übung 6a",
       "item": "6a",
       "item_type": "speaking-task",
       "instruction": "Die Einweihungsfeier. Sehen Sie das Bild an. Was ist wo?",
@@ -1501,7 +1501,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6b",
+      "part": "Übung 6b",
       "item": "6b",
       "item_type": "speaking-task",
       "instruction": "Wo genau sind die Dinge? Erzählen Sie.",
@@ -1515,7 +1515,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 6c",
+      "part": "Übung 6c",
       "item": "6c",
       "item_type": "speaking-task",
       "instruction": "Wo sind die Möbel und Dinge in Ihrem Kursraum oder in Ihrer Wohnung? Sprechen Sie zu dritt.",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-1",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1543,7 +1543,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-2",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1557,7 +1557,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-3",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1571,7 +1571,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-4",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1585,7 +1585,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-5",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1599,7 +1599,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-6",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1613,7 +1613,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-7",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1627,7 +1627,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-8",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1641,7 +1641,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 7a",
+      "part": "Übung 7a",
       "item": "7a-9",
       "item_type": "matching",
       "instruction": "Hören Sie das Gespräch. Wer sagt was?",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-1",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1669,7 +1669,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-2",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1683,7 +1683,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-3",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1697,7 +1697,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-4",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1711,7 +1711,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-5",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1725,7 +1725,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-6",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1739,7 +1739,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-7",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1753,7 +1753,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-8",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1767,7 +1767,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 7b",
+      "part": "Übung 7b",
       "item": "7b-9",
       "item_type": "multiple-choice",
       "instruction": "Welche Äußerung in 7a ist positiv, welche negativ? Notieren Sie 🙂 oder 🙁.",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-1",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1795,7 +1795,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-2",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1809,7 +1809,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-3",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1823,7 +1823,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-4",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1837,7 +1837,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-5",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1851,7 +1851,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-6",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1865,7 +1865,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-7",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1879,7 +1879,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-8",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1893,7 +1893,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-9",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1907,7 +1907,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-10",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1921,7 +1921,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-11",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1935,7 +1935,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 8a",
+      "part": "Übung 8a",
       "item": "8a-12",
       "item_type": "multiple-choice",
       "instruction": "Langes e̲ oder kurzes ẹ? Welches e hören Sie? Kreuzen Sie an.",
@@ -1949,7 +1949,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-1",
       "item_type": "multiple-choice",
       "instruction": "Wie ist die Regel? Kreuzen Sie an.",
@@ -1963,7 +1963,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 8b",
+      "part": "Übung 8b",
       "item": "8b-2",
       "item_type": "multiple-choice",
       "instruction": "Wie ist die Regel? Kreuzen Sie an.",
@@ -1977,7 +1977,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 8c",
+      "part": "Übung 8c",
       "item": "8c",
       "item_type": "speaking-task",
       "instruction": "Hören Sie und sprechen Sie nach.",
@@ -1991,7 +1991,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 9a",
+      "part": "Übung 9a",
       "item": "9a",
       "item_type": "matching",
       "instruction": "Farben. Sehen Sie die Möbel und Geräte an. Verbinden Sie sie mit den Farben.",
@@ -2005,7 +2005,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 9b",
+      "part": "Übung 9b",
       "item": "9b",
       "item_type": "speaking-task",
       "instruction": "Wie heißen die Farben in Ihrer Sprache? Vergleichen Sie.",
@@ -2019,7 +2019,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 9c",
+      "part": "Übung 9c",
       "item": "9c",
       "item_type": "speaking-task",
       "instruction": "Suchen Sie Fotos von Wohnungen oder Zimmern. Was finden Sie schön? Erzählen Sie.",
@@ -2033,7 +2033,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-1",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an und ordnen Sie die Überschriften zu.",
@@ -2047,7 +2047,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-2",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an und ordnen Sie die Überschriften zu.",
@@ -2061,7 +2061,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-3",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an und ordnen Sie die Überschriften zu.",
@@ -2075,7 +2075,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-4",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an und ordnen Sie die Überschriften zu.",
@@ -2089,7 +2089,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 10a",
+      "part": "Übung 10a",
       "item": "10a-5",
       "item_type": "matching",
       "instruction": "Sehen Sie die Fotos an und ordnen Sie die Überschriften zu.",
@@ -2103,7 +2103,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 10b",
+      "part": "Übung 10b",
       "item": "10b",
       "item_type": "short-answer",
       "instruction": "Hören Sie die Bewohner. Machen Sie Notizen zu den Wohnungen und Häusern: Was sind die Vorteile? Was sind die Nachteile?",
@@ -2117,7 +2117,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 10c",
+      "part": "Übung 10c",
       "item": "10c",
       "item_type": "speaking-task",
       "instruction": "Vergleichen Sie Ihre Notizen. Welche Wohnform finden Sie gut? Warum?",
@@ -2131,7 +2131,7 @@
     },
     {
       "section": "reading",
-      "teil": "Übung 11a",
+      "part": "Übung 11a",
       "item": "11a",
       "item_type": "short-answer",
       "instruction": "Lesen Sie die Texte. Was passt auch zu Ihrer Wohn-Situation? Markieren Sie.",
@@ -2145,7 +2145,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 11b",
+      "part": "Übung 11b",
       "item": "11b",
       "item_type": "writing-task",
       "instruction": "Notieren Sie Ihre Textbausteine.",
@@ -2159,7 +2159,7 @@
     },
     {
       "section": "writing",
-      "teil": "Übung 11c",
+      "part": "Übung 11c",
       "item": "11c",
       "item_type": "writing-task",
       "instruction": "Schreiben Sie einen kurzen Text über Ihre Wohnung oder eine Fantasie-Wohnung.",
@@ -2173,7 +2173,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 12",
+      "part": "Übung 12",
       "item": "12",
       "item_type": "speaking-task",
       "instruction": "Wie wohnt man bei Ihnen? Was ist typisch, was ist besonders? Recherchieren Sie Fotos und erzählen Sie.",
@@ -2187,7 +2187,7 @@
     },
     {
       "section": "listening",
-      "teil": "Übung 13a",
+      "part": "Übung 13a",
       "item": "13a",
       "item_type": "multiple-choice",
       "instruction": "Unsere Wohnung. Sehen Sie Szene 21. Welche Zimmer zeigt Anna ihrer Freundin? Kreuzen Sie an.",
@@ -2201,7 +2201,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 13b",
+      "part": "Übung 13b",
       "item": "13b",
       "item_type": "short-answer",
       "instruction": "Sehen Sie Szene 21 noch einmal. Wie findet Annas Freundin die Zimmer?",
@@ -2215,7 +2215,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 13c",
+      "part": "Übung 13c",
       "item": "13c",
       "item_type": "speaking-task",
       "instruction": "Wie finden Sie die Wohnung?",
@@ -2229,7 +2229,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 14a",
+      "part": "Übung 14a",
       "item": "14a",
       "item_type": "speaking-task",
       "instruction": "Ich habe eine Idee. Was machen Anna und ihre Freundin? Sehen Sie Szene 22 und beschreiben Sie.",
@@ -2243,7 +2243,7 @@
     },
     {
       "section": "",
-      "teil": "Übung 14b",
+      "part": "Übung 14b",
       "item": "14b",
       "item_type": "short-answer",
       "instruction": "Hat Luca recht? Sehen Sie Szene 22 noch einmal. Was ist neu?",
@@ -2257,7 +2257,7 @@
     },
     {
       "section": "speaking",
-      "teil": "Übung 14c",
+      "part": "Übung 14c",
       "item": "14c",
       "item_type": "speaking-task",
       "instruction": "Besuch von Freunden. Was machen Sie? Erzählen Sie.",
