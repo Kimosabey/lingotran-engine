@@ -11,13 +11,31 @@ To resume, reference this as **"Pipeline & Exports Handoff v1.1"**. v1.0 stays a
 only as history of the German run and the Tricolore 2 transcription; this document
 supersedes it for current state, gates and standards.
 
-**Head:** `1628946` on `lingotran-engine-v1.1.0` (this document's own commit), tagged
-`v1.1.0-handoff`. 42 commits and 9 tags today. Everything below is verified from disk,
-not from memory.
+Everything below is verified from disk, not from memory.
 
-`main` tracks the version branch by fast-forward and had fallen 82 behind while this
-document claimed it was level; it is level again locally. `origin/main` still trails
-until someone pushes.
+## Branching — changed 2026-08-11
+
+| Ref | Role |
+|---|---|
+| **`develop`** | Where work happens. Commit here. |
+| **`main`** | **Production.** Vercel builds it. Promoted deliberately, never auto-forwarded. |
+| annotated tags | The only thing that pins a version. `v1.0.0`, then `v1.1.1`…`v1.1.6`. |
+
+**Do not create `lingotran-engine-vX.Y.Z` branches.** A branch named for a version
+lies the moment it moves: `v1.1.0` ran 14 commits past its own `v1.1.0-handoff` tag
+while carrying six later tags, and the day before it moved 41 times pinning nothing.
+`lingotran-engine-v1.0.0` sat 96 commits behind `main` still advertising itself as a
+maintained v1.0 line; its position is now the tag `v1.0.0` and the branch is deleted.
+`lingotran-engine-v1.1.0` survives only until the frontend session moves off it.
+
+`main` used to be fast-forwarded after every commit, which made it a second name for
+the working branch and bought nothing — and because Vercel deploys it, that is how a
+half-finished frontend refactor reached production on 2026-08-11. Promote on purpose.
+
+This header deliberately carries no commit counts or tag totals. The two previous
+versions of it went stale within the hour, once while claiming `main` was level when
+it was 82 behind. Run `git log --oneline -1` and `git tag -n1`; do not trust a number
+written in a document.
 
 ---
 
