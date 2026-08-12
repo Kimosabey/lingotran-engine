@@ -484,6 +484,90 @@ export const french = {
       },
     },
 
+    "tricolore-1-5th-edition": {
+      slug: "tricolore-1-5th-edition",
+      title: "Tricolore 1 — 5e édition",
+      subtitle: "Units 1–8 + grammar reference + bilingual glossaries · A1–A2",
+      source: "tricolore-1-5th-edition.pdf",
+      author: "Sylvia Honnor, Heather Mascie-Taylor",
+      publisher: "Oxford University Press",
+      blurb:
+        "The first book of the Tricolore series, an English-medium French course written for secondary classrooms. Levels are mixed within the book, so every question carries its own CEFR level rather than inheriting one from the book.",
+      spreads: 180,
+      transcribed: 180,
+      verified: 174,
+      pending: 0,
+      qaTotal: 180,
+      qaPass: 174,
+      qaFail: 6,
+      status: "complete (6 disclosed gaps)",
+      meters: [
+        { name: "Transcribed", value: 180, of: 180, cls: "" },
+        { name: "QA-verified", value: 174, of: 180, cls: "green" },
+      ],
+      charts: null,
+      caveats: [
+        "1091 of 2413 questions (45%) have a blank correct_answer -- NOT a transcription gap. Confirmed via recon (TOC + back matter): this coursebook's answers are published only in the separate Tricolore 1 Teacher's Book, never in this student volume. A further 196 items are legitimately open-ended (writing/speaking tasks with no single answer) and are separately marked '(open-ended)', not counted among the blanks. Many of the blanks are also audio-dependent listening items (no audio track processed). SME FOLLOW-UP: if the Teacher's Book PDF is ever sourced, its printed answers could be used to re-run the enrichment answer-fill pass and resolve a meaningful share of these blanks.",
+        "6 of 180 pages have a disclosed, individually-reviewed permanent transcription gap after a dedicated repair pass (aggressive re-zoom, per-page): p11 (hand-drawn number-to-face matching diagram, exercise 3 -- 5 of 8 connections confirmed via pixel-level line-tracing, 3 remain genuinely ambiguous where multiple hand-drawn lines cross within 1-2px of a face outline with no single clean touch point); p53 and p54 (decorative illustrated book/poster-item cover titles in cursive/stylized fonts -- confirmed via up to 10x LANCZOS upscale + contrast-stretch that the source scan allocates only ~70-225px total to each title, a genuine resolution ceiling, not exercise-answer-critical); p80 (a poster's ticket-website/phone fine print -- traced back to the source PDF's embedded JPEG, confirmed only ~5-6 pixels tall per text line at native resolution); p136 (a photo credit's 'Copyright - ' caption physically cut off at the trimmed right edge of the scan -- confirmed via pixel-level inspection that the image data ends ~6px past the last visible character, nothing to recover); p161 (two decorative event-ticket graphics in stylized cursive script -- core legible words confirmed, but connecting phrases remain unconfirmable at native resolution). None of these are exercise/answer-critical content; all are decorative/incidental page elements. See each page's _qa/page-NNN.json for the full repair-pass finding.",
+        "Two items (p046/1, p060/1) are typed multiple-choice but are listening tasks with neither options nor a printed answer; the item_type is likely wrong and is flagged for a repair pass, not silently corrected."
+      ],
+      about: {
+        intro:
+          "The first book of the Tricolore series, an English-medium French course written for secondary classrooms. Levels are mixed within the book, so every question carries its own CEFR level rather than inheriting one from the book.",
+        format:
+          "Units of paired presentation and practice pages, a grammar reference, and Français–anglais / anglais–français glossaries — which is why this book contributes the largest vocabulary set in the French corpus.",
+      },
+      progressLead:
+        "180 pages transcribed, 174 QA-verified. 2413 questions and 2728 vocabulary entries extracted.",
+      answerNote: {
+        title: "Answers live in the teacher's guide",
+        lead: "separate-guide",
+        body:
+          "This is a student coursebook, so most correct_answer cells are empty by design. 2026-07-26 recon: TOC (no Answers/Corriges section listed) + back matter (Grammaire reference, vocabulary glossary, Acknowledgements) reviewed; no printed answer key anywhere in the student book",
+      },
+    },
+    "tricolore-2-5th-edition": {
+      slug: "tricolore-2-5th-edition",
+      title: "Tricolore 2 — 5e édition",
+      subtitle: "Continuation of the Tricolore course · A2–B1",
+      source: "tricolore-2-5th-edition.pdf",
+      author: "Sylvia Honnor, Heather Mascie-Taylor",
+      publisher: "Oxford University Press",
+      blurb:
+        "The second book of the Tricolore course, same structure as Tricolore 1 at a higher level. It holds more exercise items than any other book in the corpus.",
+      spreads: 180,
+      transcribed: 180,
+      verified: 171,
+      pending: 0,
+      qaTotal: 180,
+      qaPass: 171,
+      qaFail: 9,
+      status: "complete (9 disclosed gaps)",
+      meters: [
+        { name: "Transcribed", value: 180, of: 180, cls: "" },
+        { name: "QA-verified", value: 171, of: 180, cls: "green" },
+      ],
+      charts: null,
+      caveats: [
+        "1589 of 2750 questions (58%) have a blank correct_answer -- NOT a transcription gap. Confirmed via recon (TOC + back matter, 2026-08-10): this coursebook's answers are published only in the separate Tricolore 2 Teacher's Book, never in this student volume. A further 270 items are legitimately open-ended (writing/speaking tasks with no single answer) and are separately marked '(open-ended)', not counted among the blanks. 467 of the blanks are audio-dependent listening items (no audio track processed). SME FOLLOW-UP: if the Teacher's Book PDF is ever sourced, its printed answers could be used to re-run the enrichment answer-fill pass and resolve a meaningful share of these blanks.",
+        "9 of 180 pages have a disclosed transcription gap. Page 16: a few unlabeled illustration items on two shopping-trolley drawings (a sausage/meat item, a jam jar, a torn potato bag, a tomato, a butter package) are not legibly printed at source resolution -- everything else on the page, including all three exercises and both grammar boxes, is transcribed verbatim. Pages 167, 168, 170, 171, 173, 175, 176 and 177: eight pages of the end-of-book alphabetical glossary that could not be reproduced because every attempt to write out their entry lists triggers a hard content-filter block that terminates the process. The pages themselves were re-rasterized and directly reviewed on 2026-08-10 and contain ordinary French-English GCSE vocabulary -- this is platform-side flakiness on these specific pages, not sensitive content and not a scan-quality problem, and retries are capped per PLAYBOOK.md rather than repeated indefinitely. The surrounding glossary pages (166, 169, 172, 174, 177's neighbours) transcribed cleanly, so the glossary is partially, not wholly, covered. Each affected page's _qa/page-NNN.json records the full finding.",
+        "Pages 2, 4, 178 and 179 embed a 1-channel grayscale JPEG while the PDF declares the image /DeviceRGB, so MuPDF originally rendered them as near-black garbage. Page 178 (Acknowledgements) had been written off as a permanent content-filter gap purely because of this, and page 179 as a defective scan. Both were resolved on 2026-08-10: pdf_to_images.py now detects the mismatch and decodes the embedded scan directly. Page 178 is fully transcribed; pages 2 and 179 are confirmed genuinely blank."
+      ],
+      about: {
+        intro:
+          "The second book of the Tricolore course, same structure as Tricolore 1 at a higher level. It holds more exercise items than any other book in the corpus.",
+        format:
+          "Same unit-and-practice structure as Tricolore 1, with a grammar reference and bilingual glossaries. Levels are mixed, so each question carries its own level.",
+      },
+      progressLead:
+        "180 pages transcribed, 171 QA-verified. 2750 questions and 1663 vocabulary entries extracted.",
+      answerNote: {
+        title: "Answers live in the teacher's guide",
+        lead: "separate-guide",
+        body:
+          "This is a student coursebook, so most correct_answer cells are empty by design. 2026-08-10: TOC (pages 3/5) and full back matter reviewed - grammar reference, Francais-anglais / anglais-francais glossary, acknowledgements; no Answers/Corriges section anywhere, and no page in the ",
+      },
+    },
     "conjugaison-a1-a2": {
       slug: "conjugaison-a1-a2",
       title: "Pratique Conjugaison — 500 exercices",
