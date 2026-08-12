@@ -54,8 +54,9 @@ written in a document.
   German is 0% for the same reason and deliberately has no such column.
 
 **Both languages need a re-upload** — the Drive copies predate `instruction`,
-`translation`, `gender` and `option_d`/`option_e`. Upload from tag
-`v1.1.0-workflow-gaps-closed` (or later). The deliverable now stamps its own commit into
+`translation`, `gender`, `option_d`/`option_e` and 41 corrected German answers.
+**Upload from `v1.1.9` (commit `9bd75bd`)**, which is what both `START-HERE.md`
+files are stamped with. The deliverable now stamps its own commit into
 `START-HERE.md`, so a Drive folder identifies the extraction that produced it.
 
 ### Not started
@@ -84,10 +85,11 @@ deliverable. They used to be in no config at all, which read as "done" by omissi
 | after merge | `verify_answers.py --root <lang>/extracted --all --strict` | answer shape, level tags, answer-key rate vs declared status |
 | after a backfill | `verify_backfill.py --root <lang>/extracted --field <name>` | records lost, or ANY field changed besides the intended one |
 | before delivery | `verify_exports.py --root <lang>/extracted` | schema, taxonomy, cell hygiene, **coverage**, page refs, packaging drift |
-| before delivery | `check_exports_current.py --root french/extracted` | exports stale relative to their sources |
-| always | `python -m unittest discover -s _engine/tests` (131) and `-s german/extracted/_tools/tests` (13) | regressions |
+| before delivery | `check_exports_current.py --root <lang>/extracted` | exports stale relative to their sources — **covers German too** since P1 |
+| always | `python -m unittest discover -s _engine/tests` and `-s german/extracted/_tools/tests` | regressions |
 
-CI runs all of these on every push — **nine steps, both languages** since 2026-08-11.
+CI runs all of these on every push — **both languages, every gate** since 2026-08-11.
+Run `gh run view --json jobs` for the live step list rather than trusting a count here.
 A non-zero exit is a hard stop. Until then it ran the French gates only, so ten delivered
 German books were checked for export shape and nothing else; the first run that pointed
 `reconcile` and `verify_answers` at German failed on both.
@@ -152,8 +154,9 @@ than deleted: why a control exists is worth more than a tidy list.
 
 ## 6. Open work, in the order I would do it
 
-**Updated 2026-08-11, end of session.** The Drive re-upload is DONE, from
-`v1.1.9` / commit `9bd75bd` — recorded in both `DELIVERY-NOTES.md` files. P1 is
+**Updated 2026-08-11, end of session.** The deliverables are packaged, verified
+and stamped at `v1.1.9` / commit `9bd75bd`, ready to upload; the upload itself is
+Harshan's step and is not confirmed here until it is done. P1 is
 closed: German runs the shared exporter, the four forked scripts are deleted, and
 `check_exports_current` covers German in CI for the first time.
 

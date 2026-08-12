@@ -148,13 +148,14 @@ Harshan
 
 ---
 
-## Re-upload 2026-08-11 — `v1.1.9`, commit `9bd75bd`
+## Re-upload prepared 2026-08-11 — `v1.1.9`, commit `9bd75bd`
 
 **Quote that tag when reporting anything about this data.** It is the only thing
 that identifies which extraction produced a given Drive folder, and the same
 stamp is written into `_exports/START-HERE.md`.
 
-Superseded every earlier upload. The previous Drive copies predated four columns
+This is the version to upload; mark it delivered once it is on Drive. It
+supersedes every earlier upload. The previous Drive copies predated four columns
 and a batch of answer corrections, so they were not merely older -- they were
 wrong:
 
