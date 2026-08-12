@@ -60,15 +60,20 @@ export const engine = {
     "Claude-vision transcription of 300-DPI page scans (no text layer), verified by an " +
     "adversarial QA pass and repaired until faithful — plus an adapter-driven extractor " +
     "for authorized websites.",
+  // Generated, like every other corpus count on this site. This list was the one
+  // that got missed: French was hand-typed as "3 books, 511 spreads" and rendered
+  // on the homepage long after the aggregates were generated, so the landing page
+  // and the French page disagreed with each other about the same corpus.
   languages: [
-    { name: "French", code: "FR", slug: "french", status: "active", href: "french/", books: 3, spreads: 511 },
+    { name: "French", code: "FR", slug: "french", status: "active", href: "french/",
+      books: FR.books, spreads: FR.pages },
     {
       name: "German",
       code: "DE",
       slug: "german",
       status: "active",
       href: "german/",
-      meta: "10 books · 636 pages · 113 web pages",
+      meta: `${DE.books} books · ${DE.pages} pages · 113 web pages`,
     },
     { name: "Japanese", code: "JA", slug: "japanese", status: "planned" },
     { name: "Portuguese", code: "PT", slug: "portuguese", status: "planned" },
