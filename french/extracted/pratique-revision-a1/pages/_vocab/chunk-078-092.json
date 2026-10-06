@@ -1,0 +1,2096 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "078-092",
+  "entries": [
+    {
+      "word": "appartement",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "maison",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "logements",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "cheminée",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "grenier",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "toit",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "fenêtres",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "porte d’entrée",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "jardin",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "cave",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "étages",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "plain-pied",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "immeuble",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "boîtes aux lettres",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "premier étage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "deuxième étage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "troisième étage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "monter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "descendre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "escaliers",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "ascenseur",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "sous-sol",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "pièces",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "deux pièces",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "chambre",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "078",
+      "translation": ""
+    },
+    {
+      "word": "être propriétaire",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "louer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "loyer",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "locataire",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "location",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "meublés",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "vides",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "colocation",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "colocataires",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "superficie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Mon appartement a une superficie de 70 m².",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "fait",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "Il fait 70 m².",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "grand",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "spacieux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "petit",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "orientation",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "exposé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "orienté",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "sud-est",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "nord-ouest",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "clair",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "lumineux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "sombre",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "donne sur",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Il donne sur un parc.",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "situation",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "calme",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "animé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "bruyant",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "chauffer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "chauffage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "climatisation",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "079",
+      "translation": ""
+    },
+    {
+      "word": "entrée",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "couloir",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "pièces",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "salon",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "cuisine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "salle à manger",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "séjour",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "chambre",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "salle de bains",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "toilettes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "bureau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "balcon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "terrasse",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "débarras",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "buanderie",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "080",
+      "translation": ""
+    },
+    {
+      "word": "mur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "cadre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "lampe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "table",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "chaises",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "plafond",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "buffet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "sol",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "étagère",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "meuble télé",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "table basse",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "fauteuil",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "tapis",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "rideaux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "canapé",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "lampe de chevet",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "table de chevet",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "lit",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "armoire",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "lampe de bureau",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "bureau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "table de bureau",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "placards",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "gazinière",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "plaques vitrocéramiques",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "four",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "four micro-ondes",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "évier",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "appareils électroménagers",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "frigo",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "réfrigérateur",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "machine à laver",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "lave-vaisselle",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "table",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "chaises",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "horloge",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "lavabo",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "douche",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "baignoire",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "miroir",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "toilettes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "bureau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "chaise",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "corbeille",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "à tiroirs",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "jardin",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "plantes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "fleurs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "potager",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "084",
+      "translation": ""
+    },
+    {
+      "word": "en ville",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "à la campagne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "citadins (citadines)",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "urbain",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "services",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "magasins",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "lieux culturels",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "pollution",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "bruit",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "circulation",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "embouteillages",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "quartiers",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "banlieue",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "rural",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "ruraux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "nature",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "villages",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "calme",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "grands",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "bon air",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "forêts",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "prés",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "champs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "cultures",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "088",
+      "translation": ""
+    },
+    {
+      "word": "arrondissements",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "plan",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "quartiers",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "centre-ville",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "rues",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "boulevards",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "avenues",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "places",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "ronds-points",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "carrefours",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "espaces verts",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "parcs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "jardins publics",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "fleuve",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "ponts",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "piétons",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "trottoirs",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "pistes cyclables",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "routes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "feux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "090",
+      "translation": ""
+    },
+    {
+      "word": "entreprises",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "bureaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "usines",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "services",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "mairie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "préfecture",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "ambassade",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "poste",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "office de tourisme",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "commissariat",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "bibliothèque",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "médiathèque",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "banque",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "distributeurs automatiques",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "écoles",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "cabinet médical et dentaire",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "hôpital",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "urgences",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "clinique",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "pharmacie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "salon de coiffure",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "garage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "lieux de culte",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "églises",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "mosquées",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "magasins",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "magasin de vêtements",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "magasin de chaussures",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "parfumerie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "librairie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "boulangerie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "boucherie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "charcuterie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "pâtisserie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "poissonnerie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "crèmerie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "épiceries",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "supérettes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "marché",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "supermarchés",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "hypermarchés",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "centres commerciaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "cafés",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "bars",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "restaurants",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    },
+    {
+      "word": "cafétérias",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "092",
+      "translation": ""
+    }
+  ]
+}

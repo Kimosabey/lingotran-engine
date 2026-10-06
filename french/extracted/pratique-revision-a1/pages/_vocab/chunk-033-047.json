@@ -1,0 +1,1806 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "033-047",
+  "entries": [
+    {
+      "word": "entourage",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "ami",
+      "article": "un",
+      "plural": "amis",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "amie",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "copain",
+      "article": "",
+      "plural": "copains",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "copine",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "collègues",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "voisin",
+      "article": "",
+      "plural": "voisins",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "voisine",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "fréquente",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "partage de bons moments",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "rencontre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "devient",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "se faire",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "amitié",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "tomber amoureux",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "petit(e)-ami(e)",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "copain-copine",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "compagnon",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "compagne",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "chat",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "chien",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "lapin",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "poisson",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "oiseau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "mâle",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "femelle",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "chatte",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "chaton",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "chiot",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "pattes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "poils",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "museau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "ailes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "plumes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "bec",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "nageoires",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "036",
+      "translation": ""
+    },
+    {
+      "word": "front",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "sourcils",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "paupières",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "yeux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "œil",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "cils",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "oreilles",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "menton",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "cheveux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "nez",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "joue",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "bouche",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "lèvres",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "dents",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "langue",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "037",
+      "translation": ""
+    },
+    {
+      "word": "cou",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "épaule",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "bras",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "coude",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "poignet",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "main",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "doigt",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "ongle",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "ventre",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "hanches",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "orteil",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "talon",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "dos",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "fesses",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "cuisse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "jambe",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "genou",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "mollet",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "cheville",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "pied",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "040",
+      "translation": ""
+    },
+    {
+      "word": "marron",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les yeux marron, bleus, verts, noirs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "bleus",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les yeux marron, bleus, verts, noirs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "verts",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les yeux marron, bleus, verts, noirs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "noirs",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les yeux marron, bleus, verts, noirs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "lunettes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Il/Elle porte des lunettes.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "blonds",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "bruns",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "châtains",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "roux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "gris",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "blancs",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "courts",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux courts, longs, raides, frisés.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "longs",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux courts, longs, raides, frisés.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "raides",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux courts, longs, raides, frisés.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "frisés",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle a les cheveux courts, longs, raides, frisés.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "barbe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Il a une barbe, une moustache. Il est rasé.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "moustache",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Il a une barbe, une moustache. Il est rasé.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "rasé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il a une barbe, une moustache. Il est rasé.",
+      "topic": "family",
+      "source_page": "042",
+      "translation": ""
+    },
+    {
+      "word": "aspect",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "beau",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est beau, mignon, joli.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "mignon",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est beau, mignon, joli.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "joli",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est beau, mignon, joli.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "belle",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est belle, mignonne, jolie.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "mignonne",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est belle, mignonne, jolie.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "jolie",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est belle, mignonne, jolie.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "laid",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est laid, moche (familier).",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "moche",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est laid, moche (familier).",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "laide",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est laide, moche (familier).",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "fort",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est fort et musclé.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "musclé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est fort et musclé.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "forte",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est forte et musclée.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "musclée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est forte et musclée.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "rond",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est rond, gros.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "gros",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est rond, gros.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "ronde",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est ronde, grosse.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "grosse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est ronde, grosse.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "âge",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "jeune",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est jeune.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "âgé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est âgé, vieux.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "vieux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est âgé, vieux.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "âgée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est âgée, vieille.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "vieille",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est âgée, vieille.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "taille",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "petit",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est petit, il mesure 1m50.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "mesure",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "Il est petit, il mesure 1m50.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "fait",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "Elle fait 1m50. Elle est petite.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "petite",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle fait 1m50. Elle est petite.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "moyenne",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle est de taille moyenne.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "grand",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est grand.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "grande",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est grande, elle mesure 1m80 ; elle fait 1m80.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "poids",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "mince",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est mince, il pèse 50 kg.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "pèse",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "Il est mince, il pèse 50 kg.",
+      "topic": "family",
+      "source_page": "044",
+      "translation": ""
+    },
+    {
+      "word": "bon caractère",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "mauvais caractère",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "heureuse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "heureux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "contente",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "gaie",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "malheureuse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "malheureux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "triste",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "a l’air calme",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "tranquille",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "nerveux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "bavardes",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "réservées",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "timides",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "introverties",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "ouvertes",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "extraverties",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "positif",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "positive",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "optimiste",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "négatif",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "négative",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "pessimiste",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "045",
+      "translation": ""
+    },
+    {
+      "word": "qualités",
+      "article": "ses",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "défauts",
+      "article": "ses",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "intelligente",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Fatima est intelligente, elle est maline (= elle comprend vite). ≠ Elle est bête.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "maline",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Fatima est intelligente, elle est maline (= elle comprend vite). ≠ Elle est bête.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "bête",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Fatima est intelligente, elle est maline (= elle comprend vite). ≠ Elle est bête.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "intelligent",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Nadir est intelligent / malin.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "malin",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Nadir est intelligent / malin.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "gentille",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Masha est gentille, elle est adorable (= elle a des qualités de cœur).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "adorable",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Masha est gentille, elle est adorable (= elle a des qualités de cœur).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "gentil",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Igor est gentil / adorable. ≠ Il est méchant / détestable.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "méchant",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Igor est gentil / adorable. ≠ Il est méchant / détestable.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "détestable",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Igor est gentil / adorable. ≠ Il est méchant / détestable.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "sympathique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Kirsten est sympathique (= qui donne de l’amitié), elle est sympa (familier).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "sympa",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Kirsten est sympathique (= qui donne de l’amitié), elle est sympa (familier).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "agréable",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle est agréable. ≠ Il/Elle est antipathique, désagréable.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "antipathique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle est agréable. ≠ Il/Elle est antipathique, désagréable.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "désagréable",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il/Elle est agréable. ≠ Il/Elle est antipathique, désagréable.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "drôle",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Peggy est drôle (= elle fait des blagues, elle amuse les autres) mais au contraire sa sœur Hélène est ennuyeuse (ennuyeux).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "blagues",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "ennuyeuse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Peggy est drôle (= elle fait des blagues, elle amuse les autres) mais au contraire sa sœur Hélène est ennuyeuse (ennuyeux).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "ennuyeux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "poli",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Brandon est poli (= il a de bonnes manières) mais sa sœur Brenda est impolie, grossière (grossier).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "impolie",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Brandon est poli (= il a de bonnes manières) mais sa sœur Brenda est impolie, grossière (grossier).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "grossière",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Brandon est poli (= il a de bonnes manières) mais sa sœur Brenda est impolie, grossière (grossier).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "grossier",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "franc",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Clément dit toujours la vérité, il est franc (franche).",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "franche",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "honnête",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "On peut lui faire confiance, il est très honnête.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "menteur",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "C’est le contraire de son frère André qui est menteur (menteuse) (= il dit des mensonges), hypocrite et malhonnête.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "menteuse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "hypocrite",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "C’est le contraire de son frère André qui est menteur (menteuse) (= il dit des mensonges), hypocrite et malhonnête.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "malhonnête",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "C’est le contraire de son frère André qui est menteur (menteuse) (= il dit des mensonges), hypocrite et malhonnête.",
+      "topic": "family",
+      "source_page": "046",
+      "translation": ""
+    }
+  ]
+}

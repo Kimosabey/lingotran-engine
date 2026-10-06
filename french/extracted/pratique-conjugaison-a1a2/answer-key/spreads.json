@@ -1,0 +1,91 @@
+{
+ "source": "french/pdf/cle-international/pratique-conjugaison-a1a2/pratique-conjugaison-a1a2__corriges.pdf",
+ "note": "Each spread image is one scanned sheet side of the folded booklet, two printed pages side by side. Scan pages 11-20 repeat 1-10 and are skipped.",
+ "printed_pages": 28,
+ "spreads": [
+  {
+   "spread": 1,
+   "scan_pdf_page": 1,
+   "left_printed_page": 28,
+   "right_printed_page": 1
+  },
+  {
+   "spread": 2,
+   "scan_pdf_page": 2,
+   "left_printed_page": 2,
+   "right_printed_page": 27
+  },
+  {
+   "spread": 3,
+   "scan_pdf_page": 3,
+   "left_printed_page": 26,
+   "right_printed_page": 3
+  },
+  {
+   "spread": 4,
+   "scan_pdf_page": 4,
+   "left_printed_page": 4,
+   "right_printed_page": 25
+  },
+  {
+   "spread": 5,
+   "scan_pdf_page": 5,
+   "left_printed_page": 24,
+   "right_printed_page": 5
+  },
+  {
+   "spread": 6,
+   "scan_pdf_page": 6,
+   "left_printed_page": 6,
+   "right_printed_page": 23
+  },
+  {
+   "spread": 7,
+   "scan_pdf_page": 7,
+   "left_printed_page": 22,
+   "right_printed_page": 7
+  },
+  {
+   "spread": 8,
+   "scan_pdf_page": 8,
+   "left_printed_page": 8,
+   "right_printed_page": 21
+  },
+  {
+   "spread": 9,
+   "scan_pdf_page": 9,
+   "left_printed_page": 20,
+   "right_printed_page": 9
+  },
+  {
+   "spread": 10,
+   "scan_pdf_page": 10,
+   "left_printed_page": 10,
+   "right_printed_page": 19
+  },
+  {
+   "spread": 11,
+   "scan_pdf_page": 21,
+   "left_printed_page": 18,
+   "right_printed_page": 11
+  },
+  {
+   "spread": 12,
+   "scan_pdf_page": 22,
+   "left_printed_page": 12,
+   "right_printed_page": 17
+  },
+  {
+   "spread": 13,
+   "scan_pdf_page": 23,
+   "left_printed_page": 16,
+   "right_printed_page": 13
+  },
+  {
+   "spread": 14,
+   "scan_pdf_page": 24,
+   "left_printed_page": 14,
+   "right_printed_page": 15
+  }
+ ]
+}

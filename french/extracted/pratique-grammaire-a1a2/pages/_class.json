@@ -1,0 +1,1337 @@
+{
+ "collection": "pratique-grammaire-a1a2",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents, chapters 01-06 (noun to past tenses)."
+  },
+  {
+   "page": 2,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents, chapters 07-16 (impersonal verbs to quantity)."
+  },
+  {
+   "page": 3,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Noun gender: masculine/feminine identification for family, clothes and house nouns."
+  },
+  {
+   "page": 4,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Noun gender: le/la with furniture, media, school items, song titles, countries."
+  },
+  {
+   "page": 5,
+   "activity_type": "short-answer",
+   "topic": "personal-info",
+   "summary": "Nationality nouns and feminine forms of professions."
+  },
+  {
+   "page": 6,
+   "activity_type": "short-answer",
+   "topic": "profession",
+   "summary": "Profession nouns: masculine/feminine transformations and choosing the correct form."
+  },
+  {
+   "page": 7,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Animal pairs, irregular masculine/feminine nouns, feminine professions in sentences."
+  },
+  {
+   "page": 8,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Noun number: plural-only nouns, film titles, matching articles to Paris landmarks."
+  },
+  {
+   "page": 9,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Plurals in -eu, -eau, -ou, -al and -ail: singular/plural transformations."
+  },
+  {
+   "page": 10,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Plural agreement of nouns in sentences, invariable nouns, irregular plurals."
+  },
+  {
+   "page": 11,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Noun plurals in sentences; Bilan 1 gap-fill texts on zoo and carnival."
+  },
+  {
+   "page": 12,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Indefinite articles un/une/des: strike-out, gap-fills and sentence matching."
+  },
+  {
+   "page": 13,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Indefinite and definite articles: postcard, clothes, buildings, rooms of the house."
+  },
+  {
+   "page": 14,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Definite articles le/la/l'/les: family, school, singular transformations, media."
+  },
+  {
+   "page": 15,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Definite vs indefinite articles: gap-fills and choices on travel, gifts, health."
+  },
+  {
+   "page": 16,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Articles: definite/indefinite gap-fills (travel, carpooling, online shopping); du/de la for sports."
+  },
+  {
+   "page": 17,
+   "activity_type": "multiple-choice",
+   "topic": "food",
+   "summary": "Partitive articles: arts activities choice, whole vs part with food, du/de la gap-fill."
+  },
+  {
+   "page": 18,
+   "activity_type": "short-answer",
+   "topic": "food",
+   "summary": "Partitives with drinks, quantity to partitive transforms, shopping list and crêpe recipe writing."
+  },
+  {
+   "page": 19,
+   "activity_type": "short-answer",
+   "topic": "food",
+   "summary": "Articles in the negative: negative answers about food and activities."
+  },
+  {
+   "page": 20,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Negative articles: Q/A matching, question formation, mixed article dialogue gap-fills."
+  },
+  {
+   "page": 21,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Mixed articles: underline the correct article; activity descriptions gap-fill."
+  },
+  {
+   "page": 22,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Demonstrative adjectives ce/cet/cette/ces: matching, gap-fills, cross out wrong form."
+  },
+  {
+   "page": 23,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Demonstratives with buildings and clothes; possessive adjectives rule; mon/ma/mes gap-fill."
+  },
+  {
+   "page": 24,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Possessive adjectives: mon/ma choice, ton/ta/tes, notre/votre, c'est son/leur transforms."
+  },
+  {
+   "page": 25,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Possessives leur/leurs, son/sa/ses texts, rewrite text in plural, airport dialogue gap-fill."
+  },
+  {
+   "page": 26,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Indefinite adjectives tout/toute/tous/toutes gap-fill; chaque vs quelques choice."
+  },
+  {
+   "page": 27,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Chaque/quelques/tout gap-fill on sales; Bilan 2 dialogues with mixed determiners."
+  },
+  {
+   "page": 28,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Adjective gender: feminine -e agreement, underline correct form, feminine endings agreement."
+  },
+  {
+   "page": 29,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Adjective gender: French film titles, Il/Elle est similes, irregular forms, H or F."
+  },
+  {
+   "page": 30,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Irregular masculine adjectives (bel, vieil), plural agreement, invariable plurals; -al rule."
+  },
+  {
+   "page": 31,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Adjectives: irregular plurals, colour agreement, choosing correct adjective forms."
+  },
+  {
+   "page": 32,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Nationality adjectives: matching and agreement; adjective placement rule and drill."
+  },
+  {
+   "page": 33,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Adjective placement: reordering words and placing two adjectives with agreement."
+  },
+  {
+   "page": 34,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Placing and agreeing two adjectives in sentences and office task phrases."
+  },
+  {
+   "page": 35,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 3: adjective placement/agreement dialogue and thank-you letter form choice."
+  },
+  {
+   "page": 36,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Subject pronouns: je/j'/tu choice, verb forms, il/elle, pronoun referents."
+  },
+  {
+   "page": 37,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Third-person pronoun referents; matching pronoun descriptions to computer objects."
+  },
+  {
+   "page": 38,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Tu and vous: converting sentences between tutoiement and vouvoiement."
+  },
+  {
+   "page": 39,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Je/on/nous choice in dialogues, on vs nous, matching subjects to verbs."
+  },
+  {
+   "page": 40,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Choosing pronouns and verb agreement; stressed pronouns gap-fill and choice."
+  },
+  {
+   "page": 41,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Stressed pronouns: choice, replies, after prepositions, answering with pronouns."
+  },
+  {
+   "page": 42,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Stressed pronouns after c'est and comparatives; me/te/nous/vous object pronouns."
+  },
+  {
+   "page": 43,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Direct object pronouns le/la/l'/les: holidays choice, matching, health gap-fill."
+  },
+  {
+   "page": 44,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Direct object pronouns: matching replies, answering, replacing, forming questions."
+  },
+  {
+   "page": 45,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Direct object pronouns: gap-fill, word order, matching questions with infinitive replies."
+  },
+  {
+   "page": 46,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Direct object pronouns: answering with le/la/l'/les, pronoun-gap email, pronoun matching."
+  },
+  {
+   "page": 47,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Direct pronouns replacing clauses, imperative transformations, me/te gap-fills."
+  },
+  {
+   "page": 48,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Indirect object pronouns: answering questions, underlining lui/leur, matching responses."
+  },
+  {
+   "page": 49,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Indirect pronouns: tick what lui/leur replaces, lui/leur and me/te gap-fills."
+  },
+  {
+   "page": 50,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Indirect pronouns: negative answers, writing questions, word-order drills."
+  },
+  {
+   "page": 51,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Indirect pronouns with imperatives and two-verb structures; reversing commands."
+  },
+  {
+   "page": 52,
+   "activity_type": "short-answer",
+   "topic": "food",
+   "summary": "Pronoun en: matching food requests, answering with en, word order."
+  },
+  {
+   "page": 53,
+   "activity_type": "short-answer",
+   "topic": "food",
+   "summary": "Pronoun en replacing partitives; introducing y for place, answer drills."
+  },
+  {
+   "page": 54,
+   "activity_type": "short-answer",
+   "topic": "travel",
+   "summary": "Place pronouns y and en: answering questions about places and origins."
+  },
+  {
+   "page": 55,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Place pronoun en: questions, word order, y or en gap-fills incl. imperative."
+  },
+  {
+   "page": 56,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Pronoun synthesis: tick the replaced element, match equivalent sentences."
+  },
+  {
+   "page": 57,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronoun synthesis: y/en ticks, French holiday matching, rewriting with pronouns."
+  },
+  {
+   "page": 58,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronoun synthesis: answering with pronouns, multi-pronoun gap-fills, rewriting sentences."
+  },
+  {
+   "page": 59,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Possessive pronouns: choose the correct form, negative answers, transformations."
+  },
+  {
+   "page": 60,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Possessive pronouns: tick the replaced noun, answering, replacing italic phrases."
+  },
+  {
+   "page": 61,
+   "activity_type": "matching",
+   "topic": "communication",
+   "summary": "Relative pronouns qui/que/où: rule box, tech-definition matching, rewriting with qui."
+  },
+  {
+   "page": 62,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Relative pronoun qui: splitting sentences, finishing TV-themed sentences, splitting que-clauses."
+  },
+  {
+   "page": 63,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Relative pronouns que/qu': splitting sport sentences, crossing out wrong form, combining sentences."
+  },
+  {
+   "page": 64,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Relative pronouns que/qui: answering with que, culture matching, office gap-fill, sentence completion."
+  },
+  {
+   "page": 65,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Relative pronouns qui/que/qu': matching halves, film gap-fills, underlining, food gap-fills."
+  },
+  {
+   "page": 66,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Relative pronouns qui/que and où: food gap-fills, matching où clauses, rewriting with où."
+  },
+  {
+   "page": 67,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Relative pronoun où: rewriting, joining time clauses, health matching, choosing the pronoun."
+  },
+  {
+   "page": 68,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Relative pronouns qui/que/où: travel gap-fills, completing sentences, avoiding repetition."
+  },
+  {
+   "page": 69,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Relative pronouns reformulation; demonstrative pronouns celui/celle rule box and matching."
+  },
+  {
+   "page": 70,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Demonstrative pronouns: simple and compound forms (celui-ci/celui-là) gap-fills and dialogue."
+  },
+  {
+   "page": 71,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Bilan 4: pronoun review letter (underline the right pronoun) and dialogue gap-fill."
+  },
+  {
+   "page": 72,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of être/avoir: rule box, être gap-fills, subject pronouns for professions."
+  },
+  {
+   "page": 73,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Present of être: matching subjects to endings, gap-fills, animal-simile expressions."
+  },
+  {
+   "page": 74,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of avoir: matching pronouns, underlining forms, avoir expressions, gap-fills."
+  },
+  {
+   "page": 75,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of avoir: possession gap-fills, avoir idioms with pronouns, ai/es/est choice."
+  },
+  {
+   "page": 76,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "être/avoir choice and gap-fills; present of -er verbs; pronoun-verb matching."
+  },
+  {
+   "page": 77,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-er verbs: pronoun gap-fill, verb form choice, -ier verbs, conjugation gap-fills."
+  },
+  {
+   "page": 78,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-er verbs: personal answers about tastes, missing endings; -cer/-ger box."
+  },
+  {
+   "page": 79,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-cer/-ger nous forms and endings; è-stem verbs box and sentence matching."
+  },
+  {
+   "page": 80,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "è-stem verbs: conjugation, adding accents, giving infinitives."
+  },
+  {
+   "page": 81,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "appeler/jeter doubling, è/é verbs gap-fill, -oyer/-uyer/-ayer pronoun choice."
+  },
+  {
+   "page": 82,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-yer verbs gap-fills and form choice; aller: pronouns and conjugation."
+  },
+  {
+   "page": 83,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "aller ends; 2nd-group -ir verbs: identify group, strike odd verb, pronoun choice."
+  },
+  {
+   "page": 84,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "2nd-group -ir verbs: matching, transformations, conjugation gap-fills."
+  },
+  {
+   "page": 85,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "ouvrir-type verbs: identify, conjugate, strike non-3rd-group verb; partir box."
+  },
+  {
+   "page": 86,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "partir-type verbs to singular and conjugation; venir/tenir form choice."
+  },
+  {
+   "page": 87,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "venir/tenir number change; -ire verbs form choice and number change."
+  },
+  {
+   "page": 88,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "mettre/faire/dire matching and gap-fills; -dre verbs: three-stem identification."
+  },
+  {
+   "page": 89,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "prendre-type matching and conjugation; -dre verbs to singular, form choice."
+  },
+  {
+   "page": 90,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "connaître/savoir and voir-type verbs conjugation; non-voir verbs identification."
+  },
+  {
+   "page": 91,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of -cevoir, boire and -indre verbs: matching and conjugation gap-fills."
+  },
+  {
+   "page": 92,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pouvoir, vouloir, devoir and il faut: present gap-fills plus a three-way matching synthesis."
+  },
+  {
+   "page": 93,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Present-tense review: find infinitives, tu/vous switching, answering, plural to singular."
+  },
+  {
+   "page": 94,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present-tense review: pronoun matching, clothing gap-fills, singular to plural, theatre verbs."
+  },
+  {
+   "page": 95,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-er/-ez endings, choosing the right verb; grammar box on pronominal verbs."
+  },
+  {
+   "page": 96,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal verbs in the present: matching, daily-routine gap-fills, word order, pronouns."
+  },
+  {
+   "page": 97,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal verbs: completion and negation; être en train de box and matching."
+  },
+  {
+   "page": 98,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Present progressive: rewriting with être en train de and negative word-order drills."
+  },
+  {
+   "page": 99,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Bilan 5: present-tense gap-fill dialogue (flat visit) and text on French leisure."
+  },
+  {
+   "page": 100,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Bilan 5: pronominal verbs text (baker's day) and present vs progressive dialogue."
+  },
+  {
+   "page": 101,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Recent past (venir de): identifying, news gap-fills and answering questions."
+  },
+  {
+   "page": 102,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Recent past: answering, reordering words, dialogue gap-fill mixing present and venir de."
+  },
+  {
+   "page": 103,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé with avoir: -é participles, spelling changes, rewriting sentences."
+  },
+  {
+   "page": 104,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Past participles in -i, -u, -is, -t: infinitives, crossing out, writing participles."
+  },
+  {
+   "page": 105,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Irregular participles: infinitives, passé composé to present and present to passé composé."
+  },
+  {
+   "page": 106,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé: rewriting sentences, recent past to passé composé, matching, gap-fills."
+  },
+  {
+   "page": 107,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé with être: rule box, underlining verbs, est/a gap-fills."
+  },
+  {
+   "page": 108,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Auxiliary choice: ont/sont and être/avoir gap-fills, matching, Rodin biography rewrite."
+  },
+  {
+   "page": 109,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé biographies (Rodin, Eiffel) and past participle agreement gap-fills."
+  },
+  {
+   "page": 110,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Past participle agreement: matching, gap-fills on famous women, tick the correct form."
+  },
+  {
+   "page": 111,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Plural passé composé rewrites; agreement with preceding direct object, matching and transformation."
+  },
+  {
+   "page": 112,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Agreement with que; pronominal verbs in passé composé describing daily routine."
+  },
+  {
+   "page": 113,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Pronominal passé composé narratives; negative and interrogative forms, question-answer matching."
+  },
+  {
+   "page": 114,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Negative passé composé answers, ne...rien/personne, forming questions about a meeting and leisure."
+  },
+  {
+   "page": 115,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Adverb placement in passé composé; imparfait formation and present-to-imparfait rewrites."
+  },
+  {
+   "page": 116,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait: rewriting a text in the present, spelling cases, pluralising memories."
+  },
+  {
+   "page": 117,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait gap-fills and rewrites about life in the past century."
+  },
+  {
+   "page": 118,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imparfait for past comparisons, scene descriptions and background gap-fills."
+  },
+  {
+   "page": 119,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait vs recent past vs passé composé: gap-fills and choosing the correct tense."
+  },
+  {
+   "page": 120,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Past tenses: matching time expressions, imparfait or passé composé gap-fills."
+  },
+  {
+   "page": 121,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé vs imparfait: verb gap-fills, sentence rewrites, underline the correct form."
+  },
+  {
+   "page": 122,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Free sentence completion in past tenses; Bilan 6 passé composé quiz about Paris."
+  },
+  {
+   "page": 123,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 6: rewrite a biography in passé composé; past-tense narrative gap-fills."
+  },
+  {
+   "page": 124,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Il y a vs c'est: rule box, transformations, question-answer matching, model sentences."
+  },
+  {
+   "page": 125,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "C'est / ce sont, qui est-ce: geography sentences, matching, describing famous people."
+  },
+  {
+   "page": 126,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "C'est, ce sont, il est, ils sont: describing people and paintings gap-fills."
+  },
+  {
+   "page": 127,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "C'est en / il est for locating places and with adjectives: gap-fills."
+  },
+  {
+   "page": 128,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "C'est vs il est answers; impersonal verbs rule, underlining, weather pictograms."
+  },
+  {
+   "page": 129,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Weather verbs in imparfait/passé composé, impersonal completions; Bilan 7 c'est or il y a."
+  },
+  {
+   "page": 130,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative formation: underline imperatives, give advice, -er vs -ez endings."
+  },
+  {
+   "page": 131,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative: singular forms, healthy-living advice, negative imperative Pilates instructions."
+  },
+  {
+   "page": 132,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative rewrites: Pilates, manners, traffic prohibitions, opposite orders."
+  },
+  {
+   "page": 133,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative cooking advice and recycling poster; pronominal verb imperative rule box."
+  },
+  {
+   "page": 134,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal verbs in the imperative: rewrites and affirmative/negative reversals."
+  },
+  {
+   "page": 135,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal imperative reversals, word ordering, rewrites; object pronoun placement rule."
+  },
+  {
+   "page": 136,
+   "activity_type": "short-answer",
+   "topic": "home",
+   "summary": "Imperative with object pronouns: housework and shopping orders, negative instructions, advice."
+  },
+  {
+   "page": 137,
+   "activity_type": "short-answer",
+   "topic": "communication",
+   "summary": "Imperative with indirect pronouns: advice, instructions, negative and contrary orders."
+  },
+  {
+   "page": 138,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative: matching situations, en/y imperatives with complements, contrary orders."
+  },
+  {
+   "page": 139,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative with en/y: rewrite, answer questions, put words in order."
+  },
+  {
+   "page": 140,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative with pronouns: completion, matching questions and answers, inverse orders."
+  },
+  {
+   "page": 141,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Bilan 8: rewrite a doctor's advice and parenting rules in the imperative."
+  },
+  {
+   "page": 142,
+   "activity_type": "short-answer",
+   "topic": "shopping",
+   "summary": "Polite conditional: underline requests, matching, rewrite requests with je voudrais/j'aimerais."
+  },
+  {
+   "page": 143,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Polite requests by addressee; futur proche rule and underlining future aller."
+  },
+  {
+   "page": 144,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Futur proche: pronoun matching, bientôt answers, gap-fills, tourist programme rewrite."
+  },
+  {
+   "page": 145,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Futur proche of pronominal verbs, word order; futur simple formation and forms."
+  },
+  {
+   "page": 146,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Futur simple irregular verbs: infinitives, plural transformation, sentence matching."
+  },
+  {
+   "page": 147,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Futur simple: shop-situation matching, gap-fills, fortune-teller predictions; -ayer/-oyer rule."
+  },
+  {
+   "page": 148,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Futur simple of -ayer/-oyer/-uyer verbs, housework instructions, weather forecasts."
+  },
+  {
+   "page": 149,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Futur simple vs futur proche: matching, choosing forms, gap-fills."
+  },
+  {
+   "page": 150,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 9: futur proche/futur simple dialogue gap-fill and mayor's speech choice."
+  },
+  {
+   "page": 151,
+   "activity_type": "short-answer",
+   "topic": "communication",
+   "summary": "Negation ne...pas: ne/n’ gap-fill, word ordering, negative answers about social networks."
+  },
+  {
+   "page": 152,
+   "activity_type": "short-answer",
+   "topic": "hobby",
+   "summary": "Negation: table manners, correcting false statements, pronoun placement with ne...pas."
+  },
+  {
+   "page": 153,
+   "activity_type": "short-answer",
+   "topic": "restaurant",
+   "summary": "Negation with object pronouns: matching outings, restaurant answers; determiner change rule."
+  },
+  {
+   "page": 154,
+   "activity_type": "short-answer",
+   "topic": "food",
+   "summary": "Negation and determiners: matching, cross-out de/article choices, negative answers."
+  },
+  {
+   "page": 155,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Negative answers with de/article; ne...plus rule, underline negations, pas or plus."
+  },
+  {
+   "page": 156,
+   "activity_type": "short-answer",
+   "topic": "hobby",
+   "summary": "Ne...pas/plus/jamais: negative answers about habits, media and leisure."
+  },
+  {
+   "page": 157,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Ne...rien/personne: matching, gap-fills, answers with prepositions."
+  },
+  {
+   "page": 158,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Negation synthesis: matching, two-way negative answers, portrait gap-fill; placement rule."
+  },
+  {
+   "page": 159,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Negation placement with two verbs and auxiliaries: ordering, transforming, matching."
+  },
+  {
+   "page": 160,
+   "activity_type": "short-answer",
+   "topic": "communication",
+   "summary": "Negation in passé composé with pronouns; ne pas before infinitive ordering."
+  },
+  {
+   "page": 161,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 10: negation gap-fills in a complaint email and a dialogue."
+  },
+  {
+   "page": 162,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Simple questions with/without est-ce que: transforming and forming questions."
+  },
+  {
+   "page": 163,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Est-ce que questions on Centre Pompidou; inversion rule, formal questions."
+  },
+  {
+   "page": 164,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Subject inversion with reflexives, -t- insertion gap-fill, inverted questions."
+  },
+  {
+   "page": 165,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Inversion questions: rewriting, formal register, matching answers, modal verbs."
+  },
+  {
+   "page": 166,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Interrogation: subject-pronoun inversion with -t-, rewriting questions in formal register."
+  },
+  {
+   "page": 167,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Interrogation: forming inverted questions from answers, negative questions with si/non."
+  },
+  {
+   "page": 168,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Est-ce que / qu'est-ce que / qui est-ce que: matching and question-forming drills."
+  },
+  {
+   "page": 169,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Est-ce que, qui est-ce qui, qu'est-ce que gap-fills, questions and answer choice."
+  },
+  {
+   "page": 170,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Interrogatives with prepositions: qui est-ce / qu'est-ce que c'est matching and gap-fills."
+  },
+  {
+   "page": 171,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Completing interrogative words by answer; shortening qui est-ce qui to qui."
+  },
+  {
+   "page": 172,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Que/qui/quoi questions: shortening, matching and gap-fills."
+  },
+  {
+   "page": 173,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Quel/quelle/quels/quelles gap-fills and rewriting form-style questions."
+  },
+  {
+   "page": 174,
+   "activity_type": "short-answer",
+   "topic": "city-places",
+   "summary": "Questions with quel and où: forming questions about places and neighbourhood."
+  },
+  {
+   "page": 175,
+   "activity_type": "short-answer",
+   "topic": "time-dates",
+   "summary": "Où/d'où/par où and quand questions: transformations and question-forming."
+  },
+  {
+   "page": 176,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Quand/où matching; pourquoi questions with subject inversion."
+  },
+  {
+   "page": 177,
+   "activity_type": "short-answer",
+   "topic": "weather",
+   "summary": "Pourquoi vs pour quoi (cause/goal), weather questions, comment inversion."
+  },
+  {
+   "page": 178,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Comment questions: inversion and forming questions from answers, matching."
+  },
+  {
+   "page": 179,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Combien / combien de: matching and gap-fill drills on quantities and prices."
+  },
+  {
+   "page": 180,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Combien questions about a company; synthesis question-forming on Burgundy and comics."
+  },
+  {
+   "page": 181,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Interrogation: forming questions from answers about comics and French holidays."
+  },
+  {
+   "page": 182,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Bilan 11: interview gap-fill with question words; questions on italic elements."
+  },
+  {
+   "page": 183,
+   "activity_type": "short-answer",
+   "topic": "vacation",
+   "summary": "Bilan 11 continued: forming questions about French summer holidays."
+  },
+  {
+   "page": 184,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Si + present: identify conditions, match clauses, present/imperative gap-fills."
+  },
+  {
+   "page": 185,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Si + present/imperative completions; si + present + future, choose the right clause."
+  },
+  {
+   "page": 186,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Si + future: clause choice, matching sentence halves, present/future gap-fill."
+  },
+  {
+   "page": 187,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 12: dialogue gap-fills with si + present, imperative or future."
+  },
+  {
+   "page": 188,
+   "activity_type": "multiple-choice",
+   "topic": "travel",
+   "summary": "Place prepositions with countries: en/au choice and gap-fills."
+  },
+  {
+   "page": 189,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Prepositions à/au/en/aux with countries, cities, islands; matching and choice."
+  },
+  {
+   "page": 190,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Prepositions of destination and origin (de/du/des, par) with countries and cities."
+  },
+  {
+   "page": 191,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "Rewrite a travel SMS; à/chez with places; cross out incorrect places."
+  },
+  {
+   "page": 192,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "au/à la/à l'/aux/chez with places in town: choice, gap-fill, sentence building."
+  },
+  {
+   "page": 193,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "de/du/de la/des/de chez for origin; position prepositions gap-fill."
+  },
+  {
+   "page": 194,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Position prepositions: choice, word ordering, prepositions in set expressions."
+  },
+  {
+   "page": 195,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Compound prepositions: opposites, choice, gap-fill from a word list."
+  },
+  {
+   "page": 196,
+   "activity_type": "multiple-choice",
+   "topic": "time-dates",
+   "summary": "Time prepositions (pendant, depuis, dans, en) and schedules: grammar boxes and drills."
+  },
+  {
+   "page": 197,
+   "activity_type": "fill-in",
+   "topic": "time-dates",
+   "summary": "Time prepositions and expressions: gap-fills and sentence-building matching drill."
+  },
+  {
+   "page": 198,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Bilan 13: travel-agency dialogue and paragraph gap-fills with prepositions and articles."
+  },
+  {
+   "page": 199,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Adverbs of place: grammar box, opposites gap-fill, completion and underline-choice drills."
+  },
+  {
+   "page": 200,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Adverbs of time and frequency: identification, choice and opposites matching drills."
+  },
+  {
+   "page": 201,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Placement of time and frequency adverbs: gap-fill and word-ordering exercises."
+  },
+  {
+   "page": 202,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "The adverb bien: passé composé transformations and expressions with bien."
+  },
+  {
+   "page": 203,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Bilan 14: choose the right adverb in five short everyday dialogues."
+  },
+  {
+   "page": 204,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comparatives plus/moins/aussi...que: grammar box, identification and gap-fill drills."
+  },
+  {
+   "page": 205,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Comparisons with adjectives, aussi versus autant, and comparing two personal profiles."
+  },
+  {
+   "page": 206,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Aussi, autant and autant de: gap-fills and underline-the-correct-form drills."
+  },
+  {
+   "page": 207,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comparatives on French life, plus bon/bien/meilleur/mieux choice and gap-fill drills."
+  },
+  {
+   "page": 208,
+   "activity_type": "ordering",
+   "topic": "shopping",
+   "summary": "Bon/bien/meilleur/mieux gap-fill and reordering advertising slogans with comparatives."
+  },
+  {
+   "page": 209,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Write comparison sentences from leisure statistics and two property listings."
+  },
+  {
+   "page": 210,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Write comparison sentences from used-car ads and European statistics."
+  },
+  {
+   "page": 211,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Superlatives: underline superlatives, complete with le plus/le moins/le meilleur."
+  },
+  {
+   "page": 212,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Superlatives: writing superlative sentences about the year and personal favourites."
+  },
+  {
+   "page": 213,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 15: comparing holiday rentals and completing a horoscope with comparatives."
+  },
+  {
+   "page": 214,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Indefinite articles un/une/des and negation de: matching, gap-fill, choice."
+  },
+  {
+   "page": 215,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Partitive articles: matching, negative transformation; quelques vs un peu de."
+  },
+  {
+   "page": 216,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Indefinite adjectives quelques/plusieurs/certains; pronoun en answering quantity questions."
+  },
+  {
+   "page": 217,
+   "activity_type": "short-answer",
+   "topic": "food",
+   "summary": "Pronoun en: answers and imagined questions; adverbs of quantity introduced."
+  },
+  {
+   "page": 218,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Adverbs of quantity: trop/assez/beaucoup transformations; beaucoup vs très gap-fill."
+  },
+  {
+   "page": 219,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Quantity adverbs in answers, très vs beaucoup choice, word-order with adverbs."
+  },
+  {
+   "page": 220,
+   "activity_type": "matching",
+   "topic": "food",
+   "summary": "Adverb placement ordering; quantity nouns matched to food; recipe quantity choices."
+  },
+  {
+   "page": 221,
+   "activity_type": "multiple-choice",
+   "topic": "shopping",
+   "summary": "Bilan 16: choosing quantity words in a shop dialogue and Paris text."
+  },
+  {
+   "page": 222,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Printer's colophon page; no exercises."
+  }
+ ]
+}

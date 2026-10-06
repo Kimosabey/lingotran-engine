@@ -1,0 +1,1726 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "018-032",
+  "entries": [
+    {
+      "word": "je me présente",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "prénom",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je m’appelle Emma.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je suis Emma.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "nom",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je m’appelle Emma Fornaro.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je suis Emma Fornaro.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je m’appelle Raffaelle Mori, et vous ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je m’appelle Raffaelle Mori, et toi ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Quel est votre prénom ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Quel est ton prénom ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Quel est votre nom ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Quel est ton nom ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Comment vous vous appelez ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Comment tu t’appelles ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "épeler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Comment ça s’écrit ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Ça s’écrit comment ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Vous pouvez épeler, s’il vous plaît ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Tu peux épeler, s’il te plaît ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Enchanté(e).",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Ravi(e) de vous connaître.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Ravi(e) de te connaître.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Ravi(e) de faire votre connaissance.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Ravi(e) de faire ta connaissance.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je vous présente",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Je vous présente Willy Ricci, le responsable formation.",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Je te présente",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Je te présente Geza, un ami.",
+      "topic": "personal-info",
+      "source_page": "018",
+      "translation": ""
+    },
+    {
+      "word": "Madame",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Mme",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Monsieur",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "M.",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "adresse",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "numéro",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "nom de la rue",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "code postal",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "ville",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "pays",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "J’habite",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "J’habite à Avignon.",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Où habitez-vous ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Quelle est votre adresse ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "J’habite 12, rue de la paix.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "âge",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Vous avez quel âge ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Tu as quel âge ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "J’ai 35 ans.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "date de naissance",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Quelle est votre date de naissance ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Le 22 novembre 1998.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "Je suis né(e) le 22 novembre 1998.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "020",
+      "translation": ""
+    },
+    {
+      "word": "état civil",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "célibataire",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "mariée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "divorcée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "séparée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "veuve",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "avec ou sans enfants",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "Vous avez des enfants ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "Oui, j’en ai un, deux, trois…",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "Non, je n’en ai pas.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "Ça ne vous regarde pas",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "021",
+      "translation": ""
+    },
+    {
+      "word": "Il vient de France.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "français",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est français.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "française",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est française.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "Il vient du Sénégal.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "sénégalais",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est sénégalais.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "sénégalaise",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est sénégalaise.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "Il vient du Canada.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "canadien",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est canadien.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "canadienne",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est canadienne.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "Il vient de Chine.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "chinois",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est chinois.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "chinoise",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est chinoise.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "Il vient d’Italie.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "italien",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il est italien.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "italienne",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle est italienne.",
+      "topic": "personal-info",
+      "source_page": "022",
+      "translation": ""
+    },
+    {
+      "word": "langue",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "français",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "anglais",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "portugais",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "italien",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "Tu parles quelles langues ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "Vous parlez français ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "Je parle français, anglais et italien.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "023",
+      "translation": ""
+    },
+    {
+      "word": "demander la profession",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "Qu’est-ce que tu fais dans la vie ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "Qu’est-ce que vous faites dans la vie ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "Quelle est ta profession ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "Quelle est votre profession ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "Quel est ton métier ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "Quel est votre métier ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "dire la profession",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "professeur(e)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Je suis professeur(e).",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "médecin",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Il est médecin.",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "responsable",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "chef(fe)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "artiste",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "chanteur/chanteuse",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "peintre",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "auteur/autrice",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "photographe",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "instituteur/institutrice",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "docteur",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "chirurgien(ne)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "infirmier/infirmière",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "pharmacien(ne)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "policier/policière",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "pompier/pompière",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "commerçant(e)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "vendeur/vendeuse",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "fleuriste",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "cuisinier/cuisinière",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "chef(fe) cuisinier/cuisinière",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "guide",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "serveur/serveuse",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "chauffeur/chauffeuse",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "conducteur/conductrice",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "pilote",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "artisan(e)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "boulanger/boulangère",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "pâtissier/pâtissière",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "boucher/bouchère",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "poissonnier/poissonnière",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "garagiste",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "024",
+      "translation": ""
+    },
+    {
+      "word": "grands-parents",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "grand-mère maternelle",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "grand-père maternel",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "grand-mère paternelle",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "grand-père paternel",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "parents",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "mère",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "père",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "enfants",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "fils",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "frère",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "fille",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "sœur",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "petits-enfants",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "petit-fils",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "petite-fille",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "028",
+      "translation": ""
+    },
+    {
+      "word": "parents",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "beaux-parents",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "grands-parents",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "belle-mère",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "beau-père",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "fille",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "beau-fils",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "fils",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "belle-fille",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "bru",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "belle-sœur",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "sœur",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "beau-frère",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "cousin(e)",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "fille unique",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "tante",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "oncle",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "neveu",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "nièce",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "couple",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "mari",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "femme",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "mariée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "jumeaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "cousins",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "belle-famille",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "030",
+      "translation": ""
+    },
+    {
+      "word": "famille monoparentale",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "032",
+      "translation": ""
+    },
+    {
+      "word": "élevés",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "family",
+      "source_page": "032",
+      "translation": ""
+    },
+    {
+      "word": "beau-père",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "032",
+      "translation": ""
+    },
+    {
+      "word": "belle-mère",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "032",
+      "translation": ""
+    },
+    {
+      "word": "recomposée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "family",
+      "source_page": "032",
+      "translation": ""
+    },
+    {
+      "word": "demi-frères",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "032",
+      "translation": ""
+    },
+    {
+      "word": "demi-sœurs",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "family",
+      "source_page": "032",
+      "translation": ""
+    }
+  ]
+}

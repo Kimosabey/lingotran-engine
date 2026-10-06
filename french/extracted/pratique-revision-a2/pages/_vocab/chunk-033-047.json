@@ -1,0 +1,1236 @@
+{
+  "collection": "pratique-revision-a2",
+  "chunk": "033-047",
+  "entries": [
+    {
+      "word": "dentiste",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "médecin",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "chirurgien/ienne",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "pharmacien/ienne",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "kinésithérapeute (Kiné)",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "opticien/ienne",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "vétérinaire",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "infirmier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "boulanger/ère",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "boucher/ère",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "caissier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "poissonnier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "fleuriste",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "vendeur/euse",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "033",
+      "translation": ""
+    },
+    {
+      "word": "maçon/onne",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "peintre",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "plombier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "coiffeur/euse",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "menuisier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "électricien/ienne",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "mécanicien/ienne",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "cuisinier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "avocat/e",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "policier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "pompier/ière",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "ingénieur/e",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "professeur/e",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "coach sportif",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "serveur/euse",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "journaliste",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "secrétaire",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "acteur/trice",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "chanteur/euse",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "danseur/euse",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "photographe",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "architecte",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "musicien/ienne",
+      "article": "un/une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "034",
+      "translation": ""
+    },
+    {
+      "word": "offres d’emploi",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "candidature",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "lettre de motivation",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "CV",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "curriculum vitae",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "employeur",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "passer un entretien",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "expérience",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "qualités",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "défauts",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "salaire",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "primes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "horaires",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "congé",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "télétravail",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "visioconférence",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "réseau social",
+      "article": "un",
+      "plural": "réseaux sociaux",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "candidature spontanée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "embauché",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "CDD",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "CDI",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "collègues",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "équipe",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "employé",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "démissionne",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "patron",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "licencie",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "licencier",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "licenciement",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "entreprise",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "chômage",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "retraite",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "retraité/e",
+      "article": "un/e",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "profession",
+      "source_page": "039",
+      "translation": ""
+    },
+    {
+      "word": "sac",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "sac à main",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "sac à dos",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "sacoche",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "téléphone",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "portable",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "chargeur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "clés",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "écouteurs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "casque",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "lunettes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "porte-monnaie",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "portefeuille",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "pièces",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "billets",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "cartes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "agenda",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "cartable",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "livres",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "cahiers",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "trousse",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "stylos",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "ciseaux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "téléphone fixe",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "ordinateur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "box",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "télévision",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "téléviseur",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "043",
+      "translation": ""
+    },
+    {
+      "word": "se réveiller",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se lever",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "faire sa toilette",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se laver",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se doucher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "prendre un bain",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "prendre une douche",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "prendre son petit déjeuner",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se brosser les dents",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "s’habiller",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se coiffer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se maquiller",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se raser",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "partir au travail",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "déjeuner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "faire du sport",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se promener",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "rentrer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "préparer le repas",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "faire la cuisine",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "dîner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se reposer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se démaquiller",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se déshabiller",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    },
+    {
+      "word": "se coucher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "046",
+      "translation": ""
+    }
+  ]
+}

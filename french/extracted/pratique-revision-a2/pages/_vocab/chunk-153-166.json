@@ -1,0 +1,1306 @@
+{
+  "collection": "pratique-revision-a2",
+  "chunk": "153-166",
+  "entries": [
+    {
+      "word": "météo",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "temps",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "beau",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "dégagé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "nuages",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "soleil",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "ensoleillée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "mauvais",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "ciel",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "gris",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "couvert",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "parapluie",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "pluvieux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "pluie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "venteux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "vent",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "orageux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "orage",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "éclairs",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "tonnerre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "température",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "chaud",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "froid",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "doux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "de saison",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "printemps",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "été",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "automne",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "hiver",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "154",
+      "translation": ""
+    },
+    {
+      "word": "printanières",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "montent",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "radieuses",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "grêle",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "estivale",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "chaleur",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "canicule",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "lourd",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "éclater",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "rafraîchir l’atmosphère",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "thermomètre",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "degrés",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "grisaille",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "brouillard",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "déluges",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "dégâts",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "froid",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "neige",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "verglas",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "156",
+      "translation": ""
+    },
+    {
+      "word": "climats",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "planète",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "chaud",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "désertique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "tropical",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "équatorial",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "tempéré",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "méditerranéen",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "océanique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "continental",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "froid",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "montagnard",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "subarctique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "polaire",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "précipitations",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "faibles",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "intenses",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "variables",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "neigeuses",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "végétation",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "steppe",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "forêts",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "savanes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "maquis",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "prairies",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "toundra",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "taïga",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "mangrove",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "déserts",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "sèche",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "fraîche",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "humide",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "douce",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "ensoleillement",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "158",
+      "translation": ""
+    },
+    {
+      "word": "environnementales",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "environnement",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "changement global",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "désertification",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "sécheresse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "incendies",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "déforestation",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "réchauffement",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "vagues",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "urbanisation",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "énergies fossiles",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "pétrole",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "charbon",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "émissions de gaz",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "effet de serre",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "fonte de la banquise",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "montée",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "phénomènes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "dévastatrices",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "faune",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "flore",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "migration climatique",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "catastrophes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "ouragans",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "cyclones",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "tremblements de terre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "séismes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "tsunamis",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "tornade",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "destructions",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "160",
+      "translation": ""
+    },
+    {
+      "word": "écologie",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "développement durable",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "énergies renouvelables",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "solaire",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "éolienne",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "sauvegarder",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "préserver",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "biodiversité",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "économiser ses ressources naturelles",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "écoresponsable",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "écoanxiété",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "consommation",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "être consommacteurs",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "biodégradables",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "recyclage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "tri des déchets",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "gaspillage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    },
+    {
+      "word": "verdissement d’image",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "162",
+      "translation": ""
+    }
+  ]
+}

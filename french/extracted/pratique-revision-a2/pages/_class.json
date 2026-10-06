@@ -1,0 +1,2201 @@
+{
+ "collection": "pratique-revision-a2",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents, vocabulary units 1-13."
+  },
+  {
+   "page": 2,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents, grammar and conjugation units 14-27."
+  },
+  {
+   "page": 3,
+   "activity_type": "vocabulary",
+   "topic": "personal-info",
+   "summary": "Height and weight vocabulary: sort words, cross out wrong adjective, complete text."
+  },
+  {
+   "page": 4,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Weight and age vocabulary: complete sentences, true/false, unscramble words."
+  },
+  {
+   "page": 5,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Age text completion; illustrated vocabulary of body parts, hair, eyes, skin."
+  },
+  {
+   "page": 6,
+   "activity_type": "vocabulary",
+   "topic": "personal-info",
+   "summary": "Body parts word search, find the odd one out, cross out impossible option."
+  },
+  {
+   "page": 7,
+   "activity_type": "short-answer",
+   "topic": "personal-info",
+   "summary": "Describe people in photos: complete descriptions and describe by criteria."
+  },
+  {
+   "page": 8,
+   "activity_type": "vocabulary",
+   "topic": "personal-info",
+   "summary": "Personality adjectives and their opposites; sort qualities and defects."
+  },
+  {
+   "page": 9,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Personality adjectives: match opposites, true/false, complete sentences."
+  },
+  {
+   "page": 10,
+   "activity_type": "vocabulary",
+   "topic": "personal-info",
+   "summary": "Feelings and emotions adjectives; sort as positive, neutral or negative."
+  },
+  {
+   "page": 11,
+   "activity_type": "multiple-choice",
+   "topic": "personal-info",
+   "summary": "Emotions: odd one out, definitions, cross out wrong adjective, complete sentences."
+  },
+  {
+   "page": 12,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Family members vocabulary text; masculine and feminine family nouns table."
+  },
+  {
+   "page": 13,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Family relations: true/false, who am I riddles, complete Iris's family text."
+  },
+  {
+   "page": 14,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Complete a social media family selfie post and relatives' comments."
+  },
+  {
+   "page": 15,
+   "activity_type": "fill-in",
+   "topic": "personal-info",
+   "summary": "Unit 1 review test: 30 sentences on people, body, character, family."
+  },
+  {
+   "page": 16,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Unit 2 opener: city places text; find words and complete sentences."
+  },
+  {
+   "page": 17,
+   "activity_type": "vocabulary",
+   "topic": "city-places",
+   "summary": "Urban landscapes: choose the right word, unscramble shops and buildings, complete sentences."
+  },
+  {
+   "page": 18,
+   "activity_type": "short-answer",
+   "topic": "city-places",
+   "summary": "City vocabulary: complete sentences, find words from definitions, true/false."
+  },
+  {
+   "page": 19,
+   "activity_type": "matching",
+   "topic": "city-places",
+   "summary": "Administrative services: match places to definitions, true/false, complete sentences."
+  },
+  {
+   "page": 20,
+   "activity_type": "vocabulary",
+   "topic": "city-places",
+   "summary": "Culture and sport venues: unscramble words, match places to photos."
+  },
+  {
+   "page": 21,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Culture venues fill-in sentences; text on getting around the city."
+  },
+  {
+   "page": 22,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Urban transport: crossword, true/false and fill-in sentences."
+  },
+  {
+   "page": 23,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Green transport text: word search and fill-in sentences."
+  },
+  {
+   "page": 24,
+   "activity_type": "listening-comprehension",
+   "topic": "city-places",
+   "summary": "Word dictation; public transport text; find transport ticket words."
+  },
+  {
+   "page": 25,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Public transport vocabulary: words from definitions, complete sentences."
+  },
+  {
+   "page": 26,
+   "activity_type": "vocabulary",
+   "topic": "city-places",
+   "summary": "Finding your way in town: road signs text, assemble syllables into words."
+  },
+  {
+   "page": 27,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Road and direction vocabulary fill-in; listen and complete GPS directions."
+  },
+  {
+   "page": 28,
+   "activity_type": "multiple-choice",
+   "topic": "city-places",
+   "summary": "Unit 2 Bilan: circle the right word, true/false, gap-fill text."
+  },
+  {
+   "page": 29,
+   "activity_type": "matching",
+   "topic": "school",
+   "summary": "Unit 3 opener: French school system table and verb-complement matching."
+  },
+  {
+   "page": 30,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "School system true/false with justification, fill-in, listening interview gap-fill."
+  },
+  {
+   "page": 31,
+   "activity_type": "multiple-choice",
+   "topic": "school",
+   "summary": "Higher education vocabulary box; cross out wrong option; unscramble study-related words."
+  },
+  {
+   "page": 32,
+   "activity_type": "short-answer",
+   "topic": "school",
+   "summary": "Study riddles, reorder words into sentences, start of listening interview on higher education."
+  },
+  {
+   "page": 33,
+   "activity_type": "listening-comprehension",
+   "topic": "profession",
+   "summary": "End of higher-education interview gap-fill; start of professions vocabulary list."
+  },
+  {
+   "page": 34,
+   "activity_type": "vocabulary",
+   "topic": "profession",
+   "summary": "Vocabulary list of professions: trades, services and artistic jobs."
+  },
+  {
+   "page": 35,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Crossword: find professions from their definitions."
+  },
+  {
+   "page": 36,
+   "activity_type": "matching",
+   "topic": "profession",
+   "summary": "Match workplaces to photos and name professions; restore vowels in job names."
+  },
+  {
+   "page": 37,
+   "activity_type": "matching",
+   "topic": "profession",
+   "summary": "Unscramble professions and match to objects; odd one out; verb-complement-job matching."
+  },
+  {
+   "page": 38,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Complete sentences and mini-dialogues with professions; listening job descriptions matching."
+  },
+  {
+   "page": 39,
+   "activity_type": "matching",
+   "topic": "profession",
+   "summary": "Match professions to qualities; world-of-work vocabulary box; word search of work terms."
+  },
+  {
+   "page": 40,
+   "activity_type": "true-false",
+   "topic": "profession",
+   "summary": "True/false on work vocabulary and matching questions to work-related answers."
+  },
+  {
+   "page": 41,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Complete sentences and a job interview dialogue with work vocabulary."
+  },
+  {
+   "page": 42,
+   "activity_type": "short-answer",
+   "topic": "profession",
+   "summary": "Unit 3 review test: studies questions, profession definitions, job-search text gap-fill."
+  },
+  {
+   "page": 43,
+   "activity_type": "vocabulary",
+   "topic": "daily-routine",
+   "summary": "Everyday objects vocabulary box and word search for eight objects."
+  },
+  {
+   "page": 44,
+   "activity_type": "matching",
+   "topic": "daily-routine",
+   "summary": "Name everyday objects in photos with article; match objects to related words."
+  },
+  {
+   "page": 45,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Sort everyday objects by category, complete sentences, object riddles."
+  },
+  {
+   "page": 46,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Daily routine reflexive verbs word box; describe what people do in photos."
+  },
+  {
+   "page": 47,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Order daily reflexive verbs chronologically; complete sentences with routine vocabulary."
+  },
+  {
+   "page": 48,
+   "activity_type": "vocabulary",
+   "topic": "daily-routine",
+   "summary": "Household chores vocabulary box with a chores crossword."
+  },
+  {
+   "page": 49,
+   "activity_type": "matching",
+   "topic": "daily-routine",
+   "summary": "Expressions with faire, verb-complement matching, true/false on household chores."
+  },
+  {
+   "page": 50,
+   "activity_type": "listening-comprehension",
+   "topic": "daily-routine",
+   "summary": "Listen and say what people will do next using the futur proche."
+  },
+  {
+   "page": 51,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Unit 4 Bilan: complete sentences with everyday objects and activities, items 1-22."
+  },
+  {
+   "page": 52,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Unit 4 Bilan continued, items 23-30, with score box."
+  },
+  {
+   "page": 53,
+   "activity_type": "multiple-choice",
+   "topic": "shopping",
+   "summary": "Clothing vocabulary box; cross out the odd item in each outfit."
+  },
+  {
+   "page": 54,
+   "activity_type": "matching",
+   "topic": "shopping",
+   "summary": "Match clothes to situations, unscramble clothing words, pair logical garments."
+  },
+  {
+   "page": 55,
+   "activity_type": "short-answer",
+   "topic": "shopping",
+   "summary": "Clothing riddles; materials and patterns box; cross out the incorrect option."
+  },
+  {
+   "page": 56,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Complete sentences with clothing features; match garments to features and caption photos."
+  },
+  {
+   "page": 57,
+   "activity_type": "true-false",
+   "topic": "shopping",
+   "summary": "True/false on clothing materials; listening fill-in of a fashion show commentary."
+  },
+  {
+   "page": 58,
+   "activity_type": "vocabulary",
+   "topic": "shopping",
+   "summary": "Accessories and jewellery vocabulary box with a word-search grid."
+  },
+  {
+   "page": 59,
+   "activity_type": "matching",
+   "topic": "shopping",
+   "summary": "Match accessories to functions, true/false, place accessory words in sentences."
+  },
+  {
+   "page": 60,
+   "activity_type": "short-answer",
+   "topic": "shopping",
+   "summary": "Shopping vocabulary box; find verbs from definitions; reorder words into sentences."
+  },
+  {
+   "page": 61,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Reorder online-shopping sentences, complete with shopping words, listening dialogue on buying online."
+  },
+  {
+   "page": 62,
+   "activity_type": "listening-comprehension",
+   "topic": "shopping",
+   "summary": "End of listening dialogue: grandmother and granddaughter order a shirt online."
+  },
+  {
+   "page": 63,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Unit 5 Bilan: complete a department-store shopping dialogue with given words."
+  },
+  {
+   "page": 64,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "Unit 5 Bilan continued: payment and online-ordering blanks; score out of 30."
+  },
+  {
+   "page": 65,
+   "activity_type": "vocabulary",
+   "topic": "home",
+   "summary": "Unit 6 opener: types of housing and residents; word search of ten words."
+  },
+  {
+   "page": 66,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Sort housing words by city or countryside; riddles naming dwellings and residents."
+  },
+  {
+   "page": 67,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Complete housing mini-dialogues and match each to a photo."
+  },
+  {
+   "page": 68,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Complete sentences with housing words; vocabulary box on building features."
+  },
+  {
+   "page": 69,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Crossword on building features: floors, stairs, lift, basement, garden."
+  },
+  {
+   "page": 70,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Unscramble building words, complete with adjectives, true/false on building features."
+  },
+  {
+   "page": 71,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Estate agent apartment description gap-fill; vocabulary box on rooms and exterior."
+  },
+  {
+   "page": 72,
+   "activity_type": "matching",
+   "topic": "home",
+   "summary": "Match actions to rooms, find the odd one out, define house parts."
+  },
+  {
+   "page": 73,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Mini-dialogues on house parts; vocabulary box on bathroom and kitchen equipment."
+  },
+  {
+   "page": 74,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Name kitchen and bathroom objects, sort them by room, riddles."
+  },
+  {
+   "page": 75,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Riddles on kitchen equipment, sentence gap-fill; vocabulary box on living room and bedroom."
+  },
+  {
+   "page": 76,
+   "activity_type": "matching",
+   "topic": "home",
+   "summary": "Bedroom and living-room objects: word search, true/false on furniture, match objects to functions."
+  },
+  {
+   "page": 77,
+   "activity_type": "ordering",
+   "topic": "home",
+   "summary": "Reorder furniture sentences; reference box on buying, selling, renting; match roles to actions."
+  },
+  {
+   "page": 78,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Complete property ads, answer renting questions, listening gap-fill of an estate-agent phone call."
+  },
+  {
+   "page": 79,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Unit 6 Bilan: complete a house-visit dialogue with twenty housing words."
+  },
+  {
+   "page": 80,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Unit 6 Bilan part 2: complete ten sentences with housing vocabulary."
+  },
+  {
+   "page": 81,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Meals of the day reference; match meals to times and complete meal-word sentences."
+  },
+  {
+   "page": 82,
+   "activity_type": "true-false",
+   "topic": "food",
+   "summary": "True/false on meals, missing meal words from first letters; food pyramid reference text."
+  },
+  {
+   "page": 83,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Name pictured foods with their article and complete the food pyramid levels."
+  },
+  {
+   "page": 84,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Complete nutrition sentences, unscramble food words, name pictured fruits with articles."
+  },
+  {
+   "page": 85,
+   "activity_type": "multiple-choice",
+   "topic": "food",
+   "summary": "Name pictured vegetables with articles and choose the right fruit or vegetable word."
+  },
+  {
+   "page": 86,
+   "activity_type": "matching",
+   "topic": "food",
+   "summary": "Match fruit and vegetable idioms to meanings; reference box on dishes and restaurant meals."
+  },
+  {
+   "page": 87,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Complete dish vocabulary sentences and replace pictures with food and restaurant words."
+  },
+  {
+   "page": 88,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Find missing dish words, complete with agreement, choose containers and menu words."
+  },
+  {
+   "page": 89,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Recipe vocabulary reference; identify pictured kitchen utensils."
+  },
+  {
+   "page": 90,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Complete a crêpe recipe, match cooking verbs to objects, choose kitchen utensils."
+  },
+  {
+   "page": 91,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Unscramble food words in sentences; homophones moule/poêle; regional and world dishes."
+  },
+  {
+   "page": 92,
+   "activity_type": "matching",
+   "topic": "food",
+   "summary": "Dish dictation, name dishes from photos, match dishes to origins, fill dish names."
+  },
+  {
+   "page": 93,
+   "activity_type": "fill-in",
+   "topic": "restaurant",
+   "summary": "Eating out vocabulary text; rebuild split words for restaurant types and fill sentences."
+  },
+  {
+   "page": 94,
+   "activity_type": "matching",
+   "topic": "restaurant",
+   "summary": "Match restaurant types to definitions; complete and unscramble eating-out words."
+  },
+  {
+   "page": 95,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Unit 7 food review test: dictation, replace the odd word, fill blanks."
+  },
+  {
+   "page": 96,
+   "activity_type": "vocabulary",
+   "topic": "hobby",
+   "summary": "Leisure activities vocabulary text; name artistic activities from photos."
+  },
+  {
+   "page": 97,
+   "activity_type": "multiple-choice",
+   "topic": "hobby",
+   "summary": "Leisure nouns and adjectives, sort activities, choose faire/jouer forms."
+  },
+  {
+   "page": 98,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Activity nouns from verbs, leisure words in sentences, CH pronounced [ʃ] or [k]."
+  },
+  {
+   "page": 99,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Fill leisure words into sentences and choose between club, troupe, chorale etc."
+  },
+  {
+   "page": 100,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Board games vocabulary text; listen and complete; unscramble game words."
+  },
+  {
+   "page": 101,
+   "activity_type": "true-false",
+   "topic": "hobby",
+   "summary": "Unscramble game words, true/false on board games, match sentences to games."
+  },
+  {
+   "page": 102,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Playing cards vocabulary; complete game sentences; unscramble card words."
+  },
+  {
+   "page": 103,
+   "activity_type": "short-answer",
+   "topic": "hobby",
+   "summary": "Name playing cards and card games; listen and number the cards."
+  },
+  {
+   "page": 104,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Board game moves vocabulary; rebuild nine words from syllables; crossword."
+  },
+  {
+   "page": 105,
+   "activity_type": "true-false",
+   "topic": "hobby",
+   "summary": "Complete board game sentences; true/false on game vocabulary with justifications."
+  },
+  {
+   "page": 106,
+   "activity_type": "matching",
+   "topic": "hobby",
+   "summary": "Manual activities text; match DIY and gardening activities to photos; circle correct verb."
+  },
+  {
+   "page": 107,
+   "activity_type": "listening-comprehension",
+   "topic": "hobby",
+   "summary": "Word dictation on hobbies; sports text; name the sport in each photo."
+  },
+  {
+   "page": 108,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Sort sports by ball type; number sports from audio; complete sentences with sports words."
+  },
+  {
+   "page": 109,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Unit 8 Bilan: four gap-fill texts on leisure, games, DIY and sports."
+  },
+  {
+   "page": 110,
+   "activity_type": "matching",
+   "topic": "health",
+   "summary": "Health dialogue on cold and flu symptoms; match words to definitions and expressions."
+  },
+  {
+   "page": 111,
+   "activity_type": "fill-in",
+   "topic": "health",
+   "summary": "Complete illness sentences, reorder words into sentences; text on medicine and treatments."
+  },
+  {
+   "page": 112,
+   "activity_type": "matching",
+   "topic": "health",
+   "summary": "Match first-aid photos to words; circle the correct remedy for each situation."
+  },
+  {
+   "page": 113,
+   "activity_type": "fill-in",
+   "topic": "health",
+   "summary": "Find medical words from definitions; text on specialists; combine syllables into health words."
+  },
+  {
+   "page": 114,
+   "activity_type": "matching",
+   "topic": "health",
+   "summary": "Match doctors to specialties; complete health mini-dialogues; name the right practitioner."
+  },
+  {
+   "page": 115,
+   "activity_type": "matching",
+   "topic": "health",
+   "summary": "Well-being text; pair spa and wellness words; true/false and advice choices."
+  },
+  {
+   "page": 116,
+   "activity_type": "fill-in",
+   "topic": "health",
+   "summary": "Complete sentences with well-being vocabulary (thermal, massage, relaxation)."
+  },
+  {
+   "page": 117,
+   "activity_type": "fill-in",
+   "topic": "health",
+   "summary": "Unit 9 Bilan: complete fifteen health mini-dialogues."
+  },
+  {
+   "page": 118,
+   "activity_type": "fill-in",
+   "topic": "health",
+   "summary": "Unit 9 Bilan: find health words from definitions with first letters given."
+  },
+  {
+   "page": 119,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Written press text; word dictation; unscramble letters to find press vocabulary."
+  },
+  {
+   "page": 120,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Press vocabulary: complete definitions, gap-fill text, true/false statements."
+  },
+  {
+   "page": 121,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Radio and TV vocabulary text; unscramble media words and a word dictation."
+  },
+  {
+   "page": 122,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Media definitions, gap-fill text on TV history, broadcasting text and word dictation."
+  },
+  {
+   "page": 123,
+   "activity_type": "true-false",
+   "topic": "communication",
+   "summary": "Unscramble broadcasting words; true/false statements on radio and TV vocabulary."
+  },
+  {
+   "page": 124,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Gap-fill on journalism words; on-demand TV text and syllable word search."
+  },
+  {
+   "page": 125,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "TV vocabulary: find words from definitions, gap-fill sentences and a crossword."
+  },
+  {
+   "page": 126,
+   "activity_type": "matching",
+   "topic": "communication",
+   "summary": "Press professions text; match job definitions to journalism roles."
+  },
+  {
+   "page": 127,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Unscramble journalist job titles; complete with the right kind of journalist."
+  },
+  {
+   "page": 128,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Gap-fill press jobs; mobile telephony text and listening word dictation."
+  },
+  {
+   "page": 129,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Telephony vocabulary: circle the right word, gap-fill sentences, true/false statements."
+  },
+  {
+   "page": 130,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Phone-use text (calls, modes, notifications) and a crossword on phone vocabulary."
+  },
+  {
+   "page": 131,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Match phone verbs to complements; gap-fill sentences with phone vocabulary and verbs."
+  },
+  {
+   "page": 132,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Videoconference vocabulary text; unscramble words and complete sentences."
+  },
+  {
+   "page": 133,
+   "activity_type": "listening-comprehension",
+   "topic": "communication",
+   "summary": "Listen and match sentence beginnings; complete a videoconference dialogue."
+  },
+  {
+   "page": 134,
+   "activity_type": "multiple-choice",
+   "topic": "communication",
+   "summary": "Unit 10 review: tick the right media word; complete a telephony conversation."
+  },
+  {
+   "page": 135,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Unit 10 review continued: complete four conversations on phones, TV, videoconferences, press."
+  },
+  {
+   "page": 136,
+   "activity_type": "fill-in",
+   "topic": "communication",
+   "summary": "Unit 10 Bilan: complete a press conversation, media crossword (14 clues)."
+  },
+  {
+   "page": 137,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Unit 11 opener: pets, farm animals and exotic farm animals, illustrated wordlist."
+  },
+  {
+   "page": 138,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Pet-animal word search; complete farm-animal names and match to pictures."
+  },
+  {
+   "page": 139,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Feathers or fur sorting, 'Qui suis-je?' animal riddles; wild animals vocabulary box."
+  },
+  {
+   "page": 140,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Wild-animal crossword, true/false on forest and savanna animals, diet classification."
+  },
+  {
+   "page": 141,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Find animals from anecdotes; vocabulary box on insects and sea creatures."
+  },
+  {
+   "page": 142,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Insects with missing vowels, syllable animals by habitat, habitats, aquatic animal clues."
+  },
+  {
+   "page": 143,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Animal idioms matched to meanings; link animals to their abilities."
+  },
+  {
+   "page": 144,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 11 Bilan: complete sentences with animal names and habitats."
+  },
+  {
+   "page": 145,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Unit 11 Bilan: classify twenty animals into six categories."
+  },
+  {
+   "page": 146,
+   "activity_type": "vocabulary",
+   "topic": "mixed",
+   "summary": "Unit 12 opener: religious and traditional festivals; word dictation; choose correct answer."
+  },
+  {
+   "page": 147,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Festival vocabulary: noun-verb table, adjective agreement, unscramble religious words."
+  },
+  {
+   "page": 148,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Calendar festivals vocabulary box; match ten photos to festival words."
+  },
+  {
+   "page": 149,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "True/false on festivals, complete with festival words, match dates to customs."
+  },
+  {
+   "page": 150,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Listening fill-in on celebrations; civic events box; unscramble event words."
+  },
+  {
+   "page": 151,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "French national and international days: true/false with justification; complete sentences with event words."
+  },
+  {
+   "page": 152,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Celebrations crossword and audio dictation of event vocabulary."
+  },
+  {
+   "page": 153,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 12 Bilan: fill a text, two dialogues and sentences with celebration vocabulary."
+  },
+  {
+   "page": 154,
+   "activity_type": "matching",
+   "topic": "weather",
+   "summary": "Weather vocabulary box; match weather phrases to photos."
+  },
+  {
+   "page": 155,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Weather adjectives, unscramble weather words, complete a weather dialogue, start of multiple choice."
+  },
+  {
+   "page": 156,
+   "activity_type": "multiple-choice",
+   "topic": "weather",
+   "summary": "Weather multiple choice; seasons vocabulary box; unscramble seasonal weather words."
+  },
+  {
+   "page": 157,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Seasonal weather true/false, find the word from definitions, complete sentences."
+  },
+  {
+   "page": 158,
+   "activity_type": "matching",
+   "topic": "weather",
+   "summary": "Weather word dictation; climate vocabulary box; match landscape names to photos."
+  },
+  {
+   "page": 159,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Climate noun/adjective table, unscramble climate words, complete sentences."
+  },
+  {
+   "page": 160,
+   "activity_type": "matching",
+   "topic": "weather",
+   "summary": "Climate dictation; global change vocabulary box; match environmental collocations."
+  },
+  {
+   "page": 161,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Climate change vocabulary: definitions, unscrambling and sentence completion."
+  },
+  {
+   "page": 162,
+   "activity_type": "true-false",
+   "topic": "weather",
+   "summary": "Climate change true/false; sustainable development box; dictation of eco vocabulary."
+  },
+  {
+   "page": 163,
+   "activity_type": "multiple-choice",
+   "topic": "weather",
+   "summary": "Verb/noun table of eco words; multiple choice on sustainability terms."
+  },
+  {
+   "page": 164,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Sustainability multiple choice ends; unscramble eco words; complete sentences."
+  },
+  {
+   "page": 165,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Unit 13 Bilan: complete a climate change text and an audio word dictation."
+  },
+  {
+   "page": 166,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Unit 13 Bilan: find the environment and weather word from each definition."
+  },
+  {
+   "page": 167,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Present tense of -er verbs: rule box, match subjects to verbs, add endings."
+  },
+  {
+   "page": 168,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of -er verbs: place verbs, negative contrasts, -ier/-uer/-ouer singular-plural switches."
+  },
+  {
+   "page": 169,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of -ier verbs and -ger/-cer/-yer spelling changes: complete, underline, conjugate."
+  },
+  {
+   "page": 170,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Place and conjugate -ger/-cer/-yer verbs; rule box on accent and doubling verbs."
+  },
+  {
+   "page": 171,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Accent and doubled-consonant -er verbs: cross out wrong forms, add accents, conjugate."
+  },
+  {
+   "page": 172,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Answer questions with accent-change verbs; conjugate English-derived verbs like spoiler, scanner."
+  },
+  {
+   "page": 173,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Second-group -ir verbs: rule box, match subjects to forms, cross out wrong forms."
+  },
+  {
+   "page": 174,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Second-group -ir verbs: complete sentences and switch between singular and plural."
+  },
+  {
+   "page": 175,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Être, avoir, aller, faire: give subject pronouns and complete a street-survey dialogue."
+  },
+  {
+   "page": 176,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "End of survey dialogue; present people with être, avoir, faire, aller."
+  },
+  {
+   "page": 177,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Answer with être/avoir/aller/faire; word search of conjugated third-group verbs."
+  },
+  {
+   "page": 178,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Two-stem third-group verbs: match subjects, give pronouns, switch number, place verbs."
+  },
+  {
+   "page": 179,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Two-stem verbs in -dre: singular/plural forms and sentence completion with conjugation."
+  },
+  {
+   "page": 180,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Three-stem verbs: unscramble singular forms and supply plural subject pronouns."
+  },
+  {
+   "page": 181,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present tense of irregular third-group verbs: transform, complete, conjugate (332-334)."
+  },
+  {
+   "page": 182,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of -ir verbs conjugated like -er verbs (ouvrir, offrir): exercises 335-337."
+  },
+  {
+   "page": 183,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "End of 337; pronominal verbs box; reflexive and subject pronoun exercises (338-339)."
+  },
+  {
+   "page": 184,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Pronominal verbs: singular/plural forms and a family morning-routine text (340-341)."
+  },
+  {
+   "page": 185,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Unit 14 Bilan: conjugate present-tense verbs in office-party conversations."
+  },
+  {
+   "page": 186,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Unit 14 Bilan continued: conversations 4-5, present-tense blanks, scored /30."
+  },
+  {
+   "page": 187,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imperative formation box; conjugate to the two other imperative persons (342)."
+  },
+  {
+   "page": 188,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imperative orders and bans, phone setup guide, choose and conjugate verbs (343-345)."
+  },
+  {
+   "page": 189,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Campsite rules text: complete with imperative verbs from a list (346)."
+  },
+  {
+   "page": 190,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Giving directions with imperatives; listening dialogue with Sam (347-348)."
+  },
+  {
+   "page": 191,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Match advice to situations, unscramble imperative verbs, write advice (349-351)."
+  },
+  {
+   "page": 192,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imperative advice dialogues, coach's tips text, pronominal imperative box (352-353)."
+  },
+  {
+   "page": 193,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Pronominal verbs in the imperative: opposites, tu/vous, suggestions (354-356)."
+  },
+  {
+   "page": 194,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Designer's advice text; imperative with object pronouns box; word ordering (357-358)."
+  },
+  {
+   "page": 195,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Word ordering continued; bans to orders and suggestions with pronouns (358-360)."
+  },
+  {
+   "page": 196,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Imperative with object pronouns: complete a courgette risotto recipe."
+  },
+  {
+   "page": 197,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 15 Bilan: GPS directions (audio), negate imperatives, school rules."
+  },
+  {
+   "page": 198,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Recent past (venir de + infinitive): grammar box and transformation exercises."
+  },
+  {
+   "page": 199,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Recent past: transform sentences, reorder words, choose and conjugate verbs."
+  },
+  {
+   "page": 200,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé of -er verbs with avoir; audio present vs past."
+  },
+  {
+   "page": 201,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé: match sentence halves; être verbs and participle agreement."
+  },
+  {
+   "page": 202,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Choose avoir or être; sort verbs by auxiliary in a table."
+  },
+  {
+   "page": 203,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé: choose auxiliary, rewrite sentences, conjugate être verbs."
+  },
+  {
+   "page": 204,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Past participle forms: grammar box, match participles to infinitives, complete."
+  },
+  {
+   "page": 205,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Past participle word search and tick the correctly agreed participle."
+  },
+  {
+   "page": 206,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Audio: write infinitives of heard participles; rewrite sentences in passé composé."
+  },
+  {
+   "page": 207,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Verbs taking être or avoir (monter, sortir, passer): circle and complete."
+  },
+  {
+   "page": 208,
+   "activity_type": "writing-task",
+   "topic": "mixed",
+   "summary": "Rewrite in passé composé; reorder words and conjugate with être or avoir."
+  },
+  {
+   "page": 209,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal verbs in passé composé: complete and transform underlined verbs."
+  },
+  {
+   "page": 210,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal passé composé: plural/singular transformations; audio tick heard form."
+  },
+  {
+   "page": 211,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé: placing negation and adverbs; exercises 394-395."
+  },
+  {
+   "page": 212,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé with adverbs and negative answers; exercises 396-397."
+  },
+  {
+   "page": 213,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Avoir or être auxiliary table and passé composé completion; exercises 398-399."
+  },
+  {
+   "page": 214,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 16 Bilan: passé composé text, negation placement, past participles."
+  },
+  {
+   "page": 215,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 16 Bilan end: past participles and passé récent rewriting."
+  },
+  {
+   "page": 216,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 17 opener: imparfait of -er verbs; exercises 400-402."
+  },
+  {
+   "page": 217,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait matching, plural rewriting and gap-fill text; exercises 403-406."
+  },
+  {
+   "page": 218,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of -cer and -ger verbs; exercises 407-408."
+  },
+  {
+   "page": 219,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of -cer/-ger verbs in sentences; exercises 409-411."
+  },
+  {
+   "page": 220,
+   "activity_type": "fill-in",
+   "topic": "vacation",
+   "summary": "Holiday memories text in imparfait (412) and imparfait formation box."
+  },
+  {
+   "page": 221,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait stems table, conjugation and interview dialogue; exercises 413-415."
+  },
+  {
+   "page": 222,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Dialogue end, imparfait conjugation and circling imparfait forms; 415-417."
+  },
+  {
+   "page": 223,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Imparfait rewriting, passé composé vs imparfait choice and listening; 418-420."
+  },
+  {
+   "page": 224,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé or imparfait: completion, choice and sentence building; 421-423."
+  },
+  {
+   "page": 225,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé or imparfait story gap-fill about a broken jam jar; 424."
+  },
+  {
+   "page": 226,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 17 Bilan: conjugate thirty sentences in the imparfait."
+  },
+  {
+   "page": 227,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 17 Bilan: choose passé composé or imparfait in fifteen sentences."
+  },
+  {
+   "page": 228,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Futur proche: formation box, conjugate and rewrite present sentences."
+  },
+  {
+   "page": 229,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Futur proche: finish rewriting sentences, reorder words into futur proche replies."
+  },
+  {
+   "page": 230,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Negative futur proche: answer, negate sentences and reorder sentence elements."
+  },
+  {
+   "page": 231,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Futur simple formation box; rewrite present sentences in the futur simple."
+  },
+  {
+   "page": 232,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Convert futur proche to futur simple and complete sentences in the future."
+  },
+  {
+   "page": 233,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Travel-plans text in futur simple; -er verbs with stem changes."
+  },
+  {
+   "page": 234,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Choose and conjugate -er verbs with irregular stems in the futur simple."
+  },
+  {
+   "page": 235,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Dialogue about a form in futur simple; box on -re verbs."
+  },
+  {
+   "page": 236,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Futur simple of -re verbs: choose verbs, match sentence halves, rewrite."
+  },
+  {
+   "page": 237,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Rewrite sentences in futur simple; text about parents travelling by train."
+  },
+  {
+   "page": 238,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Irregular futur simple stems: tick the matching infinitive, conjugate verbs."
+  },
+  {
+   "page": 239,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Find infinitives of future forms, conjugate irregulars; conditionnel formation box."
+  },
+  {
+   "page": 240,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Identify conditionnel forms, sort verbs by tense, conjugate in conditionnel."
+  },
+  {
+   "page": 241,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Conditional present: choose a verb and conjugate it to complete sentences."
+  },
+  {
+   "page": 242,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 18 Bilan: futur proche and futur simple conjugation, start of future-tense text."
+  },
+  {
+   "page": 243,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 18 Bilan continued: future-tense text completion and conditional present conjugation."
+  },
+  {
+   "page": 244,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 19 opener: partitive articles explained; cross out the incorrect article."
+  },
+  {
+   "page": 245,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Partitive articles in a shopping list, places-and-things sentences, personal qualities."
+  },
+  {
+   "page": 246,
+   "activity_type": "short-answer",
+   "topic": "hobby",
+   "summary": "Faire/jouer with partitives for activities; match verbs and complements into sentences."
+  },
+  {
+   "page": 247,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Partitives: professional qualities, negative forms, true/false corrections, word ordering."
+  },
+  {
+   "page": 248,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Word ordering, partitive completion with given nouns, and saying the opposite."
+  },
+  {
+   "page": 249,
+   "activity_type": "vocabulary",
+   "topic": "food",
+   "summary": "Units and containers explained; word search for ten unit and container names."
+  },
+  {
+   "page": 250,
+   "activity_type": "multiple-choice",
+   "topic": "food",
+   "summary": "Cross out impossible container combinations; name container or unit for photographed foods."
+  },
+  {
+   "page": 251,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Match containers to contents, complete a salade niçoise recipe, listening dialogue on party shopping."
+  },
+  {
+   "page": 252,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Party dialogue continued; adverbs of quantity explained; choose logical quantity; large/small quantities."
+  },
+  {
+   "page": 253,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Quantity sentences continued; complete with quantity adverbs; comment on excessive or insufficient photos."
+  },
+  {
+   "page": 254,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Photo comments continued; complete mini-dialogues using quantity expressions."
+  },
+  {
+   "page": 255,
+   "activity_type": "fill-in",
+   "topic": "restaurant",
+   "summary": "Indefinite adjectives of quantity explained; complete sentences from a restaurant table."
+  },
+  {
+   "page": 256,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 19: tout/toute/tous/toutes, saying the opposite, reordering quantity sentences."
+  },
+  {
+   "page": 257,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 19: indefinite adjectives in sentences, transformations and mini-dialogues."
+  },
+  {
+   "page": 258,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Unit 19 Bilan part 1: name containers and contents shown in photos."
+  },
+  {
+   "page": 259,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Unit 19 Bilan part 2: complete a food-habits survey dialogue with quantity words."
+  },
+  {
+   "page": 260,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 20 opener: tonic and subject pronouns rule box, choose and fill subject pronouns."
+  },
+  {
+   "page": 261,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 20: replace subjects with pronouns, identify referents, circle subject pronouns."
+  },
+  {
+   "page": 262,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 20: tonic pronouns: fill in, match to sentences, after prepositions, circle."
+  },
+  {
+   "page": 263,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Unit 20: rewrite underlined forms with pronouns; rule box on the pronoun on."
+  },
+  {
+   "page": 264,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Unit 20: rewrite sentences using impersonal on and replace nous by on."
+  },
+  {
+   "page": 265,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 20: meaning of on, choose pronouns; direct object pronoun rule box."
+  },
+  {
+   "page": 266,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 20: object pronouns fill-in, affirmative imperative, replace with le/la/les."
+  },
+  {
+   "page": 267,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Unit 20: listening choice of COD pronoun, match questions to replies; indirect pronouns box."
+  },
+  {
+   "page": 268,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 20: indirect object pronouns: fill in, replace underlined, reorder sentences."
+  },
+  {
+   "page": 269,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 20: reorder sentences, complete with pronouns; rule box on pronoun en."
+  },
+  {
+   "page": 270,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 20: replace with en/leur/lui/eux and identify what en replaces."
+  },
+  {
+   "page": 271,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Pronoun en: tick the correct reply; pronoun y grammar box, replace underlined places."
+  },
+  {
+   "page": 272,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronoun y: replace places, reorder sentences, complete with en or y."
+  },
+  {
+   "page": 273,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 20 Bilan: complete six dialogues with stressed and subject pronouns."
+  },
+  {
+   "page": 274,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 20 Bilan: complete five dialogues with direct and indirect object pronouns."
+  },
+  {
+   "page": 275,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comparatives grammar box; place adjectives and reorder words into comparative sentences."
+  },
+  {
+   "page": 276,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comparatives with adjectives and adverbs: complete, build sentences from data, place adverbs."
+  },
+  {
+   "page": 277,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comparatives: meilleur or mieux; plus/autant/moins de with nouns, place nouns."
+  },
+  {
+   "page": 278,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Reorder words into quantity comparisons; true or false comparisons with corrections."
+  },
+  {
+   "page": 279,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Comparing verbs: place verbs, complete comparatives, build sentences, autant or aussi."
+  },
+  {
+   "page": 280,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Superlatives grammar box; place words and complete two survey questionnaires with superlatives."
+  },
+  {
+   "page": 281,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Superlative sentences from data, c'est...qui emphasis, compare three restaurants from a table."
+  },
+  {
+   "page": 282,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 21 Bilan: comparative and superlative sentences from given elements."
+  },
+  {
+   "page": 283,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Unit 21 Bilan: compare three holiday apartments from a table with comparatives, superlatives."
+  },
+  {
+   "page": 284,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Question types box; classify open or closed questions; combien or comment."
+  },
+  {
+   "page": 285,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Circle the correct question word, place question words, complete est-ce que questions."
+  },
+  {
+   "page": 286,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Question registers box; identify register of questions, match questions to answers."
+  },
+  {
+   "page": 287,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Reorder words into questions, complete and match questions, make formal questions."
+  },
+  {
+   "page": 288,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete table of oral, standard, formal questions; build passé composé questions."
+  },
+  {
+   "page": 289,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Find questions for given answers; grammar box on interrogative adjective quel."
+  },
+  {
+   "page": 290,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Match quel questions to answers, build quel questions, agree quel, formal to standard."
+  },
+  {
+   "page": 291,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Finish formal-to-standard, reorder words into quel questions, form quel questions."
+  },
+  {
+   "page": 292,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Formal quel questions for answers; interro-négation box; cross out wrong si/oui replies."
+  },
+  {
+   "page": 293,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Answer negative questions affirmatively; reorder words into negative questions, match answers."
+  },
+  {
+   "page": 294,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Write the inverse question and answer it; find questions matching si/oui/non replies."
+  },
+  {
+   "page": 295,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 22 Bilan: interrogative words, answer questions, rewrite questions two ways."
+  },
+  {
+   "page": 296,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Unit 22 Bilan end: rewrite last three questions two ways; score total."
+  },
+  {
+   "page": 297,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Time expressions box (ce, hier, demain, dernier, prochain); cross out, complete sentences."
+  },
+  {
+   "page": 298,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Tick sentences fitting time expressions; complete sentences with time expressions."
+  },
+  {
+   "page": 299,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Time prepositions box; circle correct preposition; build sentences from three columns."
+  },
+  {
+   "page": 300,
+   "activity_type": "true-false",
+   "topic": "mixed",
+   "summary": "Judge time-preposition sentences correct or not and fix; reorder words into sentences."
+  },
+  {
+   "page": 301,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "Listening dialogue with time prepositions; frequency adverbs and chronological markers box."
+  },
+  {
+   "page": 302,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Frequency adverbs: cross out wrong option, place words, reorder sentences."
+  },
+  {
+   "page": 303,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Frequency adverbs: rewrite in passé composé, complete from family chores table."
+  },
+  {
+   "page": 304,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Frequency: say the opposite, match questions/answers, listening completion."
+  },
+  {
+   "page": 305,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Listening completion end; déjà/encore box; classify meanings of encore."
+  },
+  {
+   "page": 306,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Déjà or encore: choose correct question, complete, match questions and answers."
+  },
+  {
+   "page": 307,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Reorder sentences with déjà/encore; grammar box on duration expressions."
+  },
+  {
+   "page": 308,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Duration: match halves, il y a/depuis, form il y a sentences, en/pendant."
+  },
+  {
+   "page": 309,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "En/pendant end; transform depuis/il y a que; answer depuis quand questions."
+  },
+  {
+   "page": 310,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Circle en/pendant/dans, reorder sentences, build time-sequence sentences."
+  },
+  {
+   "page": 311,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Time-sequence sentences continued; complete with duration expressions."
+  },
+  {
+   "page": 312,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 23 Bilan: complete twenty sentences with time expressions."
+  },
+  {
+   "page": 313,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 24 opener: country prepositions à/en/au/aux; circle and complete."
+  },
+  {
+   "page": 314,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Country prepositions: complete with à/en/au/aux, choose place, pour."
+  },
+  {
+   "page": 315,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Prepositions de/du/des: complete, circle preposition, circle correct place."
+  },
+  {
+   "page": 316,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Choose countries after prepositions; complete with de or par; prepositions à/chez/de with places."
+  },
+  {
+   "page": 317,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete with à + place; circle de/de chez/à/chez; grammar box on dans, sur, sous."
+  },
+  {
+   "page": 318,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Tick dans, sur or en with screens, internet, cloud; box on cardinal points."
+  },
+  {
+   "page": 319,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete with dans/sous/sur; circle the right preposition; tick place after dans/sur."
+  },
+  {
+   "page": 320,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Choose places after à/dans/sur/au; complete with à la mer, en montagne, etc."
+  },
+  {
+   "page": 321,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Grammar box on devant, derrière, entre, parmi, par, vers; complete and tick forms."
+  },
+  {
+   "page": 322,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Tick vers/par/entre forms; circle par/parmi/vers/entre; place vs means of transport."
+  },
+  {
+   "page": 323,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete transport with à, en or dans; spatial locutions box; choose en bas/en haut."
+  },
+  {
+   "page": 324,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Write the opposite location; rewrite with spatial expressions; circle the right locution."
+  },
+  {
+   "page": 325,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Circle spatial locutions; complete space-themed sentences with au-dessus, loin, autour, etc."
+  },
+  {
+   "page": 326,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 24 Bilan: complete with prepositions of place; tick the right form."
+  },
+  {
+   "page": 327,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 24 Bilan continued: tick the right spatial preposition in sentences."
+  },
+  {
+   "page": 328,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Unit 24 Bilan end: tick forms; circle prepositions in a travel narrative."
+  },
+  {
+   "page": 329,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Unit 25 opener: relative pronoun que explained; join sentences with que."
+  },
+  {
+   "page": 330,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Split relative clauses into two sentences; tick sentences where que is relative."
+  },
+  {
+   "page": 331,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Sort sentences by value of que; join sentences with relative que and agreement."
+  },
+  {
+   "page": 332,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Join sentences with que; match relative clauses; grammar box on relative qui."
+  },
+  {
+   "page": 333,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Join sentences with qui; tick relative qui; choose qui or que; complete."
+  },
+  {
+   "page": 334,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Complete with qui/que; match relative clauses about a crime; continue sentences freely."
+  },
+  {
+   "page": 335,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Grammar box on c'est... qui/que emphasis; rewrite sentences with and without emphasis."
+  },
+  {
+   "page": 336,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Rewrite without emphasis; grammar box on relative où; join sentences with où."
+  },
+  {
+   "page": 337,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Tick relative où; join sentences with temporal où; note on c'est... que."
+  },
+  {
+   "page": 338,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Choose c'est... que or où; rewrite with c'est... où; tick correct relative."
+  },
+  {
+   "page": 339,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Tick correct relative pronoun; complete with que/qui/où; complete mini-dialogues."
+  },
+  {
+   "page": 340,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Finish mini-dialogues; reorder sentences with relatives; complete with ce que/ce qui."
+  },
+  {
+   "page": 341,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Choose ce que or ce qui; complete a dialogue about learning French."
+  },
+  {
+   "page": 342,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 25 review: complete with relative pronouns; emphasise underlined elements."
+  },
+  {
+   "page": 343,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 25 review: complete a conversation with relative forms; final score."
+  },
+  {
+   "page": 344,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Unit 26 opener: grammar box on cause; build sentences with car/parce que."
+  },
+  {
+   "page": 345,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Answer why-questions with causes; match clauses with comme/puisque; à cause de/grâce à."
+  },
+  {
+   "page": 346,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Cause: finish à cause de/grâce à sentences, circle connectors, fill cause words."
+  },
+  {
+   "page": 347,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Consequence connectors grammar box; match causes to consequences; reorder consequence sentences."
+  },
+  {
+   "page": 348,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Join clauses with consequence connectors; classify sentences as cause or consequence."
+  },
+  {
+   "page": 349,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Transform causes into consequences and vice versa; complete with logical connectors."
+  },
+  {
+   "page": 350,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Purpose and opposition grammar box; build purpose sentences; match sentence halves."
+  },
+  {
+   "page": 351,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Reorder purpose/opposition sentences; link with pour or mais; fill connectors."
+  },
+  {
+   "page": 352,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 26 Bilan: choose logical sentence endings from a list."
+  },
+  {
+   "page": 353,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 26 Bilan: complete an official announcement with logical connectors."
+  },
+  {
+   "page": 354,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 27 opener: singular possessive adjectives box; rewrite and tick possessives."
+  },
+  {
+   "page": 355,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete sentences with possessive adjectives; plural possessive adjectives grammar box."
+  },
+  {
+   "page": 356,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Son/sa/ses practice; possessives with sports vocabulary; answer questions with possessives."
+  },
+  {
+   "page": 357,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Possessive adjectives in replies and a dialogue; circle the correct possessive."
+  },
+  {
+   "page": 358,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Article or possessive with body parts; complete sentences with possessives."
+  },
+  {
+   "page": 359,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Possessive pronouns grammar box; convert between possessive adjectives and pronouns."
+  },
+  {
+   "page": 360,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete dialogues and sentences with possessive pronouns and adjectives."
+  },
+  {
+   "page": 361,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Demonstrative adjectives grammar box; fill and choose ce, cet, cette, ces."
+  },
+  {
+   "page": 362,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Demonstratives with nouns, in a dialogue, and with -ci/-là; ces/c'est/ses note."
+  },
+  {
+   "page": 363,
+   "activity_type": "listening-comprehension",
+   "topic": "mixed",
+   "summary": "Listen and tick ce/ces/ses/c'est and cet/cette/sept/set; demonstrative pronouns."
+  },
+  {
+   "page": 364,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Complete sentences and dialogues with demonstrative pronouns celui, celle, ceux."
+  },
+  {
+   "page": 365,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 27 Bilan: possessive adjectives in sentences and possessives in dialogues."
+  },
+  {
+   "page": 366,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Unit 27 Bilan: demonstratives in dialogues; possessives and demonstratives in a text."
+  }
+ ]
+}

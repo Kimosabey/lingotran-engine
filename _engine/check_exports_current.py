@@ -81,16 +81,6 @@ def main(argv):
     root = parse_root(argv)
     lang = lang_slug(root)
 
-    if lang != 'french':
-        # build_exports.py is the shared engine's builder and only knows the
-        # _engine layout. German has its own catalog/questions/vocabulary
-        # scripts, so a faithful rebuild there needs those instead -- wire it up
-        # when German moves onto _engine (gap P1) rather than half-checking now
-        # and reporting a false clean.
-        print('%s: staleness check is only wired for the shared engine; '
-              'skipped (see gap P1)' % lang)
-        return 0
-
     before = _rel_map(root)
     if not before:
         print('%s: no exports found - nothing to compare' % lang)

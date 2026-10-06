@@ -1,0 +1,1516 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "063-077",
+  "entries": [
+    {
+      "word": "chaussures",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "paire",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "bottes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "sandales",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "chaussons",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "pointure",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "accessoires",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "ceinture",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "foulard",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "casquette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "chapeau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "cravate",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "gants",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "écharpe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "bonnet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "064",
+      "translation": ""
+    },
+    {
+      "word": "temps libre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "se détendre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "faire des activités de loisirs",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "faire du sport",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "faire du cyclisme",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "randonnée",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "équitation",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "danse",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "footing",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "gym",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "yoga",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "patinage",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "boxe",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "athlétisme",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "handball",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "volley-ball",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "pratiquer des arts martiaux",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "judo",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "karaté",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "taekwondo",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "faire de la natation",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "surf",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "plongée sous-marine",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "voile",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "ski",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "escalade",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "jouer au football",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "foot",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "basket-ball",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "rugby",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "tennis",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "badminton",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "tennis de table",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "ping-pong",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "golf",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "balle",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "individuels",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "collectifs",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "d’équipe",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "coéquipiers",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "à l’extérieur",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "stade",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "salle de sport",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "dans un club de sport",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "s’entraîner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "faire des matchs",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "compétitions",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "courses",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "gagner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "perdre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "baskets",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "survêtement",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "maillot de bain",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "ballon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "balle",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "raquette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "069",
+      "translation": ""
+    },
+    {
+      "word": "écoute",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "joue d’un instrument",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "rock",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "pop",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "jazz",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "rap",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "reggae",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "musique classique",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "chansons",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "morceaux de musique",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "aller à un concert",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "chanteur",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "chanteuse",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "groupe",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "fan",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "guitare",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "piano",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "violon",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "trompette",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "batterie",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "harmonica",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "orchestre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "faire des répét",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "chanter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "chorale",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "sorties culturelles",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "aller au cinéma",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "regarder un film",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "documentaire",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "au théâtre",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "voir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "pièce de théâtre",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "à l’opéra",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "voir un opéra",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "à une salle de spectacle",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "voir un ballet",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "spectacle de danse",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "magie",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "au musée",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "exposition",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "peinture",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "photo",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "sculpture",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "lecture",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "lire",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "roman",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "BD",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "sortir",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "se promener",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "aller boire un verre",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "aller au restaurant",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "aller danser",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "072",
+      "translation": ""
+    },
+    {
+      "word": "ludiques",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "manuelles",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "émission",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "télé",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "série",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "plateforme",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "jeux vidéo",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "écouter la radio",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "jeux de société",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "Monopoly",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "Dixit",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "Cluedo",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "cartes",
+      "article": "aux",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "échecs",
+      "article": "aux",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "dames",
+      "article": "aux",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "dessiner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "peindre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "sculpter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "poterie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "photos",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "appareil photo",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "vidéos",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "caméra",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "bricoler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "bricolage",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "outils",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "jardiner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    },
+    {
+      "word": "jardinage",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "hobby",
+      "source_page": "074",
+      "translation": ""
+    }
+  ]
+}

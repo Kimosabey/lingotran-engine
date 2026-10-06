@@ -1,0 +1,1436 @@
+{
+  "collection": "pratique-revision-a2",
+  "chunk": "138-152",
+  "entries": [
+    {
+      "word": "forêts",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "sanglier",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "loup",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "renard",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "ours",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "cerf",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "écureuil",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "jungle",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "savane",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "singes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "lions",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "tigres",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "girafes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "éléphants",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "pandas",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "139",
+      "translation": ""
+    },
+    {
+      "word": "abeille",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "moustique",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "mouche",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "fourmis",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "papillon",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "coccinelle",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "mer",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "rivières",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "baleine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "dauphin",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "poissons",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "sardine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "truite",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "crustacés",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "crabe",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "homard",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "requin",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "coquillages",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "méduse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "étoile de mer",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "pieuvre",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "141",
+      "translation": ""
+    },
+    {
+      "word": "calendrier",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "fêtes traditionnelles",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "religieuse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "jour de l’an",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "jour férié",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Noël",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Nativité",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "chrétiens",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "orthodoxes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "décorer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "cadeaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "réunion familiale",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Pâques",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Pâques orthodoxe",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "pratiquants",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Aïd El-Fitr",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Ramadan",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "jeûne",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "musulman",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Aïd El-Kébir",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Sacrifice",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "judaïsme",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Rosh Hachana",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "célébration",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "juif",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Yom Kippour",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "communautés juives",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "nouvel an",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "Fête du printemps",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "fêter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "cérémonies",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "baptême",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "circoncision",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "communion",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "textes sacrés",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "mariage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "église",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "prêtre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "henné",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "fiancée",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "musulmans",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "fiancé",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "anneau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "juifs",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "lieu de culte",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "temple",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "protestants",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "bouddhistes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "synagogue",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "mosquée",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "146",
+      "translation": ""
+    },
+    {
+      "word": "anniversaire",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "commémore",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "fête",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "Chandeleur",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "crêpes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "Mardi gras",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "carnaval",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "on se déguise",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "on danse",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "Saint-Valentin",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "amoureux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "farces",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "plaisanteries",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "poissons d’avril",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "manifestations",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "fête du Travail",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "jeudi de l’Ascension",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "faire le pont",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "fête du muguet",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "bouquets",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "porte-bonheur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "fête des Mères",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "fête des Pères",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "tombe",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "souhaite",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "fête des Grands-mères",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "grands feux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "fête de la Musique",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "Halloween",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "se déguisent",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "monstres",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "sorcières",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "bonbons",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "citrouilles",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "toiles d’araignée",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "Toussaint",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "traditions",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "148",
+      "translation": ""
+    },
+    {
+      "word": "événements",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "dates",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "Histoire",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "commémoration",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "Fête nationale",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "défilé",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "bal",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "victoires",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "faits",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "nation",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "hommage",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "héros",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "héroïnes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "victimes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "célébrations",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "festives",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "populaires",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "festivals",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "kermesse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    },
+    {
+      "word": "grandes vacances",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "mixed",
+      "source_page": "150",
+      "translation": ""
+    }
+  ]
+}

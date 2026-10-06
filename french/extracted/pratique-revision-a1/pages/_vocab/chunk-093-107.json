@@ -1,0 +1,1416 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "093-107",
+  "entries": [
+    {
+      "word": "métro",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "lignes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "stations",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "passagers",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "ticket",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "distributeurs automatiques",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "direction",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "destination",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "valident",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "quai",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "bus",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "arrêts de bus",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "tram(way)",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "arrêts",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "train",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "trajets",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "gare",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "billet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "aller simple",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "aller-retour",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "abonnement",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "carte",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "assis",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "debout",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "directs",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "changement",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "094",
+      "translation": ""
+    },
+    {
+      "word": "chemins",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "montagnes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "forêts",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "rivières",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "lacs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "arbres",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "plantes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "fleurs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "agriculture",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "champs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "blé",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "maïs",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "vigne",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "cultures",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "prés",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "vaches",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "moutons",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "ferme",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "poules",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "cochons",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "chevaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "lapins",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "environnement naturel",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "écologie",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "écologistes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "animaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "végétaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "ressources naturelles",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "rares",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "city-places",
+      "source_page": "096",
+      "translation": ""
+    },
+    {
+      "word": "semaine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "jours",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "lundi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "mardi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "mercredi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "jeudi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "vendredi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "samedi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "dimanche",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "aujourd’hui",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "maintenant",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "demain",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "hier",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "bientôt",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "week-end",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "fin de semaine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "lundi",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "je vais à l’opéra le lundi",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "après-midi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Lundi après-midi, je vais travailler chez moi.",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "matin",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Le lundi matin, je commence à 9 heures.",
+      "topic": "time-dates",
+      "source_page": "100",
+      "translation": ""
+    },
+    {
+      "word": "mois",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "année",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "janvier",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "février",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "mars",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "avril",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "mai",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "juin",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "juillet",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "août",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "septembre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "octobre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "novembre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "décembre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "en",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "En septembre, c’est mon anniversaire.",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "au mois de/d’",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Au mois de mai, c’est l’anniversaire de mes enfants.",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "an",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "année",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "saisons",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "été",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "En été, il fait chaud.",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "automne",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "En automne, les feuilles tombent.",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "hiver",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "En hiver, il fait froid.",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "printemps",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "Au printemps, il fait bon.",
+      "topic": "time-dates",
+      "source_page": "101",
+      "translation": ""
+    },
+    {
+      "word": "en",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "Elle est née en 2014.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "décennies",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "dans les années",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Il a eu 20 ans dans les années 80.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "nous sommes",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Aujourd’hui, c’est (nous sommes / on est) le 24 février 2023.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "c’est",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Aujourd’hui, c’est (nous sommes / on est) le 24 février 2023.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "on est",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Aujourd’hui, c’est (nous sommes / on est) le 24 février 2023.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "premier",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Le premier (1ᵉʳ) avril, c’est le jour des blagues.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "siècles",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "vingtième",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Il aime la littérature du XXᵉ (vingtième) siècle.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "dix-neuvième",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "Elle aime les opéras du XIXᵉ (dix-neuvième) siècle.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "au",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "Il est né au XIXᵉ (vingt-et-unième) siècle.",
+      "topic": "time-dates",
+      "source_page": "103",
+      "translation": ""
+    },
+    {
+      "word": "neuf heures (pile)",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "neuf heures (du matin)",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "dix heures quinze",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "dix heures et quart",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "onze heures trente",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "onze heures et demie",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "douze heures",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "midi",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "douze heures trente",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "midi et demi",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "treize heures",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "une heure (de l’après-midi)",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "treize heures quarante",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "deux heures moins vingt",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "quatorze heures quarante-cinq",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "trois heures moins le quart",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "quinze heures cinquante",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "quatre heures moins dix",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "dix-neuf heures",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "sept heures (du soir)",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "il est zéro heure",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "il est minuit",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "deux heures",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "deux heures (du matin)",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "Quelle heure est-il ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "C’est quelle heure ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "Il est",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Il est / C’est 11 heures 15 (11 heures et quart).",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "C’est",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Il est / C’est 11 heures 15 (11 heures et quart).",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "entre … et",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "Je prends ma pause déjeuner entre 11 heures et 15 heures.",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "vers",
+      "article": "",
+      "plural": "",
+      "word_class": "preposition",
+      "example": "On se voit vers (= plus ou moins) onze heures.",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "à l’heure",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Il est midi pile : Je suis à l’heure.",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "en avance",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Il est midi moins cinq : Je suis en avance.",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    },
+    {
+      "word": "en retard",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "Il est midi cinq : Je suis en retard.",
+      "topic": "time-dates",
+      "source_page": "105",
+      "translation": ""
+    }
+  ]
+}

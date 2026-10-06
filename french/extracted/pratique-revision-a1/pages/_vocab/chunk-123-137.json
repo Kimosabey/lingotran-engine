@@ -1,0 +1,1796 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "123-137",
+  "entries": [
+    {
+      "word": "caddies",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "chariots",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "paniers",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "rayons",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "alimentation",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "boissons",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "entretien",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "hygiène",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "allée centrale",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "emballés",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "emballage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "caisse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "queue",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "caisses automatiques",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "124",
+      "translation": ""
+    },
+    {
+      "word": "pack",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "bouteilles",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "litre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "kilo",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "500 grammes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "livre",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "poids",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "peser",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "morceau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "tranche",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "douzaine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "demi-douzaine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "barquette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "paquet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "pot",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "boîte",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "tube",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "tablette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "flacon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "assiette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "verre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "125",
+      "translation": ""
+    },
+    {
+      "word": "payer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "régler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "en liquide",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "en espèces",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "argent",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "pièces",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "billets",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "carte",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "carte bleue",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "chèque",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "euro",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "centimes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "10 euros 50",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "me rend la monnaie",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "Faire de la monnaie",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "Combien ça coûte ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "C’est combien ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "C’est 10,50 €.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "Ça coûte 10,50 €.",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "cher",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "bon marché",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "promotion",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "saisis",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "date d’expiration",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "valide",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "shopping",
+      "source_page": "127",
+      "translation": ""
+    },
+    {
+      "word": "en vacances",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "vacances",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "pars en voyage",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "à la mer",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "bord",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "à la montagne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "à la campagne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "Je me repose",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "bronze",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "plage",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "Je visite",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "monuments",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "musées",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "parcs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "Je me promène",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "balades",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "nature",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "forêt",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "montagne",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "sports d’hiver",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "skier",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "nage",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "plongée sous-marine",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "pêche",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "voile",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "fête",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "valise",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "131",
+      "translation": ""
+    },
+    {
+      "word": "touriste",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en Europe",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en Asie",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en Afrique",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en Océanie",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en Amérique du Sud",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en Amérique du Nord",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en Antarctique",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en avion",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en train",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en voiture",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en bus",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "en bateau",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "aller-retour",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "départ",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "arrivée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "aéroport",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "gare",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "gare routière",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "port",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "renseignements",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "dépliants",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "brochures",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "office de tourisme",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "guide",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "visite guidée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "paysages",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "lacs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "rivières",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "plages",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "dunes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "forêts",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "falaises",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "îles",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "La spécialité de + nom de ville ou de région, c’est + nom de la spécialité",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "La spécialité de Bruxelles, c’est les moules-frites.",
+      "topic": "vacation",
+      "source_page": "133",
+      "translation": ""
+    },
+    {
+      "word": "aller à l’hôtel",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "louer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "chambre d’hôte",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "faire du camping",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "tente",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "réserve une chambre",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "nuits",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "petit-déjeuner",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "lit double",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "deux lits simples",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "salle de bains",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "serviettes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "5 étoiles",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "individuel",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "groupe",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "organisé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "agence",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "séjour",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "circuit",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "itinéraire",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "sites touristiques",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "demi-pension",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "pension complète",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "passeport",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "visa",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "vaccins",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "changer de l’argent",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "souvenir",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "vacation",
+      "source_page": "135",
+      "translation": ""
+    },
+    {
+      "word": "soleil",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "nuages",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "Il pleut",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "pluie",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "grêle",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "neige",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "neige",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "gèle",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "vent",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "brouillard",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "tempête",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "orage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "éclairs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "tonnerre",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "beau",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "mauvais",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "bleu",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "gris",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "nuageux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "couvert",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "dégagé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "ensoleillé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "chaud",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "froid",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "bon",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "doux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "frais",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "bulletin météo",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    },
+    {
+      "word": "météo",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "weather",
+      "source_page": "137",
+      "translation": ""
+    }
+  ]
+}

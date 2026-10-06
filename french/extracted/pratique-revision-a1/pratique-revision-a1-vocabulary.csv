@@ -1,0 +1,1622 @@
+﻿collection,word,translation,article,gender,plural,word_class,example,topic,source_page
+pratique-revision-a1,consonnes,,,,,noun,,personal-info,003
+pratique-revision-a1,lettres,,,,,noun,,personal-info,003
+pratique-revision-a1,majuscule,,,,,noun,,personal-info,003
+pratique-revision-a1,minuscule,,,,,noun,,personal-info,003
+pratique-revision-a1,voyelles,,,,,noun,,personal-info,003
+pratique-revision-a1,épeler,,,,,verb,,personal-info,003
+pratique-revision-a1,accent aigu,,l’,,,noun,On dit : « e accent aigu ».,personal-info,004
+pratique-revision-a1,accent circonflexe,,l’,,,noun,"On dit : « a accent circonflexe », « e accent circonflexe », « i accent circonflexe », etc.",personal-info,004
+pratique-revision-a1,accent grave,,l’,,,noun,"On dit : « e accent grave », « a accent grave » et « u accent grave ».",personal-info,004
+pratique-revision-a1,tréma,,le,,,noun,"On dit : « e tréma », « i tréma » et « u tréma ».",personal-info,004
+pratique-revision-a1,adresse e-mail,,l’,,,noun,,personal-info,005
+pratique-revision-a1,arobase,,,,,noun,,personal-info,005
+pratique-revision-a1,at,,,,,noun,,personal-info,005
+pratique-revision-a1,courriel,,,,,noun,,personal-info,005
+pratique-revision-a1,deux-points,,,,,noun,,personal-info,005
+pratique-revision-a1,point,,,,,noun,,personal-info,005
+pratique-revision-a1,slash,,,,,noun,,personal-info,005
+pratique-revision-a1,tiret,,,,,noun,,personal-info,005
+pratique-revision-a1,tiret bas,,,,,noun,,personal-info,005
+pratique-revision-a1,cinq,,,,,other,,personal-info,006
+pratique-revision-a1,deux,,,,,other,,personal-info,006
+pratique-revision-a1,dix,,,,,other,,personal-info,006
+pratique-revision-a1,dix-huit,,,,,other,,personal-info,006
+pratique-revision-a1,dix-neuf,,,,,other,,personal-info,006
+pratique-revision-a1,dix-sept,,,,,other,,personal-info,006
+pratique-revision-a1,douze,,,,,other,,personal-info,006
+pratique-revision-a1,huit,,,,,other,,personal-info,006
+pratique-revision-a1,neuf,,,,,other,,personal-info,006
+pratique-revision-a1,onze,,,,,other,,personal-info,006
+pratique-revision-a1,quatorze,,,,,other,,personal-info,006
+pratique-revision-a1,quatre,,,,,other,,personal-info,006
+pratique-revision-a1,quinze,,,,,other,,personal-info,006
+pratique-revision-a1,seize,,,,,other,,personal-info,006
+pratique-revision-a1,sept,,,,,other,,personal-info,006
+pratique-revision-a1,six,,,,,other,,personal-info,006
+pratique-revision-a1,treize,,,,,other,,personal-info,006
+pratique-revision-a1,trois,,,,,other,,personal-info,006
+pratique-revision-a1,un,,,,,other,,personal-info,006
+pratique-revision-a1,vingt,,,,,other,,personal-info,006
+pratique-revision-a1,zéro,,,,,other,,personal-info,006
+pratique-revision-a1,cent,,,,,other,,personal-info,008
+pratique-revision-a1,cinquante,,,,,other,,personal-info,008
+pratique-revision-a1,cinquante-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,huitante,,,,,other,,personal-info,008
+pratique-revision-a1,huitante-deux,,,,,other,,personal-info,008
+pratique-revision-a1,huitante-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,nonante,,,,,other,,personal-info,008
+pratique-revision-a1,nonante-deux,,,,,other,,personal-info,008
+pratique-revision-a1,nonante-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,quarante,,,,,other,,personal-info,008
+pratique-revision-a1,quarante-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,quatre-vingt-deux,,,,,other,,personal-info,008
+pratique-revision-a1,quatre-vingt-dix,,,,,other,,personal-info,008
+pratique-revision-a1,quatre-vingt-douze,,,,,other,,personal-info,008
+pratique-revision-a1,quatre-vingt-onze,,,,,other,,personal-info,008
+pratique-revision-a1,quatre-vingt-un,,,,,other,,personal-info,008
+pratique-revision-a1,quatre-vingts,,,,,other,,personal-info,008
+pratique-revision-a1,septante,,,,,other,,personal-info,008
+pratique-revision-a1,septante-deux,,,,,other,,personal-info,008
+pratique-revision-a1,septante-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,soixante,,,,,other,,personal-info,008
+pratique-revision-a1,soixante-dix,,,,,other,,personal-info,008
+pratique-revision-a1,soixante-douze,,,,,other,,personal-info,008
+pratique-revision-a1,soixante-et-onze,,,,,other,,personal-info,008
+pratique-revision-a1,soixante-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,trente,,,,,other,,personal-info,008
+pratique-revision-a1,trente-deux,,,,,other,,personal-info,008
+pratique-revision-a1,trente-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-cinq,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-deux,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-et-un,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-huit,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-neuf,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-quatre,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-sept,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-six,,,,,other,,personal-info,008
+pratique-revision-a1,vingt-trois,,,,,other,,personal-info,008
+pratique-revision-a1,cent,,,,,other,,personal-info,010
+pratique-revision-a1,cent mille,,,,,other,,personal-info,010
+pratique-revision-a1,cinq cents,,,,,other,,personal-info,010
+pratique-revision-a1,deux cent un,,,,,other,,personal-info,010
+pratique-revision-a1,deux cents,,,,,other,,personal-info,010
+pratique-revision-a1,deux millions,,,,,other,,personal-info,010
+pratique-revision-a1,dix mille,,,,,other,,personal-info,010
+pratique-revision-a1,huit cents,,,,,other,,personal-info,010
+pratique-revision-a1,mille,,,,,other,,personal-info,010
+pratique-revision-a1,neuf cents,,,,,other,,personal-info,010
+pratique-revision-a1,quatre cents,,,,,other,,personal-info,010
+pratique-revision-a1,sept cents,,,,,other,,personal-info,010
+pratique-revision-a1,six cents,,,,,other,,personal-info,010
+pratique-revision-a1,trois cents,,,,,other,,personal-info,010
+pratique-revision-a1,un milliard,,,,,other,,personal-info,010
+pratique-revision-a1,un million,,,,,other,,personal-info,010
+pratique-revision-a1,Au revoir !,,,,,phrase,,personal-info,013
+pratique-revision-a1,"Au revoir, bonne journée !",,,,,phrase,,personal-info,013
+pratique-revision-a1,"Au revoir, bonne soirée !",,,,,phrase,,personal-info,013
+pratique-revision-a1,"Bien merci, et vous ?",,,,,phrase,,personal-info,013
+pratique-revision-a1,"Bien, merci, et toi ?",,,,,phrase,,personal-info,013
+pratique-revision-a1,bonjour,,,,,other,,personal-info,013
+pratique-revision-a1,"Bonjour, Madame",,,,,phrase,,personal-info,013
+pratique-revision-a1,"Bonjour, Monsieur",,,,,phrase,,personal-info,013
+pratique-revision-a1,bonsoir,,,,,other,,personal-info,013
+pratique-revision-a1,"Bonsoir, Madame",,,,,phrase,,personal-info,013
+pratique-revision-a1,"Bonsoir, Monsieur",,,,,phrase,,personal-info,013
+pratique-revision-a1,Bye !,,,,,other,,personal-info,013
+pratique-revision-a1,Ciao !,,,,,other,,personal-info,013
+pratique-revision-a1,Comment ça va ?,,,,,phrase,,personal-info,013
+pratique-revision-a1,coucou,,,,,other,,personal-info,013
+pratique-revision-a1,salut,,,,,other,,personal-info,013
+pratique-revision-a1,À bientôt !,,,,,phrase,,personal-info,013
+pratique-revision-a1,à ce soir,,,,,phrase,,personal-info,013
+pratique-revision-a1,à demain,,,,,phrase,,personal-info,013
+pratique-revision-a1,à lundi,,,,,phrase,,personal-info,013
+pratique-revision-a1,à mardi,,,,,phrase,,personal-info,013
+pratique-revision-a1,À plus tard !,,,,,phrase,,personal-info,013
+pratique-revision-a1,"Ça va (très) bien, et toi ?",,,,,phrase,,personal-info,013
+pratique-revision-a1,"Ça va (très) bien, et vous ?",,,,,phrase,,personal-info,013
+pratique-revision-a1,Ça va ?,,,,,phrase,,personal-info,013
+pratique-revision-a1,"Ça va, et toi ?",,,,,phrase,,personal-info,013
+pratique-revision-a1,"Ça va, et vous ?",,,,,phrase,,personal-info,013
+pratique-revision-a1,Bienvenue,,,,,other,,personal-info,015
+pratique-revision-a1,Ce n’est pas grave !,,,,,phrase,,personal-info,015
+pratique-revision-a1,Ce n’est rien,,,,,phrase,,personal-info,015
+pratique-revision-a1,De rien,,,,,phrase,,personal-info,015
+pratique-revision-a1,Excuse-moi,,,,,phrase,,personal-info,015
+pratique-revision-a1,Excusez-moi,,,,,phrase,,personal-info,015
+pratique-revision-a1,Il n’y a pas de quoi !,,,,,phrase,,personal-info,015
+pratique-revision-a1,Je suis désolé(e),,,,,phrase,,personal-info,015
+pratique-revision-a1,Je t’en prie,,,,,phrase,,personal-info,015
+pratique-revision-a1,Je vous en prie,,,,,phrase,,personal-info,015
+pratique-revision-a1,Merci,,,,,other,,personal-info,015
+pratique-revision-a1,Merci beaucoup,,,,,phrase,,personal-info,015
+pratique-revision-a1,Merci pour votre attention,,,,,phrase,,personal-info,015
+pratique-revision-a1,Pardon,,,,,other,,personal-info,015
+pratique-revision-a1,remercier,,,,,verb,,personal-info,015
+pratique-revision-a1,s’excuser,,,,,verb,,personal-info,015
+pratique-revision-a1,S’il te plaît,,,,,phrase,,personal-info,015
+pratique-revision-a1,S’il vous plaît,,,,,phrase,,personal-info,015
+pratique-revision-a1,Ça ne fait rien,,,,,phrase,,personal-info,015
+pratique-revision-a1,Bienvenue !,,,,,other,,personal-info,016
+pratique-revision-a1,Bienvenue chez moi !,,,,,phrase,,personal-info,016
+pratique-revision-a1,Bienvenue dans le groupe,,,,,phrase,,personal-info,016
+pratique-revision-a1,bon,,,,,adjective,,personal-info,016
+pratique-revision-a1,Bon anniversaire !,,,,,phrase,,personal-info,016
+pratique-revision-a1,Bon appétit !,,,,,phrase,,personal-info,016
+pratique-revision-a1,Bon voyage !,,,,,phrase,,personal-info,016
+pratique-revision-a1,Bonnes vacances !,,,,,phrase,,personal-info,016
+pratique-revision-a1,Tu es le/la bienvenu(e) !,,,,,phrase,,personal-info,016
+pratique-revision-a1,Vous êtes le/la bienvenu(e) !,,,,,phrase,,personal-info,016
+pratique-revision-a1,On peut se dire « tu » ?,,,,,phrase,,personal-info,017
+pratique-revision-a1,On peut se tutoyer ?,,,,,phrase,,personal-info,017
+pratique-revision-a1,tu,,,,,other,,personal-info,017
+pratique-revision-a1,tutoyer,,,,,verb,,personal-info,017
+pratique-revision-a1,vous,,,,,other,,personal-info,017
+pratique-revision-a1,vouvoyer,,,,,verb,,personal-info,017
+pratique-revision-a1,Comment tu t’appelles ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,Comment vous vous appelez ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,Comment ça s’écrit ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,Enchanté(e).,,,,,other,,personal-info,018
+pratique-revision-a1,je me présente,,,,,phrase,,personal-info,018
+pratique-revision-a1,Je m’appelle Emma Fornaro.,,,,,phrase,,personal-info,018
+pratique-revision-a1,Je m’appelle Emma.,,,,,phrase,,personal-info,018
+pratique-revision-a1,"Je m’appelle Raffaelle Mori, et toi ?",,,,,phrase,,personal-info,018
+pratique-revision-a1,"Je m’appelle Raffaelle Mori, et vous ?",,,,,phrase,,personal-info,018
+pratique-revision-a1,Je suis Emma Fornaro.,,,,,phrase,,personal-info,018
+pratique-revision-a1,Je suis Emma.,,,,,phrase,,personal-info,018
+pratique-revision-a1,Je te présente,,,,,phrase,"Je te présente Geza, un ami.",personal-info,018
+pratique-revision-a1,Je vous présente,,,,,phrase,"Je vous présente Willy Ricci, le responsable formation.",personal-info,018
+pratique-revision-a1,nom,,,,,noun,,personal-info,018
+pratique-revision-a1,prénom,,,,,noun,,personal-info,018
+pratique-revision-a1,Quel est ton nom ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,Quel est ton prénom ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,Quel est votre nom ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,Quel est votre prénom ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,Ravi(e) de faire ta connaissance.,,,,,phrase,,personal-info,018
+pratique-revision-a1,Ravi(e) de faire votre connaissance.,,,,,phrase,,personal-info,018
+pratique-revision-a1,Ravi(e) de te connaître.,,,,,phrase,,personal-info,018
+pratique-revision-a1,Ravi(e) de vous connaître.,,,,,phrase,,personal-info,018
+pratique-revision-a1,"Tu peux épeler, s’il te plaît ?",,,,,phrase,,personal-info,018
+pratique-revision-a1,"Vous pouvez épeler, s’il vous plaît ?",,,,,phrase,,personal-info,018
+pratique-revision-a1,Ça s’écrit comment ?,,,,,phrase,,personal-info,018
+pratique-revision-a1,épeler,,,,,verb,,personal-info,018
+pratique-revision-a1,adresse,,l’,,,noun,,personal-info,020
+pratique-revision-a1,code postal,,le,,,noun,,personal-info,020
+pratique-revision-a1,date de naissance,,la,,,noun,,personal-info,020
+pratique-revision-a1,Je suis né(e) le 22 novembre 1998.,,,,,phrase,,personal-info,020
+pratique-revision-a1,J’ai 35 ans.,,,,,phrase,,personal-info,020
+pratique-revision-a1,J’habite,,,,,phrase,J’habite à Avignon.,personal-info,020
+pratique-revision-a1,"J’habite 12, rue de la paix.",,,,,phrase,,personal-info,020
+pratique-revision-a1,Le 22 novembre 1998.,,,,,phrase,,personal-info,020
+pratique-revision-a1,M.,,,,,other,,personal-info,020
+pratique-revision-a1,Madame,,,,,noun,,personal-info,020
+pratique-revision-a1,Mme,,,,,other,,personal-info,020
+pratique-revision-a1,Monsieur,,,,,noun,,personal-info,020
+pratique-revision-a1,nom de la rue,,le,,,noun,,personal-info,020
+pratique-revision-a1,numéro,,le,,,noun,,personal-info,020
+pratique-revision-a1,Où habitez-vous ?,,,,,phrase,,personal-info,020
+pratique-revision-a1,pays,,le,,,noun,,personal-info,020
+pratique-revision-a1,Quelle est votre adresse ?,,,,,phrase,,personal-info,020
+pratique-revision-a1,Quelle est votre date de naissance ?,,,,,phrase,,personal-info,020
+pratique-revision-a1,Tu as quel âge ?,,,,,phrase,,personal-info,020
+pratique-revision-a1,ville,,la,,,noun,,personal-info,020
+pratique-revision-a1,Vous avez quel âge ?,,,,,phrase,,personal-info,020
+pratique-revision-a1,âge,,l’,,,noun,,personal-info,020
+pratique-revision-a1,avec ou sans enfants,,,,,phrase,,personal-info,021
+pratique-revision-a1,célibataire,,,,,adjective,,personal-info,021
+pratique-revision-a1,divorcée,,,,,adjective,,personal-info,021
+pratique-revision-a1,mariée,,,,,adjective,,personal-info,021
+pratique-revision-a1,"Non, je n’en ai pas.",,,,,phrase,,personal-info,021
+pratique-revision-a1,"Oui, j’en ai un, deux, trois…",,,,,phrase,,personal-info,021
+pratique-revision-a1,séparée,,,,,adjective,,personal-info,021
+pratique-revision-a1,veuve,,,,,adjective,,personal-info,021
+pratique-revision-a1,Vous avez des enfants ?,,,,,phrase,,personal-info,021
+pratique-revision-a1,Ça ne vous regarde pas,,,,,phrase,,personal-info,021
+pratique-revision-a1,état civil,,,,,noun,,personal-info,021
+pratique-revision-a1,canadien,,,,,adjective,Il est canadien.,personal-info,022
+pratique-revision-a1,canadienne,,,,,adjective,Elle est canadienne.,personal-info,022
+pratique-revision-a1,chinois,,,,,adjective,Il est chinois.,personal-info,022
+pratique-revision-a1,chinoise,,,,,adjective,Elle est chinoise.,personal-info,022
+pratique-revision-a1,français,,,,,adjective,Il est français.,personal-info,022
+pratique-revision-a1,française,,,,,adjective,Elle est française.,personal-info,022
+pratique-revision-a1,Il vient de Chine.,,,,,phrase,,personal-info,022
+pratique-revision-a1,Il vient de France.,,,,,phrase,,personal-info,022
+pratique-revision-a1,Il vient du Canada.,,,,,phrase,,personal-info,022
+pratique-revision-a1,Il vient du Sénégal.,,,,,phrase,,personal-info,022
+pratique-revision-a1,Il vient d’Italie.,,,,,phrase,,personal-info,022
+pratique-revision-a1,italien,,,,,adjective,Il est italien.,personal-info,022
+pratique-revision-a1,italienne,,,,,adjective,Elle est italienne.,personal-info,022
+pratique-revision-a1,sénégalais,,,,,adjective,Il est sénégalais.,personal-info,022
+pratique-revision-a1,sénégalaise,,,,,adjective,Elle est sénégalaise.,personal-info,022
+pratique-revision-a1,anglais,,,,,noun,,personal-info,023
+pratique-revision-a1,français,,,,,noun,,personal-info,023
+pratique-revision-a1,italien,,,,,noun,,personal-info,023
+pratique-revision-a1,"Je parle français, anglais et italien.",,,,,phrase,,personal-info,023
+pratique-revision-a1,langue,,la,,,noun,,personal-info,023
+pratique-revision-a1,portugais,,,,,noun,,personal-info,023
+pratique-revision-a1,Tu parles quelles langues ?,,,,,phrase,,personal-info,023
+pratique-revision-a1,Vous parlez français ?,,,,,phrase,,personal-info,023
+pratique-revision-a1,artisan(e),,un(e),,,noun,,personal-info,024
+pratique-revision-a1,artiste,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,auteur/autrice,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,boucher/bouchère,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,boulanger/boulangère,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,chanteur/chanteuse,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,chauffeur/chauffeuse,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,chef(fe),,un(e),,,noun,,personal-info,024
+pratique-revision-a1,chef(fe) cuisinier/cuisinière,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,chirurgien(ne),,un(e),,,noun,,personal-info,024
+pratique-revision-a1,commerçant(e),,un(e),,,noun,,personal-info,024
+pratique-revision-a1,conducteur/conductrice,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,cuisinier/cuisinière,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,demander la profession,,,,,phrase,,personal-info,024
+pratique-revision-a1,dire la profession,,,,,phrase,,personal-info,024
+pratique-revision-a1,docteur,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,fleuriste,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,garagiste,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,guide,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,infirmier/infirmière,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,instituteur/institutrice,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,médecin,,un(e),,,noun,Il est médecin.,personal-info,024
+pratique-revision-a1,peintre,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,pharmacien(ne),,un(e),,,noun,,personal-info,024
+pratique-revision-a1,photographe,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,pilote,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,poissonnier/poissonnière,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,policier/policière,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,pompier/pompière,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,professeur(e),,un(e),,,noun,Je suis professeur(e).,personal-info,024
+pratique-revision-a1,pâtissier/pâtissière,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,Quel est ton métier ?,,,,,phrase,,personal-info,024
+pratique-revision-a1,Quel est votre métier ?,,,,,phrase,,personal-info,024
+pratique-revision-a1,Quelle est ta profession ?,,,,,phrase,,personal-info,024
+pratique-revision-a1,Quelle est votre profession ?,,,,,phrase,,personal-info,024
+pratique-revision-a1,Qu’est-ce que tu fais dans la vie ?,,,,,phrase,,personal-info,024
+pratique-revision-a1,Qu’est-ce que vous faites dans la vie ?,,,,,phrase,,personal-info,024
+pratique-revision-a1,responsable,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,serveur/serveuse,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,vendeur/vendeuse,,un(e),,,noun,,personal-info,024
+pratique-revision-a1,enfants,,les,,,noun,,family,028
+pratique-revision-a1,fille,,la,,,noun,,family,028
+pratique-revision-a1,fils,,le,,,noun,,family,028
+pratique-revision-a1,frère,,le,,,noun,,family,028
+pratique-revision-a1,grand-mère maternelle,,la,,,noun,,family,028
+pratique-revision-a1,grand-mère paternelle,,la,,,noun,,family,028
+pratique-revision-a1,grand-père maternel,,le,,,noun,,family,028
+pratique-revision-a1,grand-père paternel,,le,,,noun,,family,028
+pratique-revision-a1,grands-parents,,les,,,noun,,family,028
+pratique-revision-a1,mère,,la,,,noun,,family,028
+pratique-revision-a1,parents,,les,,,noun,,family,028
+pratique-revision-a1,petit-fils,,le,,,noun,,family,028
+pratique-revision-a1,petite-fille,,la,,,noun,,family,028
+pratique-revision-a1,petits-enfants,,les,,,noun,,family,028
+pratique-revision-a1,père,,le,,,noun,,family,028
+pratique-revision-a1,sœur,,la,,,noun,,family,028
+pratique-revision-a1,beau-fils,,,,,noun,,family,030
+pratique-revision-a1,beau-frère,,,,,noun,,family,030
+pratique-revision-a1,beau-père,,,,,noun,,family,030
+pratique-revision-a1,beaux-parents,,,,,noun,,family,030
+pratique-revision-a1,belle-famille,,la,,,noun,,family,030
+pratique-revision-a1,belle-fille,,,,,noun,,family,030
+pratique-revision-a1,belle-mère,,,,,noun,,family,030
+pratique-revision-a1,belle-sœur,,,,,noun,,family,030
+pratique-revision-a1,bru,,,,,noun,,family,030
+pratique-revision-a1,couple,,un,,,noun,,family,030
+pratique-revision-a1,cousin(e),,,,,noun,,family,030
+pratique-revision-a1,cousins,,les,,,noun,,family,030
+pratique-revision-a1,femme,,la,,,noun,,family,030
+pratique-revision-a1,fille,,,,,noun,,family,030
+pratique-revision-a1,fille unique,,,,,noun,,family,030
+pratique-revision-a1,fils,,,,,noun,,family,030
+pratique-revision-a1,grands-parents,,,,,noun,,family,030
+pratique-revision-a1,jumeaux,,des,,,noun,,family,030
+pratique-revision-a1,mari,,le,,,noun,,family,030
+pratique-revision-a1,mariée,,,,,adjective,,family,030
+pratique-revision-a1,neveu,,,,,noun,,family,030
+pratique-revision-a1,nièce,,,,,noun,,family,030
+pratique-revision-a1,oncle,,l’,,,noun,,family,030
+pratique-revision-a1,parents,,,,,noun,,family,030
+pratique-revision-a1,sœur,,,,,noun,,family,030
+pratique-revision-a1,tante,,la,,,noun,,family,030
+pratique-revision-a1,beau-père,,le,,,noun,,family,032
+pratique-revision-a1,belle-mère,,la,,,noun,,family,032
+pratique-revision-a1,demi-frères,,,,,noun,,family,032
+pratique-revision-a1,demi-sœurs,,,,,noun,,family,032
+pratique-revision-a1,famille monoparentale,,,,,noun,,family,032
+pratique-revision-a1,recomposée,,,,,adjective,,family,032
+pratique-revision-a1,élevés,,,,,verb,,family,032
+pratique-revision-a1,ami,,un,,amis,noun,,family,034
+pratique-revision-a1,amie,,une,,,noun,,family,034
+pratique-revision-a1,amitié,,l’,,,noun,,family,034
+pratique-revision-a1,collègues,,les,,,noun,,family,034
+pratique-revision-a1,compagne,,,,,noun,,family,034
+pratique-revision-a1,compagnon,,,,,noun,,family,034
+pratique-revision-a1,copain,,,,copains,noun,,family,034
+pratique-revision-a1,copain-copine,,,,,noun,,family,034
+pratique-revision-a1,copine,,,,,noun,,family,034
+pratique-revision-a1,devient,,,,,verb,,family,034
+pratique-revision-a1,entourage,,l’,,,noun,,family,034
+pratique-revision-a1,fréquente,,,,,verb,,family,034
+pratique-revision-a1,partage de bons moments,,,,,phrase,,family,034
+pratique-revision-a1,petit(e)-ami(e),,,,,noun,,family,034
+pratique-revision-a1,rencontre,,,,,verb,,family,034
+pratique-revision-a1,se faire,,,,,verb,,family,034
+pratique-revision-a1,tomber amoureux,,,,,phrase,,family,034
+pratique-revision-a1,voisin,,,,voisins,noun,,family,034
+pratique-revision-a1,voisine,,,,,noun,,family,034
+pratique-revision-a1,ailes,,des,,,noun,,family,036
+pratique-revision-a1,bec,,un,,,noun,,family,036
+pratique-revision-a1,chat,,un,,,noun,,family,036
+pratique-revision-a1,chaton,,un,,,noun,,family,036
+pratique-revision-a1,chatte,,la,,,noun,,family,036
+pratique-revision-a1,chien,,un,,,noun,,family,036
+pratique-revision-a1,chiot,,un,,,noun,,family,036
+pratique-revision-a1,femelle,,la,,,noun,,family,036
+pratique-revision-a1,lapin,,un,,,noun,,family,036
+pratique-revision-a1,museau,,un,,,noun,,family,036
+pratique-revision-a1,mâle,,le,,,noun,,family,036
+pratique-revision-a1,nageoires,,des,,,noun,,family,036
+pratique-revision-a1,oiseau,,un,,,noun,,family,036
+pratique-revision-a1,pattes,,,,,noun,,family,036
+pratique-revision-a1,plumes,,des,,,noun,,family,036
+pratique-revision-a1,poils,,des,,,noun,,family,036
+pratique-revision-a1,poisson,,un,,,noun,,family,036
+pratique-revision-a1,bouche,,la,,,noun,,family,037
+pratique-revision-a1,cheveux,,les,,,noun,,family,037
+pratique-revision-a1,cils,,les,,,noun,,family,037
+pratique-revision-a1,dents,,les,,,noun,,family,037
+pratique-revision-a1,front,,le,,,noun,,family,037
+pratique-revision-a1,joue,,la,,,noun,,family,037
+pratique-revision-a1,langue,,la,,,noun,,family,037
+pratique-revision-a1,lèvres,,les,,,noun,,family,037
+pratique-revision-a1,menton,,le,,,noun,,family,037
+pratique-revision-a1,nez,,le,,,noun,,family,037
+pratique-revision-a1,oreilles,,les,,,noun,,family,037
+pratique-revision-a1,paupières,,les,,,noun,,family,037
+pratique-revision-a1,sourcils,,les,,,noun,,family,037
+pratique-revision-a1,yeux,,les,,,noun,,family,037
+pratique-revision-a1,œil,,l’,,,noun,,family,037
+pratique-revision-a1,bras,,le,,,noun,,family,040
+pratique-revision-a1,cheville,,la,,,noun,,family,040
+pratique-revision-a1,cou,,le,,,noun,,family,040
+pratique-revision-a1,coude,,le,,,noun,,family,040
+pratique-revision-a1,cuisse,,la,,,noun,,family,040
+pratique-revision-a1,doigt,,le,,,noun,,family,040
+pratique-revision-a1,dos,,le,,,noun,,family,040
+pratique-revision-a1,fesses,,les,,,noun,,family,040
+pratique-revision-a1,genou,,le,,,noun,,family,040
+pratique-revision-a1,hanches,,les,,,noun,,family,040
+pratique-revision-a1,jambe,,la,,,noun,,family,040
+pratique-revision-a1,main,,la,,,noun,,family,040
+pratique-revision-a1,mollet,,le,,,noun,,family,040
+pratique-revision-a1,ongle,,un,,,noun,,family,040
+pratique-revision-a1,orteil,,l’,,,noun,,family,040
+pratique-revision-a1,pied,,le,,,noun,,family,040
+pratique-revision-a1,poignet,,le,,,noun,,family,040
+pratique-revision-a1,talon,,le,,,noun,,family,040
+pratique-revision-a1,ventre,,le,,,noun,,family,040
+pratique-revision-a1,épaule,,l’,,,noun,,family,040
+pratique-revision-a1,barbe,,une,,,noun,"Il a une barbe, une moustache. Il est rasé.",family,042
+pratique-revision-a1,blancs,,,,,adjective,"Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",family,042
+pratique-revision-a1,bleus,,,,,adjective,"Il/Elle a les yeux marron, bleus, verts, noirs.",family,042
+pratique-revision-a1,blonds,,,,,adjective,"Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",family,042
+pratique-revision-a1,bruns,,,,,adjective,"Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",family,042
+pratique-revision-a1,châtains,,,,,adjective,"Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",family,042
+pratique-revision-a1,courts,,,,,adjective,"Il/Elle a les cheveux courts, longs, raides, frisés.",family,042
+pratique-revision-a1,frisés,,,,,adjective,"Il/Elle a les cheveux courts, longs, raides, frisés.",family,042
+pratique-revision-a1,gris,,,,,adjective,"Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",family,042
+pratique-revision-a1,longs,,,,,adjective,"Il/Elle a les cheveux courts, longs, raides, frisés.",family,042
+pratique-revision-a1,lunettes,,des,,,noun,Il/Elle porte des lunettes.,family,042
+pratique-revision-a1,marron,,,,,adjective,"Il/Elle a les yeux marron, bleus, verts, noirs.",family,042
+pratique-revision-a1,moustache,,une,,,noun,"Il a une barbe, une moustache. Il est rasé.",family,042
+pratique-revision-a1,noirs,,,,,adjective,"Il/Elle a les yeux marron, bleus, verts, noirs.",family,042
+pratique-revision-a1,raides,,,,,adjective,"Il/Elle a les cheveux courts, longs, raides, frisés.",family,042
+pratique-revision-a1,rasé,,,,,adjective,"Il a une barbe, une moustache. Il est rasé.",family,042
+pratique-revision-a1,roux,,,,,adjective,"Il/Elle a les cheveux blonds, bruns (= noirs), châtains (marron), roux (orange), gris, blancs.",family,042
+pratique-revision-a1,verts,,,,,adjective,"Il/Elle a les yeux marron, bleus, verts, noirs.",family,042
+pratique-revision-a1,aspect,,l’,,,noun,,family,044
+pratique-revision-a1,beau,,,,,adjective,"Il est beau, mignon, joli.",family,044
+pratique-revision-a1,belle,,,,,adjective,"Elle est belle, mignonne, jolie.",family,044
+pratique-revision-a1,fait,,,,,verb,Elle fait 1m50. Elle est petite.,family,044
+pratique-revision-a1,fort,,,,,adjective,Il est fort et musclé.,family,044
+pratique-revision-a1,forte,,,,,adjective,Elle est forte et musclée.,family,044
+pratique-revision-a1,grand,,,,,adjective,Il est grand.,family,044
+pratique-revision-a1,grande,,,,,adjective,"Elle est grande, elle mesure 1m80 ; elle fait 1m80.",family,044
+pratique-revision-a1,gros,,,,,adjective,"Il est rond, gros.",family,044
+pratique-revision-a1,grosse,,,,,adjective,"Elle est ronde, grosse.",family,044
+pratique-revision-a1,jeune,,,,,adjective,Il est jeune.,family,044
+pratique-revision-a1,joli,,,,,adjective,"Il est beau, mignon, joli.",family,044
+pratique-revision-a1,jolie,,,,,adjective,"Elle est belle, mignonne, jolie.",family,044
+pratique-revision-a1,laid,,,,,adjective,"Il est laid, moche (familier).",family,044
+pratique-revision-a1,laide,,,,,adjective,"Elle est laide, moche (familier).",family,044
+pratique-revision-a1,mesure,,,,,verb,"Il est petit, il mesure 1m50.",family,044
+pratique-revision-a1,mignon,,,,,adjective,"Il est beau, mignon, joli.",family,044
+pratique-revision-a1,mignonne,,,,,adjective,"Elle est belle, mignonne, jolie.",family,044
+pratique-revision-a1,mince,,,,,adjective,"Il est mince, il pèse 50 kg.",family,044
+pratique-revision-a1,moche,,,,,adjective,"Il est laid, moche (familier).",family,044
+pratique-revision-a1,moyenne,,,,,adjective,Il/Elle est de taille moyenne.,family,044
+pratique-revision-a1,musclé,,,,,adjective,Il est fort et musclé.,family,044
+pratique-revision-a1,musclée,,,,,adjective,Elle est forte et musclée.,family,044
+pratique-revision-a1,petit,,,,,adjective,"Il est petit, il mesure 1m50.",family,044
+pratique-revision-a1,petite,,,,,adjective,Elle fait 1m50. Elle est petite.,family,044
+pratique-revision-a1,poids,,le,,,noun,,family,044
+pratique-revision-a1,pèse,,,,,verb,"Il est mince, il pèse 50 kg.",family,044
+pratique-revision-a1,rond,,,,,adjective,"Il est rond, gros.",family,044
+pratique-revision-a1,ronde,,,,,adjective,"Elle est ronde, grosse.",family,044
+pratique-revision-a1,taille,,la,,,noun,,family,044
+pratique-revision-a1,vieille,,,,,adjective,"Elle est âgée, vieille.",family,044
+pratique-revision-a1,vieux,,,,,adjective,"Il est âgé, vieux.",family,044
+pratique-revision-a1,âge,,l’,,,noun,,family,044
+pratique-revision-a1,âgé,,,,,adjective,"Il est âgé, vieux.",family,044
+pratique-revision-a1,âgée,,,,,adjective,"Elle est âgée, vieille.",family,044
+pratique-revision-a1,a l’air calme,,,,,phrase,,family,045
+pratique-revision-a1,bavardes,,,,,adjective,,family,045
+pratique-revision-a1,bon caractère,,,,,phrase,,family,045
+pratique-revision-a1,contente,,,,,adjective,,family,045
+pratique-revision-a1,extraverties,,,,,adjective,,family,045
+pratique-revision-a1,gaie,,,,,adjective,,family,045
+pratique-revision-a1,heureuse,,,,,adjective,,family,045
+pratique-revision-a1,heureux,,,,,adjective,,family,045
+pratique-revision-a1,introverties,,,,,adjective,,family,045
+pratique-revision-a1,malheureuse,,,,,adjective,,family,045
+pratique-revision-a1,malheureux,,,,,adjective,,family,045
+pratique-revision-a1,mauvais caractère,,,,,phrase,,family,045
+pratique-revision-a1,nerveux,,,,,adjective,,family,045
+pratique-revision-a1,négatif,,,,,adjective,,family,045
+pratique-revision-a1,négative,,,,,adjective,,family,045
+pratique-revision-a1,optimiste,,,,,adjective,,family,045
+pratique-revision-a1,ouvertes,,,,,adjective,,family,045
+pratique-revision-a1,pessimiste,,,,,adjective,,family,045
+pratique-revision-a1,positif,,,,,adjective,,family,045
+pratique-revision-a1,positive,,,,,adjective,,family,045
+pratique-revision-a1,réservées,,,,,adjective,,family,045
+pratique-revision-a1,timides,,,,,adjective,,family,045
+pratique-revision-a1,tranquille,,,,,adjective,,family,045
+pratique-revision-a1,triste,,,,,adjective,,family,045
+pratique-revision-a1,adorable,,,,,adjective,"Masha est gentille, elle est adorable (= elle a des qualités de cœur).",family,046
+pratique-revision-a1,agréable,,,,,adjective,"Il/Elle est agréable. ≠ Il/Elle est antipathique, désagréable.",family,046
+pratique-revision-a1,antipathique,,,,,adjective,"Il/Elle est agréable. ≠ Il/Elle est antipathique, désagréable.",family,046
+pratique-revision-a1,blagues,,des,,,noun,,family,046
+pratique-revision-a1,bête,,,,,adjective,"Fatima est intelligente, elle est maline (= elle comprend vite). ≠ Elle est bête.",family,046
+pratique-revision-a1,drôle,,,,,adjective,"Peggy est drôle (= elle fait des blagues, elle amuse les autres) mais au contraire sa sœur Hélène est ennuyeuse (ennuyeux).",family,046
+pratique-revision-a1,défauts,,ses,,,noun,,family,046
+pratique-revision-a1,désagréable,,,,,adjective,"Il/Elle est agréable. ≠ Il/Elle est antipathique, désagréable.",family,046
+pratique-revision-a1,détestable,,,,,adjective,Igor est gentil / adorable. ≠ Il est méchant / détestable.,family,046
+pratique-revision-a1,ennuyeuse,,,,,adjective,"Peggy est drôle (= elle fait des blagues, elle amuse les autres) mais au contraire sa sœur Hélène est ennuyeuse (ennuyeux).",family,046
+pratique-revision-a1,ennuyeux,,,,,adjective,,family,046
+pratique-revision-a1,franc,,,,,adjective,"Clément dit toujours la vérité, il est franc (franche).",family,046
+pratique-revision-a1,franche,,,,,adjective,,family,046
+pratique-revision-a1,gentil,,,,,adjective,Igor est gentil / adorable. ≠ Il est méchant / détestable.,family,046
+pratique-revision-a1,gentille,,,,,adjective,"Masha est gentille, elle est adorable (= elle a des qualités de cœur).",family,046
+pratique-revision-a1,grossier,,,,,adjective,,family,046
+pratique-revision-a1,grossière,,,,,adjective,"Brandon est poli (= il a de bonnes manières) mais sa sœur Brenda est impolie, grossière (grossier).",family,046
+pratique-revision-a1,honnête,,,,,adjective,"On peut lui faire confiance, il est très honnête.",family,046
+pratique-revision-a1,hypocrite,,,,,adjective,"C’est le contraire de son frère André qui est menteur (menteuse) (= il dit des mensonges), hypocrite et malhonnête.",family,046
+pratique-revision-a1,impolie,,,,,adjective,"Brandon est poli (= il a de bonnes manières) mais sa sœur Brenda est impolie, grossière (grossier).",family,046
+pratique-revision-a1,intelligent,,,,,adjective,Nadir est intelligent / malin.,family,046
+pratique-revision-a1,intelligente,,,,,adjective,"Fatima est intelligente, elle est maline (= elle comprend vite). ≠ Elle est bête.",family,046
+pratique-revision-a1,malhonnête,,,,,adjective,"C’est le contraire de son frère André qui est menteur (menteuse) (= il dit des mensonges), hypocrite et malhonnête.",family,046
+pratique-revision-a1,malin,,,,,adjective,Nadir est intelligent / malin.,family,046
+pratique-revision-a1,maline,,,,,adjective,"Fatima est intelligente, elle est maline (= elle comprend vite). ≠ Elle est bête.",family,046
+pratique-revision-a1,menteur,,,,,adjective,"C’est le contraire de son frère André qui est menteur (menteuse) (= il dit des mensonges), hypocrite et malhonnête.",family,046
+pratique-revision-a1,menteuse,,,,,adjective,,family,046
+pratique-revision-a1,méchant,,,,,adjective,Igor est gentil / adorable. ≠ Il est méchant / détestable.,family,046
+pratique-revision-a1,poli,,,,,adjective,"Brandon est poli (= il a de bonnes manières) mais sa sœur Brenda est impolie, grossière (grossier).",family,046
+pratique-revision-a1,qualités,,ses,,,noun,,family,046
+pratique-revision-a1,sympa,,,,,adjective,"Kirsten est sympathique (= qui donne de l’amitié), elle est sympa (familier).",family,046
+pratique-revision-a1,sympathique,,,,,adjective,"Kirsten est sympathique (= qui donne de l’amitié), elle est sympa (familier).",family,046
+pratique-revision-a1,après-midi,,l’,,,noun,,daily-routine,050
+pratique-revision-a1,dors,,,,,verb,,daily-routine,050
+pratique-revision-a1,déjeune,,,,,verb,,daily-routine,050
+pratique-revision-a1,dîne,,,,,verb,,daily-routine,050
+pratique-revision-a1,en cours,,,,,phrase,,daily-routine,050
+pratique-revision-a1,enlève,,,,,verb,,daily-routine,050
+pratique-revision-a1,journée de travail,,,,,noun,,daily-routine,050
+pratique-revision-a1,matin,,le,,,noun,,daily-routine,050
+pratique-revision-a1,me brosse,,,,,verb,,daily-routine,050
+pratique-revision-a1,me coiffe,,,,,verb,,daily-routine,050
+pratique-revision-a1,me couche,,,,,verb,,daily-routine,050
+pratique-revision-a1,me douche,,,,,verb,,daily-routine,050
+pratique-revision-a1,me déshabille,,,,,verb,,daily-routine,050
+pratique-revision-a1,me lave,,,,,verb,,daily-routine,050
+pratique-revision-a1,me lève,,,,,verb,,daily-routine,050
+pratique-revision-a1,me prépare,,,,,verb,,daily-routine,050
+pratique-revision-a1,me repose,,,,,verb,,daily-routine,050
+pratique-revision-a1,me réveille,,,,,verb,,daily-routine,050
+pratique-revision-a1,mets,,,,,verb,,daily-routine,050
+pratique-revision-a1,midi (l’heure du midi),,le,,,noun,,daily-routine,050
+pratique-revision-a1,m’endors,,,,,verb,,daily-routine,050
+pratique-revision-a1,m’habille,,,,,verb,,daily-routine,050
+pratique-revision-a1,nuit,,la,,,noun,,daily-routine,050
+pratique-revision-a1,pars,,,,,verb,,daily-routine,050
+pratique-revision-a1,petit-déjeuner,,,,,noun,,daily-routine,050
+pratique-revision-a1,prends une douche,,,,,phrase,,daily-routine,050
+pratique-revision-a1,rentre,,,,,verb,,daily-routine,050
+pratique-revision-a1,se démaquillent,,,,,verb,,daily-routine,050
+pratique-revision-a1,se maquillent,,,,,verb,,daily-routine,050
+pratique-revision-a1,se préparer,,,,,verb,,daily-routine,050
+pratique-revision-a1,se rasent,,,,,verb,,daily-routine,050
+pratique-revision-a1,soir,,le,,,noun,,daily-routine,050
+pratique-revision-a1,travailler,,,,,verb,,daily-routine,050
+pratique-revision-a1,balaie,,,,,verb,,daily-routine,052
+pratique-revision-a1,cuisine,,,,,verb,,daily-routine,052
+pratique-revision-a1,cuisine,,la,,,noun,,daily-routine,052
+pratique-revision-a1,débarrasse la table,,,,,phrase,,daily-routine,052
+pratique-revision-a1,fait la poussière,,,,,phrase,,daily-routine,052
+pratique-revision-a1,fait la vaisselle,,,,,phrase,,daily-routine,052
+pratique-revision-a1,fait le lit,,,,,phrase,,daily-routine,052
+pratique-revision-a1,fait le ménage,,,,,phrase,,daily-routine,052
+pratique-revision-a1,fait les courses,,,,,phrase,,daily-routine,052
+pratique-revision-a1,lave,,,,,verb,,daily-routine,052
+pratique-revision-a1,linge,,du,,,noun,,daily-routine,052
+pratique-revision-a1,mettre la table,,,,,phrase,,daily-routine,052
+pratique-revision-a1,promène,,,,,verb,,daily-routine,052
+pratique-revision-a1,propre,,,,,adjective,,daily-routine,052
+pratique-revision-a1,range,,,,,verb,,daily-routine,052
+pratique-revision-a1,repasser,,,,,verb,,daily-routine,052
+pratique-revision-a1,vide les poubelles,,,,,phrase,,daily-routine,052
+pratique-revision-a1,en bus,,,,,phrase,,daily-routine,053
+pratique-revision-a1,en covoiturage,,,,,phrase,,daily-routine,053
+pratique-revision-a1,en métro,,,,,phrase,,daily-routine,053
+pratique-revision-a1,en train,,,,,phrase,,daily-routine,053
+pratique-revision-a1,en tram(way),,,,,phrase,,daily-routine,053
+pratique-revision-a1,en transports en commun,,,,,phrase,,daily-routine,053
+pratique-revision-a1,en voiture,,,,,phrase,,daily-routine,053
+pratique-revision-a1,train régional,,le,,,noun,,daily-routine,053
+pratique-revision-a1,à pied,,,,,phrase,,daily-routine,053
+pratique-revision-a1,à trottinette,,,,,phrase,,daily-routine,053
+pratique-revision-a1,à vélo,,,,,phrase,,daily-routine,053
+pratique-revision-a1,a besoin de/d’,,,,,phrase,,daily-routine,055
+pratique-revision-a1,bureau,,un,,,noun,,daily-routine,055
+pratique-revision-a1,cahier,,un,,,noun,,daily-routine,055
+pratique-revision-a1,chaises,,des,,,noun,,daily-routine,055
+pratique-revision-a1,ciseaux,,des,,,noun,,daily-routine,055
+pratique-revision-a1,clavier,,un,,,noun,,daily-routine,055
+pratique-revision-a1,colle,,de la,,,noun,,daily-routine,055
+pratique-revision-a1,correcteur,,du,,,noun,,daily-routine,055
+pratique-revision-a1,crayon,,un,,,noun,,daily-routine,055
+pratique-revision-a1,dictionnaire,,un,,,noun,,daily-routine,055
+pratique-revision-a1,feuille,,une,,,noun,,daily-routine,055
+pratique-revision-a1,gomme,,une,,,noun,,daily-routine,055
+pratique-revision-a1,livre,,un,,,noun,,daily-routine,055
+pratique-revision-a1,ordinateur,,un,,,noun,,daily-routine,055
+pratique-revision-a1,souris,,une,,,noun,,daily-routine,055
+pratique-revision-a1,stylo,,un,,,noun,,daily-routine,055
+pratique-revision-a1,tableau,,un,,,noun,,daily-routine,055
+pratique-revision-a1,tables,,des,,,noun,,daily-routine,055
+pratique-revision-a1,trousse,,une,,,noun,,daily-routine,055
+pratique-revision-a1,écran,,un,,,noun,,daily-routine,055
+pratique-revision-a1,affaires,,,,,noun,,daily-routine,056
+pratique-revision-a1,agenda,,un,,,noun,,daily-routine,056
+pratique-revision-a1,carnet,,un,,,noun,,daily-routine,056
+pratique-revision-a1,casque,,un,,,noun,,daily-routine,056
+pratique-revision-a1,clé USB,,une,,,noun,,daily-routine,056
+pratique-revision-a1,clés,,des,,,noun,,daily-routine,056
+pratique-revision-a1,gourde,,une,,,noun,,daily-routine,056
+pratique-revision-a1,lunettes de soleil,,,,,noun,,daily-routine,056
+pratique-revision-a1,mouchoirs en papier,,des,,,noun,,daily-routine,056
+pratique-revision-a1,parapluie,,un,,,noun,,daily-routine,056
+pratique-revision-a1,porte-monnaie,,un,,,noun,,daily-routine,056
+pratique-revision-a1,portefeuille,,un,,,noun,,daily-routine,056
+pratique-revision-a1,sac à dos,,un,,,noun,,daily-routine,056
+pratique-revision-a1,sac à main,,un,,,noun,,daily-routine,056
+pratique-revision-a1,téléphone portable,,un,,,noun,,daily-routine,056
+pratique-revision-a1,écouteurs,,des,,,noun,,daily-routine,056
+pratique-revision-a1,avons besoin,,,,,phrase,,daily-routine,057
+pratique-revision-a1,brosse,,une,,,noun,,daily-routine,057
+pratique-revision-a1,brosse à dents,,une,,,noun,,daily-routine,057
+pratique-revision-a1,crème,,de la,,,noun,,daily-routine,057
+pratique-revision-a1,dentifrice,,du,,,noun,,daily-routine,057
+pratique-revision-a1,gel douche,,du,,,noun,,daily-routine,057
+pratique-revision-a1,mousse à raser,,,,,noun,,daily-routine,057
+pratique-revision-a1,nous nous essuyons,,,,,verb,,daily-routine,057
+pratique-revision-a1,parfum,,du,,,noun,,daily-routine,057
+pratique-revision-a1,peigne,,un,,,noun,,daily-routine,057
+pratique-revision-a1,produits d’hygiène,,,,,noun,,daily-routine,057
+pratique-revision-a1,rasoir,,un,,,noun,,daily-routine,057
+pratique-revision-a1,rouge à lèvres,,du,,,noun,,daily-routine,057
+pratique-revision-a1,savon,,du,,,noun,,daily-routine,057
+pratique-revision-a1,serviette,,une,,,noun,,daily-routine,057
+pratique-revision-a1,shampoing,,du,,,noun,,daily-routine,057
+pratique-revision-a1,bermuda,,un,,,noun,,daily-routine,059
+pratique-revision-a1,blouson,,un,,,noun,,daily-routine,059
+pratique-revision-a1,chemise,,une,,,noun,,daily-routine,059
+pratique-revision-a1,chemisier,,un,,,noun,,daily-routine,059
+pratique-revision-a1,costume,,un,,,noun,,daily-routine,059
+pratique-revision-a1,essayer,,,,,verb,,daily-routine,059
+pratique-revision-a1,imper(méable),,un,,,noun,,daily-routine,059
+pratique-revision-a1,jean,,un,,,noun,,daily-routine,059
+pratique-revision-a1,jupe,,une,,,noun,,daily-routine,059
+pratique-revision-a1,manteau,,un,,,noun,,daily-routine,059
+pratique-revision-a1,pantalon,,un,,,noun,,daily-routine,059
+pratique-revision-a1,porter,,,,,verb,,daily-routine,059
+pratique-revision-a1,pull,,un,,,noun,,daily-routine,059
+pratique-revision-a1,robe,,une,,,noun,,daily-routine,059
+pratique-revision-a1,short,,un,,,noun,,daily-routine,059
+pratique-revision-a1,taille,,la,,,noun,,daily-routine,059
+pratique-revision-a1,tailleur,,un,,,noun,,daily-routine,059
+pratique-revision-a1,tee-shirt (T-shirt),,un,,,noun,,daily-routine,059
+pratique-revision-a1,tenue,,une,,,noun,,daily-routine,059
+pratique-revision-a1,veste,,une,,,noun,,daily-routine,059
+pratique-revision-a1,vêtements,,des,,,noun,,daily-routine,059
+pratique-revision-a1,caleçon,,un,,,noun,,daily-routine,060
+pratique-revision-a1,chaussettes,,des,,,noun,,daily-routine,060
+pratique-revision-a1,collants,,des,,,noun,,daily-routine,060
+pratique-revision-a1,culotte,,une,,,noun,,daily-routine,060
+pratique-revision-a1,nu,,,,,adjective,,daily-routine,060
+pratique-revision-a1,peignoir,,un,,,noun,,daily-routine,060
+pratique-revision-a1,pyjama,,un,,,noun,,daily-routine,060
+pratique-revision-a1,slip,,un,,,noun,,daily-routine,060
+pratique-revision-a1,sous-vêtements,,des,,,noun,,daily-routine,060
+pratique-revision-a1,soutien-gorge,,un,,,noun,,daily-routine,060
+pratique-revision-a1,acrylique,,,,,noun,,daily-routine,062
+pratique-revision-a1,beige,,,,,adjective,,daily-routine,062
+pratique-revision-a1,blanc,,,,,adjective,,daily-routine,062
+pratique-revision-a1,bleu,,,,,adjective,,daily-routine,062
+pratique-revision-a1,coton,,,,,noun,,daily-routine,062
+pratique-revision-a1,cuir,,,,,noun,,daily-routine,062
+pratique-revision-a1,gris,,,,,adjective,,daily-routine,062
+pratique-revision-a1,imprimé,,,,,adjective,,daily-routine,062
+pratique-revision-a1,jaune,,,,,adjective,,daily-routine,062
+pratique-revision-a1,laine,,,,,noun,,daily-routine,062
+pratique-revision-a1,marron,,,,,adjective,,daily-routine,062
+pratique-revision-a1,noir,,,,,adjective,,daily-routine,062
+pratique-revision-a1,orange,,,,,adjective,,daily-routine,062
+pratique-revision-a1,rose,,,,,adjective,,daily-routine,062
+pratique-revision-a1,rouge,,,,,adjective,,daily-routine,062
+pratique-revision-a1,soie,,,,,noun,,daily-routine,062
+pratique-revision-a1,uni,,,,,adjective,,daily-routine,062
+pratique-revision-a1,velours,,,,,noun,,daily-routine,062
+pratique-revision-a1,vert,,,,,adjective,,daily-routine,062
+pratique-revision-a1,violet,,,,,adjective,,daily-routine,062
+pratique-revision-a1,à carreaux,,,,,phrase,,daily-routine,062
+pratique-revision-a1,à pois,,,,,phrase,,daily-routine,062
+pratique-revision-a1,à rayures,,,,,phrase,,daily-routine,062
+pratique-revision-a1,accessoires,,,,,noun,,daily-routine,064
+pratique-revision-a1,bonnet,,un,,,noun,,daily-routine,064
+pratique-revision-a1,bottes,,des,,,noun,,daily-routine,064
+pratique-revision-a1,casquette,,une,,,noun,,daily-routine,064
+pratique-revision-a1,ceinture,,une,,,noun,,daily-routine,064
+pratique-revision-a1,chapeau,,un,,,noun,,daily-routine,064
+pratique-revision-a1,chaussons,,des,,,noun,,daily-routine,064
+pratique-revision-a1,chaussures,,des,,,noun,,daily-routine,064
+pratique-revision-a1,cravate,,une,,,noun,,daily-routine,064
+pratique-revision-a1,foulard,,un,,,noun,,daily-routine,064
+pratique-revision-a1,gants,,des,,,noun,,daily-routine,064
+pratique-revision-a1,paire,,une,,,noun,,daily-routine,064
+pratique-revision-a1,pointure,,la,,,noun,,daily-routine,064
+pratique-revision-a1,sandales,,des,,,noun,,daily-routine,064
+pratique-revision-a1,écharpe,,une,,,noun,,daily-routine,064
+pratique-revision-a1,athlétisme,,de l’,,,noun,,hobby,068
+pratique-revision-a1,badminton,,au,,,noun,,hobby,068
+pratique-revision-a1,balle,,une,,,noun,,hobby,068
+pratique-revision-a1,basket-ball,,au,,,noun,,hobby,068
+pratique-revision-a1,boxe,,de la,,,noun,,hobby,068
+pratique-revision-a1,danse,,de la,,,noun,,hobby,068
+pratique-revision-a1,escalade,,de l’,,,noun,,hobby,068
+pratique-revision-a1,faire de la natation,,,,,phrase,,hobby,068
+pratique-revision-a1,faire des activités de loisirs,,,,,phrase,,hobby,068
+pratique-revision-a1,faire du cyclisme,,,,,phrase,,hobby,068
+pratique-revision-a1,faire du sport,,,,,phrase,,hobby,068
+pratique-revision-a1,foot,,,,,noun,,hobby,068
+pratique-revision-a1,footing,,du,,,noun,,hobby,068
+pratique-revision-a1,golf,,au,,,noun,,hobby,068
+pratique-revision-a1,gym,,de la,,,noun,,hobby,068
+pratique-revision-a1,handball,,du,,,noun,,hobby,068
+pratique-revision-a1,jouer au football,,,,,phrase,,hobby,068
+pratique-revision-a1,judo,,le,,,noun,,hobby,068
+pratique-revision-a1,karaté,,le,,,noun,,hobby,068
+pratique-revision-a1,patinage,,du,,,noun,,hobby,068
+pratique-revision-a1,ping-pong,,,,,noun,,hobby,068
+pratique-revision-a1,plongée sous-marine,,de la,,,noun,,hobby,068
+pratique-revision-a1,pratiquer des arts martiaux,,,,,phrase,,hobby,068
+pratique-revision-a1,randonnée,,de la,,,noun,,hobby,068
+pratique-revision-a1,rugby,,au,,,noun,,hobby,068
+pratique-revision-a1,se détendre,,,,,verb,,hobby,068
+pratique-revision-a1,ski,,du,,,noun,,hobby,068
+pratique-revision-a1,surf,,du,,,noun,,hobby,068
+pratique-revision-a1,taekwondo,,le,,,noun,,hobby,068
+pratique-revision-a1,temps libre,,,,,noun,,hobby,068
+pratique-revision-a1,tennis,,au,,,noun,,hobby,068
+pratique-revision-a1,tennis de table,,au,,,noun,,hobby,068
+pratique-revision-a1,voile,,de la,,,noun,,hobby,068
+pratique-revision-a1,volley-ball,,du,,,noun,,hobby,068
+pratique-revision-a1,yoga,,du,,,noun,,hobby,068
+pratique-revision-a1,équitation,,de l’,,,noun,,hobby,068
+pratique-revision-a1,balle,,une,,,noun,,hobby,069
+pratique-revision-a1,ballon,,un,,,noun,,hobby,069
+pratique-revision-a1,baskets,,des,,,noun,,hobby,069
+pratique-revision-a1,collectifs,,,,,adjective,,hobby,069
+pratique-revision-a1,compétitions,,des,,,noun,,hobby,069
+pratique-revision-a1,courses,,des,,,noun,,hobby,069
+pratique-revision-a1,coéquipiers,,des,,,noun,,hobby,069
+pratique-revision-a1,dans un club de sport,,,,,phrase,,hobby,069
+pratique-revision-a1,d’équipe,,,,,phrase,,hobby,069
+pratique-revision-a1,faire des matchs,,,,,phrase,,hobby,069
+pratique-revision-a1,gagner,,,,,verb,,hobby,069
+pratique-revision-a1,individuels,,,,,adjective,,hobby,069
+pratique-revision-a1,maillot de bain,,un,,,noun,,hobby,069
+pratique-revision-a1,perdre,,,,,verb,,hobby,069
+pratique-revision-a1,raquette,,une,,,noun,,hobby,069
+pratique-revision-a1,salle de sport,,une,,,noun,,hobby,069
+pratique-revision-a1,stade,,un,,,noun,,hobby,069
+pratique-revision-a1,survêtement,,un,,,noun,,hobby,069
+pratique-revision-a1,s’entraîner,,,,,verb,,hobby,069
+pratique-revision-a1,à l’extérieur,,,,,phrase,,hobby,069
+pratique-revision-a1,aller à un concert,,,,,phrase,,hobby,071
+pratique-revision-a1,batterie,,de la,,,noun,,hobby,071
+pratique-revision-a1,chansons,,des,,,noun,,hobby,071
+pratique-revision-a1,chanter,,,,,verb,,hobby,071
+pratique-revision-a1,chanteur,,,,,noun,,hobby,071
+pratique-revision-a1,chanteuse,,,,,noun,,hobby,071
+pratique-revision-a1,chorale,,une,,,noun,,hobby,071
+pratique-revision-a1,faire des répét,,,,,phrase,,hobby,071
+pratique-revision-a1,fan,,,,,adjective,,hobby,071
+pratique-revision-a1,groupe,,,,,noun,,hobby,071
+pratique-revision-a1,guitare,,de la,,,noun,,hobby,071
+pratique-revision-a1,harmonica,,de l’,,,noun,,hobby,071
+pratique-revision-a1,jazz,,le,,,noun,,hobby,071
+pratique-revision-a1,joue d’un instrument,,,,,phrase,,hobby,071
+pratique-revision-a1,morceaux de musique,,des,,,noun,,hobby,071
+pratique-revision-a1,musique classique,,la,,,noun,,hobby,071
+pratique-revision-a1,orchestre,,un,,,noun,,hobby,071
+pratique-revision-a1,piano,,du,,,noun,,hobby,071
+pratique-revision-a1,pop,,la,,,noun,,hobby,071
+pratique-revision-a1,rap,,le,,,noun,,hobby,071
+pratique-revision-a1,reggae,,le,,,noun,,hobby,071
+pratique-revision-a1,rock,,le,,,noun,,hobby,071
+pratique-revision-a1,trompette,,de la,,,noun,,hobby,071
+pratique-revision-a1,violon,,du,,,noun,,hobby,071
+pratique-revision-a1,écoute,,,,,verb,,hobby,071
+pratique-revision-a1,aller au cinéma,,,,,phrase,,hobby,072
+pratique-revision-a1,aller au restaurant,,,,,phrase,,hobby,072
+pratique-revision-a1,aller boire un verre,,,,,phrase,,hobby,072
+pratique-revision-a1,aller danser,,,,,phrase,,hobby,072
+pratique-revision-a1,au musée,,,,,phrase,,hobby,072
+pratique-revision-a1,au théâtre,,,,,phrase,,hobby,072
+pratique-revision-a1,BD,,une,,,noun,,hobby,072
+pratique-revision-a1,documentaire,,un,,,noun,,hobby,072
+pratique-revision-a1,exposition,,une,,,noun,,hobby,072
+pratique-revision-a1,lecture,,la,,,noun,,hobby,072
+pratique-revision-a1,lire,,,,,verb,,hobby,072
+pratique-revision-a1,magie,,,,,noun,,hobby,072
+pratique-revision-a1,peinture,,,,,noun,,hobby,072
+pratique-revision-a1,photo,,,,,noun,,hobby,072
+pratique-revision-a1,pièce de théâtre,,une,,,noun,,hobby,072
+pratique-revision-a1,regarder un film,,,,,phrase,,hobby,072
+pratique-revision-a1,roman,,un,,,noun,,hobby,072
+pratique-revision-a1,sculpture,,,,,noun,,hobby,072
+pratique-revision-a1,se promener,,,,,verb,,hobby,072
+pratique-revision-a1,sorties culturelles,,les,,,noun,,hobby,072
+pratique-revision-a1,sortir,,,,,verb,,hobby,072
+pratique-revision-a1,spectacle de danse,,un,,,noun,,hobby,072
+pratique-revision-a1,voir,,,,,verb,,hobby,072
+pratique-revision-a1,voir un ballet,,,,,phrase,,hobby,072
+pratique-revision-a1,voir un opéra,,,,,phrase,,hobby,072
+pratique-revision-a1,à l’opéra,,,,,phrase,,hobby,072
+pratique-revision-a1,à une salle de spectacle,,,,,phrase,,hobby,072
+pratique-revision-a1,appareil photo,,un,,,noun,,hobby,074
+pratique-revision-a1,bricolage,,du,,,noun,,hobby,074
+pratique-revision-a1,bricoler,,,,,verb,,hobby,074
+pratique-revision-a1,caméra,,une,,,noun,,hobby,074
+pratique-revision-a1,cartes,,aux,,,noun,,hobby,074
+pratique-revision-a1,Cluedo,,le,,,noun,,hobby,074
+pratique-revision-a1,dames,,aux,,,noun,,hobby,074
+pratique-revision-a1,dessiner,,,,,verb,,hobby,074
+pratique-revision-a1,Dixit,,le,,,noun,,hobby,074
+pratique-revision-a1,jardinage,,du,,,noun,,hobby,074
+pratique-revision-a1,jardiner,,,,,verb,,hobby,074
+pratique-revision-a1,jeux de société,,des,,,noun,,hobby,074
+pratique-revision-a1,jeux vidéo,,des,,,noun,,hobby,074
+pratique-revision-a1,ludiques,,,,,adjective,,hobby,074
+pratique-revision-a1,manuelles,,,,,adjective,,hobby,074
+pratique-revision-a1,Monopoly,,le,,,noun,,hobby,074
+pratique-revision-a1,outils,,des,,,noun,,hobby,074
+pratique-revision-a1,peindre,,,,,verb,,hobby,074
+pratique-revision-a1,photos,,des,,,noun,,hobby,074
+pratique-revision-a1,plateforme,,une,,,noun,,hobby,074
+pratique-revision-a1,poterie,,la,,,noun,,hobby,074
+pratique-revision-a1,sculpter,,,,,verb,,hobby,074
+pratique-revision-a1,série,,une,,,noun,,hobby,074
+pratique-revision-a1,télé,,la,,,noun,,hobby,074
+pratique-revision-a1,vidéos,,des,,,noun,,hobby,074
+pratique-revision-a1,échecs,,aux,,,noun,,hobby,074
+pratique-revision-a1,écouter la radio,,,,,phrase,,hobby,074
+pratique-revision-a1,émission,,une,,,noun,,hobby,074
+pratique-revision-a1,appartement,,un,,,noun,,home,078
+pratique-revision-a1,ascenseur,,l’,,,noun,,home,078
+pratique-revision-a1,boîtes aux lettres,,les,,,noun,,home,078
+pratique-revision-a1,cave,,la,,,noun,,home,078
+pratique-revision-a1,chambre,,une,,,noun,,home,078
+pratique-revision-a1,cheminée,,la,,,noun,,home,078
+pratique-revision-a1,descendre,,,,,verb,,home,078
+pratique-revision-a1,deux pièces,,un,,,noun,,home,078
+pratique-revision-a1,deuxième étage,,le,,,noun,,home,078
+pratique-revision-a1,escaliers,,les,,,noun,,home,078
+pratique-revision-a1,fenêtres,,les,,,noun,,home,078
+pratique-revision-a1,grenier,,le,,,noun,,home,078
+pratique-revision-a1,immeuble,,un,,,noun,,home,078
+pratique-revision-a1,jardin,,le,,,noun,,home,078
+pratique-revision-a1,logements,,,,,noun,,home,078
+pratique-revision-a1,maison,,une,,,noun,,home,078
+pratique-revision-a1,monter,,,,,verb,,home,078
+pratique-revision-a1,pièces,,des,,,noun,,home,078
+pratique-revision-a1,plain-pied,,,,,adjective,,home,078
+pratique-revision-a1,porte d’entrée,,la,,,noun,,home,078
+pratique-revision-a1,premier étage,,le,,,noun,,home,078
+pratique-revision-a1,sous-sol,,,,,noun,,home,078
+pratique-revision-a1,toit,,le,,,noun,,home,078
+pratique-revision-a1,troisième étage,,le,,,noun,,home,078
+pratique-revision-a1,étages,,des,,,noun,,home,078
+pratique-revision-a1,animé,,,,,adjective,,home,079
+pratique-revision-a1,bruyant,,,,,adjective,,home,079
+pratique-revision-a1,calme,,,,,adjective,,home,079
+pratique-revision-a1,chauffage,,le,,,noun,,home,079
+pratique-revision-a1,chauffer,,,,,verb,,home,079
+pratique-revision-a1,clair,,,,,adjective,,home,079
+pratique-revision-a1,climatisation,,la,,,noun,,home,079
+pratique-revision-a1,colocataires,,,,,noun,,home,079
+pratique-revision-a1,colocation,,,,,noun,,home,079
+pratique-revision-a1,donne sur,,,,,phrase,Il donne sur un parc.,home,079
+pratique-revision-a1,exposé,,,,,adjective,,home,079
+pratique-revision-a1,fait,,,,,verb,Il fait 70 m².,home,079
+pratique-revision-a1,grand,,,,,adjective,,home,079
+pratique-revision-a1,locataire,,,,,noun,,home,079
+pratique-revision-a1,location,,,,,noun,,home,079
+pratique-revision-a1,louer,,,,,verb,,home,079
+pratique-revision-a1,loyer,,un,,,noun,,home,079
+pratique-revision-a1,lumineux,,,,,adjective,,home,079
+pratique-revision-a1,meublés,,,,,adjective,,home,079
+pratique-revision-a1,nord-ouest,,,,,noun,,home,079
+pratique-revision-a1,orientation,,l’,,,noun,,home,079
+pratique-revision-a1,orienté,,,,,adjective,,home,079
+pratique-revision-a1,petit,,,,,adjective,,home,079
+pratique-revision-a1,situation,,la,,,noun,,home,079
+pratique-revision-a1,sombre,,,,,adjective,,home,079
+pratique-revision-a1,spacieux,,,,,adjective,,home,079
+pratique-revision-a1,sud-est,,,,,noun,,home,079
+pratique-revision-a1,superficie,,la,,,noun,Mon appartement a une superficie de 70 m².,home,079
+pratique-revision-a1,vides,,,,,adjective,,home,079
+pratique-revision-a1,être propriétaire,,,,,phrase,,home,079
+pratique-revision-a1,balcon,,un,,,noun,,home,080
+pratique-revision-a1,buanderie,,une,,,noun,,home,080
+pratique-revision-a1,bureau,,un,,,noun,,home,080
+pratique-revision-a1,chambre,,la,,,noun,,home,080
+pratique-revision-a1,couloir,,un,,,noun,,home,080
+pratique-revision-a1,cuisine,,la,,,noun,,home,080
+pratique-revision-a1,débarras,,un,,,noun,,home,080
+pratique-revision-a1,entrée,,l’,,,noun,,home,080
+pratique-revision-a1,pièces,,les,,,noun,,home,080
+pratique-revision-a1,salle de bains,,la,,,noun,,home,080
+pratique-revision-a1,salle à manger,,la,,,noun,,home,080
+pratique-revision-a1,salon,,le,,,noun,,home,080
+pratique-revision-a1,séjour,,le,,,noun,,home,080
+pratique-revision-a1,terrasse,,une,,,noun,,home,080
+pratique-revision-a1,toilettes,,les,,,noun,,home,080
+pratique-revision-a1,armoire,,une,,,noun,,home,082
+pratique-revision-a1,buffet,,un,,,noun,,home,082
+pratique-revision-a1,bureau,,un,,,noun,,home,082
+pratique-revision-a1,cadre,,un,,,noun,,home,082
+pratique-revision-a1,canapé,,un,,,noun,,home,082
+pratique-revision-a1,chaises,,des,,,noun,,home,082
+pratique-revision-a1,fauteuil,,un,,,noun,,home,082
+pratique-revision-a1,lampe,,une,,,noun,,home,082
+pratique-revision-a1,lampe de bureau,,une,,,noun,,home,082
+pratique-revision-a1,lampe de chevet,,une,,,noun,,home,082
+pratique-revision-a1,lit,,un,,,noun,,home,082
+pratique-revision-a1,meuble télé,,un,,,noun,,home,082
+pratique-revision-a1,mur,,un,,,noun,,home,082
+pratique-revision-a1,plafond,,le,,,noun,,home,082
+pratique-revision-a1,rideaux,,les,,,noun,,home,082
+pratique-revision-a1,sol,,le,,,noun,,home,082
+pratique-revision-a1,table,,une,,,noun,,home,082
+pratique-revision-a1,table basse,,une,,,noun,,home,082
+pratique-revision-a1,table de bureau,,une,,,noun,,home,082
+pratique-revision-a1,table de chevet,,une,,,noun,,home,082
+pratique-revision-a1,tapis,,un,,,noun,,home,082
+pratique-revision-a1,étagère,,une,,,noun,,home,082
+pratique-revision-a1,appareils électroménagers,,des,,,noun,,home,084
+pratique-revision-a1,baignoire,,une,,,noun,,home,084
+pratique-revision-a1,bureau,,un,,,noun,,home,084
+pratique-revision-a1,chaise,,une,,,noun,,home,084
+pratique-revision-a1,chaises,,des,,,noun,,home,084
+pratique-revision-a1,corbeille,,une,,,noun,,home,084
+pratique-revision-a1,douche,,une,,,noun,,home,084
+pratique-revision-a1,fleurs,,des,,,noun,,home,084
+pratique-revision-a1,four,,un,,,noun,,home,084
+pratique-revision-a1,four micro-ondes,,un,,,noun,,home,084
+pratique-revision-a1,frigo,,le,,,noun,,home,084
+pratique-revision-a1,gazinière,,une,,,noun,,home,084
+pratique-revision-a1,horloge,,une,,,noun,,home,084
+pratique-revision-a1,jardin,,un,,,noun,,home,084
+pratique-revision-a1,lavabo,,un,,,noun,,home,084
+pratique-revision-a1,lave-vaisselle,,le,,,noun,,home,084
+pratique-revision-a1,machine à laver,,la,,,noun,,home,084
+pratique-revision-a1,miroir,,un,,,noun,,home,084
+pratique-revision-a1,placards,,des,,,noun,,home,084
+pratique-revision-a1,plantes,,des,,,noun,,home,084
+pratique-revision-a1,plaques vitrocéramiques,,des,,,noun,,home,084
+pratique-revision-a1,potager,,un,,,noun,,home,084
+pratique-revision-a1,réfrigérateur,,le,,,noun,,home,084
+pratique-revision-a1,table,,une,,,noun,,home,084
+pratique-revision-a1,toilettes,,des,,,noun,,home,084
+pratique-revision-a1,à tiroirs,,,,,phrase,,home,084
+pratique-revision-a1,évier,,un,,,noun,,home,084
+pratique-revision-a1,banlieue,,une,,,noun,,city-places,088
+pratique-revision-a1,bon air,,un,,,noun,,city-places,088
+pratique-revision-a1,bruit,,,,,noun,,city-places,088
+pratique-revision-a1,calme,,,,,adjective,,city-places,088
+pratique-revision-a1,champs,,des,,,noun,,city-places,088
+pratique-revision-a1,circulation,,,,,noun,,city-places,088
+pratique-revision-a1,citadins (citadines),,des,,,noun,,city-places,088
+pratique-revision-a1,cultures,,des,,,noun,,city-places,088
+pratique-revision-a1,embouteillages,,des,,,noun,,city-places,088
+pratique-revision-a1,en ville,,,,,phrase,,city-places,088
+pratique-revision-a1,forêts,,des,,,noun,,city-places,088
+pratique-revision-a1,grands,,,,,adjective,,city-places,088
+pratique-revision-a1,lieux culturels,,,,,noun,,city-places,088
+pratique-revision-a1,magasins,,,,,noun,,city-places,088
+pratique-revision-a1,nature,,la,,,noun,,city-places,088
+pratique-revision-a1,pollution,,,,,noun,,city-places,088
+pratique-revision-a1,prés,,des,,,noun,,city-places,088
+pratique-revision-a1,quartiers,,,,,noun,,city-places,088
+pratique-revision-a1,rural,,,,,adjective,,city-places,088
+pratique-revision-a1,ruraux,,les,,,noun,,city-places,088
+pratique-revision-a1,services,,,,,noun,,city-places,088
+pratique-revision-a1,urbain,,,,,adjective,,city-places,088
+pratique-revision-a1,villages,,des,,,noun,,city-places,088
+pratique-revision-a1,à la campagne,,,,,phrase,,city-places,088
+pratique-revision-a1,arrondissements,,,,,noun,,city-places,090
+pratique-revision-a1,avenues,,les,,,noun,,city-places,090
+pratique-revision-a1,boulevards,,les,,,noun,,city-places,090
+pratique-revision-a1,carrefours,,les,,,noun,,city-places,090
+pratique-revision-a1,centre-ville,,le,,,noun,,city-places,090
+pratique-revision-a1,espaces verts,,des,,,noun,,city-places,090
+pratique-revision-a1,feux,,des,,,noun,,city-places,090
+pratique-revision-a1,fleuve,,un,,,noun,,city-places,090
+pratique-revision-a1,jardins publics,,des,,,noun,,city-places,090
+pratique-revision-a1,parcs,,des,,,noun,,city-places,090
+pratique-revision-a1,pistes cyclables,,les,,,noun,,city-places,090
+pratique-revision-a1,piétons,,les,,,noun,,city-places,090
+pratique-revision-a1,places,,les,,,noun,,city-places,090
+pratique-revision-a1,plan,,un,,,noun,,city-places,090
+pratique-revision-a1,ponts,,des,,,noun,,city-places,090
+pratique-revision-a1,quartiers,,les,,,noun,,city-places,090
+pratique-revision-a1,ronds-points,,les,,,noun,,city-places,090
+pratique-revision-a1,routes,,les,,,noun,,city-places,090
+pratique-revision-a1,rues,,les,,,noun,,city-places,090
+pratique-revision-a1,trottoirs,,les,,,noun,,city-places,090
+pratique-revision-a1,ambassade,,l’,,,noun,,city-places,092
+pratique-revision-a1,banque,,la,,,noun,,city-places,092
+pratique-revision-a1,bars,,les,,,noun,,city-places,092
+pratique-revision-a1,bibliothèque,,la,,,noun,,city-places,092
+pratique-revision-a1,boucherie,,la,,,noun,,city-places,092
+pratique-revision-a1,boulangerie,,la,,,noun,,city-places,092
+pratique-revision-a1,bureaux,,des,,,noun,,city-places,092
+pratique-revision-a1,cabinet médical et dentaire,,le,,,noun,,city-places,092
+pratique-revision-a1,cafés,,les,,,noun,,city-places,092
+pratique-revision-a1,cafétérias,,les,,,noun,,city-places,092
+pratique-revision-a1,centres commerciaux,,des,,,noun,,city-places,092
+pratique-revision-a1,charcuterie,,la,,,noun,,city-places,092
+pratique-revision-a1,clinique,,la,,,noun,,city-places,092
+pratique-revision-a1,commissariat,,le,,,noun,,city-places,092
+pratique-revision-a1,crèmerie,,la,,,noun,,city-places,092
+pratique-revision-a1,distributeurs automatiques,,les,,,noun,,city-places,092
+pratique-revision-a1,entreprises,,des,,,noun,,city-places,092
+pratique-revision-a1,garage,,le,,,noun,,city-places,092
+pratique-revision-a1,hypermarchés,,des,,,noun,,city-places,092
+pratique-revision-a1,hôpital,,l’,,,noun,,city-places,092
+pratique-revision-a1,librairie,,la,,,noun,,city-places,092
+pratique-revision-a1,lieux de culte,,les,,,noun,,city-places,092
+pratique-revision-a1,magasin de chaussures,,le,,,noun,,city-places,092
+pratique-revision-a1,magasin de vêtements,,le,,,noun,,city-places,092
+pratique-revision-a1,magasins,,les,,,noun,,city-places,092
+pratique-revision-a1,mairie,,la,,,noun,,city-places,092
+pratique-revision-a1,marché,,un,,,noun,,city-places,092
+pratique-revision-a1,mosquées,,les,,,noun,,city-places,092
+pratique-revision-a1,médiathèque,,la,,,noun,,city-places,092
+pratique-revision-a1,office de tourisme,,l’,,,noun,,city-places,092
+pratique-revision-a1,parfumerie,,la,,,noun,,city-places,092
+pratique-revision-a1,pharmacie,,la,,,noun,,city-places,092
+pratique-revision-a1,poissonnerie,,la,,,noun,,city-places,092
+pratique-revision-a1,poste,,la,,,noun,,city-places,092
+pratique-revision-a1,préfecture,,la,,,noun,,city-places,092
+pratique-revision-a1,pâtisserie,,la,,,noun,,city-places,092
+pratique-revision-a1,restaurants,,les,,,noun,,city-places,092
+pratique-revision-a1,salon de coiffure,,le,,,noun,,city-places,092
+pratique-revision-a1,services,,les,,,noun,,city-places,092
+pratique-revision-a1,supermarchés,,des,,,noun,,city-places,092
+pratique-revision-a1,supérettes,,les,,,noun,,city-places,092
+pratique-revision-a1,urgences,,,,,noun,,city-places,092
+pratique-revision-a1,usines,,des,,,noun,,city-places,092
+pratique-revision-a1,écoles,,les,,,noun,,city-places,092
+pratique-revision-a1,églises,,les,,,noun,,city-places,092
+pratique-revision-a1,épiceries,,les,,,noun,,city-places,092
+pratique-revision-a1,abonnement,,un,,,noun,,city-places,094
+pratique-revision-a1,aller simple,,un,,,noun,,city-places,094
+pratique-revision-a1,aller-retour,,un,,,noun,,city-places,094
+pratique-revision-a1,arrêts,,,,,noun,,city-places,094
+pratique-revision-a1,arrêts de bus,,,,,noun,,city-places,094
+pratique-revision-a1,assis,,,,,adjective,,city-places,094
+pratique-revision-a1,billet,,un,,,noun,,city-places,094
+pratique-revision-a1,bus,,le,,,noun,,city-places,094
+pratique-revision-a1,carte,,une,,,noun,,city-places,094
+pratique-revision-a1,changement,,un,,,noun,,city-places,094
+pratique-revision-a1,debout,,,,,adverb,,city-places,094
+pratique-revision-a1,destination,,,,,noun,,city-places,094
+pratique-revision-a1,direction,,la,,,noun,,city-places,094
+pratique-revision-a1,directs,,,,,adjective,,city-places,094
+pratique-revision-a1,distributeurs automatiques,,des,,,noun,,city-places,094
+pratique-revision-a1,gare,,la,,,noun,,city-places,094
+pratique-revision-a1,lignes,,,,,noun,,city-places,094
+pratique-revision-a1,métro,,le,,,noun,,city-places,094
+pratique-revision-a1,passagers,,les,,,noun,,city-places,094
+pratique-revision-a1,quai,,le,,,noun,,city-places,094
+pratique-revision-a1,stations,,,,,noun,,city-places,094
+pratique-revision-a1,ticket,,un,,,noun,,city-places,094
+pratique-revision-a1,train,,le,,,noun,,city-places,094
+pratique-revision-a1,trajets,,,,,noun,,city-places,094
+pratique-revision-a1,tram(way),,le,,,noun,,city-places,094
+pratique-revision-a1,valident,,,,,verb,,city-places,094
+pratique-revision-a1,agriculture,,l’,,,noun,,city-places,096
+pratique-revision-a1,animaux,,des,,,noun,,city-places,096
+pratique-revision-a1,arbres,,des,,,noun,,city-places,096
+pratique-revision-a1,blé,,,,,noun,,city-places,096
+pratique-revision-a1,champs,,des,,,noun,,city-places,096
+pratique-revision-a1,chemins,,des,,,noun,,city-places,096
+pratique-revision-a1,chevaux,,des,,,noun,,city-places,096
+pratique-revision-a1,cochons,,des,,,noun,,city-places,096
+pratique-revision-a1,cultures,,des,,,noun,,city-places,096
+pratique-revision-a1,environnement naturel,,,,,noun,,city-places,096
+pratique-revision-a1,ferme,,la,,,noun,,city-places,096
+pratique-revision-a1,fleurs,,des,,,noun,,city-places,096
+pratique-revision-a1,forêts,,des,,,noun,,city-places,096
+pratique-revision-a1,lacs,,des,,,noun,,city-places,096
+pratique-revision-a1,lapins,,des,,,noun,,city-places,096
+pratique-revision-a1,maïs,,,,,noun,,city-places,096
+pratique-revision-a1,montagnes,,des,,,noun,,city-places,096
+pratique-revision-a1,moutons,,des,,,noun,,city-places,096
+pratique-revision-a1,plantes,,des,,,noun,,city-places,096
+pratique-revision-a1,poules,,des,,,noun,,city-places,096
+pratique-revision-a1,prés,,des,,,noun,,city-places,096
+pratique-revision-a1,rares,,,,,adjective,,city-places,096
+pratique-revision-a1,ressources naturelles,,les,,,noun,,city-places,096
+pratique-revision-a1,rivières,,des,,,noun,,city-places,096
+pratique-revision-a1,vaches,,des,,,noun,,city-places,096
+pratique-revision-a1,vigne,,la,,,noun,,city-places,096
+pratique-revision-a1,végétaux,,des,,,noun,,city-places,096
+pratique-revision-a1,écologie,,l’,,,noun,,city-places,096
+pratique-revision-a1,écologistes,,les,,,noun,,city-places,096
+pratique-revision-a1,après-midi,,,,,noun,"Lundi après-midi, je vais travailler chez moi.",time-dates,100
+pratique-revision-a1,aujourd’hui,,,,,adverb,,time-dates,100
+pratique-revision-a1,bientôt,,,,,adverb,,time-dates,100
+pratique-revision-a1,demain,,,,,adverb,,time-dates,100
+pratique-revision-a1,dimanche,,,,,noun,,time-dates,100
+pratique-revision-a1,fin de semaine,,la,,,noun,,time-dates,100
+pratique-revision-a1,hier,,,,,adverb,,time-dates,100
+pratique-revision-a1,jeudi,,,,,noun,,time-dates,100
+pratique-revision-a1,jours,,,,,noun,,time-dates,100
+pratique-revision-a1,lundi,,,,,noun,,time-dates,100
+pratique-revision-a1,lundi,,le,,,noun,je vais à l’opéra le lundi,time-dates,100
+pratique-revision-a1,maintenant,,,,,adverb,,time-dates,100
+pratique-revision-a1,mardi,,,,,noun,,time-dates,100
+pratique-revision-a1,matin,,,,,noun,"Le lundi matin, je commence à 9 heures.",time-dates,100
+pratique-revision-a1,mercredi,,,,,noun,,time-dates,100
+pratique-revision-a1,samedi,,,,,noun,,time-dates,100
+pratique-revision-a1,semaine,,une,,,noun,,time-dates,100
+pratique-revision-a1,vendredi,,,,,noun,,time-dates,100
+pratique-revision-a1,week-end,,le,,,noun,,time-dates,100
+pratique-revision-a1,an,,un,,,noun,,time-dates,101
+pratique-revision-a1,année,,l’,,,noun,,time-dates,101
+pratique-revision-a1,année,,une,,,noun,,time-dates,101
+pratique-revision-a1,août,,,,,noun,,time-dates,101
+pratique-revision-a1,au mois de/d’,,,,,phrase,"Au mois de mai, c’est l’anniversaire de mes enfants.",time-dates,101
+pratique-revision-a1,automne,,l’,,,noun,"En automne, les feuilles tombent.",time-dates,101
+pratique-revision-a1,avril,,,,,noun,,time-dates,101
+pratique-revision-a1,décembre,,,,,noun,,time-dates,101
+pratique-revision-a1,en,,,,,preposition,"En septembre, c’est mon anniversaire.",time-dates,101
+pratique-revision-a1,février,,,,,noun,,time-dates,101
+pratique-revision-a1,hiver,,l’,,,noun,"En hiver, il fait froid.",time-dates,101
+pratique-revision-a1,janvier,,,,,noun,,time-dates,101
+pratique-revision-a1,juillet,,,,,noun,,time-dates,101
+pratique-revision-a1,juin,,,,,noun,,time-dates,101
+pratique-revision-a1,mai,,,,,noun,,time-dates,101
+pratique-revision-a1,mars,,,,,noun,,time-dates,101
+pratique-revision-a1,mois,,les,,,noun,,time-dates,101
+pratique-revision-a1,novembre,,,,,noun,,time-dates,101
+pratique-revision-a1,octobre,,,,,noun,,time-dates,101
+pratique-revision-a1,printemps,,le,,,noun,"Au printemps, il fait bon.",time-dates,101
+pratique-revision-a1,saisons,,,,,noun,,time-dates,101
+pratique-revision-a1,septembre,,,,,noun,,time-dates,101
+pratique-revision-a1,été,,l’,,,noun,"En été, il fait chaud.",time-dates,101
+pratique-revision-a1,au,,,,,preposition,Il est né au XIXᵉ (vingt-et-unième) siècle.,time-dates,103
+pratique-revision-a1,c’est,,,,,phrase,"Aujourd’hui, c’est (nous sommes / on est) le 24 février 2023.",time-dates,103
+pratique-revision-a1,dans les années,,,,,phrase,Il a eu 20 ans dans les années 80.,time-dates,103
+pratique-revision-a1,dix-neuvième,,,,,adjective,Elle aime les opéras du XIXᵉ (dix-neuvième) siècle.,time-dates,103
+pratique-revision-a1,décennies,,,,,noun,,time-dates,103
+pratique-revision-a1,en,,,,,preposition,Elle est née en 2014.,time-dates,103
+pratique-revision-a1,nous sommes,,,,,phrase,"Aujourd’hui, c’est (nous sommes / on est) le 24 février 2023.",time-dates,103
+pratique-revision-a1,on est,,,,,phrase,"Aujourd’hui, c’est (nous sommes / on est) le 24 février 2023.",time-dates,103
+pratique-revision-a1,premier,,,,,adjective,"Le premier (1ᵉʳ) avril, c’est le jour des blagues.",time-dates,103
+pratique-revision-a1,siècles,,les,,,noun,,time-dates,103
+pratique-revision-a1,vingtième,,,,,adjective,Il aime la littérature du XXᵉ (vingtième) siècle.,time-dates,103
+pratique-revision-a1,C’est,,,,,phrase,Il est / C’est 11 heures 15 (11 heures et quart).,time-dates,105
+pratique-revision-a1,C’est quelle heure ?,,,,,phrase,,time-dates,105
+pratique-revision-a1,deux heures,,,,,phrase,,time-dates,105
+pratique-revision-a1,deux heures (du matin),,,,,phrase,,time-dates,105
+pratique-revision-a1,deux heures moins vingt,,,,,phrase,,time-dates,105
+pratique-revision-a1,dix heures et quart,,,,,phrase,,time-dates,105
+pratique-revision-a1,dix heures quinze,,,,,phrase,,time-dates,105
+pratique-revision-a1,dix-neuf heures,,,,,phrase,,time-dates,105
+pratique-revision-a1,douze heures,,,,,phrase,,time-dates,105
+pratique-revision-a1,douze heures trente,,,,,phrase,,time-dates,105
+pratique-revision-a1,en avance,,,,,phrase,Il est midi moins cinq : Je suis en avance.,time-dates,105
+pratique-revision-a1,en retard,,,,,phrase,Il est midi cinq : Je suis en retard.,time-dates,105
+pratique-revision-a1,entre … et,,,,,preposition,Je prends ma pause déjeuner entre 11 heures et 15 heures.,time-dates,105
+pratique-revision-a1,Il est,,,,,phrase,Il est / C’est 11 heures 15 (11 heures et quart).,time-dates,105
+pratique-revision-a1,il est minuit,,,,,phrase,,time-dates,105
+pratique-revision-a1,il est zéro heure,,,,,phrase,,time-dates,105
+pratique-revision-a1,midi,,,,,noun,,time-dates,105
+pratique-revision-a1,midi et demi,,,,,phrase,,time-dates,105
+pratique-revision-a1,neuf heures (du matin),,,,,phrase,,time-dates,105
+pratique-revision-a1,neuf heures (pile),,,,,phrase,,time-dates,105
+pratique-revision-a1,onze heures et demie,,,,,phrase,,time-dates,105
+pratique-revision-a1,onze heures trente,,,,,phrase,,time-dates,105
+pratique-revision-a1,quatorze heures quarante-cinq,,,,,phrase,,time-dates,105
+pratique-revision-a1,quatre heures moins dix,,,,,phrase,,time-dates,105
+pratique-revision-a1,Quelle heure est-il ?,,,,,phrase,,time-dates,105
+pratique-revision-a1,quinze heures cinquante,,,,,phrase,,time-dates,105
+pratique-revision-a1,sept heures (du soir),,,,,phrase,,time-dates,105
+pratique-revision-a1,treize heures,,,,,phrase,,time-dates,105
+pratique-revision-a1,treize heures quarante,,,,,phrase,,time-dates,105
+pratique-revision-a1,trois heures moins le quart,,,,,phrase,,time-dates,105
+pratique-revision-a1,une heure (de l’après-midi),,,,,phrase,,time-dates,105
+pratique-revision-a1,vers,,,,,preposition,On se voit vers (= plus ou moins) onze heures.,time-dates,105
+pratique-revision-a1,à l’heure,,,,,phrase,Il est midi pile : Je suis à l’heure.,time-dates,105
+pratique-revision-a1,boisson chaude,,une,,,noun,,food,110
+pratique-revision-a1,chocolat,,du,,,noun,,food,110
+pratique-revision-a1,céréales,,des,,,noun,,food,110
+pratique-revision-a1,déjeune,,,,,verb,,food,110
+pratique-revision-a1,déjeuner,,le,,,noun,,food,110
+pratique-revision-a1,dîne,,,,,verb,,food,110
+pratique-revision-a1,dîner,,le,,,noun,,food,110
+pratique-revision-a1,fruit,,un,,,noun,,food,110
+pratique-revision-a1,goûtent,,,,,verb,,food,110
+pratique-revision-a1,goûter,,un,,,noun,,food,110
+pratique-revision-a1,jus de fruits,,un,,,noun,,food,110
+pratique-revision-a1,lait,,du,,,noun,,food,110
+pratique-revision-a1,pain,,du,,,noun,,food,110
+pratique-revision-a1,petit-déjeuner,,le,,,noun,,food,110
+pratique-revision-a1,prend le petit-déjeuner,,,,,phrase,,food,110
+pratique-revision-a1,soupe,,,,,verb,,food,110
+pratique-revision-a1,souper,,le,,,noun,,food,110
+pratique-revision-a1,viennoiserie,,une,,,noun,,food,110
+pratique-revision-a1,abricot,,un,,,noun,,food,111
+pratique-revision-a1,ail,,de l’,,,noun,,food,111
+pratique-revision-a1,ananas,,un,,,noun,,food,111
+pratique-revision-a1,aubergine,,une,,,noun,,food,111
+pratique-revision-a1,avocat,,un,,,noun,,food,111
+pratique-revision-a1,banane,,une,,,noun,,food,111
+pratique-revision-a1,brocoli,,un,,,noun,,food,111
+pratique-revision-a1,carotte,,une,,,noun,,food,111
+pratique-revision-a1,cerises,,des,,,noun,,food,111
+pratique-revision-a1,champignons,,des,,,noun,,food,111
+pratique-revision-a1,chou,,un,,,noun,,food,111
+pratique-revision-a1,chou-fleur,,un,,,noun,,food,111
+pratique-revision-a1,citron,,un,,,noun,,food,111
+pratique-revision-a1,concombre,,un,,,noun,,food,111
+pratique-revision-a1,courgette,,une,,,noun,,food,111
+pratique-revision-a1,crudités,,des,,,noun,,food,111
+pratique-revision-a1,fraises,,des,,,noun,,food,111
+pratique-revision-a1,framboises,,des,,,noun,,food,111
+pratique-revision-a1,haricots verts,,des,,,noun,,food,111
+pratique-revision-a1,kiwi,,un,,,noun,,food,111
+pratique-revision-a1,mandarine (clémentine),,une,,,noun,,food,111
+pratique-revision-a1,oignon,,un,,,noun,,food,111
+pratique-revision-a1,olives,,des,,,noun,,food,111
+pratique-revision-a1,orange,,une,,,noun,,food,111
+pratique-revision-a1,petits pois,,des,,,noun,,food,111
+pratique-revision-a1,poire,,une,,,noun,,food,111
+pratique-revision-a1,poireau,,un,,,noun,,food,111
+pratique-revision-a1,poivron,,un,,,noun,,food,111
+pratique-revision-a1,pomme,,une,,,noun,,food,111
+pratique-revision-a1,pommes de terre,,des,,,noun,,food,111
+pratique-revision-a1,pêche,,une,,,noun,,food,111
+pratique-revision-a1,raisin,,du,,,noun,,food,111
+pratique-revision-a1,salade,,une,,,noun,,food,111
+pratique-revision-a1,tomate,,une,,,noun,,food,111
+pratique-revision-a1,épinards,,des,,,noun,,food,111
+pratique-revision-a1,bière,,la,,,noun,,food,114
+pratique-revision-a1,blanc,,,,,adjective,,food,114
+pratique-revision-a1,crevettes,,des,,,noun,,food,114
+pratique-revision-a1,dessert,,un,,,noun,,food,114
+pratique-revision-a1,eau,,l’,,,noun,,food,114
+pratique-revision-a1,entrée,,une,,,noun,,food,114
+pratique-revision-a1,frites,,,,,noun,,food,114
+pratique-revision-a1,fromage,,du,,,noun,,food,114
+pratique-revision-a1,fruits de mer,,,,,noun,,food,114
+pratique-revision-a1,glace,,une,,,noun,,food,114
+pratique-revision-a1,gâteau,,un,,,noun,,food,114
+pratique-revision-a1,haricots blancs,,,,,noun,,food,114
+pratique-revision-a1,huîtres,,des,,,noun,,food,114
+pratique-revision-a1,il est composé,,,,,phrase,,food,114
+pratique-revision-a1,jambon,,du,,,noun,,food,114
+pratique-revision-a1,lentilles,,,,,noun,,food,114
+pratique-revision-a1,légumes,,,,,noun,,food,114
+pratique-revision-a1,légumes secs,,,,,noun,,food,114
+pratique-revision-a1,moules,,des,,,noun,,food,114
+pratique-revision-a1,mousse au chocolat,,une,,,noun,,food,114
+pratique-revision-a1,omelette,,,,,noun,,food,114
+pratique-revision-a1,plat principal,,un,,,noun,,food,114
+pratique-revision-a1,pois chiches,,,,,noun,,food,114
+pratique-revision-a1,poisson,,,,,noun,,food,114
+pratique-revision-a1,poulet,,du,,,noun,,food,114
+pratique-revision-a1,produits laitiers,,des,,,noun,,food,114
+pratique-revision-a1,purée,,,,,noun,,food,114
+pratique-revision-a1,pâtes,,,,,noun,,food,114
+pratique-revision-a1,quiche,,une,,,noun,,food,114
+pratique-revision-a1,riz,,,,,noun,,food,114
+pratique-revision-a1,rosé,,,,,adjective,,food,114
+pratique-revision-a1,rouge,,,,,adjective,,food,114
+pratique-revision-a1,saucisses,,des,,,noun,,food,114
+pratique-revision-a1,saumon,,du,,,noun,,food,114
+pratique-revision-a1,soda,,un,,,noun,,food,114
+pratique-revision-a1,soja,,,,,noun,,food,114
+pratique-revision-a1,soupe,,de la,,,noun,,food,114
+pratique-revision-a1,steak,,un,,,noun,,food,114
+pratique-revision-a1,steak haché,,un,,,noun,,food,114
+pratique-revision-a1,sur le plat,,,,,phrase,,food,114
+pratique-revision-a1,thon,,du,,,noun,,food,114
+pratique-revision-a1,tofu,,du,,,noun,,food,114
+pratique-revision-a1,viande,,,,,noun,,food,114
+pratique-revision-a1,vin,,du,,,noun,,food,114
+pratique-revision-a1,végétarien(ne)s,,les,,,noun,,food,114
+pratique-revision-a1,yaourt,,un,,,noun,,food,114
+pratique-revision-a1,œufs,,,,,noun,,food,114
+pratique-revision-a1,ajouter,,,,,verb,,food,116
+pratique-revision-a1,casserole,,une,,,noun,,food,116
+pratique-revision-a1,cassoulet,,le,,,noun,,food,116
+pratique-revision-a1,chauffer,,,,,verb,,food,116
+pratique-revision-a1,cocotte,,une,,,noun,,food,116
+pratique-revision-a1,couper,,,,,verb,,food,116
+pratique-revision-a1,couscous,,le,,,noun,,food,116
+pratique-revision-a1,couteau,,un,,,noun,,food,116
+pratique-revision-a1,cuillère,,une,,,noun,,food,116
+pratique-revision-a1,faire cuire,,,,,phrase,,food,116
+pratique-revision-a1,faire revenir,,,,,phrase,,food,116
+pratique-revision-a1,four,,un,,,noun,,food,116
+pratique-revision-a1,hamburger,,le,,,noun,,food,116
+pratique-revision-a1,moule,,un,,,noun,,food,116
+pratique-revision-a1,mélanger,,,,,verb,,food,116
+pratique-revision-a1,passoire,,une,,,noun,,food,116
+pratique-revision-a1,pizza,,la,,,noun,,food,116
+pratique-revision-a1,plaque de cuisson,,une,,,noun,,food,116
+pratique-revision-a1,poivrer,,,,,verb,,food,116
+pratique-revision-a1,poêle,,une,,,noun,,food,116
+pratique-revision-a1,ratatouille,,la,,,noun,,food,116
+pratique-revision-a1,saladier,,un,,,noun,,food,116
+pratique-revision-a1,saler,,,,,verb,,food,116
+pratique-revision-a1,sandwich,,le,,,noun,,food,116
+pratique-revision-a1,spaghettis bolognaise,,les,,,noun,,food,116
+pratique-revision-a1,ustensiles,,les,,,noun,,food,116
+pratique-revision-a1,éplucher,,,,,verb,,food,116
+pratique-revision-a1,addition,,l’,,,noun,,food,118
+pratique-revision-a1,apéritif,,l’,,,noun,,food,118
+pratique-revision-a1,carafe d’eau,,une,,,noun,,food,118
+pratique-revision-a1,carte,,la,,,noun,,food,118
+pratique-revision-a1,commande,,la,,,noun,,food,118
+pratique-revision-a1,commander,,,,,verb,,food,118
+pratique-revision-a1,menus,,des,,,noun,,food,118
+pratique-revision-a1,plat du jour,,un,,,noun,,food,118
+pratique-revision-a1,réserve une table,,,,,phrase,,food,118
+pratique-revision-a1,serveur,,le,,,noun,,food,118
+pratique-revision-a1,serveuse,,la,,,noun,,food,118
+pratique-revision-a1,boutique,,une,,,noun,,shopping,122
+pratique-revision-a1,caissier,,un,,,noun,,shopping,122
+pratique-revision-a1,caissière,,une,,,noun,,shopping,122
+pratique-revision-a1,centre commercial,,un,,,noun,,shopping,122
+pratique-revision-a1,client,,le,,,noun,,shopping,122
+pratique-revision-a1,cliente,,la,,,noun,,shopping,122
+pratique-revision-a1,commande,,,,,verb,,shopping,122
+pratique-revision-a1,en ligne,,,,,phrase,,shopping,122
+pratique-revision-a1,en livraison,,,,,phrase,,shopping,122
+pratique-revision-a1,en retrait,,,,,phrase,,shopping,122
+pratique-revision-a1,faire du shopping,,,,,phrase,,shopping,122
+pratique-revision-a1,faire les courses,,,,,phrase,,shopping,122
+pratique-revision-a1,faire ses achats,,,,,phrase,,shopping,122
+pratique-revision-a1,hypermarché,,un,,,noun,,shopping,122
+pratique-revision-a1,Internet,,,,,noun,,shopping,122
+pratique-revision-a1,liste de courses,,une,,,noun,,shopping,122
+pratique-revision-a1,magasin,,un,,,noun,,shopping,122
+pratique-revision-a1,marchand,,un,,,noun,,shopping,122
+pratique-revision-a1,marchande,,une,,,noun,,shopping,122
+pratique-revision-a1,marché,,le,,,noun,,shopping,122
+pratique-revision-a1,marque,,une,,,noun,,shopping,122
+pratique-revision-a1,site,,un,,,noun,,shopping,122
+pratique-revision-a1,supermarché,,un,,,noun,,shopping,122
+pratique-revision-a1,vendeur,,un,,,noun,,shopping,122
+pratique-revision-a1,vendeuse,,une,,,noun,,shopping,122
+pratique-revision-a1,épicerie,,une,,,noun,,shopping,122
+pratique-revision-a1,alimentation,,l’,,,noun,,shopping,124
+pratique-revision-a1,allée centrale,,l’,,,noun,,shopping,124
+pratique-revision-a1,boissons,,les,,,noun,,shopping,124
+pratique-revision-a1,caddies,,des,,,noun,,shopping,124
+pratique-revision-a1,caisse,,la,,,noun,,shopping,124
+pratique-revision-a1,caisses automatiques,,des,,,noun,,shopping,124
+pratique-revision-a1,chariots,,,,,noun,,shopping,124
+pratique-revision-a1,emballage,,un,,,noun,,shopping,124
+pratique-revision-a1,emballés,,,,,adjective,,shopping,124
+pratique-revision-a1,entretien,,l’,,,noun,,shopping,124
+pratique-revision-a1,hygiène,,l’,,,noun,,shopping,124
+pratique-revision-a1,paniers,,des,,,noun,,shopping,124
+pratique-revision-a1,queue,,la,,,noun,,shopping,124
+pratique-revision-a1,rayons,,les,,,noun,,shopping,124
+pratique-revision-a1,500 grammes,,,,,noun,,shopping,125
+pratique-revision-a1,assiette,,une,,,noun,,shopping,125
+pratique-revision-a1,barquette,,une,,,noun,,shopping,125
+pratique-revision-a1,bouteilles,,,,,noun,,shopping,125
+pratique-revision-a1,boîte,,une,,,noun,,shopping,125
+pratique-revision-a1,demi-douzaine,,une,,,noun,,shopping,125
+pratique-revision-a1,douzaine,,une,,,noun,,shopping,125
+pratique-revision-a1,flacon,,un,,,noun,,shopping,125
+pratique-revision-a1,kilo,,un,,,noun,,shopping,125
+pratique-revision-a1,litre,,un,,,noun,,shopping,125
+pratique-revision-a1,livre,,une,,,noun,,shopping,125
+pratique-revision-a1,morceau,,un,,,noun,,shopping,125
+pratique-revision-a1,pack,,un,,,noun,,shopping,125
+pratique-revision-a1,paquet,,un,,,noun,,shopping,125
+pratique-revision-a1,peser,,,,,verb,,shopping,125
+pratique-revision-a1,poids,,le,,,noun,,shopping,125
+pratique-revision-a1,pot,,un,,,noun,,shopping,125
+pratique-revision-a1,tablette,,une,,,noun,,shopping,125
+pratique-revision-a1,tranche,,une,,,noun,,shopping,125
+pratique-revision-a1,tube,,un,,,noun,,shopping,125
+pratique-revision-a1,verre,,un,,,noun,,shopping,125
+pratique-revision-a1,10 euros 50,,,,,phrase,,shopping,127
+pratique-revision-a1,argent,,de l’,,,noun,,shopping,127
+pratique-revision-a1,billets,,des,,,noun,,shopping,127
+pratique-revision-a1,bon marché,,,,,adjective,,shopping,127
+pratique-revision-a1,carte,,,,,noun,,shopping,127
+pratique-revision-a1,carte bleue,,,,,noun,,shopping,127
+pratique-revision-a1,centimes,,les,,,noun,,shopping,127
+pratique-revision-a1,cher,,,,,adjective,,shopping,127
+pratique-revision-a1,chèque,,,,,noun,,shopping,127
+pratique-revision-a1,Combien ça coûte ?,,,,,phrase,,shopping,127
+pratique-revision-a1,"C’est 10,50 €.",,,,,phrase,,shopping,127
+pratique-revision-a1,C’est combien ?,,,,,phrase,,shopping,127
+pratique-revision-a1,date d’expiration,,la,,,noun,,shopping,127
+pratique-revision-a1,en espèces,,,,,phrase,,shopping,127
+pratique-revision-a1,en liquide,,,,,phrase,,shopping,127
+pratique-revision-a1,euro,,l’,,,noun,,shopping,127
+pratique-revision-a1,Faire de la monnaie,,,,,phrase,,shopping,127
+pratique-revision-a1,me rend la monnaie,,,,,phrase,,shopping,127
+pratique-revision-a1,payer,,,,,verb,,shopping,127
+pratique-revision-a1,pièces,,des,,,noun,,shopping,127
+pratique-revision-a1,promotion,,,,,noun,,shopping,127
+pratique-revision-a1,régler,,,,,verb,,shopping,127
+pratique-revision-a1,saisis,,,,,verb,,shopping,127
+pratique-revision-a1,valide,,,,,verb,,shopping,127
+pratique-revision-a1,"Ça coûte 10,50 €.",,,,,phrase,,shopping,127
+pratique-revision-a1,balades,,des,,,noun,,vacation,131
+pratique-revision-a1,bord,,,,,noun,,vacation,131
+pratique-revision-a1,bronze,,,,,verb,,vacation,131
+pratique-revision-a1,en vacances,,,,,phrase,,vacation,131
+pratique-revision-a1,forêt,,,,,noun,,vacation,131
+pratique-revision-a1,fête,,la,,,noun,,vacation,131
+pratique-revision-a1,Je me promène,,,,,phrase,,vacation,131
+pratique-revision-a1,Je me repose,,,,,phrase,,vacation,131
+pratique-revision-a1,Je visite,,,,,phrase,,vacation,131
+pratique-revision-a1,montagne,,,,,noun,,vacation,131
+pratique-revision-a1,monuments,,des,,,noun,,vacation,131
+pratique-revision-a1,musées,,des,,,noun,,vacation,131
+pratique-revision-a1,nage,,,,,verb,,vacation,131
+pratique-revision-a1,nature,,la,,,noun,,vacation,131
+pratique-revision-a1,parcs,,des,,,noun,,vacation,131
+pratique-revision-a1,pars en voyage,,,,,phrase,,vacation,131
+pratique-revision-a1,plage,,la,,,noun,,vacation,131
+pratique-revision-a1,plongée sous-marine,,de la,,,noun,,vacation,131
+pratique-revision-a1,pêche,,de la,,,noun,,vacation,131
+pratique-revision-a1,skier,,,,,verb,,vacation,131
+pratique-revision-a1,sports d’hiver,,,,,noun,,vacation,131
+pratique-revision-a1,vacances,,des,,,noun,,vacation,131
+pratique-revision-a1,valise,,,,,noun,,vacation,131
+pratique-revision-a1,voile,,de la,,,noun,,vacation,131
+pratique-revision-a1,à la campagne,,,,,phrase,,vacation,131
+pratique-revision-a1,à la mer,,,,,phrase,,vacation,131
+pratique-revision-a1,à la montagne,,,,,phrase,,vacation,131
+pratique-revision-a1,aller-retour,,,,,noun,,vacation,133
+pratique-revision-a1,arrivée,,une,,,noun,,vacation,133
+pratique-revision-a1,aéroport,,l’,,,noun,,vacation,133
+pratique-revision-a1,brochures,,des,,,noun,,vacation,133
+pratique-revision-a1,dunes,,des,,,noun,,vacation,133
+pratique-revision-a1,départ,,un,,,noun,,vacation,133
+pratique-revision-a1,dépliants,,des,,,noun,,vacation,133
+pratique-revision-a1,en Afrique,,,,,phrase,,vacation,133
+pratique-revision-a1,en Amérique du Nord,,,,,phrase,,vacation,133
+pratique-revision-a1,en Amérique du Sud,,,,,phrase,,vacation,133
+pratique-revision-a1,en Antarctique,,,,,phrase,,vacation,133
+pratique-revision-a1,en Asie,,,,,phrase,,vacation,133
+pratique-revision-a1,en avion,,,,,phrase,,vacation,133
+pratique-revision-a1,en bateau,,,,,phrase,,vacation,133
+pratique-revision-a1,en bus,,,,,phrase,,vacation,133
+pratique-revision-a1,en Europe,,,,,phrase,,vacation,133
+pratique-revision-a1,en Océanie,,,,,phrase,,vacation,133
+pratique-revision-a1,en train,,,,,phrase,,vacation,133
+pratique-revision-a1,en voiture,,,,,phrase,,vacation,133
+pratique-revision-a1,falaises,,des,,,noun,,vacation,133
+pratique-revision-a1,forêts,,des,,,noun,,vacation,133
+pratique-revision-a1,gare,,la,,,noun,,vacation,133
+pratique-revision-a1,gare routière,,la,,,noun,,vacation,133
+pratique-revision-a1,guide,,un,,,noun,,vacation,133
+pratique-revision-a1,"La spécialité de + nom de ville ou de région, c’est + nom de la spécialité",,,,,phrase,"La spécialité de Bruxelles, c’est les moules-frites.",vacation,133
+pratique-revision-a1,lacs,,des,,,noun,,vacation,133
+pratique-revision-a1,office de tourisme,,l’,,,noun,,vacation,133
+pratique-revision-a1,paysages,,des,,,noun,,vacation,133
+pratique-revision-a1,plages,,des,,,noun,,vacation,133
+pratique-revision-a1,port,,le,,,noun,,vacation,133
+pratique-revision-a1,renseignements,,des,,,noun,,vacation,133
+pratique-revision-a1,rivières,,des,,,noun,,vacation,133
+pratique-revision-a1,touriste,,un,,,noun,,vacation,133
+pratique-revision-a1,visite guidée,,une,,,noun,,vacation,133
+pratique-revision-a1,îles,,des,,,noun,,vacation,133
+pratique-revision-a1,5 étoiles,,,,,noun,,vacation,135
+pratique-revision-a1,agence,,une,,,noun,,vacation,135
+pratique-revision-a1,aller à l’hôtel,,,,,phrase,,vacation,135
+pratique-revision-a1,chambre d’hôte,,une,,,noun,,vacation,135
+pratique-revision-a1,changer de l’argent,,,,,phrase,,vacation,135
+pratique-revision-a1,circuit,,un,,,noun,,vacation,135
+pratique-revision-a1,demi-pension,,,,,noun,,vacation,135
+pratique-revision-a1,deux lits simples,,,,,noun,,vacation,135
+pratique-revision-a1,faire du camping,,,,,phrase,,vacation,135
+pratique-revision-a1,groupe,,,,,noun,,vacation,135
+pratique-revision-a1,individuel,,,,,adjective,,vacation,135
+pratique-revision-a1,itinéraire,,un,,,noun,,vacation,135
+pratique-revision-a1,lit double,,un,,,noun,,vacation,135
+pratique-revision-a1,louer,,,,,verb,,vacation,135
+pratique-revision-a1,nuits,,,,,noun,,vacation,135
+pratique-revision-a1,organisé,,,,,adjective,,vacation,135
+pratique-revision-a1,passeport,,un,,,noun,,vacation,135
+pratique-revision-a1,pension complète,,,,,noun,,vacation,135
+pratique-revision-a1,petit-déjeuner,,le,,,noun,,vacation,135
+pratique-revision-a1,réserve une chambre,,,,,phrase,,vacation,135
+pratique-revision-a1,salle de bains,,une,,,noun,,vacation,135
+pratique-revision-a1,serviettes,,des,,,noun,,vacation,135
+pratique-revision-a1,sites touristiques,,des,,,noun,,vacation,135
+pratique-revision-a1,souvenir,,un,,,noun,,vacation,135
+pratique-revision-a1,séjour,,un,,,noun,,vacation,135
+pratique-revision-a1,tente,,une,,,noun,,vacation,135
+pratique-revision-a1,vaccins,,,,,noun,,vacation,135
+pratique-revision-a1,visa,,un,,,noun,,vacation,135
+pratique-revision-a1,beau,,,,,adjective,,weather,137
+pratique-revision-a1,bleu,,,,,adjective,,weather,137
+pratique-revision-a1,bon,,,,,adjective,,weather,137
+pratique-revision-a1,brouillard,,du,,,noun,,weather,137
+pratique-revision-a1,bulletin météo,,le,,,noun,,weather,137
+pratique-revision-a1,chaud,,,,,adjective,,weather,137
+pratique-revision-a1,couvert,,,,,adjective,,weather,137
+pratique-revision-a1,doux,,,,,adjective,,weather,137
+pratique-revision-a1,dégagé,,,,,adjective,,weather,137
+pratique-revision-a1,ensoleillé,,,,,adjective,,weather,137
+pratique-revision-a1,frais,,,,,adjective,,weather,137
+pratique-revision-a1,froid,,,,,adjective,,weather,137
+pratique-revision-a1,gris,,,,,adjective,,weather,137
+pratique-revision-a1,grêle,,de la,,,noun,,weather,137
+pratique-revision-a1,gèle,,,,,verb,,weather,137
+pratique-revision-a1,Il pleut,,,,,phrase,,weather,137
+pratique-revision-a1,mauvais,,,,,adjective,,weather,137
+pratique-revision-a1,météo,,la,,,noun,,weather,137
+pratique-revision-a1,neige,,,,,verb,,weather,137
+pratique-revision-a1,neige,,de la,,,noun,,weather,137
+pratique-revision-a1,nuages,,des,,,noun,,weather,137
+pratique-revision-a1,nuageux,,,,,adjective,,weather,137
+pratique-revision-a1,orage,,un,,,noun,,weather,137
+pratique-revision-a1,pluie,,de la,,,noun,,weather,137
+pratique-revision-a1,soleil,,du,,,noun,,weather,137
+pratique-revision-a1,tempête,,une,,,noun,,weather,137
+pratique-revision-a1,tonnerre,,du,,,noun,,weather,137
+pratique-revision-a1,vent,,du,,,noun,,weather,137
+pratique-revision-a1,éclairs,,des,,,noun,,weather,137
+pratique-revision-a1,accepter,,,,,verb,,communication,141
+pratique-revision-a1,Avec plaisir !,,,,,phrase,,communication,141
+pratique-revision-a1,dois,,,,,verb,"Demain, je ne peux pas, je dois réviser.",communication,141
+pratique-revision-a1,Désolé(e),,,,,adjective,"Désolé(e), je ne suis pas libre.",communication,141
+pratique-revision-a1,D’accord !,,,,,phrase,,communication,141
+pratique-revision-a1,inviter,,,,,verb,,communication,141
+pratique-revision-a1,je ne peux pas,,,,,phrase,"Demain, je ne peux pas, je dois réviser.",communication,141
+pratique-revision-a1,OK !,,,,,phrase,,communication,141
+pratique-revision-a1,On pourrait,,,,,phrase,On pourrait aller au théâtre ce soir.,communication,141
+pratique-revision-a1,On se retrouve,,,,,phrase,On se retrouve / Rendez-vous devant le restaurant à 20 heures.,communication,141
+pratique-revision-a1,refuser,,,,,verb,,communication,141
+pratique-revision-a1,rendez-vous,,un,,,noun,,communication,141
+pratique-revision-a1,Rendez-vous,,,,,phrase,On se retrouve / Rendez-vous devant le restaurant à 20 heures.,communication,141
+pratique-revision-a1,veux venir,,,,,phrase,Tu veux venir dîner avec moi ?,communication,141
+pratique-revision-a1,viens,,,,,verb,Tu viens avec moi/nous ?,communication,141
+pratique-revision-a1,Ça ne me dit rien.,,,,,phrase,,communication,141
+pratique-revision-a1,Ça te dit d’,,,,,phrase,Ça te dit d’aller au cinéma ce soir ?,communication,141
+pratique-revision-a1,au-dessous du,,,,,phrase,,communication,143
+pratique-revision-a1,au-dessus du,,,,,phrase,,communication,143
+pratique-revision-a1,bout,,,,,noun,,communication,143
+pratique-revision-a1,continuer tout droit,,,,,phrase,,communication,143
+pratique-revision-a1,C’est là,,,,,phrase,,communication,143
+pratique-revision-a1,dans,,,,,preposition,,communication,143
+pratique-revision-a1,dedans,,,,,adverb,,communication,143
+pratique-revision-a1,dehors,,,,,adverb,,communication,143
+pratique-revision-a1,derrière,,,,,preposition,,communication,143
+pratique-revision-a1,devant,,,,,preposition,,communication,143
+pratique-revision-a1,en face d’,,,,,phrase,,communication,143
+pratique-revision-a1,feu,,,,,noun,,communication,143
+pratique-revision-a1,jusqu’,,,,,preposition,,communication,143
+pratique-revision-a1,loin de/d’,,,,,phrase,,communication,143
+pratique-revision-a1,prendre,,,,,verb,,communication,143
+pratique-revision-a1,près d’,,,,,phrase,,communication,143
+pratique-revision-a1,retrouvons,,,,,verb,,communication,143
+pratique-revision-a1,tourner,,,,,verb,,communication,143
+pratique-revision-a1,traverser,,,,,verb,,communication,143
+pratique-revision-a1,à côté de/d’,,,,,phrase,,communication,143
+pratique-revision-a1,à droite,,,,,phrase,,communication,143
+pratique-revision-a1,à gauche,,,,,phrase,,communication,143
+pratique-revision-a1,bals,,des,,,noun,,communication,145
+pratique-revision-a1,bonne année,,une,,,noun,,communication,145
+pratique-revision-a1,cadeaux,,des,,,noun,,communication,145
+pratique-revision-a1,cartes de vœux,,des,,,noun,,communication,145
+pratique-revision-a1,défilé militaire,,un,,,noun,,communication,145
+pratique-revision-a1,feux d’artifice,,des,,,noun,,communication,145
+pratique-revision-a1,fête,,,,,verb,,communication,145
+pratique-revision-a1,fête catholique,,une,,,noun,,communication,145
+pratique-revision-a1,fête de la musique,,la,,,noun,,communication,145
+pratique-revision-a1,fête du travail,,la,,,noun,,communication,145
+pratique-revision-a1,fête nationale,,la,,,noun,,communication,145
+pratique-revision-a1,fêtes populaires,,,,,noun,,communication,145
+pratique-revision-a1,fêtes traditionnelles,,des,,,noun,,communication,145
+pratique-revision-a1,jour de l’An,,le,,,noun,,communication,145
+pratique-revision-a1,Journées du Patrimoine,,les,,,noun,,communication,145
+pratique-revision-a1,jours fériés,,des,,,noun,,communication,145
+pratique-revision-a1,manifestations,,des,,,noun,,communication,145
+pratique-revision-a1,Noël,,,,,noun,,communication,145
+pratique-revision-a1,Nuit Blanche,,la,,,noun,,communication,145
+pratique-revision-a1,patrimoine,,le,,,noun,,communication,145
+pratique-revision-a1,Pâques,,,,,noun,,communication,145
+pratique-revision-a1,père Noël,,le,,,noun,,communication,145
+pratique-revision-a1,réveillon,,le,,,noun,,communication,145
+pratique-revision-a1,sapin de noël,,un,,,noun,,communication,145
+pratique-revision-a1,Toussaint,,la,,,noun,,communication,145
+pratique-revision-a1,œufs au chocolat,,des,,,noun,,communication,145
+pratique-revision-a1,adresse e-mail,,une,,,noun,,communication,147
+pratique-revision-a1,ajouter des amis,,,,,phrase,,communication,147
+pratique-revision-a1,applications,,,,,noun,,communication,147
+pratique-revision-a1,cellulaires,,,,,noun,,communication,147
+pratique-revision-a1,chatter,,,,,verb,,communication,147
+pratique-revision-a1,clavarder,,,,,verb,,communication,147
+pratique-revision-a1,commentaires,,des,,,noun,,communication,147
+pratique-revision-a1,compte,,un,,,noun,,communication,147
+pratique-revision-a1,courriels,,des,,,noun,,communication,147
+pratique-revision-a1,créer,,,,,verb,,communication,147
+pratique-revision-a1,e-mails,,des,,,noun,,communication,147
+pratique-revision-a1,GSM,,,,,noun,,communication,147
+pratique-revision-a1,identifiant,,un,,,noun,,communication,147
+pratique-revision-a1,internautes,,les,,,noun,,communication,147
+pratique-revision-a1,Internet,,,,,noun,,communication,147
+pratique-revision-a1,lien,,le,,,noun,,communication,147
+pratique-revision-a1,liker,,,,,verb,,communication,147
+pratique-revision-a1,likes,,des,,,noun,,communication,147
+pratique-revision-a1,mot de passe,,un,,,noun,,communication,147
+pratique-revision-a1,nom d’utilisateur,,un,,,noun,,communication,147
+pratique-revision-a1,ordinateurs,,,,,noun,,communication,147
+pratique-revision-a1,pages,,,,,noun,,communication,147
+pratique-revision-a1,partager,,,,,verb,,communication,147
+pratique-revision-a1,portables,,,,,noun,,communication,147
+pratique-revision-a1,poster,,,,,verb,,communication,147
+pratique-revision-a1,profil,,un,,,noun,,communication,147
+pratique-revision-a1,publier,,,,,verb,,communication,147
+pratique-revision-a1,réseau social,,un,,,noun,,communication,147
+pratique-revision-a1,réseaux sociaux,,,,,noun,,communication,147
+pratique-revision-a1,sites,,des,,,noun,,communication,147
+pratique-revision-a1,smartphones,,,,,noun,,communication,147
+pratique-revision-a1,statut,,un,,,noun,,communication,147
+pratique-revision-a1,sur,,,,,preposition,,communication,147
+pratique-revision-a1,tablettes,,,,,noun,,communication,147
+pratique-revision-a1,Toile,,la,,,noun,,communication,147
+pratique-revision-a1,télécharger,,,,,verb,,communication,147
+pratique-revision-a1,vidéos,,des,,,noun,,communication,147
+pratique-revision-a1,web,,le,,,noun,,communication,147

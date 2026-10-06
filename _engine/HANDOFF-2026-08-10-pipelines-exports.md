@@ -154,6 +154,65 @@ than deleted: why a control exists is worth more than a tidy list.
 
 ## 6. Open work, in the order I would do it
 
+**Updated 2026-10-01. Focus: finish French, and the four new CLE Pratique books
+come first.** Twenty scanner PDFs arrived in `_inbox/` and were filed as four
+books under `french/pdf/cle-international/` (scanner name → path in
+`scan-filenames.txt`), then registered `registered-not-started` with a full
+`recon` block. All four main books are verified complete against their own
+Sommaire, and none needs a rescan. All four are image-only (no text layer), and
+all four print their answers in a separate *Corrigés* booklet that we hold, so
+`answer_key.status` is `printed` and a blank `correct_answer` is a gap to fill,
+not an expected blank.
+
+| Book | Pages | Exercises | Note |
+|---|---|---|---|
+| `pratique-conjugaison-a1a2` | 182 | 500 | Duplicates legacy `conjugaison-a1-a2` |
+| `pratique-grammaire-a1a2` | 222 | 640 | New |
+| `pratique-revision-a1` | 334 | 690 | Duplicates legacy `revision-2`; audio online only |
+| `pratique-revision-a2` | 366 | 680 | New; audio online only |
+
+Also fixed this session: `check_exports_current.py` still skipped German behind
+a stale "gap P1" guard, so the German CI step below was passing without
+comparing anything. The guard is gone, and German compares 45 artifacts current.
+
+**Progress 2026-10-05:** legacy duplicates retired (Harshan: re-extract from the clean scans). `pratique-conjugaison-a1a2` is DONE through phase G: 182 pages, answer key 500/500, 3706 question rows with 100% `instruction` and `correct_answer`, all gates green, status `extracted-ready-to-deliver` (not yet packaged/uploaded). Two engine fixes landed on the way: `verify_answers.py` no longer reads an answer that equals one of its own options (the verb "a") as a letter, and the German export check is live. Answer-booklet spreads are transcribed whole, never split (a midpoint split cut columns off). `pratique-grammaire-a1a2` DONE through phase G on 2026-10-06: 222 pages, 621 exercises (the book has no 440-459), 5356 rows, 100% answered (23 key misprints corrected, 16 derived, all listed in its caveats), all gates green. `pratique-revision-a1` DONE through phase G on 2026-10-06: 334 pages, 692 exercises, 145 audio tracks (transcripts from the booklet), 5730 rows 100% answered (key misprints corrected and 5 answers derived, all in its caveats; ex. 10 answers filled from the Piste 11 transcript), 1621 vocabulary entries, 117 inline-choice multiple-choice items waived in `accepted_option_gaps`, all gates green. `pratique-revision-a2` DONE through phase G on 2026-10-06: 366 pages, 681 exercises (the cover says 680), 27 Bilans, answer booklet 32 spreads (answers 1-681 + 40 listening transcripts), 6034 rows 100% answered (8 free-writing items open-ended by design), 1632 vocabulary entries; 16 key misprints corrected and ~50 key gaps derived (incl. the whole unit 10 Bilan 3 crossword, which the key never prints), all listed in its caveats; all gates green. All four Pratique books are now extracted-ready-to-deliver (not yet packaged/uploaded). Lesson: parallel enrichment agents share one scratchpad and clobbered each other's `q.py`; tell them to use a per-chunk subfolder, and re-verify every chunk's page range after a run.
+
+Next, in order:
+
+1. **Legacy duplicates decision (blocks on Harshan).** Recommendation: retire
+   `revision-2` (0/181 transcribed, nothing lost) and `conjugaison-a1-a2`
+   (legacy pipeline, 67/104 QA-verified, in no export) in favour of the new
+   scans on `_engine/`. Do not process both copies of either book.
+2. **Prepare the four Corrigés booklets.** Each is scanned as two-page spreads
+   in booklet-imposition order: split to single pages and reorder to reading
+   order. Conjugaison's booklet scan repeats PDF p1-10 as p11-20; use p1-10 and
+   p21-24 only (28 printed pages, complete).
+3. **Extract the Pratique books one at a time, stop-and-report between:**
+   Conjugaison (smallest; proves the series layout on the engine), then
+   Grammaire, then Révision A1, then Révision A2. Fill `correct_answer` from the
+   prepared booklet. The two Révision booklets also print the listening
+   transcripts, so listening items are answerable without the audio.
+   Printed page = PDF page + 2 in every main book. Each book runs the same
+   phases, and the next book does not start until the last phase is reported
+   and approved:
+
+   | Phase | Work | Gate before moving on |
+   |---|---|---|
+   | A. Rasterize | `pdf_to_images.py` on the main book and the prepared booklet | `--audit` blank list reviewed; genuine blanks recorded |
+   | B. Pilot (first book only) | Transcribe + QA ~10 pages across chapter types | Output reviewed with Harshan before any batch run |
+   | C. Transcribe | 5-6 page batches, adversarial QA, `qa-apply` | `reconcile.py` CLEAN |
+   | D. Answer booklet | Transcribe the booklet's single pages | Every exercise number in the book found in the booklet |
+   | E. Enrich | Classify, questions (with `instruction`, bare `level`), vocabulary; fill `correct_answer` from the booklet; `merge_enrich.py` | Every chunk merged |
+   | F. Verify | `verify_answers.py`; hand-measure `instruction` / `correct_answer` fill | `correct_answer` blank only for open-ended items |
+   | G. Export + report | `build_exports.py`, `verify_exports.py`, commit | Report; next book only on approval |
+4. **Stage 2, French half only:** the 140 French bare-letter matching answers
+   (63 pages to re-read), as described in the 2026-08-11 entry below.
+5. **Saison 2** (215pp), then **Cosmopolite 5** (226pp).
+6. **DELF Prim:** parked until a complete copy is sourced.
+7. **Deliver:** rebuild exports, run the gates, stamp a version, upload to Drive.
+
+### Previous update, 2026-08-11
+
 **Updated 2026-08-11, end of session.** The deliverables are packaged, verified
 and stamped at `v1.1.9` / commit `9bd75bd`, ready to upload; the upload itself is
 Harshan's step and is not confirmed here until it is done. P1 is
@@ -196,6 +255,20 @@ Next, in order:
 ---
 
 ## 7. Traps worth carrying forward
+
+- **`manifest_media.py qa-apply` rewrites delivered books (found 2026-10-05).** It
+  walks every collection, not just the one you are working on, and for each page
+  whose QA verdict is `ok: false` it re-appends that verdict's `issues` as a
+  `<!-- QA ISSUES -->` block to the page body. On an accepted-gap page that already
+  carries the block, this appends it again, and on Cosmopolite p091 it left a
+  broken fragment. One run touched 10 delivered pages (Cosmopolite p091,
+  Tricolore 2 p016/p167-177), which were restored from git. Until it is scoped to
+  named collections and made idempotent, do not run it: `reconcile.py` reads the
+  QA files directly and does not need it.
+- **`check_exports_current.py` leaves new artifacts behind.** It restores the
+  files that existed before its in-place rebuild, but files the rebuild newly
+  creates (a just-transcribed book's `<slug>.md` and `-catalog.csv`) stay on
+  disk, untracked. Delete them after the check until it cleans up after itself.
 
 - **Disk truth over agent self-reports.** Now a shipped tool, `verify_backfill.py`, not a
   habit. Every wave this session was checked against `git HEAD`; it found zero drift, but

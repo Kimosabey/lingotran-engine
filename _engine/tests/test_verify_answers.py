@@ -38,6 +38,27 @@ class TrueFalseWhitespaceTests(unittest.TestCase):
         json.dump({'items': items}, open(path, 'w', encoding='utf-8'))
         return path
 
+    def test_answer_equal_to_an_option_text_is_not_read_as_a_letter(self):
+        """Conjugation drills print verb forms as options ("ai / as / a").
+        The correct answer "a" is the verb, and must not be rewritten to the
+        text of option a ("ai"), which is what happened to 14 items."""
+        path = self._write_items([
+            {'source_page': 1, 'item': '292-b', 'item_type': 'multiple-choice',
+             'option_a': 'ai', 'option_b': 'as', 'option_c': 'a', 'correct_answer': 'a'},
+        ])
+        verify_collection(self.tmpdir, self.slug, FR)
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], 'a')
+
+    def test_bare_letter_still_resolved_when_no_option_has_that_text(self):
+        path = self._write_items([
+            {'source_page': 1, 'item': '1', 'item_type': 'multiple-choice',
+             'option_a': 'la Suede', 'option_b': 'la France', 'correct_answer': 'b'},
+        ])
+        verify_collection(self.tmpdir, self.slug, FR)
+        data = json.load(open(path, encoding='utf-8'))
+        self.assertEqual(data['items'][0]['correct_answer'], 'la France')
+
     def test_leading_whitespace_no_longer_corrupts_vrai(self):
         """The exact reported bug: " vrai" must become "Vrai", not "Vraii"."""
         path = self._write_items([

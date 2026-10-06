@@ -1,0 +1,21 @@
+# Original scanner filenames -> final paths (intake 2026-10-01)
+S041000547_2609291625000.pdf -> pratique-revision-a2/pratique-revision-a2__cover.pdf
+S041000547_2609291619000.pdf -> pratique-revision-a2/pratique-revision-a2__title-page.pdf
+S041000547_2609291619001.pdf -> pratique-revision-a2/pratique-revision-a2__credits.pdf
+S041000547_2609291620000.pdf -> pratique-revision-a2/pratique-revision-a2.pdf
+S041000547_2609291629000.pdf -> pratique-revision-a1/pratique-revision-a1__title-page.pdf
+S041000547_2609291629001.pdf -> pratique-revision-a1/pratique-revision-a1__credits.pdf
+S041000547_2609291629002.pdf -> pratique-revision-a1/pratique-revision-a1.pdf
+S041000547_2609291633000.pdf -> pratique-revision-a1/pratique-revision-a1__cover.pdf
+S041000547_2609291625001.pdf -> pratique-grammaire-a1a2/pratique-grammaire-a1a2__cover.pdf
+S041000547_2609291626000.pdf -> pratique-grammaire-a1a2/pratique-grammaire-a1a2__title-page.pdf
+S041000547_2609291626001.pdf -> pratique-grammaire-a1a2/pratique-grammaire-a1a2__credits.pdf
+S041000547_2609291626002.pdf -> pratique-grammaire-a1a2/pratique-grammaire-a1a2.pdf
+S041000547_2609291634000.pdf -> pratique-conjugaison-a1a2/pratique-conjugaison-a1a2__cover.pdf
+S041000547_2609291634001.pdf -> pratique-conjugaison-a1a2/pratique-conjugaison-a1a2__title-page.pdf
+S041000547_2609291635000.pdf -> pratique-conjugaison-a1a2/pratique-conjugaison-a1a2__credits.pdf
+S041000547_2609291635001.pdf -> pratique-conjugaison-a1a2/pratique-conjugaison-a1a2.pdf
+S041000547_2609291559000.pdf -> pratique-revision-a2/pratique-revision-a2__corriges.pdf
+S041000547_2609291607000.pdf -> pratique-revision-a1/pratique-revision-a1__corriges.pdf
+S041000547_2609291608000.pdf -> pratique-grammaire-a1a2/pratique-grammaire-a1a2__corriges.pdf
+S041000547_2609291606000.pdf -> pratique-conjugaison-a1a2/pratique-conjugaison-a1a2__corriges.pdf

@@ -1,0 +1,1676 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "048-062",
+  "entries": [
+    {
+      "word": "matin",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "midi (l’heure du midi)",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "après-midi",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "soir",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "nuit",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me réveille",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me lève",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "petit-déjeuner",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me prépare",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me douche",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "prends une douche",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me lave",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me coiffe",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me brosse",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "m’habille",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "mets",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "se préparer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "se rasent",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "se maquillent",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "pars",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "travailler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "en cours",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "déjeune",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "journée de travail",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "rentre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "dîne",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "enlève",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me déshabille",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me repose",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "me couche",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "m’endors",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "dors",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "se démaquillent",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "050",
+      "translation": ""
+    },
+    {
+      "word": "fait les courses",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "cuisine",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "cuisine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "mettre la table",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "débarrasse la table",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "fait la vaisselle",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "propre",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "fait le ménage",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "balaie",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "fait la poussière",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "range",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "vide les poubelles",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "fait le lit",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "linge",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "lave",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "repasser",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "promène",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "052",
+      "translation": ""
+    },
+    {
+      "word": "à pied",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "à vélo",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "à trottinette",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "en voiture",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "en covoiturage",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "en transports en commun",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "en bus",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "en train",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "train régional",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "en métro",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "en tram(way)",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "053",
+      "translation": ""
+    },
+    {
+      "word": "a besoin de/d’",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "cahier",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "feuille",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "livre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "dictionnaire",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "trousse",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "crayon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "gomme",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "stylo",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "ciseaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "colle",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "correcteur",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "chaises",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "tables",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "tableau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "bureau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "ordinateur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "écran",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "clavier",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "souris",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "055",
+      "translation": ""
+    },
+    {
+      "word": "affaires",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "sac à main",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "sac à dos",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "portefeuille",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "porte-monnaie",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "téléphone portable",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "clés",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "gourde",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "agenda",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "carnet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "clé USB",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "casque",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "écouteurs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "mouchoirs en papier",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "parapluie",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "lunettes de soleil",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "056",
+      "translation": ""
+    },
+    {
+      "word": "avons besoin",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "produits d’hygiène",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "savon",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "gel douche",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "nous nous essuyons",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "serviette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "crème",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "parfum",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "brosse à dents",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "dentifrice",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "shampoing",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "peigne",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "brosse",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "rasoir",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "mousse à raser",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "rouge à lèvres",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "057",
+      "translation": ""
+    },
+    {
+      "word": "vêtements",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "tenue",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "porter",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "pull",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "chemise",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "chemisier",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "tee-shirt (T-shirt)",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "pantalon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "jean",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "bermuda",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "short",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "jupe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "robe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "tailleur",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "costume",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "veste",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "manteau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "blouson",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "imper(méable)",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "taille",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "essayer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "059",
+      "translation": ""
+    },
+    {
+      "word": "sous-vêtements",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "culotte",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "slip",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "caleçon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "soutien-gorge",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "collants",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "chaussettes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "pyjama",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "peignoir",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "nu",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "060",
+      "translation": ""
+    },
+    {
+      "word": "beige",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "blanc",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "bleu",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "gris",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "jaune",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "marron",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "noir",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "orange",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "rose",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "rouge",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "vert",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "violet",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "uni",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "imprimé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "à pois",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "à rayures",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "à carreaux",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "coton",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "laine",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "velours",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "soie",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "acrylique",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    },
+    {
+      "word": "cuir",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "daily-routine",
+      "source_page": "062",
+      "translation": ""
+    }
+  ]
+}

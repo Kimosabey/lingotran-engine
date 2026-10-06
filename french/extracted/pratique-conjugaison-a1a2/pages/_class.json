@@ -1,0 +1,1097 @@
+{
+ "collection": "pratique-conjugaison-a1a2",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Foreword: conjugation workbook for A1-A2 learners, thirteen chapters with bilans."
+  },
+  {
+   "page": 2,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Blank page."
+  },
+  {
+   "page": 3,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents, chapters 01-07 (present and imperfect tenses)."
+  },
+  {
+   "page": 4,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Table of contents, chapters 08-13 (imperfect, passé composé, future, imperative)."
+  },
+  {
+   "page": 5,
+   "activity_type": "matching",
+   "topic": "personal-info",
+   "summary": "Present of être: rule box, matching subjects, est/es gap-fill, word order."
+  },
+  {
+   "page": 6,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of être: pluralising, est/sont gap-fill, conjugation and sentence building."
+  },
+  {
+   "page": 7,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Être negation and c'est/ce sont: negative gap-fill, matching, word order."
+  },
+  {
+   "page": 8,
+   "activity_type": "short-answer",
+   "topic": "personal-info",
+   "summary": "Être: word order, yes/no answers, forming est-ce que questions, sentences."
+  },
+  {
+   "page": 9,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Être dialogue gap-fill; present of avoir rule box, underline and matching."
+  },
+  {
+   "page": 10,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Avoir: dialogue gap-fill, n'a pas/n'y a pas, questions and word order."
+  },
+  {
+   "page": 11,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Avoir answers and gap-fill; être vs avoir pronouns and circle-the-verb."
+  },
+  {
+   "page": 12,
+   "activity_type": "multiple-choice",
+   "topic": "personal-info",
+   "summary": "Être vs avoir: pronunciation notes, cross-out and underline choices, gap-fill."
+  },
+  {
+   "page": 13,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Être vs avoir: paired gap-fill, avoir expressions cross-out, free answers."
+  },
+  {
+   "page": 14,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "C'est/ce sont... qui with être/avoir; shop notice and babysitter dialogue gap-fills."
+  },
+  {
+   "page": 15,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 1: two être/avoir paragraph gap-fills (flat description, artist couple)."
+  },
+  {
+   "page": 16,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Present of regular -er verbs: rules, subject matching, endings choice, tu conversion."
+  },
+  {
+   "page": 17,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-er verbs: singular/plural, vous forms (ATM steps), endings, on to nous."
+  },
+  {
+   "page": 18,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-er verbs: sentence building, questions with quand, same-verb replies; -ier note."
+  },
+  {
+   "page": 19,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-ier/-uer/-ouer verbs: cross out wrong forms, gap-fills, tu conversion."
+  },
+  {
+   "page": 20,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-er verbs: answers, word order, historical dates; present of aller rule."
+  },
+  {
+   "page": 21,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Present of aller: matching, vas/va choice, plural, places, -ez/-er directions."
+  },
+  {
+   "page": 22,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Aller: dialogue gap-fills, word order, free answers, futur proche transformation."
+  },
+  {
+   "page": 23,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-cer and -ger verbs: c/ç spelling, on to nous, nous answers."
+  },
+  {
+   "page": 24,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-ler and -ter verbs (appeler, geler, jeter, acheter): conjugation and pronouns."
+  },
+  {
+   "page": 25,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "-ter, -ener/-ever, -érer verbs: vouvoiement, vegetarian text gap-fill, accent choice."
+  },
+  {
+   "page": 26,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-érer verbs tutoiement, gap-fill text; -yer verbs: find the infinitive."
+  },
+  {
+   "page": 27,
+   "activity_type": "fill-in",
+   "topic": "shopping",
+   "summary": "-yer verbs: vouvoiement, gap-fills, shop dialogue with essayer/préférer/acheter."
+  },
+  {
+   "page": 28,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Bilan 2: present -er verbs in texts on the Loire valley and Paris."
+  },
+  {
+   "page": 29,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Present of faire: rule box, sentence matching, pronoun gap-fill, professions answers."
+  },
+  {
+   "page": 30,
+   "activity_type": "fill-in",
+   "topic": "daily-routine",
+   "summary": "Faire: tu/vous switch, endings, free answers, phone dialogue gap-fill."
+  },
+  {
+   "page": 31,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Faire and dire: dialogue gap-fill, word order, vouvoiement and dis/dit choice."
+  },
+  {
+   "page": 32,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Dire vs parler; pouvoir/vouloir rule box; pronoun gap-fill and meanings of pouvoir."
+  },
+  {
+   "page": 33,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pouvoir drills: meaning ticks, word order, negative answers, questions, être/pouvoir gap-fill."
+  },
+  {
+   "page": 34,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pouvoir/vouloir: si-clauses, matching, je veux bien transformations, radical gap-fill."
+  },
+  {
+   "page": 35,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Vouloir: endings gap-fill and transformations from avoir envie, refuser, questions."
+  },
+  {
+   "page": 36,
+   "activity_type": "fill-in",
+   "topic": "restaurant",
+   "summary": "Avoir/vouloir/pouvoir gap-fills, restaurant dialogue; rule box on falloir and devoir."
+  },
+  {
+   "page": 37,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Devoir: obligation vs probability ticks, radicals, pronouns and endings gap-fill."
+  },
+  {
+   "page": 38,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Devoir/falloir: word order, transformations, matching, paragraph gap-fill."
+  },
+  {
+   "page": 39,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Falloir transformations, pouvoir+devoir sentences, savoir rule box and endings."
+  },
+  {
+   "page": 40,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Savoir: tu/vous switching, je sais que answers, transformations and sentence building."
+  },
+  {
+   "page": 41,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Irregular verbs review: tu/vous gap-fill, free answers, verb + dire gap-fill."
+  },
+  {
+   "page": 42,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 3: two present-tense gap-fill texts (game rules, phone message)."
+  },
+  {
+   "page": 43,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Chapter 4 opener: -ir verbs like finir; nous to je, pronouns, plurals."
+  },
+  {
+   "page": 44,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Finir-type verbs: plurals, negative nous answers, endings, adjective-based verbs."
+  },
+  {
+   "page": 45,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-ir verbs: adjective-to-verb transformations, free answers, gap-fill in parentheses."
+  },
+  {
+   "page": 46,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of -ir verbs like ouvrir: choose forms, gap-fill, underline -er-like verbs."
+  },
+  {
+   "page": 47,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of -ir verbs like partir: matching subjects and completing with the right stem."
+  },
+  {
+   "page": 48,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Partir-type verbs: pronouns, pluralising, choosing partir/venir/sortir, conjugating."
+  },
+  {
+   "page": 49,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Opposites with -ir verbs, quitter/partir/sortir gap-fill; venir and tenir rule box."
+  },
+  {
+   "page": 50,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Venir and its derivatives: matching, choosing forms, singular, être/venir with origins."
+  },
+  {
+   "page": 51,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Venir/tenir derivatives, vous-to-tu, and the passé immédiat with venir de."
+  },
+  {
+   "page": 52,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "End of venir de drill and Bilan 4: two present-tense paragraph gap-fills."
+  },
+  {
+   "page": 53,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Present of -dre verbs like attendre: matching, d/ds endings, écouter or entendre."
+  },
+  {
+   "page": 54,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Attendre-type verbs: écouter/entendre, tu-to-vous, pluralising and conjugating."
+  },
+  {
+   "page": 55,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Present of prendre-type verbs: choose the correct form and pluralise sentences."
+  },
+  {
+   "page": 56,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Prendre-type stems and two-verb sentence gap-fills with -dre verbs."
+  },
+  {
+   "page": 57,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Prendre-type sentence endings; -aindre/-eindre/-oindre verbs: s or t, pluralising."
+  },
+  {
+   "page": 58,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Connaître and mettre type verbs: matching sentence halves and supplying pronouns."
+  },
+  {
+   "page": 59,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pluralising mettre/connaître verbs; vivre, croire, boire rule box and s or t."
+  },
+  {
+   "page": 60,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pluralise -re verbs, lire/écrire rule box, matching subjects, put into singular."
+  },
+  {
+   "page": 61,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Present of -re verbs: singular/plural transformations and negative answers with nous."
+  },
+  {
+   "page": 62,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Present of -re verbs: free answers; grammar box on -oir verbs; voir/regarder choice."
+  },
+  {
+   "page": 63,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Recevoir/apercevoir grammar box; matching and gap-fill with -oir verbs."
+  },
+  {
+   "page": 64,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 5: present-tense gap-fill texts with -re and -oir verbs, weather bulletin."
+  },
+  {
+   "page": 65,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Pronominal verbs intro: identify pronominal forms and match subjects to verbs."
+  },
+  {
+   "page": 66,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Reflexive vs reciprocal verbs, reflexive pronoun gap-fill, transform to pronominal form."
+  },
+  {
+   "page": 67,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Pronominal verbs after another verb: word order, pronoun gap-fill, nous to on."
+  },
+  {
+   "page": 68,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Pronominal verbs in the negative: word order and negative answers."
+  },
+  {
+   "page": 69,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Pronominal verbs: free answers, forming questions, vous to tu, paragraph gap-fill."
+  },
+  {
+   "page": 70,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal -ir/-re/-oir verbs: gap-fill, matching, finding questions, vous to tu."
+  },
+  {
+   "page": 71,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "S'asseoir conjugations; dialogue and sentence gap-fill with pronominal verbs."
+  },
+  {
+   "page": 72,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal verbs: word order, answers, present progressive with être en train de."
+  },
+  {
+   "page": 73,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 6: pronominal verbs gap-fill in an email and a text about learning French."
+  },
+  {
+   "page": 74,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Imperfect of être and avoir: grammar box and choosing être endings."
+  },
+  {
+   "page": 75,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imperfect of être: matching, pronoun gap-fill, plural transformation and conjugation."
+  },
+  {
+   "page": 76,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imparfait of être: word order, negative forms and personal yes/no answers."
+  },
+  {
+   "page": 77,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "C'était/c'étaient box; être gap-fill, être or avoir choice, avoir crossing-out."
+  },
+  {
+   "page": 78,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imparfait of avoir/être: pronouns, present-to-imparfait and negative 'avant' rewrites."
+  },
+  {
+   "page": 79,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Être/avoir imparfait gap-fills; -er imparfait formation box; repeated action vs description."
+  },
+  {
+   "page": 80,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of -er verbs: ticking, matching, crossing-out, conjugation and ending drills."
+  },
+  {
+   "page": 81,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imparfait -er endings, yes/no questions and answers, 'Et si' + imparfait suggestions."
+  },
+  {
+   "page": 82,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Imparfait of -ger/-cer verbs: spelling box, crossing-out and ending gap-fill."
+  },
+  {
+   "page": 83,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-ger/-cer singular and tu rewrites; -yer/-ier box; present vs imparfait choice."
+  },
+  {
+   "page": 84,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "On to nous with -yer/-ier verbs; present then imparfait; pouvoir/vouloir/devoir box."
+  },
+  {
+   "page": 85,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of pouvoir, vouloir, devoir, savoir: matching, pronouns, crossing-out, nous/vous."
+  },
+  {
+   "page": 86,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Rewrite sentences swapping devoir and il fallait in the imparfait."
+  },
+  {
+   "page": 87,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Bilan 7: two imparfait texts, a grandmother portrait and school memories."
+  },
+  {
+   "page": 88,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of -ir verbs: formation box, nous forms, -ir/-er choice, matching."
+  },
+  {
+   "page": 89,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imparfait of -ir verbs: crossing-out and answering questions with the same verb."
+  },
+  {
+   "page": 90,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of -ir verbs: endings, text transformation, gap-fills and 'plus... plus' sentences."
+  },
+  {
+   "page": 91,
+   "activity_type": "fill-in",
+   "topic": "school",
+   "summary": "Imparfait of -ir and -dre verbs: gap-fill text, nous/vous stems, pronouns."
+  },
+  {
+   "page": 92,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of -re verbs: nous to on, gap-fill and negative forms."
+  },
+  {
+   "page": 93,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of -tre/-vre/-oir verbs: text gap-fill, stems, choose the right verb."
+  },
+  {
+   "page": 94,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait endings, cross-out choices, gap-fill, true/false tense recognition, reported speech."
+  },
+  {
+   "page": 95,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait: reported-speech transforms and gap-fill texts about the Middle Ages and winter."
+  },
+  {
+   "page": 96,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imparfait of pronominal verbs: word order, reflexive pronouns, endings."
+  },
+  {
+   "page": 97,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal verbs in the imparfait: before/now contrasts and gap-fill."
+  },
+  {
+   "page": 98,
+   "activity_type": "short-answer",
+   "topic": "personal-info",
+   "summary": "Ask and answer imparfait questions with pronominal verbs about childhood."
+  },
+  {
+   "page": 99,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Bilan 8 review: imparfait gap-fill text and rewriting a text with pronominal verbs."
+  },
+  {
+   "page": 100,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Passé composé of être/avoir intro: matching subjects and avoir gap-fill."
+  },
+  {
+   "page": 101,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé of être: cross-out auxiliary, word order, negative forms."
+  },
+  {
+   "page": 102,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé of être/avoir: plurals, questions, subjects, avoir eu gap-fill."
+  },
+  {
+   "page": 103,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé of avoir: questions, negative answers, été vs eu, phone message."
+  },
+  {
+   "page": 104,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé of -er verbs: tense recognition, participles, choose the auxiliary."
+  },
+  {
+   "page": 105,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé of -er verbs: auxiliary choice, matching, plurals, gap-fill, transforms."
+  },
+  {
+   "page": 106,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé of -er verbs with avoir: negation, questions, word order, sentence building."
+  },
+  {
+   "page": 107,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé with avoir: gap-fills, a football-match text, and oui/non answers."
+  },
+  {
+   "page": 108,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Restaurant-date text gap-fill; past participle agreement with preceding direct object."
+  },
+  {
+   "page": 109,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Passé composé of pouvoir, vouloir, devoir, falloir, savoir: matching, pronouns, present."
+  },
+  {
+   "page": 110,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Modal verbs in passé composé: reformulating, word order, vouloir/pouvoir gap-fill."
+  },
+  {
+   "page": 111,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Modal verbs in passé composé: questions, savoir transforms, gap-fills, picnic text begins."
+  },
+  {
+   "page": 112,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Picnic text ends; passé composé of -ir verbs like finir: auxiliary, opposites, negation."
+  },
+  {
+   "page": 113,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-ir verbs like ouvrir (participle -ert): negative answers, present, gap-fill, transforms."
+  },
+  {
+   "page": 114,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-ir verbs in passé composé: transforms, ouvrir/offrir gap-fill, -i/-u participle rule box."
+  },
+  {
+   "page": 115,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-i or -u participles, marathon text gap-fill, -dre verb participles in answers."
+  },
+  {
+   "page": 116,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-dre verbs in passé composé: answers, infinitives, participle word bank, questions."
+  },
+  {
+   "page": 117,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-dre questions and negative answers; -re participles (-u, -is, -it) with matching."
+  },
+  {
+   "page": 118,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "-re verb participles: endings choice, same-verb gap-fill, -i/-is/-it, word order."
+  },
+  {
+   "page": 119,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-re verbs: word order, rewriting in passé composé, negative passé composé sentences."
+  },
+  {
+   "page": 120,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "-oir verb participles: infinitives, back to present, choosing the right verb."
+  },
+  {
+   "page": 121,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé with avoir: verb choice, yes/no answers, inversion questions."
+  },
+  {
+   "page": 122,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 9: passé composé with avoir gap-fill dialogue and sports interview."
+  },
+  {
+   "page": 123,
+   "activity_type": "matching",
+   "topic": "mixed",
+   "summary": "Passé composé with être, -er verbs: subject matching and être gap-fill."
+  },
+  {
+   "page": 124,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé with être: on to nous, agreement choice, tu, transformation."
+  },
+  {
+   "page": 125,
+   "activity_type": "ordering",
+   "topic": "mixed",
+   "summary": "Passé composé with être: transformations, short text gap-fill, negation word order."
+  },
+  {
+   "page": 126,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé with être: negatives, personal answers and question formation."
+  },
+  {
+   "page": 127,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé with être, -ir/-re verbs: participle endings, être, negatives."
+  },
+  {
+   "page": 128,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé with être: agreement choice, questions, opposites, personal answers."
+  },
+  {
+   "page": 129,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé with être: personal answers, inversion questions, short story gap-fill."
+  },
+  {
+   "page": 130,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Passé composé: story gap-fill, headlines to sentences, reflexive pronouns."
+  },
+  {
+   "page": 131,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Pronominal verbs in passé composé: matching, vouvoiement, answers, gap-fill."
+  },
+  {
+   "page": 132,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal passé composé negation: word order, negative answers, transformations."
+  },
+  {
+   "page": 133,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal passé composé: est-ce que questions and present-to-past transformations."
+  },
+  {
+   "page": 134,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal passé composé: text gap-fill, participle endings, nous to vous, negatives."
+  },
+  {
+   "page": 135,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal passé composé agreement: participle agreement, gap-fill, text transformation."
+  },
+  {
+   "page": 136,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal verbs in passé composé: text rewrite, gap-fill and oui/non answers."
+  },
+  {
+   "page": 137,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Être or avoir: choose auxiliary, agreement endings, questions and negative answers."
+  },
+  {
+   "page": 138,
+   "activity_type": "fill-in",
+   "topic": "profession",
+   "summary": "Avoir or être gap-fill text, passé composé rewrites, dual-auxiliary verbs grammar box."
+  },
+  {
+   "page": 139,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Dual-auxiliary verbs: tick être/avoir, matching, sorting, agreement and word order."
+  },
+  {
+   "page": 140,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Word order, passé composé gap-fill, pronominal forms grammar box and matching."
+  },
+  {
+   "page": 141,
+   "activity_type": "fill-in",
+   "topic": "family",
+   "summary": "Être or avoir with pronominal versus non-pronominal verbs: choose and gap-fill."
+  },
+  {
+   "page": 142,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Passé composé narrative rewrite, sports dialogue and friendship text gap-fills."
+  },
+  {
+   "page": 143,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 10: police interrogation dialogue and love-story rewrite in passé composé."
+  },
+  {
+   "page": 144,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Recent past (venir de): grammar box, present vs recent past, pronouns, forms."
+  },
+  {
+   "page": 145,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Recent past versus passé composé: completions and two-way transformations."
+  },
+  {
+   "page": 146,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Passé composé vs imparfait: grammar box, matching, choose the tense, avoir."
+  },
+  {
+   "page": 147,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Avoir in passé composé, comme-sentences and parce que answers mixing tenses."
+  },
+  {
+   "page": 148,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Put sentences into the past with imparfait in reported clauses; verb-bank endings."
+  },
+  {
+   "page": 149,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Space-race history text: passé composé or imparfait gap-fill."
+  },
+  {
+   "page": 150,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Bilan 11: Marie Curie text to past, Picasso and Matisse gap-fill."
+  },
+  {
+   "page": 151,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Future of être/avoir: rule box, pronoun gap-fill, cross-out choice and matching."
+  },
+  {
+   "page": 152,
+   "activity_type": "multiple-choice",
+   "topic": "mixed",
+   "summary": "Future of avoir/être: endings gap-fill, cross-out choices, singular-to-plural rewrites."
+  },
+  {
+   "page": 153,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Future of être/avoir gap-fills and questions; rule box for -er verb future."
+  },
+  {
+   "page": 154,
+   "activity_type": "fill-in",
+   "topic": "city-places",
+   "summary": "Future of -er verbs: matching, endings, directions gap-fill, subject completion."
+  },
+  {
+   "page": 155,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Future of -er verbs and aller: rewrites, sentence completion, paragraph gap-fill."
+  },
+  {
+   "page": 156,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Spelling changes in -er futures (appeler, -yer, envoyer): matching and gap-fill."
+  },
+  {
+   "page": 157,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Accent choice e/é/è in futures; irregular -oir future stems; give the infinitive."
+  },
+  {
+   "page": 158,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Future of pouvoir, devoir, savoir, falloir: matching, infinitive grid, endings, answers."
+  },
+  {
+   "page": 159,
+   "activity_type": "fill-in",
+   "topic": "hobby",
+   "summary": "Future of modals in pool-rules paragraph; -ir verb future rules and pronoun gap-fill."
+  },
+  {
+   "page": 160,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Future of -ir verbs (venir, tenir, ouvrir): endings, question-answer and gap-fill."
+  },
+  {
+   "page": 161,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Future of -re verbs: rule box, matching, pronoun gap-fill, sentence completion."
+  },
+  {
+   "page": 162,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Rewrite a retirement paragraph in the future; free answers to 'Que ferez-vous si'."
+  },
+  {
+   "page": 163,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Future of -oir verbs: underline and infinitive, word order, on-to-vous, climate gap-fill."
+  },
+  {
+   "page": 164,
+   "activity_type": "short-answer",
+   "topic": "daily-routine",
+   "summary": "Future of pronominal verbs: matching, rewrites, ski-day paragraph in the future."
+  },
+  {
+   "page": 165,
+   "activity_type": "fill-in",
+   "topic": "weather",
+   "summary": "Pronominal futures: weather forecast gap-fill, method advert rewrite, Victor Hugo text."
+  },
+  {
+   "page": 166,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Futur proche formation: gap-fill with aller + infinitive and reflexive pronouns."
+  },
+  {
+   "page": 167,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Futur proche: word order, questions, negative answers and a paragraph rewrite."
+  },
+  {
+   "page": 168,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal verbs in futur proche; choosing futur simple or futur proche."
+  },
+  {
+   "page": 169,
+   "activity_type": "fill-in",
+   "topic": "home",
+   "summary": "Bilan 12: futur simple paragraph gap-fill and recommendation dialogue."
+  },
+  {
+   "page": 170,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative of être and avoir: matching, tu-to-vous change, gap-fill."
+  },
+  {
+   "page": 171,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Negative imperative and -er verb imperative: rewriting advice."
+  },
+  {
+   "page": 172,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imperative of -er verbs: nous forms, -s and hyphen with y/en, gap-fill."
+  },
+  {
+   "page": 173,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imperative of -ir/-re/-oir verbs: matching, tu/vous endings, word order."
+  },
+  {
+   "page": 174,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Imperative of -ir/-re/-oir verbs: gap-fill, choose correct form, rewrite."
+  },
+  {
+   "page": 175,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Imperative with object pronouns; rewriting requests as imperatives."
+  },
+  {
+   "page": 176,
+   "activity_type": "fill-in",
+   "topic": "travel",
+   "summary": "Imperative of savoir/vouloir; travel advice paragraph in vous and tu."
+  },
+  {
+   "page": 177,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal verb imperative: pronouns, endings, matching, rewriting."
+  },
+  {
+   "page": 178,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Pronominal imperative: word order, negative forms, il faut rewrites."
+  },
+  {
+   "page": 179,
+   "activity_type": "fill-in",
+   "topic": "mixed",
+   "summary": "Pronominal imperative advice with given verbs; tu paragraph gap-fill."
+  },
+  {
+   "page": 180,
+   "activity_type": "fill-in",
+   "topic": "food",
+   "summary": "Bilan 13: imperative recipe gap-fill and advice to a friend."
+  },
+  {
+   "page": 181,
+   "activity_type": "short-answer",
+   "topic": "mixed",
+   "summary": "Bilan 13: New Year resolutions rewritten in nous imperative."
+  },
+  {
+   "page": 182,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Printer's colophon page; no exercises."
+  }
+ ]
+}

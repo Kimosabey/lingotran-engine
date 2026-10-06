@@ -1,0 +1,1256 @@
+{
+  "collection": "pratique-revision-a2",
+  "chunk": "063-077",
+  "entries": [
+    {
+      "word": "immeubles",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "appartements",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "studio",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "duplex",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "maisons",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "pavillon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "villa",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "ferme",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "chalet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "château",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "immeuble",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "résidence secondaire",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "propriétaire",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "locataire",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "colocataires",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "gardien",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "gardienne",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "syndic",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "copropriétaires",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "voisins",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "065",
+      "translation": ""
+    },
+    {
+      "word": "grand",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "spacieux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "petit",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "lumineux",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "sombre",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "calme",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "bruyant",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "ancien",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "moderne",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "orienté",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "étages",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "escalier",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "ascenseur",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "digicode",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "sonnette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "hall",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "entrée",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "rez-de-chaussée",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "boîtes à lettres",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "sous-sol",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "caves",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "parking",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "donner sur",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "cour",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "jardin",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "cave",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "068",
+      "translation": ""
+    },
+    {
+      "word": "entrée",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "couloir",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "cuisine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "salon",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "salle de séjour",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "salle à manger",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "salle de bain",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "salle d’eau",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "toilettes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "chambre",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "bureau",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "grenier",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "toit",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "panneaux solaires",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "mur",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "fenêtre",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "garage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "véranda",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "terrasse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "porte",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "plafond",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "sol",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "portail",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "balcon",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "volets",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "071",
+      "translation": ""
+    },
+    {
+      "word": "robinet",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "baignoire",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "lavabo",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "miroir",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "serviette",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "porte-serviette",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "étagère",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "douche",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "four",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "plaques de cuisson",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "plan de travail",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "frigo",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "évier",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "placards",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "tiroirs",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "lave-vaisselle",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "073",
+      "translation": ""
+    },
+    {
+      "word": "cheminée",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "fauteuil",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "table basse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "lampe",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "canapé",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "tapis",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "tableaux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "rideaux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "bibliothèque",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "lampe de chevet",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "table de chevet",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "oreillers",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "lit",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "commode",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "couette",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "armoire",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "075",
+      "translation": ""
+    },
+    {
+      "word": "vendeur",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "acheteur",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "acquéreur",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "agent immobilier",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "visites",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "vente",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "commission",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "notaire",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "frais de notaire",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "louer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "agences immobilières",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "contrat de location",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "frais d’agence",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "caution",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "loyer",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "charges",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "F2",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "F3",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "F4",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "T2",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "T3",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    },
+    {
+      "word": "T4",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "home",
+      "source_page": "077",
+      "translation": ""
+    }
+  ]
+}

@@ -217,7 +217,13 @@ def verify_collection(root, c, cfg=None, dry_run=False):
                                  '/'.join(w.capitalize() for w in terms['true'] + terms['false'])))
 
         if it.get('item_type') == 'multiple-choice':
-            if LETTER_RE.match(ans):
+            # An answer that IS one of the item's own option texts is that
+            # option, not a letter. A conjugation drill prints verb forms as its
+            # options ("ai / as / a"), so its correct answer "a" means the verb,
+            # and reading it as "option a" overwrote 14 correct answers in
+            # pratique-conjugaison-a1a2 with the wrong form ("a" -> "ai").
+            own_texts = {it.get('option_%s' % k, '') for k in 'abcde'} - {''}
+            if LETTER_RE.match(ans) and ans not in own_texts:
                 opt = _letter_option(it, ans)
                 if opt:
                     it['correct_answer'] = opt

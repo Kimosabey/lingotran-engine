@@ -1,0 +1,1556 @@
+{
+  "collection": "pratique-revision-a1",
+  "chunk": "003-017",
+  "entries": [
+    {
+      "word": "lettres",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "003",
+      "translation": ""
+    },
+    {
+      "word": "voyelles",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "003",
+      "translation": ""
+    },
+    {
+      "word": "consonnes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "003",
+      "translation": ""
+    },
+    {
+      "word": "majuscule",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "003",
+      "translation": ""
+    },
+    {
+      "word": "minuscule",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "003",
+      "translation": ""
+    },
+    {
+      "word": "épeler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "003",
+      "translation": ""
+    },
+    {
+      "word": "accent aigu",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "On dit : « e accent aigu ».",
+      "topic": "personal-info",
+      "source_page": "004",
+      "translation": ""
+    },
+    {
+      "word": "accent grave",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "On dit : « e accent grave », « a accent grave » et « u accent grave ».",
+      "topic": "personal-info",
+      "source_page": "004",
+      "translation": ""
+    },
+    {
+      "word": "accent circonflexe",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "On dit : « a accent circonflexe », « e accent circonflexe », « i accent circonflexe », etc.",
+      "topic": "personal-info",
+      "source_page": "004",
+      "translation": ""
+    },
+    {
+      "word": "tréma",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "On dit : « e tréma », « i tréma » et « u tréma ».",
+      "topic": "personal-info",
+      "source_page": "004",
+      "translation": ""
+    },
+    {
+      "word": "adresse e-mail",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "courriel",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "arobase",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "at",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "tiret",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "point",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "tiret bas",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "slash",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "deux-points",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "005",
+      "translation": ""
+    },
+    {
+      "word": "zéro",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "deux",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "trois",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "quatre",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "cinq",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "six",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "sept",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "huit",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "neuf",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "dix",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "onze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "douze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "treize",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "quatorze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "quinze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "seize",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "dix-sept",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "dix-huit",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "dix-neuf",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "vingt",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "006",
+      "translation": ""
+    },
+    {
+      "word": "vingt-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-deux",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-trois",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-quatre",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-cinq",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-six",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-sept",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-huit",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "vingt-neuf",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "trente",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "trente-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "trente-deux",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quarante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quarante-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "cinquante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "cinquante-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "soixante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "soixante-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "soixante-dix",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "soixante-et-onze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "soixante-douze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quatre-vingts",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quatre-vingt-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quatre-vingt-deux",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quatre-vingt-dix",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quatre-vingt-onze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "quatre-vingt-douze",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "cent",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "septante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "septante-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "septante-deux",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "nonante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "nonante-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "nonante-deux",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "huitante",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "huitante-et-un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "huitante-deux",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "008",
+      "translation": ""
+    },
+    {
+      "word": "cent",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "deux cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "deux cent un",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "trois cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "quatre cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "cinq cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "six cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "sept cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "huit cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "neuf cents",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "mille",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "dix mille",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "cent mille",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "un million",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "deux millions",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "un milliard",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "010",
+      "translation": ""
+    },
+    {
+      "word": "bonjour",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "bonsoir",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "salut",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "coucou",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Bonjour, Madame",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Bonsoir, Madame",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Bonjour, Monsieur",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Bonsoir, Monsieur",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Ça va ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Comment ça va ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Bien, merci, et toi ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Ça va, et toi ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Ça va (très) bien, et toi ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Bien merci, et vous ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Ça va, et vous ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Ça va (très) bien, et vous ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Au revoir !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Au revoir, bonne journée !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Au revoir, bonne soirée !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "À bientôt !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "À plus tard !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "à demain",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "à lundi",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "à mardi",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "à ce soir",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Ciao !",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "Bye !",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "013",
+      "translation": ""
+    },
+    {
+      "word": "remercier",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "s’excuser",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Merci",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Merci beaucoup",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Merci pour votre attention",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "De rien",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Il n’y a pas de quoi !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Je t’en prie",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Je vous en prie",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Bienvenue",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "S’il te plaît",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "S’il vous plaît",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Je suis désolé(e)",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Pardon",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Excuse-moi",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Excusez-moi",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Ce n’est pas grave !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Ce n’est rien",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Ça ne fait rien",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "015",
+      "translation": ""
+    },
+    {
+      "word": "Bienvenue !",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Tu es le/la bienvenu(e) !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Vous êtes le/la bienvenu(e) !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Bienvenue chez moi !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Bienvenue dans le groupe",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "bon",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Bon appétit !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Bon anniversaire !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Bonnes vacances !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "Bon voyage !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "016",
+      "translation": ""
+    },
+    {
+      "word": "vous",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "017",
+      "translation": ""
+    },
+    {
+      "word": "tu",
+      "article": "",
+      "plural": "",
+      "word_class": "other",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "017",
+      "translation": ""
+    },
+    {
+      "word": "On peut se tutoyer ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "017",
+      "translation": ""
+    },
+    {
+      "word": "On peut se dire « tu » ?",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "017",
+      "translation": ""
+    },
+    {
+      "word": "vouvoyer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "017",
+      "translation": ""
+    },
+    {
+      "word": "tutoyer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "personal-info",
+      "source_page": "017",
+      "translation": ""
+    }
+  ]
+}

@@ -1,0 +1,1736 @@
+{
+  "collection": "pratique-revision-a2",
+  "chunk": "078-092",
+  "entries": [
+    {
+      "word": "petit-déjeuner",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "petit-déj",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "déjeune",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "déjeuner",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "on dîne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "dîner",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "goûter",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "quatre-heures",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "banquet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "buffet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "apéritif",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "encas",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "081",
+      "translation": ""
+    },
+    {
+      "word": "alimentation saine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "équilibrée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "sel",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "sucres",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "graisses",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "pyramide des aliments",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "fruits",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "pommes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "poires",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "raisin",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "mangues",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "pêches",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "pamplemousses",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "oranges",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "fraises",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "kiwis",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "légumes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "carottes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "laitue",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "courgettes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "pommes de terre",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "haricots verts",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "choux-fleur",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "concombres",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "oignons",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "poireaux",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "endives",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "fibres",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "vitamines",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "énergie",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "féculents",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "haricots",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "céréales",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "pain",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "protéines",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "calcium",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "produits laitiers",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "fromage",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "yaourts",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "viande",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "bœuf",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "mouton",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "porc",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "volaille",
+      "article": "de la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "poisson",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "fruits de mer",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "œufs",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "régime végétarien",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "végan",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "eau",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "santé",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "sucre et produits sucrés",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "viande, poissons ou œufs",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "laits et produits laitiers",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "fruits et légumes",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "féculents et céréales",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "food",
+      "source_page": "082",
+      "translation": ""
+    },
+    {
+      "word": "pichet",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "broc",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "carafe",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "cruche",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "channe",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "plat",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "récipient",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "contenu",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "froid",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "chaud",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "viande",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "poisson",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "garniture",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "légumes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "riz",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "pâtes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "régional",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "traditionnel",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "exotique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "préparé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "chauffer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "four",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "décongeler",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "micro-ondes",
+      "article": "au",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "barquettes",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "terrines",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "formule",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "menu",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "entrée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "plat principal",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "dessert",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "assiette",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "plat du jour",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "boisson",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "verre",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "pichet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "bouteille",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "soda",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "jus de fruit",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "robinet",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "minérale",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "plate",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "gazeuse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "café",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "thé",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "infusion",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "carte",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "086",
+      "translation": ""
+    },
+    {
+      "word": "indications",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "recettes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "ingrédients",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "quantités",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "mesurer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "pincée",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "cuillerée à café",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "cuillerée à soupe",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "grammes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "litre",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "ustensiles",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "économe",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "éplucher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "couteau",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "couper",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "découper",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "hacher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "fouet",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "battre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "spatule",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "mélanger",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "farine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "verse",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "moule",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "plat",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "casserole",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "poêle",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "cuire",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "marmite",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "fondre",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "temps de cuisson",
+      "article": "du",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "pâtes à pain",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "pâtes à gâteau",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "pâtes à tarte",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "pâtes à crêpes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "pâtes à pizza",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "décoration",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "garniture",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "cuiller",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "cuillère",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "089",
+      "translation": ""
+    },
+    {
+      "word": "moule",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "moule",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "poêle",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "poêle",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "poutine",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "roulé de homard",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "raclette",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "fondue",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "couscous",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "brik",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "tajine",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "risotto",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "paella",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "moules-frites",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "attieké",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "galettes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "crêpe",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    },
+    {
+      "word": "cassoulet",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "food",
+      "source_page": "091",
+      "translation": ""
+    }
+  ]
+}

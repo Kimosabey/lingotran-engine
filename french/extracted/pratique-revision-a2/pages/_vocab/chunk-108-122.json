@@ -1,0 +1,1386 @@
+{
+  "collection": "pratique-revision-a2",
+  "chunk": "108-122",
+  "entries": [
+    {
+      "word": "malade",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "grippe",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "mal à la tête",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "température",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "fatiguée",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "te reposer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "rhume",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "éternues",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "me moucher",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "nez",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "coule",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "attrapé",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "virus",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "symptômes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "tousse",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "toux",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "douloureuse",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "la tête qui tourne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "me sens",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "mal",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "aspirine",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "diminuer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "fièvre",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "avoir mal à…",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "J’ai mal à la gorge, il a mal au dos, elle a mal aux dents…",
+      "topic": "health",
+      "source_page": "110",
+      "translation": ""
+    },
+    {
+      "word": "médecin généraliste",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "soigner",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "médicaments",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "aspirine",
+      "article": "de l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "pommade",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "coupure",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "blessure",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "dermatologique",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "sirop",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "antibiotiques",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "infection",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "angine",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "somnifère",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "sommeil",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "pharmacie",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "pharmacien/ne",
+      "article": "le/la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "guéri",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "infirmier/infirmière",
+      "article": "un/e",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "piqûres",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "pansement",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "vacciné",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "vaccins",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "111",
+      "translation": ""
+    },
+    {
+      "word": "ophtalmologue",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "cardiologue",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "pédiatre",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "dermatologue",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "gynécologue",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "dentiste",
+      "article": "le/la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "accident",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "blessé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "sang",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "hospitaliser",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "hôpital",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "fracture",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "plâtré",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "plâtre",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "opération",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "chirurgien(ne)",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "anesthésie",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "anesthésiste",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "kiné",
+      "article": "un(e)",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "113",
+      "translation": ""
+    },
+    {
+      "word": "bien-être",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "sainement",
+      "article": "",
+      "plural": "",
+      "word_class": "adverb",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "bouger",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "sédentaire",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "sommeil",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "sauna",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "vapeur",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "hammam",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "jacuzzi",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "massage",
+      "article": "un",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "yoga",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "méditation",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "relaxation",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "cures thermales",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "asthme",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "station thermale",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "health",
+      "source_page": "115",
+      "translation": ""
+    },
+    {
+      "word": "journaux",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "titres",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "articles",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "une",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "kiosque",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "presse",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "lecteurs",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "quotidiens",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "publications",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "revues",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "magazines",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "hebdomadaires",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "mensuels",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "bi-mensuels",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "médias",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "source",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "information",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "119",
+      "translation": ""
+    },
+    {
+      "word": "Internet",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "communication",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "radio",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "télévision",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "télé",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "en noir et blanc",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "en couleurs",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "actualité",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "téléviseur",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "poste",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "audiovisuel",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "appareils",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "en ligne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "téléphone portable",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "antenne",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "satellite",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "câble",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "121",
+      "translation": ""
+    },
+    {
+      "word": "auditeurs",
+      "article": "des",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "auditrices",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "allument",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "allumer",
+      "article": "",
+      "plural": "",
+      "word_class": "verb",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "émission",
+      "article": "une",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "flash infos",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "éditorial",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "éditorialiste",
+      "article": "l’",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "chronique",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "chroniqueur",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "bulletin",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "téléspectateurs",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "téléspectatrices",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "JT",
+      "article": "le",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "télévisé",
+      "article": "",
+      "plural": "",
+      "word_class": "adjective",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "journalistes",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "vedettes",
+      "article": "",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "documentaires",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "reportages",
+      "article": "les",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "audience",
+      "article": "la",
+      "plural": "",
+      "word_class": "noun",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "À vous l’antenne !",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "en studio",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    },
+    {
+      "word": "rend l’antenne",
+      "article": "",
+      "plural": "",
+      "word_class": "phrase",
+      "example": "",
+      "topic": "communication",
+      "source_page": "122",
+      "translation": ""
+    }
+  ]
+}
