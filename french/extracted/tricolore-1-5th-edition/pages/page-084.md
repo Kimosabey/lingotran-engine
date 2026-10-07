@@ -24,7 +24,7 @@ qa: pass
 **Exemple: 1D**
 
 Symbol icons (blue pictogram tiles, each in a circle-labelled square):
-**(A)** a diving figure diving into wavy water from a platform. **(B)** an orange-striped market-stall canopy. **(C)** a stylised letter "i" (information). **(D)** a green covered footbridge with striped sides over water. **(E)** male and female figures (toilets). **(F)** a shopping trolley. **(G)** the front of a train. **(H)** two pedestrians walking beside a street lamp, with a church/building silhouette behind. **(I)** a church tower with a clock and an arched door. **(J)** two people carrying shopping bags in front of shop windows.
+**(A)** a diving figure diving into wavy water from a platform. **(B)** an orange-striped market-stall canopy. **(C)** a stylised letter "i" (information). **(D)** a theatre stage with curtains. **(E)** male and female figures (toilets). **(F)** a shopping trolley. **(G)** the front of a train. **(H)** two pedestrians walking beside a street lamp, with a church/building silhouette behind. **(I)** a church tower with a clock and an arched door. **(J)** two people carrying shopping bags in front of shop windows.
 
 ## 2 Excusez-moi
 

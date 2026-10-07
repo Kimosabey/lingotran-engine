@@ -177,39 +177,38 @@ comparing anything. The guard is gone, and German compares 45 artifacts current.
 
 **Progress 2026-10-05:** legacy duplicates retired (Harshan: re-extract from the clean scans). `pratique-conjugaison-a1a2` is DONE through phase G: 182 pages, answer key 500/500, 3706 question rows with 100% `instruction` and `correct_answer`, all gates green, status `extracted-ready-to-deliver` (not yet packaged/uploaded). Two engine fixes landed on the way: `verify_answers.py` no longer reads an answer that equals one of its own options (the verb "a") as a letter, and the German export check is live. Answer-booklet spreads are transcribed whole, never split (a midpoint split cut columns off). `pratique-grammaire-a1a2` DONE through phase G on 2026-10-06: 222 pages, 621 exercises (the book has no 440-459), 5356 rows, 100% answered (23 key misprints corrected, 16 derived, all listed in its caveats), all gates green. `pratique-revision-a1` DONE through phase G on 2026-10-06: 334 pages, 692 exercises, 145 audio tracks (transcripts from the booklet), 5730 rows 100% answered (key misprints corrected and 5 answers derived, all in its caveats; ex. 10 answers filled from the Piste 11 transcript), 1621 vocabulary entries, 117 inline-choice multiple-choice items waived in `accepted_option_gaps`, all gates green. `pratique-revision-a2` DONE through phase G on 2026-10-06: 366 pages, 681 exercises (the cover says 680), 27 Bilans, answer booklet 32 spreads (answers 1-681 + 40 listening transcripts), 6034 rows 100% answered (8 free-writing items open-ended by design), 1632 vocabulary entries; 16 key misprints corrected and ~50 key gaps derived (incl. the whole unit 10 Bilan 3 crossword, which the key never prints), all listed in its caveats; all gates green. All four Pratique books are now extracted-ready-to-deliver (not yet packaged/uploaded). Lesson: parallel enrichment agents share one scratchpad and clobbered each other's `q.py`; tell them to use a per-chunk subfolder, and re-verify every chunk's page range after a run.
 
-Next, in order:
+Next, in order (updated 2026-10-06; steps 1-3 of the 2026-10-01 plan are done and committed in `f272ffb`):
 
-1. **Legacy duplicates decision (blocks on Harshan).** Recommendation: retire
-   `revision-2` (0/181 transcribed, nothing lost) and `conjugaison-a1-a2`
-   (legacy pipeline, 67/104 QA-verified, in no export) in favour of the new
-   scans on `_engine/`. Do not process both copies of either book.
-2. **Prepare the four Corrigés booklets.** Each is scanned as two-page spreads
-   in booklet-imposition order: split to single pages and reorder to reading
-   order. Conjugaison's booklet scan repeats PDF p1-10 as p11-20; use p1-10 and
-   p21-24 only (28 printed pages, complete).
-3. **Extract the Pratique books one at a time, stop-and-report between:**
-   Conjugaison (smallest; proves the series layout on the engine), then
-   Grammaire, then Révision A1, then Révision A2. Fill `correct_answer` from the
-   prepared booklet. The two Révision booklets also print the listening
-   transcripts, so listening items are answerable without the audio.
-   Printed page = PDF page + 2 in every main book. Each book runs the same
-   phases, and the next book does not start until the last phase is reported
-   and approved:
+1. **Stage 2, French half:** matching/ordering rows whose `correct_answer` is only a label
+   ("C", "7", "4e") pointing to something printed on the page. Re-measured 2026-10-06:
+   209 rows on 84 pages (Tricolore 1: 73, Tricolore 2: 128, Cosmopolite A1: 8); the
+   Pratique books have none (their short answers like "16h" or "vu" are real answers).
+   Fix: "<label> – <text or [image : …]>", label kept. **DONE 2026-10-06:** all 209 resolved
+   (17 agents, outputs applied centrally, every label checked against the page image).
+   Tricolore prints no key, so these labels were inferred at extraction; three were wrong and
+   were corrected from the image: T1 p027 rooms B/C swapped (B = Louise, one bed + cat; C = the
+   brothers, two beds), T2 p060 2c/3a 'faire les courses' b→D, T2 p060 1a 'charger mon portable'
+   6→2. Three page descriptions fixed to match the image (T1 p027 rooms, p041 bubble D colour,
+   p084 picture D = theatre stage). Known leftover: T1 p099 has one row bundling ten clock
+   pairs (1-10) with only the example answered; splitting it needs answers the book does not print.
+   `_exports/` re-packaged (now includes the four Pratique books); nothing uploaded.
+2. **Saison 2** (215pp), then **Cosmopolite 5** (226pp), same phases A-G as the Pratique books.
+3. **DELF Prim:** parked until a complete copy is sourced (blocks on Harshan).
+4. **Deliver:** rebuild exports, run the gates, stamp a version, upload to Drive
+   (batched until Saison 2 + Cosmopolite 5, unless Harshan wants the Pratique books sooner).
+5. Merge `develop` into `main` when Harshan says.
+
+The 2026-10-01 phase table, kept for the next books:
 
    | Phase | Work | Gate before moving on |
    |---|---|---|
-   | A. Rasterize | `pdf_to_images.py` on the main book and the prepared booklet | `--audit` blank list reviewed; genuine blanks recorded |
-   | B. Pilot (first book only) | Transcribe + QA ~10 pages across chapter types | Output reviewed with Harshan before any batch run |
-   | C. Transcribe | 5-6 page batches, adversarial QA, `qa-apply` | `reconcile.py` CLEAN |
-   | D. Answer booklet | Transcribe the booklet's single pages | Every exercise number in the book found in the booklet |
-   | E. Enrich | Classify, questions (with `instruction`, bare `level`), vocabulary; fill `correct_answer` from the booklet; `merge_enrich.py` | Every chunk merged |
-   | F. Verify | `verify_answers.py`; hand-measure `instruction` / `correct_answer` fill | `correct_answer` blank only for open-ended items |
-   | G. Export + report | `build_exports.py`, `verify_exports.py`, commit | Report; next book only on approval |
-4. **Stage 2, French half only:** the 140 French bare-letter matching answers
-   (63 pages to re-read), as described in the 2026-08-11 entry below.
-5. **Saison 2** (215pp), then **Cosmopolite 5** (226pp).
-6. **DELF Prim:** parked until a complete copy is sourced.
-7. **Deliver:** rebuild exports, run the gates, stamp a version, upload to Drive.
+   | A. Rasterize | `pdf_to_images.py` on the main book; answer booklets rendered as whole spreads | `--audit` blank list reviewed |
+   | B. Pilot (first book of a series) | Transcribe + QA ~10 pages | Output reviewed |
+   | C. Transcribe | 6-page batches, adversarial QA | `reconcile.py` CLEAN |
+   | D. Answer booklet | Transcribe whole spreads | Every exercise number found in the key |
+   | E. Enrich | Classify, questions, vocabulary; `merge_enrich.py` | Every chunk merged, page ranges re-verified |
+   | F. Verify | `verify_answers.py`; fix key misprints, derive gaps, list both in caveats | `correct_answer` blank only for open-ended items |
+   | G. Export + report | `build_exports.py`, `verify_exports.py`, `check_exports_current.py` (fr+de), commit | Report |
 
 ### Previous update, 2026-08-11
 

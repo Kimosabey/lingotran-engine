@@ -1,7 +1,7 @@
 # Tricolore 1 - 5e edition
 
 > Unified transcription of `pdf/oxford-university-press/tricolore-1-5th-edition/tricolore-1-5th-edition.pdf` - 180 pages.
-> Generated 2026-08-11. Filterable sheet: `tricolore-1-5th-edition-catalog.csv`.
+> Generated 2026-10-06. Filterable sheet: `tricolore-1-5th-edition-catalog.csv`.
 
 ## Overview
 
@@ -2586,7 +2586,7 @@ vingt-quatre **24**
 
 🔊 **a** Regarde le plan de la maison, écoute et lis la description.
 
-*(Illustration: two colour floor-plan diagrams of a house, each room labelled with a circled letter. Left plan: room A (double bed, wardrobe), room B (bunk beds, desk with computer), room C (single bed, wardrobe with shelf), room D (bathroom with bath, sink and toilet), with a staircase between rooms. Right plan: room E (garden with trees), room F (garage with a car), room G (dining room with table and chairs, kitchen area visible with hob), room H (small room with a shower/sink, staircase), room I (toilet), room J (living room with television and sofa).)*
+*(Illustration: two colour floor-plan diagrams of a house, each room labelled with a circled letter. Left plan: room A (double bed, wardrobe), room B (single bed with a cat on it, desk with computer), room C (two single beds, two desks), room D (bathroom with bath, sink and toilet), with a staircase between rooms. Right plan: room E (garden with trees), room F (garage with a car), room G (dining room with table and chairs, kitchen area visible with hob), room H (small room with a shower/sink, staircase), room I (toilet), room J (living room with television and sofa).)*
 
 une station d'accueil MP3 — *MP3 dock*
 
@@ -3976,7 +3976,7 @@ Trouve la bonne bulle.
 **A** *(purple)* Vous aimez la musique, monsieur?
 **B** *(green)* Oui, merci. Tu es très gentil.
 **C** *(green)* Tu aimes les animaux?
-**D** *(purple)* Vous avez gagné ce grand prix.
+**D** *(green)* Vous avez gagné ce grand prix.
 **E** *(green)* Tu aimes les enfants?
 **F** *(purple)* Vous aimez les chats, madame?
 **G** *(purple)* Vous aimez les bonbons?
@@ -8115,7 +8115,7 @@ quatre-vingt-un **81**
 **Exemple: 1D**
 
 Symbol icons (blue pictogram tiles, each in a circle-labelled square):
-**(A)** a diving figure diving into wavy water from a platform. **(B)** an orange-striped market-stall canopy. **(C)** a stylised letter "i" (information). **(D)** a green covered footbridge with striped sides over water. **(E)** male and female figures (toilets). **(F)** a shopping trolley. **(G)** the front of a train. **(H)** two pedestrians walking beside a street lamp, with a church/building silhouette behind. **(I)** a church tower with a clock and an arched door. **(J)** two people carrying shopping bags in front of shop windows.
+**(A)** a diving figure diving into wavy water from a platform. **(B)** an orange-striped market-stall canopy. **(C)** a stylised letter "i" (information). **(D)** a theatre stage with curtains. **(E)** male and female figures (toilets). **(F)** a shopping trolley. **(G)** the front of a train. **(H)** two pedestrians walking beside a street lamp, with a church/building silhouette behind. **(I)** a church tower with a clock and an arched door. **(J)** two people carrying shopping bags in front of shop windows.
 
 ## 2 Excusez-moi
 

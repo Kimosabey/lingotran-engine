@@ -23,7 +23,7 @@ tricolore-1-5th-edition,writing,3a Copie les bonnes phrases,5,true-false,Copie l
 tricolore-1-5th-edition,writing,3b Copie et complète,5,fill-in,Copie et complète.,Il y a quatre ___.,,,,,,,A1,school,013
 tricolore-1-5th-edition,writing,3a Copie les bonnes phrases,6,true-false,Copie les bonnes phrases.,Il y a quatre règles.,,,,,,,A1,school,013
 tricolore-1-5th-edition,writing,3b Copie et complète,6,fill-in,Copie et complète.,Il y a ___ carnet.,,,,,,,A1,school,013
-tricolore-1-5th-edition,reading,1 Donner un ordre,1,matching,Trouve les paires.,Écoutez.,,,,,,C,A1,school,014
+tricolore-1-5th-edition,reading,1 Donner un ordre,1,matching,Trouve les paires.,Écoutez.,,,,,,C – [image : une personne avec un casque audio],A1,school,014
 tricolore-1-5th-edition,writing,1c Complète les phrases,1,fill-in,Complète les phrases.,Écoutez la ___.,,,,,,chanson,A1,school,014
 tricolore-1-5th-edition,reading,2a Des instructions,1,matching,Trouve les paires.,Trouve les paires.,,,,,,Find the pairs.,A1,school,014
 tricolore-1-5th-edition,reading,1 Donner un ordre,10,matching,Trouve les paires.,Fermez le cahier.,,,,,,,A1,school,014
@@ -76,7 +76,7 @@ tricolore-1-5th-edition,writing,1 J'habite ici,5,fill-in,Écris des phrases comp
 tricolore-1-5th-edition,writing,1 J'habite ici,6,fill-in,Écris des phrases complètes.,J'habite dans ___ (silhouette de ville),,,,,,une ville.,A1,personal-info,018
 tricolore-1-5th-edition,writing,1 J'habite ici,7,fill-in,Écris des phrases complètes.,J'habite dans ___ (village),,,,,,un village.,A1,personal-info,018
 tricolore-1-5th-edition,writing,1 J'habite ici,8,fill-in,Écris des phrases complètes.,J'habite ___ (carte de France),,,,,,en France.,A1,personal-info,018
-tricolore-1-5th-edition,listening,3 Qui habite où?,1,matching,Écoute et trouve les paires.,Olivier,,,,,,7,A1,personal-info,019
+tricolore-1-5th-edition,listening,3 Qui habite où?,1,matching,Écoute et trouve les paires.,Olivier,,,,,,"7 – [image : une plaque de numéro de maison « 7 », chiffre argenté sur fond de bois sombre]",A1,personal-info,019
 tricolore-1-5th-edition,reading,4a C'est moi!,1,matching,Trouve les paires.,Je m'appelle,,,,,,Sonia Charbonnier.,A1,personal-info,019
 tricolore-1-5th-edition,listening,3 Qui habite où?,2,matching,Écoute et trouve les paires.,Coralie,,,,,,,A1,personal-info,019
 tricolore-1-5th-edition,reading,4a C'est moi!,2,matching,Trouve les paires.,J'ai,,,,,,douze ans.,A1,personal-info,019
@@ -180,25 +180,25 @@ tricolore-1-5th-edition,reading,1b Vrai ou faux?,5,true-false,Vrai ou faux?,Lou 
 tricolore-1-5th-edition,reading,1b Vrai ou faux?,6,true-false,Vrai ou faux?,La copine d'Yvan aime la musique.,,,,,,Vrai,A1,family,026
 tricolore-1-5th-edition,reading,1b Vrai ou faux?,7,true-false,Vrai ou faux?,Delphine a un lecteur MP3.,,,,,,Vrai,A1,family,026
 tricolore-1-5th-edition,reading,1b Vrai ou faux?,8,true-false,Vrai ou faux?,La sœur d'Yvan s'appelle Delphine.,,,,,,Faux,A1,family,026
-tricolore-1-5th-edition,reading,4b C'est où?,1,matching,C'est où?,le salon,,,,,,J,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,1,matching,C'est où?,le salon,,,,,,"J – [image : un salon avec un canapé, un fauteuil et une télé]",A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,1,matching,Trouve les paires.,"Dans la maison, …",,,,,,il y a huit pièces.,A1,home,027
-tricolore-1-5th-edition,reading,4b C'est où?,10,matching,C'est où?,le garage,,,,,,F,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,10,matching,C'est où?,le garage,,,,,,F – [image : un garage avec une voiture],A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,10,matching,Trouve les paires.,"Dans la chambre de Thomas et Daniel, …",,,,,,"il y a deux lits, une console de jeux et une télé.",A1,home,027
 tricolore-1-5th-edition,reading,4b C'est où?,2,matching,C'est où?,la salle à manger,,,,,,,A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,2,matching,Trouve les paires.,Il y a un téléphone …,,,,,,dans la chambre de M. et Mme Laurent et dans la cuisine.,A1,home,027
 tricolore-1-5th-edition,reading,4b C'est où?,3,matching,C'est où?,la cuisine,,,,,,,A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,3,matching,Trouve les paires.,Le chat est …,,,,,,dans la chambre de Louise.,A1,home,027
-tricolore-1-5th-edition,reading,4b C'est où?,4,matching,C'est où?,les toilettes,,,,,,I,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,4,matching,C'est où?,les toilettes,,,,,,I – [image : une petite pièce avec des toilettes],A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,4,matching,Trouve les paires.,"Dans la salle à manger, …",,,,,,il y a cinq chaises et une table.,A1,home,027
-tricolore-1-5th-edition,reading,4b C'est où?,5,matching,C'est où?,la chambre de M. et Mme Laurent,,,,,,A,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,5,matching,C'est où?,la chambre de M. et Mme Laurent,,,,,,A – [image : une chambre avec un grand lit],A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,5,matching,Trouve les paires.,"Dans la chambre de Louise, …",,,,,,il y a une station d'accueil MP3 et un portable.,A1,home,027
-tricolore-1-5th-edition,reading,4b C'est où?,6,matching,C'est où?,la chambre de Thomas et Daniel,,,,,,B,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,6,matching,C'est où?,la chambre de Thomas et Daniel,,,,,,"C – [image : une chambre avec deux lits, deux bureaux et des jeux]",A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,6,matching,Trouve les paires.,Les jeux vidéo sont …,,,,,,dans la chambre de Thomas et Daniel.,A1,home,027
-tricolore-1-5th-edition,reading,4b C'est où?,7,matching,C'est où?,la chambre de Louise,,,,,,C,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,7,matching,C'est où?,la chambre de Louise,,,,,,"B – [image : une chambre avec un lit, un chat sur le lit et un bureau]",A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,7,matching,Trouve les paires.,"Dans le salon, …",,,,,,il y a une télé.,A1,home,027
-tricolore-1-5th-edition,reading,4b C'est où?,8,matching,C'est où?,la salle de bains,,,,,,D,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,8,matching,C'est où?,la salle de bains,,,,,,"D – [image : une salle de bains avec une baignoire, un lavabo et des toilettes]",A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,8,matching,Trouve les paires.,"Dans la chambre de M. et Mme Laurent, …",,,,,,il y a un lecteur CD et un téléphone.,A1,home,027
-tricolore-1-5th-edition,reading,4b C'est où?,9,matching,C'est où?,le jardin,,,,,,E,A1,home,027
+tricolore-1-5th-edition,reading,4b C'est où?,9,matching,C'est où?,le jardin,,,,,,E – [image : un jardin avec des arbres],A1,home,027
 tricolore-1-5th-edition,reading,5 Les pièces,9,matching,Trouve les paires.,"Dans la cuisine, …",,,,,,il y a une radio et un téléphone.,A1,home,027
 tricolore-1-5th-edition,writing,2 Dans la chambre,1,fill-in,"Complète les phrases avec sous, sur ou dans.",La télé est ___ la chambre.,,,,,,dans,A1,home,028
 tricolore-1-5th-edition,writing,2 Dans la chambre,2,fill-in,"Complète les phrases avec sous, sur ou dans.",Où est le sac? Il est ___ le lit de Daniel.,,,,,,sur,A1,home,028
@@ -248,7 +248,7 @@ tricolore-1-5th-edition,grammar,1 Les nombres,6,fill-in,Écris le nombre qui man
 tricolore-1-5th-edition,reading,3 Un multi-quiz,6,multiple-choice,Choisis la bonne réponse. Choose the correct answer.,"Dans ma classe, il y a trente",professeurs.,magasins.,élèves.,,,,A1,school,032
 tricolore-1-5th-edition,reading,3 Un multi-quiz,7,multiple-choice,Choisis la bonne réponse. Choose the correct answer.,"Je suis un garçon. Je suis l'enfant de ta mère et de ton père. Alors, je suis",ton cousin.,ton demi-frère.,ton frère.,,,,A1,family,032
 tricolore-1-5th-edition,reading,3 Un multi-quiz,8,multiple-choice,Choisis la bonne réponse. Choose the correct answer.,Tu n'as pas de frères et tu n'as pas de sœurs. Tu es,un enfant extraordinaire.,un enfant fantastique.,enfant unique,,,,A1,family,032
-tricolore-1-5th-edition,reading,4 Le jeu des images,1,matching,Trouve les paires. Find the pairs.,Comptez.,,,,,,B,A1,school,033
+tricolore-1-5th-edition,reading,4 Le jeu des images,1,matching,Trouve les paires. Find the pairs.,Comptez.,,,,,,"B – [image : les nombres 7, 8, 9, 10]",A1,school,033
 tricolore-1-5th-edition,grammar,5 Des descriptions,1,fill-in,Copie et complète les phrases. Copy the sentences and fill in the gaps.,"Dans la cuisine, il y a une ___ , une ___ et un ___ .",,,,,,,A1,home,033
 tricolore-1-5th-edition,speaking,7 Questions et réponses,1,short-answer,Écris tes réponses. Write your own answers.,Comment t'appelles-tu? Je ...,,,,,,(open-ended),A1,personal-info,033
 tricolore-1-5th-edition,reading,4 Le jeu des images,10,matching,Trouve les paires. Find the pairs.,Voici un village. C'est près de Bordeaux.,,,,,,,A1,city-places,033
@@ -273,7 +273,7 @@ tricolore-1-5th-edition,reading,4 Le jeu des images,9,matching,Trouve les paires
 tricolore-1-5th-edition,speaking,7 Questions et réponses,9,short-answer,Écris tes réponses. Write your own answers.,Qu'est-ce que c'est? C'est ...,,,,,,(open-ended),A1,none,033
 tricolore-1-5th-edition,grammar,6 Les petits mots (a),a,fill-in,Complète les phrases. Fill in the gaps.,"Dans ton sac, il y a (1 *a*) ___ calculatrice, (2 *a*) ___ gomme, (3 *your*) ___ stylo, (4 *your*) ___ trousse et (5 *the*) ___ crayon de (6 *your*) ___ frère.",,,,,,,A1,school,033
 tricolore-1-5th-edition,grammar,6 Les petits mots (b),b,fill-in,Complète les phrases. Fill in the gaps.,"Dans notre famille, il y a (7 *my*) ___ sœur, (8 *my*) ___ demi-frère Martin, (9 *my*) ___ mère et (10 *my*) ___ père. Il y a aussi (11 *the*) ___ chat de Martin qui habite avec nous.",,,,,,,A1,family,033
-tricolore-1-5th-edition,reading,1 Grand Concours national,1,matching,Trouve les paires.,Le gros chien s'appelle Samba.,,,,,,C,A1,mixed,034
+tricolore-1-5th-edition,reading,1 Grand Concours national,1,matching,Trouve les paires.,Le gros chien s'appelle Samba.,,,,,,C – [image : un gros chien noir],A1,mixed,034
 tricolore-1-5th-edition,speaking,"2 Vote, vote, vote!",1,short-answer,Tu préfères quel animal?,Tu préfères quel animal?,,,,,,(open-ended),A1,mixed,034
 tricolore-1-5th-edition,speaking,3 Mes préférences (a),1,speaking-task,Travaillez à deux.,"A Tu aimes Samba? B Non, je n'aime pas beaucoup Samba. Je préfère Flic.",,,,,,(open-ended),A1,mixed,034
 tricolore-1-5th-edition,reading,1 Grand Concours national,2,matching,Trouve les paires.,La petite souris blanche s'appelle Minnie.,,,,,,,A1,mixed,034
@@ -359,7 +359,7 @@ tricolore-1-5th-edition,reading,1 Des animaux extraordinaires (b),8,true-false,V
 tricolore-1-5th-edition,reading,1 Des animaux extraordinaires (b),9,true-false,Vrai ou faux?,Il adore la musique.,,,,,,,A1,mixed,040
 tricolore-1-5th-edition,listening,2 Tu aimes ça? (a),1,matching,Écoute ces jeunes. Copie et complète le tableau.,"Écoute ces jeunes (Thomas, Camille, Maxime, Laura). Copie et complète le tableau de leurs goûts (J'adore/Je déteste/J'aime beaucoup/Je n'aime pas beaucoup/Je préfère) en utilisant la liste a–j.",,,,,,,A1,hobby,041
 tricolore-1-5th-edition,writing,2 Tu aimes ça? (b),1,writing-task,Et toi? Qu'est-ce que tu aimes? Qu'est-ce que tu n'aimes pas? Fais une courte présentation électronique.,Et toi? Qu'est-ce que tu aimes? Qu'est-ce que tu n'aimes pas? Fais une courte présentation électronique.,,,,,,(open-ended),A1,hobby,041
-tricolore-1-5th-edition,reading,3 Qui dit ça?,1,matching,Trouve la bonne bulle.,Un garçon parle aux employés du zoo près d'un éléphant tenu en laisse.,,,,,,D,A1,mixed,041
+tricolore-1-5th-edition,reading,3 Qui dit ça?,1,matching,Trouve la bonne bulle.,Un garçon parle aux employés du zoo près d'un éléphant tenu en laisse.,,,,,,D – Vous avez gagné ce grand prix.,A1,mixed,041
 tricolore-1-5th-edition,speaking,4 Invente des questions,1,speaking-task,"Make up three questions using tu and three using vous. Practise them in pairs, one of you acting as an adult. Change over half way through.","Invente trois questions avec tu et trois questions avec vous. Pratique-les à deux, l'un de vous jouant le rôle d'un adulte.",,,,,,(open-ended),A1,mixed,041
 tricolore-1-5th-edition,reading,3 Qui dit ça?,2,matching,Trouve la bonne bulle.,Un garçon en haut rouge donne un sac à un homme assis dans le train.,,,,,,,A1,travel,041
 tricolore-1-5th-edition,reading,3 Qui dit ça?,3,matching,Trouve la bonne bulle.,Le même homme assis dans le train réagit à ce qu'on lui a donné.,,,,,,,A1,travel,041
@@ -379,7 +379,7 @@ tricolore-1-5th-edition,reading,2 Comment ça se dit?,5,matching,Trouve le fran�
 tricolore-1-5th-edition,reading,2 Comment ça se dit?,6,matching,Trouve le français.,That's true!,,,,,,C'est vrai!,A1,none,042
 tricolore-1-5th-edition,reading,"1 Bonjour, Mangetout!",1,fill-in,Complète les phrases.,Mangetout est un ___.,,,,,,chat,A1,mixed,045
 tricolore-1-5th-edition,reading,2 Le sais-tu?,1,fill-in,Trouve les mots français.,capital -> la ___,,,,,,capitale,A2,city-places,045
-tricolore-1-5th-edition,reading,3 Chimène,1,matching,Français–anglais. Trouve les paires.,Lève-toi!,,,,,,f,A1,daily-routine,045
+tricolore-1-5th-edition,reading,3 Chimène,1,matching,Français–anglais. Trouve les paires.,Lève-toi!,,,,,,f – Get up!,A1,daily-routine,045
 tricolore-1-5th-edition,reading,4 Crayons de couleur (a),1,fill-in,Trouve le français.,the fields,,,,,,les prairies,A1,none,045
 tricolore-1-5th-edition,writing,4 Crayons de couleur (b),1,writing-task,Change des mots pour écrire un autre poème.,Change des mots pour écrire un autre poème.,,,,,,(open-ended),A1,none,045
 tricolore-1-5th-edition,reading,"1 Bonjour, Mangetout!",2,fill-in,Complète les phrases.,Il ___ au numéro 7.,,,,,,,A1,home,045
@@ -471,7 +471,7 @@ tricolore-1-5th-edition,listening,1 Mardi gras,7,multiple-choice,Écris 1–8. �
 tricolore-1-5th-edition,reading,2 C'est qui?,7,fill-in,Lis les bulles et complète les phrases.,___ est le dragon.,,,,,,,A1,mixed,050
 tricolore-1-5th-edition,listening,1 Mardi gras,8,multiple-choice,Écris 1–8. Écoute et choisis a ou b.,"Le fantôme, c'est",Olivier.,Simon.,,,,,A1,mixed,050
 tricolore-1-5th-edition,reading,2 C'est qui?,8,fill-in,Lis les bulles et complète les phrases.,___ sont les deux sœurs de Cendrillon.,,,,,,,A1,mixed,050
-tricolore-1-5th-edition,grammar,3 C'est moi!,1,matching,Trouve les paires.,Je ...,,,,,,g,A1,personal-info,051
+tricolore-1-5th-edition,grammar,3 C'est moi!,1,matching,Trouve les paires.,Je ...,,,,,,g – suis élève au collège Missy,A1,personal-info,051
 tricolore-1-5th-edition,grammar,4 Des photos (a),1,fill-in,On regarde les photos de mardi gras. Écris les verbes.,"Complète les formes du verbe être dans les légendes des photos de mardi gras: Vous ___(1) horribles! ... Nous ___(4) splendides. Moi, je ___(5) extra! ... Il ___(6) génial, non? Ils ___(7) extraordinaires!",,,,,,,A1,mixed,051
 tricolore-1-5th-edition,writing,4 Des photos (b),1,writing-task,Voici Rosaline et Coralie. Écris une description.,Voici Rosaline et Coralie. Écris une description (Rosaline est Claude le clown. Il est ___. Coralie est un perroquet. Elle ___. Les filles ___.),,,,,,(open-ended),A1,mixed,051
 tricolore-1-5th-edition,grammar,3 C'est moi!,2,matching,Trouve les paires.,Mon anniversaire ...,,,,,,,A1,time-dates,051
@@ -484,7 +484,7 @@ tricolore-1-5th-edition,grammar,3 C'est moi!,8,matching,Trouve les paires.,"Et t
 tricolore-1-5th-edition,grammar,3 C'est moi!,9,matching,Trouve les paires.,Vous ...,,,,,,,A1,mixed,051
 tricolore-1-5th-edition,listening,1 L'anniversaire de Marc,1,multiple-choice,"Écoute et lis. Écris a, b, ou c.","C'est quand, l'anniversaire de Marc?",le 1er février,le 1er juillet,le 11 février,,,,A2,time-dates,052
 tricolore-1-5th-edition,speaking,2 Inventez des conversations,1,speaking-task,"Travaillez à deux. Lisez la conversation, puis changez les mots surlignés.","A Salut! B Salut! A C'est quand ton anniversaire? B C'est aujourd'hui, le premier février. A Alors, bon anniversaire! Quel âge as-tu? B Aujourd'hui, j'ai treize ans. A Qu'est-ce que tu as reçu comme cadeaux? B J'ai reçu un tee-shirt bleu et rouge et une raquette de tennis noire.",,,,,,(open-ended),A2,time-dates,052
-tricolore-1-5th-edition,reading,3 Des cadeaux de Noël,1,matching,Lis et note la bonne lettre.,"Mme Clément a un paquet seulement, mais elle est très contente. Dans son paquet, il y a des chaussures très élégantes.",,,,,,c,A1,shopping,052
+tricolore-1-5th-edition,reading,3 Des cadeaux de Noël,1,matching,Lis et note la bonne lettre.,"Mme Clément a un paquet seulement, mais elle est très contente. Dans son paquet, il y a des chaussures très élégantes.",,,,,,"c – [image : une boîte rectangulaire emballée dans du papier vert à étoiles, avec un ruban rouge]",A1,shopping,052
 tricolore-1-5th-edition,listening,1 L'anniversaire de Marc,2,multiple-choice,"Écoute et lis. Écris a, b, ou c.",Quel âge a-t-il?,11 ans,12 ans,13 ans,,,,A2,personal-info,052
 tricolore-1-5th-edition,reading,3 Des cadeaux de Noël,2,matching,Lis et note la bonne lettre.,"Roseline adore le tennis. Elle a deux paquets. Dans un paquet, il y a une nouvelle raquette de tennis et dans l'autre paquet, il y a des balles de tennis.",,,,,,,A1,shopping,052
 tricolore-1-5th-edition,listening,1 L'anniversaire de Marc,3,multiple-choice,"Écoute et lis. Écris a, b, ou c.","Comme cadeaux, il a reçu ...",un tee-shirt et une carte cadeau.,une raquette de tennis et un tee-shirt.,un portable et une bande dessinée.,,,,A2,shopping,052
@@ -503,7 +503,7 @@ tricolore-1-5th-edition,grammar,4 Merci pour les cadeaux (a),6,multiple-choice,L
 tricolore-1-5th-edition,grammar,4 Merci pour les cadeaux (a),7,multiple-choice,Lis les phrases. Choisis le bon mot.,La souris est (mignonne/mignonnes).,mignonne,mignonnes,,,,,A1,mixed,053
 tricolore-1-5th-edition,grammar,4 Merci pour les cadeaux (a),8,multiple-choice,Lis les phrases. Choisis le bon mot.,Je suis très content de mon (nouveau/nouvelle) portable.,nouveau,nouvelle,,,,,A1,shopping,053
 tricolore-1-5th-edition,listening,1 Vous cherchez un cadeau?,1,matching,Écris 1–8. Écoute. Quels sont les huit cadeaux mentionnés?,Écris 1–8. Écoute. Quels sont les huit cadeaux mentionnés parmi le poster «Idées Cadeaux» (lettres A–P)?,,,,,,,A1,shopping,054
-tricolore-1-5th-edition,reading,2 Les cadeaux,1,matching,Regarde la liste. Note la lettre qui correspond.,une tablette,,,,,,P,A1,shopping,054
+tricolore-1-5th-edition,reading,2 Les cadeaux,1,matching,Regarde la liste. Note la lettre qui correspond.,une tablette,,,,,,"P – [image : une tablette, 250€]",A1,shopping,054
 tricolore-1-5th-edition,reading,2 Les cadeaux,10,matching,Regarde la liste. Note la lettre qui correspond.,une carte cadeau,,,,,,,A1,shopping,054
 tricolore-1-5th-edition,reading,2 Les cadeaux,11,matching,Regarde la liste. Note la lettre qui correspond.,un jean cargo,,,,,,,A1,shopping,054
 tricolore-1-5th-edition,reading,2 Les cadeaux,12,matching,Regarde la liste. Note la lettre qui correspond.,un livre de poche,,,,,,,A1,shopping,054
@@ -520,7 +520,7 @@ tricolore-1-5th-edition,reading,2 Les cadeaux,7,matching,Regarde la liste. Note 
 tricolore-1-5th-edition,reading,2 Les cadeaux,8,matching,Regarde la liste. Note la lettre qui correspond.,des chaussettes fantaisie,,,,,,,A1,shopping,054
 tricolore-1-5th-edition,reading,2 Les cadeaux,9,matching,Regarde la liste. Note la lettre qui correspond.,"une collection papeterie (cahier, trousse et stylo)",,,,,,,A1,shopping,054
 tricolore-1-5th-edition,grammar,Dossier-langue Numbers (a),1,fill-in,"Following this pattern, complete these numbers (write them down and practise saying them):","Complète les nombres 74 à 79 en français (74 soixante-___, 75 s___-___, 76 s___-___, 77 soixante-___-___, 78 ___-___-___, 79 ___-___-___).",,,,,,,A1,none,055
-tricolore-1-5th-edition,reading,3 Un cadeau idéal (a),1,matching,Choisis un cadeau pour chaque personne.,Karim aime lire.,,,,,,M,A1,shopping,055
+tricolore-1-5th-edition,reading,3 Un cadeau idéal (a),1,matching,Choisis un cadeau pour chaque personne.,Karim aime lire.,,,,,,"M – [image : un livre de poche orange, 4,99€]",A1,shopping,055
 tricolore-1-5th-edition,writing,3 Un cadeau idéal (b),1,short-answer,Choisis un cadeau pour toi et donne une raison.,Choisis un cadeau pour toi et donne une raison.,,,,,,(open-ended),A1,shopping,055
 tricolore-1-5th-edition,writing,3 Un cadeau idéal (c),1,writing-task,Invente des raisons pour trois autres personnes.,Invente des raisons pour trois autres personnes.,,,,,,(open-ended),A1,shopping,055
 tricolore-1-5th-edition,listening,4 La tombola (a),1,matching,"Le 14 juillet, dans mon village, il y a des jeux avec une tombola. Écoute, lis et trouve le bon prix.","Écoute, lis et trouve le bon prix pour chaque cadeau (tee-shirt, calculatrice, carte cadeau, classeur, crayons, tablette, trousse, poisson rouge, sac à dos, stylo).",,,,,,,A1,shopping,055
@@ -736,7 +736,7 @@ tricolore-1-5th-edition,reading,Exercise 4,a,matching,Regarde les photos et trou
 tricolore-1-5th-edition,reading,Exercise 4,b,matching,Regarde les photos et trouve le texte qui correspond.,Beaucoup de cafés ont une terrasse. C'est agréable quand il fait beau.,,,,,,,A1,weather,067
 tricolore-1-5th-edition,reading,Exercise 4,c,matching,Regarde les photos et trouve le texte qui correspond.,"En hiver, il ne fait pas très froid et en été, il fait chaud. On cultive des pêches et des raisins.",,,,,,,A1,weather,067
 tricolore-1-5th-edition,reading,Exercise 4,d,matching,Regarde les photos et trouve le texte qui correspond.,Il y a des volets aux fenêtres. On ferme les volets quand il fait très chaud.,,,,,,,A1,weather,067
-tricolore-1-5th-edition,listening,Exercise 1a,1,matching,Écris 1–8. Écoute et trouve la bonne photo.,Écris 1–8. Écoute et trouve la bonne photo.,,,,,,A,A1,hobby,068
+tricolore-1-5th-edition,listening,Exercise 1a,1,matching,Écris 1–8. Écoute et trouve la bonne photo.,Écris 1–8. Écoute et trouve la bonne photo.,,,,,,A – [image : deux jeunes jouent au volley devant un filet] « Nous jouons au volley. » (Claire et Thomas),A1,hobby,068
 tricolore-1-5th-edition,reading,Exercise 1b,1,short-answer,Lis les phrases et corrige les erreurs.,Corrige l'erreur: Marc joue au rugby.,,,,,,Marc joue au basket.,A1,hobby,068
 tricolore-1-5th-edition,speaking,Exercise 2,1,speaking-task,"À deux, lisez la conversation, puis changez les sports.","À deux, lisez la conversation, puis changez les sports.",,,,,,(open-ended),A1,hobby,068
 tricolore-1-5th-edition,grammar,Dossier-langue,1,short-answer,Why is the word different here?,jouer au football / jouer au volley / jouer au tennis — Why is the word different here? (jouer aux cartes),,,,,,,A1,hobby,068
@@ -911,7 +911,7 @@ tricolore-1-5th-edition,reading,Exercise 1,6,short-answer,Réponds aux questions
 tricolore-1-5th-edition,reading,Exercise 2,6,short-answer,Comment ça se dit en français?,Comment ça se dit en français? The cheese rolls.,,,,,,Le fromage roule.,A1,mixed,079
 tricolore-1-5th-edition,reading,Exercise 1,7,short-answer,Réponds aux questions en anglais.,Why is Patrick unable to stay behind after school?,,,,,,Because his mother works and he has to look after his little brother.,A1,school,079
 tricolore-1-5th-edition,reading,Exercise 1,8,short-answer,Réponds aux questions en anglais.,How do things change at the end?,,,,,,His classmates realise why he couldn't join in and offer to help; his little brother joins in playing football too.,A1,school,079
-tricolore-1-5th-edition,reading,Exercise 1a,1,matching,Écoute et lis. Puis trouve l'image qui correspond.,"Salut! Je m'appelle Marine, et voici mon frère, Noah. Nous habitons à La Rochelle. C'est une ville dans l'ouest de la France.",,,,,,I,A1,travel,080
+tricolore-1-5th-edition,reading,Exercise 1a,1,matching,Écoute et lis. Puis trouve l'image qui correspond.,"Salut! Je m'appelle Marine, et voici mon frère, Noah. Nous habitons à La Rochelle. C'est une ville dans l'ouest de la France.",,,,,,"I – [image : un garçon et une fille, frère et sœur, qui sourient ensemble]",A1,travel,080
 tricolore-1-5th-edition,reading,Exercise 1a,10,matching,Écoute et lis. Puis trouve l'image qui correspond.,"En ville, il y a des jardins et des parcs.",,,,,,,A1,travel,080
 tricolore-1-5th-edition,reading,Exercise 1a,11,matching,Écoute et lis. Puis trouve l'image qui correspond.,"Il y a aussi des musées et un aquarium. Moi, j'aime bien le musée maritime. On monte à bord de différents bateaux. C'est très sympa.",,,,,,,A1,travel,080
 tricolore-1-5th-edition,reading,Exercise 1a,12,matching,Écoute et lis. Puis trouve l'image qui correspond.,"Et, en été, au mois de juillet, il y a un grand festival de musique avec beaucoup de concerts. Ça s'appelle les Francofolies.",,,,,,,A1,travel,080
@@ -937,7 +937,7 @@ tricolore-1-5th-edition,grammar,Dossier-langue,5,short-answer,Which word goes in
 tricolore-1-5th-edition,reading,Exercise 1b,6,short-answer,Comment ça se dit en français?,Comment ça se dit en français? youth hostel,,,,,,l'auberge de jeunesse,A1,city-places,081
 tricolore-1-5th-edition,reading,Exercise 1b,7,short-answer,Comment ça se dit en français?,Comment ça se dit en français? town hall,,,,,,l'hôtel de ville,A1,city-places,081
 tricolore-1-5th-edition,reading,Exercise 1b,8,short-answer,Comment ça se dit en français?,Comment ça se dit en français? museum,,,,,,un musée,A1,city-places,081
-tricolore-1-5th-edition,listening,Exercise 1b,1,matching,Écris 1–8. Écoute et écris la bonne lettre.,Écris 1–8. Écoute et écris la bonne lettre. (1),,,,,,E,A1,city-places,082
+tricolore-1-5th-edition,listening,Exercise 1b,1,matching,Écris 1–8. Écoute et écris la bonne lettre.,Écris 1–8. Écoute et écris la bonne lettre. (1),,,,,,E – [image : une enveloppe et une carte postale],A1,city-places,082
 tricolore-1-5th-edition,reading,Exercise 1c,1,fill-in,Complète les phrases.,"Pour les touristes, il y a des h___, une a___ de jeunesse et un c___.",,,,,,"hôtels, auberge, camping",A1,city-places,082
 tricolore-1-5th-edition,grammar,Dossier-langue,1,short-answer,Can you remember the feminine form?,Can you remember the feminine singular form of 'blanc'?,,,,,,blanche,A2,none,082
 tricolore-1-5th-edition,listening,Exercise 1b,2,matching,Écris 1–8. Écoute et écris la bonne lettre.,Écris 1–8. Écoute et écris la bonne lettre. (2),,,,,,,A1,city-places,082
@@ -991,7 +991,7 @@ tricolore-1-5th-edition,reading,Exercise 2b,7,short-answer,Comment ça se dit en
 tricolore-1-5th-edition,writing,Exercise 3a Postcard A,7,fill-in,Complète les cartes postales avec les mots de la case.,...alors nous allons à la (7)___ cet après-midi.,,,,,,piscine,A1,travel,083
 tricolore-1-5th-edition,writing,Exercise 3a Postcard B,7,fill-in,Complète les cartes postales avec les mots de la case.,"Ce soir, on va manger au (7)___.",,,,,,restaurant,A1,travel,083
 tricolore-1-5th-edition,reading,Exercise 2b,8,short-answer,Comment ça se dit en français?,"Comment ça se dit en français? it's a good idea, don't you think?",,,,,,"c'est une bonne idée, non?",A1,travel,083
-tricolore-1-5th-edition,listening,Exercise 1,1,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (1),,,,,,D,A1,travel,084
+tricolore-1-5th-edition,listening,Exercise 1,1,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (1),,,,,,D – [image : une scène de théâtre avec des rideaux],A1,travel,084
 tricolore-1-5th-edition,speaking,Exercise 2a,1,speaking-task,Pose des questions.,Pour aller ...? (icon: group of people),,,,,,"Pour aller au cinéma, s'il vous plaît?",A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2b,1,speaking-task,Pose des questions.,Est-ce qu'il y a … près d'ici? (icon: letter P),,,,,,Est-ce qu'il y a un parking près d'ici?,A1,city-places,084
 tricolore-1-5th-edition,speaking,Exercise 2c,1,speaking-task,Pose des questions.,"…, c'est loin/c'est près d'ici? (icon: beach umbrella and lounger)",,,,,,"La plage, c'est loin?",A1,city-places,084
@@ -1020,7 +1020,7 @@ tricolore-1-5th-edition,reading,Exercise b (Vrai ou faux),8,true-false,Vrai ou f
 tricolore-1-5th-edition,listening,Exercise 1,9,matching,Écris 1–10. Écoute et écris la bonne lettre.,Écris 1–10. Écoute et écris la bonne lettre. (9),,,,,,,A1,travel,084
 tricolore-1-5th-edition,listening,Exercise 4,1,fill-in,Écris 1–10. Écoute et note la direction ← ↑ → .,Écris 1–10. Écoute et note la direction ← ↑ → . (1),,,,,,,A1,city-places,085
 tricolore-1-5th-edition,reading,Exercise 5,1,fill-in,Regarde le panneau et complète les phrases.,La poste est ___ .,,,,,,à gauche,A1,city-places,085
-tricolore-1-5th-edition,reading,Exercise 6,1,matching,Quelle est la bonne réponse?,"Pour aller à la piscine, s'il vous plaît?",,,,,,b,A1,city-places,085
+tricolore-1-5th-edition,reading,Exercise 6,1,matching,Quelle est la bonne réponse?,"Pour aller à la piscine, s'il vous plaît?",,,,,,b – C'est la première rue à droite. Ce n'est pas loin.,A1,city-places,085
 tricolore-1-5th-edition,speaking,Exercise 7,1,speaking-task,"À deux ou à trois, lisez les conversations. Changez les mots surlignés pour inventer d'autres conversations.",Écoutez la conversation sur comment aller à la piscine et inventez d'autres conversations.,,,,,,(open-ended),A1,city-places,085
 tricolore-1-5th-edition,grammar,Dossier-langue,1,short-answer,"Using the verb tourner, work out how to say: Turn right, then turn left.","Using the verb tourner, work out how to say: Turn right, then turn left.",,,,,,"Tournez à droite, puis tournez à gauche.",A1,city-places,085
 tricolore-1-5th-edition,listening,Exercise 4,10,fill-in,Écris 1–10. Écoute et note la direction ← ↑ → .,Écris 1–10. Écoute et note la direction ← ↑ → . (10),,,,,,,A1,city-places,085
@@ -1082,7 +1082,7 @@ tricolore-1-5th-edition,grammar,Exercise 6a,7,fill-in,Choisis la bonne préposit
 tricolore-1-5th-edition,listening,Exercise 4,8,short-answer,"Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible.","Écris 1–8. Écoute et note l'endroit et d'autres détails, si possible. (8)",,,,,,,A1,city-places,087
 tricolore-1-5th-edition,reading,Exercise 5,8,true-false,Vrai ou faux?,Le chien est devant la poste.,,,,,,Faux – Le chien est devant le supermarché.,A1,city-places,087
 tricolore-1-5th-edition,grammar,Exercise 6a,8,fill-in,Choisis la bonne préposition pour compléter les phrases.,L'homme est ___ le lion. (3),,,,,,,A1,none,087
-tricolore-1-5th-edition,listening,Exercise 2,1,matching,Écris 1–10. Écoute et trouve les bonnes images.,Écris 1–10. Écoute et trouve les bonnes images. (1),,,,,,C,A1,city-places,088
+tricolore-1-5th-edition,listening,Exercise 2,1,matching,Écris 1–10. Écoute et trouve les bonnes images.,Écris 1–10. Écoute et trouve les bonnes images. (1),,,,,,C – [image : un ballon de football et un but],A1,city-places,088
 tricolore-1-5th-edition,grammar,Dossier-langue,1,short-answer,What do un/une and des change to after il n'y a pas?,What do un/une and des change to after il n'y a pas?,,,,,,de (d'),A1,city-places,088
 tricolore-1-5th-edition,vocabulary,Exercise 3,1,fill-in,Complète les phrases.,"Dans le centre-ville, il y a [icon: tennis rackets, ball, rugby ball].",,,,,,un centre sportif,A1,city-places,088
 tricolore-1-5th-edition,vocabulary,Exercise 4,1,fill-in,,"[icon: bowling ball and pins, crossed out]",,,,,,Il n'y a pas de bowling.,A1,city-places,088
@@ -1143,13 +1143,13 @@ tricolore-1-5th-edition,vocabulary,Exercise 1,6,fill-in,Complète les bulles.,El
 tricolore-1-5th-edition,listening,Exercise 2a,6,fill-in,"Coralie est malade (ill). Elle reste à la maison, mais ses amis vont en ville. Où vont-ils? Écoute les conversations. Complète avec va ou vont et la bonne destination.",Christophe et Jean-Pierre ___ ___ .,,,,,,,A1,mixed,090
 tricolore-1-5th-edition,listening,Exercise 2b,6,short-answer,Écoute encore une fois et note avec qui ils vont en ville.,Écoute encore une fois et note avec qui Christophe va en ville.,,,,,,,A1,mixed,090
 tricolore-1-5th-edition,listening,Exercise 2a,7,fill-in,"Coralie est malade (ill). Elle reste à la maison, mais ses amis vont en ville. Où vont-ils? Écoute les conversations. Complète avec va ou vont et la bonne destination.","Mais le soir, ils ___ tous chez Coralie.",,,,,,vont,A1,mixed,090
-tricolore-1-5th-edition,grammar,3 Allez!,1,matching,Trouve les paires.,Nous …,,,,,,h,A1,city-places,091
+tricolore-1-5th-edition,grammar,3 Allez!,1,matching,Trouve les paires.,Nous …,,,,,,h – allons au marché aux poissons.,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),1,fill-in,Complète la conversation.,"Demain, je ___ chez ma grand-mère pour l'aider un peu. Tu viens?",,,,,,vais,A1,city-places,091
 tricolore-1-5th-edition,speaking,4 Ah non! (b),1,speaking-task,"À deux, inventez une conversation amusante comme ça.","À deux, inventez une conversation amusante comme ça.",,,,,,(open-ended),A1,city-places,091
 tricolore-1-5th-edition,writing,5 Le weekend,1,writing-task,Où vas-tu le vendredi et le samedi? Où allez-vous le dimanche? Invente six phrases.,Où vas-tu le vendredi et le samedi? Où allez-vous le dimanche? Invente six phrases.,,,,,,(open-ended),A1,city-places,091
 tricolore-1-5th-edition,grammar,3 Allez!,2,matching,Trouve les paires.,Elles …,,,,,,,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),2,fill-in,Complète la conversation.,"Ah non! Demain, je ___ au cinéma.",,,,,,vais,A1,city-places,091
-tricolore-1-5th-edition,grammar,3 Allez!,3,matching,Trouve les paires.,Vous …,,,,,,c,A1,city-places,091
+tricolore-1-5th-edition,grammar,3 Allez!,3,matching,Trouve les paires.,Vous …,,,,,,c – allez à la banque?,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),3,fill-in,Complète la conversation.,"Mercredi, nous ___ à la ferme pour travailler avec mon oncle. Tu viens?",,,,,,allons,A1,city-places,091
 tricolore-1-5th-edition,grammar,3 Allez!,4,matching,Trouve les paires.,Elle …,,,,,,,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),4,fill-in,Complète la conversation.,"Ah non! Mercredi, je ___ au parc avec des amis.",,,,,,vais,A1,city-places,091
@@ -1159,9 +1159,9 @@ tricolore-1-5th-edition,grammar,4 Ah non! (a),5b,fill-in,Complète la conversati
 tricolore-1-5th-edition,grammar,3 Allez!,6,matching,Trouve les paires.,On …,,,,,,,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),6a,fill-in,Complète la conversation.,"Ah non! Samedi, mon frère ___ au match de football et moi, je ___ au match aussi. (first blank)",,,,,,va,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),6b,fill-in,Complète la conversation.,"Ah non! Samedi, mon frère ___ au match de football et moi, je ___ au match aussi. (second blank)",,,,,,vais,A1,city-places,091
-tricolore-1-5th-edition,grammar,3 Allez!,7,matching,Trouve les paires.,Je …,,,,,,d,A1,city-places,091
+tricolore-1-5th-edition,grammar,3 Allez!,7,matching,Trouve les paires.,Je …,,,,,,d – vais à la gare.,A1,city-places,091
 tricolore-1-5th-edition,grammar,4 Ah non! (a),7,fill-in,Complète la conversation.,"Dimanche, nous ___ tous au Parc Astérix en minibus.",,,,,,allons,A1,city-places,091
-tricolore-1-5th-edition,grammar,3 Allez!,8,matching,Trouve les paires.,Tu …,,,,,,f,A1,city-places,091
+tricolore-1-5th-edition,grammar,3 Allez!,8,matching,Trouve les paires.,Tu …,,,,,,f – vas au festival de musique?,A1,city-places,091
 tricolore-1-5th-edition,reading,1 Une fenêtre ouverte sur l'océan (a),1,multiple-choice,Réponds en anglais.,What kind of text is this?,a publicity leaflet,a magazine article,a story about fish,,,a publicity leaflet,A2,travel,092
 tricolore-1-5th-edition,reading,1 (b) Vrai ou faux?,1,true-false,Vrai ou faux?,L'aquarium est loin de la gare.,,,,,,Faux,A2,travel,092
 tricolore-1-5th-edition,listening,2 À l'office de tourisme (a),1,multiple-choice,Listen first to find out what this is about. Is it …,Listen first to find out what this is about. Is it …,a recorded announcement about events in La Rochelle?,an interview with the director of tourism?,a conversation between tourists and a member of staff?,,,,A2,travel,092
@@ -1172,7 +1172,7 @@ tricolore-1-5th-edition,reading,1 (b) Vrai ou faux?,2,true-false,Vrai ou faux?,I
 tricolore-1-5th-edition,reading,1 Une fenêtre ouverte sur l'océan (a),3,short-answer,Réponds en anglais.,What could you do before or after a visit?,,,,,,"Go to the Aquarium café, which has a panoramic view.",A2,travel,092
 tricolore-1-5th-edition,reading,1 (b) Vrai ou faux?,3,true-false,Vrai ou faux?,C'est ouvert en hiver,,,,,,Vrai,A2,travel,092
 tricolore-1-5th-edition,reading,1 (b) Vrai ou faux?,4,true-false,Vrai ou faux?,On trouve des requins (sharks) au café.,,,,,,Faux,A2,travel,092
-tricolore-1-5th-edition,grammar,1 Au contraire,1,matching,Trouve les contraires. Find the opposites.,oui,,,,,,e,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,1,matching,Trouve les contraires. Find the opposites.,oui,,,,,,e – non,A1,mixed,094
 tricolore-1-5th-edition,grammar,2 Les mots en escargot (a),1,short-answer,Trouve six endroits en ville. Find six places in a town.,Trouve six endroits en ville.,,,,,,"église, gare, hôpital, poste, banque, tour",A1,city-places,094
 tricolore-1-5th-edition,grammar,2 Les mots en escargot (b),1,short-answer,"Avec les lettres qui restent, écris le nom d'une saison. With the remaining letters, write the name of a season.","Avec les lettres qui restent, écris le nom d'une saison.",,,,,,printemps,A1,city-places,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,1,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"du brouillard, du vent, du soleil, du sport",,,,,,du sport,A1,mixed,094
@@ -1180,63 +1180,63 @@ tricolore-1-5th-edition,grammar,4 Quel temps fait-il?,1,fill-in,Complète les ph
 tricolore-1-5th-edition,grammar,"5 Masculin, féminin",1,short-answer,Écris deux listes. Write two lists.,"Écris deux listes (masculin/féminin) à partir des mots du serpent: brochure, bureau, camping, chaussette, bateau, chaussure, calculatrice, parking, tableau.",,,,,,"Masculin: bureau, camping, bateau, parking, tableau. Féminin: brochure, chaussette, chaussure, calculatrice.",A1,none,094
 tricolore-1-5th-edition,grammar,6 À la maison,1,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,Il ___ . (neiger),,,,,,neige,A1,home,094
 tricolore-1-5th-edition,grammar,6 À la maison,10,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,Ma grand-mère et ma sœur ___ un film. (regarder),,,,,,regardent,A1,home,094
-tricolore-1-5th-edition,grammar,1 Au contraire,2,matching,Trouve les contraires. Find the opposites.,chaud,,,,,,g,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,2,matching,Trouve les contraires. Find the opposites.,chaud,,,,,,g – froid,A1,mixed,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,2,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"cent, quatre-vingts, travailler, soixante-dix",,,,,,travailler,A1,mixed,094
 tricolore-1-5th-edition,grammar,4 Quel temps fait-il?,2,fill-in,Complète les phrases avec des voyelles. Trouve le symbole qui correspond. Complete the phrases with the missing vowels. Find the matching symbol.,Il f__t fr__d.,,,,,,Il fait froid. – A,A1,weather,094
 tricolore-1-5th-edition,grammar,6 À la maison,2,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,On ___ à la maison. (rester),,,,,,reste,A1,home,094
-tricolore-1-5th-edition,grammar,1 Au contraire,3,matching,Trouve les contraires. Find the opposites.,beau,,,,,,a,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,3,matching,Trouve les contraires. Find the opposites.,beau,,,,,,a – mauvais,A1,mixed,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,3,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"jouer, février, dessiner, chanter",,,,,,février,A1,mixed,094
 tricolore-1-5th-edition,grammar,4 Quel temps fait-il?,3,fill-in,Complète les phrases avec des voyelles. Trouve le symbole qui correspond. Complete the phrases with the missing vowels. Find the matching symbol.,Il pl__t.,,,,,,Il pleut. – D,A1,weather,094
 tricolore-1-5th-edition,grammar,6 À la maison,3,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,"Moi, je ___ à mes amis. (téléphoner)",,,,,,téléphone,A1,home,094
-tricolore-1-5th-edition,grammar,1 Au contraire,4,matching,Trouve les contraires. Find the opposites.,petit,,,,,,f,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,4,matching,Trouve les contraires. Find the opposites.,petit,,,,,,f – grand,A1,mixed,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,4,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"une église, une banque, un magasin, un homme",,,,,,un homme,A1,mixed,094
 tricolore-1-5th-edition,grammar,4 Quel temps fait-il?,4,fill-in,Complète les phrases avec des voyelles. Trouve le symbole qui correspond. Complete the phrases with the missing vowels. Find the matching symbol.,Il y_ d_ br___ll_rd.,,,,,,Il y a du brouillard. – B,A1,weather,094
 tricolore-1-5th-edition,grammar,6 À la maison,4,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,"Toi, tu ___ sur l'ordinateur? (travailler)",,,,,,travailles,A1,home,094
-tricolore-1-5th-edition,grammar,1 Au contraire,5,matching,Trouve les contraires. Find the opposites.,l'hiver,,,,,,h,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,5,matching,Trouve les contraires. Find the opposites.,l'hiver,,,,,,h – l'été,A1,mixed,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,5,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"première, derrière, deuxième, troisième",,,,,,derrière,A1,mixed,094
 tricolore-1-5th-edition,grammar,4 Quel temps fait-il?,5,fill-in,Complète les phrases avec des voyelles. Trouve le symbole qui correspond. Complete the phrases with the missing vowels. Find the matching symbol.,Il n__g_.,,,,,,Il neige. – E,A1,weather,094
 tricolore-1-5th-edition,grammar,6 À la maison,5,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,Marc ___ de la musique. (écouter),,,,,,écoute,A1,home,094
-tricolore-1-5th-edition,grammar,1 Au contraire,6,matching,Trouve les contraires. Find the opposites.,noir,,,,,,d,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,6,matching,Trouve les contraires. Find the opposites.,noir,,,,,,d – blanc,A1,mixed,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,6,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"sous, sur, devant, méchant",,,,,,méchant,A1,mixed,094
 tricolore-1-5th-edition,grammar,4 Quel temps fait-il?,6,fill-in,Complète les phrases avec des voyelles. Trouve le symbole qui correspond. Complete the phrases with the missing vowels. Find the matching symbol.,Il f__t ch__d.,,,,,,Il fait chaud. – F,A1,weather,094
 tricolore-1-5th-edition,grammar,6 À la maison,6,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,Sophie ___ . (dessiner),,,,,,dessine,A1,home,094
-tricolore-1-5th-edition,grammar,1 Au contraire,7,matching,Trouve les contraires. Find the opposites.,devant,,,,,,c,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,7,matching,Trouve les contraires. Find the opposites.,devant,,,,,,c – derrière,A1,mixed,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,7,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"l'été, l'hiver, l'ami, l'automne",,,,,,l'ami,A1,mixed,094
 tricolore-1-5th-edition,grammar,6 À la maison,7,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,Nous ___ un grand repas. (préparer),,,,,,préparons,A1,home,094
-tricolore-1-5th-edition,grammar,1 Au contraire,8,matching,Trouve les contraires. Find the opposites.,sous,,,,,,b,A1,mixed,094
+tricolore-1-5th-edition,grammar,1 Au contraire,8,matching,Trouve les contraires. Find the opposites.,sous,,,,,,b – sur,A1,mixed,094
 tricolore-1-5th-edition,grammar,3 Chasse à l'intrus,8,short-answer,Trouve le mot qui ne va pas avec les autres. Find the odd word out.,"le printemps, le volley, le golf, le tennis",,,,,,le printemps,A1,mixed,094
 tricolore-1-5th-edition,grammar,6 À la maison,8,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,"Vous ___ le salon, les enfants? (ranger)",,,,,,rangez,A1,home,094
 tricolore-1-5th-edition,grammar,6 À la maison,9,fill-in,Complète les phrases avec la bonne forme du verbe. Complete the sentences with the correct part of the verb.,"Après le repas, mes parents ___ aux cartes. (jouer)",,,,,,jouent,A1,home,094
 tricolore-1-5th-edition,grammar,7 Où est le lapin?,1,short-answer,"Le lapin, Henri, n'est pas dans sa cage. Où est il? Henri, the rabbit, is not in his cage. Where is he?",Picture 1: rabbit between books on a shelf.,,,,,,Le lapin est entre les livres.,A1,none,095
-tricolore-1-5th-edition,grammar,8 Le weekend,1,matching,Trouve les paires. Find the pairs.,"Moi, je …",,,,,,c,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,1,matching,Trouve les paires. Find the pairs.,"Moi, je …",,,,,,c – … vais au musée.,A1,city-places,095
 tricolore-1-5th-edition,speaking,9 À toi!,1,short-answer,Réponds aux questions. Answer the questions.,"Où vas-tu en ville, le samedi?",,,,,,(open-ended),A1,mixed,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,1,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,C'est samedi. Jojo décide d'aller en (1) ___ .,,,,,,ville,A1,city-places,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,10,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Tom continue (10) ___ .,,,,,,tout droit,A1,city-places,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,11,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Jojo arrive (11) ___ parc.,,,,,,au,A1,city-places,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,12,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Tom (12) ___ dans la rivière.,,,,,,tombe,A1,city-places,095
 tricolore-1-5th-edition,grammar,7 Où est le lapin?,2,short-answer,"Le lapin, Henri, n'est pas dans sa cage. Où est il? Henri, the rabbit, is not in his cage. Where is he?",Picture 2: rabbit on top of a computer monitor.,,,,,,,A1,none,095
-tricolore-1-5th-edition,grammar,8 Le weekend,2,matching,Trouve les paires. Find the pairs.,"Et toi, tu …",,,,,,d,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,2,matching,Trouve les paires. Find the pairs.,"Et toi, tu …",,,,,,d – … vas au parc.,A1,city-places,095
 tricolore-1-5th-edition,speaking,9 À toi!,2,short-answer,Réponds aux questions. Answer the questions.,"Et tes amis, où vont-ils?",,,,,,(open-ended),A1,mixed,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,2,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Elle va d'abord (2) ___ magasins.,,,,,,aux,A1,city-places,095
 tricolore-1-5th-edition,grammar,7 Où est le lapin?,3,short-answer,"Le lapin, Henri, n'est pas dans sa cage. Où est il? Henri, the rabbit, is not in his cage. Where is he?",Picture 3: rabbit under a chair.,,,,,,,A1,none,095
-tricolore-1-5th-edition,grammar,8 Le weekend,3,matching,Trouve les paires. Find the pairs.,"Daniel, il …",,,,,,b,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,3,matching,Trouve les paires. Find the pairs.,"Daniel, il …",,,,,,b – … va à la piscine.,A1,city-places,095
 tricolore-1-5th-edition,speaking,9 À toi!,3,short-answer,Réponds aux questions. Answer the questions.,Qu'est-ce que tu préfères: aller au cinéma ou aller au match de football?,,,,,,(open-ended),A1,mixed,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,3,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Puis elle va (3) ___ café.,,,,,,au,A1,city-places,095
 tricolore-1-5th-edition,grammar,7 Où est le lapin?,4,short-answer,"Le lapin, Henri, n'est pas dans sa cage. Où est il? Henri, the rabbit, is not in his cage. Where is he?",Picture 4: rabbit in/on a typewriter.,,,,,,,A1,none,095
-tricolore-1-5th-edition,grammar,8 Le weekend,4,matching,Trouve les paires. Find the pairs.,"Nicole, elle va …",,,,,,e,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,4,matching,Trouve les paires. Find the pairs.,"Nicole, elle va …",,,,,,e – … au match.,A1,city-places,095
 tricolore-1-5th-edition,speaking,9 À toi!,4,short-answer,Réponds aux questions. Answer the questions.,"Qu'est-ce que tu fais, quand il fait mauvais?",,,,,,(open-ended),A1,mixed,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,4,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,"Ensuite, elle va chez une amie qui habite (4) ___ église.",,,,,,à l',A1,city-places,095
 tricolore-1-5th-edition,grammar,7 Où est le lapin?,5,short-answer,"Le lapin, Henri, n'est pas dans sa cage. Où est il? Henri, the rabbit, is not in his cage. Where is he?",Picture 5: rabbit in a box.,,,,,,,A1,none,095
-tricolore-1-5th-edition,grammar,8 Le weekend,5,matching,Trouve les paires. Find the pairs.,Nous …,,,,,,h,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,5,matching,Trouve les paires. Find the pairs.,Nous …,,,,,,h – … allons au concert.,A1,city-places,095
 tricolore-1-5th-edition,speaking,9 À toi!,5,short-answer,Réponds aux questions. Answer the questions.,Et tes amis?,,,,,,(open-ended),A1,mixed,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,5,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Puis elle va (5) ___ gare.,,,,,,à la,A1,city-places,095
 tricolore-1-5th-edition,grammar,7 Où est le lapin?,6,short-answer,"Le lapin, Henri, n'est pas dans sa cage. Où est il? Henri, the rabbit, is not in his cage. Where is he?",Picture 6: rabbit behind/on a television.,,,,,,,A1,none,095
-tricolore-1-5th-edition,grammar,8 Le weekend,6,matching,Trouve les paires. Find the pairs.,"Et vous, vous …",,,,,,g,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,6,matching,Trouve les paires. Find the pairs.,"Et vous, vous …",,,,,,g – … allez aux magasins.,A1,city-places,095
 tricolore-1-5th-edition,speaking,9 À toi!,6,short-answer,Réponds aux questions. Answer the questions.,Qu'est-ce que tu préfères: jouer sur l'ordinateur ou regarder un film?,,,,,,(open-ended),A1,mixed,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,6,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Zut! Tom est (6) ___ gare aussi.,,,,,,à la,A1,city-places,095
-tricolore-1-5th-edition,grammar,8 Le weekend,7,matching,Trouve les paires. Find the pairs.,Mes parents …,,,,,,a,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,7,matching,Trouve les paires. Find the pairs.,Mes parents …,,,,,,a – … vont au supermarché.,A1,city-places,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,7,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Tom (7) ___ Jojo.,,,,,,chasse,A1,city-places,095
-tricolore-1-5th-edition,grammar,8 Le weekend,8,matching,Trouve les paires. Find the pairs.,Les filles vont à …,,,,,,f,A1,city-places,095
+tricolore-1-5th-edition,grammar,8 Le weekend,8,matching,Trouve les paires. Find the pairs.,Les filles vont à …,,,,,,f – … la patinoire.,A1,city-places,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,8,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Jojo (8) ___ dans la direction du port.,,,,,,va,A1,city-places,095
 tricolore-1-5th-edition,grammar,10 Tom et Jojo en ville,9,fill-in,Complète les phrases avec les mots de la case. Complete the sentences with the words from the box.,Puis elle (9) ___ à gauche.,,,,,,tourne,A1,city-places,095
 tricolore-1-5th-edition,listening,1 C'est à quelle heure?,1,short-answer,Écris 1–8. Écoute et note l'heure.,Écris 1–8. Écoute et note l'heure.,,,,,,3h00,A1,time-dates,096
@@ -1261,7 +1261,7 @@ tricolore-1-5th-edition,grammar,2 Le weekend,6,fill-in,Complète les phrases.,Ma
 tricolore-1-5th-edition,grammar,3 Français/Anglais,6,short-answer,Comment ça se dit en anglais?,C'est ouvert jusqu'à 19 heures.,,,,,,It's open until 7pm (19:00).,A1,time-dates,096
 tricolore-1-5th-edition,listening,1 C'est à quelle heure?,7,short-answer,Écris 1–8. Écoute et note l'heure.,Écris 1–8. Écoute et note l'heure.,,,,,,,A1,time-dates,096
 tricolore-1-5th-edition,listening,1 C'est à quelle heure?,8,short-answer,Écris 1–8. Écoute et note l'heure.,Écris 1–8. Écoute et note l'heure.,,,,,,,A1,time-dates,096
-tricolore-1-5th-edition,reading,5 Quelle journée! (a),1,matching,Lis le texte et trouve les paires.,"À huit heures, Thomas va à la boulangerie.",,,,,,C,A1,daily-routine,097
+tricolore-1-5th-edition,reading,5 Quelle journée! (a),1,matching,Lis le texte et trouve les paires.,"À huit heures, Thomas va à la boulangerie.",,,,,,C – [image : une horloge qui indique huit heures],A1,daily-routine,097
 tricolore-1-5th-edition,writing,5 Quelle journée! (b),1,writing-task,Raconte la journée avec des changements. C'est une fille qui amuse son frère et ses sœurs. Change les heures et les endroits.,Raconte la journée avec des changements. C'est une fille qui amuse son frère et ses sœurs. Change les heures et les endroits.,,,,,,(open-ended),A1,daily-routine,097
 tricolore-1-5th-edition,speaking,6 Conversations aux nombres,1,speaking-task,"À deux, jetez un dé ou choisissez des nombres entre 1 et 6. Inventez des conversations.","À deux, jetez un dé ou choisissez des nombres entre 1 et 6. Inventez des conversations.",,,,,,(open-ended),A1,mixed,097
 tricolore-1-5th-edition,reading,5 Quelle journée! (a),2,matching,Lis le texte et trouve les paires.,"À dix heures vingt, il va au marché avec Pierre.",,,,,,,A1,daily-routine,097
@@ -1274,7 +1274,7 @@ tricolore-1-5th-edition,reading,5 Quelle journée! (a),8,matching,Lis le texte e
 tricolore-1-5th-edition,grammar,3 Ma journée,1,fill-in,Complète le résumé avec les mots de la case.,"Le (1) ___ , je prends mon petit déjeuner à sept heures et quart.",,,,,,matin,A1,daily-routine,099
 tricolore-1-5th-edition,speaking,4 Un questionnaire,1,short-answer,Pose ces questions à un(e) partenaire et note les réponses.,"À quelle heure est-ce que tu quittes la maison, le matin?",,,,,,7h50 (réponse d'exemple),A1,daily-routine,099
 tricolore-1-5th-edition,writing,5 Dossier personnel,1,writing-task,"Réponds aux questions du questionnaire. Écris une phrase en réponse aux questions 1 et 2, et une aux questions 5 et 6. Utilise des mots comme: et, puis, mais.","Réponds aux questions du questionnaire en phrases complètes, puis relis «Une journée typique» et modifie les phrases pour faire une description de ta journée.",,,,,,(open-ended),A1,daily-routine,099
-tricolore-1-5th-edition,reading,2c Trouve les paires,1-10,matching,Trouve les paires.,Trouve les paires: a Olivier prend son petit déjeuner / b Olivier arrive au collège / c Il commence ses devoirs / d Il se couche / e Il quitte la maison / f Olivier se lève / g Olivier mange à la cantine / h Il quitte le collège / i C'est la récréation / j Il dîne (match each statement to the correct clock time 1–10).,,,,,,1f,A1,daily-routine,099
+tricolore-1-5th-edition,reading,2c Trouve les paires,1-10,matching,Trouve les paires.,Trouve les paires: a Olivier prend son petit déjeuner / b Olivier arrive au collège / c Il commence ses devoirs / d Il se couche / e Il quitte la maison / f Olivier se lève / g Olivier mange à la cantine / h Il quitte le collège / i C'est la récréation / j Il dîne (match each statement to the correct clock time 1–10).,,,,,,1f – [image 1 : une horloge qui indique sept heures] Olivier se lève.,A1,daily-routine,099
 tricolore-1-5th-edition,grammar,3 Ma journée,2,fill-in,Complète le résumé avec les mots de la case.,"Le matin, je prends mon (2) ___ à sept heures et quart.",,,,,,petit déjeuner,A1,daily-routine,099
 tricolore-1-5th-edition,speaking,4 Un questionnaire,2,short-answer,Pose ces questions à un(e) partenaire et note les réponses.,tu arrives au collège?,,,,,,(open-ended),A1,daily-routine,099
 tricolore-1-5th-edition,grammar,3 Ma journée,3,fill-in,Complète le résumé avec les mots de la case.,"Au collège, les (3) ___ commencent à neuf heures.",,,,,,cours,A1,daily-routine,099
@@ -1296,7 +1296,7 @@ tricolore-1-5th-edition,reading,2b Trouve les mots dans le texte,chose à manger
 tricolore-1-5th-edition,reading,2b Trouve les mots dans le texte,nombres,short-answer,Trouve les mots dans le texte.,Trouve 4 nombres dans le texte «Une journée typique» (page 96).,,,,,,,A1,daily-routine,099
 tricolore-1-5th-edition,reading,2b Trouve les mots dans le texte,verbes,short-answer,Trouve les mots dans le texte.,Trouve 3 verbes dans le texte «Une journée typique» (page 96).,,,,,,,A1,daily-routine,099
 tricolore-1-5th-edition,listening,1 Les matières (a),1,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,G,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,1,matching,Trouve les paires.,J'arrive au collège à huit heures moins dix.,,,,,,G,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,1,matching,Trouve les paires.,J'arrive au collège à huit heures moins dix.,,,,,,G – [image : une horloge numérique qui affiche 07:50],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,1,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,a anglais; b 8h30,A1,school,100
 tricolore-1-5th-edition,grammar,Stratégies (-ie subjects),1,short-answer,Find two school subjects which end in -ie in French.,Find two school subjects which end in -ie in French.,,,,,,"géographie, technologie",A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),10,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
@@ -1305,25 +1305,25 @@ tricolore-1-5th-edition,listening,1 Les matières (a),12,short-answer,Écris 1�
 tricolore-1-5th-edition,listening,1 Les matières (a),13,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),14,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),2,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,2,matching,Trouve les paires.,Les cours commencent à huit heures cinq.,,,,,,D,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,2,matching,Trouve les paires.,Les cours commencent à huit heures cinq.,,,,,,D – [image : une horloge numérique qui affiche 08:05],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,2,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),3,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,3,matching,Trouve les paires.,La récréation est à dix heures vingt.,,,,,,F,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,3,matching,Trouve les paires.,La récréation est à dix heures vingt.,,,,,,F – [image : une horloge numérique qui affiche 10:20],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,3,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),4,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,4,matching,Trouve les paires.,J'ai un cours de deux heures de dessin à onze heures dix.,,,,,,B,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,4,matching,Trouve les paires.,J'ai un cours de deux heures de dessin à onze heures dix.,,,,,,B – [image : une horloge numérique qui affiche 11:10],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,4,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),5,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,5,matching,Trouve les paires.,La pause-déjeuner est à midi vingt-cinq.,,,,,,E,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,5,matching,Trouve les paires.,La pause-déjeuner est à midi vingt-cinq.,,,,,,E – [image : une horloge numérique qui affiche 12:25],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,5,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),6,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,6,matching,Trouve les paires.,Nous avons maths à deux heures moins vingt-cinq.,,,,,,H,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,6,matching,Trouve les paires.,Nous avons maths à deux heures moins vingt-cinq.,,,,,,H – [image : une horloge numérique qui affiche 13:35],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,6,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),7,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,7,matching,Trouve les paires.,"L'après-midi, la récréation est à trois heures moins vingt.",,,,,,A,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,7,matching,Trouve les paires.,"L'après-midi, la récréation est à trois heures moins vingt.",,,,,,A – [image : une horloge numérique qui affiche 14:40],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,7,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),8,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
-tricolore-1-5th-edition,grammar,2 Une journée au collège,8,matching,Trouve les paires.,Je quitte le collège à quatre heures moins cinq.,,,,,,C,A1,school,100
+tricolore-1-5th-edition,grammar,2 Une journée au collège,8,matching,Trouve les paires.,Je quitte le collège à quatre heures moins cinq.,,,,,,C – [image : une horloge numérique qui affiche 15:55],A1,school,100
 tricolore-1-5th-edition,listening,3 Dans la cour,8,short-answer,Écris 1–8 et écoute les conversations.,Écris 1–8 et écoute les conversations. Note la matière et l'heure.,,,,,,,A1,school,100
 tricolore-1-5th-edition,listening,1 Les matières (a),9,short-answer,Écris 1–14. Écoute et écris la bonne lettre.,Écris 1–14. Écoute et écris la bonne lettre.,,,,,,,A1,school,100
 tricolore-1-5th-edition,grammar,1 Les matières (b),A,matching,Écris le nom des matières.,Icon A: a globe.,,,,,,la géographie,A1,school,100
@@ -1526,43 +1526,43 @@ tricolore-1-5th-edition,reading,Tout est bien qui finit bien! (a),5,short-answer
 tricolore-1-5th-edition,reading,Tout est bien qui finit bien! (b) Vrai ou faux?,5,true-false,Vrai ou faux?,Le groupe de Sandrine gagne un concours.,,,,,,Vrai,A2,mixed,112
 tricolore-1-5th-edition,reading,Tout est bien qui finit bien! (a),6,short-answer,Comment ça se dit en français?,without paying,,,,,,sans payer,A1,hobby,112
 tricolore-1-5th-edition,reading,Tout est bien qui finit bien! (b) Vrai ou faux?,6,true-false,Vrai ou faux?,"Maintenant, Sandrine va au festival avec son groupe.",,,,,,Vrai,A2,mixed,112
-tricolore-1-5th-edition,reading,Infos France – matching,1,matching,Trouve le texte qui correspond à chaque image.,Image 1: a postage stamp showing the Marianne profile.,,,,,,C,A1,none,113
+tricolore-1-5th-edition,reading,Infos France – matching,1,matching,Trouve le texte qui correspond à chaque image.,Image 1: a postage stamp showing the Marianne profile.,,,,,,C – Marianne,A1,none,113
 tricolore-1-5th-edition,reading,Jeu-test (a),1,fill-in,Complète les phrases avec les mots de la case.,"tu t'amuses avec tes copains, mais tu n'apprends (1) ___ beaucoup.",,,,,,pas,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (b) Es-tu un(e) élève modèle?,1,multiple-choice,Fais le jeu-test et lis les résultats.,Tu préfères les cours où ...,"tu t'amuses avec tes copains, mais tu n'apprends pas beaucoup.",c'est très facile. Tu as toujours 10 sur 10 pour ton travail.,"le sujet est très intéressant, mais il faut travailler attentivement.",,,,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (a),10,fill-in,Complète les phrases avec les mots de la case.,Tu fais les devoirs pendant la mi-temps et (10) ___ le match.,,,,,,après,A1,school,113
-tricolore-1-5th-edition,reading,Infos France – matching,2,matching,Trouve le texte qui correspond à chaque image.,Image 2: a euro coin.,,,,,,D,A1,none,113
+tricolore-1-5th-edition,reading,Infos France – matching,2,matching,Trouve le texte qui correspond à chaque image.,Image 2: a euro coin.,,,,,,D – L'euro,A1,none,113
 tricolore-1-5th-edition,reading,Jeu-test (a),2,fill-in,Complète les phrases avec les mots de la case.,c'est très facile. Tu (2) ___ toujours 10 sur 10 pour ton travail.,,,,,,as,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (b) Es-tu un(e) élève modèle?,2,multiple-choice,Fais le jeu-test et lis les résultats.,Tu n'aimes pas ...,les cours où on écrit tout le temps.,la récréation.,les cours pratiques.,,,,A1,school,113
-tricolore-1-5th-edition,reading,Infos France – matching,3,matching,Trouve le texte qui correspond à chaque image.,Image 3: the French tricolour flag flying.,,,,,,A,A1,none,113
+tricolore-1-5th-edition,reading,Infos France – matching,3,matching,Trouve le texte qui correspond à chaque image.,Image 3: the French tricolour flag flying.,,,,,,A – Le drapeau tricolore,A1,none,113
 tricolore-1-5th-edition,reading,Jeu-test (a),3,fill-in,Complète les phrases avec les mots de la case.,"le sujet est très intéressant, (3) ___ il faut travailler attentivement.",,,,,,mais,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (b) Es-tu un(e) élève modèle?,3,multiple-choice,Fais le jeu-test et lis les résultats.,"En classe, tu préfères une place ...",au centre de la salle de classe.,au dernier rang.,au premier rang.,,,,A1,school,113
-tricolore-1-5th-edition,reading,Infos France – matching,4,matching,Trouve le texte qui correspond à chaque image.,Image 4: a light-blue map of mainland France.,,,,,,E,A1,none,113
+tricolore-1-5th-edition,reading,Infos France – matching,4,matching,Trouve le texte qui correspond à chaque image.,Image 4: a light-blue map of mainland France.,,,,,,E – L'Hexagone,A1,none,113
 tricolore-1-5th-edition,reading,Jeu-test (a),4,fill-in,Complète les phrases avec les mots de la case.,les cours où (4) ___ écrit tout le temps.,,,,,,on,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (b) Es-tu un(e) élève modèle?,4,multiple-choice,Fais le jeu-test et lis les résultats.,"Si le cours n'est pas intéressant, ...","tu dessines, mais tu écoutes la leçon.",tu écoutes attentivement comme toujours.,tu regardes par la fenêtre.,,,,A1,school,113
-tricolore-1-5th-edition,reading,Infos France – matching,5,matching,Trouve le texte qui correspond à chaque image.,Image 5: photograph of the Eiffel Tower against a blue sky.,,,,,,B,A1,none,113
+tricolore-1-5th-edition,reading,Infos France – matching,5,matching,Trouve le texte qui correspond à chaque image.,Image 5: photograph of the Eiffel Tower against a blue sky.,,,,,,B – La tour Eiffel,A1,none,113
 tricolore-1-5th-edition,reading,Jeu-test (a),5,fill-in,Complète les phrases avec les mots de la case.,(5) ___ dernier rang.,,,,,,au,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (b) Es-tu un(e) élève modèle?,5,multiple-choice,Fais le jeu-test et lis les résultats.,Il y a un grand match à la télé ce soir.,Tu fais les devoirs pendant la mi-temps et après le match.,Tu fais tes devoirs avant le match.,Tu ne fais pas de devoirs ce soir.,,,,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (a),6,fill-in,Complète les phrases avec les mots de la case.,au (6) ___ rang.,,,,,,premier,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (a),7,fill-in,Complète les phrases avec les mots de la case.,tu (7) ___ attentivement comme toujours.,,,,,,écoutes,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (a),8,fill-in,Complète les phrases avec les mots de la case.,(8) ___ regardes par la fenêtre.,,,,,,tu,A1,school,113
 tricolore-1-5th-edition,reading,Jeu-test (a),9,fill-in,Complète les phrases avec les mots de la case.,Tu (9) ___ tes devoirs avant le match.,,,,,,fais,A1,school,113
-tricolore-1-5th-edition,grammar,1b Trouve les paires,1,matching,Trouve les paires.,un repas,,,,,,b,A1,food,115
+tricolore-1-5th-edition,grammar,1b Trouve les paires,1,matching,Trouve les paires.,un repas,,,,,,b – a meal,A1,food,115
 tricolore-1-5th-edition,listening,3a Mon repas idéal,1,fill-in,Écoute et lis le blog de Luc. Écris les mots qui manquent.,"Comme hors-d'œuvre, il y a du (1) ___ – mmm, j'adore ça avec du pain croustillant.",,,,,,pâté,A1,food,115
 tricolore-1-5th-edition,reading,3b,1,short-answer,Lis le texte et trouve le français.,a three-course meal,,,,,,un repas de trois plats,A1,food,115
 tricolore-1-5th-edition,writing,4 Une présentation,1,writing-task,"Fais une présentation sur un repas de trois plats. Choisis des plats de l'exercice 1. Trouve une photo pour chaque plat, si possible, et enregistre ta description.",Fais une présentation sur un repas de trois plats. Écris une phrase pour chaque plat et une phrase pour la boisson.,,,,,,(open-ended),A1,food,115
-tricolore-1-5th-edition,grammar,1b Trouve les paires,2,matching,Trouve les paires.,un hors-d'œuvre,,,,,,e,A1,food,115
+tricolore-1-5th-edition,grammar,1b Trouve les paires,2,matching,Trouve les paires.,un hors-d'œuvre,,,,,,e – a starter,A1,food,115
 tricolore-1-5th-edition,listening,3a Mon repas idéal,2,fill-in,Écoute et lis le blog de Luc. Écris les mots qui manquent.,j'adore ça avec du pain croustillant et de la (2) ___. Délicieux!,,,,,,,A1,food,115
 tricolore-1-5th-edition,reading,3b,2,short-answer,Lis le texte et trouve le français.,crusty bread,,,,,,du pain croustillant,A1,food,115
-tricolore-1-5th-edition,grammar,1b Trouve les paires,3,matching,Trouve les paires.,le plat principal,,,,,,a,A1,food,115
+tricolore-1-5th-edition,grammar,1b Trouve les paires,3,matching,Trouve les paires.,le plat principal,,,,,,a – the main course,A1,food,115
 tricolore-1-5th-edition,listening,3a Mon repas idéal,3,fill-in,Écoute et lis le blog de Luc. Écris les mots qui manquent.,"Puis comme plat (3) ___ , on mange du (4) ___ rôti",,,,,,principal,A1,food,115
 tricolore-1-5th-edition,reading,3b,3,short-answer,Lis le texte et trouve le français.,delicious,,,,,,délicieux,A1,food,115
-tricolore-1-5th-edition,grammar,1b Trouve les paires,4,matching,Trouve les paires.,des légumes,,,,,,d,A1,food,115
+tricolore-1-5th-edition,grammar,1b Trouve les paires,4,matching,Trouve les paires.,des légumes,,,,,,d – vegetables,A1,food,115
 tricolore-1-5th-edition,listening,3a Mon repas idéal,4,fill-in,Écoute et lis le blog de Luc. Écris les mots qui manquent.,on mange du (4) ___ rôti et comme (5) ___ il y a des carottes,,,,,,poulet,A1,food,115
 tricolore-1-5th-edition,reading,3b,4,short-answer,Lis le texte et trouve le français.,roast,,,,,,rôti,A1,food,115
-tricolore-1-5th-edition,grammar,1b Trouve les paires,5,matching,Trouve les paires.,un dessert,,,,,,f,A1,food,115
+tricolore-1-5th-edition,grammar,1b Trouve les paires,5,matching,Trouve les paires.,un dessert,,,,,,f – a dessert/pudding,A1,food,115
 tricolore-1-5th-edition,listening,3a Mon repas idéal,5,fill-in,Écoute et lis le blog de Luc. Écris les mots qui manquent.,comme (5) ___ il y a des carottes et des (6) ___ .,,,,,,légumes,A1,food,115
 tricolore-1-5th-edition,reading,3b,5,short-answer,Lis le texte et trouve le français.,next (2 possibilities),,,,,,puis / ensuite,A1,food,115
-tricolore-1-5th-edition,grammar,1b Trouve les paires,6,matching,Trouve les paires.,une boisson,,,,,,c,A1,food,115
+tricolore-1-5th-edition,grammar,1b Trouve les paires,6,matching,Trouve les paires.,une boisson,,,,,,c – a drink,A1,food,115
 tricolore-1-5th-edition,listening,3a Mon repas idéal,6,fill-in,Écoute et lis le blog de Luc. Écris les mots qui manquent.,il y a des carottes et des (6) ___ .,,,,,,petits pois,A1,food,115
 tricolore-1-5th-edition,reading,3b,6,short-answer,Lis le texte et trouve le français.,quite simply,,,,,,tout simplement,A1,food,115
 tricolore-1-5th-edition,listening,3a Mon repas idéal,7,fill-in,Écoute et lis le blog de Luc. Écris les mots qui manquent.,"comme dessert, il y a une tarte aux (7) ___ .",,,,,,pommes,A1,food,115
@@ -1730,8 +1730,8 @@ tricolore-1-5th-edition,grammar,4 C'est quel verbe,8,fill-in,Complète les conve
 tricolore-1-5th-edition,grammar,5 Un e-mail,8,fill-in,Complète le message. Fill in the gaps in the message.,Quelle est la date de (8 your) ___ anniversaire?,,,,,,,A1,mixed,126
 tricolore-1-5th-edition,grammar,1 Ou sont les voyelles,9,fill-in,Complète les mots et écris la traduction en anglais. Write the French words and their English translations.,l _ m _ s _ q _ _,,,,,,,A1,mixed,126
 tricolore-1-5th-edition,grammar,6 Un repas en morceaux,1,fill-in,Trouve les deux parties du mot dans la case pour compléter les phrases. Join the correct parts of the words in the box and complete the sentences.,"Comme hors-d'œuvre, il y a du ___ .",,,,,,jambon,A2,mixed,127
-tricolore-1-5th-edition,reading,7 La journee de Mangetout (b),1,matching,Trouve la bonne phrase pour chaque image. Find the right sentence for each picture.,"Picture ①: Mangetout asleep, curled up in his basket ('Zzz' above his head) — quelle phrase (a–h) correspond?",,,,,,b,A1,mixed,127
-tricolore-1-5th-edition,reading,8 Questions et reponses,1,matching,Trouve les paires. Find the pairs.,Quelle est ta saison préférée?,,,,,,c,A2,mixed,127
+tricolore-1-5th-edition,reading,7 La journee de Mangetout (b),1,matching,Trouve la bonne phrase pour chaque image. Find the right sentence for each picture.,"Picture ①: Mangetout asleep, curled up in his basket ('Zzz' above his head) — quelle phrase (a–h) correspond?",,,,,,"b – Le matin, Mangetout ___ dans son panier. (rester)",A1,mixed,127
+tricolore-1-5th-edition,reading,8 Questions et reponses,1,matching,Trouve les paires. Find the pairs.,Quelle est ta saison préférée?,,,,,,c – Ma saison préférée est l'automne.,A2,mixed,127
 tricolore-1-5th-edition,writing,9 A toi,1,short-answer,Choisis cinq des questions (1–10) dans l'activité 8 et donne une réponse personnelle. Choose five of the ten questions in activity 8 and give your own answers.,Choisis cinq des questions (1–10) dans l'activité 8 et donne une réponse personnelle.,,,,,,(open-ended),A2,mixed,127
 tricolore-1-5th-edition,reading,8 Questions et reponses,10,matching,Trouve les paires. Find the pairs.,Qu'est-ce que tu prends pour le petit déjeuner?,,,,,,,A2,mixed,127
 tricolore-1-5th-edition,grammar,6 Un repas en morceaux,2,fill-in,Trouve les deux parties du mot dans la case pour compléter les phrases. Join the correct parts of the words in the box and complete the sentences.,"Comme plat principal, on mange du ___ .",,,,,,,A2,mixed,127
@@ -1765,7 +1765,7 @@ tricolore-1-5th-edition,grammar,7 La journee de Mangetout (a),g,fill-in,Complèt
 tricolore-1-5th-edition,grammar,7 La journee de Mangetout (a),h,fill-in,Complète les phrases. Complete the sentences.,Puis il va dans le jardin. Il ___ les oiseaux. (chasser),,,,,,,A1,mixed,127
 tricolore-1-5th-edition,listening,1 Qu'est-ce qu'on fait (a),1,matching,Écris 1–8. Écoute et écris la lettre qui correspond au sport.,Écris 1–8. Écoute et écris la lettre qui correspond au sport (choix A–H).,,,,,,,A1,hobby,128
 tricolore-1-5th-edition,writing,1 Qu'est-ce qu'on fait (b),1,short-answer,Choisis une photo et écris trois phrases.,Choisis une photo et écris trois phrases (Il y a combien de personnes? Qu'est-ce qu'on fait? Tu fais cette activité aussi? C'est amusant?).,,,,,,(open-ended),A1,hobby,128
-tricolore-1-5th-edition,reading,2 Qu'est-ce qu'ils font,1,matching,Trouve les paires.,Picture ①: a skier crashing/falling in the snow — quelle phrase (a–f) correspond?,,,,,,c,A1,hobby,129
+tricolore-1-5th-edition,reading,2 Qu'est-ce qu'ils font,1,matching,Trouve les paires.,Picture ①: a skier crashing/falling in the snow — quelle phrase (a–f) correspond?,,,,,,c – Elle fait du ski.,A1,hobby,129
 tricolore-1-5th-edition,reading,3 Francais/Anglais,1,matching,Trouve les paires.,Que faites-vous comme sports?,,,,,,,A1,hobby,129
 tricolore-1-5th-edition,grammar,4 On fait de la voile (a),1,fill-in,Complète la conversation avec la bonne forme du verbe faire.,(1) tu ___ aujourd'hui?,,,,,,tu fais,A1,hobby,129
 tricolore-1-5th-edition,speaking,4 On fait de la voile (b),1,speaking-task,"À trois, lisez la conversation.","À trois, lisez la conversation.",,,,,,(open-ended),A1,hobby,129
@@ -1795,7 +1795,7 @@ tricolore-1-5th-edition,writing,4 On fait de la voile (c),6,short-answer,Comment
 tricolore-1-5th-edition,grammar,4 On fait de la voile (a),7,fill-in,Complète la conversation avec la bonne forme du verbe faire.,"(7) nous ___ les courses plus tard, non?",,,,,,,A1,hobby,129
 tricolore-1-5th-edition,grammar,4 On fait de la voile (a),8,fill-in,Complète la conversation avec la bonne forme du verbe faire.,(8) vous ___ ?,,,,,,,A1,hobby,129
 tricolore-1-5th-edition,grammar,4 On fait de la voile (a),9,fill-in,Complète la conversation avec la bonne forme du verbe faire.,(9) Nous ___ de la voile.,,,,,,,A1,hobby,129
-tricolore-1-5th-edition,reading,1 Les instruments de musique,1,matching,Trouve les paires.,le clavier,,,,,,D,A1,hobby,130
+tricolore-1-5th-edition,reading,1 Les instruments de musique,1,matching,Trouve les paires.,le clavier,,,,,,D – [image : un clavier électronique],A1,hobby,130
 tricolore-1-5th-edition,listening,2 La musique (a),1,matching,Écris 1–8. Écoute et regarde les instruments. Note la bonne lettre.,Écris 1–8. Écoute et regarde les instruments. Note la bonne lettre.,,,,,,,A1,hobby,130
 tricolore-1-5th-edition,grammar,2 La musique (b),1,fill-in,Voici des extraits du texte. Complète les phrases avec du ou de la et le bon instrument.,Je joue ___ dans l'orchestre du collège.,,,,,,du violon,A1,hobby,130
 tricolore-1-5th-edition,grammar,2 La musique (c),1,short-answer,Change l'instrument pour faire d'autres phrases.,Change l'instrument pour faire d'autres phrases.,,,,,,(open-ended),A2,hobby,130
@@ -1835,7 +1835,7 @@ tricolore-1-5th-edition,reading,4 Fete de la musique (a),4,matching,Trouve le fr
 tricolore-1-5th-edition,reading,4 Fete de la musique (b),4,short-answer,Tu comprends?,What is an important principle of the fête?,,,,,,,A2,hobby,131
 tricolore-1-5th-edition,reading,3 Les jeunes musiciens,5,fill-in,Complète le texte.,"Et voici leur ami, David, qui joue (5) ___ .",,,,,,,A1,hobby,131
 tricolore-1-5th-edition,reading,3 Les jeunes musiciens,6,fill-in,Complète le texte.,"Sophie ne joue pas (6) ___ , mais elle chante dans une chorale au collège.",,,,,,,A1,hobby,131
-tricolore-1-5th-edition,reading,1 On s'amuse,1,matching,Trouve les paires.,Ils font de la peinture ou du dessin.,,,,,,D,A1,hobby,132
+tricolore-1-5th-edition,reading,1 On s'amuse,1,matching,Trouve les paires.,Ils font de la peinture ou du dessin.,,,,,,"D – [image : un groupe d'adolescents assis à une table, en train de dessiner et de peindre]",A1,hobby,132
 tricolore-1-5th-edition,grammar,2 C'est quelle activite,1,short-answer,Écris le texte.,Picture ①: boy playing trumpet — écris le texte.,,,,,,Il joue de la trompette.,A1,hobby,132
 tricolore-1-5th-edition,listening,3 Des interviews (a),1,matching,"Écris 1–5. Lis les questions et écoute bien. Dans chaque conversation, on pose une question seulement. Note la lettre et la réponse.","Conversation 1: quelle question (a–e) a été posée, et quelle est la réponse?",,,,,,"e – du sport (football, natation)",A2,hobby,132
 tricolore-1-5th-edition,writing,3 Des interviews (b),1,short-answer,Choisis trois questions et écris tes réponses.,Choisis trois questions et écris tes réponses.,,,,,,(open-ended),A2,hobby,132
@@ -1891,7 +1891,7 @@ tricolore-1-5th-edition,reading,2 Le Parc Asterix (a),5,matching,Regarde les pho
 tricolore-1-5th-edition,reading,2 Le Parc Asterix (b),1,short-answer,Consulte les informations pour répondre aux questions.,Le Parc ferme à quelle heure en mai?,,,,,,Le parc ferme à 18 heures.,A2,vacation,137
 tricolore-1-5th-edition,reading,2 Le Parc Asterix (c),1,short-answer,Fais des recherches. Consulte le site web pour vérifier les tarifs d'entrée.,Fais des recherches. Consulte le site web pour vérifier les tarifs d'entrée.,,,,,,(open-ended),A2,vacation,137
 tricolore-1-5th-edition,listening,3 24 heures,1,fill-in,Écris 1–10. Écoute et écris l'heure.,Écris 1–10. Écoute et écris l'heure entendue.,,,,,,,A2,vacation,137
-tricolore-1-5th-edition,reading,4 Attention c'est l'heure,1,matching,Quelle heure est-il? Trouve les paires.,Il est dix-sept heures cinq.,,,,,,B,A2,vacation,137
+tricolore-1-5th-edition,reading,4 Attention c'est l'heure,1,matching,Quelle heure est-il? Trouve les paires.,Il est dix-sept heures cinq.,,,,,,B – 17.05,A2,vacation,137
 tricolore-1-5th-edition,reading,Strategies Translating (5),1,short-answer,Work out the meaning of the nouns.,"entrer = to go in, enter — l'entrée (f) = ?",,,,,,,A2,vacation,137
 tricolore-1-5th-edition,reading,Strategies Translate sentences,1,short-answer,Translate these sentences into English.,Où est l'entrée du parc?,,,,,,,A2,vacation,137
 tricolore-1-5th-edition,reading,2 Le Parc Asterix (b),2,short-answer,Consulte les informations pour répondre aux questions.,Ça ferme à quelle heure en août?,,,,,,,A2,vacation,137
@@ -1990,8 +1990,8 @@ tricolore-1-5th-edition,reading,La planche a voile,3,fill-in,Complète les phras
 tricolore-1-5th-edition,reading,Le judo,3,multiple-choice,Réponds aux questions.,Le judo vient de quel pays?,le Japon,la Chine,la France,,,,A2,mixed,143
 tricolore-1-5th-edition,listening,1 C'est quel nombre,1,matching,Écris 1–10. Écoute et note la bonne lettre. Write 1–10. Listen and write the correct letter.,Écris 1–10. Écoute et note la bonne lettre (choix A–J).,,,,,,,A1,personal-info,144
 tricolore-1-5th-edition,listening,2 Tele-jeu 30 secondes,1,ordering,"Écoute. Chloé gagne quatre choses et Max gagne six choses. Écris les numéros dans l'ordre. Listen. Chloé wins four things, Max wins six things. Write the numbers in order.",Écoute. Chloé gagne quatre choses et Max gagne six choses. Écris les numéros dans l'ordre.,,,,,,,A1,personal-info,144
-tricolore-1-5th-edition,reading,3 C'est quelle image,1,matching,Trouve les paires. Find the pairs.,Salut!,,,,,,B,A1,personal-info,144
-tricolore-1-5th-edition,reading,4 Trouve la question,1,matching,Voici des réponses. Trouve les questions. Here are some answers. Match them up with the questions.,Je m'appelle Enzo.,,,,,,c,A1,personal-info,144
+tricolore-1-5th-edition,reading,3 C'est quelle image,1,matching,Trouve les paires. Find the pairs.,Salut!,,,,,,"B – [image : deux filles avec des sacs à dos qui se saluent, l'une fait signe de la main]",A1,personal-info,144
+tricolore-1-5th-edition,reading,4 Trouve la question,1,matching,Voici des réponses. Trouve les questions. Here are some answers. Match them up with the questions.,Je m'appelle Enzo.,,,,,,c – Comment t'appelles-tu?,A1,personal-info,144
 tricolore-1-5th-edition,reading,3 C'est quelle image,2,matching,Trouve les paires. Find the pairs.,"Bonjour, madame.",,,,,,,A1,personal-info,144
 tricolore-1-5th-edition,reading,4 Trouve la question,2,matching,Voici des réponses. Trouve les questions. Here are some answers. Match them up with the questions.,"Ça va bien, merci.",,,,,,,A1,personal-info,144
 tricolore-1-5th-edition,reading,3 C'est quelle image,3,matching,Trouve les paires. Find the pairs.,Voici des affaires d'école.,,,,,,,A1,personal-info,144

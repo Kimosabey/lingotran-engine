@@ -19,7 +19,7 @@ qa: pass
 
 🔊 **a** Regarde le plan de la maison, écoute et lis la description.
 
-*(Illustration: two colour floor-plan diagrams of a house, each room labelled with a circled letter. Left plan: room A (double bed, wardrobe), room B (bunk beds, desk with computer), room C (single bed, wardrobe with shelf), room D (bathroom with bath, sink and toilet), with a staircase between rooms. Right plan: room E (garden with trees), room F (garage with a car), room G (dining room with table and chairs, kitchen area visible with hob), room H (small room with a shower/sink, staircase), room I (toilet), room J (living room with television and sofa).)*
+*(Illustration: two colour floor-plan diagrams of a house, each room labelled with a circled letter. Left plan: room A (double bed, wardrobe), room B (single bed with a cat on it, desk with computer), room C (two single beds, two desks), room D (bathroom with bath, sink and toilet), with a staircase between rooms. Right plan: room E (garden with trees), room F (garage with a car), room G (dining room with table and chairs, kitchen area visible with hob), room H (small room with a shower/sink, staircase), room I (toilet), room J (living room with television and sofa).)*
 
 une station d'accueil MP3 — *MP3 dock*
 

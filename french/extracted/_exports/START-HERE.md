@@ -1,8 +1,8 @@
 # START HERE — French datasets
 
-This folder is the finished, ready-to-use French material: **584 pages** from **3 books**, turned into clean spreadsheets. Every page was transcribed word-for-word from the printed book and independently re-checked, so what you see matches the source.
+This folder is the finished, ready-to-use French material: **1,688 pages** from **7 books**, turned into clean spreadsheets. Every page was transcribed word-for-word from the printed book and independently re-checked, so what you see matches the source.
 
-**In total:** 584 pages · 6,914 practice questions · 5,566 vocabulary entries.
+**In total:** 1,688 pages · 27,740 practice questions · 8,819 vocabulary entries.
 
 ## What do I open?
 
@@ -27,12 +27,16 @@ This folder is the finished, ready-to-use French material: **584 pages** from **
 | Cosmopolite 1 - Methode de francais A1 * | `cosmopolite-a1-methode/` | 224 | 1751 | 1175 |
 | Tricolore 1 - 5e edition * | `tricolore-1-5th-edition/` | 180 | 2413 | 2728 |
 | Tricolore 2 - 5e edition * | `tricolore-2-5th-edition/` | 180 | 2750 | 1663 |
+| Pratique Revision A1 - 690 exercices * | `pratique-revision-a1/` | 334 | 5730 | 1621 |
+| Pratique Revision A2 - 680 exercices * | `pratique-revision-a2/` | 366 | 6034 | 1632 |
+| Pratique Grammaire A1-A2 - 640 exercices * | `pratique-grammaire-a1a2/` | 222 | 5356 | — |
+| Pratique Conjugaison A1-A2 - 500 exercices * | `pratique-conjugaison-a1a2/` | 182 | 3706 | — |
 
 _* this book has known limitations — see `README.md`._
 
 ## Where this came from
 
-Built from commit `9bd75bd` (tag `v1.1.8`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
+Built from commit `f272ffb` (tag `v1.1.12`). Quote that when reporting anything about this data — it identifies exactly which extraction produced it.
 
 
 ## Two things worth knowing

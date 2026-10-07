@@ -69,7 +69,7 @@ Trouve la bonne bulle.
 **A** *(purple)* Vous aimez la musique, monsieur?
 **B** *(green)* Oui, merci. Tu es très gentil.
 **C** *(green)* Tu aimes les animaux?
-**D** *(purple)* Vous avez gagné ce grand prix.
+**D** *(green)* Vous avez gagné ce grand prix.
 **E** *(green)* Tu aimes les enfants?
 **F** *(purple)* Vous aimez les chats, madame?
 **G** *(purple)* Vous aimez les bonbons?
