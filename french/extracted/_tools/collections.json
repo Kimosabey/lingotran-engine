@@ -148,7 +148,29 @@
         "A2",
         "B1"
       ],
-      "pdf": "pdf/didier/saison-2-methode/saison-2-methode.pdf"
+      "pdf": "pdf/didier/saison-2-methode/saison-2-methode.pdf",
+      "book_type": "student-coursebook",
+      "status": "registered-not-started",
+      "recon": {
+        "checked": "2026-10-23: cover, title page, avant-propos, presentation spread, Module 1 contents page, footer page numbers sampled every 8 PDF pages and then page by page across PDF 60-76, back matter (Point recap, lexique plurilingue, transcriptions, credits, map, back cover); images were already rasterized on 2026-10-07, no transcription performed",
+        "authors": "Marie-Noelle Cocton (coordination pedagogique), Anouchka De Oliveira, Anneline Dintilhac, Dorothee Dupleix (DELF), Delphine Ripaud (phonetique)",
+        "publisher": "Editions Didier, 2014 (ISBN 978-2-278-07753-3)",
+        "audience": "adult and older-teen learners (grands adolescents et adultes)",
+        "intent": "student coursebook (Livre de l'eleve), units 0-9 in modules; ends of A2 (units 0-6) and start of B1 (units 7-9), 100-120 teaching hours; DELF A2 preparation in the book",
+        "pdf_pages": 215,
+        "text_layer": "None on any page (image-only scan, '3-Heights PDF Optimization Shell'). Vision pipeline required.",
+        "page_offset": "printed = PDF - 2 for PDF 3-65; PDF 66-75 = printed 66-75; printed = PDF + 2 from PDF 76 (printed 78) to PDF 212. PDF 213 is the credits page (printed p2, filed at the back), PDF 214 the francophonie map, PDF 215 the back cover.",
+        "completeness": "INCOMPLETE: printed pages 64-65 and 76-77 are absent. PDF 65 is printed 63 and PDF 66 is printed 66; PDF 75 is printed 75 and PDF 76 is printed 78. 64-65 sit inside unit 3 and are almost certainly its grammar exercise page (other unit-3 pages refer to 'Verifiez et exercez-vous ... p. 65'); 76-77 sit between unit 3's DELF A2 preparation (74-75) and unit 4 'Decouvrir' (78), content not identified.",
+        "audio": "CD audio + DVD advertised on the cover; not held. Listening transcripts are printed at the back of the book."
+      },
+      "answer_key": {
+        "status": "separate-guide",
+        "checked": "2026-10-23: avant-propos and back cover; the back matter holds a precis, lexique plurilingue and transcriptions but no corriges",
+        "note": "Student coursebook: answers live in the Didier guide pedagogique / cahier d'activites, which we do not hold, so a blank correct_answer is expected, not a gap."
+      },
+      "caveats": [
+        "SOURCE PDF IS MISSING printed pages 64-65 (unit 3, very likely its grammar exercise page, cited elsewhere as 'Verifiez et exercez-vous ... p. 65') and printed pages 76-77 (between unit 3's DELF A2 preparation and unit 4). Found at recon on 2026-10-23, before any transcription. Their content is absent from every export of this book."
+      ]
     },
     {
       "slug": "cosmopolite-5-c1c2",
@@ -160,7 +182,30 @@
         "C1",
         "C2"
       ],
-      "pdf": "pdf/hachette-fle/cosmopolite-5-c1c2/cosmopolite-5-c1c2.pdf"
+      "pdf": "pdf/hachette-fle/cosmopolite-5-c1c2/cosmopolite-5-c1c2.pdf",
+      "book_type": "student-coursebook",
+      "status": "registered-not-started",
+      "recon": {
+        "checked": "2026-10-26: cover, title/credits page, avant-propos, mode d'emploi, tableau des contenus (first page), footer page numbers at PDF 6, 7, 10 and every 20 PDF pages to the end, last 8 pages (DALF C2 practice exam, remerciements/credits); no rasterization or transcription performed",
+        "authors": "Delphine Twardowski-Vieites, Sylvain Capelli, Emilie Mathieu-Benoit, with Nelly Briet and Florian Petit (DALF)",
+        "publisher": "Hachette FLE",
+        "audience": "older teens and adults (grands adolescents et adultes), ~300 teaching hours",
+        "intent": "student coursebook: 12 dossiers (opening spread, four lesson spreads, Mots et expressions, a DALF evaluation spread every two dossiers), plus annexes Strategies and Culture et societe and two full practice exams (DALF C1 after dossier 8, DALF C2 at the end)",
+        "pdf_pages": 226,
+        "text_layer": "Effectively none: only PDF 172-175 carry an OCR layer and it is poor ('La sgnthese de documents ecrits'), so it must not be used. Vision pipeline required. Producer metadata: 'https://calameodownload.com' (2021), i.e. captured from the Calameo online viewer rather than a publisher or scanner file.",
+        "page_offset": "printed = PDF - 2 throughout (verified PDF 6 -> 4 through PDF 225 -> 223). Page numbers are printed as numerals plus words ('deux cent huit').",
+        "completeness": "COMPLETE as a book: printed 3-223 continuous at every sampled point, ending with the DALF C2 practice exam; PDF 226 is the remerciements/credits page. Not included: the listening transcripts, which the mode d'emploi says ship in a separate inserted booklet ('Les transcriptions ... dans un livret encarte').",
+        "audio": "Audio and video are online companions; not held, and the transcript booklet is not in the PDF, so listening items cannot be answered from the source."
+      },
+      "answer_key": {
+        "status": "separate-guide",
+        "checked": "2026-10-26: avant-propos, mode d'emploi and back matter; no corriges in the book",
+        "note": "Student coursebook: answers live in the Hachette guide pedagogique, which we do not hold, so a blank correct_answer is expected, not a gap. Listening items are additionally unanswerable because the transcript booklet is missing."
+      },
+      "caveats": [
+        "The listening transcripts ship in a separate booklet inserted in the printed book; it is not in this PDF, and the audio is not held. Listening items have no transcript or answer in this extraction.",
+        "Source provenance: the PDF's producer metadata is 'calameodownload.com', meaning it was captured from the Calameo online viewer, not supplied as a publisher file or our own scan."
+      ]
     },
     {
       "slug": "reussir-delf-prim-a1",
