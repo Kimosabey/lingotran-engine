@@ -206,7 +206,14 @@ Next, in order (updated 2026-10-06; steps 1-3 of the 2026-10-01 plan are done an
 3. **DELF Prim:** parked until a complete copy is sourced (blocks on Harshan).
 4. **Deliver:** rebuild exports, run the gates, stamp a version, upload to Drive
    (batched until Saison 2 + Cosmopolite 5, unless Harshan wants the Pratique books sooner).
-5. Merge `develop` into `main` when Harshan says.
+   **Stamped 2026-10-27:** Harshan chose to deliver without waiting for Saison 2.
+   `french/extracted/_exports/` (Tricolore 1-2, Cosmopolite A1 and 5, the four Pratique
+   books) is restamped at data commit `f8099c8` / tag `v1.1.13`; the restamp itself is
+   `v1.1.14`. All gates green. **The Drive upload is Harshan's step and is not done** --
+   record it here once it is.
+5. ~~Merge `develop` into `main` when Harshan says.~~ **Done 2026-10-27** (fast-forward to
+   `e06f2f1`). Vercel skipped the site build (no `site-next/` change), so the site does not
+   list Cosmopolite 5 or the Pratique books yet.
 
 The 2026-10-01 phase table, kept for the next books:
 
