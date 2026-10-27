@@ -161,7 +161,8 @@
         "text_layer": "None on any page (image-only scan, '3-Heights PDF Optimization Shell'). Vision pipeline required.",
         "page_offset": "printed = PDF - 2 for PDF 3-65; PDF 66-75 = printed 66-75; printed = PDF + 2 from PDF 76 (printed 78) to PDF 212. PDF 213 is the credits page (printed p2, filed at the back), PDF 214 the francophonie map, PDF 215 the back cover.",
         "completeness": "INCOMPLETE: printed pages 64-65 and 76-77 are absent. PDF 65 is printed 63 and PDF 66 is printed 66; PDF 75 is printed 75 and PDF 76 is printed 78. 64-65 sit inside unit 3 and are almost certainly its grammar exercise page (other unit-3 pages refer to 'Verifiez et exercez-vous ... p. 65'); 76-77 sit between unit 3's DELF A2 preparation (74-75) and unit 4 'Decouvrir' (78), content not identified.",
-        "audio": "CD audio + DVD advertised on the cover; not held. Listening transcripts are printed at the back of the book."
+        "audio": "CD audio + DVD advertised on the cover; not held. Listening transcripts are printed at the back of the book.",
+        "decision": "2026-10-27: Harshan chose to extract the 211 pages held, with printed pp.64-65 and 76-77 disclosed as missing (see caveats), rather than wait for a complete copy."
       },
       "answer_key": {
         "status": "separate-guide",
