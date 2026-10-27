@@ -201,8 +201,16 @@ Next, in order (updated 2026-10-06; steps 1-3 of the 2026-10-01 plan are done an
    uploaded. Lesson: the content filter killed 7 transcription agents, mostly on pages with
    no photo at all (it reacts to passage text too); re-reading such a page as full-width
    strip crops, one saved part file per strip, got through every time.
-   **Saison 2 is paused at recon:** the PDF lacks printed pp.64-65 and 76-77 (recorded as a
-   caveat). Harshan to choose: extract with the gap disclosed, or source a complete copy.
+   **Saison 2 DONE 2026-10-27** (Harshan chose to extract with the gap disclosed): 215 pages
+   CLEAN (printed pp.64-65 and 76-77 missing from the source; p200 two Arabic cells accepted),
+   1536 questions (instruction 100%, 35.9% answered: open-ended tasks plus the "Verifiez vos
+   reponses" boxes and upside-down quiz keys), 1116 vocabulary rows (426 from the Lexique
+   plurilingue with the book's English translation and gender), all gates green, status
+   `extracted-ready-to-deliver`, not uploaded. Every French book is now CLEAN under
+   `reconcile --all`. **Open engine issue:** `build_exports.load_vocab_entries` de-duplicates
+   on word + article + page and ignores `translation`, so a headword printed twice on one page
+   with two meanings ships once (Saison 2 p203 "paraitre"); making the key translation-aware
+   would add 24 rows to the delivered Tricolore 1 (17) and 2 (7). Harshan to decide.
 3. **DELF Prim:** parked until a complete copy is sourced (blocks on Harshan).
 4. **Deliver:** rebuild exports, run the gates, stamp a version, upload to Drive
    (batched until Saison 2 + Cosmopolite 5, unless Harshan wants the Pratique books sooner).

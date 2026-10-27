@@ -27,9 +27,9 @@ and the per-book folders.
 
 | Sheet | Rows |
 |---|---|
-| `french-catalog-all.csv` | 1914 |
-| `french-questions-all.csv` | 29681 |
-| `french-vocabulary-all.csv` | 9381 |
+| `french-catalog-all.csv` | 2129 |
+| `french-questions-all.csv` | 31217 |
+| `french-vocabulary-all.csv` | 10497 |
 
 ## Books
 
@@ -38,7 +38,7 @@ and the per-book folders.
 | Cosmopolite 1 - Methode de francais A1 * | `cosmopolite-a1-methode/` | included | 224 | 1751 | 1175 |
 | Tricolore 1 - 5e edition * | `tricolore-1-5th-edition/` | included | 180 | 2413 | 2728 |
 | Tricolore 2 - 5e edition * | `tricolore-2-5th-edition/` | included | 180 | 2750 | 1663 |
-| Saison 2 - Methode de francais A2-B1 * | — | not yet processed | — | — | — |
+| Saison 2 - Methode de francais A2-B1 * | `saison-2-methode/` | included | 215 | 1536 | 1116 |
 | Cosmopolite 5 - Methode de francais C1-C2 * | `cosmopolite-5-c1c2/` | included | 226 | 1941 | 562 |
 | Reussir le DELF Prim A1.1 - A1 * | — | not yet processed | — | — | — |
 | Pratique Revision A1 - 690 exercices * | `pratique-revision-a1/` | included | 334 | 5730 | 1621 |
@@ -63,6 +63,13 @@ _* see Known limitations below._
 - **Tricolore 2 - 5e edition**: 9 of 180 pages have a disclosed transcription gap. Page 16: a few unlabeled illustration items on two shopping-trolley drawings (a sausage/meat item, a jam jar, a torn potato bag, a tomato, a butter package) are not legibly printed at source resolution -- everything else on the page, including all three exercises and both grammar boxes, is transcribed verbatim. Pages 167, 168, 170, 171, 173, 175, 176 and 177: eight pages of the end-of-book alphabetical glossary that could not be reproduced because every attempt to write out their entry lists triggers a hard content-filter block that terminates the process. The pages themselves were re-rasterized and directly reviewed on 2026-08-10 and contain ordinary French-English GCSE vocabulary -- this is platform-side flakiness on these specific pages, not sensitive content and not a scan-quality problem, and retries are capped per PLAYBOOK.md rather than repeated indefinitely. The surrounding glossary pages (166, 169, 172, 174, 177's neighbours) transcribed cleanly, so the glossary is partially, not wholly, covered. Each affected page's _qa/page-NNN.json records the full finding.
 - **Tricolore 2 - 5e edition**: Pages 2, 4, 178 and 179 embed a 1-channel grayscale JPEG while the PDF declares the image /DeviceRGB, so MuPDF originally rendered them as near-black garbage. Page 178 (Acknowledgements) had been written off as a permanent content-filter gap purely because of this, and page 179 as a defective scan. Both were resolved on 2026-08-10: pdf_to_images.py now detects the mismatch and decodes the embedded scan directly. Page 178 is fully transcribed; pages 2 and 179 are confirmed genuinely blank.
 - **Saison 2 - Methode de francais A2-B1**: SOURCE PDF IS MISSING printed pages 64-65 (unit 3, very likely its grammar exercise page, cited elsewhere as 'Verifiez et exercez-vous ... p. 65') and printed pages 76-77 (between unit 3's DELF A2 preparation and unit 4). Found at recon on 2026-10-23, before any transcription. Their content is absent from every export of this book.
+- **Saison 2 - Methode de francais A2-B1**: Page 200 (Lexique plurilingue): the Arabic cells for 'cout' and 'declarer' are too badly printed to read securely; each carries a best guess in an illegible comment. Everything else on the page is complete.
+- **Saison 2 - Methode de francais A2-B1**: Lexique plurilingue (pages 199-205): the book typesets its Arabic column with unjoined letters in reversed order. Each Arabic cell is given as the word those letters spell, in normal right-to-left Unicode; the page files say so in a comment. The Chinese column is copied as printed.
+- **Saison 2 - Methode de francais A2-B1**: Four pages (178, 207, 209, 212) stopped a transcription agent at the content filter and were transcribed from strip, column or band crops instead of the full image; none held a photo of a person (the filter reacted to text). Their QA notes record it. Unit openers and photo-heavy pages were read from strip crops from the start as a precaution.
+- **Saison 2 - Methode de francais A2-B1**: Fine print inside reproduced pictures (poster credits, logos, newspaper small lines, stamp imprints) that is unreadable at scan resolution is described in brackets rather than transcribed, and listed in each page's QA notes; it is not the book's own text.
+- **Saison 2 - Methode de francais A2-B1**: Page 44 (printed 42), activite 2c prints six options; the question schema holds five, so the sixth, 'les connaissances virtuelles', is not in option_a..option_e.
+- **Saison 2 - Methode de francais A2-B1**: Vocabulary: 426 entries come from the Lexique plurilingue (PDF 199-205) and carry the book's printed English translation and, where printed, gender; its Spanish, Portuguese, Chinese and Arabic columns are in the page transcriptions but have no column in the vocabulary sheet. The other 691 entries come from the units' Mots et expressions boxes and Point recap' mind maps and have no translation (the book prints none there).
+- **Saison 2 - Methode de francais A2-B1**: Vocabulary sheet: the Lexique plurilingue prints 'paraitre' twice on page 203 with two meanings ('to be published', 'to appear'); the exporter de-duplicates on word + article + page, so only one row ships. Both are in the vocabulary chunk. (Engine issue: the de-duplication key ignores translation; fixing it would also add 24 rows to Tricolore 1 and 2.)
 - **Cosmopolite 5 - Methode de francais C1-C2**: The listening transcripts ship in a separate booklet inserted in the printed book; it is not in this PDF, and the audio is not held. Listening items have no transcript or answer in this extraction.
 - **Cosmopolite 5 - Methode de francais C1-C2**: Source provenance: the PDF's producer metadata is 'calameodownload.com', meaning it was captured from the Calameo online viewer, not supplied as a publisher file or our own scan.
 - **Cosmopolite 5 - Methode de francais C1-C2**: Twelve pages keep a QA fail for fine print that cannot be read: 13 (an ink-worn acronym on a reproduced 1968 poster), 30 (one word on a book-cover imprint), 50 (role labels in a photo credit), 57 (two captions burned into a video still), 110 (film-poster credits), 122 (magazine-cover small print), 124 (a podcast date digit and player counter), 135 (a time in a radio-schedule line), 205 (small lines of a Libération front page), 207 (a stamp's printer line), 208 (an AOC poster's small print), 209 (a Vitale card's issue date). All are inside reproduced pictures or screenshots, not the book's own text; every exercise, reading text and answer on these pages is complete. Each spot is marked inline with a best guess in an `illegible` comment. No repair pass was run: the PDF's page images are only ~142 DPI (1173x1587 px, Calameo capture), so the 300 DPI renders are already upsampled and closer zooms cannot recover them.

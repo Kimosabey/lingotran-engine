@@ -1,0 +1,906 @@
+{
+ "collection": "saison-2-methode",
+ "chunk": "020-036",
+ "entries": [
+  {
+   "word": "sens propre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "une clé pour ouvrir la porte",
+   "topic": "communication",
+   "source_page": "020"
+  },
+  {
+   "word": "sens figuré",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "une clé = une solution",
+   "topic": "communication",
+   "source_page": "020"
+  },
+  {
+   "word": "peinture",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "sculpture",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "chanson",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "danse",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "lecture",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "photographie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "jonglerie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "athlétisme",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "football",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "judo",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "tennis",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "natation",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "022"
+  },
+  {
+   "word": "tous les samedis",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "026"
+  },
+  {
+   "word": "souvent",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "026"
+  },
+  {
+   "word": "rarement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "026"
+  },
+  {
+   "word": "jamais",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "026"
+  },
+  {
+   "word": "entrer en contact",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "027"
+  },
+  {
+   "word": "nouer une relation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "027"
+  },
+  {
+   "word": "rencontrer quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "027"
+  },
+  {
+   "word": "avoir quelque chose en commun",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "027"
+  },
+  {
+   "word": "pantalon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "029"
+  },
+  {
+   "word": "chaussures",
+   "translation": "",
+   "article": "des",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "029"
+  },
+  {
+   "word": "veste",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "029"
+  },
+  {
+   "word": "manteau",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "029"
+  },
+  {
+   "word": "généreux, généreuse",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "029"
+  },
+  {
+   "word": "souriant(e)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "029"
+  },
+  {
+   "word": "étourdi(e)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "029"
+  },
+  {
+   "word": "jaloux, jalouse",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "029"
+  },
+  {
+   "word": "toujours",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "tous les…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "tout le temps",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "souvent",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "de temps en temps",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "parfois",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "quelquefois",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "rarement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "jamais",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "036"
+  },
+  {
+   "word": "aller vers les autres",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "entrer en contact",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "nouer une relation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "rencontrer quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "échanger",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "avoir quelque chose en commun",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "pantalon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "robe",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "jupe",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "tee-shirt",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "pull",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "manteau",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "veste",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "chaussures",
+   "translation": "",
+   "article": "des",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "bottes",
+   "translation": "",
+   "article": "des",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "036"
+  },
+  {
+   "word": "courageux",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "créatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "drôle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "intelligent",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "souriant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "sympathique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "agressif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "hypocrite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "impatient",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "jaloux",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "paresseux",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Elle est + adj. (taille, qualité, défaut…)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Elle est + nom de métier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Elle a les cheveux + adj.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Il porte…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Il aime…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Il a l'air + adj.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Elle ressemble à + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "C'est quelqu'un de + adj.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "J'ai du mal à + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "Je n'arrive pas à + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "Pour moi c'est difficile de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "Ça me coûte de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "036"
+  },
+  {
+   "word": "Mes goûts sont variés.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "036"
+  },
+  {
+   "word": "J'adore + le, la, les…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "036"
+  },
+  {
+   "word": "Je suis amatrice de + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "036"
+  },
+  {
+   "word": "Je m'intéresse à / aux + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "036"
+  },
+  {
+   "word": "Ce qui m'intéresse, c'est + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "036"
+  },
+  {
+   "word": "Je suis un passionné de + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "036"
+  },
+  {
+   "word": "Je suis un fou de + nom (familier)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "036"
+  },
+  {
+   "word": "Comment est-il physiquement ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Quel âge a-t-elle ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Quelle est sa profession ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Qu'est-ce qu'elle aime ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Quelles sont ses qualités ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  },
+  {
+   "word": "Quels sont ses défauts ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "036"
+  }
+ ]
+}

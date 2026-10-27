@@ -1,0 +1,2526 @@
+{
+ "collection": "saison-2-methode",
+ "chunk": "134-180",
+ "entries": [
+  {
+   "word": "précarité",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "134"
+  },
+  {
+   "word": "prêt",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "134"
+  },
+  {
+   "word": "être endetté",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "134"
+  },
+  {
+   "word": "faire faillite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "134"
+  },
+  {
+   "word": "pourcentage (%)",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "135"
+  },
+  {
+   "word": "6 % (six pour cent)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "135"
+  },
+  {
+   "word": "moitié",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "135"
+  },
+  {
+   "word": "un peu plus du tiers",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "135"
+  },
+  {
+   "word": "presque le quart",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "135"
+  },
+  {
+   "word": "consommateur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "136"
+  },
+  {
+   "word": "création",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "136"
+  },
+  {
+   "word": "contribuer à l'économie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "136"
+  },
+  {
+   "word": "prendre part à un projet",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "136"
+  },
+  {
+   "word": "billet",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "137"
+  },
+  {
+   "word": "carte bancaire",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "137"
+  },
+  {
+   "word": "compte (bancaire)",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "137"
+  },
+  {
+   "word": "retirer de l'argent",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "137"
+  },
+  {
+   "word": "chômage",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "précarité",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "krach boursier",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "marché",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "prêt",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "être au chômage",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "être endetté",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "faire faillite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "144"
+  },
+  {
+   "word": "pourcentage (%)",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "40 % (quarante pour cent)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "moitié (50 %)",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "tiers (1/3)",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "deux tiers (2/3)",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "trois quarts (3/4)",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "quart (1/4)",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "un peu plus de la moitié",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "presque le tiers",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "144"
+  },
+  {
+   "word": "consommateur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "création",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "marque",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "contribuer à",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "participer à",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "prendre part à",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "billet",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "carte bancaire",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "carte de crédit",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "chéquier",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "chèque",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "compte (bancaire)",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "crédit",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "ouvrir un compte",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "fermer un compte",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "retirer de l'argent",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "144"
+  },
+  {
+   "word": "C'est trop !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Ça m'énerve !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Ce n'est plus possible !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Ras-le-bol de + infinitif ou nom (familier)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Je ne suis pas content !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Je suis furieux.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Nous déclarons que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Nous affirmons que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Nous sommes convaincus que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "C'est décidé !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Je vais + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Je pense + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "J'ai décidé de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "J'ai l'intention de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Non ! Je suis contre !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Je ne suis pas d'accord !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Hors de question !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "C'est inacceptable de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "C'est une honte de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Ce n'est pas permis de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Nous demandons + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Je réclame le droit à + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Nous voulons + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "Nous voulons que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "144"
+  },
+  {
+   "word": "les plus démunis",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "152"
+  },
+  {
+   "word": "exclusion",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "152"
+  },
+  {
+   "word": "galère (familier)",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "152"
+  },
+  {
+   "word": "connaître des difficultés",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "152"
+  },
+  {
+   "word": "association",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "153"
+  },
+  {
+   "word": "bénévole (nom ou adj.)",
+   "translation": "",
+   "article": "(un)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "153"
+  },
+  {
+   "word": "monter un projet",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "153"
+  },
+  {
+   "word": "soutenir une cause",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "153"
+  },
+  {
+   "word": "ahtlète",
+   "translation": "",
+   "article": "un(e)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "154"
+  },
+  {
+   "word": "athlétisme",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "154"
+  },
+  {
+   "word": "jeux Olympiques",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "154"
+  },
+  {
+   "word": "marathon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "154"
+  },
+  {
+   "word": "clinique",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "155"
+  },
+  {
+   "word": "patient",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "155"
+  },
+  {
+   "word": "souffrir de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "health",
+   "source_page": "155"
+  },
+  {
+   "word": "être en bonne santé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "health",
+   "source_page": "155"
+  },
+  {
+   "word": "être hospitalisé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "health",
+   "source_page": "155"
+  },
+  {
+   "word": "exclusion",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "inégalités",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "galère (familier)",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "les plus démunis",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "sans domicile fixe (SDF)",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "avoir de faibles revenus",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "connaître des difficultés",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "association",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "bénévole (nom ou adj.)",
+   "translation": "",
+   "article": "(un)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "volontaire (nom ou adj.)",
+   "translation": "",
+   "article": "(un)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "défi",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "collecter des fonds au profit de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "monter un projet",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "s'engager au service de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "soutenir une cause",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "se sentir utile",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "mixed",
+   "source_page": "162"
+  },
+  {
+   "word": "athlète",
+   "translation": "",
+   "article": "un(e)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "athlétisme",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "champion(ne)",
+   "translation": "",
+   "article": "un(e)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "épreuve",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "marathon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "médaille",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "jeux Olympiques",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "franchir la ligne d'arrivée",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "162"
+  },
+  {
+   "word": "clinique",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "consultation",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "infirmier(-ère)",
+   "translation": "",
+   "article": "un(e)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "blessure",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "patient",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "milieu médical",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "être en bonne santé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "être hospitalisé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "se battre contre une maladie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "souffrir (de)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "health",
+   "source_page": "162"
+  },
+  {
+   "word": "Je rêve de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je rêve que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "J'espère que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je souhaite + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "J'aimerais + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je souhaite que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "J'aimerais que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Qu'est-ce que j'aimerais + infinitif !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Si je pouvais, je + conditionnel",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je garde espoir.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Cela ne fait aucun doute.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je suis (absolument) certain que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "C'est évident que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "C'est possible que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je ne suis pas sûr que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je me demande si + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "J'ai des doutes sur…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Nous vous assurons que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Nous vous garantissons que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Nous nous engageons à + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Vous pouvez être sûrs que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Je vous promets que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Il va sans dire que + indicatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Allez champion !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Courage !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Encore un effort !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Vas-y, tiens bon !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Tu peux y arriver !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "Tu es le meilleur !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "J'ai confiance en toi !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "162"
+  },
+  {
+   "word": "45 m² (mètres carrés)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "logement équipé",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "ferme",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "studio",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "170"
+  },
+  {
+   "word": "rural",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "171"
+  },
+  {
+   "word": "urbain",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "171"
+  },
+  {
+   "word": "champ",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "171"
+  },
+  {
+   "word": "lotissement",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "171"
+  },
+  {
+   "word": "métropole",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "171"
+  },
+  {
+   "word": "périphérie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "171"
+  },
+  {
+   "word": "actifs",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "171"
+  },
+  {
+   "word": "classe sociale",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "171"
+  },
+  {
+   "word": "logement social",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "171"
+  },
+  {
+   "word": "revenu",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "171"
+  },
+  {
+   "word": "façade",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "feu tricolore",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "graffiti",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "passage piéton",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "172"
+  },
+  {
+   "word": "peintre",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "performance",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "assister à une représentation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "réaliser une œuvre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "173"
+  },
+  {
+   "word": "actifs",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "180"
+  },
+  {
+   "word": "classe sociale",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "180"
+  },
+  {
+   "word": "logement social",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "180"
+  },
+  {
+   "word": "mode de vie",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "180"
+  },
+  {
+   "word": "revenu faible",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "180"
+  },
+  {
+   "word": "revenu moyen",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "180"
+  },
+  {
+   "word": "revenu élevé",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "180"
+  },
+  {
+   "word": "45 m² (mètres carrés)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "other",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "équipé (adj.)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "hébergement",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "logement",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "chambre universitaire",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "ferme",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "studio",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "locataire",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "loyer",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "180"
+  },
+  {
+   "word": "rural",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "urbain",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "métropole",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "embouteillage",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "ligne de métro",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "lotissement",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "centre-ville",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "périphérie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "champ",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "pavillon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "terrain",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "borne d'incendie",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "façade",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "feu tricolore",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "graffiti",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "passage piéton",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "city-places",
+   "source_page": "180"
+  },
+  {
+   "word": "comédien",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "funambule",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "peintre",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "sculpteur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "théâtre de rue",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "performance",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "représentation",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "scène",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "donner un concert",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "jouer un rôle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "réaliser une œuvre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "180"
+  },
+  {
+   "word": "Ce mot désigne…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Le terme s'applique à…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "C'est un néologisme qui signifie…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "On emploie ce mot pour…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Cette expression recouvre différents sens.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Pas du tout !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Absolument pas !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Je ne trouve pas.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "C'est faux.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Tu as tort.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Tu te trompes.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Tu exagères !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "C'est ridicule !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Vous permettez ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "J'aimerais ajouter que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Je voudrais préciser que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Je ne peux pas vous laisser dire cela.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Je n'ai pas fini, excusez-moi.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Soyez gentil, laissez-moi finir.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Laisse-moi parler.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Premièrement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "deuxièmement…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "D'abord",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Après",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "ensuite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "de plus",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "puis",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "C'est vrai que…, par contre,…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "Enfin",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "pour terminer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "En résumé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  },
+  {
+   "word": "en conclusion",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "180"
+  }
+ ]
+}

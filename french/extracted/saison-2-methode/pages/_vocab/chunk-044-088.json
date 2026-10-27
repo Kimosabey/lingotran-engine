@@ -1,0 +1,2136 @@
+{
+ "collection": "saison-2-methode",
+ "chunk": "044-088",
+ "entries": [
+  {
+   "word": "ami",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "044"
+  },
+  {
+   "word": "copain",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "044"
+  },
+  {
+   "word": "collègue",
+   "translation": "",
+   "article": "un(e)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "044"
+  },
+  {
+   "word": "entrer en relation avec quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "044"
+  },
+  {
+   "word": "partager quelque chose avec quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "044"
+  },
+  {
+   "word": "diplôme",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "045"
+  },
+  {
+   "word": "master",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "045"
+  },
+  {
+   "word": "stage",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "045"
+  },
+  {
+   "word": "université",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "045"
+  },
+  {
+   "word": "atout",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "046"
+  },
+  {
+   "word": "savoir-faire",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "046"
+  },
+  {
+   "word": "je maîtrise (ce logiciel…)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "046"
+  },
+  {
+   "word": "je sais faire…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "046"
+  },
+  {
+   "word": "emploi",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "047"
+  },
+  {
+   "word": "dans le domaine de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "047"
+  },
+  {
+   "word": "embaucher quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "047"
+  },
+  {
+   "word": "travailler comme designer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "047"
+  },
+  {
+   "word": "famille",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "ami",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "copain",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "collègue",
+   "translation": "",
+   "article": "un(e)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "entrer en relation avec quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "partager quelque chose avec quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "perdre de vue",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "reprendre contact",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "054"
+  },
+  {
+   "word": "lycée",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "étudiant",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "(grande) école",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "université",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "diplôme",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "master",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "stage",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "passer un examen",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "obtenir un examen",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "054"
+  },
+  {
+   "word": "atout",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "qualité",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "savoir-faire",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "je sais + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "je connais + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "je maîtrise + nom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "je suis capable de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "candidature",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "CV",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "emploi",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "poste",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "métier",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "expérience",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "dans le domaine de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "embaucher quelqu'un",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "travailler comme ouvrier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Qu'est-ce que tu fais dans la vie ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Tu as fait quoi comme études ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Ça consiste en quoi ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "C'est + adj. comme métier !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Pendant mes études, j'ai…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Après mon bac, j'ai décidé de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "J'ai eu la possibilité de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Grâce à cette expérience, j'ai…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Ça m'a permis de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Si je suis devenu + métier, c'est parce que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Je suis …, ça consiste à + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Quelles qualités sont importantes ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Quelles sont les compétences nécessaires pour être … ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Je ne suis pas … Qu'est-ce que vous pourriez me conseiller ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Partez étudier un an à …",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Vous pouvez commencer par + nom ou + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Vous pourriez suivre une formation…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "Vous devez apprendre…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "054"
+  },
+  {
+   "word": "« une »",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "062"
+  },
+  {
+   "word": "(gros) titres",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "062"
+  },
+  {
+   "word": "feuilleter un magazine",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "062"
+  },
+  {
+   "word": "lire la presse écrite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "062"
+  },
+  {
+   "word": "regarder le journal télévisé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "062"
+  },
+  {
+   "word": "journal électronique",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "063"
+  },
+  {
+   "word": "cliquer sur un titre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "063"
+  },
+  {
+   "word": "consulter une rubrique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "063"
+  },
+  {
+   "word": "s'abonner à une revue de presse",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "063"
+  },
+  {
+   "word": "réseau social",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "064"
+  },
+  {
+   "word": "smartphone",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "064"
+  },
+  {
+   "word": "tablette",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "064"
+  },
+  {
+   "word": "tweeter",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "064"
+  },
+  {
+   "word": "article",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "« une »",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "(gros) titres",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "auditeur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "lecteur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "journaliste",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "écouter la radio",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "feuilleter un magazine",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "lire la presse écrite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "regarder le journal télévisé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "suivre l'actualité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "réseau social",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "smartphone",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "tablette",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "hashtag",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "lien",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "profil",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "tweeter",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "journal en ligne",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "cliquer sur un titre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "consulter une rubrique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "écouter un podcast",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "s'abonner à une revue de presse",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "télécharger une vidéo",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "boîte aux lettres",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "petite annonce",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "crieur public",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "coup de cœur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "clamer une annonce",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "écrire un message",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "envoyer un message",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "recevoir un message",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Elle dit : « je lis la presse. »",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Elle dit qu'elle lit la presse.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Il affirme (que)…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Elle demande (si, pourquoi…)…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Il répond (que)…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Pour moi, …",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "À mon avis, …",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "D'après moi…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Je trouve que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Je crois que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Je pense que…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "(Et) d'après toi / vous, est-ce que… ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "À ton/votre avis, … ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Que pensez-vous de + nom ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Et toi, tu en penses quoi ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Et vous, qu'en dites-vous ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Ah !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Oh !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Ça alors !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Ah non !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Quoi ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Pardon ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Comment ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Qu'est-ce que tu dis ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Ce n'est pas possible !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "C'est pas vrai ? (familier)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "Tu déconnes ? (très familier)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "070"
+  },
+  {
+   "word": "nostalgie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "076"
+  },
+  {
+   "word": "petite enfance",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "076"
+  },
+  {
+   "word": "évoquer un souvenir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "076"
+  },
+  {
+   "word": "se souvenir de son passé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "076"
+  },
+  {
+   "word": "à mon époque",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "077"
+  },
+  {
+   "word": "autrefois",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "077"
+  },
+  {
+   "word": "guinguette",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "077"
+  },
+  {
+   "word": "rétro",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "077"
+  },
+  {
+   "word": "vintage",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "077"
+  },
+  {
+   "word": "époux",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "078"
+  },
+  {
+   "word": "épouse",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "078"
+  },
+  {
+   "word": "grands-parents",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "078"
+  },
+  {
+   "word": "petits-enfants",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "078"
+  },
+  {
+   "word": "petit ami",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "078"
+  },
+  {
+   "word": "être célibataire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "078"
+  },
+  {
+   "word": "enfance",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "086"
+  },
+  {
+   "word": "petite enfance",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "086"
+  },
+  {
+   "word": "nostalgie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "086"
+  },
+  {
+   "word": "retrouvailles",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "086"
+  },
+  {
+   "word": "évoquer un souvenir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "086"
+  },
+  {
+   "word": "se rappeler quelque chose",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "086"
+  },
+  {
+   "word": "se souvenir de quelque chose",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "086"
+  },
+  {
+   "word": "époux",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "épouse",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "grands-parents",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "petits-enfants",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "neveu",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "nièce",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "cousin(e)",
+   "translation": "",
+   "article": "un(e)",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "petit ami",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "décès",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "naissance",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "être veuf",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "être célibataire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "autrefois",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "086"
+  },
+  {
+   "word": "à mon époque",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "time-dates",
+   "source_page": "086"
+  },
+  {
+   "word": "rétro",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "086"
+  },
+  {
+   "word": "vintage",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "086"
+  },
+  {
+   "word": "brocante",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "086"
+  },
+  {
+   "word": "disque vinyle",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "086"
+  },
+  {
+   "word": "guinguettes",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "086"
+  },
+  {
+   "word": "marché aux puces",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "086"
+  },
+  {
+   "word": "Belle Époque",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "086"
+  },
+  {
+   "word": "Il est en + matière",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "Il est + forme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "Il est pratique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "il est solide…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "Il coûte…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "Il mesure…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "Il pèse…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "Il sert à + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "086"
+  },
+  {
+   "word": "(Tout) d'abord",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Ensuite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Puis",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Après",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Enfin",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Pour finir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Finalement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adverb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Je vais vous raconter…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "Les membres de ma famille viennent de…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "Je suis originaire de…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "Mes parents sont partis… / arrivés…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "Ils se sont mariés…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "Je suis né(e)…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "family",
+   "source_page": "086"
+  },
+  {
+   "word": "Allô ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Ici + nom / prénom",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Pourrais-je parler à… ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "J'appelle à propos de…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Vous êtes bien M. / Mme… ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "C'est de la part de qui ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Ne quittez pas.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Un instant, s'il vous plaît.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  },
+  {
+   "word": "Merci de votre appel.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "086"
+  }
+ ]
+}

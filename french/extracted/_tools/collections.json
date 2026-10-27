@@ -150,7 +150,7 @@
       ],
       "pdf": "pdf/didier/saison-2-methode/saison-2-methode.pdf",
       "book_type": "student-coursebook",
-      "status": "transcribed",
+      "status": "extracted-ready-to-deliver",
       "recon": {
         "checked": "2026-10-23: cover, title page, avant-propos, presentation spread, Module 1 contents page, footer page numbers sampled every 8 PDF pages and then page by page across PDF 60-76, back matter (Point recap, lexique plurilingue, transcriptions, credits, map, back cover); images were already rasterized on 2026-10-07, no transcription performed",
         "authors": "Marie-Noelle Cocton (coordination pedagogique), Anouchka De Oliveira, Anneline Dintilhac, Dorothee Dupleix (DELF), Delphine Ripaud (phonetique)",
@@ -167,18 +167,25 @@
       "answer_key": {
         "status": "separate-guide",
         "checked": "2026-10-23: avant-propos and back cover; the back matter holds a precis, lexique plurilingue and transcriptions but no corriges",
-        "note": "Student coursebook: answers live in the Didier guide pedagogique / cahier d'activites, which we do not hold, so a blank correct_answer is expected, not a gap."
+        "note": "Student coursebook: most answers live in the Didier guide pedagogique / cahier, which we do not hold, so a blank correct_answer is expected. Answers that ARE filled come from what the book prints: the 'Verifiez vos reponses' boxes on each unit's Point etape Grammaire page (they answer cited S'informer activities) and the upside-down answers of the Actu culture quizzes. Unit 3's boxes were on printed p.65, which is missing, so Unit 3 has none."
       },
       "caveats": [
         "SOURCE PDF IS MISSING printed pages 64-65 (unit 3, very likely its grammar exercise page, cited elsewhere as 'Verifiez et exercez-vous ... p. 65') and printed pages 76-77 (between unit 3's DELF A2 preparation and unit 4). Found at recon on 2026-10-23, before any transcription. Their content is absent from every export of this book.",
         "Page 200 (Lexique plurilingue): the Arabic cells for 'cout' and 'declarer' are too badly printed to read securely; each carries a best guess in an illegible comment. Everything else on the page is complete.",
         "Lexique plurilingue (pages 199-205): the book typesets its Arabic column with unjoined letters in reversed order. Each Arabic cell is given as the word those letters spell, in normal right-to-left Unicode; the page files say so in a comment. The Chinese column is copied as printed.",
         "Four pages (178, 207, 209, 212) stopped a transcription agent at the content filter and were transcribed from strip, column or band crops instead of the full image; none held a photo of a person (the filter reacted to text). Their QA notes record it. Unit openers and photo-heavy pages were read from strip crops from the start as a precaution.",
-        "Fine print inside reproduced pictures (poster credits, logos, newspaper small lines, stamp imprints) that is unreadable at scan resolution is described in brackets rather than transcribed, and listed in each page's QA notes; it is not the book's own text."
+        "Fine print inside reproduced pictures (poster credits, logos, newspaper small lines, stamp imprints) that is unreadable at scan resolution is described in brackets rather than transcribed, and listed in each page's QA notes; it is not the book's own text.",
+        "Page 44 (printed 42), activite 2c prints six options; the question schema holds five, so the sixth, 'les connaissances virtuelles', is not in option_a..option_e.",
+        "Vocabulary: 426 entries come from the Lexique plurilingue (PDF 199-205) and carry the book's printed English translation and, where printed, gender; its Spanish, Portuguese, Chinese and Arabic columns are in the page transcriptions but have no column in the vocabulary sheet. The other 691 entries come from the units' Mots et expressions boxes and Point recap' mind maps and have no translation (the book prints none there).",
+        "Vocabulary sheet: the Lexique plurilingue prints 'paraitre' twice on page 203 with two meanings ('to be published', 'to appear'); the exporter de-duplicates on word + article + page, so only one row ships. Both are in the vocabulary chunk. (Engine issue: the de-duplication key ignores translation; fixing it would also add 24 rows to Tricolore 1 and 2.)"
       ],
       "accepted_qa_gaps": [
         200
-      ]
+      ],
+      "expect_coverage": {
+        "instruction": 95,
+        "translation": 30
+      }
     },
     {
       "slug": "cosmopolite-5-c1c2",

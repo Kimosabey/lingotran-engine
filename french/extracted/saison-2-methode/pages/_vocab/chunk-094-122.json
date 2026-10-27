@@ -1,0 +1,1366 @@
+{
+ "collection": "saison-2-methode",
+ "chunk": "094-122",
+ "entries": [
+  {
+   "word": "billet d'avion",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "094"
+  },
+  {
+   "word": "frontière",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "094"
+  },
+  {
+   "word": "s'envoler vers",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "094"
+  },
+  {
+   "word": "s'expatrier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "094"
+  },
+  {
+   "word": "devis",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "095"
+  },
+  {
+   "word": "contrat",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "095"
+  },
+  {
+   "word": "remplir un formulaire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "travel",
+   "source_page": "095"
+  },
+  {
+   "word": "signer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "095"
+  },
+  {
+   "word": "cliché",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "096"
+  },
+  {
+   "word": "préjugé",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "096"
+  },
+  {
+   "word": "avoir l'air arrogant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "096"
+  },
+  {
+   "word": "trouver quelqu'un râleur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "096"
+  },
+  {
+   "word": "billet d'avion",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "frontière",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "passeport",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "visa",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "faire ses valises",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "immigrer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "s'envoler (vers…)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "s'expatrier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "contrat",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "devis",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "formalité",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "société d'assistance",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "consulter un organisme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "remplir un formulaire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "signer un papier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "travel",
+   "source_page": "104"
+  },
+  {
+   "word": "cliché",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "104"
+  },
+  {
+   "word": "image",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "104"
+  },
+  {
+   "word": "préjugé",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "104"
+  },
+  {
+   "word": "avoir l'air + adj.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "104"
+  },
+  {
+   "word": "sembler + adj.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "104"
+  },
+  {
+   "word": "avoir la réputation de + verbe",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "104"
+  },
+  {
+   "word": "trouver quelqu'un + adj.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "personal-info",
+   "source_page": "104"
+  },
+  {
+   "word": "Normalement, …",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Tu peux / On peut + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "On (ne) doit (pas) + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Il (ne) faut (pas) + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Il (ne) faut (pas) que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Tout le monde le fait.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça ne se fait pas.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Vous n'avez pas le droit de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça me tente.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça m'intéresse.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Je suis très intéressé(e) par ce projet.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Votre idée me passionne.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Bof.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Comme tu veux.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça m'est égal.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça ne me dit rien.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça ne m'intéresse pas plus que ça.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Je regrette, je ne savais pas.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Désolé, je n'ai jamais appris ça.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Est-ce qu'on peut + infinitif ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Vous pouvez m'expliquer ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Quelle est la règle ici ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ce n'est rien.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça ne fait rien.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Ça va aller.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Rassurez-vous, ce n'est pas grave.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "Je comprends, pas de souci.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "On va arranger ça.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "104"
+  },
+  {
+   "word": "aller au cinéma",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "112"
+  },
+  {
+   "word": "aller à une expo(sition)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "112"
+  },
+  {
+   "word": "aller au restaurant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "112"
+  },
+  {
+   "word": "participer à un atelier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "112"
+  },
+  {
+   "word": "festival",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "113"
+  },
+  {
+   "word": "programme",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "113"
+  },
+  {
+   "word": "billetterie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "113"
+  },
+  {
+   "word": "horaires",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "113"
+  },
+  {
+   "word": "cuisine",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "114"
+  },
+  {
+   "word": "produit",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "114"
+  },
+  {
+   "word": "recette",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "114"
+  },
+  {
+   "word": "viande",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "114"
+  },
+  {
+   "word": "assiette",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "manger",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "déguster",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "se nourrir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "criquet",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "fourmi",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "grillon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "ver",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "115"
+  },
+  {
+   "word": "affiche",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "aller au cinéma",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "aller à un concert",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "aller à une expo(sition)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "aller au restaurant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "participer à un atelier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "artiste",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "festival",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "programme",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "billetterie",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "horaires",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "infos pratiques",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "122"
+  },
+  {
+   "word": "ingrédient",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "menu",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "recette",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "produit",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "légumes",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "viande",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "poisson",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "manger",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "déguster",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "se nourrir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "abeille",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "criquet",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "fourmi",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "grillon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "papillon",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "ver",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "122"
+  },
+  {
+   "word": "Vous pouvez me renseigner ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Je voudrais en savoir plus sur…",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "C'est une expo sur quoi ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "C'est gratuit ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Est-ce qu'il faut réserver ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Est-ce qu'on peut rencontrer l'artiste ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Beurk !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Mon Dieu !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "C'est dommage !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "C'est super, génial, extra !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Ça me rend triste de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Ça m'énerve !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Je suis contente de + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "J'ai peur que / je crains que + subjonctif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Si tu veux, on peut + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Tu veux + infinitif ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "On pourrait + infinitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Est-ce que ça vous dit de + infinitif ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Et si on + imparfait ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Pourquoi ne pas + infinitif ?",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Bonne idée !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Oui, pourquoi pas !",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Je ne sais pas.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Je vais réfléchir.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Non, je n'ai pas très envie.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  },
+  {
+   "word": "Ça ne me tente pas trop.",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "122"
+  }
+ ]
+}
