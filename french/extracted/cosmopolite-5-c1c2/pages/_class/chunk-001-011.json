@@ -1,0 +1,71 @@
+{
+ "collection": "cosmopolite-5-c1c2",
+ "items": [
+  {
+   "page": 1,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Front cover of Cosmopolite 5, French method C1-C2, Hachette FLE."
+  },
+  {
+   "page": 2,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Inside front cover, blank page with no printed content."
+  },
+  {
+   "page": 3,
+   "activity_type": "cover",
+   "topic": "none",
+   "summary": "Title page: Cosmopolite 5, authors and DALF collaborators."
+  },
+  {
+   "page": 4,
+   "activity_type": "none",
+   "topic": "none",
+   "summary": "Credits, ISBN and copyright notice for the 2020 Hachette edition."
+  },
+  {
+   "page": 5,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Foreword: target audience, C1-C2 levels, structure of dossiers and annexes."
+  },
+  {
+   "page": 6,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "How to use the book: structure, dossier opener and lesson layout explained."
+  },
+  {
+   "page": 7,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "How to use, continued: vocabulary pages, DALF prep, annexes, digital content."
+  },
+  {
+   "page": 8,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Table of contents for dossiers 1-3: lessons, document types, skills, final tasks."
+  },
+  {
+   "page": 9,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Table of contents for dossiers 4-6: lessons, document types, skills, final tasks."
+  },
+  {
+   "page": 10,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Table of contents for dossiers 7-9: lessons, document types, skills, final tasks."
+  },
+  {
+   "page": 11,
+   "activity_type": "instructions",
+   "topic": "none",
+   "summary": "Table of contents for dossiers 10-12: lessons, document types, skills, final tasks."
+  }
+ ]
+}

@@ -184,7 +184,7 @@
       ],
       "pdf": "pdf/hachette-fle/cosmopolite-5-c1c2/cosmopolite-5-c1c2.pdf",
       "book_type": "student-coursebook",
-      "status": "registered-not-started",
+      "status": "extracted-ready-to-deliver",
       "recon": {
         "checked": "2026-10-26: cover, title/credits page, avant-propos, mode d'emploi, tableau des contenus (first page), footer page numbers at PDF 6, 7, 10 and every 20 PDF pages to the end, last 8 pages (DALF C2 practice exam, remerciements/credits); no rasterization or transcription performed",
         "authors": "Delphine Twardowski-Vieites, Sylvain Capelli, Emilie Mathieu-Benoit, with Nelly Briet and Florian Petit (DALF)",
@@ -200,13 +200,14 @@
       "answer_key": {
         "status": "separate-guide",
         "checked": "2026-10-26: avant-propos, mode d'emploi and back matter; no corriges in the book",
-        "note": "Student coursebook: answers live in the Hachette guide pedagogique, which we do not hold, so a blank correct_answer is expected, not a gap. Listening items are additionally unanswerable because the transcript booklet is missing."
+        "note": "Student coursebook: answers live in the Hachette guide pedagogique, which we do not hold, so a blank correct_answer is expected, not a gap. Exceptions: the Culture et societe quizzes (pages 194-211) print their answers upside down on the page, and every one of those items is answered from them. Listening items are additionally unanswerable because the transcript booklet is missing."
       },
       "caveats": [
         "The listening transcripts ship in a separate booklet inserted in the printed book; it is not in this PDF, and the audio is not held. Listening items have no transcript or answer in this extraction.",
         "Source provenance: the PDF's producer metadata is 'calameodownload.com', meaning it was captured from the Calameo online viewer, not supplied as a publisher file or our own scan.",
         "Twelve pages keep a QA fail for fine print that cannot be read: 13 (an ink-worn acronym on a reproduced 1968 poster), 30 (one word on a book-cover imprint), 50 (role labels in a photo credit), 57 (two captions burned into a video still), 110 (film-poster credits), 122 (magazine-cover small print), 124 (a podcast date digit and player counter), 135 (a time in a radio-schedule line), 205 (small lines of a Libération front page), 207 (a stamp's printer line), 208 (an AOC poster's small print), 209 (a Vitale card's issue date). All are inside reproduced pictures or screenshots, not the book's own text; every exercise, reading text and answer on these pages is complete. Each spot is marked inline with a best guess in an `illegible` comment. No repair pass was run: the PDF's page images are only ~142 DPI (1173x1587 px, Calameo capture), so the 300 DPI renders are already upsampled and closer zooms cannot recover them.",
-        "Seven pages (21, 24, 30, 39, 106, 108, 151) stopped a transcription agent at the content filter and were transcribed from crops instead of the full page image; their QA notes record it. On 21 the Ravage cover picture and on 24 the cover illustration were never viewed (neither holds text beyond what was read from tight crops); the other five turned out to contain no photo of a person."
+        "Seven pages (21, 24, 30, 39, 106, 108, 151) stopped a transcription agent at the content filter and were transcribed from crops instead of the full page image; their QA notes record it. On 21 the Ravage cover picture and on 24 the cover illustration were never viewed (neither holds text beyond what was read from tight crops); the other five turned out to contain no photo of a person.",
+        "ANSWER-KEY MISPRINT CORRECTED in correct_answer (same policy as the Pratique books, 2026-10-05: correct learner-facing errors, list each; the page transcription stays as printed). Page 203 (printed 201), quiz 1: the upside-down key prints 'c-3', which repeats a-3; the Chedid extract (c) continues with line 2, 'Contiendrais-tu les crues de la haine / Changerais-tu les soupcons en bienfaits ?', so item 1c is answered with that line."
       ],
       "accepted_qa_gaps": [
         13,
@@ -221,6 +222,17 @@
         207,
         208,
         209
+      ],
+      "expect_coverage": {
+        "instruction": 95,
+        "translation": 0
+      },
+      "accepted_option_gaps": [
+        "061/7",
+        "086/5a3",
+        "086/5a4",
+        "139/5a",
+        "139/5e"
       ]
     },
     {

@@ -1,0 +1,3076 @@
+{
+ "collection": "cosmopolite-5-c1c2",
+ "chunk": "100-165",
+ "entries": [
+  {
+   "word": "bouleversé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "touché",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "indifférent",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "pénible",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "plaisant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "insupportable",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "médiocre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "moyen",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "meilleur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "antipathique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "sublime",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "odieux",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "impressionné",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "génial",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "magistral",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "avoir le vague à l'âme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "être désenchanté",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "ressentir de la joie de vivre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "avoir besoin de réconfort",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "être épanoui",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "être morose",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "éprouver du bien-être",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "être déprimé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "être libéré des pensées négatives",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "100"
+  },
+  {
+   "word": "inclusion scolaire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "101"
+  },
+  {
+   "word": "moyen de communiquer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "101"
+  },
+  {
+   "word": "médiation animale",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "responsabilité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "libérer la parole",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "101"
+  },
+  {
+   "word": "trait d'union entre les humains",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "caresser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "chien pédagogique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "101"
+  },
+  {
+   "word": "élève en situation de handicap",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "101"
+  },
+  {
+   "word": "sensibilité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "angoisse",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "bien-être",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "préservé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "mise à mort",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "comportemental",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "cruauté",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "obliger",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "loi",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "règle",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "franc arbitre",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "libéré",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "défendre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "joug",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "forcer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "asservir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "quand le désir me vient",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "affranchi",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "assujettir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "interdire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "quand bon me semble",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "volonté",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "servitude",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "101"
+  },
+  {
+   "word": "belle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "logique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "mélodieuse",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "puissante",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "intarissable",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "fière",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "guindée",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "ardue",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "riche",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "élitiste",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "cosmopolite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "constitution",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "chef d'État",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "rayonnement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "obligatoire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "admission",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "en partage",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "Congrès",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "Sommet",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "monarque",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "colonisé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "dirigeant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "hôte",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "continuation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "suprématie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "despote",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "résolution",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "112"
+  },
+  {
+   "word": "qualité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "choisi",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "truqué",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "autocratique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "insignifiant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "pérenniser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "assujettir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "honnête",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "tare",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "imposé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "prestigieux",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "stopper",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "émanciper",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "démocratique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "112"
+  },
+  {
+   "word": "crevé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "113"
+  },
+  {
+   "word": "beau langage",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "113"
+  },
+  {
+   "word": "déformé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "113"
+  },
+  {
+   "word": "destinée",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "113"
+  },
+  {
+   "word": "patois",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "113"
+  },
+  {
+   "word": "petite ascension sociale",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "113"
+  },
+  {
+   "word": "gourd",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "113"
+  },
+  {
+   "word": "angélisme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "119"
+  },
+  {
+   "word": "comparaison",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "métaphore",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "personnification",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "métaphore filée",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "client",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "compromettre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "par erreur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "frapper",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "tombe à mensonges",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "prouver sa bonne foi",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "127"
+  },
+  {
+   "word": "à très haut débit",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "puce",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "interface",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "implant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "s'implanter",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "intelligence artificielle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "électrode",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "caméra miniature",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "neurone numérique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "127"
+  },
+  {
+   "word": "mémoire",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "pensée historienne",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "contenu historique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "outil pédagogique supplémentaire",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "bien documentés",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "introduire le jeu vidéo",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "repérer les invraisemblances historiques",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "traiter de l'Empire romain",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "remettre en question la crédibilité du jeu",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "s'immerger dans un passé reconstitué et vivant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "éveiller l'esprit critique des élèves",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "à ne pas croire aux récits historiques de ces jeux",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "à avoir du recul",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "issus de manuels d'histoire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "support de cours",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "138"
+  },
+  {
+   "word": "pères fondateurs",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "objectifs initiaux",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "institutions",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "effets sur la vie quotidienne",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "crise",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "utiliser une monnaie commune",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "garantir la paix",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "Cour de justice",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "développer l'économie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "se déplacer librement dans n'importe quel pays de l'UE",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "sortie d'un état membre",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "reconstruire l'Europe de l'Ouest",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "Parlement",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "euroscepticisme",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "zone de libre-échange",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "panafricanisme",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "droits de douane",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "processus d'intégration",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "138"
+  },
+  {
+   "word": "juré",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "magistrat",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "avocat",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "témoin",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "parties civiles",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "juge",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "assassin",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "complice",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "auteur des faits",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "grand banditisme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "terrorisme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "escroquerie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "empreinte digitale",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "preuve",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "verdict",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "auditoire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "audience",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "procès",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "139"
+  },
+  {
+   "word": "consommation culturelle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "musée",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "produit",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "exposer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "exposition",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "œuvre d'art",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "culture",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "culturel",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "pédagogique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "commercialisation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "racoleur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "commercial",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "esthétique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "institution",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "lieu de culture et de divertissement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "masse de visiteurs",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "comédie de boulevard",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "vaudeville",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "quiproquo",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "burlesque",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "comédie populaire",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "comique hexagonal",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "hobby",
+   "source_page": "152"
+  },
+  {
+   "word": "humiliant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "séquelle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "offenser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "cliché",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "se moquer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "divertissant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "rendre hommage",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "récréatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "indigène",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "singularité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "stéréotype",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "mauvaise répercussion",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "reprendre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "copier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "attribut",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "dégradant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "autochtone",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "mettre en lumière",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "ridiculiser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "blesser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "153"
+  },
+  {
+   "word": "implicite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "mœurs",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "malentendu",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "conserver la face",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "relation interpersonnelle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "hospitalité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "règle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "niché",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "code socioculturel",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "valeur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "indélicat",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "travel",
+   "source_page": "153"
+  },
+  {
+   "word": "changement des comportements individuels",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "sécheresse",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "remise en cause des pratiques",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "perte de l'aire naturelle",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "vagues de chaleur",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "diminution des émissions de gaz à effet de serre",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "disparition possible de la banquise",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "cyclone",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "captation de CO2 atmosphérique",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "décarbonisation",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "acidification des eaux superficielles",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "développement durable",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "disparition des espèces",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "canicule",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "neutralité carbone",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "diminution des récoltes",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "weather",
+   "source_page": "164"
+  },
+  {
+   "word": "conspiration",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "164"
+  },
+  {
+   "word": "consensus scientifique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "164"
+  },
+  {
+   "word": "diffamation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "164"
+  },
+  {
+   "word": "négationniste",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "164"
+  },
+  {
+   "word": "contre l'obscurantisme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "164"
+  },
+  {
+   "word": "unanimité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "164"
+  },
+  {
+   "word": "climatoscepticisme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "164"
+  },
+  {
+   "word": "forger",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "165"
+  },
+  {
+   "word": "remettre en cause",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "165"
+  },
+  {
+   "word": "prêter le flanc",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "165"
+  },
+  {
+   "word": "proférer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "165"
+  },
+  {
+   "word": "étayer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "165"
+  },
+  {
+   "word": "avancer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "165"
+  },
+  {
+   "word": "se prononcer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "165"
+  },
+  {
+   "word": "démocratique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "coercitif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "liberticide",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "député",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "militant",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "sénateur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "totalitaire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "dictatorial",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "progressiste",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "capitalisme",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "socialisme",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "communisme",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "politique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "élection présidentielle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "écologie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "décroissance",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "postulat",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "pouvoir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "autoritaire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "militant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "alliance",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "radicalité",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "candidat",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "lutte",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "écolo",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "165"
+  },
+  {
+   "word": "grande chaîne de prêt-à-porter",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "165"
+  },
+  {
+   "word": "industrie textile",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "165"
+  },
+  {
+   "word": "champs de coton",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "165"
+  },
+  {
+   "word": "désastre environnemental",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "165"
+  },
+  {
+   "word": "pesticide",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "165"
+  },
+  {
+   "word": "friperie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "165"
+  },
+  {
+   "word": "puits canadien",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "165"
+  },
+  {
+   "word": "éolienne",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "165"
+  },
+  {
+   "word": "panneaux photovoltaïques",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "165"
+  },
+  {
+   "word": "énergies fossiles",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "165"
+  },
+  {
+   "word": "énergies renouvelables",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "165"
+  },
+  {
+   "word": "pétrole",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "home",
+   "source_page": "165"
+  },
+  {
+   "word": "électrique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "home",
+   "source_page": "165"
+  },
+  {
+   "word": "lopin de terre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "bergerie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "cabane en bois",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "charrue",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "potager",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "pêcher",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "bétail",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "élever",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "produire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "bio",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  },
+  {
+   "word": "autosuffisant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "food",
+   "source_page": "165"
+  }
+ ]
+}

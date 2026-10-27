@@ -1,0 +1,2206 @@
+{
+ "collection": "cosmopolite-5-c1c2",
+ "chunk": "024-093",
+ "entries": [
+  {
+   "word": "lorgner",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "027"
+  },
+  {
+   "word": "goguenard",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "027"
+  },
+  {
+   "word": "déférent",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "027"
+  },
+  {
+   "word": "encrage",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "028"
+  },
+  {
+   "word": "sentiment d'infériorité",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "nourriture de confort",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "ennui",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "manque de confiance en soi",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "soulager",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "en colère",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "satisfaire son estomac",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "exprimer la faim",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "fatigue",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "repas excessif",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "rassasié(e)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "réfréner les impulsions négatives",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "tendu(e)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "apaisant(e)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "manger inconsidérément",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "trouble alimentaire",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "stressant(e)",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "compenser un manque psychique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "culpabilité",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "solitude",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "satiété",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "034"
+  },
+  {
+   "word": "multiplier par",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "diviser par",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "enregistrer une baisse de X %",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "observer une hausse de X %",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "diminuer de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "augmenter de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "se stabiliser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "mettre en lumière",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "mettre en évidence",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "être en forte progression",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "être en chute libre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "034"
+  },
+  {
+   "word": "standard européen",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "ferme",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "production",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "éleveur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "éleveuse",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "paysan",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "paysanne",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "terroir",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "élevage laitier",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "quotas laitiers",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "food",
+   "source_page": "035"
+  },
+  {
+   "word": "être fidèle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "mettre en rayon",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "rayonner",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "faire du volume",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "avoir du mal à écouler les stocks",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "s'approvisionner",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "apprivoiser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "imposer ses prix",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "grande distribution",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "gérant",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "responsable des achats",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "responsable d'étage",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "caddie",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "charrette",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "être en rupture de stock",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "magasin de producteurs",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "carte de fidélité",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "carte vitale",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "consommateur",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "supermarché",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "marché",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "consommateur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "produit",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "slogan",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "mention",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "application",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "marque",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "grande distribution",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "offre",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "label",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "shopping",
+   "source_page": "035"
+  },
+  {
+   "word": "membrane",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "043"
+  },
+  {
+   "word": "aimant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "043"
+  },
+  {
+   "word": "fourmillement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "047"
+  },
+  {
+   "word": "fusible",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "047"
+  },
+  {
+   "word": "groupe de personnes engagées dans une étude médicale",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "personnes interviewées",
+   "translation": "",
+   "article": "les",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "enquête",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "recevoir des informations pour les conserver",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "refuser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "avoir peur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "accepter une idée",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "dire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "ne pas faire confiance",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "désapprobateur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "chirurgie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "tumeur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "traiter",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "cellules",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "chimiothérapie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "patient",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "organe",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "radiothérapie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "tissus",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "traitement",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "opérer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "généraliste",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "médecin",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "préfet",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "interne",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "doyen d'université",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "stagiaire",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "médecin du travail",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "médecin rural",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "médecin de campagne",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "collègue",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "pair",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "sous-préfet",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "désertification médicale",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "pénurie de médicaments",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "manque de médecins",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "fonctionnaire",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "cabinet de médecin",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "048"
+  },
+  {
+   "word": "directeur de cabinet",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "048"
+  },
+  {
+   "word": "se dédier corps et âme à",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "se sacrifier pour",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "se préoccuper de",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "048"
+  },
+  {
+   "word": "bachotage",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "concours",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "faculté",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "numerus clausus",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "prépa",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "primant",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "redoublant",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "tutorat",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "school",
+   "source_page": "049"
+  },
+  {
+   "word": "fake médecine",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "049"
+  },
+  {
+   "word": "médecine complémentaire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "049"
+  },
+  {
+   "word": "médecine conventionnelle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "049"
+  },
+  {
+   "word": "médecine naturelle",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "049"
+  },
+  {
+   "word": "discipline ésotérique",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "049"
+  },
+  {
+   "word": "MAC",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "health",
+   "source_page": "049"
+  },
+  {
+   "word": "se sentir bien dans son corps",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "norme",
+   "translation": "",
+   "article": "une",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "photoshopper",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "communication",
+   "source_page": "060"
+  },
+  {
+   "word": "être bien dans sa peau",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "casser les codes",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "complexe",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "discriminer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "s'accepter",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "défaut",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "standard",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "briser les modèles",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "s'assumer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "stigmatiser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "060"
+  },
+  {
+   "word": "retoucher une photo",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "communication",
+   "source_page": "060"
+  },
+  {
+   "word": "lâche",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "ceux d'en haut",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "gagnant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "derrière les barreaux",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "armé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "éclairé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "prédateur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "coupable",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "fort",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "074"
+  },
+  {
+   "word": "apaiser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "bouc-émissaire",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "estimation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "fracturé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "hiérarchiser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "immigration",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "immigré",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "migrant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "xénophobie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "fuir",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "crépuscule",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "passage",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "se presser",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "ombres",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "migrants",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "départ",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "se retourner",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "réfugiés",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "travel",
+   "source_page": "075"
+  },
+  {
+   "word": "errer",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "marcher",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "none",
+   "source_page": "075"
+  },
+  {
+   "word": "chef d'entreprise",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "cadre",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "ensemble des employés",
+   "translation": "",
+   "article": "l'",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "open space",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "flex office",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "management",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "burn-out",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "relation humaine",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "hiérarchie",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "salarié",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "travail collaboratif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "dirigé",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "chef d'entreprise",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "managérial",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "entreprise",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "modèle de gestion",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "patron",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "086"
+  },
+  {
+   "word": "ouvrier",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "misère",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "087"
+  },
+  {
+   "word": "contestation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "protestation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "délégué",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "pauvreté",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "087"
+  },
+  {
+   "word": "négociation",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "représentant",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "travailleur",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "discussion",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "087"
+  },
+  {
+   "word": "pénurie de main-d'œuvre",
+   "translation": "",
+   "article": "la",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "ratisser large",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "débaucher",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "verb",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "plein emploi",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "coût avantageux de la vie",
+   "translation": "",
+   "article": "le",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "087"
+  },
+  {
+   "word": "eldorado de l'embauche",
+   "translation": "",
+   "article": "un",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "recommencer à zéro",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "phrase",
+   "example": "",
+   "topic": "none",
+   "source_page": "087"
+  },
+  {
+   "word": "présentéisme",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "management participatif",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "réunionite",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "journée à rallonge",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "acquis social",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "profession",
+   "source_page": "087"
+  },
+  {
+   "word": "dialogue fleuve",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "noun",
+   "example": "",
+   "topic": "none",
+   "source_page": "093"
+  },
+  {
+   "word": "friand",
+   "translation": "",
+   "article": "",
+   "plural": "",
+   "word_class": "adjective",
+   "example": "",
+   "topic": "none",
+   "source_page": "093"
+  }
+ ]
+}

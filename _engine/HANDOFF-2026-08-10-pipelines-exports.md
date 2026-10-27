@@ -193,6 +193,16 @@ Next, in order (updated 2026-10-06; steps 1-3 of the 2026-10-01 plan are done an
    pairs (1-10) with only the example answered; splitting it needs answers the book does not print.
    `_exports/` re-packaged (now includes the four Pratique books); nothing uploaded.
 2. **Saison 2** (215pp), then **Cosmopolite 5** (226pp), same phases A-G as the Pratique books.
+   **Cosmopolite 5 DONE 2026-10-27**, through phase G: 226 pages (CLEAN; page 2 blank, 12
+   fine-print-in-picture pages accepted as gaps because the PDF is a ~142 DPI Calameo
+   capture), 1941 questions (instruction 99.4%, 603 open-ended, 122 answered from the
+   upside-down keys of the Culture et societe quizzes, one key misprint corrected on p203),
+   562 vocabulary entries, all gates green, status `extracted-ready-to-deliver`, not
+   uploaded. Lesson: the content filter killed 7 transcription agents, mostly on pages with
+   no photo at all (it reacts to passage text too); re-reading such a page as full-width
+   strip crops, one saved part file per strip, got through every time.
+   **Saison 2 is paused at recon:** the PDF lacks printed pp.64-65 and 76-77 (recorded as a
+   caveat). Harshan to choose: extract with the gap disclosed, or source a complete copy.
 3. **DELF Prim:** parked until a complete copy is sourced (blocks on Harshan).
 4. **Deliver:** rebuild exports, run the gates, stamp a version, upload to Drive
    (batched until Saison 2 + Cosmopolite 5, unless Harshan wants the Pratique books sooner).

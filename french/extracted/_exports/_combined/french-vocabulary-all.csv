@@ -5565,6 +5565,568 @@ tricolore-2-5th-edition,"épicier, une épicière",grocer,un,,,noun,,profession,
 tricolore-2-5th-edition,œil (les yeux),eye,un,,,noun,,none,174
 tricolore-2-5th-edition,œuf,egg,un,,,noun,,food,174
 tricolore-2-5th-edition,œuf à la coque,boiled egg,un,,,noun,,food,174
+cosmopolite-5-c1c2,décortiquer,,,,,verb,,none,015
+cosmopolite-5-c1c2,s'agglutiner,,,,,verb,,city-places,015
+cosmopolite-5-c1c2,tentaculaire,,,,,adjective,,city-places,015
+cosmopolite-5-c1c2,entraide,,,,,noun,,home,016
+cosmopolite-5-c1c2,Hexagone,,l',,,noun,,none,016
+cosmopolite-5-c1c2,fantasmé,,,,,adjective,,none,020
+cosmopolite-5-c1c2,peu ou prou,,,,,adverb,,none,020
+cosmopolite-5-c1c2,abordable,,,,,adjective,,home,022
+cosmopolite-5-c1c2,appartement,,un,,,noun,,home,022
+cosmopolite-5-c1c2,autogéré,,,,,adjective,,home,022
+cosmopolite-5-c1c2,citoyen,,,,,adjective,,home,022
+cosmopolite-5-c1c2,embouteillages,,les,,,noun,,city-places,022
+cosmopolite-5-c1c2,engorgement,,l',,,noun,,city-places,022
+cosmopolite-5-c1c2,exorbitant,,,,,adjective,,home,022
+cosmopolite-5-c1c2,expansion,,l',,,noun,,city-places,022
+cosmopolite-5-c1c2,gigantisme,,le,,,noun,,city-places,022
+cosmopolite-5-c1c2,habitat,,un,,,noun,,home,022
+cosmopolite-5-c1c2,loyer,,un,,,noun,,home,022
+cosmopolite-5-c1c2,meublé,,,,,adjective,,home,022
+cosmopolite-5-c1c2,modéré,,,,,adjective,,home,022
+cosmopolite-5-c1c2,mégalopole,,une,,,noun,,city-places,022
+cosmopolite-5-c1c2,participatif,,,,,adjective,,home,022
+cosmopolite-5-c1c2,s'agglutiner,,,,,verb,,city-places,022
+cosmopolite-5-c1c2,s'entasser,,,,,verb,,city-places,022
+cosmopolite-5-c1c2,s'étendre,,,,,verb,,city-places,022
+cosmopolite-5-c1c2,tentaculaire,,,,,adjective,,city-places,022
+cosmopolite-5-c1c2,4 x 4,,le,,,noun,,city-places,023
+cosmopolite-5-c1c2,jet privé,,le,,,noun,,city-places,023
+cosmopolite-5-c1c2,métro,,le,,,noun,,city-places,023
+cosmopolite-5-c1c2,skate-board électrique,,le,,,noun,,city-places,023
+cosmopolite-5-c1c2,tramway,,le,,,noun,,city-places,023
+cosmopolite-5-c1c2,trottinette,,la,,,noun,,city-places,023
+cosmopolite-5-c1c2,voiture avec chauffeur,,la,,,noun,,city-places,023
+cosmopolite-5-c1c2,voiture en libre-service,,la,,,noun,,city-places,023
+cosmopolite-5-c1c2,VTC,,le,,,noun,,city-places,023
+cosmopolite-5-c1c2,déférent,,,,,adjective,,none,027
+cosmopolite-5-c1c2,goguenard,,,,,adjective,,none,027
+cosmopolite-5-c1c2,lorgner,,,,,verb,,none,027
+cosmopolite-5-c1c2,encrage,,,,,noun,,none,028
+cosmopolite-5-c1c2,apaisant(e),,,,,adjective,,food,034
+cosmopolite-5-c1c2,augmenter de,,,,,phrase,,none,034
+cosmopolite-5-c1c2,compenser un manque psychique,,,,,phrase,,food,034
+cosmopolite-5-c1c2,culpabilité,,la,,,noun,,food,034
+cosmopolite-5-c1c2,diminuer de,,,,,phrase,,none,034
+cosmopolite-5-c1c2,diviser par,,,,,phrase,,none,034
+cosmopolite-5-c1c2,en colère,,,,,phrase,,food,034
+cosmopolite-5-c1c2,ennui,,l',,,noun,,food,034
+cosmopolite-5-c1c2,enregistrer une baisse de X %,,,,,phrase,,none,034
+cosmopolite-5-c1c2,exprimer la faim,,,,,phrase,,food,034
+cosmopolite-5-c1c2,fatigue,,la,,,noun,,food,034
+cosmopolite-5-c1c2,manger inconsidérément,,,,,phrase,,food,034
+cosmopolite-5-c1c2,manque de confiance en soi,,le,,,noun,,food,034
+cosmopolite-5-c1c2,mettre en lumière,,,,,phrase,,none,034
+cosmopolite-5-c1c2,mettre en évidence,,,,,phrase,,none,034
+cosmopolite-5-c1c2,multiplier par,,,,,phrase,,none,034
+cosmopolite-5-c1c2,nourriture de confort,,la,,,noun,,food,034
+cosmopolite-5-c1c2,observer une hausse de X %,,,,,phrase,,none,034
+cosmopolite-5-c1c2,rassasié(e),,,,,adjective,,food,034
+cosmopolite-5-c1c2,repas excessif,,un,,,noun,,food,034
+cosmopolite-5-c1c2,réfréner les impulsions négatives,,,,,phrase,,food,034
+cosmopolite-5-c1c2,satisfaire son estomac,,,,,phrase,,food,034
+cosmopolite-5-c1c2,satiété,,la,,,noun,,food,034
+cosmopolite-5-c1c2,se stabiliser,,,,,verb,,none,034
+cosmopolite-5-c1c2,sentiment d'infériorité,,un,,,noun,,food,034
+cosmopolite-5-c1c2,solitude,,la,,,noun,,food,034
+cosmopolite-5-c1c2,soulager,,,,,verb,,food,034
+cosmopolite-5-c1c2,stressant(e),,,,,adjective,,food,034
+cosmopolite-5-c1c2,tendu(e),,,,,adjective,,food,034
+cosmopolite-5-c1c2,trouble alimentaire,,un,,,noun,,food,034
+cosmopolite-5-c1c2,être en chute libre,,,,,phrase,,none,034
+cosmopolite-5-c1c2,être en forte progression,,,,,phrase,,none,034
+cosmopolite-5-c1c2,application,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,apprivoiser,,,,,verb,,shopping,035
+cosmopolite-5-c1c2,avoir du mal à écouler les stocks,,,,,phrase,,shopping,035
+cosmopolite-5-c1c2,caddie,,un,,,noun,,shopping,035
+cosmopolite-5-c1c2,carte de fidélité,,une,,,noun,,shopping,035
+cosmopolite-5-c1c2,carte vitale,,une,,,noun,,shopping,035
+cosmopolite-5-c1c2,charrette,,une,,,noun,,shopping,035
+cosmopolite-5-c1c2,consommateur,,un,,,noun,,shopping,035
+cosmopolite-5-c1c2,consommateur,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,faire du volume,,,,,phrase,,shopping,035
+cosmopolite-5-c1c2,ferme,,la,,,noun,,food,035
+cosmopolite-5-c1c2,grande distribution,,la,,,noun,,shopping,035
+cosmopolite-5-c1c2,grande distribution,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,gérant,,le,,,noun,,shopping,035
+cosmopolite-5-c1c2,imposer ses prix,,,,,phrase,,shopping,035
+cosmopolite-5-c1c2,label,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,magasin de producteurs,,un,,,noun,,shopping,035
+cosmopolite-5-c1c2,marché,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,marque,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,mention,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,mettre en rayon,,,,,phrase,,shopping,035
+cosmopolite-5-c1c2,offre,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,paysan,,un,,,noun,,food,035
+cosmopolite-5-c1c2,paysanne,,une,,,noun,,food,035
+cosmopolite-5-c1c2,production,,la,,,noun,,food,035
+cosmopolite-5-c1c2,produit,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,quotas laitiers,,les,,,noun,,food,035
+cosmopolite-5-c1c2,rayonner,,,,,verb,,shopping,035
+cosmopolite-5-c1c2,responsable d'étage,,le,,,noun,,shopping,035
+cosmopolite-5-c1c2,responsable des achats,,le,,,noun,,shopping,035
+cosmopolite-5-c1c2,s'approvisionner,,,,,verb,,shopping,035
+cosmopolite-5-c1c2,slogan,,,,,noun,,shopping,035
+cosmopolite-5-c1c2,standard européen,,un,,,noun,,food,035
+cosmopolite-5-c1c2,supermarché,,un,,,noun,,shopping,035
+cosmopolite-5-c1c2,terroir,,le,,,noun,,food,035
+cosmopolite-5-c1c2,élevage laitier,,l',,,noun,,food,035
+cosmopolite-5-c1c2,éleveur,,un,,,noun,,food,035
+cosmopolite-5-c1c2,éleveuse,,une,,,noun,,food,035
+cosmopolite-5-c1c2,être en rupture de stock,,,,,phrase,,shopping,035
+cosmopolite-5-c1c2,être fidèle,,,,,phrase,,shopping,035
+cosmopolite-5-c1c2,aimant,,,,,noun,,none,043
+cosmopolite-5-c1c2,membrane,,,,,noun,,health,043
+cosmopolite-5-c1c2,fourmillement,,,,,noun,,health,047
+cosmopolite-5-c1c2,fusible,,,,,noun,,none,047
+cosmopolite-5-c1c2,accepter une idée,,,,,phrase,,none,048
+cosmopolite-5-c1c2,avoir peur,,,,,phrase,,none,048
+cosmopolite-5-c1c2,cabinet de médecin,,un,,,noun,,health,048
+cosmopolite-5-c1c2,cellules,,,,,noun,,health,048
+cosmopolite-5-c1c2,chimiothérapie,,,,,noun,,health,048
+cosmopolite-5-c1c2,chirurgie,,,,,noun,,health,048
+cosmopolite-5-c1c2,collègue,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,dire,,,,,verb,,none,048
+cosmopolite-5-c1c2,directeur de cabinet,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,doyen d'université,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,désapprobateur,,,,,adjective,,none,048
+cosmopolite-5-c1c2,désertification médicale,,la,,,noun,,health,048
+cosmopolite-5-c1c2,enquête,,une,,,noun,,none,048
+cosmopolite-5-c1c2,fonctionnaire,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,groupe de personnes engagées dans une étude médicale,,un,,,noun,,health,048
+cosmopolite-5-c1c2,généraliste,,un,,,noun,,health,048
+cosmopolite-5-c1c2,interne,,un,,,noun,,health,048
+cosmopolite-5-c1c2,manque de médecins,,le,,,noun,,health,048
+cosmopolite-5-c1c2,médecin,,un,,,noun,,health,048
+cosmopolite-5-c1c2,médecin de campagne,,un,,,noun,,health,048
+cosmopolite-5-c1c2,médecin du travail,,un,,,noun,,health,048
+cosmopolite-5-c1c2,médecin rural,,un,,,noun,,health,048
+cosmopolite-5-c1c2,ne pas faire confiance,,,,,phrase,,none,048
+cosmopolite-5-c1c2,opérer,,,,,verb,,health,048
+cosmopolite-5-c1c2,organe,,,,,noun,,health,048
+cosmopolite-5-c1c2,pair,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,patient,,,,,noun,,health,048
+cosmopolite-5-c1c2,personnes interviewées,,les,,,noun,,none,048
+cosmopolite-5-c1c2,préfet,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,pénurie de médicaments,,la,,,noun,,health,048
+cosmopolite-5-c1c2,radiothérapie,,,,,noun,,health,048
+cosmopolite-5-c1c2,recevoir des informations pour les conserver,,,,,phrase,,none,048
+cosmopolite-5-c1c2,refuser,,,,,verb,,none,048
+cosmopolite-5-c1c2,se dédier corps et âme à,,,,,phrase,,none,048
+cosmopolite-5-c1c2,se préoccuper de,,,,,verb,,none,048
+cosmopolite-5-c1c2,se sacrifier pour,,,,,verb,,none,048
+cosmopolite-5-c1c2,sous-préfet,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,stagiaire,,un,,,noun,,profession,048
+cosmopolite-5-c1c2,tissus,,,,,noun,,health,048
+cosmopolite-5-c1c2,traitement,,,,,noun,,health,048
+cosmopolite-5-c1c2,traiter,,,,,verb,,health,048
+cosmopolite-5-c1c2,tumeur,,,,,noun,,health,048
+cosmopolite-5-c1c2,bachotage,,le,,,noun,,school,049
+cosmopolite-5-c1c2,concours,,le,,,noun,,school,049
+cosmopolite-5-c1c2,discipline ésotérique,,,,,noun,,health,049
+cosmopolite-5-c1c2,faculté,,la,,,noun,,school,049
+cosmopolite-5-c1c2,fake médecine,,,,,noun,,health,049
+cosmopolite-5-c1c2,MAC,,,,,noun,,health,049
+cosmopolite-5-c1c2,médecine complémentaire,,,,,noun,,health,049
+cosmopolite-5-c1c2,médecine conventionnelle,,,,,noun,,health,049
+cosmopolite-5-c1c2,médecine naturelle,,,,,noun,,health,049
+cosmopolite-5-c1c2,numerus clausus,,le,,,noun,,school,049
+cosmopolite-5-c1c2,primant,,le,,,noun,,school,049
+cosmopolite-5-c1c2,prépa,,la,,,noun,,school,049
+cosmopolite-5-c1c2,redoublant,,le,,,noun,,school,049
+cosmopolite-5-c1c2,tutorat,,le,,,noun,,school,049
+cosmopolite-5-c1c2,briser les modèles,,,,,phrase,,none,060
+cosmopolite-5-c1c2,casser les codes,,,,,phrase,,none,060
+cosmopolite-5-c1c2,complexe,,un,,,noun,,none,060
+cosmopolite-5-c1c2,discriminer,,,,,verb,,none,060
+cosmopolite-5-c1c2,défaut,,un,,,noun,,none,060
+cosmopolite-5-c1c2,norme,,une,,,noun,,none,060
+cosmopolite-5-c1c2,photoshopper,,,,,verb,,communication,060
+cosmopolite-5-c1c2,retoucher une photo,,,,,phrase,,communication,060
+cosmopolite-5-c1c2,s'accepter,,,,,verb,,none,060
+cosmopolite-5-c1c2,s'assumer,,,,,verb,,none,060
+cosmopolite-5-c1c2,se sentir bien dans son corps,,,,,phrase,,none,060
+cosmopolite-5-c1c2,standard,,un,,,noun,,none,060
+cosmopolite-5-c1c2,stigmatiser,,,,,verb,,none,060
+cosmopolite-5-c1c2,être bien dans sa peau,,,,,phrase,,none,060
+cosmopolite-5-c1c2,armé,,,,,adjective,,none,074
+cosmopolite-5-c1c2,ceux d'en haut,,,,,phrase,,none,074
+cosmopolite-5-c1c2,coupable,,,,,adjective,,none,074
+cosmopolite-5-c1c2,derrière les barreaux,,,,,phrase,,none,074
+cosmopolite-5-c1c2,fort,,,,,adjective,,none,074
+cosmopolite-5-c1c2,gagnant,,,,,adjective,,none,074
+cosmopolite-5-c1c2,lâche,,,,,adjective,,none,074
+cosmopolite-5-c1c2,prédateur,,,,,noun,,none,074
+cosmopolite-5-c1c2,éclairé,,,,,adjective,,none,074
+cosmopolite-5-c1c2,apaiser,,,,,verb,,none,075
+cosmopolite-5-c1c2,bouc-émissaire,,,,,noun,,none,075
+cosmopolite-5-c1c2,crépuscule,,,,,noun,,none,075
+cosmopolite-5-c1c2,départ,,,,,noun,,travel,075
+cosmopolite-5-c1c2,errer,,,,,verb,,none,075
+cosmopolite-5-c1c2,estimation,,,,,noun,,none,075
+cosmopolite-5-c1c2,fracturé,,,,,adjective,,none,075
+cosmopolite-5-c1c2,fuir,,,,,verb,,travel,075
+cosmopolite-5-c1c2,hiérarchiser,,,,,verb,,none,075
+cosmopolite-5-c1c2,immigration,,,,,noun,,travel,075
+cosmopolite-5-c1c2,immigré,,,,,noun,,travel,075
+cosmopolite-5-c1c2,marcher,,,,,verb,,none,075
+cosmopolite-5-c1c2,migrant,,,,,noun,,travel,075
+cosmopolite-5-c1c2,migrants,,,,,noun,,travel,075
+cosmopolite-5-c1c2,ombres,,,,,noun,,none,075
+cosmopolite-5-c1c2,passage,,,,,noun,,travel,075
+cosmopolite-5-c1c2,réfugiés,,,,,noun,,travel,075
+cosmopolite-5-c1c2,se presser,,,,,verb,,none,075
+cosmopolite-5-c1c2,se retourner,,,,,verb,,none,075
+cosmopolite-5-c1c2,xénophobie,,,,,noun,,none,075
+cosmopolite-5-c1c2,burn-out,,un,,,noun,,profession,086
+cosmopolite-5-c1c2,cadre,,un,,,noun,,profession,086
+cosmopolite-5-c1c2,chef d'entreprise,,un,,,noun,,profession,086
+cosmopolite-5-c1c2,chef d'entreprise,,,,,noun,,profession,086
+cosmopolite-5-c1c2,dirigé,,,,,adjective,,profession,086
+cosmopolite-5-c1c2,ensemble des employés,,l',,,noun,,profession,086
+cosmopolite-5-c1c2,entreprise,,,,,noun,,profession,086
+cosmopolite-5-c1c2,flex office,,un,,,noun,,profession,086
+cosmopolite-5-c1c2,hiérarchie,,,,,noun,,profession,086
+cosmopolite-5-c1c2,management,,le,,,noun,,profession,086
+cosmopolite-5-c1c2,managérial,,,,,adjective,,profession,086
+cosmopolite-5-c1c2,modèle de gestion,,,,,noun,,profession,086
+cosmopolite-5-c1c2,open space,,un,,,noun,,profession,086
+cosmopolite-5-c1c2,patron,,,,,noun,,profession,086
+cosmopolite-5-c1c2,relation humaine,,,,,noun,,profession,086
+cosmopolite-5-c1c2,salarié,,,,,noun,,profession,086
+cosmopolite-5-c1c2,travail collaboratif,,,,,noun,,profession,086
+cosmopolite-5-c1c2,acquis social,,,,,noun,,profession,087
+cosmopolite-5-c1c2,contestation,,,,,noun,,profession,087
+cosmopolite-5-c1c2,coût avantageux de la vie,,le,,,noun,,none,087
+cosmopolite-5-c1c2,discussion,,,,,noun,,none,087
+cosmopolite-5-c1c2,débaucher,,,,,verb,,profession,087
+cosmopolite-5-c1c2,délégué,,,,,noun,,profession,087
+cosmopolite-5-c1c2,eldorado de l'embauche,,un,,,noun,,profession,087
+cosmopolite-5-c1c2,journée à rallonge,,,,,noun,,profession,087
+cosmopolite-5-c1c2,management participatif,,,,,noun,,profession,087
+cosmopolite-5-c1c2,misère,,,,,noun,,none,087
+cosmopolite-5-c1c2,négociation,,,,,noun,,profession,087
+cosmopolite-5-c1c2,ouvrier,,,,,noun,,profession,087
+cosmopolite-5-c1c2,pauvreté,,,,,noun,,none,087
+cosmopolite-5-c1c2,plein emploi,,le,,,noun,,profession,087
+cosmopolite-5-c1c2,protestation,,,,,noun,,profession,087
+cosmopolite-5-c1c2,présentéisme,,,,,noun,,profession,087
+cosmopolite-5-c1c2,pénurie de main-d'œuvre,,la,,,noun,,profession,087
+cosmopolite-5-c1c2,ratisser large,,,,,phrase,,profession,087
+cosmopolite-5-c1c2,recommencer à zéro,,,,,phrase,,none,087
+cosmopolite-5-c1c2,représentant,,,,,noun,,profession,087
+cosmopolite-5-c1c2,réunionite,,,,,noun,,profession,087
+cosmopolite-5-c1c2,travailleur,,,,,noun,,profession,087
+cosmopolite-5-c1c2,dialogue fleuve,,,,,noun,,none,093
+cosmopolite-5-c1c2,friand,,,,,adjective,,none,093
+cosmopolite-5-c1c2,antipathique,,,,,adjective,,none,100
+cosmopolite-5-c1c2,avoir besoin de réconfort,,,,,phrase,,none,100
+cosmopolite-5-c1c2,avoir le vague à l'âme,,,,,phrase,,none,100
+cosmopolite-5-c1c2,bouleversé,,,,,adjective,,none,100
+cosmopolite-5-c1c2,génial,,,,,adjective,,none,100
+cosmopolite-5-c1c2,impressionné,,,,,adjective,,none,100
+cosmopolite-5-c1c2,indifférent,,,,,adjective,,none,100
+cosmopolite-5-c1c2,insupportable,,,,,adjective,,none,100
+cosmopolite-5-c1c2,magistral,,,,,adjective,,none,100
+cosmopolite-5-c1c2,meilleur,,,,,adjective,,none,100
+cosmopolite-5-c1c2,moyen,,,,,adjective,,none,100
+cosmopolite-5-c1c2,médiocre,,,,,adjective,,none,100
+cosmopolite-5-c1c2,odieux,,,,,adjective,,none,100
+cosmopolite-5-c1c2,plaisant,,,,,adjective,,none,100
+cosmopolite-5-c1c2,pénible,,,,,adjective,,none,100
+cosmopolite-5-c1c2,ressentir de la joie de vivre,,,,,phrase,,none,100
+cosmopolite-5-c1c2,sublime,,,,,adjective,,none,100
+cosmopolite-5-c1c2,touché,,,,,adjective,,none,100
+cosmopolite-5-c1c2,éprouver du bien-être,,,,,phrase,,none,100
+cosmopolite-5-c1c2,être déprimé,,,,,phrase,,none,100
+cosmopolite-5-c1c2,être désenchanté,,,,,phrase,,none,100
+cosmopolite-5-c1c2,être libéré des pensées négatives,,,,,phrase,,none,100
+cosmopolite-5-c1c2,être morose,,,,,phrase,,none,100
+cosmopolite-5-c1c2,être épanoui,,,,,phrase,,none,100
+cosmopolite-5-c1c2,affranchi,,,,,adjective,,none,101
+cosmopolite-5-c1c2,angoisse,,,,,noun,,none,101
+cosmopolite-5-c1c2,asservir,,,,,verb,,none,101
+cosmopolite-5-c1c2,assujettir,,,,,verb,,none,101
+cosmopolite-5-c1c2,bien-être,,,,,noun,,none,101
+cosmopolite-5-c1c2,caresser,,,,,verb,,none,101
+cosmopolite-5-c1c2,chien pédagogique,,,,,noun,,school,101
+cosmopolite-5-c1c2,comportemental,,,,,adjective,,none,101
+cosmopolite-5-c1c2,cruauté,,,,,noun,,none,101
+cosmopolite-5-c1c2,défendre,,,,,verb,,none,101
+cosmopolite-5-c1c2,forcer,,,,,verb,,none,101
+cosmopolite-5-c1c2,franc arbitre,,le,,,noun,,none,101
+cosmopolite-5-c1c2,inclusion scolaire,,,,,noun,,school,101
+cosmopolite-5-c1c2,interdire,,,,,verb,,none,101
+cosmopolite-5-c1c2,joug,,le,,,noun,,none,101
+cosmopolite-5-c1c2,libérer la parole,,,,,phrase,,communication,101
+cosmopolite-5-c1c2,libéré,,,,,adjective,,none,101
+cosmopolite-5-c1c2,loi,,la,,,noun,,none,101
+cosmopolite-5-c1c2,mise à mort,,,,,noun,,none,101
+cosmopolite-5-c1c2,moyen de communiquer,,,,,phrase,,communication,101
+cosmopolite-5-c1c2,médiation animale,,,,,noun,,none,101
+cosmopolite-5-c1c2,obliger,,,,,verb,,none,101
+cosmopolite-5-c1c2,préservé,,,,,adjective,,none,101
+cosmopolite-5-c1c2,quand bon me semble,,,,,phrase,,none,101
+cosmopolite-5-c1c2,quand le désir me vient,,,,,phrase,,none,101
+cosmopolite-5-c1c2,responsabilité,,,,,noun,,none,101
+cosmopolite-5-c1c2,règle,,la,,,noun,,none,101
+cosmopolite-5-c1c2,sensibilité,,,,,noun,,none,101
+cosmopolite-5-c1c2,servitude,,la,,,noun,,none,101
+cosmopolite-5-c1c2,trait d'union entre les humains,,,,,phrase,,none,101
+cosmopolite-5-c1c2,volonté,,la,,,noun,,none,101
+cosmopolite-5-c1c2,élève en situation de handicap,,,,,phrase,,school,101
+cosmopolite-5-c1c2,admission,,,,,noun,,communication,112
+cosmopolite-5-c1c2,ardue,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,assujettir,,,,,verb,,none,112
+cosmopolite-5-c1c2,autocratique,,,,,adjective,,none,112
+cosmopolite-5-c1c2,belle,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,chef d'État,,,,,noun,,communication,112
+cosmopolite-5-c1c2,choisi,,,,,adjective,,none,112
+cosmopolite-5-c1c2,colonisé,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,Congrès,,,,,noun,,communication,112
+cosmopolite-5-c1c2,constitution,,,,,noun,,communication,112
+cosmopolite-5-c1c2,continuation,,,,,noun,,communication,112
+cosmopolite-5-c1c2,cosmopolite,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,despote,,,,,noun,,communication,112
+cosmopolite-5-c1c2,dirigeant,,,,,noun,,communication,112
+cosmopolite-5-c1c2,démocratique,,,,,adjective,,none,112
+cosmopolite-5-c1c2,en partage,,,,,phrase,,communication,112
+cosmopolite-5-c1c2,fière,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,guindée,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,honnête,,,,,adjective,,none,112
+cosmopolite-5-c1c2,hôte,,,,,noun,,communication,112
+cosmopolite-5-c1c2,imposé,,,,,adjective,,none,112
+cosmopolite-5-c1c2,insignifiant,,,,,adjective,,none,112
+cosmopolite-5-c1c2,intarissable,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,logique,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,monarque,,,,,noun,,communication,112
+cosmopolite-5-c1c2,mélodieuse,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,obligatoire,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,prestigieux,,,,,adjective,,none,112
+cosmopolite-5-c1c2,puissante,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,pérenniser,,,,,verb,,none,112
+cosmopolite-5-c1c2,qualité,,,,,noun,,none,112
+cosmopolite-5-c1c2,rayonnement,,,,,noun,,communication,112
+cosmopolite-5-c1c2,riche,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,résolution,,,,,noun,,communication,112
+cosmopolite-5-c1c2,Sommet,,,,,noun,,communication,112
+cosmopolite-5-c1c2,stopper,,,,,verb,,none,112
+cosmopolite-5-c1c2,suprématie,,,,,noun,,communication,112
+cosmopolite-5-c1c2,tare,,,,,noun,,none,112
+cosmopolite-5-c1c2,truqué,,,,,adjective,,none,112
+cosmopolite-5-c1c2,élitiste,,,,,adjective,,communication,112
+cosmopolite-5-c1c2,émanciper,,,,,verb,,none,112
+cosmopolite-5-c1c2,beau langage,,le,,,noun,,communication,113
+cosmopolite-5-c1c2,crevé,,,,,adjective,,none,113
+cosmopolite-5-c1c2,destinée,,la,,,noun,,none,113
+cosmopolite-5-c1c2,déformé,,,,,adjective,,none,113
+cosmopolite-5-c1c2,gourd,,,,,adjective,,none,113
+cosmopolite-5-c1c2,patois,,le,,,noun,,communication,113
+cosmopolite-5-c1c2,petite ascension sociale,,une,,,noun,,none,113
+cosmopolite-5-c1c2,angélisme,,,,,noun,,none,119
+cosmopolite-5-c1c2,caméra miniature,,,,,noun,,none,127
+cosmopolite-5-c1c2,client,,le,,,noun,,communication,127
+cosmopolite-5-c1c2,comparaison,,une,,,noun,,communication,127
+cosmopolite-5-c1c2,compromettre,,,,,verb,,communication,127
+cosmopolite-5-c1c2,frapper,,,,,verb,,communication,127
+cosmopolite-5-c1c2,implant,,,,,noun,,none,127
+cosmopolite-5-c1c2,intelligence artificielle,,,,,noun,,none,127
+cosmopolite-5-c1c2,interface,,,,,noun,,none,127
+cosmopolite-5-c1c2,métaphore,,une,,,noun,,communication,127
+cosmopolite-5-c1c2,métaphore filée,,une,,,noun,,communication,127
+cosmopolite-5-c1c2,neurone numérique,,,,,noun,,none,127
+cosmopolite-5-c1c2,par erreur,,,,,phrase,,communication,127
+cosmopolite-5-c1c2,personnification,,une,,,noun,,communication,127
+cosmopolite-5-c1c2,prouver sa bonne foi,,,,,phrase,,communication,127
+cosmopolite-5-c1c2,puce,,,,,noun,,none,127
+cosmopolite-5-c1c2,s'implanter,,,,,verb,,none,127
+cosmopolite-5-c1c2,tombe à mensonges,,une,,,noun,,communication,127
+cosmopolite-5-c1c2,à très haut débit,,,,,phrase,,none,127
+cosmopolite-5-c1c2,électrode,,,,,noun,,none,127
+cosmopolite-5-c1c2,bien documentés,,,,,adjective,,school,138
+cosmopolite-5-c1c2,contenu historique,,,,,noun,,school,138
+cosmopolite-5-c1c2,Cour de justice,,la,,,noun,,none,138
+cosmopolite-5-c1c2,crise,,la,,,noun,,none,138
+cosmopolite-5-c1c2,droits de douane,,les,,,noun,,none,138
+cosmopolite-5-c1c2,développer l'économie,,,,,phrase,,none,138
+cosmopolite-5-c1c2,effets sur la vie quotidienne,,les,,,noun,,none,138
+cosmopolite-5-c1c2,euroscepticisme,,l',,,noun,,none,138
+cosmopolite-5-c1c2,garantir la paix,,,,,phrase,,none,138
+cosmopolite-5-c1c2,institutions,,les,,,noun,,none,138
+cosmopolite-5-c1c2,introduire le jeu vidéo,,,,,phrase,,school,138
+cosmopolite-5-c1c2,issus de manuels d'histoire,,,,,phrase,,school,138
+cosmopolite-5-c1c2,mémoire,,la,,,noun,,school,138
+cosmopolite-5-c1c2,objectifs initiaux,,les,,,noun,,none,138
+cosmopolite-5-c1c2,outil pédagogique supplémentaire,,un,,,noun,,school,138
+cosmopolite-5-c1c2,panafricanisme,,le,,,noun,,none,138
+cosmopolite-5-c1c2,Parlement,,le,,,noun,,none,138
+cosmopolite-5-c1c2,pensée historienne,,la,,,noun,,school,138
+cosmopolite-5-c1c2,processus d'intégration,,un,,,noun,,none,138
+cosmopolite-5-c1c2,pères fondateurs,,les,,,noun,,none,138
+cosmopolite-5-c1c2,reconstruire l'Europe de l'Ouest,,,,,phrase,,none,138
+cosmopolite-5-c1c2,remettre en question la crédibilité du jeu,,,,,phrase,,school,138
+cosmopolite-5-c1c2,repérer les invraisemblances historiques,,,,,phrase,,school,138
+cosmopolite-5-c1c2,s'immerger dans un passé reconstitué et vivant,,,,,phrase,,school,138
+cosmopolite-5-c1c2,se déplacer librement dans n'importe quel pays de l'UE,,,,,phrase,,none,138
+cosmopolite-5-c1c2,sortie d'un état membre,,la,,,noun,,none,138
+cosmopolite-5-c1c2,support de cours,,,,,noun,,school,138
+cosmopolite-5-c1c2,traiter de l'Empire romain,,,,,phrase,,school,138
+cosmopolite-5-c1c2,utiliser une monnaie commune,,,,,phrase,,none,138
+cosmopolite-5-c1c2,zone de libre-échange,,une,,,noun,,none,138
+cosmopolite-5-c1c2,à avoir du recul,,,,,phrase,,school,138
+cosmopolite-5-c1c2,à ne pas croire aux récits historiques de ces jeux,,,,,phrase,,school,138
+cosmopolite-5-c1c2,éveiller l'esprit critique des élèves,,,,,phrase,,school,138
+cosmopolite-5-c1c2,assassin,,,,,noun,,none,139
+cosmopolite-5-c1c2,audience,,,,,noun,,none,139
+cosmopolite-5-c1c2,auditoire,,,,,noun,,none,139
+cosmopolite-5-c1c2,auteur des faits,,,,,noun,,none,139
+cosmopolite-5-c1c2,avocat,,,,,noun,,none,139
+cosmopolite-5-c1c2,complice,,,,,noun,,none,139
+cosmopolite-5-c1c2,empreinte digitale,,,,,noun,,none,139
+cosmopolite-5-c1c2,escroquerie,,,,,noun,,none,139
+cosmopolite-5-c1c2,grand banditisme,,,,,noun,,none,139
+cosmopolite-5-c1c2,juge,,,,,noun,,none,139
+cosmopolite-5-c1c2,juré,,,,,noun,,none,139
+cosmopolite-5-c1c2,magistrat,,,,,noun,,none,139
+cosmopolite-5-c1c2,parties civiles,,,,,noun,,none,139
+cosmopolite-5-c1c2,preuve,,,,,noun,,none,139
+cosmopolite-5-c1c2,procès,,,,,noun,,none,139
+cosmopolite-5-c1c2,terrorisme,,,,,noun,,none,139
+cosmopolite-5-c1c2,témoin,,,,,noun,,none,139
+cosmopolite-5-c1c2,verdict,,,,,noun,,none,139
+cosmopolite-5-c1c2,burlesque,,le,,,noun,,hobby,152
+cosmopolite-5-c1c2,comique hexagonal,,le,,,noun,,hobby,152
+cosmopolite-5-c1c2,commercial,,,,,adjective,,hobby,152
+cosmopolite-5-c1c2,commercialisation,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,comédie de boulevard,,la,,,noun,,hobby,152
+cosmopolite-5-c1c2,comédie populaire,,la,,,noun,,hobby,152
+cosmopolite-5-c1c2,consommation culturelle,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,culture,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,culturel,,,,,adjective,,hobby,152
+cosmopolite-5-c1c2,esthétique,,,,,adjective,,hobby,152
+cosmopolite-5-c1c2,exposer,,,,,verb,,hobby,152
+cosmopolite-5-c1c2,exposition,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,institution,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,lieu de culture et de divertissement,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,masse de visiteurs,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,musée,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,produit,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,pédagogique,,,,,adjective,,hobby,152
+cosmopolite-5-c1c2,quiproquo,,le,,,noun,,hobby,152
+cosmopolite-5-c1c2,racoleur,,,,,adjective,,hobby,152
+cosmopolite-5-c1c2,vaudeville,,le,,,noun,,hobby,152
+cosmopolite-5-c1c2,œuvre d'art,,,,,noun,,hobby,152
+cosmopolite-5-c1c2,attribut,,,,,noun,,none,153
+cosmopolite-5-c1c2,autochtone,,,,,adjective,,none,153
+cosmopolite-5-c1c2,blesser,,,,,verb,,none,153
+cosmopolite-5-c1c2,cliché,,,,,noun,,none,153
+cosmopolite-5-c1c2,code socioculturel,,,,,noun,,travel,153
+cosmopolite-5-c1c2,conserver la face,,,,,phrase,,travel,153
+cosmopolite-5-c1c2,copier,,,,,verb,,none,153
+cosmopolite-5-c1c2,divertissant,,,,,adjective,,none,153
+cosmopolite-5-c1c2,dégradant,,,,,adjective,,none,153
+cosmopolite-5-c1c2,hospitalité,,,,,noun,,travel,153
+cosmopolite-5-c1c2,humiliant,,,,,adjective,,none,153
+cosmopolite-5-c1c2,implicite,,,,,adjective,,travel,153
+cosmopolite-5-c1c2,indigène,,,,,adjective,,none,153
+cosmopolite-5-c1c2,indélicat,,,,,adjective,,travel,153
+cosmopolite-5-c1c2,malentendu,,,,,noun,,travel,153
+cosmopolite-5-c1c2,mauvaise répercussion,,,,,noun,,none,153
+cosmopolite-5-c1c2,mettre en lumière,,,,,phrase,,none,153
+cosmopolite-5-c1c2,mœurs,,,,,noun,,travel,153
+cosmopolite-5-c1c2,niché,,,,,adjective,,travel,153
+cosmopolite-5-c1c2,offenser,,,,,verb,,none,153
+cosmopolite-5-c1c2,relation interpersonnelle,,,,,noun,,travel,153
+cosmopolite-5-c1c2,rendre hommage,,,,,phrase,,none,153
+cosmopolite-5-c1c2,reprendre,,,,,verb,,none,153
+cosmopolite-5-c1c2,ridiculiser,,,,,verb,,none,153
+cosmopolite-5-c1c2,règle,,,,,noun,,travel,153
+cosmopolite-5-c1c2,récréatif,,,,,adjective,,none,153
+cosmopolite-5-c1c2,se moquer,,,,,verb,,none,153
+cosmopolite-5-c1c2,singularité,,,,,noun,,none,153
+cosmopolite-5-c1c2,stéréotype,,,,,noun,,none,153
+cosmopolite-5-c1c2,séquelle,,,,,noun,,none,153
+cosmopolite-5-c1c2,valeur,,,,,noun,,travel,153
+cosmopolite-5-c1c2,acidification des eaux superficielles,,l',,,noun,,weather,164
+cosmopolite-5-c1c2,canicule,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,captation de CO2 atmosphérique,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,changement des comportements individuels,,le,,,noun,,weather,164
+cosmopolite-5-c1c2,climatoscepticisme,,,,,noun,,none,164
+cosmopolite-5-c1c2,consensus scientifique,,,,,noun,,none,164
+cosmopolite-5-c1c2,conspiration,,,,,noun,,none,164
+cosmopolite-5-c1c2,contre l'obscurantisme,,,,,phrase,,none,164
+cosmopolite-5-c1c2,cyclone,,un,,,noun,,weather,164
+cosmopolite-5-c1c2,diffamation,,,,,noun,,none,164
+cosmopolite-5-c1c2,diminution des récoltes,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,diminution des émissions de gaz à effet de serre,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,disparition des espèces,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,disparition possible de la banquise,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,décarbonisation,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,développement durable,,le,,,noun,,weather,164
+cosmopolite-5-c1c2,neutralité carbone,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,négationniste,,,,,adjective,,none,164
+cosmopolite-5-c1c2,perte de l'aire naturelle,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,remise en cause des pratiques,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,sécheresse,,la,,,noun,,weather,164
+cosmopolite-5-c1c2,unanimité,,,,,noun,,none,164
+cosmopolite-5-c1c2,vagues de chaleur,,les,,,noun,,weather,164
+cosmopolite-5-c1c2,alliance,,,,,noun,,none,165
+cosmopolite-5-c1c2,autoritaire,,,,,adjective,,none,165
+cosmopolite-5-c1c2,autosuffisant,,,,,adjective,,food,165
+cosmopolite-5-c1c2,avancer,,,,,verb,,communication,165
+cosmopolite-5-c1c2,bergerie,,,,,noun,,food,165
+cosmopolite-5-c1c2,bio,,,,,adjective,,food,165
+cosmopolite-5-c1c2,bétail,,,,,noun,,food,165
+cosmopolite-5-c1c2,cabane en bois,,,,,noun,,food,165
+cosmopolite-5-c1c2,candidat,,,,,noun,,none,165
+cosmopolite-5-c1c2,capitalisme,,le,,,noun,,none,165
+cosmopolite-5-c1c2,champs de coton,,,,,noun,,shopping,165
+cosmopolite-5-c1c2,charrue,,,,,noun,,food,165
+cosmopolite-5-c1c2,coercitif,,,,,adjective,,none,165
+cosmopolite-5-c1c2,communisme,,le,,,noun,,none,165
+cosmopolite-5-c1c2,dictatorial,,,,,adjective,,none,165
+cosmopolite-5-c1c2,décroissance,,,,,noun,,none,165
+cosmopolite-5-c1c2,démocratique,,,,,adjective,,none,165
+cosmopolite-5-c1c2,député,,un,,,noun,,none,165
+cosmopolite-5-c1c2,désastre environnemental,,,,,noun,,shopping,165
+cosmopolite-5-c1c2,forger,,,,,verb,,communication,165
+cosmopolite-5-c1c2,friperie,,,,,noun,,shopping,165
+cosmopolite-5-c1c2,grande chaîne de prêt-à-porter,,,,,noun,,shopping,165
+cosmopolite-5-c1c2,industrie textile,,,,,noun,,shopping,165
+cosmopolite-5-c1c2,liberticide,,,,,adjective,,none,165
+cosmopolite-5-c1c2,lopin de terre,,,,,noun,,food,165
+cosmopolite-5-c1c2,lutte,,,,,noun,,none,165
+cosmopolite-5-c1c2,militant,,un,,,noun,,none,165
+cosmopolite-5-c1c2,militant,,,,,noun,,none,165
+cosmopolite-5-c1c2,panneaux photovoltaïques,,,,,noun,,home,165
+cosmopolite-5-c1c2,pesticide,,,,,noun,,shopping,165
+cosmopolite-5-c1c2,politique,,,,,adjective,,none,165
+cosmopolite-5-c1c2,postulat,,,,,noun,,none,165
+cosmopolite-5-c1c2,potager,,,,,noun,,food,165
+cosmopolite-5-c1c2,pouvoir,,,,,noun,,none,165
+cosmopolite-5-c1c2,produire,,,,,verb,,food,165
+cosmopolite-5-c1c2,proférer,,,,,verb,,communication,165
+cosmopolite-5-c1c2,progressiste,,,,,adjective,,none,165
+cosmopolite-5-c1c2,prêter le flanc,,,,,phrase,,communication,165
+cosmopolite-5-c1c2,puits canadien,,,,,noun,,home,165
+cosmopolite-5-c1c2,pétrole,,,,,noun,,home,165
+cosmopolite-5-c1c2,pêcher,,,,,verb,,food,165
+cosmopolite-5-c1c2,radicalité,,,,,noun,,none,165
+cosmopolite-5-c1c2,remettre en cause,,,,,verb,,communication,165
+cosmopolite-5-c1c2,se prononcer,,,,,verb,,communication,165
+cosmopolite-5-c1c2,socialisme,,le,,,noun,,none,165
+cosmopolite-5-c1c2,sénateur,,un,,,noun,,none,165
+cosmopolite-5-c1c2,totalitaire,,,,,adjective,,none,165
+cosmopolite-5-c1c2,écolo,,,,,adjective,,none,165
+cosmopolite-5-c1c2,écologie,,,,,noun,,none,165
+cosmopolite-5-c1c2,élection présidentielle,,,,,noun,,none,165
+cosmopolite-5-c1c2,électrique,,,,,adjective,,home,165
+cosmopolite-5-c1c2,élever,,,,,verb,,food,165
+cosmopolite-5-c1c2,énergies fossiles,,,,,noun,,home,165
+cosmopolite-5-c1c2,énergies renouvelables,,,,,noun,,home,165
+cosmopolite-5-c1c2,éolienne,,,,,noun,,home,165
+cosmopolite-5-c1c2,étayer,,,,,verb,,communication,165
 pratique-revision-a1,consonnes,,,,,noun,,personal-info,003
 pratique-revision-a1,lettres,,,,,noun,,personal-info,003
 pratique-revision-a1,majuscule,,,,,noun,,personal-info,003
