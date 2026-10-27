@@ -185,7 +185,7 @@ modes" for content-safety handling and disk-truth recovery.
 ### Step 6 — Reconcile transcription to 100% [py]
 
 ```bash
-python _engine/manifest_media.py --root french/extracted qa-apply
+python _engine/manifest_media.py --root french/extracted qa-apply tricolore-1-5th-edition
 python _engine/reconcile.py --root french/extracted tricolore-1-5th-edition
 ```
 

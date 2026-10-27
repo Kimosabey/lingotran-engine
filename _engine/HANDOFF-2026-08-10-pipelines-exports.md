@@ -261,9 +261,10 @@ Next, in order:
   `<!-- QA ISSUES -->` block to the page body. On an accepted-gap page that already
   carries the block, this appends it again, and on Cosmopolite p091 it left a
   broken fragment. One run touched 10 delivered pages (Cosmopolite p091,
-  Tricolore 2 p016/p167-177), which were restored from git. Until it is scoped to
-  named collections and made idempotent, do not run it: `reconcile.py` reads the
-  QA files directly and does not need it.
+  Tricolore 2 p016/p167-177), which were restored from git. **FIXED 2026-10-27**
+  (after it bit a second time on 2026-10-26): `qa-apply` now requires collection
+  slugs or `--all`, strips the block up to its last `-->`, and writes a page only
+  when its text changes; `tests/test_manifest_media.py` covers all three.
 - **`check_exports_current.py` leaves new artifacts behind.** It restores the
   files that existed before its in-place rebuild, but files the rebuild newly
   creates (a just-transcribed book's `<slug>.md` and `-catalog.csv`) stay on

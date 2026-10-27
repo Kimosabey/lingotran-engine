@@ -19,7 +19,8 @@ Usage:
     python _engine/manifest_media.py --root french/extracted init
     python _engine/manifest_media.py --root french/extracted dashboard
     python _engine/manifest_media.py --root french/extracted sync
-    python _engine/manifest_media.py --root french/extracted qa-apply
+    python _engine/manifest_media.py --root french/extracted qa-apply <slug> [<slug> ...]
+    python _engine/manifest_media.py --root french/extracted qa-apply --all
 """
 import glob
 import json
@@ -206,9 +207,28 @@ def sync(root):
     dashboard(root)
 
 
-def qa_apply(root):
+# The block qa_apply appends always sits at the very end of the page, and its
+# issues may themselves quote an `<!-- illegible ... -->` note, so it is matched
+# greedily up to the LAST `-->` before end of file -- a non-greedy match stopped
+# at the quoted note's `-->` and left the block's tail behind on every re-run.
+QA_BLOCK = re.compile(r'\n*<!-- QA ISSUES:.*-->\s*\Z', re.S)
+
+
+def qa_apply(root, slugs):
+    """Fold QA verdicts into page frontmatter for the NAMED collections only
+    (or every collection with `--all`). It used to walk every collection, and
+    so rewrote delivered books whenever it ran. Idempotent: a page is written
+    only when its text actually changes."""
+    collections = load_collection_list(root)
+    if slugs != ['--all']:
+        unknown = sorted(set(slugs) - {c['slug'] for c in collections})
+        if not slugs or unknown:
+            print('Error: qa-apply needs collection slug(s) or --all%s'
+                  % (' (unknown: %s)' % ', '.join(unknown) if unknown else ''))
+            sys.exit(1)
+        collections = [c for c in collections if c['slug'] in slugs]
     applied = 0
-    for c in load_collection_list(root):
+    for c in collections:
         slug = c['slug']
         for sc in sorted(glob.glob(os.path.join(root, slug, 'pages', '_qa', 'page-*.json'))):
             page = os.path.basename(sc)[5:8]
@@ -220,13 +240,15 @@ def qa_apply(root):
             except Exception:
                 continue
             ok = v.get('ok') is True
+            before = open(md, encoding='utf-8').read()
             _set_frontmatter(md, {'status': 'verified' if ok else 'transcribed',
                                    'qa': 'pass' if ok else 'fail'})
             txt = open(md, encoding='utf-8').read()
-            txt = re.sub(r'\n*<!-- QA ISSUES:.*?-->\n*', '\n', txt, flags=re.S).rstrip() + '\n'
+            txt = QA_BLOCK.sub('', txt).rstrip() + '\n'
             if not ok and v.get('issues'):
                 txt += '\n<!-- QA ISSUES:\n' + '\n'.join('- ' + str(i) for i in v['issues']) + '\n-->\n'
-            atomic_write_text(md, txt)
+            if txt != before:
+                atomic_write_text(md, txt)
             applied += 1
     print('Applied %d QA verdicts.' % applied)
     sync(root)
@@ -236,4 +258,7 @@ if __name__ == '__main__':
     argv = sys.argv[1:]
     root = parse_root(argv)
     cmd = argv[0] if argv else 'dashboard'
-    {'init': init, 'dashboard': dashboard, 'sync': sync, 'qa-apply': qa_apply}.get(cmd, dashboard)(root)
+    if cmd == 'qa-apply':
+        qa_apply(root, argv[1:])
+    else:
+        {'init': init, 'dashboard': dashboard, 'sync': sync}.get(cmd, dashboard)(root)
