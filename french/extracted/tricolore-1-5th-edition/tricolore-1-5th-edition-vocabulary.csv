@@ -1504,6 +1504,7 @@ tricolore-1-5th-edition,peu,a little,,,,other,,none,173
 tricolore-1-5th-edition,peu à peu,gradually,,,,phrase,,none,173
 tricolore-1-5th-edition,peuple,"people, population",le,,,noun,,none,173
 tricolore-1-5th-edition,peut,you (one) can (from pouvoir),,,,verb,,none,173
+tricolore-1-5th-edition,peut,that can (from pouvoir),,,,verb,,none,173
 tricolore-1-5th-edition,peut-être,perhaps,,,,adverb,,none,173
 tricolore-1-5th-edition,peux ... ?,can you ... ? (from pouvoir),,,,phrase,,none,173
 tricolore-1-5th-edition,"peux, est-ce que je peux ... ?",can I ... ? (from pouvoir),,,,phrase,,none,173
@@ -1873,6 +1874,7 @@ tricolore-1-5th-edition,trompette,trumpet,une,,,noun,,hobby,174
 tricolore-1-5th-edition,trop ...,too ...,,,,adverb,,none,174
 tricolore-1-5th-edition,trousse,pencil case,une,,,noun,,school,174
 tricolore-1-5th-edition,trouver,to find,,,,verb,,none,174
+tricolore-1-5th-edition,trouver,to be situated,,,,verb,,city-places,174
 tricolore-1-5th-edition,très,very,,,,adverb,,none,174
 tricolore-1-5th-edition,tu,"you (singular, informal) (see p.22)",,,,other,,none,174
 tricolore-1-5th-edition,typique,typical,,,,adjective,,none,174
@@ -1968,6 +1970,7 @@ tricolore-1-5th-edition,aller à la pêche,to go fishing,,,,phrase,,hobby,175
 tricolore-1-5th-edition,ami(e),friend,un(e),,,noun,,none,175
 tricolore-1-5th-edition,Amitiés,best wishes (at end of letter),,,,phrase,,communication,175
 tricolore-1-5th-edition,amusant,"amusing, enjoyable, fun",,,,adjective,,none,175
+tricolore-1-5th-edition,amusant,fun,,,,adjective,,none,175
 tricolore-1-5th-edition,anglais,English,,,,adjective,,school,175
 tricolore-1-5th-edition,Angleterre (f),England,l',f,,noun,,travel,175
 tricolore-1-5th-edition,animal,animal,un,,des animaux,noun,,none,175
@@ -2065,6 +2068,7 @@ tricolore-1-5th-edition,demi,half,,,,adjective,,time-dates,175
 tricolore-1-5th-edition,demi-frère,half brother,un,,,noun,,family,175
 tricolore-1-5th-edition,derrière,behind,,,,preposition,,none,175
 tricolore-1-5th-edition,dessin,"art, drawing",le,,,noun,,school,175
+tricolore-1-5th-edition,dessin,drawing,le,,,noun,,school,175
 tricolore-1-5th-edition,dessin animé,cartoon,un,,,noun,,hobby,175
 tricolore-1-5th-edition,dessiner,to draw,,,,verb,,hobby,175
 tricolore-1-5th-edition,devant,in front of,,,,preposition,,none,175
@@ -2077,6 +2081,7 @@ tricolore-1-5th-edition,décembre,December,,,,noun,,time-dates,175
 tricolore-1-5th-edition,déjà,already,,,,adverb,,none,175
 tricolore-1-5th-edition,délicieux,delicious,,,,adjective,,food,175
 tricolore-1-5th-edition,dîner,dinner (evening meal),le,,,noun,,food,175
+tricolore-1-5th-edition,dîner,evening meal,le,,,noun,,food,175
 tricolore-1-5th-edition,e-mail,email,un,,,noun,,communication,175
 tricolore-1-5th-edition,effacer,to delete,,,,verb,,communication,175
 tricolore-1-5th-edition,en automne,in autumn,,,,phrase,,weather,175
@@ -2100,6 +2105,7 @@ tricolore-1-5th-edition,fermer,to close,,,,verb,,none,175
 tricolore-1-5th-edition,feutre,felt tip pen,un,,,noun,,school,175
 tricolore-1-5th-edition,fichier,file (computer),un,,,noun,,communication,175
 tricolore-1-5th-edition,fille,daughter,une,,,noun,,family,175
+tricolore-1-5th-edition,fille,girl,une,,,noun,,none,175
 tricolore-1-5th-edition,film,film,un,,,noun,,hobby,175
 tricolore-1-5th-edition,finalement,finally,,,,adverb,,none,175
 tricolore-1-5th-edition,flûte,flute,une,,,noun,,hobby,175
@@ -2207,6 +2213,7 @@ tricolore-1-5th-edition,toujours,always,,,,adverb,,none,175
 tricolore-1-5th-edition,"tout (toute, tous, toutes)",all,,,,adjective,,none,175
 tricolore-1-5th-edition,un peu,a bit,,,,adverb,,none,175
 tricolore-1-5th-edition,"un, une",a,,,,other,,none,175
+tricolore-1-5th-edition,"un, une",an,,,,other,,none,175
 tricolore-1-5th-edition,vendredi,Friday,,,,noun,,time-dates,175
 tricolore-1-5th-edition,vert,green,,,,adjective,,none,175
 tricolore-1-5th-edition,violoncelle,cello,un,,,noun,,hobby,175
@@ -2237,6 +2244,7 @@ tricolore-1-5th-edition,assez,quite,,,,adverb,,none,176
 tricolore-1-5th-edition,autre,other,,,,adjective,,none,176
 tricolore-1-5th-edition,avoir,to have,,,,verb,,none,176
 tricolore-1-5th-edition,beaucoup,a lot,,,,adverb,,none,176
+tricolore-1-5th-edition,beaucoup,many,,,,adverb,,none,176
 tricolore-1-5th-edition,bibliothèque,library,une,,,noun,,city-places,176
 tricolore-1-5th-edition,bonjour,hello,,,,phrase,,communication,176
 tricolore-1-5th-edition,brochure,leaflet,une,,,noun,,travel,176
@@ -2398,6 +2406,7 @@ tricolore-1-5th-edition,personne,person,une,,,noun,,none,176
 tricolore-1-5th-edition,petit,little,,,,adjective,,none,176
 tricolore-1-5th-edition,petits pois (m pl),peas,des,m pl,,noun,,food,176
 tricolore-1-5th-edition,peut-être,maybe,,,,adverb,,none,176
+tricolore-1-5th-edition,peut-être,perhaps,,,,adverb,,none,176
 tricolore-1-5th-edition,photographie,photography,la,,,noun,,hobby,176
 tricolore-1-5th-edition,piano,piano,un,,,noun,,hobby,176
 tricolore-1-5th-edition,plan de la ville,map (town),un,,,noun,,travel,176
@@ -2412,6 +2421,7 @@ tricolore-1-5th-edition,près (de),near (to),,,,preposition,,city-places,176
 tricolore-1-5th-edition,préférer,to prefer,,,,verb,,none,176
 tricolore-1-5th-edition,préparer,to prepare,,,,verb,,food,176
 tricolore-1-5th-edition,pull,jumper,un,,,noun,,shopping,176
+tricolore-1-5th-edition,pull,pullover,un,,,noun,,shopping,176
 tricolore-1-5th-edition,pyjama,pyjamas,un,,,noun,,shopping,176
 tricolore-1-5th-edition,pêche,peach,une,,,noun,,food,176
 tricolore-1-5th-edition,quart,quarter,un,,,noun,,time-dates,176
@@ -2421,6 +2431,7 @@ tricolore-1-5th-edition,radio,radio,une,,,noun,,hobby,176
 tricolore-1-5th-edition,regarder,to look at,,,,verb,,none,176
 tricolore-1-5th-edition,religion,religious education,la,,,noun,,school,176
 tricolore-1-5th-edition,rentrer,to go home,,,,verb,,daily-routine,176
+tricolore-1-5th-edition,rentrer,to return (home),,,,verb,,daily-routine,176
 tricolore-1-5th-edition,repas,meal,un,,,noun,,food,176
 tricolore-1-5th-edition,restaurant,restaurant,un,,,noun,,restaurant,176
 tricolore-1-5th-edition,rouge,red,,,,adjective,,none,176
@@ -2437,6 +2448,8 @@ tricolore-1-5th-edition,santé,health,la,,,noun,,health,176
 tricolore-1-5th-edition,seulement,only,,,,adverb,,none,176
 tricolore-1-5th-edition,soirée,party,une,,,noun,,family,176
 tricolore-1-5th-edition,"son, sa, ses",her,,,,other,,none,176
+tricolore-1-5th-edition,"son, sa, ses",his,,,,other,,none,176
+tricolore-1-5th-edition,"son, sa, ses",its,,,,other,,none,176
 tricolore-1-5th-edition,souris,mouse,une,,,noun,,communication,176
 tricolore-1-5th-edition,souvent,often,,,,adverb,,none,176
 tricolore-1-5th-edition,station d'accueil MP3,MP3 dock,une,,,noun,,communication,176
@@ -2451,6 +2464,7 @@ tricolore-1-5th-edition,tapis d'ordinateur,mouse mat,un,,,noun,,communication,17
 tricolore-1-5th-edition,touche,key (on keyboard),une,,,noun,,communication,176
 tricolore-1-5th-edition,tout près,nearby,,,,adverb,,city-places,176
 tricolore-1-5th-edition,tricot,pullover,un,,,noun,,shopping,176
+tricolore-1-5th-edition,tricot,jumper,un,,,noun,,shopping,176
 tricolore-1-5th-edition,trombone,paper clip,un,,,noun,,school,176
 tricolore-1-5th-edition,trousse,pencil case,une,,,noun,,school,176
 tricolore-1-5th-edition,tête,head,la,,,noun,,health,176
@@ -2461,6 +2475,7 @@ tricolore-1-5th-edition,viande,meat,la,,,noun,,food,176
 tricolore-1-5th-edition,"vieux (vieille, vieux, vieilles)",old,,,,adjective,,none,176
 tricolore-1-5th-edition,vite,quickly,,,,adverb,,none,176
 tricolore-1-5th-edition,voici,here are,,,,phrase,,none,176
+tricolore-1-5th-edition,voici,here is,,,,phrase,,none,176
 tricolore-1-5th-edition,voudrais,I would like,je,,,verb,,restaurant,176
 tricolore-1-5th-edition,voyage,journey,un,,,noun,,travel,176
 tricolore-1-5th-edition,vraiment,really,,,,adverb,,none,176
@@ -2581,6 +2596,7 @@ tricolore-1-5th-edition,là,there,,,,adverb,,none,177
 tricolore-1-5th-edition,légume,vegetable,un,,,noun,,food,177
 tricolore-1-5th-edition,magasin,shop,un,,,noun,,shopping,177
 tricolore-1-5th-edition,maillot de bain,swimming costume,un,,,noun,,shopping,177
+tricolore-1-5th-edition,maillot de bain,trunks (swimming),un,,,noun,,shopping,177
 tricolore-1-5th-edition,mardi,Tuesday,,,,noun,,time-dates,177
 tricolore-1-5th-edition,mardi gras,Shrove Tuesday,,,,noun,,vacation,177
 tricolore-1-5th-edition,matière,school subject,une,,,noun,,school,177
@@ -2604,6 +2620,7 @@ tricolore-1-5th-edition,parapluie,umbrella,un,,,noun,,weather,177
 tricolore-1-5th-edition,parc d'attractions,theme park,un,,,noun,,vacation,177
 tricolore-1-5th-edition,pardon!,sorry!,,,,phrase,,communication,177
 tricolore-1-5th-edition,parler,to speak,,,,verb,,communication,177
+tricolore-1-5th-edition,parler,to talk,,,,verb,,communication,177
 tricolore-1-5th-edition,passer,to spend (time),,,,verb,,time-dates,177
 tricolore-1-5th-edition,patins à roulettes (m pl),roller skates,des,m pl,,noun,,hobby,177
 tricolore-1-5th-edition,pays de Galles,Wales,le,,,noun,,travel,177

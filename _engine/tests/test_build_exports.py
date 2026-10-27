@@ -4,12 +4,15 @@ in deliverable CSVs (csv.DictWriter already handles a real Python None
 correctly on its own; wrapping it in ' '.join(str(v).split()) first defeated
 that). Fixed with an explicit None check.
 """
+import json
 import os
+import shutil
 import sys
+import tempfile
 import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from build_exports import _flat, page_title
+from build_exports import _flat, load_vocab_entries, page_title
 
 
 class FlatNoneTests(unittest.TestCase):
@@ -60,6 +63,36 @@ class PageTitleTests(unittest.TestCase):
 
     def test_truncates_to_90_chars(self):
         self.assertEqual(len(page_title('x' * 200)), 90)
+
+
+class VocabDedupeTests(unittest.TestCase):
+    """De-duplication keyed on word + article + page dropped a headword's second
+    printed meaning: Tricolore's 'une fille' (daughter / girl) and Saison 2's
+    'paraitre' (to be published / to appear) each shipped once."""
+
+    def setUp(self):
+        self.root = tempfile.mkdtemp()
+        os.makedirs(os.path.join(self.root, 'book', 'pages', '_vocab'))
+
+    def tearDown(self):
+        shutil.rmtree(self.root, ignore_errors=True)
+
+    def _entries(self, entries):
+        json.dump({'entries': entries},
+                  open(os.path.join(self.root, 'book', 'pages', '_vocab', 'chunk-1.json'), 'w'))
+        return load_vocab_entries(self.root, 'book')
+
+    def test_two_meanings_of_one_headword_both_ship(self):
+        out = self._entries([
+            {'word': 'fille', 'article': 'une', 'source_page': '175', 'translation': 'daughter'},
+            {'word': 'fille', 'article': 'une', 'source_page': '175', 'translation': 'girl'}])
+        self.assertEqual(sorted(e['translation'] for e in out), ['daughter', 'girl'])
+
+    def test_true_duplicate_still_collapses(self):
+        out = self._entries([
+            {'word': 'fille', 'article': 'une', 'source_page': '175', 'translation': 'girl'},
+            {'word': 'Fille ', 'article': 'une', 'source_page': '175', 'translation': ' girl'}])
+        self.assertEqual(len(out), 1)
 
 
 if __name__ == '__main__':

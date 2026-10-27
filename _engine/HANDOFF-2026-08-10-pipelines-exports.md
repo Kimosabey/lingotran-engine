@@ -207,10 +207,12 @@ Next, in order (updated 2026-10-06; steps 1-3 of the 2026-10-01 plan are done an
    reponses" boxes and upside-down quiz keys), 1116 vocabulary rows (426 from the Lexique
    plurilingue with the book's English translation and gender), all gates green, status
    `extracted-ready-to-deliver`, not uploaded. Every French book is now CLEAN under
-   `reconcile --all`. **Open engine issue:** `build_exports.load_vocab_entries` de-duplicates
-   on word + article + page and ignores `translation`, so a headword printed twice on one page
-   with two meanings ships once (Saison 2 p203 "paraitre"); making the key translation-aware
-   would add 24 rows to the delivered Tricolore 1 (17) and 2 (7). Harshan to decide.
+   `reconcile --all`. **Fixed 2026-10-27:** `build_exports.load_vocab_entries` de-duplicated
+   on word + article + page and ignored `translation`, so a headword printed twice on one page
+   with two meanings shipped once. The key is now translation-aware: Saison 2 p203 "paraitre"
+   ships both meanings, and the delivered Tricolore 1 (+17) and 2 (+7) regain their second
+   meanings (une fille = daughter / girl, trouver = to find / to be situated ...). Additive
+   only; German unaffected (0 such rows). DELF Prim: Harshan parked it 2026-10-27.
 3. **DELF Prim:** parked until a complete copy is sourced (blocks on Harshan).
 4. **Deliver:** rebuild exports, run the gates, stamp a version, upload to Drive
    (batched until Saison 2 + Cosmopolite 5, unless Harshan wants the Pratique books sooner).

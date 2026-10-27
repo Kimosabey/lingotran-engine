@@ -29,16 +29,16 @@ and the per-book folders.
 |---|---|
 | `french-catalog-all.csv` | 2129 |
 | `french-questions-all.csv` | 31217 |
-| `french-vocabulary-all.csv` | 10497 |
+| `french-vocabulary-all.csv` | 10522 |
 
 ## Books
 
 | Book | Folder | Status | Pages | Questions | Words |
 |---|---|---|---|---|---|
 | Cosmopolite 1 - Methode de francais A1 * | `cosmopolite-a1-methode/` | included | 224 | 1751 | 1175 |
-| Tricolore 1 - 5e edition * | `tricolore-1-5th-edition/` | included | 180 | 2413 | 2728 |
-| Tricolore 2 - 5e edition * | `tricolore-2-5th-edition/` | included | 180 | 2750 | 1663 |
-| Saison 2 - Methode de francais A2-B1 * | `saison-2-methode/` | included | 215 | 1536 | 1116 |
+| Tricolore 1 - 5e edition * | `tricolore-1-5th-edition/` | included | 180 | 2413 | 2745 |
+| Tricolore 2 - 5e edition * | `tricolore-2-5th-edition/` | included | 180 | 2750 | 1670 |
+| Saison 2 - Methode de francais A2-B1 * | `saison-2-methode/` | included | 215 | 1536 | 1117 |
 | Cosmopolite 5 - Methode de francais C1-C2 * | `cosmopolite-5-c1c2/` | included | 226 | 1941 | 562 |
 | Reussir le DELF Prim A1.1 - A1 * | — | not yet processed | — | — | — |
 | Pratique Revision A1 - 690 exercices * | `pratique-revision-a1/` | included | 334 | 5730 | 1621 |
@@ -69,7 +69,6 @@ _* see Known limitations below._
 - **Saison 2 - Methode de francais A2-B1**: Fine print inside reproduced pictures (poster credits, logos, newspaper small lines, stamp imprints) that is unreadable at scan resolution is described in brackets rather than transcribed, and listed in each page's QA notes; it is not the book's own text.
 - **Saison 2 - Methode de francais A2-B1**: Page 44 (printed 42), activite 2c prints six options; the question schema holds five, so the sixth, 'les connaissances virtuelles', is not in option_a..option_e.
 - **Saison 2 - Methode de francais A2-B1**: Vocabulary: 426 entries come from the Lexique plurilingue (PDF 199-205) and carry the book's printed English translation and, where printed, gender; its Spanish, Portuguese, Chinese and Arabic columns are in the page transcriptions but have no column in the vocabulary sheet. The other 691 entries come from the units' Mots et expressions boxes and Point recap' mind maps and have no translation (the book prints none there).
-- **Saison 2 - Methode de francais A2-B1**: Vocabulary sheet: the Lexique plurilingue prints 'paraitre' twice on page 203 with two meanings ('to be published', 'to appear'); the exporter de-duplicates on word + article + page, so only one row ships. Both are in the vocabulary chunk. (Engine issue: the de-duplication key ignores translation; fixing it would also add 24 rows to Tricolore 1 and 2.)
 - **Cosmopolite 5 - Methode de francais C1-C2**: The listening transcripts ship in a separate booklet inserted in the printed book; it is not in this PDF, and the audio is not held. Listening items have no transcript or answer in this extraction.
 - **Cosmopolite 5 - Methode de francais C1-C2**: Source provenance: the PDF's producer metadata is 'calameodownload.com', meaning it was captured from the Calameo online viewer, not supplied as a publisher file or our own scan.
 - **Cosmopolite 5 - Methode de francais C1-C2**: Twelve pages keep a QA fail for fine print that cannot be read: 13 (an ink-worn acronym on a reproduced 1968 poster), 30 (one word on a book-cover imprint), 50 (role labels in a photo credit), 57 (two captions burned into a video still), 110 (film-poster credits), 122 (magazine-cover small print), 124 (a podcast date digit and player counter), 135 (a time in a radio-schedule line), 205 (small lines of a Libération front page), 207 (a stamp's printer line), 208 (an AOC poster's small print), 209 (a Vitale card's issue date). All are inside reproduced pictures or screenshots, not the book's own text; every exercise, reading text and answer on these pages is complete. Each spot is marked inline with a best guess in an `illegible` comment. No repair pass was run: the PDF's page images are only ~142 DPI (1173x1587 px, Calameo capture), so the 300 DPI renders are already upsampled and closer zooms cannot recover them.

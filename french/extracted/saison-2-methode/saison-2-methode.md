@@ -112,7 +112,6 @@
 - Fine print inside reproduced pictures (poster credits, logos, newspaper small lines, stamp imprints) that is unreadable at scan resolution is described in brackets rather than transcribed, and listed in each page's QA notes; it is not the book's own text.
 - Page 44 (printed 42), activite 2c prints six options; the question schema holds five, so the sixth, 'les connaissances virtuelles', is not in option_a..option_e.
 - Vocabulary: 426 entries come from the Lexique plurilingue (PDF 199-205) and carry the book's printed English translation and, where printed, gender; its Spanish, Portuguese, Chinese and Arabic columns are in the page transcriptions but have no column in the vocabulary sheet. The other 691 entries come from the units' Mots et expressions boxes and Point recap' mind maps and have no translation (the book prints none there).
-- Vocabulary sheet: the Lexique plurilingue prints 'paraitre' twice on page 203 with two meanings ('to be published', 'to appear'); the exporter de-duplicates on word + article + page, so only one row ships. Both are in the vocabulary chunk. (Engine issue: the de-duplication key ignores translation; fixing it would also add 24 rows to Tricolore 1 and 2.)
 - Vocabulary sheet: `plural` is empty throughout — this book prints none
 - Vocabulary sheet: `example` is filled for only 0% of entries — the book prints it rarely
 

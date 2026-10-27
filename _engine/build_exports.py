@@ -80,7 +80,11 @@ def load_vocab_entries(root, slug):
         except Exception:
             continue
         for e in data.get('entries', []):
-            key = (e.get('word', '').strip().lower(), e.get('article', ''), e.get('source_page', ''))
+            # The translation is part of the key: a glossary that prints one headword
+            # twice with two meanings (une fille = daughter / girl) is two entries,
+            # and keying on word + article + page alone shipped only the first.
+            key = (e.get('word', '').strip().lower(), e.get('article', ''), e.get('source_page', ''),
+                   ' '.join((e.get('translation') or '').split()).lower())
             if not key[0] or key in seen:
                 continue
             seen.add(key)

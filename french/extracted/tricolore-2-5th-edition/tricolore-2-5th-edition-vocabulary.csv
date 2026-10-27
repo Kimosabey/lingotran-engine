@@ -32,6 +32,7 @@ tricolore-2-5th-edition,deviner,to guess,,,,verb,,none,154
 tricolore-2-5th-edition,distractions,leisure events,les,,,noun,,hobby,154
 tricolore-2-5th-edition,distribuer,to give out,,,,verb,,none,154
 tricolore-2-5th-edition,effacer,to rub out,,,,verb,,none,154
+tricolore-2-5th-edition,effacer,to delete,,,,verb,,none,154
 tricolore-2-5th-edition,en classe,in school,,,,phrase,,school,154
 tricolore-2-5th-edition,en ligne,on line,,,,phrase,,none,154
 tricolore-2-5th-edition,en voyage,travel in general,,,,phrase,,none,154
@@ -1502,6 +1503,7 @@ tricolore-2-5th-edition,délicieux (délicieuse),delicious,,,,adjective,,none,17
 tricolore-2-5th-edition,désert,desert,un,,,noun,,none,174
 tricolore-2-5th-edition,détester,to hate,,,,verb,,none,174
 tricolore-2-5th-edition,dîner,dinner (evening meal),le,,,noun,,food,174
+tricolore-2-5th-edition,dîner,evening meal,le,,,noun,,food,174
 tricolore-2-5th-edition,"e-mail, un message (électronique), un mail",email,un,,,noun,,communication,174
 tricolore-2-5th-edition,effacer,to delete,,,,verb,,none,174
 tricolore-2-5th-edition,elle ne comprend pas,she doesn't understand,,,,phrase,,none,174
@@ -1527,13 +1529,16 @@ tricolore-2-5th-edition,feutre,felt-tip pen,un,,,noun,,none,174
 tricolore-2-5th-edition,fiche,form,une,,,noun,,none,174
 tricolore-2-5th-edition,fichier,file (computer),un,,,noun,,communication,174
 tricolore-2-5th-edition,fille,daughter,une,,,noun,,family,174
+tricolore-2-5th-edition,fille,girl,une,,,noun,,none,174
 tricolore-2-5th-edition,film,film,un,,,noun,,hobby,174
 tricolore-2-5th-edition,fin,end,la,,,noun,,none,174
 tricolore-2-5th-edition,finir,to end,,,,verb,,none,174
+tricolore-2-5th-edition,finir,to finish,,,,verb,,none,174
 tricolore-2-5th-edition,fleur,flower,une,,,noun,,none,174
 tricolore-2-5th-edition,flûte,flute,la,,,noun,,hobby,174
 tricolore-2-5th-edition,"football, le foot",football,le,,,noun,,health,174
 tricolore-2-5th-edition,frais (fraîche),cool,,,,adjective,,none,174
+tricolore-2-5th-edition,frais (fraîche),fresh,,,,adjective,,none,174
 tricolore-2-5th-edition,France,France,la,,,noun,,none,174
 tricolore-2-5th-edition,français,French,,,,adjective,,none,174
 tricolore-2-5th-edition,frigo,fridge,un,,,noun,,home,174
@@ -1605,6 +1610,7 @@ tricolore-2-5th-edition,placard,cupboard,un,,,noun,,home,174
 tricolore-2-5th-edition,plancher,floor,le,,,noun,,none,174
 tricolore-2-5th-edition,plat du jour,dish of the day,le,,,noun,,restaurant,174
 tricolore-2-5th-edition,point,dot,un,,,noun,,none,174
+tricolore-2-5th-edition,point,full stop,un,,,noun,,none,174
 tricolore-2-5th-edition,poisson,fish,le,,,noun,,food,174
 tricolore-2-5th-edition,poisson rouge,goldfish,un,,,noun,,none,174
 tricolore-2-5th-edition,porte,door,une,,,noun,,home,174
@@ -1637,6 +1643,7 @@ tricolore-2-5th-edition,se débrouiller,to cope,,,,verb,,none,174
 tricolore-2-5th-edition,se lever,to get up,,,,verb,,daily-routine,174
 tricolore-2-5th-edition,soir,evening,le,,,noun,,time-dates,174
 tricolore-2-5th-edition,"son, sa, ses",her,,,,phrase,,family,174
+tricolore-2-5th-edition,"son, sa, ses",his,,,,phrase,,family,174
 tricolore-2-5th-edition,sortie,exit,la,,,noun,,none,174
 tricolore-2-5th-edition,sortir,to go out,,,,verb,,none,174
 tricolore-2-5th-edition,surligner,to highlight,,,,verb,,none,174
