@@ -46,3 +46,8 @@ Michel Houellebecq, *Sérotonine*, éditions Flammarion, 2019.
 1. être au seuil de (exp.) : être à la limite de. 2. Parti français d'extrême droite. 3. effarement (n. m.) : stupéfaction.
 
 28 vingt-huit
+
+<!-- QA ISSUES:
+- transcribed from strip crops excluding a photo region (content-filter); all text captured. No photo of a person was actually found on this page: the only image is the Sérotonine book cover, read through tight crops. The earlier filter trip may have come from the passage itself.
+- a 5-letter word under the title on the book cover is too small to read at scan resolution (8x zoom is still pixels); best guess "roman", marked illegible inline. All exercise and literary text is complete.
+-->
