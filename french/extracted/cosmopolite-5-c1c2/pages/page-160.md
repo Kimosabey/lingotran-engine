@@ -47,7 +47,7 @@ Les militants de la décroissance se disent de gauche, mais veulent mettre les p
 [l. 65] […]
 
 **Peut-on faire l'écologie dans un seul pays ?**
-Il est avisé de décarboner l'économie, de diversifier nos sources d'énergie, de végétaliser nos villes ; mais il ne suffit pas de vouloir pour pouvoir. Les lobbys seuls, sans le politique, ne pourront ren-[l. 70]verser le dérèglement climatique. N'est-on pas dans l'impatience infantile du « tout, tout de suite » qui exige un chambardement immédiat du système ? D'autant que la France, à elle seule, ne pèse que très peu dans ce domaine : on sent chez beaucoup d'acteurs de l'écologie la volonté de pratiquer la vertu verte dans un seul pays, [l. 75] comme Staline voulait faire le socialisme dans une seule nation.
+Il est avisé de décarboner l'économie, de diversifier nos sources d'énergie, de végétaliser nos villes ; mais il ne suffit pas de vouloir pour pouvoir. Les lobbys seuls, sans le politique, ne pourront [l. 70]renverser le dérèglement climatique. N'est-on pas dans l'impatience infantile du « tout, tout de suite » qui exige un chambardement immédiat du système ? D'autant que la France, à elle seule, ne pèse que très peu dans ce domaine : on sent chez beaucoup d'acteurs de l'écologie la volonté de pratiquer la vertu verte dans un seul pays, [l. 75] comme Staline voulait faire le socialisme dans une seule nation.
 
 <!-- The article continues on the facing page (PDF p. 161); footnotes ¹ ² ³ and * are printed there. -->
 

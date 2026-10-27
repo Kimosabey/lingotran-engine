@@ -10,8 +10,8 @@
 | Metric | Count | %% |
 |---|---|---|
 | Units total | 2417 | 100% |
-| Transcribed | 2015 | 83% |
-| Verified | 1925 | 80% |
+| Transcribed | 2016 | 83% |
+| Verified | 1926 | 80% |
 
 ## cosmopolite-a1-methode  (`pdf/hachette-fle/cosmopolite-a1-methode/cosmopolite-a1-methode.pdf` - A1)
 
@@ -35,8 +35,8 @@
 
 ## cosmopolite-5-c1c2  (`pdf/hachette-fle/cosmopolite-5-c1c2/cosmopolite-5-c1c2.pdf` - C1-C2)
 
-- PDF pages: **226** | Transcribed: **225 (100%)** | Verified: **213 (94%)**
-- Next pending pages (1): page-002
+- PDF pages: **226** | Transcribed: **226 (100%)** | Verified: **214 (95%)**
+- No pending pages.
 
 ## reussir-delf-prim-a1  (`pdf/didier/reussir-delf-prim-a1/reussir-delf-prim-a1.pdf` - A1.1-A1)
 
