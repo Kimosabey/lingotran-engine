@@ -10,7 +10,7 @@ chapter: Unité 1
 status: verified
 qa: pass
 ---
-UNITÉ 1 • Aller à la rencontre des autres
+[Titre courant :] UNITÉ 1 • Aller à la rencontre des autres
 
 ## Grammaire
 

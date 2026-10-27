@@ -1,0 +1,1 @@
+{"page": 1, "ok": true, "missing_count": 0, "issues": ["cover with a large photo of a person: worked only from zoom.py strip/region crops (content-filter precaution), never the full image; central person region (x 0.45-0.78, y 0.55-0.95) not read, surrounding text all captured", "no folio printed on the cover; transcribed as front matter"]}

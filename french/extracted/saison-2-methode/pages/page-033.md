@@ -10,7 +10,7 @@ chapter: Unité 1
 status: verified
 qa: pass
 ---
-UNITÉ 1 • Aller à la rencontre des autres
+[Titre courant :] UNITÉ 1 • Aller à la rencontre des autres
 
 ### Poser des questions sur quelqu'un
 
@@ -33,12 +33,12 @@ Lisez les caractéristiques de ces 6 personnalités et listez les différents é
 
 a. Formez des groupes de trois ou quatre, puis écoutez la description de Benoît Poelvoorde.
 b. Chacun choisit un personnage et prépare sa description.
-c. Prononcez. [icône : prononciation]
+c. Prononcez. [icône : bouche]
 En fonction du personnage choisi (homme ou femme), faites attention à prononcer (ou non) la dernière consonne des adjectifs.
 
 **[A2 (inferred)]**
 
-**3** À vous ! [icône : bulle de dialogue]
+**3** À vous ! [icône : bulles de dialogue]
 
 Vous êtes maintenant votre personnage ! Votre groupe pose des questions pour deviner qui vous êtes. Vous répondez en utilisant les éléments de la description que vous avez préparée.
 

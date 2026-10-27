@@ -10,7 +10,7 @@ chapter: Unité 1
 status: verified
 qa: pass
 ---
-UNITÉ 1 • Aller à la rencontre des autres
+[Titre courant :] UNITÉ 1 • Aller à la rencontre des autres
 
 <!-- The "Vérifiez vos réponses" blocks are the book's answer/rule summaries for the Découvrir activities they cite. Orange colour highlighting of word endings and the underlining of auxiliaries/participles in the examples are not reproduced (no exercise refers to them). Dotted answer blanks are rendered as ___. -->
 

@@ -10,8 +10,8 @@
 | Metric | Count | %% |
 |---|---|---|
 | Units total | 2417 | 100% |
-| Transcribed | 2016 | 83% |
-| Verified | 1926 | 80% |
+| Transcribed | 2231 | 92% |
+| Verified | 2140 | 89% |
 
 ## cosmopolite-a1-methode  (`pdf/hachette-fle/cosmopolite-a1-methode/cosmopolite-a1-methode.pdf` - A1)
 
@@ -30,8 +30,8 @@
 
 ## saison-2-methode  (`pdf/didier/saison-2-methode/saison-2-methode.pdf` - A2-B1)
 
-- PDF pages: **215** | Transcribed: **0 (0%)** | Verified: **0 (0%)**
-- Next pending pages (215): page-001 ... page-215
+- PDF pages: **215** | Transcribed: **215 (100%)** | Verified: **214 (100%)**
+- No pending pages.
 
 ## cosmopolite-5-c1c2  (`pdf/hachette-fle/cosmopolite-5-c1c2/cosmopolite-5-c1c2.pdf` - C1-C2)
 

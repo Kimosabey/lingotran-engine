@@ -10,7 +10,7 @@ chapter: Unité 1
 status: verified
 qa: pass
 ---
-UNITÉ 1 • Aller à la rencontre des autres
+[Titre courant :] UNITÉ 1 • Aller à la rencontre des autres
 <!-- Running head is cut at the right edge of the scan after "des au"; completed from the identical running head on the facing pages. -->
 
 [Photo : une tasse de café sur sa soucoupe, sur une table de café. Par-dessus, une affiche :]

@@ -150,7 +150,7 @@
       ],
       "pdf": "pdf/didier/saison-2-methode/saison-2-methode.pdf",
       "book_type": "student-coursebook",
-      "status": "registered-not-started",
+      "status": "transcribed",
       "recon": {
         "checked": "2026-10-23: cover, title page, avant-propos, presentation spread, Module 1 contents page, footer page numbers sampled every 8 PDF pages and then page by page across PDF 60-76, back matter (Point recap, lexique plurilingue, transcriptions, credits, map, back cover); images were already rasterized on 2026-10-07, no transcription performed",
         "authors": "Marie-Noelle Cocton (coordination pedagogique), Anouchka De Oliveira, Anneline Dintilhac, Dorothee Dupleix (DELF), Delphine Ripaud (phonetique)",
@@ -170,7 +170,14 @@
         "note": "Student coursebook: answers live in the Didier guide pedagogique / cahier d'activites, which we do not hold, so a blank correct_answer is expected, not a gap."
       },
       "caveats": [
-        "SOURCE PDF IS MISSING printed pages 64-65 (unit 3, very likely its grammar exercise page, cited elsewhere as 'Verifiez et exercez-vous ... p. 65') and printed pages 76-77 (between unit 3's DELF A2 preparation and unit 4). Found at recon on 2026-10-23, before any transcription. Their content is absent from every export of this book."
+        "SOURCE PDF IS MISSING printed pages 64-65 (unit 3, very likely its grammar exercise page, cited elsewhere as 'Verifiez et exercez-vous ... p. 65') and printed pages 76-77 (between unit 3's DELF A2 preparation and unit 4). Found at recon on 2026-10-23, before any transcription. Their content is absent from every export of this book.",
+        "Page 200 (Lexique plurilingue): the Arabic cells for 'cout' and 'declarer' are too badly printed to read securely; each carries a best guess in an illegible comment. Everything else on the page is complete.",
+        "Lexique plurilingue (pages 199-205): the book typesets its Arabic column with unjoined letters in reversed order. Each Arabic cell is given as the word those letters spell, in normal right-to-left Unicode; the page files say so in a comment. The Chinese column is copied as printed.",
+        "Four pages (178, 207, 209, 212) stopped a transcription agent at the content filter and were transcribed from strip, column or band crops instead of the full image; none held a photo of a person (the filter reacted to text). Their QA notes record it. Unit openers and photo-heavy pages were read from strip crops from the start as a precaution.",
+        "Fine print inside reproduced pictures (poster credits, logos, newspaper small lines, stamp imprints) that is unreadable at scan resolution is described in brackets rather than transcribed, and listed in each page's QA notes; it is not the book's own text."
+      ],
+      "accepted_qa_gaps": [
+        200
       ]
     },
     {

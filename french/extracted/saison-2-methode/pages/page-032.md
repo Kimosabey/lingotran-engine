@@ -52,7 +52,7 @@ d. Comment font Caroline et Sophie lorsqu'elles rencontrent des gens ?
 
 **[A2 (inferred)]**
 
-**2** Exprimez vos difficultés ! [icône : bulle de dialogue]
+**2** Exprimez vos difficultés ! [icône : bulles de dialogue]
 
 a. Connaissez-vous des personnes hyperémotives ? Racontez.
 b. Et vous, quelles difficultés rencontrez-vous parfois avec les autres ?

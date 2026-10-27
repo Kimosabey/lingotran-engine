@@ -10,7 +10,7 @@ chapter: Unité 1
 status: verified
 qa: pass
 ---
-UNITÉ 1 • Aller à la rencontre des autres
+[Titre courant :] UNITÉ 1 • Aller à la rencontre des autres
 
 <!-- Continuation of "PRÉPARATION AU DELF A2" (S'ÉVALUER) from p. 38 (PDF 40): the questions of Partie 2, then Parties 3 and 4. Same conventions: "### PARTIE N — <épreuve>", "#### EXERCICE N – <title>" inside Partie 4, answer lines "___", tick boxes "☐". Section field = reading (first part on the page). -->
 
