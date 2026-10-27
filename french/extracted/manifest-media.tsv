@@ -903,14 +903,14 @@ cosmopolite-5-c1c2	page-102	pdf	verified	0	[chapter-opener, reading-text, speaki
 cosmopolite-5-c1c2	page-103	pdf	verified	0	[chapter-opener, speaking-prompt, illustration]	C1	speaking	pass	
 cosmopolite-5-c1c2	page-104	pdf	verified	0	[lesson, exercise, comprehension-questions, speaking-prompt, illustration]	C1	listening	pass	
 cosmopolite-5-c1c2	page-105	pdf	verified	0	[lesson, reading-text, exercise, comprehension-questions, speaking-prompt, writing-prompt]	C1	reading	pass	
-cosmopolite-5-c1c2	page-106	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-106	pdf	verified	0	[lesson, reading-text]	C1	reading	pass	
 cosmopolite-5-c1c2	page-107	pdf	verified	0	[lesson, exercise, comprehension-questions, speaking-prompt, writing-prompt]	C1	reading	pass	
-cosmopolite-5-c1c2	page-108	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-108	pdf	verified	0	[lesson, speaking-prompt, reading-text]	C1	reading	pass	
 cosmopolite-5-c1c2	page-109	pdf	verified	0	[lesson, exercise, comprehension-questions, speaking-prompt, writing-prompt, illustration]	C1	reading	pass	
 cosmopolite-5-c1c2	page-110	pdf	transcribed	0	[lesson, exercise, comprehension-questions, speaking-prompt, reading-text, table, illustration]	C1	reading	fail	
 cosmopolite-5-c1c2	page-111	pdf	verified	0	[lesson, reading-text, exercise, speaking-prompt, writing-prompt]	C1	reading	pass	
 cosmopolite-5-c1c2	page-112	pdf	verified	0	[vocabulary, review, exercise, reading-text, table]	C1	none	pass	
-cosmopolite-5-c1c2	page-113	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-113	pdf	verified	0	[vocabulary, review, exercise, table]	C1	none	pass	
 cosmopolite-5-c1c2	page-114	pdf	verified	0	[exercise, comprehension-questions, speaking-prompt, instructions]	C1	listening	pass	
 cosmopolite-5-c1c2	page-115	pdf	verified	0	[reading-text, speaking-prompt]	C1	speaking	pass	
 cosmopolite-5-c1c2	page-116	pdf	verified	0	[chapter-opener, speaking-prompt, illustration]	C2	speaking	pass	
@@ -934,7 +934,7 @@ cosmopolite-5-c1c2	page-133	pdf	verified	0	[lesson, reading-text, illustration]	
 cosmopolite-5-c1c2	page-134	pdf	verified	0	[lesson, reading-text]	C2	reading	pass	
 cosmopolite-5-c1c2	page-135	pdf	transcribed	0	[lesson, exercise, comprehension-questions, speaking-prompt, writing-prompt]	C2	listening	fail	
 cosmopolite-5-c1c2	page-136	pdf	verified	0	[lesson, reading-text]	C2	reading	pass	
-cosmopolite-5-c1c2	page-137	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-137	pdf	verified	0	[lesson, exercise, comprehension-questions, speaking-prompt, writing-prompt]	C2	listening	pass	
 cosmopolite-5-c1c2	page-138	pdf	verified	0	[vocabulary, review, exercise, reading-text]	C2	none	pass	
 cosmopolite-5-c1c2	page-139	pdf	verified	0	[vocabulary, review, exercise]	C2	none	pass	
 cosmopolite-5-c1c2	page-140	pdf	verified	0	[reading-text, instructions]	C2	reading	pass	
@@ -946,7 +946,7 @@ cosmopolite-5-c1c2	page-145	pdf	verified	0	[lesson, reading-text, writing-prompt
 cosmopolite-5-c1c2	page-146	pdf	verified	0	[lesson, speaking-prompt, comprehension-questions, exercise, writing-prompt]	C2	listening	pass	
 cosmopolite-5-c1c2	page-147	pdf	verified	0	[lesson, reading-text]	C2	reading	pass	
 cosmopolite-5-c1c2	page-148	pdf	verified	0	[lesson, speaking-prompt, reading-text, comprehension-questions, writing-prompt]	C2	reading	pass	
-cosmopolite-5-c1c2	page-149	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-149	pdf	verified	0	[lesson, reading-text, speaking-prompt, writing-prompt]	C2	reading	pass	
 cosmopolite-5-c1c2	page-150	pdf	verified	0	[lesson, exercise, comprehension-questions, speaking-prompt, writing-prompt]	C2	reading	pass	
 cosmopolite-5-c1c2	page-151	pdf	verified	0	[lesson, reading-text]	C2	reading	pass	
 cosmopolite-5-c1c2	page-152	pdf	verified	0	[vocabulary, review, exercise, reading-text]	C2	none	pass	
@@ -958,13 +958,13 @@ cosmopolite-5-c1c2	page-157	pdf	verified	0	[lesson, reading-text, speaking-promp
 cosmopolite-5-c1c2	page-158	pdf	verified	0	[lesson, exercise, comprehension-questions, speaking-prompt, writing-prompt]	C2	listening	pass	
 cosmopolite-5-c1c2	page-159	pdf	verified	0	[lesson, reading-text]	C2	reading	pass	
 cosmopolite-5-c1c2	page-160	pdf	verified	0	[lesson, speaking-prompt, reading-text]	C2	reading	pass	
-cosmopolite-5-c1c2	page-161	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-161	pdf	verified	0	[lesson, reading-text, exercise, comprehension-questions, writing-prompt, speaking-prompt]	C2	reading	pass	
 cosmopolite-5-c1c2	page-162	pdf	verified	0	[lesson, exercise, comprehension-questions, speaking-prompt, writing-prompt]	C2	reading	pass	
 cosmopolite-5-c1c2	page-163	pdf	verified	0	[lesson, reading-text]	C2	reading	pass	
 cosmopolite-5-c1c2	page-164	pdf	verified	0	[vocabulary, review, exercise, table]	C2	none	pass	
 cosmopolite-5-c1c2	page-165	pdf	verified	0	[vocabulary, review, exercise, reading-text, writing-prompt]	C2	none	pass	
-cosmopolite-5-c1c2	page-166	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-167	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-166	pdf	verified	0	[writing-prompt, instructions, reading-text]	C2	writing	pass	
+cosmopolite-5-c1c2	page-167	pdf	verified	0	[reading-text, writing-prompt, speaking-prompt, instructions]	C2	writing	pass	
 cosmopolite-5-c1c2	page-168	pdf	verified	0	[chapter-opener, toc]	C1	none	pass	
 cosmopolite-5-c1c2	page-169	pdf	verified	0	[chapter-opener, toc]	C1	none	pass	
 cosmopolite-5-c1c2	page-170	pdf	verified	0	[strategy-box, explanation, table]	C1	reading	pass	
@@ -982,48 +982,48 @@ cosmopolite-5-c1c2	page-181	pdf	verified	0	[strategy-box, explanation, writing-p
 cosmopolite-5-c1c2	page-182	pdf	verified	0	[strategy-box, explanation, writing-prompt]	C1	writing	pass	
 cosmopolite-5-c1c2	page-183	pdf	verified	0	[strategy-box, explanation, phonetics, speaking-prompt]	C1	speaking	pass	
 cosmopolite-5-c1c2	page-184	pdf	verified	0	[strategy-box, explanation]	C1	speaking	pass	
-cosmopolite-5-c1c2	page-185	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-185	pdf	verified	0	[strategy-box, explanation, speaking-prompt]	C1	speaking	pass	
 cosmopolite-5-c1c2	page-186	pdf	verified	0	[strategy-box, explanation, table, reference]	C1	listening	pass	
 cosmopolite-5-c1c2	page-187	pdf	verified	0	[strategy-box, explanation, instructions, exercise]	C1	listening	pass	
 cosmopolite-5-c1c2	page-188	pdf	verified	0	[strategy-box, explanation, table, reference]	C1	speaking	pass	
-cosmopolite-5-c1c2	page-189	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-190	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-191	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-189	pdf	verified	0	[strategy-box, explanation, exercise, speaking-prompt]	C1	speaking	pass	
+cosmopolite-5-c1c2	page-190	pdf	verified	0	[strategy-box, explanation, table]	C1	speaking	pass	
+cosmopolite-5-c1c2	page-191	pdf	verified	0	[strategy-box, explanation, exercise, speaking-prompt, reference]	C1	speaking	pass	
 cosmopolite-5-c1c2	page-192	pdf	verified	0	[strategy-box, reference, explanation]	C1	writing	pass	
 cosmopolite-5-c1c2	page-193	pdf	verified	0	[strategy-box, reference, explanation, table]	C1	writing	pass	
-cosmopolite-5-c1c2	page-194	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-195	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-196	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-197	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-194	pdf	verified	0	[reading-text, comprehension-questions, answer-key, illustration]	C1	reading	pass	
+cosmopolite-5-c1c2	page-195	pdf	verified	0	[reading-text, comprehension-questions, exercise, answer-key, illustration]	C1	reading	pass	
+cosmopolite-5-c1c2	page-196	pdf	verified	0	[reading-text, comprehension-questions, answer-key, illustration]	C1	reading	pass	
+cosmopolite-5-c1c2	page-197	pdf	verified	0	[reading-text, comprehension-questions, exercise, answer-key, illustration]	C1	reading	pass	
 cosmopolite-5-c1c2	page-198	pdf	verified	0	[reading-text, exercise, answer-key]	C1	reading	pass	
-cosmopolite-5-c1c2	page-199	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-200	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-201	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-202	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-203	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-204	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-205	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-206	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-207	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-208	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-209	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-210	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-211	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-212	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-213	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-214	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-215	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-216	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-217	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-218	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-219	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-220	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-221	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-222	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-223	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-224	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-225	pdf	pending	unknown		C1-C2		pending	
-cosmopolite-5-c1c2	page-226	pdf	pending	unknown		C1-C2		pending	
+cosmopolite-5-c1c2	page-199	pdf	verified	0	[reading-text, exercise, answer-key]	C1	reading	pass	
+cosmopolite-5-c1c2	page-200	pdf	verified	0	[reading-text, illustration]	C1	reading	pass	
+cosmopolite-5-c1c2	page-201	pdf	verified	0	[reading-text, exercise, table, answer-key]	C1	reading	pass	
+cosmopolite-5-c1c2	page-202	pdf	verified	0	[reading-text, exercise, answer-key]	C1	reading	pass	
+cosmopolite-5-c1c2	page-203	pdf	verified	0	[reading-text, exercise, answer-key]	C1	reading	pass	
+cosmopolite-5-c1c2	page-204	pdf	verified	0	[reference, explanation, reading-text, exercise, answer-key]	C1	reading	pass	
+cosmopolite-5-c1c2	page-205	pdf	transcribed	0	[reference, explanation, reading-text, exercise, answer-key]	C1	reading	fail	
+cosmopolite-5-c1c2	page-206	pdf	verified	0	[reference, explanation, reading-text, illustration]	C1	reading	pass	
+cosmopolite-5-c1c2	page-207	pdf	transcribed	0	[reference, explanation, reading-text, exercise, illustration, answer-key]	C1	reading	fail	
+cosmopolite-5-c1c2	page-208	pdf	transcribed	0	[reference, explanation, reading-text, exercise, illustration, answer-key]	C1	reading	fail	
+cosmopolite-5-c1c2	page-209	pdf	transcribed	0	[reference, explanation, reading-text, exercise, answer-key]	C1	reading	fail	
+cosmopolite-5-c1c2	page-210	pdf	verified	0	[reading-text, exercise, answer-key]	C1	reading	pass	
+cosmopolite-5-c1c2	page-211	pdf	verified	0	[reading-text, exercise, answer-key]	C1	reading	pass	
+cosmopolite-5-c1c2	page-212	pdf	verified	0	[instructions, listening-sheet, comprehension-questions, exercise]	C1	listening	pass	
+cosmopolite-5-c1c2	page-213	pdf	verified	0	[instructions, listening-sheet, comprehension-questions, exercise]	C1	listening	pass	
+cosmopolite-5-c1c2	page-214	pdf	verified	0	[instructions, reading-text]	C1	reading	pass	
+cosmopolite-5-c1c2	page-215	pdf	verified	0	[reading-text, comprehension-questions, exercise]	C1	reading	pass	
+cosmopolite-5-c1c2	page-216	pdf	verified	0	[writing-prompt, instructions, reading-text]	C1	writing	pass	
+cosmopolite-5-c1c2	page-217	pdf	verified	0	[reading-text, writing-prompt]	C1	writing	pass	
+cosmopolite-5-c1c2	page-218	pdf	verified	0	[speaking-prompt, instructions, reading-text]	C1	speaking	pass	
+cosmopolite-5-c1c2	page-219	pdf	verified	0	[reading-text]	C1	speaking	pass	
+cosmopolite-5-c1c2	page-220	pdf	verified	0	[instructions, speaking-prompt]	C2	speaking	pass	
+cosmopolite-5-c1c2	page-221	pdf	verified	0	[instructions, reading-text]	C2	reading	pass	
+cosmopolite-5-c1c2	page-222	pdf	verified	0	[reading-text]	C2	reading	pass	
+cosmopolite-5-c1c2	page-223	pdf	verified	0	[reading-text, illustration]	C2	reading	pass	
+cosmopolite-5-c1c2	page-224	pdf	verified	0	[reading-text, illustration]	C2	reading	pass	
+cosmopolite-5-c1c2	page-225	pdf	verified	0	[writing-prompt, instructions]	C2	writing	pass	
+cosmopolite-5-c1c2	page-226	pdf	verified	0	[reference]	C1	none	pass	
 reussir-delf-prim-a1	listening	audio	pending		listening-audio	A1.1-A1		pending	
 pratique-revision-a1	page-001	pdf	verified	0	[toc]	A1	none	pass	
 pratique-revision-a1	page-002	pdf	verified	0	[toc]	A1	none	pass	
